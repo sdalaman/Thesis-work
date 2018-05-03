@@ -1,0 +1,34 @@
+pour_fr comprendre_fr le_fr monde_fr dans_fr lequel_fr nous_fr vivons_fr ,_fr nous_fr racontons_fr des_fr histoires_fr ._fr
+alors_fr que_fr le_fr remixage_fr et_fr le_fr partage_fr ont_fr été_fr amenés_fr à_fr façonner_fr le_fr web_fr tel_fr que_fr nous_fr le_fr connaissons_fr aujourd'hui_fr ,_fr nous_fr pouvons_fr tous_fr faire_fr partie_fr de_fr cette_fr histoire_fr par_fr de_fr simples_fr outils_fr qui_fr nous_fr permettent_fr de_fr faire_fr des_fr choses_fr en_fr ligne_fr ._fr
+mais_fr la_fr vidéo_fr a_fr été_fr oubliée_fr ._fr elle_fr est_fr arrivée_fr sur_fr le_fr web_fr dans_fr une_fr petite_fr boîte_fr ,_fr et_fr elle_fr y_fr est_fr restée_fr ,_fr complètement_fr déconnectée_fr des_fr données_fr et_fr contenus_fr _UNK__fr ._fr
+en_fr effet_fr ,_fr en_fr un_fr peu_fr plus_fr d'une_fr décennie_fr ,_fr la_fr seule_fr chose_fr qui_fr ait_fr changé_fr pour_fr la_fr vidéo_fr est_fr la_fr taille_fr de_fr la_fr boîte_fr et_fr la_fr qualité_fr de_fr l'image_fr ._fr
+popcorn_fr change_fr tout_fr cela_fr ._fr
+il_fr s'agit_fr d'un_fr outil_fr en_fr ligne_fr qui_fr permet_fr à_fr toute_fr personne_fr de_fr combiner_fr de_fr la_fr vidéo_fr avec_fr du_fr contenu_fr tiré_fr en_fr temps_fr réel_fr directement_fr du_fr web_fr ._fr
+les_fr vidéos_fr créées_fr avec_fr popcorn_fr sont_fr comme_fr le_fr web_fr lui_fr -_fr même_fr :_fr dynamiques_fr ,_fr pleines_fr de_fr liens_fr ,_fr et_fr complètement_fr remixables_fr ,_fr et_fr pouvant_fr enfin_fr de_fr se_fr libérer_fr du_fr cadre_fr ._fr
+je_fr voudrais_fr vous_fr faire_fr la_fr démonstration_fr d'un_fr prototype_fr sur_fr lequel_fr nous_fr travaillons_fr et_fr que_fr nous_fr _UNK__fr cet_fr automne_fr ._fr
+cette_fr version_fr sera_fr complètement_fr gratuite_fr ,_fr et_fr marchera_fr sous_fr tous_fr les_fr navigateurs_fr ._fr
+toute_fr production_fr popcorn_fr commence_fr avec_fr la_fr vidéo_fr ,_fr et_fr donc_fr j'ai_fr fait_fr un_fr petit_fr clip_fr de_fr 20_fr secondes_fr en_fr utilisant_fr un_fr modèle_fr pour_fr présentateur_fr de_fr journal_fr que_fr nous_fr utilisons_fr en_fr atelier_fr ._fr
+regardons_fr -_fr le_fr ._fr on_fr y_fr reviendra_fr ,_fr et_fr je_fr vous_fr montrerai_fr comment_fr on_fr l'a_fr fait_fr ._fr
+bonjour_fr ,_fr et_fr bienvenue_fr à_fr mon_fr journal_fr télévisé_fr ._fr
+j'ai_fr ajouté_fr ma_fr localisation_fr à_fr travers_fr google_fr maps_fr ,_fr et_fr elle_fr est_fr actualisée_fr en_fr temps_fr réel_fr ,_fr donc_fr essayez_fr de_fr bouger_fr ._fr
+vous_fr pouvez_fr ajouter_fr des_fr pop_fr -_fr up_fr avec_fr les_fr liens_fr actifs_fr et_fr des_fr icônes_fr _UNK__fr ,_fr ou_fr importer_fr du_fr contenu_fr de_fr tout_fr service_fr en_fr ligne_fr ,_fr tel_fr que_fr flickr_fr ,_fr ou_fr ajouter_fr des_fr articles_fr et_fr des_fr billets_fr avec_fr des_fr liens_fr vers_fr le_fr contenu_fr complet_fr ._fr
+bon_fr ,_fr revenons_fr -_fr y_fr et_fr je_fr vous_fr montrerai_fr ce_fr que_fr vous_fr avez_fr vu_fr ._fr il_fr y_fr avait_fr beaucoup_fr de_fr choses_fr ._fr
+ceci_fr est_fr la_fr timeline_fr ,_fr et_fr si_fr vous_fr avez_fr déjà_fr édité_fr de_fr la_fr vidéo_fr ,_fr ceci_fr vous_fr est_fr familier_fr ,_fr mais_fr au_fr lieu_fr d'avoir_fr des_fr clips_fr dans_fr la_fr timeline_fr ,_fr nous_fr avons_fr des_fr éléments_fr du_fr web_fr qui_fr sont_fr importés_fr dans_fr la_fr vidéo_fr ._fr
+dans_fr cette_fr production_fr popcorn_fr ,_fr nous_fr avons_fr _UNK__fr ,_fr une_fr carte_fr google_fr maps_fr qui_fr apparaît_fr dans_fr l'image_fr ,_fr puis_fr popcorn_fr la_fr laisse_fr sortir_fr du_fr cadre_fr et_fr occuper_fr tout_fr l'écran_fr ._fr
+deux_fr pop_fr -_fr up_fr vous_fr apportent_fr d'autres_fr informations_fr ,_fr et_fr un_fr dernier_fr article_fr avec_fr un_fr lien_fr vers_fr l'article_fr original_fr ._fr
+voyons_fr cette_fr carte_fr google_fr ,_fr et_fr nous_fr verrons_fr comment_fr nous_fr pouvons_fr l'éditer_fr ._fr
+il_fr suffit_fr d'aller_fr dans_fr la_fr timeline_fr ,_fr de_fr double_fr -_fr cliquer_fr sur_fr l'élément_fr ,_fr et_fr je_fr l'ai_fr paramétré_fr sur_fr toronto_fr ,_fr puisque_fr je_fr viens_fr de_fr là_fr ._fr
+mettons_fr -_fr le_fr autre_fr chose_fr ._fr
+popcorn_fr va_fr immédiatement_fr sur_fr le_fr web_fr ,_fr parle_fr à_fr google_fr ,_fr saisit_fr la_fr carte_fr ,_fr et_fr la_fr met_fr dans_fr la_fr zone_fr d'affichage_fr ._fr
+et_fr c'est_fr exactement_fr la_fr même_fr chose_fr pour_fr les_fr personnes_fr qui_fr regardent_fr votre_fr production_fr ._fr
+c'est_fr en_fr direct_fr ._fr ce_fr n'est_fr pas_fr une_fr image_fr ._fr vous_fr cliquez_fr dessus_fr ,_fr vous_fr zoomez_fr ,_fr même_fr en_fr street_fr _UNK__fr si_fr vous_fr le_fr souhaitez_fr ._fr
+dans_fr la_fr vidéo_fr ,_fr j'ai_fr évoqué_fr l'ajout_fr d'un_fr flux_fr ,_fr ce_fr que_fr nous_fr allons_fr faire_fr ,_fr donc_fr ajoutons_fr un_fr flux_fr de_fr flickr_fr ._fr allez_fr à_fr droite_fr ,_fr choisissez_fr flickr_fr de_fr la_fr liste_fr d'options_fr ,_fr glissez_fr -_fr le_fr dans_fr la_fr timeline_fr ,_fr mettez_fr -_fr le_fr où_fr vous_fr le_fr souhaitez_fr ,_fr et_fr il_fr va_fr immédiatement_fr sur_fr flickr_fr et_fr commence_fr à_fr importer_fr les_fr images_fr basées_fr sur_fr les_fr tags_fr ._fr mes_fr développeurs_fr aiment_fr beaucoup_fr les_fr poneys_fr ,_fr et_fr donc_fr ils_fr ont_fr mis_fr cela_fr comme_fr tag_fr par_fr défaut_fr ._fr
+essayons_fr autre_fr chose_fr ,_fr peut_fr -_fr être_fr quelque_fr chose_fr en_fr rapport_fr à_fr aujourd'hui_fr ._fr
+voici_fr les_fr images_fr _UNK__fr en_fr direct_fr du_fr flux_fr ._fr
+si_fr vous_fr revenez_fr voir_fr ceci_fr dans_fr une_fr semaine_fr ,_fr ça_fr sera_fr complètement_fr différent_fr ,_fr dynamique_fr ,_fr tout_fr comme_fr le_fr web_fr ,_fr et_fr tout_fr comme_fr le_fr web_fr ,_fr tout_fr a_fr une_fr source_fr ,_fr donc_fr cliquez_fr sur_fr le_fr lien_fr ,_fr et_fr vous_fr allez_fr directement_fr sur_fr flickr_fr voir_fr l'image_fr d'origine_fr ._fr
+tout_fr ce_fr que_fr vous_fr voyez_fr aujourd'hui_fr est_fr fait_fr avec_fr les_fr bases_fr de_fr construction_fr du_fr web_fr :_fr du_fr html_fr ,_fr _UNK__fr et_fr javascript_fr ._fr
+ce_fr qui_fr veut_fr dire_fr que_fr c'est_fr complètement_fr _UNK__fr ._fr
+et_fr qu'il_fr n'y_fr a_fr pas_fr de_fr logiciel_fr propriétaire_fr ._fr vous_fr n'avez_fr besoin_fr que_fr d'un_fr navigateur_fr web_fr ._fr
+imaginez_fr si_fr toutes_fr les_fr vidéos_fr que_fr nous_fr regardions_fr sur_fr le_fr web_fr marchaient_fr comme_fr le_fr web_fr ,_fr seraient_fr complètement_fr remixables_fr ,_fr liées_fr au_fr contenu_fr d'origine_fr ,_fr et_fr interactives_fr pour_fr toute_fr personne_fr qui_fr les_fr regarderait_fr ._fr
+je_fr pense_fr que_fr popcorn_fr pourrait_fr changer_fr la_fr façon_fr dont_fr nous_fr racontons_fr les_fr histoires_fr sur_fr le_fr web_fr ,_fr et_fr la_fr façon_fr dont_fr nous_fr comprenons_fr le_fr monde_fr dans_fr lequel_fr nous_fr vivons_fr ._fr
+merci_fr ._fr

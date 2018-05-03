@@ -1,0 +1,98 @@
+bir	çoğumuz	araba	sürmeyi	sadece	_UNK_	ayrılmış	bir	faaliyet	olarak	algılar	.
+şimdiye	kadar	güvenli	ve	istediği	gibi	bir	araç	sürmenin	imkansız	bir	şey	olduğu	düşünüldü	.
+merhaba	,	adım	dennis	hong	,	ve	biz	görme	yetisi	olmayanlar	için	bir	araç	yaparak	onlara	özgürlük	ve	bağımsızlık	getiriyoruz	.
+bu	arabayla	ilgili	konuşmama	başlamadan	önce	,	size	kısaca	daha	önce	çalışmış	olduğum	darpa	şehir	yarışı	diye	adlandırılan	bir	projeden	bahsedeceğim	.
+şimdi	burada	kendi	kendine	gidebilen	bir	robot	araç	yapılıyor	.
+_UNK_	basıyorsunuz	,	kimse	hiçbir	şeye	_UNK_	,	ve	hedefine	tamamen	otomatik	olarak	ulaşıyor	.
+ve	2007	yılında	,	takımımız	bu	yarışmada	üçüncü	olarak	yarım	milyon	dolar	kazandı	.
+o	zamandan	beri	,	ulusal	körler	federasyonu	,	yada	_UNK_	,	görme	yetisi	olmayanlar	için	güvenli	ve	bağımsız	bu	arabayı	kim	yapabilir	diye	araştırma	komitesine	davette	bulundu	.
+bizler	de	denemeye	karar	verdik	,	çünkü	biz	,	ne	kadar	zor	olabilir	ki	,	diye	düşünüyorduk	.
+bizim	zaten	kendi	kendini	süren	bir	aracımız	var	.
+i̇çine	sadece	görme	yetisi	olmayan	birisini	_UNK_	ve	oldu	,	değil	mi	?
+bundan	daha	kötü	_UNK_	.
+_UNK_	aradığı	göremeyen	insanı	etrafta	_UNK_	bir	araç	değildi	,	göremeyen	insanın	karar	verebileceği	ve	_UNK_	bir	_UNK_	.
+ve	herşeyi	camdan	dışarı	atarak	en	baştan	başladık	.
+bu	çılgın	fikri	denemek	ve	_UNK_	araştırmak	için	kücük	bir	prototip	araç	geliştirdik	.
+2009	yazında	,	ülkenin	çeşitli	yerlerinden	onlarca	göremeyen	genci	deneme	yapmaları	için	davet	ettik	ve	onlara	bir	imkan	tanıdık	.
+bu	kesinlikle	müthiş	bir	deneyim	oldu	.
+ama	arabada	ki	sorun	şuydu	sadece	düz	bir	kapalı	otoparkta	,	çok	kontrollü	bir	ortamda	_UNK_	üzere	tasarlanmıştı	--	hatta	kırmızı	trafik	konileri	ile	şeritler	vardı	.
+bu	başarıyla	,	bundan	sonraki	büyük	adımı	atmaya	yani	gerçek	yollarda	,	gerçek	bir	araba	geliştirmeye	karar	verdik	.
+peki	nasıl	_UNK_	?
+bu	oldukça	karmaşık	bir	sistem	,	ama	belki	_UNK_	anlatmayı	deneyebilirim	.
+ü	ç	_UNK_	var	.
+algılama	,	hesaplama	ve	görsel	olmayan	arayüzler	.
+şimdi	besbelli	sürücü	göremiyor	,	bu	yüzden	sistemin	çevreyi	algılaması	gerekiyor	ki	sürücü	için	bilgi	_UNK_	.
+bunun	için	,	bir	ilk	ölçü	birimi	kullanmalıyız	.
+böylece	ivme	ve	açısal	ivme	ölçer	--	bir	insan	kulağı	gibi	,	iç	kulak	gibi	.
+arabanın	tahmini	yerini	bulmak	için	bu	bilgiyi	bir	gps	ünitesine	aktarıyoruz	.
+yolun	şeritlerini	algılamak	için	iki	kamera	kullanıyoruz	.
+ve	ü	ç	tane	lazerle	mesafe	ölçme	cihazı	kullanıyoruz	.
+_UNK_	çevreyi	tarayarak	engelleri	belirliyor	--	önden	,	arkadan	yaklaşan	araba	ve	yoldaki	herhangi	bir	engel	,	aracın	etrafındaki	herhangi	bir	engel	için	.
+böylece	büyük	miktardaki	tüm	bu	veriler	bilgisayara	gönderilir	,	ve	bilgisayar	iki	iş	yapar	.
+birincisi	,	verileri	işleyerek	çevre	hakkında	bilgi	edinmek	--	bunlar	yol	şeritleri	,	bunlar	engeller	--	ve	bilgiler	sürücüye	iletilir	.
+sistem	güvenli	yolun	ne	olduğunu	anlayarak	arabayı	yönetebilecek	kadar	zekidir	.
+bu	sayede	aracı	yönetmek	için	gereken	talimatları	oluşturabilirsiniz	.
+ama	sorun	şu	:	görmeyen	bir	insana	nasıl	yeterince	hızlı	ve	doğru	bir	şekilde	bilgileri	ve	talimatları	_UNK_	ki	arabayı	_UNK_	?
+bundan	dolayı	,	çok	farklı	türlerde	görsel	olmayan	kullanıcı	arayüzü	teknolojisi	geliştirdik	.
+böylece	ü	ç	boyutlu	bir	uyarı	ses	sistemi	kurduk	,	bir	_UNK_	yelek	,	ses	komutları	ile	çalışan	tekerlek	,	bir	bacak	şeridi	,	hatta	ayağa	basınç	uygulayan	bir	ayakkabı	.
+ama	bugün	bu	ü	ç	görsel	olmayan	kullanıcı	arayüzü	hakkında	konuşacağım	.
+birinci	arayüz	sürücü	kavrama	.
+bu	bir	çift	eldiven	,	ve	bilek	kısmında	titreşim	veriyor	,	bu	sayede	yön	ve	şiddet	konusunda	nasıl	_UNK_	hakkında	talimatlar	alabilirsiniz	.
+bir	başka	cihaz	hız	şeridi	.
+yani	bu	bir	sandalye	--	i̇şin	aslı	,	bu	bir	masaj	koltuğu	.
+dışarı	aldık	ve	farklı	_UNK_	titreşim	sensörleri	ile	yeniden	düzenledik	.	ve	onları	harekete	geçirerek	hız	hakkında	ve	ayrıca	talimatlar	ile	nasıl	gaz	ve	fren	pedalını	kullanacakları	bilgisini	aktarıyoruz	.
+burada	,	bilgisayar	çevreyi	nasıl	algılıyor	görebilirsiniz	.	aslında	burada	sürücüye	kırmızı	bir	led	koyduk	ki	neler	olduğunu	görebilsin	çünkü	titreşimi	göremiyorsunuz	.
+bu	sensörlerden	gelen	veri	,	ve	bu	veri	bilgisayar	yardımıyla	cihazlara	iletiliyor	.
+bu	iki	cihaz	,	sürücü	kavrama	ve	hız	şeridi	çok	_UNK_	.
+ama	sorun	şu	ki	,	bunlar	talimat	amaçlı	işaret	_UNK_	.
+bu	gerçekten	özgürlük	değil	,	değil	mi	?
+bilgisayar	size	nasıl	kullanacağınızı	söylüyor	--	sola	dön	,	sağa	dön	,	_UNK_	,	dur	.
+buna	arka	koltuk	sürücüsü	sorunu	diyoruz	.
+sonuç	olarak	talimat	amaçlı	işaret	cihazlarını	kaldırdık	.	ve	bilgilendirme	amaçlı	cihazlara	daha	fazla	yoğunlaştık	.
+airpix	olarak	adlandırılan	görsel	olmayan	kullanıcı	arayüzü	bilgilendirme	için	iyi	bir	örnek	.
+bunu	göremeyenler	için	bir	monitör	olarak	düşünebilirsiniz	.
+bu	küçük	bir	tablet	,	birçok	deliği	vardır	,	sıkıştırılmış	hava	çıkar	,	sanki	resim	_UNK_	gibi	.
+yani	göremeyen	birisi	olsanız	bile	elinizi	bunun	üzerine	koyabilirsiniz	,	yol	şeritlerini	ve	engelleri	görebilirsiniz	.
+aslına	bakarsanız	çıkan	havanın	frekansını	ve	sıcaklığını	değiştirme	imkanınız	var	.
+sonuç	olarak	,	çok	boyutlu	bir	kullanıcı	arayüzü	.
+burada	aracın	solundaki	ve	sağındaki	kameraları	ve	bilgisayarın	nasıl	yorumlayıp	,	_UNK_	bu	bilgileri	gönderdiğini	görebilirsiniz	.
+burada	airpix	kullanarak	araba	süren	,	göremeyen	bir	kişinin	simülatörü	.
+bu	_UNK_	farklı	fikirler	için	farklı	_UNK_	görsel	olmayan	kullanıcı	arayüzleri	için	hızlı	bir	test	süreci	sağladı	ve	görmeyen	sürücülerin	eğitimi	için	çok	faydalı	oldu	.
+bu	basitçe	nasıl	_UNK_	.
+yaklaşık	bir	ay	önce	29	ocakta	,	bu	aracı	ilk	defa	rolex	24	yarışı	sırasında	dünyaca	ünlü	_UNK_	international	_UNK_	halka	tanıttık	.
+ve	bazı	_UNK_	vardı	.	bir	göz	atalım	.
+_UNK_	:	bu	tarihi	bir	gün	[	ses	net	değil	]	.
+dostumuz	_UNK_	yaklaşıyor	.
+ve	şimdi	_UNK_	önünden	geçiyor	.
+önündeki	minibüsü	takip	ediyor	[	ses	net	değil	]	.
+i̇lk	kutuda	geliyor	.
+bakalım	mark	onu	farkedebilecek	mi	?
+evet	.	sağından	geçti	.
+üçüncü	kutu	atıldı	.	dördüncü	kutu	atıldı	.
+ve	mükemmel	bir	şekilde	ikisinin	arasından	da	geçiyor	.
+minibüsü	geçmek	için	ona	yaklaşıyor	.
+aslında	bu	tam	anlamıyla	cesaret	ve	becerinin	enerjik	bir	ürünü	.
+yolunun	sonuna	yaklaşıyor	,	dizilmiş	_UNK_	arasından	geçiyor	.
+dennis	hong	:	senin	adına	çok	mutluyum	.
+mark	beni	otele	geri	götürecek	.
+mark	_UNK_	:	evet	.
+dh	:	projeyi	_UNK_	beri	,	dünyanın	her	tarafındaki	insanlardan	yüzlerce	mektup	,	e-posta	,	telefon	alıyoruz	.
+teşekkür	eden	mektuplar	,	ama	bazen	de	bunun	gibi	komik	mektuplar	alıyorsunuz	:	``	şimdi	atm	makinesinin	üzerinde	neden	braille	alfabesi	olduğunu	anladım	,	onu	sürmek	için	.	``
+ama	bazen	--	ama	bazen	nefret	içerikli	_UNK_	fakat	ciddi	endişe	dolu	mektuplar	alıyorum	:	``	dr.	hong	,	_UNK_	mi	?	bu	insanları	yollara	çıkarmayı	deneyerek	.
+kesinlikle	aklınızı	kaçırmış	olmalısınız	.	``
+ama	bu	araç	bir	prototip	,	ve	ta	ki	bugün	ki	araçlardan	güvenli	yada	daha	güvenli	olana	kadar	yollarda	olmayacak	.
+ve	ben	inanıyorum	ki	bir	gün	gerçekleşecek	.
+ama	yine	de	toplum	,	böyle	radikal	bir	fikiri	kabul	edecek	mi	?
+sigorta	işini	nasıl	halledeceğiz	?
+sürücü	_UNK_	nasıl	alacağız	?
+bu	gerçeğe	dönüşmeden	önce	ele	alınması	gereken	bir	çok	farklı	teknolojik	zorluklar	var	.
+tabii	ki	bu	projedeki	asıl	amacımız	göremeyenler	için	araba	geliştirmek	.
+ama	potansiyel	olarak	projeden	ortaya	çıkabilecek	olan	teknolojinin	muazzam	değeri	bundan	daha	önemlidir	.
+karanlık	,	sis	ve	yağmurda	sensörler	kullanılabilir	.
+ve	bu	yeni	tip	_UNK_	,	bu	teknolojileri	kullanabilir	ve	görebilen	insanların	daha	güvenli	arabalar	kullanmasını	sağlayabiliriz	.
+ya	da	_UNK_	kullandıkları	günlük	ev	aletleri	için	--	eğitim	ortamında	,	ofis	ortamında	.
+sadece	hayal	edin	,	bir	sınıfta	bir	öğretmen	tahtaya	yazıyor	ve	göremeyen	bu	öğrenci	görsel	olmayan	arayüzleri	kullanarak	yazılanları	görebiliyor	ve	okuyabiliyor	.
+bu	paha	biçilemez	.
+bu	yüzden	bugün	,	sizlere	gösterdiklerim	,	sadece	bir	başlangıç	.
+çok	teşekkür	ederim	.
+

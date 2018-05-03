@@ -1,0 +1,76 @@
+je	suis	 vrai 	 ment 	 	content	 d' 	 être 	 	ici	aujourd'hui	,	pour	vous	 montre 	 r 	 	ce	qui	va	tout	juste	de	sortir	de	 no 	 s 	 	 labo 	 ratoire 	 s 	 	,	 littéral 	 ement 	 	,	 e 	 t 	 	je	suis	heureux	que	vous	 s 	 oyez 	 	les	 premier 	 s 	 	à	pouvoir	le	voir	en	direct	,	car	je	pense	 vrai 	 ment 	 	que	cela	va	 change 	 r 	 	--	 vrai 	 ment 	 	 change 	 r 	 	--	 not 	 re 	 	 man 	 ière 	 	 d' 	 interagir 	 	avec	les	 machine 	 s 	 	.
+voici	une	table	à	dessin	rétro	-	 projet 	 ée 	 	.	elle	fait	91	cm	de	diagonale	,	 e 	 t 	 	est	 équipé 	 e 	 	 d' 	 un 	 	 capte 	 ur 	 	multi	-	 point 	 s 	 	.	les	 capte 	 urs 	 	 tactile 	 s 	 	 ordinaire 	 s 	 	,	 présent 	 s 	 	dans	les	 borne 	 s 	 	ou	les	 table 	 aux 	 	 blanc 	 s 	 	 inter 	 actif 	 s 	 	,	ne	peuvent	 capte 	 r 	 	qu'un	seul	point	à	la	fois	.
+ ce 	 ci 	 	vous	permet	de	 capte 	 r 	 	plusieurs	 point 	 s 	 	à	la	fois	.
+je	peux	utiliser	mes	deux	 main 	 s 	 	,	je	peux	faire	un	accord	,	ou	encore	 mi 	 eux 	 	utiliser	mes	dix	 doigt 	 s 	 	à	la	fois	.
+comme	cela	.
+les	 capte 	 urs 	 	multi	-	 point 	 s 	 	ne	 s 	 ont 	 	pas	 complète 	 ment 	 	 nouveau 	 x 	 	.
+des	 personne 	 s 	 	comme	bill	buxton	s'en	 s 	 ont 	 	servi	dans	les	 année 	 s 	 	80	.
+ ce 	 pendant 	 	,	mon	approche	 s 	 e 	 	sert	de	la	haute	 ré 	 solution 	 	,	est	peu	chère	,	 e 	 t 	 	 sûr 	 ement 	 	le	plus	important	,	très	évolutive	.
+la	chose	la	plus	 excitant 	 e 	 	ici	n'est	donc	pas	la	technologie	,	 mai 	 s 	 	 sur 	 tout 	 	les	 nouvelle 	 s 	 	 possibilité 	 s 	 	 d' 	 accès 	 	.
+ce	qui	est	 vrai 	 ment 	 	intéressant	est	ce	que	 l' 	 on 	 	peut	en	faire	,	 e 	 t 	 	le	type	 d' 	 interface 	 s 	 	que	 l' 	 on 	 	peut	 construi 	 re 	 	.	voyons	ça	.
+par	exemple	,	voici	une	application	de	lampe	à	lave	.	vous	voyez	,	 j' 	 utilise 	 	mes	deux	 main 	 s 	 	pour	 presse 	 r 	 	les	 bulle 	 s 	 	de	lave	les	 une 	 s 	 	contre	les	 autre 	 s 	 	.
+je	peux	 injecte 	 r 	 	de	la	chaleur	dans	le	système	,	ou	le	 divise 	 r 	 	avec	deux	 doigt 	 s 	 	.
+c'est	 complète 	 ment 	 	intuitif	,	il	 n' 	 y 	 	a	pas	de	mode	 d' 	 emploi 	 	.
+ l' 	 interface 	 	 dev 	 ient 	 	 trans 	 parent 	 e 	 	.
+ ce 	 ci 	 	a	 début 	 é 	 	sous	la	forme	 d' 	 un 	 	 économise 	 ur 	 	 d' 	 écran 	 	fait	par	un	des	 étudiant 	 s 	 	de	 not 	 re 	 	 labo 	 ratoire 	 	,	_UNK_	rosenberg	.	 mai 	 s 	 	 s 	 a 	 	 véri 	 table 	 	identité	émerge	ici	.
+ce	qui	est	génial	dans	un	 capte 	 ur 	 	multi	-	point	,	c'est	que	je	peux	faire	cela	avec	autant	de	 doigt 	 s 	 	que	je	veux	,	 mai 	 s 	 	aussi	,	sous	-	entendu	,	avec	plusieurs	 utilisateur 	 s 	 	.
+chris	peut	donc	interagir	avec	une	autre	 parti 	 e 	 	de	la	lave	,	pendant	que	je	joue	ici	.	on	peut	imaginer	un	 nou 	 vel 	 	outil	de	 sculpt 	 ure 	 	,	en	 chauff 	 ant 	 	la	matière	,	la	 rend 	 ant 	 	 mallé 	 able 	 	,	puis	en	la	 laiss 	 ant 	 	 refroidi 	 r 	 	 e 	 t 	 	 s 	 e 	 	 solid 	 ifier 	 	dans	un	certain	état	.
+google	 dev 	 rait 	 	avoir	quelque	chose	comme	ça	dans	leur	hall	.
+je	vais	vous	 montre 	 r 	 	--	un	exemple	un	peu	plus	concret	,	pendant	que	cela	charge	.
+voici	une	application	de	table	 lumi 	 neuse 	 	pour	 photo 	 graphe 	 	.
+ici	encore	,	je	peux	utiliser	mes	deux	 main 	 s 	 	pour	interagir	 e 	 t 	 	 bouge 	 r 	 	les	 photo 	 s 	 	.
+encore	 mi 	 eux 	 	:	avec	deux	 doigt 	 s 	 	,	je	peux	prendre	une	photo	 e 	 t 	 	 l' 	 étirer 	 	comme	cela	très	 facile 	 ment 	 	.
+je	peux	faire	un	 panoram 	 ique 	 	,	 zoome 	 r 	 	ou	la	 tourne 	 r 	 	sans	effort	.
+je	peux	faire	cela	 grossi 	 ère 	 ment 	 	avec	mes	deux	 main 	 s 	 	,	ou	juste	avec	deux	 doigt 	 s 	 	de	 chacun 	 e 	 	de	mes	 main 	 s 	 	en	même	temps	.
+si	je	 prend 	 s 	 	 l' 	 ensemble 	 	,	je	peux	faire	la	même	chose	--	 l' 	 étirer 	 	.
+je	peux	le	faire	en	même	temps	,	où	je	 t 	 iens 	 	 ce 	 ci 	 	en	bas	,	 e 	 t 	 	je	 saisi 	 s 	 	 l' 	 autre 	 	côté	,	en	_UNK_	ainsi	.
+a	nouveau	,	 l' 	 interface 	 	 dev 	 ient 	 	 trans 	 parent 	 e 	 	.
+pas	de	mode	 d' 	 emploi 	 	.	c'est	 exacte 	 ment 	 	que	 l' 	 on 	 	attend	,	 sur 	 tout 	 	si	vous	ne	vous	êtes	jamais	servi	 d' 	 un 	 	ordinateur	auparavant	.
+avec	des	 initiative 	 s 	 	comme	 l' 	 ordinateur 	 	à	100	 dollar 	 s 	 	,	 l' 	 idée 	 	me	_UNK_	que	nous	 cré 	 ions 	 	une	nouvelle	génération	 d' 	 utilisateur 	 s 	 	 s 	 e 	 	 serv 	 ant 	 	de	 l' 	 interface 	 	standard	que	 s 	 ont 	 	la	 souri 	 s 	 	 e 	 t 	 	les	 fenêtre 	 s 	 	.
+je	pense	que	 ce 	 ci 	 	est	 vrai 	 ment 	 	la	 man 	 ière 	 	 do 	 nt 	 	nous	 dev 	 rions 	 	interagir	avec	les	 machine 	 s 	 	 dés 	 ormais 	 	.
+bien	sûr	,	je	peux	 ajoute 	 r 	 	un	 cla 	 vier 	 	.
+ e 	 t 	 	cela	aussi	,	 place 	 r 	 	cela	ici	,	 e 	 t 	 	ça	là	.
+évidemment	,	c'est	un	 cla 	 vier 	 	standard	,	 mai 	 s 	 	je	peux	le	 re 	 dimension 	 ner 	 	pour	qu'il	soit	adapté	à	mes	 main 	 s 	 	.
+c'est	 vrai 	 ment 	 	important	,	il	 n' 	 y 	 	a	plus	de	raison	de	 no 	 s 	 	 jour 	 s 	 	pour	que	nous	 soy 	 ons 	 	 obligé 	 s 	 	de	 not 	 re 	 	adapter	à	un	équipement	.
+cela	peut	générer	des	 trouble 	 s 	 	_UNK_	.
+la	technologie	étant	si	 présent 	 e 	 	de	 no 	 s 	 	 jour 	 s 	 	,	les	 interface 	 s 	 	 dev 	 raient 	 	 commence 	 r 	 	à	 s' 	 adapter 	 	à	nous	.
+très	peu	a	été	fait	pour	améliorer	la	 man 	 ière 	 	 d' 	 interagir 	 	avec	les	 interface 	 s 	 	de	travail	.
+ce	 cla 	 vier 	 	ne	va	très	 certain 	 ement 	 	pas	dans	la	bonne	direction	.
+vous	 pouv 	 ez 	 	imaginer	,	plus	tard	,	quand	 ce 	 tte 	 	technologie	 s 	 era 	 	mature	,	un	 cla 	 vier 	 	qui	dérive	en	même	temps	que	 vo 	 s 	 	 main 	 s 	 	 s 	 e 	 	 déplace 	 nt 	 	,	qui	 anticip 	 e 	 	 in 	 tellig 	 emment 	 	sur	quelle	touche	vous	essayez	de	 tape 	 r 	 	.
+n'est	-	ce	pas	génial	?
+public	:	où	est	 vot 	 re 	 	 labo 	 ratoire 	 	?
+jeff	han	:	je	suis	un	 cherche 	 ur 	 	de	 l' 	 université 	 	de	new	york	.
+voici	un	autre	exemple	 d' 	 application 	 	.	prenez	 ce 	 s 	 	 petite 	 s 	 	 boule 	 s 	 	.
+elles	_UNK_	mes	 mouvement 	 s 	 	.	bien	sûr	,	je	peux	le	faire	avec	mes	deux	 main 	 s 	 	.
+elles	 s 	 ont 	 	 sensible 	 s 	 	à	la	pression	,	comme	vous	le	voyez	.
+ mai 	 s 	 	ce	qui	super	,	à	nouveau	,	c'est	ce	geste	avec	deux	 doigt 	 s 	 	pour	 zoome 	 r 	 	très	 rapide 	 ment 	 	.	 puisqu 	 e 	 	vous	 n' 	 avez 	 	pas	à	passer	sur	un	outil	manuel	ou	la	 loup 	 e 	 	,	vous	 pouv 	 ez 	 	faire	des	 chose 	 s 	 	sans	vous	 arrête 	 r 	 	,	à	plusieurs	 échelle 	 s 	 	,	en	même	temps	.
+je	peux	créer	de	 grand 	 s 	 	 objet 	 s 	 	ici	,	 mai 	 s 	 	je	peux	 retourne 	 r 	 	très	vite	au	début	,	 e 	 t 	 	créer	des	 objet 	 s 	 	encore	plus	petits	ici	.
+ ce 	 ci 	 	va	 de 	 venir 	 	très	important	avec	le	 développe 	 ment 	 	de	la	 visual 	 isation 	 	des	 donné 	 es 	 	.	par	exemple	,	 r 	 appelez 	 	-	vous	la	 présent 	 ation 	 	de	hans	rosling	où	il	a	 vrai 	 ment 	 	mis	 l' 	 accent 	 	sur	ce	que	je	pense	 de 	 puis 	 	 long 	 temps 	 	:	nous	avons	des	 donné 	 es 	 	 nombre 	 uses 	 	,	 mai 	 s 	 	,	pour	 divers 	 es 	 	 rais 	 ons 	 	,	 in 	 exploité 	 es 	 	.
+nous	 n' 	 y 	 	 accéd 	 ons 	 	pas	 vrai 	 ment 	 	.	c'est	pourquoi	,	à	mon	avis	,	nous	serons	 aidé 	 s 	 	par	des	 graphique 	 s 	 	 e 	 t 	 	des	 outil 	 s 	 	de	 visual 	 isation 	 	 e 	 t 	 	 d' 	 inférence 	 	.
+je	pense	donc	que	tout	ça	 commence 	 ra 	 	grâce	à	de	 meilleur 	 es 	 	 interface 	 s 	 	 capable 	 s 	 	 d' 	 aller 	 	dans	le	détail	des	 donné 	 es 	 	,	tout	en	 pens 	 ant 	 	à	la	vue	 global 	 e 	 	,	ici	.
+voici	une	autre	application	.	elle	 s' 	 appelle 	 	_UNK_	.
+c'est	fait	par	la	nasa	.	c'est	--	nous	avons	tous	vu	google	 e 	 arth 	 	,	c'est	une	version	en	 log 	 iciel 	 	libre	.	il	y	a	des	_UNK_	 capable 	 s 	 	de	 charge 	 r 	 	 différent 	 s 	 	 ensemble 	 s 	 	de	 donné 	 es 	 	que	la	nasa	a	_UNK_	au	fil	des	 an 	 s 	 	.
+ mai 	 s 	 	comme	vous	le	voyez	,	je	peux	utiliser	les	mêmes	 geste 	 s 	 	des	 doigt 	 s 	 	pour	 zoome 	 r 	 	en	 profond 	 eur 	 	sans	rupture	.	pas	 d' 	 interface 	 	,	à	nouveau	.
+cela	permet	à	 n' 	 importe 	 	qui	de	 zoome 	 r 	 	--	cela	fait	ce	à	quoi	vous	vous	 attend 	 ez 	 	,	vous	voyez	?	encore	,	pas	 d' 	 interface 	 	.	elle	disparaît	tout	 simple 	 ment 	 	.
+je	peux	passer	 d' 	 une 	 	vue	à	 l' 	 autre 	 	.	c'est	ce	qui	super	avec	 ce 	 tte 	 	application	.
+ voil 	 à 	 	.	la	nasa	est	 vrai 	 ment 	 	sympa	.	ils	ont	 ce 	 s 	 	 image 	 s 	 	hyper	-	 spectral 	 es 	 	qui	 s 	 ont 	 	_UNK_	pour	--	c'est	 vrai 	 ment 	 	pratique	pour	 détermine 	 r 	 	 l' 	 usage 	 	végétal	.	bref	,	 re 	 venons 	 	à	 not 	 re 	 	sujet	.
+le	grand	intérêt	des	 application 	 s 	 	de	 carto 	 graphie 	 s 	 	--	ce	n'est	pas	en	2d	,	 plu 	 tôt 	 	en	3d	.	a	nouveau	,	avec	une	interface	multi	-	 point 	 s 	 	,	vous	 pouv 	 ez 	 	faire	un	geste	ainsi	--	 e 	 t 	 	être	capable	 d' 	 incline 	 r 	 	comme	ça	,	ce	n'est	 vrai 	 ment 	 	pas	qu'un	simple	mouvement	de	 déplace 	 ment 	 	en	2d	.
+ce	geste	que	nous	avons	développé	,	à	nouveau	,	juste	avec	deux	 doigt 	 s 	 	,	définit	un	axe	 d' 	 inclinaison 	 	 e 	 t 	 	vous	 pouv 	 ez 	 	 incline 	 r 	 	vers	le	haut	ou	le	bas	ainsi	.
+c'est	venu	 naturel 	 lement 	 	sur	le	moment	,	ce	n'est	 prob 	 able 	 ment 	 	pas	la	bonne	chose	à	faire	,	 mai 	 s 	 	vous	 pouv 	 ez 	 	faire	 t 	 ellement 	 	de	 chose 	 s 	 	 intéressant 	 es 	 	avec	 ce 	 s 	 	 interface 	 s 	 	.
+c'est	aussi	très	amusant	de	 joue 	 r 	 	avec	.
+la	 der 	 nière 	 	chose	que	je	veux	vous	 montre 	 r 	 	est	--	je	suis	sûr	que	nous	 pouv 	 ons 	 	tous	imaginer	des	 application 	 s 	 	de	 divertis 	 s 	 ement 	 	avec	 ce 	 ci 	 	.
+je	suis	un	peu	plus	intéressé	par	les	 application 	 s 	 	 créative 	 s 	 	.
+enfin	,	voici	une	application	 tout 	 e 	 	simple	--	je	 dessin 	 e 	 	une	courbe	.
+quand	je	la	ferme	,	cela	 dev 	 ient 	 	un	 personn 	 age 	 	.
+le	truc	sympa	,	c'est	que	je	peux	 ajoute 	 r 	 	des	 point 	 s 	 	de	 contrô 	 le 	 	.
+ en 	 suite 	 	,	je	peux	les	 manipul 	 er 	 	avec	mes	deux	 doigt 	 s 	 	en	même	temps	.
+regardez	ce	qui	 s 	 e 	 	passe	.
+c'est	comme	une	 marionne 	 tte 	 	,	où	 j' 	 utilise 	 	tous	les	 doigt 	 s 	 	 possible 	 s 	 	pour	 dessin 	 er 	 	 e 	 t 	 	créer	--	il	y	a	beaucoup	de	 calcul 	 s 	 	derrière	pour	 arrive 	 r 	 	à	 contrô 	 ler 	 	 ce 	 t 	 	engrenage	 e 	 t 	 	obtenir	le	résultat	voulu	.
+en	clair	,	 ce 	 tte 	 	technique	pour	 manipul 	 er 	 	ici	un	engrenage	,	avec	plusieurs	 point 	 s 	 	de	 contrô 	 le 	 	,	est	en	fait	 l' 	 état 	 	de	l'art	.
+cela	vient	juste	de	sortir	à	_UNK_	 l' 	 an 	 	dernier	,	 mai 	 s 	 	c'est	un	super	exemple	du	type	de	recherche	que	 j' 	 aime 	 	.
+ tout 	 e 	 	 ce 	 tte 	 	puissance	de	calcul	pour	faire	des	 chose 	 s 	 	 utile 	 s 	 	.
+ intuitive 	 ment 	 	.	 exacte 	 ment 	 	ce	que	vous	 attend 	 ez 	 	.
+la	recherche	sur	 l' 	 interaction 	 	multi	-	point	est	très	active	en	ce	moment	dans	le	domaine	des	 interface 	 s 	 	homme	-	machine	je	ne	suis	pas	tout	seul	,	beaucoup	de	 gen 	 s 	 	 s' 	 y 	 	mettent	.
+ ce 	 tte 	 	technologie	 per 	 mettra 	 	à	plus	de	 gen 	 s 	 	de	 s' 	 y 	 	mettre	,	je	suis	très	 im 	 patient 	 	 d' 	 interagir 	 	avec	vous	tous	dans	les	 jour 	 s 	 	à	venir	 e 	 t 	 	de	voir	comme	cela	 pour 	 ra 	 	 s' 	 applique 	 r 	 	dans	 vo 	 s 	 	 domaine 	 s 	 	 respect 	 ifs 	 	.
+merci	.
+

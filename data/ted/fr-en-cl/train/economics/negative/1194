@@ -1,0 +1,145 @@
+voici une photo prise par l'artiste michael najjar , et elle est vraie , dans le sens où il est allé en argentine pour prendre cette photo .
+mais c'est aussi de la fiction . il y a eu beaucoup de travail sur cette photo ensuite .
+et ce qu'il a fait c'est qu'il a en fait redessiné , numériquement , tous les contours des montagnes pour suivre les vicissitudes du dow jones .
+alors ce que vous voyez , ce précipice , ce précipice profond avec la vallée , c'est la crise financière de 2008 .
+la photo a été faite quand nous étions tout au fond de la vallée là - bas .
+je ne sais pas où nous sommes maintenant .
+voici l'indice _UNK_ seng de la bourse de hong kong .
+et une topographie similaire .
+je me demande pourquoi et c'est de l'art . c'est une métaphore .
+mais je pense que l'important , c'est que c'est une métaphore qui a des dents .
+et c'est avec ces dents que je veux vous proposer aujourd'hui de repenser un peu ensemble au rôle des mathématiques contemporaines , pas seulement les maths financières , mais les maths en général .
+repenser au fait que les maths sont passées de quelque chose qu'on extrait et qu'on dérive du monde à quelque chose qui en fait commence à le façonner , ce monde qui nous entoure et ce monde qui est en nous .
+et il s'agit en particulier des algorithmes , qui sont essentiellement les maths que les ordinateurs utilisent pour prendre des décisions .
+ils acquièrent le sens de la vérité parce qu'ils recommencent sans cesse .
+et il se _UNK_ et se _UNK_ et deviennent réels .
+je réfléchissais à ça dans un endroit improbable , à bord d'un vol transatlantique il y a deux ans , parce que je m'étais retrouvé assis à côté d'un physicien hongrois qui avait à peu près mon âge , et nous discutions de ce qu'était la vie des physiciens en hongrie pendant la guerre froide .
+et j'ai dit , " alors que faisiez - vous ? "
+et il a dit , " et bien la plupart du temps on détruisait les boucliers furtifs .
+et j'ai dit , " c'est bien . c'est intéressant .
+comment ça marche ? "
+et pour comprendre ça , il faut comprendre un peu comment fonctionne un bouclier furtif .
+et donc , je simplifie à l'extrême , mais en gros , ce n'est pas comme de faire passer un signal radar à travers 156 tonnes d'acier dans le ciel .
+ça ne va pas disparaitre .
+mais si on peut prendre cette chose énorme , et la transformer en un million de petites choses , comme un vol d'oiseaux par exemple , alors le radar qui cherche ça doit être capable de voir tous les vols d'oiseaux dans le ciel .
+et si vous êtes un radar , c'est vraiment un sacré boulot .
+et il a dit , " oui , mais c'est si vous êtes un radar .
+alors nous n'avons pas utilisé un radar ; nous avons construit une boite noire qui cherchait des signaux électriques , des communications électroniques .
+et chaque fois que nous voyions un vol d'oiseaux qui avait des communications électroniques , on se disait que ça avait un rapport avec les américains . "
+et j'ai dit , " oui .
+c'est bien .
+vous avez donc en réalité réduit à néant 60 ans de recherches aéronautiques .
+et ensuite , que faites - vous ?
+et quand vous serez grand , vous ferez quoi ? "
+il a répondu , ' des services financiers . "
+j'ai dit , " oh " parce qu'on en avait parlé dans les infos récemment .
+et j'ai dit , comment ça marche ?
+et il a répondu " eh bien , il y a actuellement 2000 physiciens à wall street " et j'en fait partie . "
+et j'ai dit , " c'est quoi la boite noire pour wall street ? "
+et il a répondu , " c'est drôle que vous demandiez ça , parce que en fait on appelle ça le trading automatique ou black box trading .
+on l'appelle aussi parfois _UNK_ trading , trading algorithmique . "
+et le trading algorithmique a évolué en partie parce que les traders institutionnels ont les mêmes problèmes qu'avait l'us air force , c'est - à - dire qu'ils changent leur positions , que ce soit proctor & gamble ou accenture , peu importe , ils transfèrent un million d'actions de quelque chose dans le marché .
+et s'ils font ça d'un seul coup , c'est comme jouer au poker et tout miser tout de suite .
+vous dévoilez votre jeu .
+et donc ils doivent trouver une solution , et pour ça ils utilisent des _UNK_ , pour diviser ce gros paquet en un million de petites transactions .
+et ce qui est magique et horrible là - dedans c'est que les mêmes maths qu'on utilise pour diviser le gros truc en un million de petits trucs peut être utilisé pour trouver un million de petits trucs et les _UNK_ et comprendre ce qui se passe vraiment dans le marché .
+alors si vous devez vous faire une image de ce qui se passe à la bourse en ce moment , ce que vous pouvez visualiser c'est un tas _UNK_ essentiellement programmés pour se cacher , et un tas algorithmes qui sont programmés pour les trouver et agir .
+et tout ça c'est super , et c'est bien .
+et ça représente 70 % de la bourse aux etats - unis , 70 % du système opérateur qu'on appelait auparavant votre retraite , votre hypothèque .
+et qu'est - ce qui pourrait aller de travers ?
+ce qui pourrait aller de travers c'est qu'il y a un an , 9 % de la totalité du marché a disparu en 5 minutes , et on a appelé ça le crash flash de _UNK_ .
+tout à coup , 9 % disparaissent , et à ce jour personne n'est d'accord sur ce qui s'est _UNK_ , parce que personne n'en a donné l'ordre , personne n'a voulu ça .
+personne n'avait le moindre contrôle sur ce qui se passait vraiment .
+tout ce qu'ils avaient c'était un écran devant eux qui affichait des chiffres et un unique bouton rouge qui disait , " stop . "
+et c'est ça le truc , c'est que nous écrivons des trucs , nous écrivons ces trucs que nous ne savons plus lire .
+et nous avons rendu quelque chose _UNK_ .
+nous avons perdu le sens de ce qui se passe vraiment dans le monde que nous avons fabriqué .
+et nous commençons à faire notre chemin .
+il y a une compagnie à boston qui s'appelle _UNK_ , et ils utilisent les maths et la magie et je ne sais pas quoi d'autre , et ils vont chercher toutes les données du marché et ils trouvent , parfois , certains de ces algorithmes .
+et quand ils les trouvent , ils les extraient , et les _UNK_ au mur comme des papillons .
+et ils font ce que nous avons toujours fait quand nous sommes confrontés à d'énormes quantités de données que nous ne comprenons pas , nous leur donnons un nom et une histoire .
+en voici un qu'ils ont trouvé , ils l'ont appelé le couteau , le carnaval , le jongleur , twilight .
+et le _UNK_ c'est que bien sûr , ils ne se contentent pas de fonctionner pour le marché .
+on trouve ce genre de trucs où qu'on regarde une fois que vous savez comment les trouver .
+vous voyez ça ici : ce livre sur les mouches que vous avez peut - être cherché sur amazon .
+vous l'avez peut - être remarqué quand son prix est monté à 1,7 millions de dollars .
+il est épuisé , pourtant ...
+si vous l'aviez acheté à 1,7 millions , vous auriez fait une affaire .
+quelques heures plus tard , il était monté à _UNK_ millions de dollars , plus le port et l'emballage .
+et la question est : personne _UNK_ ni ne vendait rien ; que se passait - il ?
+et vous voyez ce comportement sur amazon tout aussi surement que vous le voyez à wall street .
+et quand vous voyez ce genre de comportement , ce que vous voyez c'est la preuve que des algorithmes sont en conflit , des algorithmes pris mutuellement dans des boucles sans surveillance humaine , sans supervision humaine , pour dire , " en fait , 1,7 million c'est beaucoup . "
+il il est arrivé la même chose à netflix qu'à amazon .
+netflix a eu plusieurs algorithmes différents au fil du temps .
+ils ont commencé avec _UNK_ , et ils en ont essayé un tas d'autres .
+_UNK_ planet , gravity .
+a présent ils utilisent pragmatic chaos .
+pragmatic chaos , comme tous les algorithmes de netflix , essaye de faire la même chose : il essaye de vous mettre le grappin dessus , sur le _UNK_ à l'intérieur du crâne humain , pour vous recommander quel film vous pourriez avoir envie de voir ensuite , ce qui est un problème très , très difficile .
+mais la difficulté du problème et le fait que nous ne nous ne l'avons pas vraiment cerné , c'est qu'il n'enlève rien aux effets du chaos pragmatique le chaos pragmatique , comme tous les algorithmes de netflix , détermine , en fin de compte , 60 % des films qui seront effectivement loués .
+donc un bout de code qui a une idée sur vous est responsable de 60 % de ces films .
+mais si vous pouviez évaluer ces films avant qu'ils ne soient tournés ?
+ce serait pratique , non ?
+et bien , quelques spécialistes britanniques des données sont à hollywood , et ils ont des algorithmes d'histoires , une compagnie du nom _UNK_ .
+et vous pouvez leur soumettre votre scénario , et ils peuvent vous dire , de façon quantifiable , que c'est un film à 30 millions de dollars ou un film à 200 millions de dollars .
+et le truc , c'est que ce n'est pas google .
+ce n'est pas de l'information .
+ce ne sont pas des statistiques financières ; c'est de la culture .
+et ce que vous voyez ici , ou , plutôt , ce que normalement vous ne voyez pas , c'est qu'il s'agit de la physique de la culture .
+et si ces algorithmes , comme ceux de wall street , plantent un jour ou deviennent défaillants , comment le saurons - nous , à quoi cela ressemblera - t - il ?
+et ils sont dans vos maisons .
+voici deux algorithmes se disputant votre salon .
+ce sont deux robots _UNK_ différents qui ont des idées différentes quant au nettoyage .
+et vous pouvez le voir si vous filmez en ralenti et que vous fixez des lumières dessus .
+ils sont en quelque sorte les architectes secrets de votre chambre à coucher .
+et l'idée que l'architecture même est d'une certaine façon sujette à _UNK_ algorithmique n'est pas si exagérée .
+elle est très réelle et ça se passe autour de vous .
+vous le ressentez le plus quand vous êtes dans une boite en métal scellée , un ascenseur moderne , on appelle ça des ascenseurs à système de contrôle de destination .
+ce sont ceux où vous devez appuyer sur l'étage où vous allez avant d'entrer dans l'ascenseur .
+il utilise ce qu'on appelle un algorithme de conditionnement de boîtes .
+donc rien _UNK_ comme de laisser chacun entrer dans la cabine de son choix .
+tous ceux qui veulent aller au 10ème étage montent dans la cabine numéro 2 , et tous ceux qui veulent aller au 3ème étage montent dans la cabine 5 .
+et là , le problème est que les gens flippent .
+les gens paniquent .
+et vous voyez pourquoi .
+c'est parce qu'il manque à l'ascenseur un équipement important , les boutons .
+le truc que les gens utilisent .
+tout ce qu'il possède , c'est le chiffre qui monte et qui descend et ce bouton rouge marqué " stop . "
+et c'est le but de notre travail de conception .
+nous concevons pour ce dialecte de machine .
+et jusqu'où peut - on aller ? jusqu'où peut - on pousser ça ?
+on peut aller très , très loin .
+alors permettez - moi de revenir à wall street .
+parce que les algorithmes de wall street dépendent d'une qualité par dessus tout , et c'est la vitesse .
+et ils opèrent à la milliseconde et à la microseconde .
+et pour vous donner une idée de ce qu'est une microseconde , il vous faut 500 000 microsecondes rien que pour cliquer sur une souris .
+mais si vous êtes un algorithme de wall street et que vous avez 5 microsecondes de retard , vous êtes fini .
+donc si vous étiez un algorithme , vous chercheriez un architecte comme celui que j'ai rencontré à _UNK_ qui _UNK_ un gratte - ciel , il jetait tous les meubles , toute l'infrastructure destinée à l'usage humain , et ne mettait que de l'acier dans les étages pour préparer l'arrivée des serveurs à installer , tout ça pour qu'un algorithme puisse se rapprocher d'internet .
+et vous pensez qu'internet est une sorte de système décentralisé .
+et bien sûr , c'est le cas , mais il est décentralisé depuis des endroits précis .
+a new york , voici d'où il est décentralisé : le carrier hotel sur hudson street .
+et c'est vraiment de là que les cables partent vers la ville .
+et la réalité est que plus vous vous en éloignez , plus vous prenez des microsecondes de retard ces gars à wall street , marco polo and _UNK_ nation , ont 8 microsecondes de retard sur tous ces gars - là qui vont dans des immeubles qu'on vide autour du carrier hotel .
+et ça va continuer comme ça .
+nous allons continuer à les vider , parce que vous , centimètre pour centimètre , livre pour livre , dollar pour dollar , aucun d'entre vous ne pourrait tirer un profit de cet espace comme le jongleur peut le faire .
+mais si vous prenez du recul , si vous prenez du recul , vous verrez une tranchée de 1 300 kilomètres entre new york et chicago construite ces dernières années par une compagnie appelée _UNK_ networks .
+c'est un câble de fibre optique qui a été posé entre ces deux villes dans le seul but de faire passer un signal 37 fois plus vite qu'un clic de souris , rien que pour ces algorithmes , rien que pour le carnaval et le couteau .
+et quand vous y réfléchissez , que nous traversons les etats - unis avec de la dynamite et des scies à roches pour qu'un algorithme puisse conclure un marché trois microseconde plus vite , tout ça pour une structure de communication qu'aucun humain ne connaitra jamais , qui est une sorte de destin manifeste et qui cherchera toujours une nouvelle frontière .
+malheureusement , nous avons du pain sur la planche .
+tout ça est théorique .
+voici des mathématiciens du mit .
+et la vérité est que une grande partie de ce qu'ils disent est incompréhensible pour moi .
+ils parlent de cônes lumineux , de liaisons quantiques , et ce sont des choses que je ne comprend pas vraiment .
+mais je peux lire cette carte .
+et ce que cette carte dit c'est que , si vous essayez de faire de l'argent sur ces marchés représentés par des points rouges , c'est là que sont les gens , que sont les villes , vous allez devoir mettre les serveurs là où il y a des points bleus pour avoir le maximum d'efficacité .
+et ce que vous avez peut - être remarqué à propos de ces points bleus c'est qu'il y en a beaucoup en plein océan .
+alors voilà ce que nous allons faire , nous allons construire des bulles , ou des plateformes , nous allons partager les eaux pour de bon pour tirer de l'argent depuis l'air , parce qu'il y a un avenir radieux si vous êtes un algorithme .
+et ce n'est pas l'argent qui est si intéressant en fait .
+c'est la motivation que l'argent amène .
+le fait que nous transformons la planète - même avec ce genre d'efficacité algorithmique .
+et sous cet éclairage , vous retournez voir les photos de michael najjar , et vous vous rendez compte qu'elles ne sont pas métaphoriques , elles sont prophétiques .
+elles annoncent les effets sismiques , les effets terrestres des mathématiques que nous construisons .
+et le paysage a toujours été façonné par cette collaboration étrange et _UNK_ entre la nature et l'homme .
+mais maintenant il y a une troisième force co - _UNK_ : les algorithmes , le jongleur , le carnaval .
+et nous allons devoir les comprendre comme faisant partie de la nature .
+et dans un sens , c'est vrai .
+merci .

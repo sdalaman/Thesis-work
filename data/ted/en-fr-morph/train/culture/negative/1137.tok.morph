@@ -1,0 +1,151 @@
+good	afternoon	,	 every 	 body 	 	.
+i	've	got	 some 	 thing 	 	to	show	you	.
+think	about	 th 	 is 	 	 a 	 s 	 	a	pixel	,	a	 fly 	 ing 	 	pixel	.
+ th 	 is 	 	is	what	we	call	,	in	our	lab	,	 sens 	 ible 	 	design	.
+let	me	tell	you	a	bit	about	it	.
+now	if	you	take	 th 	 is 	 	picture	--	i	'm	italian	 original 	 ly 	 	,	and	every	boy	in	italy	 grow 	 s 	 	up	with	 th 	 is 	 	picture	on	the	wall	of	his	 bed 	 room 	 	--
+but	the	reason	i	'm	 show 	 ing 	 	you	 th 	 is 	 	is	that	 some 	 thing 	 	 ver 	 y 	 	 interest 	 ing 	 	 happen 	 ed 	 	in	formula	1	 rac 	 ing 	 	over	the	past	couple	of	 decade 	 s 	 	.
+now	some	time	ago	,	if	you	 want 	 ed 	 	to	win	a	formula	1	race	,	you	take	a	budget	,	and	you	bet	your	budget	on	a	good	driver	and	a	good	car	.
+and	if	the	car	and	the	driver	 we 	 re 	 	good	 en 	 ough 	 	,	then	you	'd	win	the	race	.
+now	 to 	 day 	 	,	if	you	want	to	win	the	race	,	 actual 	 ly 	 	you	need	 al 	 so 	 	 some 	 thing 	 	like	 th 	 is 	 	--	 some 	 thing 	 	that	 monitor 	 s 	 	the	car	in	real	time	,	 ha 	 s 	 	a	few	thousand	 sensor 	 s 	 	 collect 	 ing 	 	information	from	the	car	,	 transmit 	 ting 	 	 th 	 is 	 	information	 in 	 to 	 	the	system	,	and	then	 process 	 ing 	 	it	and	using	it	in	order	to	go	back	to	the	car	with	 decision 	 s 	 	and	changing	 thing 	 s 	 	in	real	time	 a 	 s 	 	information	is	 collect 	 ed 	 	.
+ th 	 is 	 	is	what	,	in	 engineer 	 ing 	 	 term 	 s 	 	,	you	would	call	a	real	time	control	system	.
+and	 bas 	 ically 	 	,	it	's	a	system	made	of	two	 component 	 s 	 	--	a	 sens 	 ing 	 	and	an	actuating	component	.
+what	is	 interest 	 ing 	 	 to 	 day 	 	is	that	real	time	control	 system 	 s 	 	are	 start 	 ing 	 	to	enter	 in 	 to 	 	our	 live 	 s 	 	.
+our	cities	,	over	the	past	few	 year 	 s 	 	,	just	have	 be 	 en 	 	_UNK_	with	 network 	 s 	 	,	 electron 	 ic 	 s 	 	.
+they	're	 be 	 coming 	 	like	 computer 	 s 	 	in	open	air	.
+and	,	 a 	 s 	 	 computer 	 s 	 	in	open	air	,	they	're	 start 	 ing 	 	to	respond	in	a	different	way	to	be	able	to	be	 sens 	 ed 	 	and	to	be	 actu 	 ated 	 	.
+if	we	fix	cities	,	 actual 	 ly 	 	it	's	a	big	deal	.
+just	 a 	 s 	 	an	 a 	 side 	 	,	i	 want 	 ed 	 	to	 ment 	 ion 	 	,	cities	are	 on 	 ly 	 	two	percent	of	the	earth	's	crust	,	but	they	are	50	percent	of	the	world	's	population	.
+they	are	75	percent	of	the	energy	consumption	--	up	to	80	percent	of	co	2	 e 	 mission 	 s 	 	.
+so	if	we	're	able	to	do	 some 	 thing 	 	with	cities	,	that	's	a	big	deal	.
+beyond	cities	,	all	of	 th 	 is 	 	 sens 	 ing 	 	and	actuating	is	 enter 	 ing 	 	our	 every 	 day 	 	 object 	 s 	 	.
+that	's	from	an	 exhibit 	 ion 	 	that	paola	antonelli	is	 organ 	 izing 	 	at	moma	 lat 	 er 	 	 th 	 is 	 	year	,	 dur 	 ing 	 	the	summer	.
+it	's	 call 	 ed 	 	``	talk	to	me	.	``
+well	our	 object 	 s 	 	,	our	environment	is	 start 	 ing 	 	to	talk	back	to	us	.
+in	a	certain	sense	,	it	's	 al 	 most 	 	 a 	 s 	 	if	every	atom	out	there	 we 	 re 	 	 be 	 coming 	 	both	a	sensor	and	an	actuator	.
+and	that	is	 radical 	 ly 	 	changing	the	 interact 	 ion 	 	we	have	 a 	 s 	 	 human 	 s 	 	with	the	environment	out	there	.
+in	a	certain	sense	,	it	's	 al 	 most 	 	 a 	 s 	 	if	the	old	dream	of	michelangelo	...
+you	know	,	when	michelangelo	 sculpt 	 ed 	 	the	moses	,	at	the	end	it	 s 	 aid 	 	that	he	took	the	hammer	,	threw	it	at	the	moses	--	 actual 	 ly 	 	you	can	still	see	a	small	chip	 under 	 neath 	 	--	and	 s 	 aid 	 	,	 shout 	 ed 	 	,	``	_UNK_	non	_UNK_	?	why	do	n't	you	talk	?	``
+well	 to 	 day 	 	,	for	the	first	time	,	our	environment	is	 start 	 ing 	 	to	talk	back	to	us	.
+and	i	'll	show	just	a	few	 ex 	 ample 	 s 	 	--	 aga 	 in 	 	,	with	 th 	 is 	 	idea	of	 sens 	 ing 	 	our	environment	and	actuating	it	.
+let	's	 start 	 ing 	 	with	 sens 	 ing 	 	.
+well	,	the	first	project	i	 want 	 ed 	 	to	share	with	you	is	 actual 	 ly 	 	one	of	the	first	 project 	 s 	 	by	our	lab	.
+it	was	four	and	a	half	 year 	 s 	 	ago	in	italy	.
+and	what	we	did	there	was	 actual 	 ly 	 	use	a	new	type	of	network	at	the	time	that	had	 be 	 en 	 	 deploy 	 ed 	 	all	 a 	 cross 	 	the	world	--	that	's	a	 cell 	 phone 	 	network	--	and	use	 anonym 	 ous 	 	and	 aggreg 	 ated 	 	information	from	that	network	,	that	's	 collect 	 ed 	 	 any 	 way 	 	by	the	 oper 	 ator 	 	,	in	order	to	understand	how	the	city	 work 	 s 	 	.
+the	summer	was	a	 luck 	 y 	 	summer	--	2006	.
+it	's	when	italy	won	the	soccer	world	cup	.
+some	of	you	might	remember	,	it	was	italy	and	france	 play 	 ing 	 	,	and	then	zidane	at	the	end	,	the	headbutt	.
+and	 any 	 way 	 	,	italy	won	at	the	end	.
+now	look	at	what	 happen 	 ed 	 	that	day	just	by	 monitor 	 ing 	 	activity	 happen 	 ing 	 	on	the	network	.
+here	you	see	the	city	.
+you	see	the	colosseum	in	the	middle	,	the	river	_UNK_	.
+it	's	 morn 	 ing 	 	,	before	the	match	.
+you	see	the	 time 	 line 	 	on	the	top	.
+early	afternoon	,	people	here	and	there	,	making	 call 	 s 	 	and	moving	.
+the	match	 begin 	 s 	 	--	silence	.
+france	 score 	 s 	 	.	italy	 score 	 s 	 	.
+ half 	 time 	 	,	people	make	a	quick	call	and	go	to	the	 bath 	 room 	 	.
+second	half	.	end	of	normal	time	.
+first	 over 	 time 	 	,	second	.
+zidane	,	the	headbutt	in	a	moment	.
+italy	 win 	 s 	 	.	 yea 	 h 	 	.
+well	,	that	night	,	 every 	 body 	 	went	to	 celebr 	 ate 	 	in	the	center	.
+you	saw	the	big	peak	.
+the	 follow 	 ing 	 	day	,	 aga 	 in 	 	 every 	 body 	 	went	to	the	center	to	meet	the	winning	team	and	the	prime	 mini 	 ster 	 	at	the	time	.
+and	then	 every 	 body 	 	 move 	 d 	 	down	.
+you	see	the	image	of	the	place	 call 	 ed 	 	_UNK_	massimo	,	where	,	since	roman	 time 	 s 	 	,	people	go	to	 celebr 	 ate 	 	,	to	have	a	big	party	,	and	you	see	the	peak	at	the	end	of	the	day	.
+well	,	that	's	just	one	 ex 	 ample 	 	of	how	we	can	sense	the	city	 to 	 day 	 	in	a	way	that	we	could	n't	have	 d 	 one 	 	just	a	few	 year 	 s 	 	ago	.
+ an 	 other 	 	quick	 ex 	 ample 	 	about	 sens 	 ing 	 	:	it	's	not	about	people	,	but	about	 thing 	 s 	 	we	use	and	 consum 	 e 	 	.
+well	 to 	 day 	 	,	we	know	 every 	 thing 	 	about	where	our	 object 	 s 	 	come	from	.
+ th 	 is 	 	is	a	map	that	 show 	 s 	 	you	all	the	 chip 	 s 	 	that	form	a	mac	computer	,	how	they	came	together	.
+but	we	know	 ver 	 y 	 	little	about	where	 thing 	 s 	 	go	.
+so	in	 th 	 is 	 	project	,	we	 actual 	 ly 	 	 develop 	 ed 	 	some	small	 tag 	 s 	 	to	track	trash	 a 	 s 	 	it	 move 	 s 	 	through	the	system	.
+so	we	 actual 	 ly 	 	 start 	 ed 	 	with	a	number	of	 volunteer 	 s 	 	who	 help 	 ed 	 	us	in	seattle	,	just	over	a	year	ago	,	to	tag	what	they	 we 	 re 	 	 throw 	 ing 	 	away	--	different	 type 	 s 	 	of	 thing 	 s 	 	,	 a 	 s 	 	you	can	see	here	--	 thing 	 s 	 	they	would	throw	away	 any 	 way 	 	.
+then	we	put	a	little	chip	,	little	tag	,	onto	the	trash	and	then	 start 	 ed 	 	 follow 	 ing 	 	it	.
+here	are	the	 result 	 s 	 	we	just	 obtain 	 ed 	 	.
+from	seattle	...
+after	one	week	.
+with	 th 	 is 	 	information	we	 real 	 ized 	 	there	's	a	lot	of	 in 	 efficiencies 	 	in	the	system	.
+we	can	 actual 	 ly 	 	do	the	same	thing	with	much	less	energy	.
+ th 	 is 	 	data	was	not	 avail 	 able 	 	before	.
+but	there	's	a	lot	of	 waste 	 d 	 	 transport 	 ation 	 	and	 con 	 volu 	 ted 	 	 thing 	 s 	 	 happen 	 ing 	 	.
+but	the	other	thing	is	that	we	 believ 	 e 	 	that	if	we	see	every	day	that	the	cup	we	're	 throw 	 ing 	 	away	,	it	 do 	 es 	 	n't	disappear	,	it	's	still	 some 	 where 	 	on	the	planet	.
+and	the	plastic	bottle	we	're	 throw 	 ing 	 	away	every	day	still	 stay 	 s 	 	there	.
+and	if	we	show	that	to	people	,	then	we	can	 al 	 so 	 	promote	some	 behavior 	 al 	 	change	.
+so	that	was	the	reason	for	the	project	.
+my	 col 	 league 	 	at	mit	,	_UNK_	_UNK_	,	he	could	tell	you	much	more	about	 sens 	 ing 	 	and	 man 	 y 	 	other	 wonder 	 ful 	 	 thing 	 s 	 	we	can	do	with	 sens 	 ing 	 	,	but	i	 want 	 ed 	 	to	go	to	the	second	part	we	 discuss 	 ed 	 	at	the	 begin 	 ning 	 	,	and	that	's	actuating	our	environment	.
+and	the	first	project	is	 some 	 thing 	 	we	did	a	couple	of	 year 	 s 	 	ago	in	zaragoza	,	spain	.
+it	 start 	 ed 	 	with	a	question	by	the	mayor	of	the	city	,	who	came	to	us	 say 	 ing 	 	that	spain	and	southern	europe	have	a	 beaut 	 iful 	 	tradition	of	using	water	in	public	space	,	in	 architect 	 ure 	 	.
+and	the	question	was	:	how	could	technology	,	new	technology	,	be	 add 	 ed 	 	to	that	?
+and	one	of	the	 idea 	 s 	 	that	was	 develop 	 ed 	 	at	mit	in	a	 work 	 shop 	 	was	,	imagine	 th 	 is 	 	pipe	,	and	you	've	got	 val 	 ves 	 	,	_UNK_	 val 	 ves 	 	,	 tap 	 s 	 	,	 open 	 ing 	 	and	 clo 	 s 	 ing 	 	.
+you	create	like	a	water	 cur 	 tain 	 	with	 pixel 	 s 	 	made	of	water	.
+if	 t 	 hose 	 	 pixel 	 s 	 	fall	,	you	can	write	on	it	,	you	can	show	 pattern 	 s 	 	,	 image 	 s 	 	,	text	.
+and	even	you	can	approach	it	,	and	it	will	open	up	to	let	you	jump	through	,	 a 	 s 	 	you	see	in	 th 	 is 	 	image	.
+well	,	we	 present 	 ed 	 	 th 	 is 	 	to	mayor	_UNK_	.
+he	 like 	 d 	 	it	 ver 	 y 	 	much	.
+and	we	got	a	commission	to	design	a	building	at	the	 en 	 trance 	 	of	the	expo	.
+we	 call 	 ed 	 	it	digital	water	pavilion	.
+the	whole	building	is	made	of	water	.
+there	's	no	 door 	 s 	 	or	 window 	 s 	 	,	but	when	you	approach	it	,	it	will	open	up	to	let	you	in	.	the	roof	 al 	 so 	 	is	 cover 	 ed 	 	with	water	.
+and	if	there	's	a	bit	of	wind	,	if	you	want	to	 minim 	 ize 	 	 splash 	 ing 	 	,	you	can	 actual 	 ly 	 	lower	the	roof	.
+or	you	could	close	the	building	,	and	the	whole	 architect 	 ure 	 	will	disappear	,	like	in	 th 	 is 	 	case	.
+you	know	,	these	 day 	 s 	 	,	you	 al 	 ways 	 	get	 image 	 s 	 	 dur 	 ing 	 	the	winter	,	when	they	take	the	roof	down	,	of	people	who	have	 be 	 en 	 	there	and	 s 	 aid 	 	,	``	they	 demolish 	 ed 	 	the	building	.	``
+no	,	they	did	n't	demolish	it	,	just	when	it	 go 	 es 	 	down	,	the	 architect 	 ure 	 	 al 	 most 	 	 disappear 	 s 	 	.
+here	's	the	building	 work 	 ing 	 	.
+you	see	the	person	 puzzl 	 ed 	 	about	what	was	going	on	 in 	 side 	 	.
+and	here	was	 my 	 self 	 	 try 	 ing 	 	not	to	get	wet	,	 test 	 ing 	 	the	 sensor 	 s 	 	that	open	the	water	.
+well	,	i	should	tell	you	now	what	 happen 	 ed 	 	one	night	when	all	of	the	 sensor 	 s 	 	 stop 	 ped 	 	 work 	 ing 	 	.
+but	 actual 	 ly 	 	that	night	,	it	was	even	more	 f 	 un 	 	.
+all	the	 kid 	 s 	 	from	zaragoza	came	to	the	building	,	 be 	 cause 	 	the	way	of	 engag 	 ing 	 	with	the	building	 be 	 came 	 	 some 	 thing 	 	different	.
+not	 any 	 more 	 	a	building	that	would	open	up	to	let	you	in	,	but	a	building	that	would	still	make	 cut 	 s 	 	and	 hole 	 s 	 	through	the	water	,	and	you	had	to	jump	 with 	 out 	 	 get 	 ting 	 	wet	.
+and	that	was	,	for	us	,	was	 ver 	 y 	 	 interest 	 ing 	 	,	 be 	 cause 	 	,	 a 	 s 	 	 architect 	 s 	 	,	 a 	 s 	 	 engineer 	 s 	 	,	 a 	 s 	 	 design 	 ers 	 	,	we	 al 	 ways 	 	think	about	how	people	will	use	the	 thing 	 s 	 	we	design	.
+but	then	 re 	 ality 	 	's	 al 	 ways 	 	 un 	 predict 	 able 	 	.
+and	that	's	the	 beaut 	 y 	 	of	 do 	 ing 	 	 thing 	 s 	 	that	are	used	and	interact	with	people	.
+here	is	an	image	then	of	the	building	with	the	physical	 pixel 	 s 	 	,	the	 pixel 	 s 	 	made	of	water	,	and	then	 project 	 ions 	 	on	them	.
+and	 th 	 is 	 	is	what	led	us	to	think	about	the	 follow 	 ing 	 	project	i	'll	show	you	now	.
+that	's	,	imagine	 t 	 hose 	 	 pixel 	 s 	 	could	 actual 	 ly 	 	start	 fly 	 ing 	 	.
+imagine	you	could	have	small	 helicopter 	 s 	 	that	move	in	the	air	,	and	then	each	of	them	with	a	small	pixel	in	changing	 light 	 s 	 	--	 al 	 most 	 	 a 	 s 	 	a	cloud	that	can	move	in	space	.
+here	is	the	video	.
+so	imagine	one	helicopter	,	like	the	one	we	saw	before	,	moving	with	 other 	 s 	 	,	in	 synchron 	 y 	 	.
+so	you	can	have	 th 	 is 	 	cloud	.
+you	can	have	a	kind	of	 flex 	 ible 	 	screen	or	 dis 	 play 	 	,	like	 th 	 is 	 	--	a	regular	 configu 	 ration 	 	in	two	 dimension 	 s 	 	.
+or	in	regular	,	but	in	three	 dimension 	 s 	 	,	where	the	thing	that	 change 	 s 	 	is	the	light	,	not	the	 pixel 	 s 	 	'	position	.
+you	can	play	with	a	different	type	.
+imagine	your	screen	could	just	appear	in	different	 scale 	 s 	 	or	 s 	 ize 	 s 	 	,	different	 type 	 s 	 	of	 re 	 solution 	 	.
+but	then	the	whole	thing	can	be	just	a	3d	cloud	of	 pixel 	 s 	 	that	you	can	approach	and	move	through	it	and	see	from	 man 	 y 	 	,	 man 	 y 	 	 direction 	 s 	 	.
+here	is	the	real	flyfire	control	and	going	down	to	form	the	regular	grid	 a 	 s 	 	before	.
+when	you	turn	on	the	light	,	 actual 	 ly 	 	you	see	 th 	 is 	 	.	so	the	same	 a 	 s 	 	we	saw	before	.
+and	imagine	each	of	them	then	controlled	by	people	.
+you	can	have	each	pixel	 hav 	 ing 	 	an	 in 	 put 	 	that	 come 	 s 	 	from	people	,	from	people	's	 move 	 ment 	 	,	or	so	and	so	.
+i	want	to	show	you	 some 	 thing 	 	here	for	the	first	time	.
+we	've	 be 	 en 	 	 work 	 ing 	 	with	roberto	_UNK_	,
+one	of	 to 	 day 	 	's	top	ballet	 danc 	 ers 	 	--	the	_UNK_	at	 metro 	 politan 	 	in	new	york	and	la	scala	in	milan	--	and	 actual 	 ly 	 	 capture 	 d 	 	his	 move 	 ment 	 	in	3d	in	order	to	use	it	 a 	 s 	 	an	 in 	 put 	 	for	flyfire	.
+and	here	you	can	see	roberto	 danc 	 ing 	 	.
+you	see	on	the	left	the	 pixel 	 s 	 	,	the	different	 re 	 solution 	 s 	 	 be 	 ing 	 	 capture 	 d 	 	.
+it	's	both	3d	 s 	 canning 	 	in	real	time	and	motion	capture	.
+so	you	can	 re 	 construct 	 	a	whole	 move 	 ment 	 	.
+you	can	go	all	the	way	through	.
+but	then	,	once	we	have	the	 pixel 	 s 	 	,	then	you	can	play	with	them	and	play	with	color	and	 move 	 ment 	 	and	 gravit 	 y 	 	and	 rot 	 ation 	 	.
+so	we	want	to	use	 th 	 is 	 	 a 	 s 	 	one	of	the	possible	 in 	 put 	 s 	 	for	flyfire	.
+i	 want 	 ed 	 	to	show	you	the	last	project	we	are	 work 	 ing 	 	on	.
+it	's	 some 	 thing 	 	we	're	 work 	 ing 	 	on	for	the	london	olympics	.
+it	's	 call 	 ed 	 	the	cloud	.
+and	the	idea	here	is	,	imagine	,	 aga 	 in 	 	,	we	can	involve	people	in	 do 	 ing 	 	 some 	 thing 	 	and	changing	our	environment	--	 al 	 most 	 	to	_UNK_	what	we	call	cloud	raising	--	like	barn	raising	,	but	with	a	cloud	.
+imagine	you	can	have	 every 	 body 	 	make	a	small	 don 	 ation 	 	for	one	pixel	.
+and	i	think	what	is	 remark 	 able 	 	that	 ha 	 s 	 	 happen 	 ed 	 	over	the	past	couple	of	 year 	 s 	 	is	that	,	over	the	past	couple	of	 decade 	 s 	 	,	we	went	from	the	physical	world	to	the	digital	one	.
+ th 	 is 	 	 ha 	 s 	 	 be 	 en 	 	 digit 	 izing 	 	 every 	 thing 	 	,	knowledge	,	and	making	that	 access 	 ible 	 	through	the	 inter 	 net 	 	.
+now	 to 	 day 	 	,	for	the	first	time	--	and	the	obama	campaign	 show 	 ed 	 	us	 th 	 is 	 	--	we	can	go	from	the	digital	world	,	from	the	self	-	 organ 	 izing 	 	power	of	 network 	 s 	 	,	to	the	physical	one	.
+ th 	 is 	 	can	be	,	in	our	case	,	we	want	to	use	it	for	 design 	 ing 	 	and	 do 	 ing 	 	a	symbol	.
+that	 mean 	 s 	 	 some 	 thing 	 	built	in	a	city	.
+but	 to 	 mor 	 row 	 	it	can	be	,	in	order	to	tackle	 to 	 day 	 	's	 press 	 ing 	 	 challeng 	 es 	 	--	think	about	climate	change	or	co	2	 e 	 mission 	 s 	 	--	how	we	can	go	from	the	digital	world	to	the	physical	one	.
+so	the	idea	that	we	can	 actual 	 ly 	 	involve	people	in	 do 	 ing 	 	 th 	 is 	 	thing	together	,	 collect 	 ively 	 	.
+the	cloud	is	a	cloud	,	 aga 	 in 	 	,	made	of	 pixel 	 s 	 	,	in	the	same	way	 a 	 s 	 	the	real	cloud	is	a	cloud	made	of	 particle 	 s 	 	.
+and	 t 	 hose 	 	 particle 	 s 	 	are	water	,	where	our	cloud	is	a	cloud	of	 pixel 	 s 	 	.
+it	's	a	physical	structure	in	london	,	but	 cover 	 ed 	 	with	 pixel 	 s 	 	.
+you	can	move	 in 	 side 	 	,	have	different	 type 	 s 	 	of	 experience 	 s 	 	.
+you	can	 actual 	 ly 	 	see	from	 under 	 neath 	 	,	sharing	the	main	 moment 	 s 	 	for	the	olympics	in	2012	and	beyond	,	and	 re 	 ally 	 	using	it	 a 	 s 	 	a	way	to	connect	with	the	community	.
+so	both	the	physical	cloud	in	the	sky	and	 some 	 thing 	 	you	can	go	to	the	top	[	of	]	,	like	london	's	new	 mountain 	 top 	 	.
+you	can	enter	 in 	 side 	 	it	.
+and	a	kind	of	new	digital	beacon	for	the	night	--	but	most	 import 	 ant 	 ly 	 	,	a	new	type	of	experience	for	 any 	 body 	 	who	will	go	to	the	top	.
+thank	you	.
+

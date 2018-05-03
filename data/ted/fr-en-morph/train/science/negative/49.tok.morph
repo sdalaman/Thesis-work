@@ -1,0 +1,173 @@
+je	vais	 présent 	 er 	 	trois	 projet 	 s 	 	en	tir	rapide	.
+je	n'ai	pas	beaucoup	de	temps	pour	le	faire	,	 e 	 t 	 	je	veux	 sou 	 ligne 	 r 	 	3	 idée 	 s 	 	dans	 ce 	 tte 	 	 présent 	 ation 	 	rapide	.
+la	1	_UNK_	est	ce	que	 j' 	 appelle 	 	un	 procéd 	 é 	 	hyper	-	 ration 	 nel 	 	.
+c'est	une	 dé 	 marche 	 	qui	pousse	la	 ration 	 alité 	 	à	un	niveau	quasi	-	 absurd 	 e 	 	 e 	 t 	 	qui	transcende	tout	le	 ba 	 gage 	 	venant	 habituel 	 lement 	 	avec	ce	que	les	 gen 	 s 	 	_UNK_	la	 con 	 clusion 	 	 ration 	 nelle 	 	 d' 	 un 	 	projet	.
+ e 	 t 	 	cela	 abouti 	 t 	 	à	ce	que	vous	voyez	ici	,	quelque	chose	que	vous	_UNK_	pas	comme	le	fruit	de	la	 ration 	 alité 	 	.
+la	deuxième	--	 e 	 uh 	 	--	la	deuxième	idée	est	que	ce	 process 	 us 	 	ne	porte	pas	de	 signa 	 ture 	 	.
+il	 n' 	 y 	 	a	pas	de	 patern 	 ité 	 	.	les	 architecte 	 s 	 	 s 	 ont 	 	 obsédé 	 s 	 	par	la	 patern 	 ité 	 	.
+ici	il	y	a	du	 mont 	 age 	 	 e 	 t 	 	des	 équipe 	 s 	 	.
+nous	ne	voyons	plus	,	dans	le	cadre	de	ce	 process 	 us 	 	,	le	 tradition 	 nel 	 	maître	architecte	qui	 cré 	 e 	 	une	ébauche	que	 réalise 	 nt 	 	 s 	 es 	 	_UNK_	.
+ e 	 t 	 	la	3e	idée	est	que	ce	 process 	 us 	 	 s' 	 attaque 	 	--	 e 	 t 	 	c'est	,	tout	au	long	,	très	difficile	à	 justifie 	 r 	 	,	à	faire	la	synthèse	-	 mai 	 s 	 	ce	 process 	 us 	 	 défi 	 e 	 	la	 no 	 tion 	 	haut	-	moderniste	de	 flex 	 ibilité 	 	.
+les	haut	-	 moderniste 	 s 	 	ont	dit	:	``	nous	allons	créer	des	 espace 	 s 	 	_UNK_	qui	 s 	 e 	 ront 	 	 géné 	 rique 	 s 	 	.
+où	 n' 	 importe 	 	quoi	peut	 s 	 e 	 	passer	à	 l' 	 intérieur 	 	.	``
+pour	moi	,	c'est	de	la	 flex 	 ibilité 	 	de	 fus 	 il 	 	à	pompe	.
+ tourne 	 z 	 	la	tête	comme	ça	,	 ti 	 rez 	 	,	 e 	 t 	 	c'est	sûr	que	vous	allez	tuer	quelque	-	chose	.
+voici	donc	la	 pro 	 messe 	 	du	haut	-	 modern 	 isme 	 	:	``	à	 l' 	 intérieur 	 	 d' 	 un 	 	seul	espace	,	tout	 gen 	 re 	 	 d' 	 activité 	 	peut	avoir	lieu	.	``
+ mai 	 s 	 	,	comme	nous	 constat 	 ons 	 	,	les	 charge 	 s 	 	 d' 	 exploitation 	 	 commence 	 nt 	 	à	écraser	les	 coût 	 s 	 	 d'im 	 mobil 	 isation 	 	en	 terme 	 s 	 	de	 para 	 mètre 	 s 	 	de	 con 	 ception 	 	.
+le	problème	,	avec	ce	 gen 	 re 	 	de	 con 	 ception 	 	,	c'est	que	ce	qui	 s 	 e 	 	 trouv 	 e 	 	dans	le	 bâti 	 ment 	 	le	jour	de	 l' 	 ouverture 	 	,	ou	ce	qui	semble	 répond 	 re 	 	au	besoin	le	plus	 pre 	 ssant 	 	,	tend	à	 ré 	 duire 	 	les	choix	 e 	 t 	 	donc	à	_UNK_	,	la	possibilité	de	 tout 	 e 	 	autre	fonction	.
+nous	 propos 	 ons 	 	donc	un	autre	type	de	 flex 	 ibilité 	 	,	celle	que	nous	 appel 	 ons 	 	``	la	 flex 	 ibilité 	 	 compartiment 	 ée 	 	.	``
+c'est	 l' 	 idée 	 	que	,	de	ce	 continu 	 um 	 	,	on	identifie	une	 séri 	 e 	 	de	 point 	 s 	 	 aux 	 quel 	 s 	 	la	 con 	 ception 	 	va	 s' 	 adapter 	 	 précis 	 é 	 ment 	 	.
+les	 point 	 s 	 	peuvent	être	 légère 	 ment 	 	 déca 	 lés 	 	,	 mai 	 s 	 	en	bout	de	 cours 	 e 	 	vous	 retrouve 	 z 	 	 tout 	 es 	 	les	 nuance 	 s 	 	du	 spect 	 re 	 	initial	que	vous	 souhait 	 iez 	 	à	 l' 	 origine 	 	.
+avec	la	 flex 	 ibilité 	 	haut	-	moderniste	,	cela	ne	marche	 vrai 	 ment 	 	pas	.
+je	vais	 main 	 tenant 	 	 parle 	 r 	 	de	--	je	vais	 construi 	 re 	 	la	 biblio 	 thèque 	 	 central 	 e 	 	de	seattle	 dev 	 ant 	 	 vo 	 s 	 	yeux	,	avec	 ce 	 tte 	 	approche	,	en	5	ou	6	 dia 	 gramme 	 s 	 	,	 e 	 t 	 	c'est	 vrai 	 ment 	 	le	 process 	 us 	 	de	 con 	 ception 	 	que	vous	allez	voir	.
+avec	le	personnel	 e 	 t 	 	le	conseil	 d' 	 administration 	 	de	la	 biblio 	 thèque 	 	,	nous	avons	 op 	 té 	 	pour	deux	 position 	 s 	 	de	base	.
+voici	la	première	,	qui	montre	,	au	cours	des	900	 der 	 nières 	 	 année 	 s 	 	,	 l' 	 évolution 	 	du	livre	 e 	 t 	 	 d' 	 autre 	 s 	 	 technologie 	 s 	 	.
+ce	 dia 	 gramme 	 	était	 not 	 re 	 	 déclara 	 tion 	 	de	position	en	ce	qui	 concern 	 e 	 	le	livre	,	 e 	 t 	 	 not 	 re 	 	position	était	que	les	 livre 	 s 	 	 s 	 ont 	 	de	la	technologie	--	ce	que	les	 gen 	 s 	 	 oublie 	 nt 	 	-	 mai 	 s 	 	une	forme	de	technologie	qui	va	 de 	 voir 	 	 partage 	 r 	 	 s 	 a 	 	 domi 	 nance 	 	avec	 tout 	 e 	 	autre	forme	de	technologie	ou	média	 vrai 	 ment 	 	 puissant 	 e 	 	.
+la	deuxième	prémisse	-	avec	 la 	 quelle 	 	nous	avons	eu	beaucoup	de	mal	à	 convainc 	 re 	 	les	 bibliothécaire 	 s 	 	au	début	--	est	que	les	 biblio 	 thèque 	 s 	 	,	 de 	 puis 	 	le	tout	début	de	la	tradition	de	la	 biblio 	 thèque 	 	carnegie	en	 amér 	 ique 	 	,	ont	une	seconde	 respons 	 abilité 	 	-	celle	de	leur	rôle	social	.
+bien	,	je	vais	y	 re 	 venir 	 	plus	tard	,	 mai 	 s 	 	ce	que	,	les	 bibliothécaire 	 s 	 	nous	ont	 d' 	 abord 	 	dit	était	:	``	non	,	ce	n'est	pas	 not 	 re 	 	mandat	.
+ not 	 re 	 	mandat	,	c'est	les	 média 	 s 	 	,	 e 	 t 	 	 sur 	 tout 	 	le	livre	.	``
+ce	que	vous	voyez	donc	ici	est	 effective 	 ment 	 	le	dessin	du	 bâti 	 ment 	 	.
+le	schéma	du	haut	illustre	ce	que	nous	voyons	dans	beaucoup	de	 biblio 	 thèque 	 s 	 	 contemporain 	 es 	 	 utilis 	 ant 	 	la	 flex 	 ibilité 	 	haut	-	moderniste	.
+là	où	 tout 	 es 	 	 sort 	 es 	 	 d' 	 activité 	 s 	 	 pour 	 raient 	 	 s 	 e 	 	 déroule 	 r 	 	 n' 	 importe 	 	où	.
+``	nous	ne	 con 	 naissons 	 	pas	 l' 	 avenir 	 	de	la	 biblio 	 thèque 	 	,	nous	ne	 con 	 naissons 	 	pas	 l' 	 avenir 	 	du	livre	,	nous	 adopter 	 ons 	 	donc	 ce 	 tte 	 	approche	.	``
+ e 	 t 	 	ce	que	nous	avons	vu	,	 c' 	 était 	 	des	 bâti 	 ment 	 s 	 	très	 géné 	 rique 	 s 	 	.
+ e 	 t 	 	,	 pi 	 re 	 	,	non	 seul 	 ement 	 	avons	nous	vu	des	 bâti 	 ment 	 s 	 	très	 géné 	 rique 	 s 	 	-	donc	non	 seul 	 ement 	 	la	 s 	 alle 	 	de	lecture	ressemble	à	la	_UNK_	qui	ressemble	au	coin	des	 magazin 	 es 	 	-	 mai 	 s 	 	cela	 fais 	 ait 	 	que	tout	problème	,	quoi	qu'il	soit	,	qui	 pré 	 occup 	 ait 	 	la	 biblio 	 thèque 	 	à	ce	moment	-	là	,	 s 	 e 	 	mettait	à	 engouff 	 rer 	 	 tout 	 e 	 	autre	activité	y	ayant	lieu	.
+ e 	 t 	 	en	ce	cas	-	ci	,	ce	qui	 s 	 e 	 	 fais 	 ait 	 	 engouff 	 rer 	 	était	 ce 	 s 	 	 respons 	 abilité 	 s 	 	 social 	 es 	 	--	par	 l' 	 expansion 	 	du	livre	.
+nous	avons	donc	 propos 	 é 	 	 ce 	 ci 	 	,	dans	le	 dia 	 gramme 	 	du	bas	.
+ méthod 	 e 	 	assez	 simple 	 tte 	 	:	 compartiment 	 er 	 	,	 e 	 t 	 	c'est	tout	.	mettre	les	 chose 	 s 	 	 do 	 nt 	 	 l' 	 évolution 	 	était	 pré 	 visible 	 	-	 e 	 t 	 	je	ne	veux	pas	 prétend 	 re 	 	 pré 	 dire 	 	tout	ce	qui	 arrive 	 rait 	 	dans	le	futur	,	 mai 	 s 	 	nous	avons	un	 de 	 gré 	 	de	certitude	sur	 l' 	 étendue 	 	des	 per 	 spective 	 s 	 	pour	 l' 	 avenir 	 	-	les	 place 	 r 	 	dans	des	 boîte 	 s 	 	 conçu 	 es 	 	 spécifique 	 ment 	 	à	 ce 	 t 	 	effet	,	 e 	 t 	 	 place 	 r 	 	les	 chose 	 s 	 	que	nous	ne	 pouv 	 ons 	 	pas	 pré 	 voir 	 	sur	les	 toit 	 s 	 	.
+ c' 	 était 	 	donc	 l' 	 idée 	 	de	base	.
+ en 	 suite 	 	,	nous	avons	dû	 convainc 	 re 	 	la	 biblio 	 thèque 	 	que	la	mission	 social 	 e 	 	était	aussi	 important 	 e 	 	que	les	 média 	 s 	 	 af 	 in 	 	de	les	mener	à	 accepte 	 r 	 	 ce 	 tte 	 	 pro 	 position 	 	.
+ce	que	vous	voyez	ici	est	en	effet	leur	programme	,	là	,	à	gauche	.
+ voil 	 à 	 	ce	que	 l' 	 on 	 	nous	a	donné	,	en	 tout 	 e 	 	 s 	 a 	 	clarté	 e 	 t 	 	 glo 	 ire 	 	.
+ not 	 re 	 	première	 dé 	 marche 	 	était	de	la	re	-	 di 	 gérer 	 	,	la	 re 	 dirige 	 r 	 	vers	eux	 e 	 t 	 	dire	;	``	hé	,	vous	 s 	 avez 	 	,	on	ne	la	pas	touché	,	 mai 	 s 	 	 seul 	 ement 	 	un	tiers	de	 vot 	 re 	 	propre	programme	,	à	vous	,	est	consacré	aux	 média 	 s 	 	 e 	 t 	 	aux	 livre 	 s 	 	.
+les	deux	tiers	 s 	 ont 	 	 dé 	 jà 	 	 consacré 	 s 	 	-	là	,	la	bande	blanche	en	bas	-	ce	que	vous	avez	affirmé	ne	pas	être	important	:	 s 	 ont 	 	 dé 	 jà 	 	 consacré 	 s 	 	aux	 fonction 	 s 	 	 social 	 es 	 	.	``
+une	fois	,	donc	,	que	nous	leur	avions	 présent 	 é 	 	tout	sous	 ce 	 t 	 	angle	-	ci	,	ils	étaient	 d' 	 accord 	 	que	ce	 gen 	 re 	 	 d' 	 idée 	 	de	base	pourrait	 marche 	 r 	 	.
+nous	avons	eu	droit	de	 retourne 	 r 	 	aux	 principe 	 s 	 	 prim 	 aires 	 	-	-	 e 	 t 	 	c'est	le	troisième	 dia 	 gramme 	 	.	nous	avons	tout	 re 	 groupé 	 	.
+puis	nous	avons	 commenc 	 é 	 	à	prendre	des	 nouvelle 	 s 	 	 décision 	 s 	 	.
+à	droite	vous	voyez	le	dessin	de	la	 biblio 	 thèque 	 	,	 spécifique 	 ment 	 	en	 terme 	 s 	 	de	 mètre 	 s 	 	 carré 	 s 	 	.
+du	 co 	 té 	 	gauche	de	ce	schéma	,	ici	,	vous	 pouv 	 ez 	 	voir	une	 séri 	 e 	 	de	cinq	 plate 	 formes 	 	-	comme	des	 alvéo 	 les 	 	;	des	 fonction 	 s 	 	 groupé 	 es 	 	.
+ e 	 t 	 	du	 co 	 té 	 	droit	 s 	 ont 	 	les	 espace 	 s 	 	encore	_UNK_	,	des	 s 	 alle 	 s 	 	de	lecture	par	exemple	,	 do 	 nt 	 	 l' 	 évolution 	 	des	20	,	30	,	40	 prochain 	 es 	 	 année 	 s 	 	ne	peuvent	être	 prévu 	 e 	 	.
+ ce 	 ci 	 	était	donc	,	 littéral 	 ement 	 	,	le	plan	du	 bâti 	 ment 	 	.
+ils	 l' 	 ont 	 	signé	 e 	 t 	 	,	à	leur	grand	_UNK_	,	nous	 somme 	 s 	 	 re 	 venu 	 s 	 	vers	eux	une	semaine	plus	tard	pour	leur	 présent 	 er 	 	 ce 	 ci 	 	.
+bon	.	 e 	 t 	 	,	comme	vous	voyez	,	c'est	 littéral 	 ement 	 	le	 dia 	 gramme 	 	de	droite	.
+ d' 	 accord 	 	?	nous	avons	 simple 	 ment 	 	calibré	-	non	,	 sérieuse 	 ment 	 	,	je	 l' 	 entend 	 s 	 	 littéral 	 ement 	 	.
+les	 section 	 s 	 	du	-	du	côté	gauche	du	 dia 	 gramme 	 	,	ils	 s 	 ont 	 	 devenu 	 s 	 	 ce 	 s 	 	 boîte 	 s 	 	.
+nous	avons	ajusté	cinq	 compartiment 	 s 	 	à	leur	 t 	 aille 	 	.
+ils	 s 	 ont 	 	super	-	 efficace 	 s 	 	.	nous	avons	dû	 travaille 	 r 	 	avec	un	budget	très	serré	.
+nous	les	avons	 dé 	 placé 	 s 	 	par	-	ci	par	-	là	sur	le	site	 af 	 in 	 	de	créer	des	 rapport 	 s 	 	_UNK_	très	 littér 	 aux 	 	.
+la	 s 	 alle 	 	de	lecture	 dev 	 rait 	 	voir	le	plan	 d' 	 eau 	 	.
+ l' 	 entrée 	 	 principal 	 e 	 	 dev 	 rait 	 	donner	sur	une	 grand 	 e 	 	place	publique	 af 	 in 	 	de	 respect 	 er 	 	le	 zo 	 nage 	 	,	 e 	 t 	 	ainsi	de	suite	.
+vous	voyez	donc	les	cinq	 plate 	 formes 	 	-	 ce 	 s 	 	 boîte 	 s 	 	-	ci	-	à	 l' 	 intérieur 	 	de	 chacun 	 e 	 	 s 	 e 	 	passe	une	chose	très	 distinct 	 e 	 	.
+ l' 	 espace 	 	entre	elles	 cré 	 e 	 	une	 sort 	 e 	 	de	 continu 	 um 	 	urbain	,	 ce 	 s 	 	 chose 	 s 	 	 do 	 nt 	 	nous	ne	 pouv 	 ons 	 	pas	 pré 	 dire 	 	 l' 	 évolution 	 	 jus 	 qu'au 	 	même	 de 	 gré 	 	.
+pour	vous	donner	un	sens	de	 l' 	 envergure 	 	de	 ce 	 tte 	 	idée	,	le	plus	grand	bloc	,	nous	 l'appel 	 ons 	 	la	spirale	des	 livre 	 s 	 	.
+elle	est	 construit 	 e 	 	de	façon	très	peu	onéreuse	-	c'est	un	 park 	 ing 	 	pour	 livre 	 s 	 	.
+il	s'adonne	à	être	situé	du	6e	au	10e	étage	du	 bâti 	 ment 	 	,	 mai 	 s 	 	 ce 	 tte 	 	solution	n'est	pas	 forcé 	 ment 	 	 coût 	 euse 	 	.
+elle	permet	 d' 	 organiser 	 	 tout 	 e 	 	la	 class 	 ification 	 	 décimal 	 e 	 	dewey	en	un	 parcour 	 s 	 	continu	.
+ per 	 mettant 	 	sans	problème	de	 croît 	 re 	 	ou	de	 s 	 e 	 	 contract 	 er 	 	à	 l' 	 intérieur 	 	du	 bâti 	 ment 	 	.
+elle	va	 tou 	 jour 	 s 	 	 garde 	 r 	 	 ce 	 tte 	 	clarté	qui	mettra	fin	à	 ce 	 tte 	 	espèce	de	voie	_UNK_	que	nous	avons	tous	 connu 	 e 	 	dans	les	 biblio 	 thèque 	 s 	 	 publique 	 s 	 	.
+ c' 	 était 	 	donc	 l' 	 étape 	 	 final 	 e 	 	;	prendre	 ce 	 s 	 	 bloc 	 s 	 	,	que	nous	avions	mis	de	_UNK_	,	 e 	 t 	 	les	 ancre 	 r 	 	avec	un	 re 	 vêtement 	 	.
+ce	 re 	 vêtement 	 	sert	à	deux	 chose 	 s 	 	,	encore	pour	des	 rais 	 ons 	 	 budgétaire 	 s 	 	.
+ d' 	 abord 	 	,	 fourni 	 r 	 	de	la	stabilité	 latéral 	 e 	 	à	 tout 	 e 	 	la	construction	:	c'est	un	élément	_UNK_	.	 mai 	 s 	 	 s 	 es 	 	 caractér 	 istique 	 s 	 	 fur 	 ent 	 	 conçu 	 es 	 	non	 seul 	 ement 	 	pour	la	structure	,	 mai 	 s 	 	aussi	pour	 re 	 tenir 	 	 tout 	 es 	 	les	 vit 	 re 	 s 	 	.
+ ce 	 s 	 	 vit 	 re 	 s 	 	 fur 	 ent 	 	 en 	 suite 	 	-	je	vais	 simple 	 ment 	 	utiliser	le	mot	'	 imprégné 	 es 	 	'	-	on	leur	a	appliqué	une	couche	de	métal	qui	 s' 	 appelle 	 	du	métal	tendu	.
+ce	métal	agit	comme	une	micro	-	persienne	,	pour	que	,	de	 l' 	 extérieur 	 e 	 	du	 bâti 	 ment 	 	,	le	soleil	le	voit	comme	 total 	 ement 	 	opaque	,	alors	que	,	de	 l' 	 intérieur 	 	,	c'est	 complète 	 ment 	 	 trans 	 parent 	 	.
+alors	,	je	vais	 main 	 tenant 	 	vous	faire	 visite 	 r 	 	le	 bâti 	 ment 	 	.
+voyons	si	 j' 	 arrive 	 	à	le	trouver	.	 s' 	 il 	 	y	en	a	 par 	 mi 	 	vous	qui	--	qui	 s 	 ont 	 	 sujet 	 s 	 	au	mal	des	 transport 	 s 	 	,	je	 m' 	 excuse 	 	.
+voici	donc	le	 bâti 	 ment 	 	.
+ e 	 t 	 	je	crois	que	c'est	important	,	 lors 	 que 	 	nous	avons	 d' 	 abord 	 	 dévo 	 il 	 é 	 	le	 bâti 	 ment 	 	,	le	public	a	 pens 	 é 	 	-	l'a	vu	comme	la	 pur 	 e 	 	expression	de	 no 	 s 	 	 cap 	 rices 	 	 e 	 t 	 	de	 not 	 re 	 	ego	.
+ e 	 t 	 	il	fut	 défend 	 u 	 	,	croyez	-	le	ou	non	,	par	les	 bibliothécaire 	 s 	 	.	ils	ont	dit	:	``	ecoutez	,	nous	ne	 s 	 avons 	 	pas	ce	que	c'est	,	 mai 	 s 	 	nous	 s 	 avons 	 	qu'il	couvre	tous	 no 	 s 	 	 besoin 	 s 	 	,	 s 	 e 	 lon 	 	les	 observation 	 s 	 	que	nous	avons	faites	 concern 	 ant 	 	le	programme	.	``
+ici	nous	 pass 	 ons 	 	par	 l' 	 une 	 	des	 entrée 	 s 	 	.
+c'est	donc	un	 bâti 	 ment 	 	inhabituel	pour	une	 biblio 	 thèque 	 	publique	,	évidemment	.
+ici	nous	 ent 	 rons 	 	dans	ce	que	nous	 appel 	 ons 	 	la	 s 	 alle 	 	de	lecture	-	pardon	,	le	salon	.
+c'est	 vrai 	 ment 	 	une	fonction	que	nous	avons	 inventé 	 e 	 	avec	la	 biblio 	 thèque 	 	.
+ reconnaît 	 re 	 	que	les	 biblio 	 thèque 	 s 	 	_UNK_	 offre 	 nt 	 	le	dernier	 vesti 	 ge 	 	 d' 	 espace 	 	libre	 e 	 t 	 	gratuit	.
+il	y	a	tout	plein	de	 centre 	 s 	 	 com 	 merci 	 aux 	 	pour	 s' 	 abriter 	 	de	la	pluie	au	centre	-	ville	de	seattle	,	 mai 	 s 	 	il	y	a	beaucoup	moins	 d' 	 espace 	 s 	 	 gratuit 	 s 	 	où	 l' 	 on 	 	peut	 s' 	 abriter 	 	de	la	pluie	.
+nous	 off 	 rons 	 	donc	un	espace	sans	 proto 	 cole 	 	où	les	 gen 	 s 	 	peuvent	faire	 n' 	 importe 	 	quoi	,	y	compris	 mange 	 r 	 	,	 hurle 	 r 	 	,	 joue 	 r 	 	aux	 échec 	 s 	 	 e 	 t 	 	cetera	.
+nous	 mont 	 ons 	 	 main 	 tenant 	 	vers	ce	que	nous	avons	baptisé	la	 s 	 alle 	 	de	 mix 	 age 	 	.
+ c' 	 était 	 	le	principal	local	technique	du	 bâti 	 ment 	 	.
+il	faut	me	le	dire	si	je	vais	trop	vite	.
+on	 mont 	 e 	 	.
+ici	,	c'est	 l' 	 espace 	 	que	nous	avons	prévu	dans	le	 bâti 	 ment 	 	là	où	je	 pour 	 rais 	 	 propose 	 r 	 	le	 mari 	 age 	 	à	ma	femme	.	juste	là	.
+elle	a	dit	oui	.
+il	ne	me	reste	que	très	peu	de	temps	,	alors	je	vais	 arrête 	 r 	 	là	.
+je	 pour 	 rai 	 	vous	 montre 	 r 	 	 ce 	 ci 	 	plus	tard	.
+ mai 	 s 	 	voyons	si	je	peux	 rapide 	 ment 	 	nous	amener	dans	la	spirale	des	 livre 	 s 	 	,	parce	que	je	crois	,	je	répète	,	la	 parti 	 e 	 	la	plus	-	voici	la	 s 	 alle 	 	de	lecture	 principal 	 e 	 	-	la	 parti 	 e 	 	du	 bâti 	 ment 	 	la	plus	singulière	.
+pas	encore	le	 verti 	 ge 	 	?
+ e 	 t 	 	 voil 	 à 	 	,	nous	 ent 	 rons 	 	dans	la	spirale	des	 livre 	 s 	 	.
+bon	,	c'est	pas	évident	à	s'en	apercevoir	,	 mai 	 s 	 	c'est	 effective 	 ment 	 	un	escalier	continu	.
+il	permet	,	en	 s 	 e 	 	 déplaç 	 ant 	 	sur	un	_UNK_	urbain	,	de	 mont 	 er 	 	un	étage	entier	.	c'est	donc	sur	un	 continu 	 um 	 	.
+bon	,	je	vais	faire	demi	-	tour	 main 	 tenant 	 	pour	 atterri 	 r 	 	sur	un	autre	projet	.
+je	vais	le	 parcour 	 ir 	 	très	très	vite	.
+ voil 	 à 	 	le	théâtre	de	dallas	.	un	client	inhabituel	pour	nous	parce	 qu'il 	 s 	 	 s 	 ont 	 	 venu 	 s 	 	nous	dire	:	``	nous	avons	besoin	de	vous	pour	faire	un	 bâti 	 ment 	 	tout	neuf	.	nous	 travail 	 lons 	 	dans	un	espace	provisoire	 de 	 puis 	 	trente	 an 	 s 	 	,	 mai 	 s 	 	grâce	à	 ce 	 tte 	 	espace	provisoire	nous	 somme 	 s 	 	 devenu 	 s 	 	une	compagnie	 théâtral 	 e 	 	 no 	 toire 	 	.
+la	 s 	 cène 	 	a	son	vrai	foyer	à	new	york	,	chicago	 e 	 t 	 	seattle	,	sauf	 l' 	 exception 	 	de	la	compagnie	 théâtral 	 e 	 	de	dallas	.	``
+ e 	 t 	 	ce	fait	même	 qu'il 	 s 	 	 travail 	 laient 	 	dans	un	espace	provisoire	 fais 	 ait 	 	que	pour	beckett	ils	 pouv 	 aient 	 	faire	sauter	un	mur	;	ils	 pouv 	 aient 	 	 mont 	 er 	 	``	la	cerisaie	``	 e 	 t 	 	 fonce 	 r 	 	un	trou	dans	le	sol	,	 e 	 t 	 	cetera	.
+nous	nous	 trouv 	 ions 	 	alors	 dev 	 ant 	 	la	très	_UNK_	tâche	 d' 	 avoir 	 	à	faire	un	 bâti 	 ment 	 	 flam 	 ba 	 nt 	 	neuf	qui	 garde 	 rait 	 	-	qui	 s 	 e 	 rait 	 	un	 bâti 	 ment 	 	'	_UNK_	'	,	 mai 	 s 	 	qui	 garde 	 rait 	 	ce	caractère	 expéri 	 mental 	 	.
+ e 	 t 	 	de	deux	,	c'est	ce	que	 l' 	 on 	 	appelle	un	théâtre	_UNK_	:	on	 mont 	 e 	 	 tout 	 es 	 	 sort 	 es 	 	de	 spectacle 	 s 	 	venant	 d' 	 un 	 	 réperto 	 ire 	 	.
+le	matin	on	fait	du	théâtre	-	en	-	rond	,	puis	en	 pro 	 s 	 ce 	 nium 	 	 e 	 t 	 	ainsi	de	suite	.
+ils	avaient	besoin	alors	de	passer	 rapide 	 ment 	 	 d' 	 une 	 	forme	 d' 	 organisation 	 	de	 l' 	 espace 	 	de	jeu	à	 l' 	 autre 	 	,	 e 	 t 	 	pour	des	 rais 	 ons 	 	 d' 	 économie 	 	des	 charge 	 s 	 	 d' 	 exploitation 	 	,	 ce 	 ci 	 	ne	 s 	 e 	 	fait	 pratique 	 ment 	 	plus	dans	la	 plu 	 part 	 	des	 théâtre 	 s 	 	 polyvalent 	 s 	 	aux	etats	-	 uni 	 s 	 	.
+nous	avons	dû	,	alors	,	inventer	un	moyen	de	 surmonte 	 r 	 	ce	problème	.
+nous	avons	 décid 	 é 	 	alors	de	 re 	 mettre 	 	le	théâtre	 littéral 	 ement 	 	sens	dessus	-	dessous	:	prendre	les	 segment 	 s 	 	 jus 	 qu' 	 alors 	 	 défini 	 s 	 	comme	côté	public	 e 	 t 	 	côté	 s 	 cène 	 	 e 	 t 	 	les	 empile 	 r 	 	-	niveau	public	 e 	 t 	 	niveau	 s 	 cène 	 	-	 e 	 t 	 	ainsi	créer	ce	que	nous	avons	nommé	une	machine	 théâtral 	 e 	 	.
+nous	 investi 	 ssons 	 	les	 fond 	 s 	 	du	 co 	 té 	 	de	 l' 	 exploitation 	 	du	 bâti 	 ment 	 	.
+on	pourrait	 pres 	 que 	 	poser	ce	 bâti 	 ment 	 	 n' 	 importe 	 	où	:	où	que	vous	le	posez	,	 l' 	 espace 	 	là	-	dessous	est	ainsi	équipé	pour	le	spectacle	 théâtral 	 e 	 	.
+il	nous	a	aussi	 per 	 mis 	 	un	retour	aux	 principe 	 s 	 	 prim 	 aires 	 	 e 	 t 	 	une	nouvelle	 con 	 ception 	 	des	 cintre 	 s 	 	,	de	 l' 	 enveloppe 	 	acoustique	,	de	 l' 	 enveloppe 	 	 d' 	 éclairage 	 	 e 	 t 	 	ainsi	de	suite	.
+au	simple	 touche 	 r 	 	 d' 	 un 	 	 bou 	 ton 	 	,	il	permet	au	 directe 	 ur 	 	artistique	de	passer	entre	une	 s 	 cène 	 	en	 pro 	 s 	 ce 	 nium 	 	,	en	 é 	 per 	 on 	 	 e 	 t 	 	,	 vrai 	 ment 	 	,	en	rond	 e 	 t 	 	 process 	 ion 	 naire 	 	 e 	 t 	 	 jus 	 qu'au 	 	 par 	 terre 	 	vide	par	des	 con 	 figuration 	 s 	 	très	 rapide 	 s 	 	.
+nous	 pouv 	 ons 	 	donc	 effective 	 ment 	 	aller	,	en	 utilis 	 ant 	 	le	budget	 d' 	 exploitation 	 	nous	 pouv 	 ons 	 	-	 excuse 	 z 	 	-	moi	,	le	budget	 d'im 	 mobil 	 isation 	 	-	nous	 pouv 	 ons 	 	en	effet	faire	ce	qui	 n' 	 était 	 	plus	 fais 	 able 	 	avec	le	budget	 d' 	 exploitation 	 	.
+ ce 	 ci 	 	veut	dire	que	 dés 	 ormais 	 	le	 directe 	 ur 	 	artistique	dispose	 d' 	 une 	 	 pale 	 tte 	 	 d' 	 où 	 	il	ou	elle	peut	 sélection 	 ner 	 	entre	une	 gamm 	 e 	 	de	formes	 e 	 t 	 	une	 gamm 	 e 	 	de	_UNK_	,	parce	que	 ce 	 tte 	 	enceinte	 auto 	 ur 	 	du	théâtre	,	ce	piège	qui	fige	 habituel 	 lement 	 	le	côté	public	 e 	 t 	 	le	côté	 s 	 cène 	 	,	nous	 l' 	 avons 	 	fait	 joue 	 r 	 	.
+le	 directe 	 ur 	 	artistique	dispose	ainsi	des	 moyen 	 s 	 	de	 présent 	 er 	 	-	 réalise 	 r 	 	un	spectacle	qui	commence	par	une	 process 	 ion 	 	 wagnér 	 ienne 	 	,	comprend	un	premier	acte	sur	 s 	 cène 	 	en	 é 	 per 	 on 	 	,	un	_UNK_	en	forme	de	 process 	 ion 	 	 grec 	 que 	 	un	deuxième	acte	en	arène	 e 	 t 	 	ainsi	de	suite	.
+je	vais	vous	 montre 	 r 	 	ce	que	-	ce	que	 ce 	 ci 	 	veut	dire	 pratique 	 ment 	 	.
+voici	le	théâtre	vu	de	près	.
+ cha 	 que 	 	segment	de	la	paroi	du	théâtre	peut	être	ouvert	 séparé 	 ment 	 	.
+ l' 	 enveloppe 	 	 d' 	 éclairage 	 	peut	être	 relevé 	 e 	 	 in 	 dépend 	 am 	 ment 	 	de	 l' 	 enveloppe 	 	acoustique	.	vous	 pouv 	 ez 	 	ainsi	 mont 	 er 	 	du	beckett	avec	dallas	comme	 ride 	 au 	 	de	fond	.
+des	 panne 	 aux 	 	 extérieur 	 es 	 	peuvent	être	 ouvert 	 s 	 	pour	que	vous	 puis 	 s 	 iez 	 	faire	entrer	des	_UNK_	en	 plein 	 e 	 	 s 	 cène 	 	,	ou	tout	 simple 	 ment 	 	 mont 	 er 	 	un	spectacle	en	plein	air	,	ou	pour	 l' 	 ent 	 r 	 acte 	 	.
+les	 bal 	 con 	 s 	 	 s 	 ont 	 	tous	 mobile 	 s 	 	pour	 s' 	 adapter 	 	à	 tout 	 es 	 	 ce 	 s 	 	 con 	 figuration 	 s 	 	,	 mai 	 s 	 	ils	 s 	 ont 	 	aussi	_UNK_	.
+la	cage	de	 s 	 cène 	 	peut	aussi	 disparaît 	 re 	 	.
+vous	 pouv 	 ez 	 	faire	entrer	des	 objet 	 s 	 	 énorme 	 s 	 	 e 	 t 	 	,	en	effet	,	leur	-	le	premier	spectacle	de	la	compagnie	 théâtral 	 e 	 	de	dallas	-	 s 	 era 	 	une	pièce	sur	charles	lindbergh	,	 e 	 t 	 	il	faudra	 qu'il 	 s 	 	 fasse 	 nt 	 	entrer	des	 vrai 	 s 	 	avions	.
+ e 	 t 	 	puis	le	 bâti 	 ment 	 	leur	permet	aussi	,	en	dehors	de	la	saison	 théâtral 	 e 	 	,	 lou 	 er 	 	leur	local	pour	des	 évènement 	 s 	 	 total 	 ement 	 	 différent 	 s 	 	.
+le	voici	de	nuit	-	 excuse 	 z 	 	moi	,	vu	de	loin	.
+ouvrir	des	 segment 	 s 	 	tout	 entier 	 s 	 	pour	 tout 	 es 	 	 sort 	 es 	 	 d' 	 évènement 	 s 	 	.
+ e 	 t 	 	de	nuit	.
+encore	,	 dégage 	 r 	 	 l' 	 enveloppe 	 	 d' 	 éclairage 	 	;	 garde 	 r 	 	 l' 	 enveloppe 	 	acoustique	.
+ voil 	 à 	 	une	exposition	de	 camion 	 s 	 	 gigantesque 	 s 	 	.
+je	vais	vous	 montre 	 r 	 	 main 	 tenant 	 	le	dernier	projet	.
+ce	client	-	ci	est	 égale 	 ment 	 	peu	 us 	 uel 	 	.
+ils	ont	 complète 	 ment 	 	inversé	les	 principe 	 s 	 	de	la	promotion	 im 	 mobil 	 ière 	 	.
+ lorsqu' 	 ils 	 	nous	ont	 rencontr 	 és 	 	ils	ont	dit	-	à	la	différence	des	 pro 	 moteur 	 s 	 	 commun 	 s 	 	-	ils	ont	dit	,	``	nous	 voul 	 ons 	 	 commence 	 r 	 	par	 l' 	 idée 	 	 d' 	 offrir 	 	un	 mus 	 ée 	 	 d' 	 art 	 	contemporain	à	louisville	.	c'est	 not 	 re 	 	objectif	principal	.	``
+ainsi	,	au	lieu	 d' 	 agir 	 	comme	un	 pro 	 moteur 	 	qui	ne	voit	que	 l' 	 occasion 	 	de	faire	de	 l' 	 argent 	 	,	ils	ont	compris	 qu'il 	 s 	 	 pour 	 raient 	 	 joue 	 r 	 	le	rôle	de	 catalyse 	 ur 	 	dans	leur	centre	-	ville	.
+ e 	 t 	 	le	fait	 qu'il 	 s 	 	 voul 	 aient 	 	 sou 	 tenir 	 	le	 mus 	 ée 	 	 d' 	 art 	 	contemporain	a	 effective 	 ment 	 	construit	leur	pro	forma	 dé 	 taillé 	 	.
+ils	ont	donc	 procéd 	 é 	 	à	 l'en 	 vers 	 	.
+ce	même	pro	forma	nous	a	 mené 	 s 	 	à	 construi 	 re 	 	un	 bâti 	 ment 	 	hybride	de	 t 	 aille 	 	 important 	 e 	 	 af 	 in 	 	de	 sati 	 s 	 faire 	 	 leur 	 s 	 	 aspiration 	 s 	 	 concern 	 ant 	 	l'art	,	 mai 	 s 	 	il	a	aussi	créé	des	 occasion 	 s 	 	pour	l'art	lui	-	même	de	 collabore 	 r 	 	,	interagir	,	avec	des	 espace 	 s 	 	 com 	 merci 	 aux 	 	;	un	cadre	dans	 le 	 quel 	 	les	 artiste 	 s 	 	 désir 	 ent 	 	de	plus	en	plus	 fréquem 	 ment 	 	 travaille 	 r 	 	.
+il	a	 égale 	 ment 	 	 exi 	 gé 	 	de	nous	de	penser	à	comment	obtenir	quelque	chose	qui	 s 	 e 	 rait 	 	 e 	 t 	 	un	 bâti 	 ment 	 	autonome	 e 	 t 	 	un	vrai	composant	de	 l' 	 ensemble 	 	.
+ main 	 tenant 	 	je	vais	-	voici	la	silhouette	de	louisville	-	je	vais	vous	faire	la	liste	des	 différent 	 es 	 	 contraint 	 es 	 	qui	ont	donné	son	expression	au	projet	.
+les	 contraint 	 es 	 	 physique 	 s 	 	 d' 	 abord 	 	.	nous	avons	dû	en	effet	 inter 	 venir 	 	sur	trois	 chant 	 iers 	 	 séparé 	 s 	 	,	tous	beaucoup	,	beaucoup	plus	petits	que	 l' 	 empreinte 	 	 ré 	 elle 	 	du	 bâti 	 ment 	 	.
+nous	avons	dû	 inter 	 venir 	 	à	 co 	 té 	 	du	nouveau	centre	muhammad	ali	tout	en	le	 respect 	 ant 	 	.
+nous	avons	dû	 inter 	 venir 	 	à	 l' 	 intérieur 	 e 	 	de	la	zone	 inond 	 able 	 	de	la	 cru 	 e 	 	_UNK_	.
+ dé 	 jà 	 	,	 ce 	 tte 	 	zone	est	 inondé 	 e 	 	trois	à	quatre	fois	par	an	 e 	 t 	 	il	y	a	une	 levé 	 e 	 	derrière	 not 	 re 	 	 chant 	 ier 	 	similaire	à	 celle 	 s 	 	qui	ont	cédé	à	la	nouvelle	orléans	.
+nous	 dev 	 ons 	 	 inter 	 venir 	 	derrière	 l' 	 axe 	 	i	-	64	,	une	 r 	 ue 	 	qui	passe	entre	les	trois	 site 	 s 	 	.
+alors	 ce 	 s 	 	-	nous	 comme 	 nçons 	 	à	fabriquer	une	espèce	de	cauchemar	de	 contraint 	 es 	 	dans	une	 baig 	 noir 	 e 	 	.
+sous	la	 baig 	 noir 	 e 	 	 s 	 e 	 	 trouv 	 e 	 	le	réseau	principal	 d' 	 électricité 	 	de	la	ville	.
+ e 	 t 	 	puis	on	a	voulu	 ajoute 	 r 	 	un	 parcour 	 s 	 	_UNK_	entre	une	 séri 	 e 	 	_UNK_	 d' 	 intérêt 	 	culturel	,	 e 	 t 	 	une	 per 	 spective 	 	-	 puisqu 	 e 	 	c'est	le	quartier	historique	-	 qu'il 	 s 	 	ne	 voul 	 aient 	 	pas	 gêne 	 r 	 	avec	ce	nouveau	 bâti 	 ment 	 	.
+ e 	 t 	 	 main 	 tenant 	 	nous	allons	 ajoute 	 r 	 	100.000	,	00	 mètre 	 s 	 	 carré 	 s 	 	.
+ e 	 t 	 	si	nous	avions	fait	dans	le	 tradition 	 nel 	 	,	 ce 	 s 	 	100.000	,	00	 mètre 	 s 	 	 carré 	 s 	 	-	 voil 	 à 	 	les	 différent 	 s 	 	 programme 	 s 	 	-	 tradition 	 nelle 	 ment 	 	on	 identifie 	 rait 	 	les	 élément 	 s 	 	 public 	 s 	 	,	 e 	 t 	 	les	_UNK_	sur	des	 site 	 s 	 	,	 e 	 t 	 	 s 	 e 	 	 trouver 	 ait 	 	dans	une	 situ 	 ation 	 	 abo 	 minable 	 	:	un	aménagement	public	 plant 	 é 	 	dans	une	 baig 	 noir 	 e 	 	qui	déborde	.
+ en 	 suite 	 	on	_UNK_	tous	les	 autre 	 s 	 	 élément 	 s 	 	-	les	 élément 	 s 	 	 com 	 merci 	 aux 	 	 varié 	 s 	 	:	hôtel	,	 loge 	 ment 	 s 	 	de	 lux 	 e 	 	,	 bureau 	 x 	 	 e 	 t 	 	ainsi	de	suite	-	 e 	 t 	 	tout	_UNK_	là	-	dessus	.	 e 	 t 	 	nous	aurions	créer	quelque	chose	_UNK_	.
+en	effet	-	 e 	 t 	 	vous	le	 s 	 avez 	 	-	cela	 s' 	 appelle 	 	 l' 	 édifice 	 	time	warner	.
+ not 	 re 	 	stratégie	était	alors	très	simple	.
+juste	 re 	 lever 	 	le	bloc	tout	entier	,	 bascule 	 r 	 	 certain 	 s 	 	 élément 	 s 	 	,	les	 pousse 	 r 	 	un	peu	pour	leur	donner	la	 per 	 spective 	 	 e 	 t 	 	la	 juxta 	 position 	 	 désir 	 ées 	 	par	rapport	au	centre	-	ville	,	créer	des	accès	_UNK_	 e 	 t 	 	faire	 dé 	 vier 	 	la	route	.
+c'est	donc	le	concept	de	base	,	 e 	 t 	 	je	vais	 main 	 tenant 	 	vous	 montre 	 r 	 	où	on	en	 abouti 	 t 	 	.
+ d' 	 accord 	 	,	on	 di 	 rait 	 	un	geste	très	stylisé	,	 voir 	 e 	 	têtu	,	 mai 	 s 	 	il	 dé 	 coule 	 	 directe 	 ment 	 	de	 s 	 es 	 	 contraint 	 es 	 	.
+ e 	 t 	 	,	encore	une	fois	,	 lors 	 que 	 	nous	 l' 	 avons 	 	 dévo 	 il 	 é 	 	,	nous	avons	 constat 	 er 	 	une	 certain 	 e 	 	 craint 	 e 	 	que	 l' 	 on 	 	avait	affaire	à	un	architecte	qui	 voul 	 ait 	 	 signe 	 r 	 	son	 manifest 	 e 	 	,	 e 	 t 	 	non	pas	à	un	architecte	qui	 voul 	 ait 	 	 résoud 	 re 	 	une	 séri 	 e 	 	de	 problème 	 s 	 	.
+bon	,	à	 l' 	 intérieur 	 	de	 ce 	 tte 	 	zone	 central 	 e 	 	,	comme	j'ai	dit	,	nous	avons	la	possibilité	de	 mélange 	 r 	 	plein	de	 chose 	 s 	 	.
+vous	voyez	ici	que	 ce 	 s 	 	-	 ce 	 tte 	 	-	on	 di 	 rait 	 	une	 radio 	 graphie 	 	-	les	 tour 	 s 	 	 s 	 ont 	 	 entière 	 ment 	 	 conçu 	 es 	 	 s 	 e 	 lon 	 	le	 ca 	 hier 	 	des	 charge 	 s 	 	des	 pro 	 moteur 	 s 	 	.	ils	nous	ont	 précis 	 é 	 	les	 dimension 	 s 	 	,	les	 volu 	 mes 	 	 e 	 t 	 	cetera	 e 	 t 	 	nous	avons	 focal 	 isé 	 	sur	le	 re 	 groupe 	 ment 	 	de	tous	les	 composant 	 s 	 	 public 	 s 	 	-	les	 hall 	 s 	 	,	les	 bar 	 s 	 	,	tout	ce	qui	 appar 	 tiendrai 	 t 	 	aux	 élément 	 s 	 	 com 	 merci 	 aux 	 	-	leur	 re 	 groupe 	 ment 	 	au	 mi 	 lieu 	 	,	dans	ce	 gen 	 re 	 	de	plan	du	métro	,	dans	_UNK_	qui	 comprend 	 rait 	 	aussi	le	 mus 	 ée 	 	 d' 	 art 	 	contemporain	.
+il	en	 résult 	 e 	 	une	 situ 	 ation 	 	comme	celle	-	ci	,	où	vous	avez	des	 artiste 	 s 	 	qui	peuvent	opérer	dans	un	espace	 d' 	 art 	 	au	vingt	-	deuxième	étage	 com 	 prenant 	 	aussi	une	vue	_UNK_	,	 mai 	 s 	 	elle	dispose	aussi	 d' 	 une 	 	 pro 	 x 	 imité 	 	que	le	 conserv 	 ateur 	 	peut	_UNK_	ou	non	.
+elle	permet	que	les	 s 	 port 	 ifs 	 	sur	 leur 	 s 	 	vélo	 d' 	 appartement 	 	soient	 vu 	 s 	 	,	ou	 puis 	 s 	 ent 	 	voir	l'art	,	 e 	 t 	 	ainsi	de	suite	.
+elle	fait	aussi	que	si	un	artiste	veut	 colon 	 iser 	 	une	 pisci 	 ne 	 	,	par	exemple	,	il	peut	ouvrir	son	exposition	dans	la	 pisci 	 ne 	 	.
+il	n'est	pas	obligé	à	 tou 	 jour 	 s 	 	 travaille 	 r 	 	dans	les	 limite 	 s 	 	du	plan	de	la	 gal 	 erie 	 	 contemporain 	 e 	 	.
+comment	 construi 	 re 	 	cela	alors	?
+c'est	très	simple	:	c'est	une	 cha 	 ise 	 	.
+nous	 comme 	 nçons 	 	donc	par	 construi 	 re 	 	les	 noy 	 aux 	 	.
+au	fur	 e 	 t 	 	mesure	que	nous	 construis 	 ons 	 	les	 noy 	 aux 	 	,	nous	 construis 	 ons 	 	le	 mus 	 ée 	 	 d' 	 art 	 	au	niveau	du	sol	,	ce	qui	permet	une	efficacité	 e 	 t 	 	une	 rent 	 abilité 	 	 incroyable 	 s 	 	.
+ce	n'est	pas	un	 bâti 	 ment 	 	à	gros	budget	.
+dès	que	les	 noy 	 aux 	 	 arrive 	 nt 	 	au	niveau	central	,	nous	 termin 	 ons 	 	le	 mus 	 ée 	 	 d' 	 art 	 	,	nous	y	 inst 	 allons 	 	tout	 l' 	 équipement 	 	mécanique	 e 	 t 	 	puis	nous	le	 sou 	 lev 	 ons 	 	au	_UNK_	.
+on	construit	les	 grand 	 s 	 	 han 	 gar 	 s 	 	par	 ce 	 tte 	 	 méthod 	 e 	 	,	ceux	que	 l' 	 on 	 	a	fait	pour	le	a	380	par	exemple	.
+ termine 	 r 	 	les	 noy 	 aux 	 	,	 termine 	 r 	 	la	 chai 	 r 	 	,	 e 	 t 	 	vous	avez	un	objet	comme	 ce 	 ci 	 	.
+il	ne	me	reste	 main 	 tenant 	 	environ	30	 seconde 	 s 	 	,	alors	je	 voudrai 	 s 	 	 démarre 	 r 	 	un	film	 d' 	 animation 	 	,	 e 	 t 	 	nous	allons	 clo 	 re 	 	avec	ça	.
+chris	m'a	 demand 	 é 	 	 d' 	 ajoute 	 r 	 	-	que	le	théâtre	est	en	construction	,	 e 	 t 	 	la	construction	de	ce	projet	-	ci	va	 début 	 er 	 	 d' 	 ici 	 	un	an	à	peu	près	,	 e 	 t 	 	 termine 	 r 	 	en	2010	.
+

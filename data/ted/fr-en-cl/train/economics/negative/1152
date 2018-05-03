@@ -1,0 +1,194 @@
+moi je pense que les données peuvent en fait nous rendre plus humains .
+nous récoltons et créons toutes sortes de données sur notre environnement de vie , et cela nous permet de raconter des histoires étonnantes .
+récemment , un sage théoricien des medias a _UNK_ , " la culture du 19ème siècle était définie par le roman , la culture du 20ème siècle était définie par le cinéma , et la culture du 21ème siècle sera définie par l'interface . "
+et je crois que cela va se vérifier .
+nos vies sont _UNK_ par les données , et la présentation des ces données est pour nous une opportunité de créer des interfaces étonnantes qui racontent de grandes histoires .
+je vais donc vous montrer quelques - uns des projets sur lesquels j'ai travaillé ces deux dernières années et qui reflètent nos vies et nos systèmes .
+voici un projet nommé flight patterns .
+ce que vous voyez là est le trafic aérien au - dessus de l'amérique du nord pendant 24h .
+comme vous voyez , tout se fond jusqu'à devenir noir , et vous voyez les gens s'endormir .
+après ça , vous voyez sur la côte ouest des avions qui traversent , les vols à l'oeil rouge vers la côte est.
+et vous allez voir tout le monde _UNK_ sur la côte est , suivis par les vols européens qui arrivent dans le coin en haut à droite .
+tout le monde migre de la côte est à la côte ouest .
+vous voyez san francisco et los angeles commencer leur voyage vers hawaii dans le coin en bas à gauche .
+je pense que c'est une chose de dire qu'il y a 140 000 avions suivis par le gouvernement fédéral à un instant donné , et c'est une autre chose de voir ce système dans son flux et reflux .
+c'est une prise de vue accélérée de l'exacte même donnée , mais je l'ai codée en couleur par type , pour que l'on puisse voir la diversité des avions dans le ciel au - dessus de nos têtes .
+et j'ai commencé à faire ces vues et je les ai intégrées à google maps vous pouvez zoomer et voir chaque aéroport et les motifs qui se dessinent .
+ici nous voyons que le blanc représente les basses altitudes , et le bleu ce sont les altitudes plus élevées .
+et vous pouvez zoomer . là , c'est une vue d'atlanta .
+vous pouvez voir ici un important aéroport de fret , et il y a toutes sortes d'activités là - bas .
+vous pouvez aussi basculer d'une altitude à l'autre par modèle et fabricant .
+voyez , encore , la diversité .
+et vous pouvez faire défiler l'ensemble et voir quelques - uns des différents aéroports et leurs différents motifs .
+voilà une vue en remontant la côte est.
+vous voyez un peu du chaos qui anime new york avec les contrôleurs aériens qui doivent gérer tous ces aéroports majeurs proches les uns des autres .
+en dézoomant très vite nous voyons , à nouveau , les etats - unis -- vous avez la floride en bas à droite .
+en se déplaçant jusqu'à la côte ouest , vous voyez san francisco et los angeles -- de grandes zones à faible trafic le long du nevada et de l'arizona .
+et nous voici là , à los angeles et long beach en bas .
+j'ai aussi commencé jeter un oeil aux différents paramètres , car on peut choisir ce que l'on veut extraire des données .
+voilà une vue comparant les vols _UNK_ et descendants .
+et vous voyez , dans le temps , comment les aéroports changent .
+vous voyez les motifs persistants qui commencent à se développer en bas de l'écran .
+et vous voyez finalement l'aéroport qui change vraiment de directions .
+voilà un autre projet sur lequel j'ai travaillé avec le sensible cities lab du mit .
+voilà une vue des communications internationales .
+et voilà comment new york communique avec d'autres villes internationales .
+et nous avons mis cela en place comme un globe en live au musée d'art moderne de new york à l'occasion de l'exposition design the _UNK_ mind .
+et il a été alimenté par un flux pendant 24h , donc on pouvait voir la relation évoluer , et des infos démographiques qui provenaient des données at&t et se révélaient .
+voici un autre projet sur lequel j'ai travaillé avec le sensible cities lab et _UNK_ .
+et cela montre des sms envoyés dans la ville d'amsterdam .
+vous voyez le flux et reflux quotidien des gens qui envoient des sms des différentes parties de la ville jusqu'à l'approche du nouvel an où tout le monde dit " bonne année ! "
+donc c'est un outil interactif que vous pouvez déplacer partout , pour voir différentes parties de la ville .
+ici nous observons un autre événement . on l'appelle le jour de la reine .
+là encore , vous avez ce flux et reflux quotidien des gens qui envoient des sms des différentes parties de la ville .
+et vous allez voir des gens se rassembler dans le centre - ville pour faire la fête la veille comme ça se passe juste là .
+ensuite vous voyez les gens faire la fête le lendemain .
+et vous pouvez faire pause et avancer et reculer pour voir différentes phases .
+passons maintenant à quelque chose de totalement différent .
+certains d'entre vous connaissent peut - être .
+voici la machine à jouer aux échecs du baron wolfgang von _UNK_ .
+c'est un robot étonnant qui joue très bien aux échecs , sauf pour un détail : ce n'est pas du tout un robot .
+c'est en fait un homme sans jambes qui est assis dans cette boite et contrôle ce joueur d'échecs .
+cela a inspiré un web service d'amazon appelé le turc mécanique -- d'après le nom de ce type .
+et c'est basé sur le postulat que certaines choses sont faciles pour les gens , mais vraiment compliquées pour les ordinateurs .
+alors ils ont fait ce web service et dit " n'importe quel programmeur peut écrire un bout de code et puiser dans les esprits de milliers de gens . "
+mon côté nerd a pensé " wahou , c'est fou .
+je peux puiser dans les esprits de milliers de gens . "
+et mon autre côté nerd a pensé " c'est horrible . c'est totalement bizarre .
+qu'est - ce que ça implique pour le futur de l'humanité , que nous sommes tous branchés à ce _UNK_ ? "
+j'étais sans doute un peu extrême .
+mais qu'est - ce que ça veut dire quand nous n'avons pas le contexte pour ce sur quoi nous travaillons et nous faisons juste ces petites tâches .
+alors j'ai créé cet outil pour dessiner .
+j'ai demandé aux gens de dessiner un mouton qui regarde à gauche .
+et j'ai dit " je vous payerai 2 cents pour votre contribution . "
+et j'ai commencé à collectionner les moutons .
+j'ai réuni beaucoup , beaucoup de moutons différents .
+des tas de moutons .
+j'ai pris les premiers 10 000 moutons que j'avais réunis , et je les ai mis sur un site appelé _UNK_ où vous pouvez en fait acheter des collections de 20 moutons .
+vous ne pouvez pas choisir un mouton à l'unité mais vous pouvez acheter un block de vignettes comme matière première .
+et juxtaposée à la grille vous pouvez vous en passant la souris sur chaque mouton , l'humanité derrière cet immense processus mécanique .
+je pense qu'il y a quelque chose de vraiment intéressant à regarder les gens passer par ce labeur créatif -- quelque chose qui nous parle à tous , ce processus créatif d'essayer d'inventer quelque chose à partir de rien .
+je trouve que c'était vraiment intéressant de mettre en regard cette humanité avec cette grille massive et disséminée .
+c'est assez étonnant ce que certaines personnes ont fait .
+voici quelques statistiques sur le projet .
+un taux _UNK_ de 11 moutons par jour ce que représente un salaire de 69 cents par heure .
+662 moutons ont été rejetés car ils _UNK_ pas dans les critères et on les a sortis du troupeau .
+le temps passé à dessiner allait de 4 secondes à 46 minutes .
+cela vous donne une idée des différents types de motivations et d'engagement .
+et il y a eu 7 599 contributeurs au projet , en tout cas qui avaient une adresse ip unique -- ça représente à peu près le nombre de personnes qui ont contribué .
+mais un seul de ces 7 599 personnes a dit ceci .
+ce qui m'a plutôt surpris .
+je m'attendais à ce que les gens se demandent " pourquoi j'ai choisi un mouton ? "
+et je trouve que c'est une question plutôt pertinente .
+et il y a beaucoup de raisons pour lesquelles j'ai choisi un mouton .
+le mouton a été le premier animal qui a été élevé avec des produits dérivés produits mécaniquement , le premier qui a été sélectionné pour ses caractéristiques de reproduction , le premier qui a été cloné .
+manifestement nous voyons les moutons comme des suiveurs .
+ensuite il y a la référence au " petit prince " où le narrateur demande au prince de dessiner un mouton .
+il dessine un mouton après l'autre .
+le narrateur ne _UNK_ que quand il dessine une boite .
+et il dit " tu n'as pas besoin de dessiner un mouton scientifiquement exact .
+ce qui compte c'est ton interprétation et faire quelque chose de différent . "
+et j'aime ça .
+voici un extrait des temps modernes de charlie chaplin .
+cela montre charlie chaplin aux prises avec quelques changements majeurs pendant la révolution industrielle .
+il n'y avait plus de fabricants de chaussures , mais il y avait des gens qui _UNK_ des semelles sur les chaussures .
+et l'idée globale de la relation de chacun à son travail , avait beaucoup changé .
+alors j'ai pensé que c'était une vidéo intéressante qu'on pouvait découper en 16 morceaux et je les ai injectés dans le turc mécanique avec un outil de dessin .
+cela a permis en fait -- ce que vous voyez à gauche est l'image originale , et à droite vous voyez cette image interprétée par 16 personnes qui n'avaient aucune idée de ce qu'ils étaient en train de faire .
+et ça a été l'inspiration pour un projet sur lequel j'ai travaillé avec mon ami _UNK_ _UNK_ .
+nous avons décidé d'utiliser le turc mécanique pour sa raison d'être précise , qui était de rapporter de l'argent .
+alors nous avons pris une centaine de dollars et les avons divisé en 10 000 morceaux minuscules et nous les avons placés dans le turc mécanique .
+nous avons demandé aux gens dire ce qu'ils voyaient .
+mais là il n'y avait pas de critère de " mouton ressemblant " .
+les gens , s'ils tiraient un personnage en bâtons ou un smiley , ça entrait dans le billet .
+donc ce que vous voyez est vraiment une représentation de la manière dont les gens ont bien fait ce qui leur était demandé .
+nous avons donc pris ces cent billets d'un dollar , et nous les avons mis sur un site appelé _UNK_ , où vous pouvez passer en revue toutes les contributions individuelles .
+et vous pouvez aussi échanger des vrais billets de cent dollars contre des faux billets de cent dollars et faire un don au projet _UNK_ dollar laptop , qui est aussi connu désormais sous le nom un laptop par enfant .
+voilà encore toutes les différentes contributions .
+vous voyez que certains ont fait de très beaux rendus pointillés comme celui - ci en haut -- ils ont passé du temps à faire des versions réalistes .
+et d'autres ont dessiné des personnages en bâtons ou des smileys .
+ici à droite au milieu vous voyez le type qui écrit " $ _UNK_ !!! _UNK_ ? "
+c'est tout ce que vous me donnez pour ça ?
+bon , le dernier projet turc mécanique dont je vais vous parler porte le nom de bicyclette construite pour 2000 .
+c'est une collaboration avec mon ami daniel _UNK_ .
+vous reconnaîtrez peut - être ces deux types .
+ce sont max _UNK_ et john kelly du bell labs dans les années 60 où ils ont créé la chanson " daisy bell " , qui a été le premier ordinateur chantant au monde .
+vous reconnaîtrez peut - être dans " 2001 : l'odyssée de l'espace " quand hal est en train de mourir à la fin et commence à chanter cette chanson comme une référence au moment où les ordinateurs sont devenus humains .
+donc nous avons reproduit cette chanson .
+voilà à quoi ça ressemblait .
+nous avons décomposé toutes les notes et les phonèmes dans la chanson .
+daisy bell : ♫ daisy , daisy ... ♫ aaron koblin : et nous avons pris toutes les pièces unitaires , et nous les avons entrées dans une autre requête turc .
+voici à quoi ça ressemblerait si vous alliez sur le site .
+vous tapez votre code , et testez d'abord votre micro .
+on vous fournirait un simple clip audio .
+et alors vous feriez de votre mieux pour le recréer avec votre propre voix .
+après l'avoir visualisé et confirmé comme votre contribution , vous pourriez le soumettre au turc mécanique sans aucun contexte additionnel .
+et voici ce que nous avons reçu du tout premier jeu de _UNK_ .
+enregistrement en cours : ♫ daisy , daisy ♫ ♫ give me your answer do ♫ ♫ i 'm half crazy ♫ ♫ all for the love of you ♫ ♫ it ca n't be a stylish marriage ♫ ♫ i ca n't afford a carriage ♫ ♫ but you _UNK_ look sweet upon the seat ♫ ♫ of a bicycle built for two ♫ ak : alors james _UNK_ a cette idée de la sagesse des foules , qui dit qu'un groupe de gens est plus intelligent que n'importe quel individu .
+nous voulions voir comment ceci s'applique au _UNK_ , à la création de musique distribuée , où personne n'a la moindre idée de ce sur quoi il travaille .
+donc si vous allez sur _UNK_ vous pouvez vraiment entendre ce que ça donne tout ensemble .
+désolé pour ça .
+_UNK_ : ♫ daisy , daisy ♫ ♫ give me your answer do ♫ ♫ i 'm half crazy ♫ ♫ all for the love of you ♫ ♫ it ca n't be a stylish marriage ♫ ♫ i ca n't afford a carriage ♫ ♫ but you 'd look sweet upon the seat ♫ ♫ of a bicycle built for two ♫ ak : alors en revenant en arrière un instant , quand j'étais à ucla à l'université , je travaillais aussi au center for _UNK_ network _UNK_ .
+et je _UNK_ un logiciel pour les scanners à laser visuel .
+donc principalement du mouvement dans un espace 3d .
+et un réalisateur de l.a. appelé james frost l'a vu et a dit " attendez une minute .
+vous voulez dire qu'on peut tourner un clip musical sans utiliser de vidéo ? "
+et on a fait exactement ça .
+nous avons fait une vidéo musicale d'un de mes groupes favoris , radiohead .
+et je crois qu'une de mes parties préférées du projet ce n'était pas de tourner une vidéo avec des lasers , mais le fait de le rendre open source , et comment nous l'avons sorti en tant que projet google code avec lequel les gens pouvaient télécharger un paquet de données et du code source pour construire leur propre version .
+et les gens ont fait des choses étonnantes .
+voici deux de mes préférées : le tableau d'affichage thom yorke et un lego thom yorke .
+une chaîne youtube entière où les gens postent des contenus vraiment intéressants .
+plus récemment , quelqu'un a même imprimé en 3d la tête de thom yorke qui fait un peu peur , mais est assez sympa .
+alors avec tous ces gens qui produisent tant de choses étonnantes et comprennent vraiment ce sur quoi ils travaillaient j'avais vraiment envie d'essayer de faire un projet collaboratif où les gens travailleraient ensemble pour construire quelque chose .
+et j'ai rencontré un réalisateur musical , chris milk .
+et nous avons commencé à lancer des idées pour faire un projet de vidéo musicale collaborative .
+mais nous savions que nous avions vraiment besoin de la bonne personne pour rallier tout le monde derrière elle et donner envie de construire .
+alors nous avons mis l'idée en veilleuse quelques mois .
+et il a fini par parler à rick rubin , qui terminait l'album de johnny cash " ai n't no grave . "
+les paroles du morceau principal sont " aucune tombe ne peut plaquer mon corps au sol " alors nous avons pensé que c'était le projet idéal pour construire un mémorial collaboratif et une résurrection virtuelle pour johnny cash .
+alors j'ai fait équipe avec mon bon ami ricardo _UNK_ aussi connu sous le nom de m. _UNK_ , qui est un bien meilleur programmeur que moi , et il a fait cet étonnant outil de dessin en flash .
+comme vous le savez , une animation est une série d'images .
+et ce que nous avons fait c'est couper des séquences d'archives de johnny cash , et à 8 images par seconde , nous avons permis à des gens de dessiner une image unique qui serait intégrée dans cette vidéo musicale qui change de façon dynamique .
+bien , je n'ai pas le temps de vous le montrer en entier , mais je voulais vous montrer deux courts extraits .
+l'un est le début du clip vidéo .
+et juste après vous verrez un clip court où des gens qui ont contribué au projet en parlent brièvement .
+johnny cash : ♫ there ai n't no grave ♫ ♫ can hold my body down ♫ ♫ there ai n't no grave ♫ ♫ can hold body down ♫ ♫ when i _UNK_ the _UNK_ sound ♫ ♫ i 'm going to ride right out of the ground ♫ ♫ ai n't no grave ♫ ♫ can hold my body ... ♫ ak : quelle meilleure manière de rendre hommage à l'homme que de faire quelque chose pour une de ses chansons .
+collaborateur : j'ai été vraiment triste quand il est mort .
+et je me suis dit que ça serait merveilleux ça serait vraiment super de faire quelque chose en sa mémoire .
+collaborateur 2 : ça fait vraiment de son dernier enregistrement un mémorial vivant , qui respire .
+_UNK_ 3 : que toutes les images soient dessinées par des fans , chaque image individuelle , ça donne une impression très puissante à l'ensemble .
+collaborateur 4 : j'ai vu tout le monde du japon , du venezuela , aux etats - unis , à knoxville , tennessee .
+collaborateur 5 : c'est tellement différent d'image en image , c'est vraiment personnel .
+collaborateur 6 : en regardant cette vidéo dans ma chambre , je me voyais dans l'incompréhension au début .
+et j'ai travaillé et travaillé sur les problèmes , jusqu'à ce que mes petites batailles de détails dans l'image commencent à toutes se résoudre .
+alors je vois le moment où je sais ce que je suis en train de faire , et beaucoup de lumière et d'ombre entre .
+et curieusement , c'est aussi ce que j'aime dans la musique de johnny cash .
+c'est la somme de sa vie , toutes les choses qui étaient arrivées -- les mauvaises , les bonnes .
+vous entendez la vie d'une personne .
+ak : si vous allez sur le site _UNK_ , ce que vous verrez c'est la vidéo ci - dessus .
+et en - dessous ce sont les images individuelles que les gens ont _UNK_ pour le projet .
+donc ce n'est pas du tout un travail fini , c'est un projet toujours ouvert auquel les gens peuvent continuer à collaborer .
+si vous passez la souris sur n'importe laquelle de ces vignettes individuelles , vous verrez la personne qui a dessiné cette image et où elle se trouve géographiquement .
+et si vous en trouvez une qui vous intéresse , vous pouvez cliquer dessus et ouvrir une fiche d'information où vous pouvez lui donner une note , ce l'aide à remonter dans la liste .
+vous pouvez aussi voir comment elle a été dessinée .
+là encore , vous pouvez jouer la vidéo et vous la contribution personnelle .
+en plus de ça , sont _UNK_ le nom de l'artiste , sa localisation , le temps qu'il a mis à dessiner l'image .
+et vous pouvez choisir un style . celle - ci a été _UNK_ " _UNK_ . "
+il y a un tas de styles différents .
+et vous pouvez arranger la vidéo de beaucoup de façons différentes .
+vous pouvez dire " je veux voir la version _UNK_ ou la version schématique ou la version réaliste . "
+et voici encore la version abstraite , qui finit de façon un peu folle .
+bien . le dernier projet dont je veux vous parler est une autre collaboration avec chris milk .
+elle s'appelle " the wilderness downtown . "
+c'est une vidéo musicale pour the _UNK_ fire .
+chris et moi - même étions très surpris du potentiel actuel avec les navigateurs web modernes , avec _UNK_ 5 audio et vidéo et la puissance du javascript pour un rendu incroyablement rapide .
+et nous voulions promouvoir l'idée d'une vidéo musicale faite pour le web au - delà de la fenêtre _UNK_ ou _UNK_ et essayer de la faire jouer et la chorégraphier partout dans l'écran .
+mais plus important encore , je pense , nous voulions vraiment faire une expérience différente du projet johnny cash , où nous aurions un petit groupe de personnes passant beaucoup de temps pour produire quelque chose pour tous .
+et si nous avions un engagement très bas , mais arrivions à créer quelque chose d'unique pour chaque contributeur ?
+le projet commence en vous demandant d'entrer l'adresse où vous avez grandi .
+et vous tapez l'adresse -- et ça crée une vidéo musicale spécialement pour vous , en intégrant des images de google maps et streetview dans l'expérience elle - même .
+vous devriez vraiment voir ça chez vous en tapant votre propre adresse mais je vais vous donner un petit aperçu de ce à quoi vous pouvez vous attendre .
+_UNK_ butler : ♫aujourd'hui nos vies changent vite♫ ♫aujourd'hui nos vies changent vite♫ ♫j'espère que quelque chose de pur peut durer♫ ♫j'espère que quelque chose de pur peut durer♫ ♫ooh on attendait♫ ♫ooh on attendait♫ ♫ooh on attendait♫ ♫parfois ça n'arrivait jamais♫ ♫parfois ça n'arrivait jamais♫ toujours à évoluer dans la douleur on l'attendait on l'attendait on l'attendait ak : alors je crois que s'il y a une chose à retenir de ma présentation d'aujourd'hui , c'est qu'une interface peut être un outil puissant de narration .
+et alors que nous collectons de plus en plus de données personnelles et sociales pertinentes nous avons une opportunité , et peut - être même une obligation de maintenir l'humanité et de raconter des histoires étonnantes en explorant et en collaborant ensemble .
+merci beaucoup .

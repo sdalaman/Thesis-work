@@ -1,0 +1,159 @@
+i_en want_en to_en start_en my_en story_en in_en germany_en ,_en in_en 1877_en ,_en with_en a_en mathematician_en named_en georg_en cantor_en ._en
+and_en cantor_en decided_en he_en was_en going_en to_en take_en a_en line_en and_en erase_en the_en middle_en third_en of_en the_en line_en ,_en and_en then_en take_en those_en two_en resulting_en lines_en and_en bring_en them_en back_en into_en the_en same_en process_en ,_en a_en recursive_en process_en ._en
+so_en he_en starts_en out_en with_en one_en line_en ,_en and_en then_en two_en ,_en and_en then_en four_en ,_en and_en then_en 16_en ,_en and_en so_en on_en ._en
+and_en if_en he_en does_en this_en an_en infinite_en number_en of_en times_en ,_en which_en you_en can_en do_en in_en mathematics_en ,_en he_en ends_en up_en with_en an_en infinite_en number_en of_en lines_en ,_en each_en of_en which_en has_en an_en infinite_en number_en of_en points_en in_en it_en ._en
+so_en he_en realized_en he_en had_en a_en set_en whose_en number_en of_en elements_en was_en larger_en than_en infinity_en ._en
+and_en this_en blew_en his_en mind_en ._en literally_en ._en he_en checked_en into_en a_en sanitarium_en ._en
+and_en when_en he_en came_en out_en of_en the_en sanitarium_en ,_en he_en was_en convinced_en that_en he_en had_en been_en put_en on_en earth_en to_en found_en transfinite_en set_en theory_en because_en the_en largest_en set_en of_en infinity_en would_en be_en god_en himself_en ._en
+he_en was_en a_en very_en religious_en man_en ._en
+he_en was_en a_en mathematician_en on_en a_en mission_en ._en
+and_en other_en mathematicians_en did_en the_en same_en sort_en of_en thing_en ._en
+a_en swedish_en mathematician_en ,_en von_en koch_en ,_en decided_en that_en instead_en of_en subtracting_en lines_en ,_en he_en would_en add_en them_en ._en
+and_en so_en he_en came_en up_en with_en this_en beautiful_en curve_en ._en
+and_en there_en 's_en no_en particular_en reason_en why_en we_en have_en to_en start_en with_en this_en seed_en shape_en ;_en we_en can_en use_en any_en seed_en shape_en we_en like_en ._en
+and_en i_en 'll_en rearrange_en this_en and_en i_en 'll_en stick_en this_en somewhere_en --_en down_en there_en ,_en ok_en --_en and_en now_en upon_en iteration_en ,_en that_en seed_en shape_en sort_en of_en unfolds_en into_en a_en very_en different_en looking_en structure_en ._en
+so_en these_en all_en have_en the_en property_en of_en self_en -_en similarity_en :_en the_en part_en looks_en like_en the_en whole_en ._en
+it_en 's_en the_en same_en pattern_en at_en many_en different_en scales_en ._en
+now_en ,_en mathematicians_en thought_en this_en was_en very_en strange_en because_en as_en you_en shrink_en a_en ruler_en down_en ,_en you_en measure_en a_en longer_en and_en longer_en length_en ._en
+and_en since_en they_en went_en through_en the_en iterations_en an_en infinite_en number_en of_en times_en ,_en as_en the_en ruler_en shrinks_en down_en to_en infinity_en ,_en the_en length_en goes_en to_en infinity_en ._en
+this_en made_en no_en sense_en at_en all_en ,_en
+so_en they_en consigned_en these_en curves_en to_en the_en back_en of_en the_en math_en books_en ._en
+they_en said_en these_en are_en pathological_en curves_en ,_en and_en we_en do_en n't_en have_en to_en discuss_en them_en ._en and_en that_en worked_en for_en a_en hundred_en years_en ._en
+and_en then_en in_en 1977_en ,_en benoit_en mandelbrot_en ,_en a_en french_en mathematician_en ,_en realized_en that_en if_en you_en do_en computer_en graphics_en and_en used_en these_en shapes_en he_en called_en fractals_en ,_en you_en get_en the_en shapes_en of_en nature_en ._en
+you_en get_en the_en human_en lungs_en ,_en you_en get_en acacia_en trees_en ,_en you_en get_en ferns_en ,_en you_en get_en these_en beautiful_en natural_en forms_en ._en
+if_en you_en take_en your_en thumb_en and_en your_en index_en finger_en and_en look_en right_en where_en they_en meet_en --_en go_en ahead_en and_en do_en that_en now_en --_en --_en and_en relax_en your_en hand_en ,_en you_en 'll_en see_en a_en crinkle_en ,_en and_en then_en a_en wrinkle_en within_en the_en crinkle_en ,_en and_en a_en crinkle_en within_en the_en wrinkle_en ._en right_en ?_en
+your_en body_en is_en covered_en with_en fractals_en ._en
+the_en mathematicians_en who_en were_en saying_en these_en were_en pathologically_en useless_en shapes_en ?_en
+they_en were_en breathing_en those_en words_en with_en fractal_en lungs_en ._en
+it_en 's_en very_en ironic_en ._en and_en i_en 'll_en show_en you_en a_en little_en natural_en recursion_en here_en ._en
+again_en ,_en we_en just_en take_en these_en lines_en and_en recursively_en replace_en them_en with_en the_en whole_en shape_en ._en
+so_en here_en 's_en the_en second_en iteration_en ,_en and_en the_en third_en ,_en fourth_en and_en so_en on_en ._en
+so_en nature_en has_en this_en self_en -_en similar_en structure_en ._en
+nature_en uses_en self_en -_en organizing_en systems_en ._en
+now_en in_en the_en 1980s_en ,_en i_en happened_en to_en notice_en that_en if_en you_en look_en at_en an_en aerial_en photograph_en of_en an_en african_en village_en ,_en you_en see_en fractals_en ._en
+and_en i_en thought_en ,_en "_en this_en is_en fabulous_en !_en i_en wonder_en why_en ?_en "_en and_en of_en course_en i_en had_en to_en go_en to_en africa_en and_en ask_en folks_en why_en ._en
+so_en i_en got_en a_en fulbright_en scholarship_en to_en just_en travel_en around_en africa_en for_en a_en year_en asking_en people_en why_en they_en were_en building_en fractals_en ,_en which_en is_en a_en great_en job_en if_en you_en can_en get_en it_en ._en
+and_en so_en i_en finally_en got_en to_en this_en city_en ,_en and_en i_en 'd_en done_en a_en little_en fractal_en model_en for_en the_en city_en just_en to_en see_en how_en it_en would_en sort_en of_en unfold_en --_en but_en when_en i_en got_en there_en ,_en i_en got_en to_en the_en palace_en of_en the_en chief_en ,_en and_en my_en french_en is_en not_en very_en good_en ;_en i_en said_en something_en like_en ,_en "_en i_en am_en a_en mathematician_en and_en i_en would_en like_en to_en stand_en on_en your_en roof_en ._en "_en but_en he_en was_en really_en cool_en about_en it_en ,_en and_en he_en took_en me_en up_en there_en ,_en and_en we_en talked_en about_en fractals_en ._en
+and_en he_en said_en ,_en "_en oh_en yeah_en ,_en yeah_en !_en we_en knew_en about_en a_en rectangle_en within_en a_en rectangle_en ,_en we_en know_en all_en about_en that_en ._en "_en and_en it_en turns_en out_en the_en royal_en insignia_en has_en a_en rectangle_en within_en a_en rectangle_en within_en a_en rectangle_en ,_en and_en the_en path_en through_en that_en palace_en is_en actually_en this_en spiral_en here_en ._en
+and_en as_en you_en go_en through_en the_en path_en ,_en you_en have_en to_en get_en more_en and_en more_en polite_en ._en
+so_en they_en 're_en mapping_en the_en social_en scaling_en onto_en the_en geometric_en scaling_en ;_en it_en 's_en a_en conscious_en pattern_en ._en it_en is_en not_en unconscious_en like_en a_en termite_en mound_en fractal_en ._en
+this_en is_en a_en village_en in_en southern_en zambia_en ._en
+the_en ba_en -_en ila_en built_en this_en village_en about_en 400_en meters_en in_en diameter_en ._en
+you_en have_en a_en huge_en ring_en ._en
+the_en rings_en that_en represent_en the_en family_en enclosures_en get_en larger_en and_en larger_en as_en you_en go_en towards_en the_en back_en ,_en and_en then_en you_en have_en the_en chief_en 's_en ring_en here_en towards_en the_en back_en and_en then_en the_en chief_en 's_en immediate_en family_en in_en that_en ring_en ._en
+so_en here_en 's_en a_en little_en fractal_en model_en for_en it_en ._en
+here_en 's_en one_en house_en with_en the_en sacred_en altar_en ,_en here_en 's_en the_en house_en of_en houses_en ,_en the_en family_en enclosure_en ,_en with_en the_en humans_en here_en where_en the_en sacred_en altar_en would_en be_en ,_en and_en then_en here_en 's_en the_en village_en as_en a_en whole_en --_en a_en ring_en of_en ring_en of_en rings_en with_en the_en chief_en 's_en extended_en family_en here_en ,_en the_en chief_en 's_en immediate_en family_en here_en ,_en and_en here_en there_en 's_en a_en tiny_en village_en only_en this_en big_en ._en
+now_en you_en might_en wonder_en ,_en how_en can_en people_en fit_en in_en a_en tiny_en village_en only_en this_en big_en ?_en that_en 's_en because_en they_en 're_en spirit_en people_en ._en it_en 's_en the_en ancestors_en ._en
+and_en of_en course_en the_en spirit_en people_en have_en a_en little_en miniature_en village_en in_en their_en village_en ,_en right_en ?_en
+so_en it_en 's_en just_en like_en georg_en cantor_en said_en ,_en the_en recursion_en continues_en forever_en ._en
+this_en is_en in_en the_en mandara_en mountains_en ,_en near_en the_en nigerian_en border_en in_en cameroon_en ,_en mokoulek_en ._en
+i_en saw_en this_en diagram_en drawn_en by_en a_en french_en architect_en ,_en and_en i_en thought_en ,_en "_en wow_en !_en what_en a_en beautiful_en fractal_en !_en "_en so_en i_en tried_en to_en come_en up_en with_en a_en seed_en shape_en ,_en which_en ,_en upon_en iteration_en ,_en would_en unfold_en into_en this_en thing_en ._en
+i_en came_en up_en with_en this_en structure_en here_en ._en
+let_en 's_en see_en ,_en first_en iteration_en ,_en second_en ,_en third_en ,_en fourth_en ._en
+now_en ,_en after_en i_en did_en the_en simulation_en ,_en i_en realized_en the_en whole_en village_en kind_en of_en spirals_en around_en ,_en just_en like_en this_en ,_en and_en here_en 's_en that_en replicating_en line_en --_en a_en self_en -_en replicating_en line_en that_en unfolds_en into_en the_en fractal_en ._en
+well_en ,_en i_en noticed_en that_en line_en is_en about_en where_en the_en only_en square_en building_en in_en the_en village_en is_en at_en ._en
+so_en ,_en when_en i_en got_en to_en the_en village_en ,_en i_en said_en ,_en "_en can_en you_en take_en me_en to_en the_en square_en building_en ?_en
+i_en think_en something_en 's_en going_en on_en there_en ._en "_en and_en they_en said_en ,_en "_en well_en ,_en we_en can_en take_en you_en there_en ,_en but_en you_en ca_en n't_en go_en inside_en because_en that_en 's_en the_en sacred_en altar_en ,_en where_en we_en do_en sacrifices_en every_en year_en to_en keep_en up_en those_en annual_en cycles_en of_en fertility_en for_en the_en fields_en ._en "_en and_en i_en started_en to_en realize_en that_en the_en cycles_en of_en fertility_en were_en just_en like_en the_en recursive_en cycles_en in_en the_en geometric_en algorithm_en that_en builds_en this_en ._en
+and_en the_en recursion_en in_en some_en of_en these_en villages_en continues_en down_en into_en very_en tiny_en scales_en ._en
+so_en here_en 's_en a_en nankani_en village_en in_en mali_en ._en
+and_en you_en can_en see_en ,_en you_en go_en inside_en the_en family_en enclosure_en --_en you_en go_en inside_en and_en here_en 's_en pots_en in_en the_en fireplace_en ,_en stacked_en recursively_en ._en
+here_en 's_en calabashes_en that_en issa_en was_en just_en showing_en us_en ,_en and_en they_en 're_en stacked_en recursively_en ._en
+now_en ,_en the_en tiniest_en calabash_en in_en here_en keeps_en the_en woman_en 's_en soul_en ._en
+and_en when_en she_en dies_en ,_en they_en have_en a_en ceremony_en where_en they_en break_en this_en stack_en called_en the_en zalanga_en and_en her_en soul_en goes_en off_en to_en eternity_en ._en
+once_en again_en ,_en infinity_en is_en important_en ._en
+now_en ,_en you_en might_en ask_en yourself_en three_en questions_en at_en this_en point_en ._en
+are_en n't_en these_en scaling_en patterns_en just_en universal_en to_en all_en indigenous_en architecture_en ?_en
+and_en that_en was_en actually_en my_en original_en hypothesis_en ._en
+when_en i_en first_en saw_en those_en african_en fractals_en ,_en i_en thought_en ,_en "_en wow_en ,_en so_en any_en indigenous_en group_en that_en does_en n't_en have_en a_en state_en society_en ,_en that_en sort_en of_en hierarchy_en ,_en must_en have_en a_en kind_en of_en bottom_en -_en up_en architecture_en ._en "_en but_en that_en turns_en out_en not_en to_en be_en true_en ._en
+i_en started_en collecting_en aerial_en photographs_en of_en native_en american_en and_en south_en pacific_en architecture_en ;_en only_en the_en african_en ones_en were_en fractal_en ._en
+and_en if_en you_en think_en about_en it_en ,_en all_en these_en different_en societies_en have_en different_en geometric_en design_en themes_en that_en they_en use_en ._en
+so_en native_en americans_en use_en a_en combination_en of_en circular_en symmetry_en and_en fourfold_en symmetry_en ._en
+you_en can_en see_en on_en the_en pottery_en and_en the_en baskets_en ._en
+here_en 's_en an_en aerial_en photograph_en of_en one_en of_en the_en anasazi_en ruins_en ;_en you_en can_en see_en it_en 's_en circular_en at_en the_en largest_en scale_en ,_en but_en it_en 's_en rectangular_en at_en the_en smaller_en scale_en ,_en right_en ?_en
+it_en is_en not_en the_en same_en pattern_en at_en two_en different_en scales_en ._en
+second_en ,_en you_en might_en ask_en ,_en "_en well_en ,_en dr._en eglash_en ,_en are_en n't_en you_en ignoring_en the_en diversity_en of_en african_en cultures_en ?_en "_en and_en three_en times_en ,_en the_en answer_en is_en no._en
+first_en of_en all_en ,_en i_en agree_en with_en mudimbe_en 's_en wonderful_en book_en ,_en "_en the_en invention_en of_en africa_en ,_en "_en that_en africa_en is_en an_en artificial_en invention_en of_en first_en colonialism_en ,_en and_en then_en oppositional_en movements_en ._en
+no_en ,_en because_en a_en widely_en shared_en design_en practice_en does_en n't_en necessarily_en give_en you_en a_en unity_en of_en culture_en --_en and_en it_en definitely_en is_en not_en "_en in_en the_en dna_en ._en "_en
+and_en finally_en ,_en the_en fractals_en have_en self_en -_en similarity_en --_en so_en they_en 're_en similar_en to_en themselves_en ,_en but_en they_en 're_en not_en necessarily_en similar_en to_en each_en other_en --_en you_en see_en very_en different_en uses_en for_en fractals_en ._en
+it_en 's_en a_en shared_en technology_en in_en africa_en ._en
+and_en finally_en ,_en well_en ,_en is_en n't_en this_en just_en intuition_en ?_en
+it_en 's_en not_en really_en mathematical_en knowledge_en ._en
+africans_en ca_en n't_en possibly_en really_en be_en using_en fractal_en geometry_en ,_en right_en ?_en
+it_en was_en n't_en invented_en until_en the_en 1970s_en ._en
+well_en ,_en it_en 's_en true_en that_en some_en african_en fractals_en are_en ,_en as_en far_en as_en i_en 'm_en concerned_en ,_en just_en pure_en intuition_en ._en
+so_en some_en of_en these_en things_en ,_en i_en 'd_en wander_en around_en the_en streets_en of_en dakar_en asking_en people_en ,_en "_en what_en 's_en the_en algorithm_en ?_en what_en 's_en the_en rule_en for_en making_en this_en ?_en "_en and_en they_en 'd_en say_en ,_en "_en well_en ,_en we_en just_en make_en it_en that_en way_en because_en it_en looks_en pretty_en ,_en stupid_en ._en "_en but_en sometimes_en ,_en that_en 's_en not_en the_en case_en ._en
+in_en some_en cases_en ,_en there_en would_en actually_en be_en algorithms_en ,_en and_en very_en sophisticated_en algorithms_en ._en
+so_en in_en manghetu_en sculpture_en ,_en you_en 'd_en see_en this_en recursive_en geometry_en ._en
+in_en ethiopian_en crosses_en ,_en you_en see_en this_en wonderful_en unfolding_en of_en the_en shape_en ._en
+in_en angola_en ,_en the_en chokwe_en people_en draw_en lines_en in_en the_en sand_en ,_en and_en it_en 's_en what_en the_en german_en mathematician_en euler_en called_en a_en graph_en ;_en we_en now_en call_en it_en an_en eulerian_en path_en --_en you_en can_en never_en lift_en your_en stylus_en from_en the_en surface_en and_en you_en can_en never_en go_en over_en the_en same_en line_en twice_en ._en
+but_en they_en do_en it_en recursively_en ,_en and_en they_en do_en it_en with_en an_en age_en -_en grade_en system_en ,_en so_en the_en little_en kids_en learn_en this_en one_en ,_en and_en then_en the_en older_en kids_en learn_en this_en one_en ,_en then_en the_en next_en age_en -_en grade_en initiation_en ,_en you_en learn_en this_en one_en ._en
+and_en with_en each_en iteration_en of_en that_en algorithm_en ,_en you_en learn_en the_en iterations_en of_en the_en myth_en ._en
+you_en learn_en the_en next_en level_en of_en knowledge_en ._en
+and_en finally_en ,_en all_en over_en africa_en ,_en you_en see_en this_en board_en game_en ._en
+it_en 's_en called_en owari_en in_en ghana_en ,_en where_en i_en studied_en it_en ;_en it_en 's_en called_en mancala_en here_en on_en the_en east_en coast_en ,_en bao_en in_en kenya_en ,_en sogo_en elsewhere_en ._en
+well_en ,_en you_en see_en self_en -_en organizing_en patterns_en that_en spontaneously_en occur_en in_en this_en board_en game_en ._en
+and_en the_en folks_en in_en ghana_en knew_en about_en these_en self_en -_en organizing_en patterns_en and_en would_en use_en them_en strategically_en ._en
+so_en this_en is_en very_en conscious_en knowledge_en ._en
+here_en 's_en a_en wonderful_en fractal_en ._en
+anywhere_en you_en go_en in_en the_en sahel_en ,_en you_en 'll_en see_en this_en windscreen_en ._en
+and_en of_en course_en fences_en around_en the_en world_en are_en all_en cartesian_en ,_en all_en strictly_en linear_en ._en
+but_en here_en in_en africa_en ,_en you_en 've_en got_en these_en nonlinear_en scaling_en fences_en ._en
+so_en i_en tracked_en down_en one_en of_en the_en folks_en who_en makes_en these_en things_en ,_en this_en guy_en in_en mali_en just_en outside_en of_en bamako_en ,_en and_en i_en asked_en him_en ,_en "_en how_en come_en you_en 're_en making_en fractal_en fences_en ?_en because_en nobody_en else_en is_en ._en "_en and_en his_en answer_en was_en very_en interesting_en ._en
+he_en said_en ,_en "_en well_en ,_en if_en i_en lived_en in_en the_en jungle_en ,_en i_en would_en only_en use_en the_en long_en rows_en of_en straw_en because_en they_en 're_en very_en quick_en and_en they_en 're_en very_en cheap_en ._en
+it_en does_en n't_en take_en much_en time_en ,_en does_en n't_en take_en much_en straw_en ._en "_en he_en said_en ,_en "_en but_en wind_en and_en dust_en goes_en through_en pretty_en easily_en ._en
+now_en ,_en the_en tight_en rows_en up_en at_en the_en very_en top_en ,_en they_en really_en hold_en out_en the_en wind_en and_en dust_en ._en
+but_en it_en takes_en a_en lot_en of_en time_en ,_en and_en it_en takes_en a_en lot_en of_en straw_en because_en they_en 're_en really_en tight_en ._en "_en "_en now_en ,_en "_en he_en said_en ,_en "_en we_en know_en from_en experience_en that_en the_en farther_en up_en from_en the_en ground_en you_en go_en ,_en the_en stronger_en the_en wind_en blows_en ._en "_en right_en ?_en it_en 's_en just_en like_en a_en cost_en -_en benefit_en analysis_en ._en
+and_en i_en measured_en out_en the_en lengths_en of_en straw_en ,_en put_en it_en on_en a_en log_en -_en log_en plot_en ,_en got_en the_en scaling_en exponent_en ,_en and_en it_en almost_en exactly_en matches_en the_en scaling_en exponent_en for_en the_en relationship_en between_en wind_en speed_en and_en height_en in_en the_en wind_en engineering_en handbook_en ._en
+so_en these_en guys_en are_en right_en on_en target_en for_en a_en practical_en use_en of_en scaling_en technology_en ._en
+the_en most_en complex_en example_en of_en an_en algorithmic_en approach_en to_en fractals_en that_en i_en found_en was_en actually_en not_en in_en geometry_en ,_en it_en was_en in_en a_en symbolic_en code_en ,_en and_en this_en was_en bamana_en sand_en divination_en ._en
+and_en the_en same_en divination_en system_en is_en found_en all_en over_en africa_en ._en
+you_en can_en find_en it_en on_en the_en east_en coast_en as_en well_en as_en the_en west_en coast_en ,_en and_en often_en the_en symbols_en are_en very_en well_en preserved_en ,_en so_en each_en of_en these_en symbols_en has_en four_en bits_en --_en it_en 's_en a_en four_en -_en bit_en binary_en word_en --_en you_en draw_en these_en lines_en in_en the_en sand_en randomly_en ,_en and_en then_en you_en count_en off_en ,_en and_en if_en it_en 's_en an_en odd_en number_en ,_en you_en put_en down_en one_en stroke_en ,_en and_en if_en it_en 's_en an_en even_en number_en ,_en you_en put_en down_en two_en strokes_en ._en and_en they_en did_en this_en very_en rapidly_en ,_en and_en i_en could_en n't_en understand_en where_en they_en were_en getting_en --_en they_en only_en did_en the_en randomness_en four_en times_en --_en i_en could_en n't_en understand_en where_en they_en were_en getting_en the_en other_en 12_en symbols_en ._en
+and_en they_en would_en n't_en tell_en me_en ._en
+they_en said_en ,_en "_en no_en ,_en no_en ,_en i_en ca_en n't_en tell_en you_en about_en this_en ._en "_en
+and_en i_en said_en ,_en "_en well_en look_en ,_en i_en 'll_en pay_en you_en ,_en you_en can_en be_en my_en teacher_en ,_en and_en i_en 'll_en come_en each_en day_en and_en pay_en you_en ._en "_en they_en said_en ,_en "_en it_en 's_en not_en a_en matter_en of_en money_en ._en this_en is_en a_en religious_en matter_en ._en "_en
+and_en finally_en ,_en out_en of_en desperation_en ,_en i_en said_en ,_en "_en well_en ,_en let_en me_en explain_en georg_en cantor_en in_en 1877_en ._en "_en and_en i_en started_en explaining_en why_en i_en was_en there_en in_en africa_en ,_en and_en they_en got_en very_en excited_en when_en they_en saw_en the_en cantor_en set_en ._en
+and_en one_en of_en them_en said_en ,_en "_en come_en here_en ._en i_en think_en i_en can_en help_en you_en out_en here_en ._en "_en and_en so_en he_en took_en me_en through_en the_en initiation_en ritual_en for_en a_en bamana_en priest_en ._en
+and_en of_en course_en ,_en i_en was_en only_en interested_en in_en the_en math_en ,_en so_en the_en whole_en time_en ,_en he_en kept_en shaking_en his_en head_en going_en ,_en "_en you_en know_en ,_en i_en did_en n't_en learn_en it_en this_en way_en ._en "_en but_en i_en had_en to_en sleep_en with_en a_en kola_en nut_en next_en to_en my_en bed_en ,_en buried_en in_en sand_en ,_en and_en give_en seven_en coins_en to_en seven_en lepers_en and_en so_en on_en ._en
+and_en finally_en ,_en he_en revealed_en the_en truth_en of_en the_en matter_en ._en
+and_en it_en turns_en out_en it_en 's_en a_en pseudo_en -_en random_en number_en generator_en using_en deterministic_en chaos_en ._en
+when_en you_en have_en a_en four_en -_en bit_en symbol_en ,_en you_en then_en put_en it_en together_en with_en another_en one_en sideways_en ._en
+so_en even_en plus_en odd_en gives_en you_en odd_en ._en
+odd_en plus_en even_en gives_en you_en odd_en ._en
+even_en plus_en even_en gives_en you_en even_en ._en odd_en plus_en odd_en gives_en you_en even_en ._en
+it_en 's_en addition_en modulo_en 2_en ,_en just_en like_en in_en the_en parity_en bit_en check_en on_en your_en computer_en ._en
+and_en then_en you_en take_en this_en symbol_en ,_en and_en you_en put_en it_en back_en in_en so_en it_en 's_en a_en self_en -_en generating_en diversity_en of_en symbols_en ._en
+they_en 're_en truly_en using_en a_en kind_en of_en deterministic_en chaos_en in_en doing_en this_en ._en
+now_en ,_en because_en it_en 's_en a_en binary_en code_en ,_en you_en can_en actually_en implement_en this_en in_en hardware_en --_en what_en a_en fantastic_en teaching_en tool_en that_en should_en be_en in_en african_en engineering_en schools_en ._en
+and_en the_en most_en interesting_en thing_en i_en found_en out_en about_en it_en was_en historical_en ._en
+in_en the_en 12th_en century_en ,_en hugo_en of_en santalla_en brought_en it_en from_en islamic_en mystics_en into_en spain_en ._en
+and_en there_en it_en entered_en into_en the_en alchemy_en community_en as_en geomancy_en :_en divination_en through_en the_en earth_en ._en
+this_en is_en a_en geomantic_en chart_en drawn_en for_en king_en richard_en ii_en in_en 1390_en ._en
+leibniz_en ,_en the_en german_en mathematician_en ,_en talked_en about_en geomancy_en in_en his_en dissertation_en called_en "_en de_en combinatoria_en ._en "_en and_en he_en said_en ,_en "_en well_en ,_en instead_en of_en using_en one_en stroke_en and_en two_en strokes_en ,_en let_en 's_en use_en a_en one_en and_en a_en zero_en ,_en and_en we_en can_en count_en by_en powers_en of_en two_en ._en "_en right_en ?_en ones_en and_en zeros_en ,_en the_en binary_en code_en ._en
+george_en boole_en took_en leibniz_en 's_en binary_en code_en and_en created_en boolean_en algebra_en ,_en and_en john_en von_en neumann_en took_en boolean_en algebra_en and_en created_en the_en digital_en computer_en ._en
+so_en all_en these_en little_en pdas_en and_en laptops_en --_en every_en digital_en circuit_en in_en the_en world_en --_en started_en in_en africa_en ._en
+and_en i_en know_en brian_en eno_en says_en there_en 's_en not_en enough_en africa_en in_en computers_en ,_en but_en you_en know_en ,_en i_en do_en n't_en think_en there_en 's_en enough_en african_en history_en in_en brian_en eno_en ._en
+so_en let_en me_en end_en with_en just_en a_en few_en words_en about_en applications_en that_en we_en 've_en found_en for_en this_en ._en
+and_en you_en can_en go_en to_en our_en website_en ,_en the_en applets_en are_en all_en free_en ;_en they_en just_en run_en in_en the_en browser_en ._en
+anybody_en in_en the_en world_en can_en use_en them_en ._en
+the_en national_en science_en foundation_en 's_en broadening_en participation_en in_en computing_en program_en recently_en awarded_en us_en a_en grant_en to_en make_en a_en programmable_en version_en of_en these_en design_en tools_en ,_en so_en hopefully_en in_en three_en years_en ,_en anybody_en 'll_en be_en able_en to_en go_en on_en the_en web_en and_en create_en their_en own_en simulations_en and_en their_en own_en artifacts_en ._en
+we_en 've_en focused_en in_en the_en u.s._en on_en african_en -_en american_en students_en as_en well_en as_en native_en american_en and_en latino_en ._en
+we_en 've_en found_en statistically_en significant_en improvement_en with_en children_en using_en this_en software_en in_en a_en mathematics_en class_en in_en comparison_en with_en a_en control_en group_en that_en did_en not_en have_en the_en software_en ._en
+so_en it_en 's_en really_en very_en successful_en teaching_en children_en that_en they_en have_en a_en heritage_en that_en 's_en about_en mathematics_en ,_en that_en it_en 's_en not_en just_en about_en singing_en and_en dancing_en ._en
+we_en 've_en started_en a_en pilot_en program_en in_en ghana_en ._en we_en got_en a_en small_en seed_en grant_en ,_en just_en to_en see_en if_en folks_en would_en be_en willing_en to_en work_en with_en us_en on_en this_en ;_en we_en 're_en very_en excited_en about_en the_en future_en possibilities_en for_en that_en ._en
+we_en 've_en also_en been_en working_en in_en design_en ._en
+i_en did_en n't_en put_en his_en name_en up_en here_en --_en my_en colleague_en ,_en kerry_en ,_en in_en kenya_en ,_en has_en come_en up_en with_en this_en great_en idea_en for_en using_en fractal_en structure_en for_en postal_en address_en in_en villages_en that_en have_en fractal_en structure_en ,_en because_en if_en you_en try_en to_en impose_en a_en grid_en structure_en postal_en system_en on_en a_en fractal_en village_en ,_en it_en does_en n't_en quite_en fit_en ._en
+bernard_en tschumi_en at_en columbia_en university_en has_en finished_en using_en this_en in_en a_en design_en for_en a_en museum_en of_en african_en art_en ._en
+david_en hughes_en at_en ohio_en state_en university_en has_en written_en a_en primer_en on_en afrocentric_en architecture_en in_en which_en he_en 's_en used_en some_en of_en these_en fractal_en structures_en ._en
+and_en finally_en ,_en i_en just_en wanted_en to_en point_en out_en that_en this_en idea_en of_en self_en -_en organization_en ,_en as_en we_en heard_en earlier_en ,_en it_en 's_en in_en the_en brain_en ._en
+it_en 's_en in_en the_en --_en it_en 's_en in_en google_en 's_en search_en engine_en ._en
+actually_en ,_en the_en reason_en that_en google_en was_en such_en a_en success_en is_en because_en they_en were_en the_en first_en ones_en to_en take_en advantage_en of_en the_en self_en -_en organizing_en properties_en of_en the_en web_en ._en
+it_en 's_en in_en ecological_en sustainability_en ._en
+it_en 's_en in_en the_en developmental_en power_en of_en entrepreneurship_en ,_en the_en ethical_en power_en of_en democracy_en ._en
+it_en 's_en also_en in_en some_en bad_en things_en ._en
+self_en -_en organization_en is_en why_en the_en aids_en virus_en is_en spreading_en so_en fast_en ._en
+and_en if_en you_en do_en n't_en think_en that_en capitalism_en ,_en which_en is_en self_en -_en organizing_en ,_en can_en have_en destructive_en effects_en ,_en you_en have_en n't_en opened_en your_en eyes_en enough_en ._en
+so_en we_en need_en to_en think_en about_en ,_en as_en was_en spoken_en earlier_en ,_en the_en traditional_en african_en methods_en for_en doing_en self_en -_en organization_en ._en
+these_en are_en robust_en algorithms_en ._en
+these_en are_en ways_en of_en doing_en self_en -_en organization_en --_en of_en doing_en entrepreneurship_en --_en that_en are_en gentle_en ,_en that_en are_en egalitarian_en ._en
+so_en if_en we_en want_en to_en find_en a_en better_en way_en of_en doing_en that_en kind_en of_en work_en ,_en we_en need_en look_en only_en no_en farther_en than_en africa_en to_en find_en these_en robust_en self_en -_en organizing_en algorithms_en ._en
+thank_en you_en ._en

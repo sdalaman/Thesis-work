@@ -1,0 +1,155 @@
+ gün 	 aydın 	 	.
+bugün	 bura 	 ya 	 	kendi	 kendi 	 ne 	 	çalışan	 uça 	 n 	 	plaj	 top 	 ları 	 	hakkında	 konuşma 	 k 	 	için	 geldi 	 m 	 	.
+hayır	,	bunun	gibi	çevik	hava	 robot 	 ları 	 	hakkında	.
+ bun 	 ları 	 	inşa	 eder 	 ken 	 	 karşılaşıl 	 an 	 	 zorluk 	 lar 	 	ve	bu	 teknoloji 	 yi 	 	 uygulama 	 k 	 	için	inanılmaz	 fırsat 	 lar 	 	hakkında	bir	kaç	şey	 söyleme 	 k 	 	istiyorum	.
+bu	 yüz 	 den 	 	bu	 robot 	 lar 	 	 insan 	 sız 	 	 uça 	 n 	 	hava	 araç 	 larıdır 	 	.
+buna	 rağ 	 men 	 	,	_UNK_	gördüğünüz	 araç 	 lar 	 	büyük	.
+binlerce	kilogram	 ağırlığı 	 nda 	 	ve	hiç	bir	şekilde	çevik	 değil 	 ler 	 	.
+kendi	 kendi 	 ne 	 	çalışan	bile	 değil 	 ler 	 	.
+ gerçek 	 te 	 	,	bu	 araç 	 ların 	 	çoğu	 bir 	 den 	 	fazla	pilotu	içeren	 alıcı 	 ları 	 	kontrol	eden	ve	görev	_UNK_	olan	uçuş	 ekip 	 leri 	 	 tarafı 	 ndan 	 	_UNK_	.
+buna	benzer	 robot 	 ları 	 	 geliştirir 	 ken 	 	 ilgi 	 mizi 	 	 çeke 	 n 	 	şey	ve	burada	diğer	iki	resmi	var	--	 rafta 	 n 	 	satın	 ala 	 biliyor 	 	 olun 	 ması 	 	.
+bunlar	dört	 pervane 	 li 	 	 helikopter 	 ler 	 	ve	 nerede 	 yse 	 	bir	metre	 büyüklüğü 	 nde 	 	ve	bir	 kilo 	 dan 	 	az	.
+ve	sensör	ve	_UNK_	 donanım 	 ı 	 	_UNK_	,	ve	bu	 robot 	 lar 	 	gps	 bilgi 	 si 	 	 olmak 	 sızın 	 	iç	 mekan 	 larda 	 	_UNK_	.
+ elim 	 de 	 	 tut 	 muş 	 	 olduğu 	 m 	 	robot	bir	 tane 	 sidir 	 	,	ve	alex	ve	daniel	 isim 	 li 	 	 öğrenci 	 ler 	 	 tarafı 	 ndan 	 	 yaratılmış 	 tır 	 	.
+öyle	ki	,	bunun	ağırlığı	60	 gram 	 dan 	 	biraz	daha	fazla	.
+ yaklaşı 	 k 	 	15	watt	enerji	harcıyor	.
+ gör 	 üdüğünüz 	 	üzere	,	 yaklaşı 	 k 	 	20	cm	_UNK_	.
+bu	 robot 	 ların 	 	nasıl	çalıştığı	ile	ilgili	 siz 	 e 	 	kısa	bir	bilgilendirme	yapmama	izin	 veri 	 n 	 	.
+dört	adet	 pervane 	 si 	 	var	.
+ bun 	 ları 	 	aynı	 hız 	 da 	 	 döndürür 	 seniz 	 	,	robot	 hava 	 da 	 	duruyor	.
+eğer	_UNK_	her	 biri 	 nin 	 	 hız 	 ını 	 	_UNK_	,	robot	 uçuş 	 a 	 	geçiyor	ve	 yüksel 	 iyor 	 	.
+tabi	robot	 eğim 	 li 	 	 i 	 se 	 	,	 ya 	 tay 	 	 eksen 	 e 	 	 yönel 	 iyor 	 	,	daha	sonra	bu	doğrultuda	 hız 	 lanıyor 	 	.
+eğim	 kazandırma 	 k 	 	için	,	iki	 yöntem 	 den 	 	biri	bu	.
+bu	 yüz 	 den 	 	,	 resim 	 de 	 	gördüğünüz	dördüncü	pervane	daha	hızlı	dönüyor	ve	ikinci	pervane	daha	yavaş	dönüyor	.
+ve	 oluşa 	 n 	 	şey	 robot 	 un 	 	_UNK_	sebep	olan	andır	.
+diğer	bir	yolu	,	eğer	pervane	ü	ç	ü	 hızlandı 	 rır 	 	ve	pervane	 biri 	 n 	 	 hız 	 ını 	 	_UNK_	,	robot	öne	doğru	ilerler	.
+ve	son	olarak	,	eğer	ters	pervane	 çift 	 lerini 	 	diğer	_UNK_	daha	hızlı	 döndürür 	 seniz 	 	,	robot	dik	_UNK_	_UNK_	.
+bu	 yüz 	 den 	 	 yerleş 	 ik 	 	bir	işlemci	temel	olarak	hangi	 hareket 	 in 	 	 yapıla 	 cağına 	 	bakar	ve	bu	 hareket 	 leri 	 	oluşturur	ve	 motor 	 lara 	 	saniye	de	600	kere	hangi	 komut 	 ları 	 	 gönder 	 eceğini 	 	tespit	eder	.
+bu	basit	olarak	bunun	nasıl	_UNK_	.
+bu	 tasarımı 	 n 	 	 avantaj 	 larından 	 	biri	ölçeği	_UNK_	zaman	robot	doğal	olarak	çevik	oluyor	.
+i̇şte	burada	r	 robot 	 un 	 	_UNK_	_UNK_	.
+aslında	_UNK_	 yarı 	 sıdır 	 	.
+_UNK_	 azalttı 	 ğınız 	 da 	 	 değişe 	 n 	 	çok	fazla	fiziksel	_UNK_	 var 	 dır 	 	.
+ bunlar 	 dan 	 	en	 önemli 	 si 	 	 eylem 	 sizlik 	 	ya	da	 hareket 	 e 	 	karşı	_UNK_	.
+ sonuç 	 ta 	 	,	 açı 	 sal 	 	 hareket 	 i 	 	 idam 	 e 	 	eden	 eylem 	 sizlik 	 	r'nin	beşinci	 kuvvet 	 i 	 	olarak	 hesap 	 lanır 	 	.
+bu	 yüz 	 den 	 	r	ne	kadar	 küçük 	 se 	 	_UNK_	bir	o	kadar	_UNK_	.
+ sonuç 	 ta 	 	,	burada	yunan	_UNK_	alfa	ile	 belirti 	 len 	 	 açı 	 sal 	 	hızlanma	r	üzeri	bir	 şekli 	 de 	 	gidiyor	.
+ters	olarak	_UNK_	 orantı 	 lıdır 	 	.
+daha	küçük	 yapar 	 sanız 	 	daha	hızlı	 döndüre 	 bilirsiniz 	 	.
+bu	 video 	 lar 	 	daha	net	 görüle 	 bilir 	 	.
+sağ	altta	gördüğünüz	bir	robot	 yarı 	 m 	 	 saniye 	 den 	 	az	bir	 süre 	 de 	 	360	derece	 döne 	 biliyor 	 	.
+bir	çok	dönüş	,	daha	az	bir	 zaman 	 da 	 	oluyor	.
+ kartı 	 n 	 	 üzerinde 	 ki 	 	işlemci	hız	_UNK_	ve	kart	 üzerinde 	 ki 	 	_UNK_	geri	bildirim	alıyor	ve	daha	önce	 söylediği 	 m 	 	gibi	bu	 robot 	 u 	 	stabil	 tutma 	 k 	 	için	 saniye 	 de 	 	600	kez	komut	_UNK_	hesaplama	yapıyor	.
+solda	,	daniel'in	 robot 	 u 	 	 hava 	 ya 	 	attığını	 görüyor 	 sunuz 	 	.
+ve	bu	 kontrolü 	 n 	 	ne	kadar	_UNK_	olduğunu	gösteriyor	.
+nasıl	_UNK_	 fırlat 	 ın 	 	robot	 kendi 	 ni 	 	 kurtar 	 ıp 	 	tekrar	 olma 	 sı 	 	gereken	hale	geliyor	.
+ pek 	 i 	 	bunun	gibi	 robot 	 ları 	 	 ni 	 ye 	 	 yapı 	 yoruz 	 	?
+şey	,	bunun	gibi	 robot 	 lar 	 	bir	çok	 uygulama 	 ya 	 	 sahip 	 tir 	 	.
+onları	_UNK_	ilk	olarak	temas	 kurma 	 k 	 	için	ya	da	 bio 	 kimyasal 	 	 sızıntı 	 ları 	 	ya	da	gaz	_UNK_	kontrol	etmek	için	 göndere 	 bilirsiniz 	 	.
+onları	inşaat	işleri	gibi	 uygulama 	 larda 	 	 kullana 	 bilirsiniz 	 	.
+i̇şte	burada	 robot 	 lar 	 	kiriş	,	kolon	 taşıyor 	 lar 	 	ve	küp	 biçim 	 de 	 	 yapı 	 lar 	 	 oluşturuyor 	 lar 	 	.
+ siz 	 e 	 	bunun	hakkında	biraz	daha	 anlata 	 yım 	 	.
+ robot 	 lar 	 	kargo	_UNK_	 kullanıla 	 bilirler 	 	.
+küçük	 robot 	 ların 	 	 problem 	 lerinden 	 	biri	 taşıya 	 bilecekleri 	 	yük	 kapasite 	 sidir 	 	.
+bunu	 bir 	 den 	 	çok	robot	 kullan 	 arak 	 	 aşa 	 bilirsiniz 	 	.
+bu	yaşamış	olduğumuz	bir	 tecrübe 	 nin 	 	 resmi 	 dir 	 	.	aslında	çok	yakın	bir	 zaman 	 da 	 	değil	artık	--	 deprem 	 den 	 	kısa	bir	süre	sonra	_UNK_	.
+bunu	gibi	 robot 	 lar 	 	 yıkıl 	 mış 	 	 bina 	 lara 	 	hasar	tespiti	için	ya	da	reaktör	 bina 	 larına 	 	radyasyon	 seviye 	 sini 	 	 oluşturma 	 k 	 	için	_UNK_	.
+burada	temel	problem	eğer	 robot 	 lar 	 	 birbiri 	 nden 	 	bağımsız	_UNK_	 çözme 	 k 	 	zorunda	olduğu	temel	problem	temel	olarak	a	 noktasında 	 n 	 	b	 nokta 	 sına 	 	nasıl	_UNK_	.
+ bura 	 sı 	 	biraz	 zor 	 layıcı 	 	çünkü	 robot 	 ların 	 	dinamiği	oldukça	 karmaşık 	 tır 	 	.
+aslında	,	12	boyutlu	bir	 uzay 	 da 	 	 yaşıyor 	 lar 	 	.
+burada	ufak	bir	hile	 yapı 	 yoruz 	 	.
+ eği 	 k 	 	12	boyutlu	 uzay 	 ı 	 	alıyoruz	ve	onu	dört	boyutlu	düz	bir	uzaya	 dönüştür 	 ü 	 yoruz 	 	.
+dört	boyutlu	uzay	x	,	y	,	z	ve	rota	 açı 	 sından 	 	 oluşma 	 ktadır 	 	.
+bu	 yüz 	 den 	 	 robot 	 ların 	 	yaptığı	şey	minimum	hava	 yörünge 	 sinin 	 	 oluşumu 	 nun 	 	_UNK_	.
+ fizi 	 ği 	 	 hatırlama 	 k 	 	 gerekir 	 se 	 	,	_UNK_	,	_UNK_	,	_UNK_	var	,	sonra	hızlanma	ve	ve	sonra	hareketlenme	geliyor	ve	daha	sonra	birleştirme	geliyor	.
+bu	robot	birleşimi	 min 	 imize 	 	ediyor	.
+etkin	olarak	yaptığı	şey	 pürüz 	 süz 	 	ve	ince	hareket	 oluşturma 	 sıdır 	 	.
+bunu	 engel 	 lerden 	 	 kaçın 	 arak 	 	yapıyor	.
+bu	düz	bir	 uzay 	 da 	 	minimum	yörünge	oluşturma	daha	sonra	 robot 	 ların 	 	kontrolü	ve	sonra	yerine	 getirme 	 si 	 	için	 yapma 	 sı 	 	gereken	karmaşık	12	boyutlu	uzaya	tekrar	geri	_UNK_	,
+ siz 	 e 	 	bu	minimum	yörünge	 oluşturma 	 nın 	 	 ne 	 ye 	 	 benzediği 	 ni 	 	 gösterme 	 m 	 	için	bazı	 örnek 	 ler 	 	vermeme	izin	 veri 	 n 	 	.
+ve	ilk	 video 	 da 	 	,	robot	a	 noktasında 	 n 	 	b	 nokta 	 sına 	 	bir	ara	 nokta 	 dan 	 	 geçe 	 rek 	 	gidiyor	.
+yani	robot	 her 	 hangi 	 	bir	kavis	 yörünge 	 sini 	 	 kesinlik 	 le 	 	 oluştura 	 bilir 	 	durumda	.
+bunlar	 robot 	 ların 	 	2g	_UNK_	 daire 	 sel 	 	_UNK_	.
+burada	 saniye 	 de 	 	100	kere	 robot 	 a 	 	nerede	olduğunu	 ilete 	 n 	 	 üzerinde 	 ki 	 	hareket	 yakalaya 	 n 	 	_UNK_	.
+aynı	 zaman 	 da 	 	_UNK_	 engel 	 lerin 	 	nerede	olduğunu	söylüyor	.
+ engel 	 ler 	 	hareket	ediyor	olabilir	.
+ve	burada	daniel'in	 halka 	 yı 	 	 hava 	 ya 	 	attığını	 görüyor 	 sunuz 	 	,	robot	 halka 	 nın 	 	 konum 	 unu 	 	 hesap 	 lıyor 	 	ve	 halka 	 nın 	 	 içinde 	 n 	 	_UNK_	en	iyi	yeri	 bulma 	 ya 	 	çalışıyor	.
+ve	 akademi 	 k 	 	olduğu	gibi	,	 laboratuar 	 ımızda 	 	 fon 	 ları 	 	_UNK_	için	 halka 	 ların 	 	 içinde 	 n 	 	 atlama 	 k 	 	için	eğitim	alıyoruz	ve	 robot 	 ların 	 	bunu	 yapma 	 sını 	 	 sağlıyor 	 uz 	 	.
+ robot 	 ların 	 	yapabildiği	diğer	birşey	daha	önce	 programla 	 na 	 bilen 	 	ve	 öğrene 	 n 	 	yörünge	 parça 	 larını 	 	 hatırlama 	 sıdır 	 	.
+burada	 gör 	 üdüğünüz 	 	robot	 hızlanma 	 yı 	 	 gerçekleştirme 	 k 	 	için	bir	hareket	oluşturuyor	ve	ve	_UNK_	 değiştir 	 ip 	 	,	sonra	önceki	 konumu 	 na 	 	geliyor	.
+bunu	 yapma 	 k 	 	zorunda	çünkü	 pencere 	 deki 	 	bu	boşluk	 robot 	 un 	 	 genişliğin 	 den 	 	 biraz 	 cık 	 	daha	büyük	.
+sıçrama	_UNK_	üzerinde	 dura 	 n 	 	dalgıç	gibi	_UNK_	bir	momentum	_UNK_	 kendi 	 ni 	 	bırakır	,	ve	sonra	kendi	 etrafın 	 da 	 	döner	,	 iki 	 buçuk 	 	_UNK_	ve	 zarif 	 çe 	 	eksi	 hali 	 ne 	 	döner	,	bu	robot	 basit 	 çe 	 	bunu	yapıyor	.
+ böyle 	 ce 	 	bu	oldukça	zor	işleri	 yapabilme 	 k 	 	için	küçük	ufak	tefek	yolları	nasıl	_UNK_	biliyor	.
+şimdi	 konu 	 yu 	 	 değiştirme 	 k 	 	istiyorum	.
+bu	küçük	 robot 	 ların 	 	en	büyük	 dezavantaj 	 larından 	 	biri	_UNK_	.
+ siz 	 e 	 	daha	önce	 söylediği 	 m 	 	gibi	bu	boyut	_UNK_	 aşma 	 k 	 	için	çok	,	bir	çok	robot	 kullanma 	 k 	 	 isteye 	 biliriz 	 	.
+ zorluk 	 lardan 	 	biri	 bu 	 kadar 	 	çok	 robot 	 u 	 	nasıl	koordine	_UNK_	.
+burada	 doğa 	 ya 	 	 dönüyor 	 uz 	 	.
+ siz 	 e 	 	 pro 	 f 	 essor 	 	stephen	_UNK_	 laboratuar 	 ında 	 	nesne	 taşıya 	 n 	 	_UNK_	çöl	_UNK_	bir	 klibi 	 ni 	 	 gösterme 	 k 	 	istiyorum	.
+bu	aslında	bir	 inci 	 r 	 	 parçası 	 dır 	 	.
+aslında	 inci 	 r 	 	suyu	ile	 kap 	 lanmış 	 	 her 	 hangi 	 	bir	 nesne 	 yi 	 	 ala 	 bilirsiniz 	 	ve	 karınca 	 lar 	 	bunu	 yuva 	 larına 	 	 götüre 	 cekler 	 dir 	 	.
+bu	 karınca 	 ların 	 	 her 	 hangi 	 	bir	merkezi	_UNK_	 yok 	 tur 	 	.
+ komşu 	 larını 	 	_UNK_	.
+belirgin	bir	iletişim	yok	.
+fakat	,	 komşu 	 larını 	 	_UNK_	ve	 nesne 	 leri 	 	_UNK_	için	grup	arasında	üstü	kapalı	bir	koordinasyon	var	.
+bu	 robot 	 larda 	 	 olma 	 sını 	 	 istediği 	 miz 	 	bir	koordinasyon	_UNK_	.
+ etrafın 	 da 	 	 komşu 	 larının 	 	olduğu	bir	 robot 	 umuz 	 	olduğu	zaman	--	robot	i	ve	robot	_UNK_	 bak 	 alım 	 	--	 robot 	 lardan 	 	 yapma 	 sını 	 	 istediği 	 miz 	 	belli	bir	_UNK_	 uçar 	 ken 	 	kendi	 ara 	 larındaki 	 	 mesafe 	 yi 	 	_UNK_	.
+ve	bu	 mesafe 	 nin 	 	 kabul 	 edilebilir 	 	 seviye 	 lerde 	 	 olduğu 	 ndan 	 	emin	olmak	 istiyor 	 sunuz 	 	.
+ böyle 	 ce 	 	tekrar	 robot 	 lar 	 	bu	 hata 	 ları 	 	 gözlem 	 ler 	 	ve	daha	sonra	 saniye 	 de 	 	600	kez	hareket	_UNK_	_UNK_	 saniye 	 de 	 	100	kez	olan	kontrol	_UNK_	 hesapla 	 rlar 	 	.
+bu	merkezi	olmayan	bir	yol	ile	de	 yapıla 	 bilir 	 	.
+tekrar	,	eğer	çok	ama	çok	 robot 	 unuz 	 	 var 	 sa 	 	,	görevi	yerine	 getire 	 bilmek 	 	için	bu	kadar	hız	ile	bu	 bilgi 	 yi 	 	merkezi	olarak	koordine	etmeniz	mümkün	 değil 	 dir 	 	.
+ayrıca	 robot 	 lar 	 	kendi	 hareket 	 lerini 	 	diğer	_UNK_	 algıla 	 dıkları 	 	 yalnız 	 ca 	 	 lo 	 kal 	 	 bilgi 	 yi 	 	temel	 alır 	 lar 	 	.
+ve	son	olarak	 robot 	 ların 	 	 komşu 	 larına 	 	_UNK_	içinde	olduğu	üzerinde	 duruyor 	 uz 	 	.
+ve	buna	kişisel	alan	 di 	 yoruz 	 	.
+ siz 	 e 	 	bir	sonraki	 gösterme 	 k 	 	 istediği 	 m 	 	 belir 	 li 	 	bir	 form 	 da 	 	 uça 	 n 	 	bu	küçük	20	 robot 	 un 	 	_UNK_	.
+ komşu 	 larının 	 	 konum 	 larını 	 	_UNK_	.
+ diziliş 	 i 	 	 koru 	 yorlar 	 	.
+diziliş	 değişe 	 biliyor 	 	.
+ düzlem 	 sel 	 	_UNK_	 olabilir 	 ler 	 	,	ü	ç	boyutlu	diziliş	içinde	 olabilir 	 ler 	 	.
+burada	gördüğünüz	gibi	,	ü	ç	boyutlu	_UNK_	 düzlem 	 sel 	 	 diziliş 	 e 	 	 geçiyor 	 lar 	 	.
+ engel 	 lerin 	 	 içinde 	 n 	 	 uç 	 arak 	 	 geçe 	 bilmek 	 	için	uçuş	 sıra 	 sında 	 	 diziliş 	 e 	 	_UNK_	gerekiyor	.
+yani	tekrar	,	bu	 robot 	 lar 	 	 gerçek 	 ten 	 	 birbirleri 	 ne 	 	 yaklaş 	 ıyorlar 	 	.
+ sekizin 	 ci 	 	uçuşta	gördüğünüz	gibi	,	 birbirleri 	 ne 	 	3-5	santim	kadar	 yaklaş 	 ıyorlar 	 	.
+bu	pervane	_UNK_	 aero 	 dinamik 	 	 etkileşim 	 lerine 	 	 rağ 	 men 	 	,	stabil	_UNK_	_UNK_	.
+_UNK_	nasıl	_UNK_	bir	kere	 bildik 	 ten 	 	sonra	 nesne 	 leri 	 	 el 	 birliği 	 	ile	 toplaya 	 bilirsiniz 	 	.
+bu	gösteriyor	ki	,	 robot 	 un 	 	 dayanıklı 	 lığını 	 	 komşu 	 ları 	 	ile	takım	 oluştur 	 arak 	 	iki	,	ü	ç	,	dört	 katı 	 na 	 	 çıkara 	 bilirsiniz 	 	,	burada	gördüğünüz	gibi	.
+bunu	 yapma 	 nın 	 	 dezavantaj 	 larından 	 	biri	 bun 	 ları 	 	_UNK_	zaman	 di 	 yelim 	 	ki	aynı	şeyi	 taşıya 	 n 	 	birçok	 robot 	 a 	 	 sahip 	 siniz 	 	,	temel	olarak	etkili	şekilde	_UNK_	 arttır 	 ıyorsunuz 	 	,	ve	bir	bedel	 ödüyor 	 sunuz 	 	;	çok	çevik	 olmuyor 	 lar 	 	.
+fakat	taşıma	 kapasite 	 si 	 	adına	kazanım	 el 	 de 	 	ediyorsunuz	.
+ siz 	 e 	 	 gösterme 	 k 	 	 istediği 	 m 	 	diğer	bir	uygulama	--	tekrar	,	bizim	 laboratuar 	 ımızda 	 	--
+bu	quentin	lindsey	 isim 	 li 	 	yüksek	lisans	_UNK_	 çalışma 	 sıdır 	 	.
+onun	 algoritma 	 sı 	 	bu	_UNK_	temel	olarak	üçgen	 şekli 	 ndeki 	 	 eleman 	 lardan 	 	söylüyor	 olma 	 sıdır 	 	.
+ algoritma 	 sı 	 	 robot 	 lara 	 	hangi	 parça 	 nın 	 	_UNK_	 nere 	 ye 	 	 konula 	 cağını 	 	söylüyor	.
+bu	 video 	 da 	 	 gör 	 üdüğünüz 	 	--	10-15	kat	 hızlandı 	 rılmış 	 tır 	 	--	ü	ç	farklı	 yapı 	 nın 	 	 robot 	 lar 	 	 tarafı 	 ndan 	 	inşa	_UNK_	 görüyor 	 sunuz 	 	.
+ve	tekrar	,	herşey	 birbiri 	 nden 	 	bağımsız	,	ve	_UNK_	 yapma 	 k 	 	zorunda	olduğu	şey	inşa	etmek	istediği	 tasarımı 	 n 	 	 kopya 	 sını 	 	 el 	 de 	 	 etmek 	 tir 	 	.
+şu	ana	kadar	gördüğünüz	 deney 	 ler 	 	,	bütün	bu	 gösteri 	 ler 	 	,	hareket	yakalama	 sistem 	 lerinin 	 	 yardımı 	 yla 	 	 yapılmış 	 tır 	 	.
+_UNK_	 ayrıl 	 dığınız 	 	zaman	ve	ve	dışarı	 çık 	 ıp 	 	gerçek	 dünya 	 ya 	 	 çıktığı 	 nızda 	 	ne	oluyor	?
+ya	hiç	gps	konum	 bilgi 	 si 	 	 yok 	 sa 	 	?
+bu	robot	bir	kamera	,	lazer	mesafe	ölçer	tarayıcı	ile	_UNK_	.
+ çevre 	 sinin 	 	 harita 	 sını 	 	 çıkarma 	 k 	 	için	 sensör 	 lerini 	 	kullanıyor	.
+ harita 	 nın 	 	sahip	olduğu	özellikler	olan	--	kapı	 giriş 	 leri 	 	,	 pencere 	 ler 	 	,	insanlar	,	 mobilya 	 lar 	 	--	ve	sonra	kendi	 konum 	 unu 	 	 bunlar 	 la 	 	 karşılaştı 	 rarak 	 	tahmin	edebiliyor	.
+öyle	ki	hiç	bir	global	koordinasyon	sistemi	yok	.
+koordinasyon	sistemi	 robot 	 un 	 	nerede	olduğu	ve	 nere 	 ye 	 	baktığı	baz	 alın 	 arak 	 	oluşuyor	.
+bu	 özellikler 	 e 	 	_UNK_	ederek	yön	_UNK_	bulunuyor	.
+ siz 	 e 	 	frank	_UNK_	ve	 pro 	 f 	 essor 	 	nathan	micheal	 tarafı 	 ndan 	 	 geliştir 	 ilen 	 	 robot 	 un 	 	 bina 	 ya 	 	ilk	kez	 girdiği 	 nde 	 	ve	uçuş	 sıra 	 sında 	 	harita	 oluşturma 	 sını 	 	 göstere 	 n 	 	bir	video	 göstereceği 	 m 	 	.
+öyle	ki	 robot 	 lar 	 	 bina 	 nın 	 	 özellikler 	 inin 	 	ne	olduğunu	 buluyor 	 lar 	 	.
+harita	 oluşturuyor 	 lar 	 	.
+bu	 özellikler 	 in 	 	nerede	olduğunu	 ta 	 yin 	 	edip	 siz 	 e 	 	daha	önce	tarif	ettiğim	 biz 	 e 	 	 saniye 	 de 	 	100	kez	izin	veren	kontrol	 algoritma 	 larını 	 	 kullan 	 arak 	 	kendi	 yer 	 ini 	 	tahmin	ediyor	.
+bu	robot	aslında	frank	 tarafı 	 ndan 	 	 komut 	 a 	 	ediliyor	.
+fakat	bu	robot	 kendi 	 sinin 	 	 nere 	 ye 	 	 gideceği 	 ni 	 	 bile 	 bilir 	 	.
+farz	edin	ki	;	bunu	bir	 bina 	 nın 	 	 için 	 e 	 	 gönder 	 dim 	 	ve	 bina 	 nın 	 	 ne 	 ye 	 	benzediği	hakkında	bir	 fikri 	 m 	 	yok	,	 robot 	 a 	 	içeri	 gir 	 ip 	 	bir	harita	 oluşturma 	 sını 	 	ve	sonra	geri	 gel 	 ip 	 	bana	 bina 	 nın 	 	 ne 	 ye 	 	 benzediği 	 ni 	 	_UNK_	.
+öyle	ki	burada	,	robot	bu	 harita 	 daki 	 	a	 noktasında 	 n 	 	b	 nokta 	 sına 	 	nasıl	gideceği	problemi	sadece	_UNK_	 k 	 almıyor 	 	,	ayrıca	b	 nokta 	 sına 	 	her	 defa 	 sında 	 	gideceği	en	iyi	 yolu 	 n 	 	ne	olduğunu	buluyor	.
+temel	olarak	az	bilgi	ile	 yer 	 leri 	 	 ara 	 yarak 	 	 nere 	 ye 	 	 gideceği 	 ni 	 	biliyor	.
+ve	bu	 harita 	 yı 	 	nasıl	_UNK_	.
+ siz 	 i 	 	son	bir	uygulama	ile	 bırakma 	 k 	 	istiyorum	.
+bu	 teknoloji 	 nin 	 	bir	çok	 uygulama 	 sı 	 	 var 	 dır 	 	.
+ben	bir	 profesör 	 üm 	 	ve	_UNK_	 tutku 	 luyum 	 	.
+ robot 	 lar 	 	_UNK_	lise	son	 eğitimi 	 ne 	 	kadar	ki	 yapı 	 yı 	 	 gerçek 	 ten 	 	 değiştire 	 bilir 	 	.
+fakat	biz	güney	_UNK_	,	los	angeles'a	 yakın 	 ız 	 	,	bu	 yüz 	 den 	 	 eğlence 	 ye 	 	 yöneli 	 k 	 	birşey	ile	 sonlandırma 	 k 	 	istiyorum	.
+bir	müzik	videosu	ile	 bitirme 	 k 	 	istiyorum	.
+bu	 video 	 yu 	 	 oluştura 	 n 	 	_UNK_	alex	ve	_UNK_	takdim	etmek	istiyorum	.
+bu	 video 	 yu 	 	 başlatma 	 dan 	 	önce	,	bunun	chris'ten	telefon	 al 	 dıktan 	 	son	ü	ç	gün	içinde	 yaptıklar 	 ını 	 	 söyleme 	 k 	 	istiyorum	.
+ve	 video 	 yu 	 	 çala 	 n 	 	 robot 	 lar 	 	 tamam 	 en 	 	_UNK_	.
+dokuz	 robot 	 un 	 	altı	farklı	 enstrüman 	 ı 	 	 çal 	 dığını 	 	 göre 	 ceksiniz 	 	.
+ve	tabi	ki	,	sadece	ted	2012	için	yapıldı	.
+hadi	 izleye 	 lim 	 	.
+

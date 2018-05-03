@@ -1,0 +1,99 @@
+many_en believe_en driving_en is_en an_en activity_en solely_en reserved_en for_en those_en who_en can_en see_en ._en
+a_en blind_en person_en driving_en a_en vehicle_en safely_en and_en independently_en was_en thought_en to_en be_en an_en impossible_en task_en ,_en until_en now_en ._en
+hello_en ,_en my_en name_en is_en dennis_en hong_en ,_en and_en we_en 're_en bringing_en freedom_en and_en independence_en to_en the_en blind_en by_en building_en a_en vehicle_en for_en the_en visually_en impaired_en ._en
+so_en before_en i_en talk_en about_en this_en car_en for_en the_en blind_en ,_en let_en me_en briefly_en tell_en you_en about_en another_en project_en that_en i_en worked_en on_en called_en the_en darpa_en urban_en challenge_en ._en
+now_en this_en was_en about_en building_en a_en robotic_en car_en that_en can_en drive_en itself_en ._en
+you_en press_en start_en ,_en nobody_en touches_en anything_en ,_en and_en it_en can_en reach_en its_en destination_en fully_en autonomously_en ._en
+so_en in_en 2007_en ,_en our_en team_en won_en half_en a_en million_en dollars_en by_en placing_en third_en place_en in_en this_en competition_en ._en
+so_en about_en that_en time_en ,_en the_en national_en federation_en of_en the_en blind_en ,_en or_en nfb_en ,_en challenged_en the_en research_en committee_en about_en who_en can_en develop_en a_en car_en that_en lets_en a_en blind_en person_en drive_en safely_en and_en independently_en ._en
+we_en decided_en to_en give_en it_en a_en try_en ,_en
+because_en we_en thought_en ,_en "_en hey_en ,_en how_en hard_en could_en it_en be_en ?_en "_en
+we_en have_en already_en an_en autonomous_en vehicle_en ._en
+we_en just_en put_en a_en blind_en person_en in_en it_en and_en we_en 're_en done_en ,_en right_en ?_en
+we_en could_en n't_en have_en been_en more_en wrong_en ._en
+what_en nfb_en wanted_en was_en not_en a_en vehicle_en that_en can_en drive_en a_en blind_en person_en around_en ,_en but_en a_en vehicle_en where_en a_en blind_en person_en can_en make_en active_en decisions_en and_en drive_en ._en
+so_en we_en had_en to_en throw_en everything_en out_en the_en window_en and_en start_en from_en scratch_en ._en
+so_en to_en test_en this_en crazy_en idea_en ,_en we_en developed_en a_en small_en dune_en buggy_en prototype_en vehicle_en to_en test_en the_en feasibility_en ._en
+and_en in_en the_en summer_en of_en 2009_en ,_en we_en invited_en dozens_en of_en blind_en youth_en from_en all_en over_en the_en country_en and_en gave_en them_en a_en chance_en to_en take_en it_en for_en a_en spin_en ._en
+it_en was_en an_en absolutely_en amazing_en experience_en ._en
+but_en the_en problem_en with_en this_en car_en was_en it_en was_en designed_en to_en only_en be_en driven_en in_en a_en very_en controlled_en environment_en ,_en in_en a_en flat_en ,_en closed_en -_en off_en parking_en lot_en --_en even_en the_en lanes_en defined_en by_en red_en traffic_en cones_en ._en
+so_en with_en this_en success_en ,_en we_en decided_en to_en take_en the_en next_en big_en step_en ,_en to_en develop_en a_en real_en car_en that_en can_en be_en driven_en on_en real_en roads_en ._en
+so_en how_en does_en it_en work_en ?_en
+well_en ,_en it_en 's_en a_en rather_en complex_en system_en ,_en but_en let_en me_en try_en to_en explain_en it_en ,_en maybe_en simplify_en it_en ._en
+so_en we_en have_en three_en steps_en ._en
+we_en have_en perception_en ,_en computation_en and_en non_en -_en visual_en interfaces_en ._en
+now_en obviously_en the_en driver_en cannot_en see_en ,_en so_en the_en system_en needs_en to_en perceive_en the_en environment_en and_en gather_en information_en for_en the_en driver_en ._en
+for_en that_en ,_en we_en use_en an_en initial_en measurement_en unit_en ._en
+so_en it_en measures_en acceleration_en ,_en angular_en acceleration_en --_en like_en a_en human_en ear_en ,_en inner_en ear_en ._en
+we_en fuse_en that_en information_en with_en a_en gps_en unit_en to_en get_en an_en estimate_en of_en the_en location_en of_en the_en car_en ._en
+we_en also_en use_en two_en cameras_en to_en detect_en the_en lanes_en of_en the_en road_en ._en
+and_en we_en also_en use_en three_en laser_en range_en finders_en ._en
+the_en lasers_en scan_en the_en environment_en to_en detect_en obstacles_en --_en a_en car_en approaching_en from_en the_en front_en ,_en the_en back_en and_en also_en any_en obstacles_en that_en run_en into_en the_en roads_en ,_en any_en obstacles_en around_en the_en vehicle_en ._en
+so_en all_en this_en vast_en amount_en of_en information_en is_en then_en fed_en into_en the_en computer_en ,_en and_en the_en computer_en can_en do_en two_en things_en ._en
+one_en is_en ,_en first_en of_en all_en ,_en process_en this_en information_en to_en have_en an_en understanding_en of_en the_en environment_en --_en these_en are_en the_en lanes_en of_en the_en road_en ,_en there_en 's_en the_en obstacles_en --_en and_en convey_en this_en information_en to_en the_en driver_en ._en
+the_en system_en is_en also_en smart_en enough_en to_en figure_en out_en the_en safest_en way_en to_en operate_en the_en car_en ._en
+so_en we_en can_en also_en generate_en instructions_en on_en how_en to_en operate_en the_en controls_en of_en the_en vehicle_en ._en
+but_en the_en problem_en is_en this_en :_en how_en do_en we_en convey_en this_en information_en and_en instructions_en to_en a_en person_en who_en cannot_en see_en fast_en enough_en and_en accurate_en enough_en so_en he_en can_en drive_en ?_en
+so_en for_en this_en ,_en we_en developed_en many_en different_en types_en of_en non_en -_en visual_en user_en interface_en technology_en ._en
+so_en starting_en from_en a_en three_en -_en dimensional_en ping_en sound_en system_en ,_en a_en vibrating_en vest_en ,_en a_en click_en wheel_en with_en voice_en commands_en ,_en a_en leg_en strip_en ,_en even_en a_en shoe_en that_en applies_en pressure_en to_en the_en foot_en ._en
+but_en today_en we_en 're_en going_en to_en talk_en about_en three_en of_en these_en non_en -_en visual_en user_en interfaces_en ._en
+now_en the_en first_en interface_en is_en called_en a_en drivegrip_en ._en
+so_en these_en are_en a_en pair_en of_en gloves_en ,_en and_en it_en has_en vibrating_en elements_en on_en the_en knuckle_en part_en so_en you_en can_en convey_en instructions_en about_en how_en to_en steer_en --_en the_en direction_en and_en the_en intensity_en ._en
+another_en device_en is_en called_en speedstrip_en ._en
+so_en this_en is_en a_en chair_en --_en as_en a_en matter_en of_en fact_en ,_en it_en 's_en actually_en a_en massage_en chair_en ._en
+we_en gut_en it_en out_en ,_en and_en we_en rearrange_en the_en vibrating_en elements_en in_en different_en patterns_en ,_en
+and_en we_en actuate_en them_en to_en convey_en information_en about_en the_en speed_en ,_en and_en also_en instructions_en how_en to_en use_en the_en gas_en and_en the_en brake_en pedal_en ._en
+so_en over_en here_en ,_en you_en can_en see_en how_en the_en computer_en understands_en the_en environment_en ,_en
+and_en because_en you_en cannot_en see_en the_en vibration_en ,_en we_en actually_en put_en red_en led_en 's_en on_en the_en driver_en so_en that_en you_en can_en see_en what_en 's_en happening_en ._en
+this_en is_en the_en sensory_en data_en ,_en and_en that_en data_en is_en transferred_en to_en the_en devices_en through_en the_en computer_en ._en
+so_en these_en two_en devices_en ,_en drivegrip_en and_en speedstrip_en ,_en are_en very_en effective_en ._en
+but_en the_en problem_en is_en these_en are_en instructional_en cue_en devices_en ._en
+so_en this_en is_en not_en really_en freedom_en ,_en right_en ?_en
+the_en computer_en tells_en you_en how_en to_en drive_en --_en turn_en left_en ,_en turn_en right_en ,_en speed_en up_en ,_en stop_en ._en
+we_en call_en this_en the_en "_en backseat_en -_en driver_en problem_en ._en "_en
+so_en we_en 're_en moving_en away_en from_en the_en instructional_en cue_en devices_en ,_en and_en we_en 're_en now_en focusing_en more_en on_en the_en informational_en devices_en ._en
+a_en good_en example_en for_en this_en informational_en non_en -_en visual_en user_en interface_en is_en called_en airpix_en ._en
+so_en think_en of_en it_en as_en a_en monitor_en for_en the_en blind_en ._en
+so_en it_en 's_en a_en small_en tablet_en ,_en has_en many_en holes_en in_en it_en ,_en and_en compressed_en air_en comes_en out_en ,_en so_en it_en can_en actually_en draw_en images_en ._en
+so_en even_en though_en you_en are_en blind_en ,_en you_en can_en put_en your_en hand_en over_en it_en ,_en you_en can_en see_en the_en lanes_en of_en the_en road_en and_en obstacles_en ._en
+actually_en ,_en you_en can_en also_en change_en the_en frequency_en of_en the_en air_en coming_en out_en and_en possibly_en the_en temperature_en ._en
+so_en it_en 's_en actually_en a_en multi_en -_en dimensional_en user_en interface_en ._en
+so_en here_en you_en can_en see_en the_en left_en camera_en ,_en the_en right_en camera_en from_en the_en vehicle_en and_en how_en the_en computer_en interprets_en that_en and_en sends_en that_en information_en to_en the_en airpix_en ._en
+for_en this_en ,_en we_en 're_en showing_en a_en simulator_en ,_en a_en blind_en person_en driving_en using_en the_en airpix_en ._en
+this_en simulator_en was_en also_en very_en useful_en for_en training_en the_en blind_en drivers_en and_en also_en quickly_en testing_en different_en types_en of_en ideas_en for_en different_en types_en of_en non_en -_en visual_en user_en interfaces_en ._en
+so_en basically_en that_en 's_en how_en it_en works_en ._en
+so_en just_en a_en month_en ago_en ,_en on_en january_en 29th_en ,_en we_en unveiled_en this_en vehicle_en for_en the_en very_en first_en time_en to_en the_en public_en at_en the_en world_en -_en famous_en daytona_en international_en speedway_en during_en the_en rolex_en 24_en racing_en event_en ._en
+we_en also_en had_en some_en surprises_en ._en let_en 's_en take_en a_en look_en ._en
+announcer_en :_en this_en is_en an_en historic_en day_en in_en january_en ._en
+he_en 's_en coming_en up_en to_en the_en grandstand_en ,_en fellow_en federationists_en ._en there_en 's_en the_en grandstand_en now_en ._en
+and_en he_en 's_en [_en unclear_en ]_en following_en that_en van_en that_en 's_en out_en in_en front_en of_en him_en ._en
+well_en there_en comes_en the_en first_en box_en ._en
+now_en let_en 's_en see_en if_en mark_en avoids_en it_en ._en
+he_en does_en ._en he_en passes_en it_en on_en the_en right_en ._en
+third_en box_en is_en out_en ._en the_en fourth_en box_en is_en out_en ._en
+and_en he_en 's_en perfectly_en making_en his_en way_en between_en the_en two_en ._en
+he_en 's_en closing_en in_en on_en the_en van_en to_en make_en the_en moving_en pass_en ._en
+well_en this_en is_en what_en it_en 's_en all_en about_en ,_en this_en kind_en of_en dynamic_en display_en of_en audacity_en and_en ingenuity_en ._en
+he_en 's_en approaching_en the_en end_en of_en the_en run_en ,_en makes_en his_en way_en between_en the_en barrels_en that_en are_en set_en up_en there_en ._en
+dennis_en hong_en :_en i_en 'm_en so_en happy_en for_en you_en ._en
+mark_en 's_en going_en to_en give_en me_en a_en ride_en back_en to_en the_en hotel_en ._en
+mark_en riccobono_en :_en yes_en ._en
+dh_en :_en so_en since_en we_en started_en this_en project_en ,_en we_en 've_en been_en getting_en hundreds_en of_en letters_en ,_en emails_en ,_en phone_en calls_en from_en people_en from_en all_en around_en the_en world_en ._en
+letters_en thanking_en us_en ,_en but_en sometimes_en you_en also_en get_en funny_en letters_en like_en this_en one_en :_en "_en now_en i_en understand_en why_en there_en is_en braille_en on_en a_en drive_en -_en up_en atm_en machine_en ._en "_en
+but_en sometimes_en --_en but_en sometimes_en i_en also_en do_en get_en --_en i_en would_en n't_en call_en it_en hate_en mail_en --_en but_en letters_en of_en really_en strong_en concern_en :_en "_en dr._en hong_en ,_en are_en you_en insane_en ,_en trying_en to_en put_en blind_en people_en on_en the_en road_en ?_en
+you_en must_en be_en out_en of_en your_en mind_en ._en "_en
+but_en this_en vehicle_en is_en a_en prototype_en vehicle_en ,_en and_en it_en 's_en not_en going_en to_en be_en on_en the_en road_en until_en it_en 's_en proven_en as_en safe_en as_en ,_en or_en safer_en than_en ,_en today_en 's_en vehicle_en ._en
+and_en i_en truly_en believe_en that_en this_en can_en happen_en ._en
+but_en still_en ,_en will_en the_en society_en ,_en would_en they_en accept_en such_en a_en radical_en idea_en ?_en
+how_en are_en we_en going_en to_en handle_en insurance_en ?_en
+how_en are_en we_en going_en to_en issue_en driver_en 's_en licenses_en ?_en
+there_en 's_en many_en of_en these_en different_en kinds_en of_en hurdles_en besides_en technology_en challenges_en that_en we_en need_en to_en address_en before_en this_en becomes_en a_en reality_en ._en
+of_en course_en ,_en the_en main_en goal_en of_en this_en project_en is_en to_en develop_en a_en car_en for_en the_en blind_en ._en
+but_en potentially_en more_en important_en than_en this_en is_en the_en tremendous_en value_en of_en the_en spin_en -_en off_en technology_en that_en can_en come_en from_en this_en project_en ._en
+the_en sensors_en that_en are_en used_en can_en see_en through_en the_en dark_en ,_en the_en fog_en and_en rain_en ._en
+and_en together_en with_en this_en new_en type_en of_en interfaces_en ,_en we_en can_en use_en these_en technologies_en and_en apply_en them_en to_en safer_en cars_en for_en sighted_en people_en ._en
+or_en for_en the_en blind_en ,_en everyday_en home_en appliances_en --_en in_en the_en educational_en setting_en ,_en in_en the_en office_en setting_en ._en
+just_en imagine_en ,_en in_en a_en classroom_en a_en teacher_en writes_en on_en the_en blackboard_en and_en a_en blind_en student_en can_en see_en what_en 's_en written_en and_en read_en using_en these_en non_en -_en visual_en interfaces_en ._en
+this_en is_en priceless_en ._en
+so_en today_en ,_en the_en things_en i_en 've_en showed_en you_en today_en ,_en is_en just_en the_en beginning_en ._en
+thank_en you_en very_en much_en ._en

@@ -1,0 +1,209 @@
+i_en 'm_en going_en to_en talk_en about_en a_en technology_en that_en we_en 're_en developing_en at_en oxford_en now_en ,_en that_en we_en think_en is_en going_en to_en change_en the_en way_en that_en computer_en games_en and_en hollywood_en movies_en are_en being_en made_en ._en
+that_en technology_en is_en simulating_en humans_en ._en
+it_en 's_en simulated_en humans_en with_en a_en simulated_en body_en and_en a_en simulated_en nervous_en system_en to_en control_en that_en body_en ._en
+now_en ,_en before_en i_en talk_en more_en about_en that_en technology_en ,_en let_en 's_en have_en a_en quick_en look_en at_en what_en human_en characters_en look_en like_en at_en the_en moment_en in_en computer_en games_en ._en
+this_en is_en a_en clip_en from_en a_en game_en called_en "_en grand_en theft_en auto_en 3._en "_en
+we_en already_en saw_en that_en briefly_en yesterday_en ._en
+and_en what_en you_en can_en see_en is_en --_en it_en is_en actually_en a_en very_en good_en game_en ._en it_en 's_en one_en of_en the_en most_en successful_en games_en of_en all_en time_en ._en
+but_en what_en you_en 'll_en see_en is_en that_en all_en the_en animations_en in_en this_en game_en are_en very_en repetitive_en ._en
+they_en pretty_en much_en look_en the_en same_en ._en
+i_en 've_en made_en him_en run_en into_en a_en wall_en here_en ,_en over_en and_en over_en again_en ._en and_en you_en can_en see_en he_en looks_en always_en the_en same_en ._en
+the_en reason_en for_en that_en is_en that_en these_en characters_en are_en actually_en not_en real_en characters_en ._en
+they_en are_en a_en graphical_en visualization_en of_en a_en character_en ._en
+to_en produce_en these_en animations_en ,_en an_en animator_en at_en a_en studio_en has_en to_en anticipate_en what_en 's_en going_en to_en happen_en in_en the_en actual_en game_en ,_en and_en then_en has_en to_en animate_en that_en particular_en sequence_en ._en
+so_en ,_en he_en or_en she_en sits_en down_en ,_en animates_en it_en ,_en and_en tries_en to_en anticipate_en what_en 's_en going_en to_en happen_en ,_en and_en then_en these_en particular_en animations_en are_en just_en played_en back_en at_en appropriate_en times_en in_en the_en computer_en game_en ._en
+now_en ,_en the_en result_en of_en that_en is_en that_en you_en ca_en n't_en have_en real_en interactivity_en ._en
+all_en you_en have_en is_en animations_en that_en are_en played_en back_en at_en more_en or_en less_en the_en appropriate_en times_en ._en
+it_en also_en means_en that_en games_en are_en n't_en really_en going_en to_en be_en as_en surprising_en as_en they_en could_en be_en ,_en because_en you_en only_en get_en out_en of_en it_en ,_en at_en least_en in_en terms_en of_en the_en character_en ,_en what_en you_en actually_en put_en into_en it_en ._en
+there_en 's_en no_en real_en emergence_en there_en ._en
+and_en thirdly_en ,_en as_en i_en said_en ,_en most_en of_en the_en animations_en are_en very_en repetitive_en because_en of_en that_en ._en
+now_en ,_en the_en only_en way_en to_en get_en around_en that_en is_en to_en actually_en simulate_en the_en human_en body_en and_en to_en simulate_en that_en bit_en of_en the_en nervous_en system_en of_en the_en brain_en that_en controls_en that_en body_en ._en
+and_en maybe_en ,_en if_en i_en could_en have_en you_en for_en a_en quick_en demonstration_en to_en show_en what_en the_en difference_en is_en --_en because_en ,_en i_en mean_en ,_en it_en 's_en very_en ,_en very_en trivial_en ._en
+if_en i_en push_en chris_en a_en bit_en ,_en like_en this_en ,_en for_en example_en ,_en he_en 'll_en react_en to_en it_en ._en
+if_en i_en push_en him_en from_en a_en different_en angle_en ,_en he_en 'll_en react_en to_en it_en differently_en ,_en and_en that_en 's_en because_en he_en has_en a_en physical_en body_en ,_en and_en because_en he_en has_en the_en motor_en skills_en to_en control_en that_en body_en ._en
+it_en 's_en a_en very_en trivial_en thing_en ._en
+it_en 's_en not_en something_en you_en get_en in_en computer_en games_en at_en the_en moment_en ,_en at_en all_en ._en
+thank_en you_en very_en much_en ._en chris_en anderson_en :_en that_en 's_en it_en ?_en
+torsten_en reil_en :_en that_en 's_en it_en ,_en yes_en ._en
+so_en ,_en that_en 's_en what_en we_en 're_en trying_en to_en simulate_en --_en not_en chris_en specifically_en ,_en i_en should_en say_en ,_en but_en humans_en in_en general_en ._en
+now_en ,_en we_en started_en working_en on_en this_en a_en while_en ago_en at_en oxford_en university_en ,_en and_en we_en tried_en to_en start_en very_en simply_en ._en
+what_en we_en tried_en to_en do_en was_en teach_en a_en stick_en figure_en how_en to_en walk_en ._en
+that_en stick_en figure_en is_en physically_en stimulated_en ._en you_en can_en see_en it_en here_en on_en the_en screen_en ._en
+so_en ,_en it_en 's_en subject_en to_en gravity_en ,_en has_en joints_en ,_en etc._en
+if_en you_en just_en run_en the_en simulation_en ,_en it_en will_en just_en collapse_en ,_en like_en this_en ._en
+the_en tricky_en bit_en is_en now_en to_en put_en an_en ai_en controller_en in_en it_en that_en actually_en makes_en it_en work_en ._en
+and_en for_en that_en ,_en we_en use_en the_en neural_en network_en ,_en which_en we_en based_en on_en that_en part_en of_en the_en nervous_en system_en that_en we_en have_en in_en our_en spine_en that_en controls_en walking_en in_en humans_en ._en
+it_en 's_en called_en the_en central_en pattern_en generator_en ._en
+so_en ,_en we_en simulated_en that_en as_en well_en ,_en and_en then_en the_en really_en tricky_en bit_en is_en to_en teach_en that_en network_en how_en to_en walk_en ._en
+for_en that_en we_en used_en artificial_en evolution_en --_en genetic_en algorithms_en ._en
+we_en heard_en about_en those_en already_en yesterday_en ,_en and_en i_en suppose_en that_en most_en of_en you_en are_en familiar_en with_en that_en already_en ._en
+but_en ,_en just_en briefly_en ,_en the_en concept_en is_en that_en you_en create_en a_en large_en number_en of_en different_en individuals_en --_en neural_en networks_en ,_en in_en this_en case_en --_en all_en of_en which_en are_en random_en at_en the_en beginning_en ._en
+you_en hook_en these_en up_en --_en in_en this_en case_en ,_en to_en the_en virtual_en muscles_en of_en that_en two_en -_en legged_en creature_en here_en --_en and_en hope_en that_en it_en does_en something_en interesting_en ._en
+at_en the_en beginning_en ,_en they_en 're_en all_en going_en to_en be_en very_en boring_en ._en
+most_en of_en them_en wo_en n't_en move_en at_en all_en ,_en but_en some_en of_en them_en might_en make_en a_en tiny_en step_en ._en
+those_en are_en then_en selected_en by_en the_en algorithm_en ,_en reproduced_en with_en mutation_en and_en recombinations_en to_en introduce_en sex_en as_en well_en ._en
+and_en you_en repeat_en that_en process_en over_en and_en over_en again_en ,_en until_en you_en have_en something_en that_en walks_en --_en in_en this_en case_en ,_en in_en a_en straight_en line_en ,_en like_en this_en ._en
+so_en that_en was_en the_en idea_en behind_en this_en ._en
+when_en we_en started_en this_en ,_en i_en set_en up_en the_en simulation_en one_en evening_en ._en
+it_en took_en about_en three_en to_en four_en hours_en to_en run_en the_en simulation_en ._en
+i_en got_en up_en the_en next_en morning_en ,_en went_en to_en the_en computer_en and_en looked_en at_en the_en results_en ,_en and_en was_en hoping_en for_en something_en that_en walked_en in_en a_en straight_en line_en ,_en like_en i_en 've_en just_en demonstrated_en ,_en and_en this_en is_en what_en i_en got_en instead_en ._en
+so_en ,_en it_en was_en back_en to_en the_en drawing_en board_en for_en us_en ._en
+we_en did_en get_en it_en to_en work_en eventually_en ,_en after_en tweaking_en a_en bit_en here_en and_en there_en ._en
+and_en this_en is_en an_en example_en of_en a_en successful_en evolutionary_en run_en ._en
+so_en ,_en what_en you_en 'll_en see_en in_en a_en moment_en is_en a_en very_en simple_en biped_en that_en 's_en learning_en how_en to_en walk_en using_en artificial_en evolution_en ._en
+at_en the_en beginning_en ,_en it_en ca_en n't_en walk_en at_en all_en ,_en but_en it_en will_en get_en better_en and_en better_en over_en time_en ._en
+so_en ,_en this_en is_en the_en one_en that_en ca_en n't_en walk_en at_en all_en ._en
+now_en ,_en after_en five_en generations_en of_en applying_en evolutionary_en process_en ,_en the_en genetic_en algorithm_en is_en getting_en a_en tiny_en bit_en better_en ._en
+generation_en 10_en and_en it_en 'll_en take_en a_en few_en steps_en more_en --_en
+still_en not_en quite_en there_en ._en
+but_en now_en ,_en after_en generation_en 20_en ,_en it_en actually_en walks_en in_en a_en straight_en line_en without_en falling_en over_en ._en
+that_en was_en the_en real_en breakthrough_en for_en us_en ._en
+it_en was_en ,_en academically_en ,_en quite_en a_en challenging_en project_en ,_en and_en once_en we_en had_en reached_en that_en stage_en ,_en we_en were_en quite_en confident_en that_en we_en could_en try_en and_en do_en other_en things_en as_en well_en with_en this_en approach_en --_en actually_en simulating_en the_en body_en and_en simulating_en that_en part_en of_en the_en nervous_en system_en that_en controls_en it_en ._en
+now_en ,_en at_en this_en stage_en ,_en it_en also_en became_en clear_en that_en this_en could_en be_en very_en exciting_en for_en things_en like_en computer_en games_en or_en online_en worlds_en ._en
+what_en you_en see_en here_en is_en the_en character_en standing_en there_en ,_en and_en there_en 's_en an_en obstacle_en that_en we_en put_en in_en its_en way_en ._en
+and_en what_en you_en see_en is_en ,_en it_en 's_en going_en to_en fall_en over_en the_en obstacle_en ._en
+now_en ,_en the_en interesting_en bit_en is_en ,_en if_en i_en move_en the_en obstacle_en a_en tiny_en bit_en to_en the_en right_en ,_en which_en is_en what_en i_en 'm_en doing_en now_en ,_en here_en ,_en it_en will_en fall_en over_en it_en in_en a_en completely_en different_en way_en ._en
+and_en again_en ,_en if_en you_en move_en the_en obstacle_en a_en tiny_en bit_en ,_en it_en 'll_en again_en fall_en differently_en ._en
+now_en ,_en what_en you_en see_en ,_en by_en the_en way_en ,_en at_en the_en top_en there_en ,_en are_en some_en of_en the_en neural_en activations_en being_en fed_en into_en the_en virtual_en muscles_en ._en
+okay_en ._en that_en 's_en the_en video_en ._en thanks_en ._en
+now_en ,_en this_en might_en look_en kind_en of_en trivial_en ,_en but_en it_en 's_en actually_en very_en important_en because_en this_en is_en not_en something_en you_en get_en at_en the_en moment_en in_en any_en interactive_en or_en any_en virtual_en worlds_en ._en
+now_en ,_en at_en this_en stage_en ,_en we_en decided_en to_en start_en a_en company_en and_en move_en this_en further_en ,_en because_en obviously_en this_en was_en just_en a_en very_en simple_en ,_en blocky_en biped_en ._en
+what_en we_en really_en wanted_en was_en a_en full_en human_en body_en ._en so_en we_en started_en the_en company_en ._en
+we_en hired_en a_en team_en of_en physicists_en ,_en software_en engineers_en and_en biologists_en to_en work_en on_en this_en ,_en and_en the_en first_en thing_en we_en had_en to_en work_en on_en was_en to_en create_en the_en human_en body_en ,_en basically_en ._en
+it_en 's_en got_en to_en be_en relatively_en fast_en ,_en so_en you_en can_en run_en it_en on_en a_en normal_en machine_en ,_en but_en it_en 's_en got_en to_en be_en accurate_en enough_en ,_en so_en it_en looks_en good_en enough_en ,_en basically_en ._en
+so_en we_en put_en quite_en a_en bit_en of_en biomechanical_en knowledge_en into_en this_en thing_en ,_en and_en tried_en to_en make_en it_en as_en realistic_en as_en possible_en ._en
+what_en you_en see_en here_en on_en the_en screen_en right_en now_en is_en a_en very_en simple_en visualization_en of_en that_en body_en ._en
+i_en should_en add_en that_en it_en 's_en very_en simple_en to_en add_en things_en like_en hair_en ,_en clothes_en ,_en etc._en ,_en
+but_en what_en we_en 've_en done_en here_en is_en use_en a_en very_en simple_en visualization_en ,_en so_en you_en can_en concentrate_en on_en the_en movement_en ._en
+now_en ,_en what_en i_en 'm_en going_en to_en do_en right_en now_en ,_en in_en a_en moment_en ,_en is_en just_en push_en this_en character_en a_en tiny_en bit_en and_en we_en 'll_en see_en what_en happens_en ._en
+nothing_en really_en interesting_en ,_en basically_en ._en
+it_en falls_en over_en ,_en but_en it_en falls_en over_en like_en a_en rag_en doll_en ,_en basically_en ._en
+the_en reason_en for_en that_en is_en that_en there_en 's_en no_en intelligence_en in_en it_en ._en
+it_en becomes_en interesting_en when_en you_en put_en artificial_en intelligence_en into_en it_en ._en
+so_en ,_en this_en character_en now_en has_en motor_en skills_en in_en the_en upper_en body_en --_en
+nothing_en in_en the_en legs_en yet_en ,_en in_en this_en particular_en one_en ._en
+but_en what_en it_en will_en do_en --_en i_en 'm_en going_en to_en push_en it_en again_en ._en
+it_en will_en realize_en autonomously_en that_en it_en 's_en being_en pushed_en ._en
+it_en 's_en going_en to_en stick_en out_en its_en hands_en ._en
+it_en 's_en going_en to_en turn_en around_en into_en the_en fall_en ,_en and_en try_en and_en catch_en the_en fall_en ._en
+so_en that_en 's_en what_en you_en see_en here_en ._en
+now_en ,_en it_en gets_en really_en interesting_en if_en you_en then_en add_en the_en ai_en for_en the_en lower_en part_en of_en the_en body_en as_en well_en ._en
+so_en here_en ,_en we_en 've_en got_en the_en same_en character_en ._en
+i_en 'm_en going_en to_en push_en it_en a_en bit_en harder_en now_en ,_en harder_en than_en i_en just_en pushed_en chris_en ._en
+but_en what_en you_en 'll_en see_en is_en --_en it_en 's_en going_en to_en receive_en a_en push_en now_en from_en the_en left_en ._en
+what_en you_en see_en is_en it_en takes_en steps_en backwards_en ,_en it_en tries_en to_en counter_en -_en balance_en ,_en it_en tries_en to_en look_en at_en the_en place_en where_en it_en thinks_en it_en 's_en going_en to_en land_en ._en
+i_en 'll_en show_en you_en this_en again_en ._en
+and_en then_en ,_en finally_en hits_en the_en floor_en ._en
+now_en ,_en this_en becomes_en really_en exciting_en when_en you_en push_en that_en character_en in_en different_en directions_en ,_en again_en ,_en just_en as_en i_en 've_en done_en ._en
+that_en 's_en something_en that_en you_en cannot_en do_en right_en now_en ._en
+at_en the_en moment_en ,_en you_en only_en have_en empty_en computer_en graphics_en in_en games_en ._en
+what_en this_en is_en now_en is_en a_en real_en simulation_en ._en that_en 's_en what_en i_en want_en to_en show_en you_en now_en ._en
+so_en ,_en here_en 's_en the_en same_en character_en with_en the_en same_en behavior_en i_en 've_en just_en shown_en you_en ,_en but_en now_en i_en 'm_en just_en going_en to_en push_en it_en from_en different_en directions_en ._en
+first_en ,_en starting_en with_en a_en push_en from_en the_en right_en ._en
+this_en is_en all_en slow_en motion_en ,_en by_en the_en way_en ,_en so_en we_en can_en see_en what_en 's_en going_en on_en ._en
+now_en ,_en the_en angle_en will_en have_en changed_en a_en tiny_en bit_en ,_en so_en you_en can_en see_en that_en the_en reaction_en is_en different_en ._en
+again_en ,_en a_en push_en ,_en now_en this_en time_en from_en the_en front_en ._en
+and_en you_en see_en it_en falls_en differently_en ._en
+and_en now_en from_en the_en left_en --_en
+and_en it_en falls_en differently_en ._en
+that_en was_en really_en exciting_en for_en us_en to_en see_en that_en ._en
+that_en was_en the_en first_en time_en we_en 've_en seen_en that_en ._en
+this_en is_en the_en first_en time_en the_en public_en sees_en this_en as_en well_en ,_en because_en we_en have_en been_en in_en stealth_en mode_en ._en
+i_en have_en n't_en shown_en this_en to_en anybody_en yet_en ._en
+now_en ,_en just_en a_en fun_en thing_en :_en
+what_en happens_en if_en you_en put_en that_en character_en --_en this_en is_en now_en a_en wooden_en version_en of_en it_en ,_en but_en it_en 's_en got_en the_en same_en ai_en in_en it_en --_en but_en if_en you_en put_en that_en character_en on_en a_en slippery_en surface_en ,_en like_en ice_en ._en
+we_en just_en did_en that_en for_en a_en laugh_en ,_en just_en to_en see_en what_en happens_en ._en
+and_en this_en is_en what_en happens_en ._en
+it_en 's_en nothing_en we_en had_en to_en do_en about_en this_en ._en
+we_en just_en took_en this_en character_en that_en i_en just_en talked_en about_en ,_en put_en it_en on_en a_en slippery_en surface_en ,_en and_en this_en is_en what_en you_en get_en out_en of_en it_en ._en
+and_en that_en 's_en a_en really_en fascinating_en thing_en about_en this_en approach_en ._en
+now_en ,_en when_en we_en went_en to_en film_en studios_en and_en games_en developers_en and_en showed_en them_en that_en technology_en ,_en we_en got_en a_en very_en good_en response_en ._en
+and_en what_en they_en said_en was_en ,_en the_en first_en thing_en they_en need_en immediately_en is_en virtual_en stuntmen_en ._en
+because_en stunts_en are_en obviously_en very_en dangerous_en ,_en they_en 're_en very_en expensive_en ,_en and_en there_en are_en a_en lot_en of_en stunt_en scenes_en that_en you_en cannot_en do_en ,_en obviously_en ,_en because_en you_en ca_en n't_en really_en allow_en the_en stuntman_en to_en be_en seriously_en hurt_en ._en
+so_en ,_en they_en wanted_en to_en have_en a_en digital_en version_en of_en a_en stuntman_en and_en that_en 's_en what_en we_en 've_en been_en working_en on_en for_en the_en past_en few_en months_en ._en
+and_en that_en 's_en our_en first_en product_en that_en we_en 're_en going_en to_en release_en in_en a_en couple_en of_en weeks_en ._en
+so_en ,_en here_en are_en just_en a_en few_en very_en simple_en scenes_en of_en the_en guy_en just_en being_en kicked_en ._en
+that_en 's_en what_en people_en want_en ._en that_en 's_en what_en we_en 're_en giving_en them_en ._en
+you_en can_en see_en ,_en it_en 's_en always_en reacting_en ._en
+this_en is_en not_en a_en dead_en body_en ._en this_en is_en a_en body_en who_en basically_en ,_en in_en this_en particular_en case_en ,_en feels_en the_en force_en and_en tries_en to_en protect_en its_en head_en ._en
+only_en ,_en i_en think_en it_en 's_en quite_en a_en big_en blow_en again_en ._en
+you_en feel_en kind_en of_en sorry_en for_en that_en thing_en ,_en and_en we_en 've_en seen_en it_en so_en many_en times_en now_en that_en we_en do_en n't_en really_en care_en any_en more_en ._en
+there_en are_en much_en worse_en videos_en than_en this_en ,_en by_en the_en way_en ,_en which_en i_en have_en taken_en out_en ,_en but_en ..._en
+now_en ,_en here_en 's_en another_en one_en ._en
+what_en people_en wanted_en as_en a_en behavior_en was_en to_en have_en an_en explosion_en ,_en a_en strong_en force_en applied_en to_en the_en character_en ,_en and_en have_en the_en character_en react_en to_en it_en in_en midair_en ._en
+so_en that_en you_en do_en n't_en have_en a_en character_en that_en looks_en limp_en ,_en but_en actually_en a_en character_en that_en you_en can_en use_en in_en an_en action_en film_en straight_en away_en ,_en that_en looks_en kind_en of_en alive_en in_en midair_en as_en well_en ._en
+so_en this_en character_en is_en going_en to_en be_en hit_en by_en a_en force_en ,_en it_en 's_en going_en to_en realize_en it_en 's_en in_en the_en air_en ,_en and_en it_en 's_en going_en to_en try_en and_en ,_en well_en ,_en stick_en out_en its_en arm_en in_en the_en direction_en where_en it_en 's_en landing_en ._en
+that_en 's_en one_en angle_en ;_en here_en 's_en another_en angle_en ._en
+we_en now_en think_en that_en the_en realism_en we_en 're_en achieving_en with_en this_en is_en good_en enough_en to_en be_en used_en in_en films_en ._en
+and_en let_en 's_en just_en have_en a_en look_en at_en a_en slightly_en different_en visualization_en ._en
+this_en is_en something_en i_en just_en got_en last_en night_en from_en an_en animation_en studio_en in_en london_en ,_en who_en are_en using_en our_en software_en and_en experimenting_en with_en it_en right_en now_en ._en
+so_en this_en is_en exactly_en the_en same_en behavior_en that_en you_en saw_en ,_en but_en in_en a_en slightly_en better_en rendered_en version_en ._en
+so_en if_en you_en look_en at_en the_en character_en carefully_en ,_en you_en see_en there_en are_en lots_en of_en body_en movements_en going_en on_en ,_en none_en of_en which_en you_en have_en to_en animate_en like_en in_en the_en old_en days_en ._en
+animators_en had_en to_en actually_en animate_en them_en ._en
+this_en is_en all_en happening_en automatically_en in_en the_en simulation_en ._en
+this_en is_en a_en slightly_en different_en angle_en ,_en and_en again_en a_en slow_en motion_en version_en of_en this_en ._en
+this_en is_en incredibly_en quick_en ._en this_en is_en happening_en in_en real_en time_en ._en
+you_en can_en run_en this_en simulation_en in_en real_en time_en ,_en in_en front_en of_en your_en eyes_en ,_en change_en it_en ,_en if_en you_en want_en to_en ,_en and_en you_en get_en the_en animation_en straight_en out_en of_en it_en ._en
+at_en the_en moment_en ,_en doing_en something_en like_en this_en by_en hand_en would_en take_en you_en probably_en a_en couple_en of_en days_en ._en
+this_en is_en another_en behavior_en they_en requested_en ._en
+i_en 'm_en not_en quite_en sure_en why_en ,_en but_en we_en 've_en done_en it_en anyway_en ._en
+it_en 's_en a_en very_en simple_en behavior_en that_en shows_en you_en the_en power_en of_en this_en approach_en ._en
+in_en this_en case_en ,_en the_en character_en 's_en hands_en are_en fixed_en to_en a_en particular_en point_en in_en space_en ,_en and_en all_en we_en 've_en told_en the_en character_en to_en do_en is_en to_en struggle_en ._en
+and_en it_en looks_en organic_en ._en it_en looks_en realistic_en ._en
+you_en feel_en kind_en of_en sorry_en for_en the_en guy_en ._en
+it_en 's_en even_en worse_en --_en and_en that_en is_en another_en video_en i_en just_en got_en last_en night_en --_en if_en you_en render_en that_en a_en bit_en more_en realistically_en ._en
+now_en ,_en i_en 'm_en showing_en this_en to_en you_en just_en to_en show_en you_en how_en organic_en it_en actually_en can_en feel_en ,_en how_en realistic_en it_en can_en look_en ._en
+and_en this_en is_en all_en a_en physical_en simulation_en of_en the_en body_en ,_en using_en ai_en to_en drive_en virtual_en muscles_en in_en that_en body_en ._en
+now_en ,_en one_en thing_en which_en we_en did_en for_en a_en laugh_en was_en to_en create_en a_en slightly_en more_en complex_en stunt_en scene_en ,_en and_en one_en of_en the_en most_en famous_en stunts_en is_en the_en one_en where_en james_en bond_en jumps_en off_en a_en dam_en in_en switzerland_en and_en then_en is_en caught_en by_en a_en bungee_en ._en
+got_en a_en very_en short_en clip_en here_en ._en
+yes_en ,_en you_en can_en just_en about_en see_en it_en here_en ._en
+in_en this_en case_en ,_en they_en were_en using_en a_en real_en stunt_en man_en ._en it_en was_en a_en very_en dangerous_en stunt_en ._en
+it_en was_en just_en voted_en ,_en i_en think_en in_en the_en sunday_en times_en ,_en as_en one_en of_en the_en most_en impressive_en stunts_en ._en
+now_en ,_en we_en 've_en just_en tried_en and_en --_en looked_en at_en our_en character_en and_en asked_en ourselves_en ,_en "_en can_en we_en do_en that_en ourselves_en as_en well_en ?_en "_en
+can_en we_en use_en the_en physical_en simulation_en of_en the_en character_en ,_en use_en artificial_en intelligence_en ,_en put_en that_en artificial_en intelligence_en into_en the_en character_en ,_en drive_en virtual_en muscles_en ,_en simulate_en the_en way_en he_en jumps_en off_en the_en dam_en ,_en and_en then_en skydive_en afterwards_en ,_en and_en have_en him_en caught_en by_en a_en bungee_en afterwards_en ?_en
+we_en did_en that_en ._en it_en took_en about_en altogether_en just_en two_en hours_en ,_en pretty_en much_en ,_en to_en create_en the_en simulation_en ._en
+and_en that_en 's_en what_en it_en looks_en like_en ,_en here_en ._en
+now_en ,_en this_en could_en do_en with_en a_en bit_en more_en work_en ._en it_en 's_en still_en very_en early_en stages_en ,_en and_en we_en pretty_en much_en just_en did_en this_en for_en a_en laugh_en ,_en just_en to_en see_en what_en we_en 'd_en get_en out_en of_en it_en ._en
+but_en what_en we_en found_en over_en the_en past_en few_en months_en is_en that_en this_en approach_en --_en that_en we_en 're_en pretty_en much_en standard_en upon_en --_en is_en incredibly_en powerful_en ._en
+we_en are_en ourselves_en surprised_en what_en you_en actually_en get_en out_en of_en the_en simulations_en ._en
+there_en 's_en very_en often_en very_en surprising_en behavior_en that_en you_en did_en n't_en predict_en before_en ._en
+there_en 's_en so_en many_en things_en we_en can_en do_en with_en this_en right_en now_en ._en
+the_en first_en thing_en ,_en as_en i_en said_en ,_en is_en going_en to_en be_en virtual_en stuntmen_en ._en
+several_en studios_en are_en using_en this_en software_en now_en to_en produce_en virtual_en stuntmen_en ,_en and_en they_en 're_en going_en to_en hit_en the_en screen_en quite_en soon_en ,_en actually_en ,_en for_en some_en major_en productions_en ._en
+the_en second_en thing_en is_en video_en games_en ._en
+with_en this_en technology_en ,_en video_en games_en will_en look_en different_en and_en they_en will_en feel_en very_en different_en ._en
+for_en the_en first_en time_en ,_en you_en 'll_en have_en actors_en that_en really_en feel_en very_en interactive_en ,_en that_en have_en real_en bodies_en that_en really_en react_en ._en
+i_en think_en that_en 's_en going_en to_en be_en incredibly_en exciting_en ._en
+probably_en starting_en with_en sports_en games_en ,_en which_en are_en going_en to_en become_en much_en more_en interactive_en ._en
+but_en i_en particularly_en am_en really_en excited_en about_en using_en this_en technology_en in_en online_en worlds_en ,_en like_en there_en ,_en for_en example_en ,_en that_en tom_en melcher_en has_en shown_en us_en ._en
+the_en degree_en of_en interactivity_en you_en 're_en going_en to_en get_en is_en totally_en different_en ,_en i_en think_en ,_en from_en what_en you_en 're_en getting_en right_en now_en ._en
+a_en third_en thing_en we_en are_en looking_en at_en and_en very_en interested_en in_en is_en simulation_en ._en
+we_en 've_en been_en approached_en by_en several_en simulation_en companies_en ,_en but_en one_en project_en we_en 're_en particularly_en excited_en about_en ,_en which_en we_en 're_en starting_en next_en month_en ,_en is_en to_en use_en our_en technology_en --_en and_en in_en particular_en ,_en the_en walking_en technology_en --_en to_en help_en aid_en surgeons_en who_en work_en on_en children_en with_en cerebral_en palsy_en ,_en to_en predict_en the_en outcome_en of_en operations_en on_en these_en children_en ._en
+as_en you_en probably_en know_en ,_en it_en 's_en very_en difficult_en to_en predict_en what_en the_en outcome_en of_en an_en operation_en is_en if_en you_en try_en and_en correct_en the_en gait_en ._en
+the_en classic_en quote_en is_en ,_en i_en think_en ,_en it_en 's_en unpredictable_en at_en best_en ,_en is_en what_en people_en think_en right_en now_en ,_en is_en the_en outcome_en ._en
+now_en ,_en what_en we_en want_en to_en do_en with_en our_en software_en is_en allow_en our_en surgeons_en to_en have_en a_en tool_en ._en
+we_en 're_en going_en to_en simulate_en the_en gait_en of_en a_en particular_en child_en and_en the_en surgeon_en can_en then_en work_en on_en that_en simulation_en and_en try_en out_en different_en ways_en to_en improve_en that_en gait_en ,_en before_en he_en actually_en commits_en to_en an_en actual_en surgery_en ._en
+that_en 's_en one_en project_en we_en 're_en particularly_en excited_en about_en ,_en and_en that_en 's_en going_en to_en start_en next_en month_en ._en
+just_en finally_en ,_en this_en is_en only_en just_en the_en beginning_en ._en
+we_en can_en only_en do_en several_en behaviors_en right_en now_en ._en
+the_en ai_en is_en n't_en good_en enough_en to_en simulate_en a_en full_en human_en body_en ._en
+the_en body_en yes_en ,_en but_en not_en all_en the_en motor_en skills_en that_en we_en have_en ._en
+and_en ,_en i_en think_en ,_en we_en 're_en only_en there_en if_en we_en can_en have_en something_en like_en ballet_en dancing_en ._en
+right_en now_en ,_en we_en do_en n't_en have_en that_en but_en i_en 'm_en very_en sure_en that_en we_en will_en be_en able_en to_en do_en that_en at_en some_en stage_en ._en
+we_en do_en have_en one_en unintentional_en dancer_en actually_en ,_en the_en last_en thing_en i_en 'm_en going_en to_en show_en you_en ._en
+this_en was_en an_en ai_en contour_en that_en was_en produced_en and_en evolved_en --_en half_en -_en evolved_en ,_en i_en should_en say_en --_en to_en produce_en balance_en ,_en basically_en ._en
+so_en ,_en you_en kick_en the_en guy_en and_en the_en guy_en 's_en supposed_en to_en counter_en -_en balance_en ._en
+that_en 's_en what_en we_en thought_en was_en going_en to_en come_en out_en of_en this_en ._en
+but_en this_en is_en what_en emerged_en out_en of_en it_en ,_en in_en the_en end_en ._en
+bizarrely_en ,_en this_en thing_en does_en n't_en have_en a_en head_en ._en i_en 'm_en not_en quite_en sure_en why_en ._en
+so_en ,_en this_en was_en not_en something_en we_en actually_en put_en in_en there_en ._en
+he_en just_en started_en to_en create_en that_en dance_en himself_en ._en
+he_en 's_en actually_en a_en better_en dancer_en than_en i_en am_en ,_en i_en have_en to_en say_en ._en
+and_en what_en you_en see_en after_en a_en while_en --_en i_en think_en he_en even_en goes_en into_en a_en climax_en right_en at_en the_en end_en ._en
+so_en ,_en that_en all_en happened_en automatically_en ._en we_en did_en n't_en put_en that_en in_en there_en ._en
+that_en 's_en just_en the_en simulation_en creating_en this_en itself_en ,_en basically_en ._en
+so_en it_en 's_en just_en --_en thanks_en ._en
+not_en quite_en john_en travolta_en yet_en ,_en but_en we_en 're_en working_en on_en that_en as_en well_en ,_en
+thanks_en ._en
+ca_en :_en incredible_en ._en that_en was_en really_en incredible_en ._en
+tr_en :_en thanks_en ._en

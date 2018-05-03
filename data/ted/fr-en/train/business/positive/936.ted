@@ -1,0 +1,153 @@
+je_fr m'appelle_fr seth_fr priebatsch_fr ._fr je_fr suis_fr le_fr chef_fr ninja_fr de_fr scvngr_fr ._fr
+je_fr suis_fr un_fr fier_fr étudiant_fr ayant_fr quitté_fr princeton_fr ._fr
+fier_fr également_fr d'avoir_fr déménagé_fr ici_fr à_fr boston_fr ,_fr où_fr j'ai_fr en_fr fait_fr grandi_fr ._fr
+oui_fr ,_fr boston_fr ._fr
+trop_fr facile_fr ._fr je_fr pourrais_fr vous_fr citer_fr tous_fr les_fr cantons_fr du_fr coin_fr ._fr
+je_fr suis_fr donc_fr motivé_fr à_fr essayer_fr de_fr construire_fr une_fr couche_fr de_fr jeu_fr au_fr dessus_fr du_fr monde_fr ._fr
+c'est_fr une_fr sorte_fr de_fr nouveau_fr concept_fr ,_fr et_fr c'est_fr vraiment_fr important_fr ._fr
+alors_fr que_fr la_fr dernière_fr décennie_fr a_fr été_fr la_fr décennie_fr du_fr social_fr et_fr la_fr décennie_fr où_fr l'architecture_fr dans_fr laquelle_fr nous_fr nous_fr connectons_fr aux_fr autres_fr a_fr été_fr construite_fr ,_fr la_fr prochaine_fr décennie_fr sera_fr la_fr décennie_fr où_fr nous_fr construirons_fr une_fr architecture_fr de_fr jeu_fr ,_fr où_fr les_fr motivations_fr que_fr nous_fr utilisons_fr pour_fr influencer_fr le_fr comportement_fr ,_fr et_fr la_fr structure_fr dans_fr laquelle_fr elles_fr sont_fr construites_fr ,_fr se_fr décident_fr ,_fr et_fr c'est_fr vraiment_fr important_fr ._fr
+je_fr dis_fr donc_fr que_fr je_fr veux_fr construire_fr une_fr couche_fr de_fr jeu_fr au_fr dessus_fr du_fr monde_fr ,_fr mais_fr ce_fr n'est_fr pas_fr tout_fr à_fr fait_fr vrai_fr parce_fr que_fr elle_fr est_fr déjà_fr en_fr construction_fr ;_fr c'est_fr déjà_fr en_fr train_fr d'arriver_fr ._fr
+et_fr ça_fr ressemble_fr à_fr peu_fr près_fr à_fr ça_fr en_fr ce_fr moment_fr ._fr
+ça_fr ressemble_fr un_fr peu_fr à_fr ce_fr qu'a_fr fait_fr le_fr web_fr en_fr 1997_fr ,_fr pas_fr vrai_fr ?_fr
+ce_fr n'est_fr pas_fr très_fr bien_fr ._fr c'est_fr bien_fr chargé_fr ._fr
+c'est_fr plein_fr de_fr choses_fr toutes_fr différentes_fr qui_fr ,_fr en_fr bref_fr ,_fr ne_fr sont_fr pas_fr très_fr amusantes_fr ._fr
+il_fr y_fr a_fr des_fr programmes_fr de_fr cartes_fr bancaires_fr et_fr de_fr miles_fr aériens_fr et_fr des_fr systèmes_fr de_fr coupons_fr ,_fr tous_fr ces_fr programmes_fr de_fr fidélité_fr qui_fr en_fr fait_fr utilisent_fr des_fr dynamiques_fr de_fr jeu_fr et_fr construisent_fr en_fr fait_fr la_fr couche_fr de_fr jeu_fr ,_fr ils_fr sont_fr juste_fr nuls_fr ._fr
+ils_fr ne_fr sont_fr pas_fr très_fr bien_fr conçus_fr ,_fr pas_fr vrai_fr ?_fr
+donc_fr ,_fr pas_fr de_fr chance_fr ._fr
+mais_fr heureusement_fr ,_fr comme_fr dit_fr mon_fr héro_fr d'action_fr préféré_fr ,_fr bob_fr the_fr _UNK__fr ,_fr "_fr on_fr peut_fr faire_fr mieux_fr ._fr on_fr peut_fr mieux_fr le_fr construire_fr ._fr "_fr et_fr les_fr instruments_fr ,_fr les_fr ressources_fr que_fr nous_fr utilisons_fr pour_fr construire_fr une_fr couche_fr de_fr jeu_fr sont_fr les_fr dynamiques_fr de_fr jeu_fr elles_fr -_fr mêmes_fr ._fr
+et_fr donc_fr l'essentiel_fr de_fr cette_fr présentation_fr est_fr de_fr passer_fr en_fr revue_fr quatre_fr importantes_fr dynamiques_fr de_fr jeu_fr ,_fr très_fr intéressantes_fr ,_fr qui_fr ,_fr utilisées_fr avec_fr conscience_fr ,_fr peuvent_fr être_fr utilisé_fr pour_fr influencer_fr le_fr comportement_fr ,_fr pour_fr le_fr bien_fr ,_fr pour_fr le_fr mal_fr ,_fr et_fr entre_fr les_fr deux_fr ._fr
+espérons_fr pour_fr le_fr bien_fr ._fr
+mais_fr cela_fr représente_fr les_fr étapes_fr importantes_fr dans_fr lesquelles_fr cette_fr structure_fr va_fr se_fr construire_fr ,_fr on_fr veut_fr donc_fr tous_fr y_fr penser_fr consciemment_fr dès_fr maintenant_fr ._fr
+juste_fr avant_fr de_fr nous_fr y_fr plonger_fr ,_fr une_fr question_fr :_fr pourquoi_fr est_fr -_fr ce_fr important_fr ?_fr
+je_fr suis_fr quelque_fr part_fr en_fr train_fr d'affirmer_fr qu'il_fr y_fr a_fr une_fr couche_fr de_fr jeu_fr au_fr -_fr dessus_fr du_fr monde_fr ,_fr et_fr qu'il_fr est_fr très_fr important_fr de_fr la_fr contruire_fr correctement_fr ._fr
+la_fr raison_fr pour_fr laquelle_fr c'est_fr si_fr important_fr est_fr que_fr ,_fr dans_fr la_fr dernière_fr décennie_fr nous_fr avons_fr vu_fr la_fr construction_fr d'une_fr couche_fr sociale_fr ,_fr d'une_fr architecture_fr pour_fr les_fr connexions_fr ,_fr et_fr la_fr construction_fr de_fr cette_fr couche_fr est_fr terminée_fr ,_fr c'est_fr fini_fr ._fr
+il_fr y_fr a_fr encore_fr beaucoup_fr de_fr chose_fr à_fr explorer_fr ._fr
+il_fr y_fr a_fr encore_fr beaucoup_fr de_fr gens_fr qui_fr essayent_fr de_fr comprendre_fr le_fr social_fr et_fr comment_fr en_fr tirer_fr profit_fr et_fr comment_fr l'utiliser_fr ,_fr mais_fr l'architecture_fr en_fr elle_fr -_fr même_fr est_fr faite_fr ,_fr et_fr ça_fr s'appelle_fr facebook_fr ._fr
+et_fr ce_fr n'est_fr pas_fr mal_fr ,_fr pas_fr vrai_fr ?_fr beaucoup_fr de_fr gens_fr sont_fr contents_fr de_fr facebook_fr ._fr
+je_fr l'aime_fr bien_fr aussi_fr ._fr
+ils_fr ont_fr créé_fr cette_fr chose_fr qui_fr s'appelle_fr open_fr graph_fr ,_fr et_fr ils_fr possèdent_fr toutes_fr nos_fr connexions_fr ._fr
+ils_fr possèdent_fr un_fr demi_fr -_fr milliard_fr de_fr personnes_fr ._fr
+donc_fr quand_fr vous_fr voulez_fr construire_fr sur_fr la_fr couche_fr sociale_fr ,_fr l'architecture_fr a_fr été_fr décidée_fr :_fr c'est_fr l'api_fr open_fr graph_fr ._fr
+et_fr si_fr ça_fr vous_fr plait_fr ,_fr c'est_fr super_fr ._fr
+autrement_fr ,_fr tant_fr pis_fr pour_fr vous_fr ._fr vous_fr ne_fr pouvez_fr rien_fr y_fr faire_fr ._fr
+mais_fr la_fr prochaine_fr décennie_fr --_fr et_fr c'est_fr vrai_fr ._fr
+je_fr veux_fr dire_fr ,_fr nous_fr voulons_fr construire_fr des_fr architectures_fr qui_fr fasse_fr en_fr sorte_fr que_fr ça_fr soit_fr acceptable_fr et_fr les_fr rendre_fr ,_fr vous_fr savez_fr ,_fr efficaces_fr sur_fr la_fr route_fr ._fr
+donc_fr la_fr couche_fr sociale_fr s'intéresse_fr à_fr toutes_fr ces_fr connexions_fr ._fr
+la_fr couche_fr de_fr jeu_fr s'intéresse_fr à_fr l'influence_fr ._fr
+il_fr ne_fr s'agit_fr pas_fr d'ajouter_fr un_fr tissu_fr social_fr au_fr web_fr et_fr de_fr vous_fr connecter_fr à_fr d'autres_fr gens_fr partout_fr où_fr vous_fr êtes_fr et_fr partout_fr où_fr vous_fr allez_fr ._fr
+en_fr fait_fr il_fr s'agit_fr l'utilisation_fr de_fr dynamiques_fr ,_fr de_fr forces_fr ,_fr pour_fr influencer_fr le_fr comportement_fr là_fr où_fr vous_fr êtes_fr ,_fr ce_fr que_fr vous_fr y_fr faites_fr ,_fr et_fr comment_fr vous_fr le_fr faites_fr ._fr
+ceci_fr est_fr vraiment_fr très_fr ,_fr très_fr puissant_fr ,_fr et_fr ça_fr va_fr être_fr même_fr plus_fr important_fr que_fr la_fr couche_fr sociale_fr ._fr
+ça_fr va_fr influencer_fr nos_fr vies_fr plus_fr profondément_fr et_fr probablement_fr de_fr manière_fr invisible_fr ._fr
+c'est_fr donc_fr tellement_fr critique_fr qu'en_fr ce_fr moment_fr même_fr ,_fr pendant_fr que_fr ça_fr se_fr construit_fr ,_fr pendant_fr que_fr des_fr structures_fr comme_fr facebook_fr ,_fr comme_fr open_fr graph_fr ,_fr se_fr créent_fr pour_fr l'équivalent_fr de_fr la_fr couche_fr de_fr jeu_fr ,_fr que_fr nous_fr y_fr pensions_fr très_fr consciemment_fr ,_fr et_fr que_fr nous_fr le_fr fassions_fr de_fr manière_fr ouverte_fr ,_fr disponible_fr ,_fr pour_fr pouvoir_fr l'utiliser_fr de_fr la_fr bonne_fr façon_fr ._fr
+voila_fr ce_fr dont_fr je_fr veux_fr parler_fr pour_fr les_fr dynamiques_fr de_fr jeu_fr ,_fr parce_fr que_fr la_fr construction_fr a_fr commencé_fr ,_fr et_fr plus_fr nous_fr y_fr pensons_fr consciemment_fr ,_fr mieux_fr nous_fr pourrons_fr l'utiliser_fr pour_fr ce_fr que_fr nous_fr voulons_fr ._fr
+donc_fr ,_fr comme_fr je_fr vous_fr disais_fr ,_fr le_fr moyen_fr pour_fr construire_fr la_fr couche_fr de_fr jeu_fr n'est_fr pas_fr avec_fr du_fr verre_fr ,_fr de_fr l'acier_fr et_fr du_fr ciment_fr ._fr
+et_fr les_fr ressources_fr que_fr nous_fr utilisons_fr ce_fr ne_fr sont_fr pas_fr des_fr étendues_fr de_fr terres_fr a_fr deux_fr dimensions_fr que_fr nous_fr avons_fr ._fr
+les_fr ressources_fr sont_fr le_fr partage_fr des_fr intelligences_fr et_fr les_fr matières_fr premières_fr sont_fr les_fr dynamiques_fr de_fr jeu_fr ._fr
+avec_fr ça_fr ,_fr vous_fr voyez_fr ,_fr quelques_fr dynamiques_fr de_fr jeu_fr à_fr envisager_fr ._fr
+quatre_fr ._fr a_fr scvngr_fr ,_fr on_fr aime_fr se_fr moquer_fr en_fr disant_fr qu'avec_fr sept_fr dynamiques_fr de_fr jeu_fr ,_fr vous_fr pouvez_fr faire_fr faire_fr n'importe_fr quoi_fr à_fr n'importe_fr qui_fr ._fr
+donc_fr aujourd'hui_fr je_fr vais_fr vous_fr parler_fr de_fr quatre_fr d'entre_fr elles_fr ,_fr parce_fr que_fr j'espère_fr avoir_fr encore_fr un_fr avantage_fr compétitif_fr à_fr la_fr fin_fr de_fr ce_fr discours_fr ._fr
+donc_fr le_fr premier_fr ,_fr c'est_fr une_fr dynamique_fr de_fr jeu_fr très_fr simple_fr ._fr
+ça_fr s'appelle_fr la_fr dynamique_fr du_fr rendez_fr -_fr vous_fr ._fr
+et_fr c'est_fr une_fr dynamique_fr dans_fr laquelle_fr ,_fr pour_fr réussir_fr ,_fr les_fr joueurs_fr doivent_fr faire_fr quelque_fr chose_fr à_fr un_fr moment_fr déterminé_fr ,_fr généralement_fr dans_fr un_fr lieu_fr déterminé_fr ._fr
+et_fr ces_fr dynamiques_fr sont_fr parfois_fr effrayantes_fr parce_fr que_fr vous_fr vous_fr dites_fr que_fr d'autres_fr personnes_fr peuvent_fr utiliser_fr des_fr forces_fr pour_fr manipuler_fr mon_fr interaction_fr ,_fr ce_fr que_fr je_fr fais_fr ,_fr où_fr je_fr le_fr fais_fr ,_fr quand_fr je_fr le_fr fais_fr ._fr
+cette_fr sorte_fr de_fr perte_fr du_fr libre_fr arbitre_fr qui_fr arrive_fr dans_fr les_fr jeux_fr peut_fr être_fr _UNK__fr ,_fr donc_fr pour_fr chaque_fr dynamique_fr ,_fr je_fr vais_fr vous_fr donner_fr trois_fr exemples_fr --_fr un_fr qui_fr montre_fr comment_fr on_fr s'en_fr sert_fr déjà_fr dans_fr le_fr monde_fr réel_fr ,_fr pour_fr que_fr vous_fr puissiez_fr rationaliser_fr un_fr petit_fr peu_fr ,_fr un_fr qui_fr démontre_fr son_fr utilisation_fr dans_fr les_fr jeux_fr conventionnels_fr --_fr je_fr crois_fr que_fr tout_fr est_fr un_fr jeu_fr ,_fr ici_fr c'est_fr plutôt_fr ce_fr que_fr vous_fr pourriez_fr penser_fr d'un_fr jeu_fr joué_fr sur_fr une_fr table_fr ou_fr sur_fr un_fr écran_fr ,_fr un_fr sur_fr comment_fr elle_fr peut_fr être_fr utilisé_fr pour_fr le_fr bien_fr ,_fr pour_fr qu'on_fr puisse_fr voir_fr que_fr ces_fr forces_fr peuvent_fr être_fr vraiment_fr puissantes_fr ._fr
+donc_fr le_fr premier_fr --_fr la_fr plus_fr célèbre_fr dynamique_fr de_fr rendez_fr -_fr vous_fr au_fr monde_fr --_fr est_fr ce_fr qu'on_fr appelle_fr les_fr "_fr happy_fr hour_fr "_fr ._fr
+j'ai_fr donc_fr quitté_fr très_fr récemment_fr princeton_fr et_fr je_fr me_fr suis_fr retrouvé_fr pour_fr la_fr première_fr fois_fr dans_fr un_fr bar_fr ,_fr et_fr j'ai_fr remarqué_fr ces_fr "_fr happy_fr hour_fr "_fr partout_fr ,_fr d'accord_fr ._fr
+et_fr c'est_fr simplement_fr une_fr dynamique_fr de_fr rendez_fr -_fr vous_fr ._fr
+viens_fr à_fr une_fr certaine_fr heure_fr ,_fr on_fr se_fr paye_fr un_fr verre_fr à_fr moitié_fr prix_fr ._fr
+pour_fr gagner_fr ,_fr tout_fr ce_fr que_fr vous_fr avez_fr à_fr faire_fr c'est_fr vous_fr présenter_fr au_fr bon_fr endroit_fr à_fr la_fr bonne_fr heure_fr ._fr
+cette_fr dynamique_fr de_fr jeu_fr est_fr tellement_fr puissante_fr ,_fr qu'elle_fr _UNK__fr non_fr seulement_fr notre_fr comportement_fr ,_fr mais_fr aussi_fr la_fr culture_fr toute_fr entière_fr ._fr
+c'est_fr vraiment_fr une_fr pensée_fr effrayante_fr ,_fr qu'une_fr seule_fr dynamique_fr de_fr jeu_fr peut_fr changer_fr complètement_fr les_fr choses_fr ._fr
+elle_fr existe_fr aussi_fr dans_fr des_fr formes_fr de_fr jeu_fr plus_fr conventionnels_fr ._fr
+je_fr suis_fr sûr_fr que_fr vous_fr avez_fr tous_fr entendu_fr parler_fr de_fr farmville_fr ._fr
+sinon_fr ,_fr je_fr vous_fr recommande_fr d'y_fr jouer_fr ._fr
+vous_fr ne_fr ferez_fr rien_fr d'autre_fr du_fr reste_fr de_fr la_fr journée_fr ._fr
+farmville_fr a_fr plus_fr d'utilisateurs_fr actifs_fr que_fr twitter_fr ._fr
+c'est_fr incroyablement_fr puissant_fr ,_fr et_fr il_fr a_fr cette_fr dynamique_fr dans_fr laquelle_fr vous_fr êtes_fr obligé_fr de_fr revenir_fr à_fr une_fr certaine_fr heure_fr pour_fr arroser_fr vos_fr cultures_fr --_fr fausse_fr culture_fr --_fr autrement_fr elles_fr _UNK__fr ._fr
+et_fr c'est_fr tellement_fr puissant_fr que_fr ,_fr lorsqu'ils_fr changent_fr leurs_fr statistiques_fr ,_fr quand_fr ils_fr vous_fr disent_fr que_fr vos_fr cultures_fr sont_fr mortes_fr huit_fr heures_fr après_fr ,_fr ou_fr six_fr heures_fr après_fr ,_fr ou_fr 24_fr heures_fr après_fr ,_fr ça_fr change_fr le_fr cycle_fr de_fr vie_fr de_fr 70_fr millions_fr et_fr quelque_fr personnes_fr pendant_fr la_fr journée_fr ._fr
+les_fr gens_fr reviennent_fr comme_fr des_fr horloges_fr à_fr différents_fr moments_fr ._fr
+donc_fr ,_fr s'ils_fr voulaient_fr en_fr finir_fr avec_fr le_fr monde_fr ,_fr ou_fr arrêter_fr la_fr productivité_fr ,_fr ils_fr pourraient_fr en_fr faire_fr un_fr cycle_fr de_fr 30_fr minutes_fr ,_fr et_fr on_fr ne_fr pourrait_fr rien_fr faire_fr d'autre_fr ._fr
+ça_fr fait_fr peur_fr ._fr
+mais_fr on_fr pourrait_fr aussi_fr l'utiliser_fr pour_fr le_fr bien_fr ._fr
+voici_fr une_fr société_fr locale_fr qui_fr s'appelle_fr _UNK__fr ,_fr et_fr ils_fr ont_fr créé_fr ce_fr produit_fr pour_fr aider_fr les_fr gens_fr à_fr prendre_fr leurs_fr médicaments_fr à_fr l'heure_fr ._fr
+c'est_fr un_fr rendez_fr -_fr vous_fr ._fr
+c'est_fr quelque_fr chose_fr que_fr les_fr gens_fr ne_fr font_fr pas_fr très_fr bien_fr ._fr
+et_fr ils_fr ont_fr ces_fr "_fr _UNK__fr "_fr qui_fr s'illuminent_fr et_fr vous_fr envoient_fr des_fr courriels_fr et_fr font_fr toutes_fr sortes_fr de_fr choses_fr amusantes_fr pour_fr vous_fr rappeler_fr de_fr prendre_fr votre_fr médicament_fr ._fr
+celui_fr la_fr n'est_fr pas_fr encore_fr un_fr jeu_fr ,_fr mais_fr il_fr devrait_fr l'être_fr ._fr
+vous_fr devriez_fr obtenir_fr des_fr points_fr pour_fr faire_fr ça_fr à_fr temps_fr ._fr
+vous_fr devriez_fr en_fr perdre_fr quand_fr vous_fr ne_fr le_fr faites_fr pas_fr ._fr
+ils_fr devraient_fr être_fr conscients_fr du_fr fait_fr qu'ils_fr ont_fr construit_fr une_fr dynamique_fr de_fr rendez_fr -_fr vous_fr et_fr tirer_fr profit_fr du_fr jeu_fr ._fr
+et_fr vous_fr pouvez_fr vraiment_fr obtenir_fr de_fr bons_fr résultats_fr de_fr manière_fr très_fr intéressante_fr ._fr
+on_fr va_fr passer_fr à_fr la_fr suivante_fr ,_fr peut_fr -_fr être_fr ._fr oui_fr ._fr
+influence_fr et_fr statut_fr ._fr
+donc_fr voici_fr une_fr des_fr plus_fr célèbres_fr dynamiques_fr de_fr jeu_fr ._fr
+on_fr l'utilise_fr partout_fr ._fr
+c'est_fr utilisé_fr dans_fr votre_fr portefeuille_fr ,_fr en_fr ce_fr moment_fr même_fr ._fr
+tout_fr le_fr monde_fr veut_fr cette_fr carte_fr bancaire_fr tout_fr à_fr gauche_fr parce_fr qu'elle_fr est_fr noire_fr ._fr
+et_fr vous_fr voyez_fr quelqu'un_fr chez_fr cvs_fr ou_fr --_fr pas_fr cvs_fr --_fr chez_fr christian_fr _UNK__fr ou_fr par_fr là_fr ,_fr et_fr après_fr ..._fr je_fr ne_fr sais_fr pas_fr ._fr je_fr n'ai_fr pas_fr de_fr carte_fr noire_fr :_fr j'ai_fr une_fr carte_fr de_fr débit_fr ._fr
+donc_fr ils_fr la_fr sortent_fr ._fr et_fr vous_fr voyez_fr des_fr hommes_fr ,_fr ils_fr ont_fr cette_fr carte_fr ._fr
+je_fr la_fr veux_fr parce_fr que_fr ça_fr veut_fr dire_fr qu'ils_fr sont_fr plus_fr cool_fr que_fr moi_fr ,_fr et_fr j'en_fr ai_fr besoin_fr ._fr
+et_fr ça_fr s'utilise_fr dans_fr les_fr jeux_fr également_fr ._fr
+"_fr modern_fr _UNK__fr "_fr ,_fr un_fr des_fr jeux_fr les_fr plus_fr vendus_fr de_fr tous_fr les_fr temps_fr ._fr
+je_fr suis_fr un_fr niveau_fr 4_fr ,_fr mais_fr je_fr veux_fr désespérément_fr être_fr un_fr niveau_fr 10_fr ,_fr parce_fr qu'ils_fr ont_fr ce_fr superbe_fr badge_fr rouge_fr ,_fr et_fr ça_fr signifie_fr en_fr quelque_fr sorte_fr que_fr je_fr suis_fr meilleur_fr que_fr tous_fr les_fr autres_fr ._fr
+et_fr ça_fr a_fr beaucoup_fr _UNK__fr sur_fr moi_fr ._fr le_fr statut_fr est_fr un_fr vrai_fr _UNK__fr ._fr
+on_fr l'utilise_fr également_fr dans_fr des_fr cadres_fr plus_fr conventionnels_fr et_fr peut_fr être_fr utilisé_fr plus_fr consciemment_fr dans_fr des_fr cadres_fr conventionnels_fr ._fr
+l'école_fr --_fr et_fr souvenez_fr -_fr vous_fr ,_fr j'y_fr suis_fr passé_fr pendant_fr un_fr an_fr ,_fr je_fr suis_fr donc_fr qualifié_fr pour_fr parler_fr d'école_fr --_fr est_fr un_fr jeu_fr ,_fr juste_fr un_fr jeu_fr pas_fr très_fr bien_fr conçu_fr ,_fr d'accord_fr ._fr
+il_fr y_fr a_fr des_fr niveaux_fr ._fr il_fr y_fr a_fr les_fr c._fr il_fr y_fr a_fr les_fr b._fr il_fr y_fr a_fr les_fr a._fr
+il_fr ya_fr des_fr statuts_fr ._fr je_fr veux_fr dire_fr ,_fr qu'est_fr ce_fr qu'un_fr major_fr si_fr ce_fr n'est_fr pas_fr un_fr statut_fr ?_fr
+si_fr on_fr appelle_fr major_fr un_fr "_fr chevalier_fr blanc_fr paladin_fr niveau_fr 20_fr "_fr ,_fr je_fr pense_fr que_fr les_fr gens_fr travailleraient_fr beaucoup_fr plus_fr ._fr
+donc_fr l'école_fr est_fr un_fr jeu_fr ._fr et_fr il_fr y_fr a_fr eu_fr plein_fr d'expériences_fr sur_fr comment_fr faire_fr ça_fr correctement_fr ._fr
+mais_fr utilisons_fr -_fr la_fr consciemment_fr ._fr comme_fr ,_fr pourquoi_fr avoir_fr des_fr jeux_fr où_fr on_fr peut_fr perdre_fr ?_fr
+pourquoi_fr passer_fr de_fr a_fr à_fr f_fr ou_fr de_fr b_fr à_fr c_fr ?_fr
+c'est_fr bête_fr ._fr pourquoi_fr ne_fr pas_fr monter_fr en_fr niveau_fr ?_fr
+et_fr à_fr princeton_fr ils_fr ont_fr en_fr fait_fr testé_fr cela_fr ,_fr avec_fr des_fr questionnaires_fr où_fr vous_fr gagnez_fr des_fr points_fr expériences_fr ,_fr et_fr vous_fr passez_fr du_fr niveau_fr b_fr au_fr niveau_fr a._fr
+et_fr c'est_fr très_fr puissant_fr ._fr
+il_fr peut_fr être_fr utilisé_fr de_fr façon_fr intéressante_fr ._fr
+la_fr troisième_fr donc_fr je_fr veux_fr vous_fr parler_fr rapidement_fr c'est_fr la_fr dynamique_fr de_fr progression_fr ,_fr ou_fr en_fr quelque_fr sorte_fr vous_fr devez_fr faire_fr des_fr progrès_fr ,_fr vous_fr devez_fr passer_fr à_fr travers_fr différentes_fr étapes_fr de_fr manière_fr _UNK__fr ._fr
+on_fr l'utilise_fr partout_fr ,_fr linkedin_fr inclus_fr ,_fr où_fr je_fr suis_fr un_fr individu_fr pas_fr tout_fr à_fr fait_fr complet_fr ._fr
+je_fr suis_fr seulement_fr complet_fr à_fr 85_fr %_fr sur_fr linkedin_fr ,_fr et_fr ça_fr m'embête_fr ._fr
+et_fr c'est_fr tellement_fr incrusté_fr dans_fr votre_fr tête_fr que_fr ,_fr lorsque_fr nous_fr avons_fr une_fr barre_fr de_fr progression_fr présentée_fr avec_fr des_fr étapes_fr faciles_fr ,_fr bien_fr définies_fr à_fr passer_fr pour_fr essayer_fr de_fr compléter_fr cette_fr barre_fr ,_fr nous_fr allons_fr le_fr faire_fr ._fr
+on_fr trouvera_fr un_fr moyen_fr de_fr faire_fr bouger_fr cette_fr barre_fr bleue_fr ._fr
+jusqu'au_fr bout_fr à_fr droite_fr de_fr l'écran_fr ._fr
+on_fr l'utilise_fr également_fr dans_fr les_fr jeux_fr conventionnels_fr ._fr
+je_fr veux_fr dire_fr ,_fr ceci_fr est_fr un_fr paladin_fr niveau_fr 10_fr ,_fr et_fr celui_fr est_fr un_fr paladin_fr niveau_fr 20_fr ,_fr et_fr si_fr vous_fr deviez_fr combattre_fr ,_fr par_fr exemple_fr ,_fr des_fr orques_fr sur_fr les_fr terres_fr de_fr _UNK__fr contre_fr le_fr raz_fr al_fr _UNK__fr ,_fr vous_fr voudrez_fr probablement_fr être_fr le_fr plus_fr grand_fr ,_fr pas_fr vrai_fr ._fr
+moi_fr oui_fr ._fr
+donc_fr les_fr gens_fr travaillent_fr durement_fr pour_fr monter_fr en_fr niveau_fr ._fr
+"_fr world_fr of_fr warcraft_fr "_fr est_fr un_fr des_fr jeux_fr les_fr plus_fr réussis_fr de_fr tous_fr les_fr temps_fr ._fr
+le_fr joueur_fr moyen_fr passe_fr à_fr peu_fr près_fr six_fr à_fr six_fr heures_fr et_fr demi_fr par_fr jour_fr dessus_fr ._fr
+pour_fr les_fr joueurs_fr les_fr plus_fr dévoués_fr ,_fr c'est_fr un_fr travail_fr plein_fr -_fr temps_fr ._fr
+c'est_fr dingue_fr ._fr et_fr ils_fr ont_fr ces_fr systèmes_fr où_fr vous_fr pouvez_fr monter_fr en_fr niveau_fr ._fr
+et_fr c'est_fr vraiment_fr très_fr puissant_fr ._fr la_fr progression_fr a_fr un_fr effet_fr puissant_fr ._fr
+elle_fr peut_fr être_fr utilisée_fr de_fr manière_fr très_fr convaincante_fr pour_fr le_fr bien_fr ._fr
+une_fr des_fr choses_fr sur_fr lesquelles_fr on_fr travaille_fr à_fr scvngr_fr est_fr l'utilisation_fr des_fr jeux_fr pour_fr piloter_fr les_fr flux_fr et_fr pousser_fr les_fr commerces_fr aux_fr affaires_fr locales_fr ,_fr vers_fr quelque_fr chose_fr qui_fr est_fr vraiment_fr important_fr pour_fr l'économie_fr ._fr
+et_fr ici_fr vous_fr avez_fr un_fr jeu_fr que_fr les_fr gens_fr jouent_fr ._fr
+ils_fr vont_fr dans_fr des_fr endroits_fr ,_fr ils_fr acceptent_fr des_fr défis_fr ,_fr ils_fr gagnent_fr des_fr points_fr ._fr
+et_fr on_fr a_fr introduit_fr une_fr dynamique_fr de_fr progression_fr ,_fr où_fr ,_fr en_fr allant_fr régulièrement_fr à_fr un_fr endroit_fr ,_fr en_fr acceptant_fr des_fr défis_fr ,_fr en_fr s'engageant_fr dans_fr les_fr affaires_fr ,_fr vous_fr avancez_fr sur_fr une_fr barre_fr verte_fr de_fr gauche_fr à_fr droite_fr de_fr l'écran_fr ,_fr et_fr vous_fr finissez_fr par_fr débloquer_fr des_fr récompenses_fr ._fr
+et_fr c'est_fr assez_fr puissant_fr pour_fr que_fr l'on_fr voit_fr que_fr ça_fr accroche_fr les_fr gens_fr à_fr ces_fr dynamiques_fr ,_fr ça_fr les_fr tire_fr à_fr nouveau_fr vers_fr les_fr affaires_fr locales_fr ,_fr ça_fr crée_fr une_fr forte_fr loyauté_fr ,_fr ça_fr crée_fr de_fr l'engagement_fr ,_fr et_fr c'est_fr capable_fr de_fr générer_fr du_fr profit_fr de_fr l'amusement_fr et_fr de_fr l'engagement_fr par_fr rapport_fr aux_fr affaires_fr ._fr
+ces_fr dynamiques_fr de_fr progression_fr sont_fr puissantes_fr et_fr peuvent_fr être_fr utilisées_fr dans_fr le_fr monde_fr réel_fr ._fr
+la_fr dernière_fr donc_fr je_fr veux_fr vous_fr parler_fr --_fr une_fr remarquable_fr pour_fr terminer_fr --_fr c'est_fr le_fr concept_fr de_fr découverte_fr collective_fr ,_fr une_fr dynamique_fr dans_fr laquelle_fr tout_fr le_fr monde_fr travaille_fr ensemble_fr pour_fr atteindre_fr quelque_fr chose_fr ._fr
+une_fr découverte_fr collective_fr est_fr puissante_fr parce_fr qu'elle_fr pousse_fr le_fr réseau_fr ,_fr la_fr société_fr à_fr résoudre_fr des_fr problèmes_fr ._fr
+on_fr l'utilise_fr dans_fr certaines_fr histoires_fr célèbres_fr du_fr web_fr qui_fr viennent_fr des_fr consommateurs_fr ,_fr comme_fr digg_fr ,_fr dont_fr je_fr suis_fr sûr_fr que_fr vous_fr en_fr avez_fr entendu_fr parler_fr ._fr
+digg_fr est_fr une_fr dynamique_fr collective_fr pour_fr essayer_fr de_fr trouver_fr les_fr meilleures_fr informations_fr ,_fr les_fr histoires_fr les_fr plus_fr intéressantes_fr ._fr
+et_fr ils_fr en_fr avaient_fr fait_fr un_fr jeu_fr ,_fr au_fr début_fr ._fr
+ils_fr avaient_fr un_fr classement_fr où_fr ,_fr si_fr vous_fr _UNK__fr les_fr meilleures_fr histoires_fr ,_fr vous_fr obteniez_fr des_fr points_fr ._fr
+et_fr ça_fr motivait_fr vraiment_fr les_fr gens_fr à_fr chercher_fr les_fr meilleures_fr histoires_fr ._fr
+mais_fr c'est_fr devenu_fr tellement_fr puissant_fr ,_fr qu'il_fr y_fr a_fr eu_fr en_fr fait_fr un_fr cartel_fr ,_fr un_fr groupe_fr de_fr personnes_fr ,_fr les_fr sept_fr premiers_fr du_fr classement_fr ,_fr qui_fr ont_fr travaillé_fr ensemble_fr pour_fr être_fr sûr_fr de_fr maintenir_fr leurs_fr positions_fr ._fr
+et_fr ils_fr recommandaient_fr les_fr histoires_fr d'autres_fr gens_fr ._fr
+et_fr le_fr jeu_fr est_fr devenu_fr plus_fr puissant_fr que_fr l'objectif_fr ._fr
+et_fr ils_fr ont_fr donc_fr dû_fr finir_fr par_fr fermer_fr le_fr classement_fr parce_fr que_fr ,_fr pendant_fr qu'il_fr était_fr actif_fr ,_fr c'était_fr tellement_fr puissant_fr qu'on_fr avait_fr plus_fr vraiment_fr les_fr meilleures_fr histoires_fr et_fr qu'il_fr y_fr avait_fr des_fr gens_fr qui_fr travaillaient_fr pour_fr maintenir_fr leurs_fr positions_fr ._fr
+on_fr doit_fr donc_fr l'utiliser_fr avec_fr précaution_fr ._fr
+elle_fr est_fr utilisée_fr également_fr dans_fr des_fr choses_fr comme_fr le_fr monopoly_fr mcdonald_fr 's_fr ,_fr où_fr le_fr jeu_fr n'est_fr pas_fr le_fr jeu_fr du_fr monopoly_fr habituel_fr ,_fr mais_fr une_fr espèce_fr de_fr petites_fr industries_fr qui_fr se_fr forment_fr pour_fr essayer_fr de_fr trouver_fr boardwalk_fr ._fr
+et_fr maintenant_fr ils_fr sont_fr en_fr train_fr de_fr chercher_fr un_fr autocollant_fr qui_fr dit_fr "_fr boardwalk_fr "_fr ._fr
+mais_fr il_fr peut_fr être_fr également_fr utilisé_fr pour_fr trouver_fr des_fr choses_fr réelles_fr ._fr
+ceci_fr est_fr le_fr défi_fr des_fr ballons_fr de_fr la_fr darpa_fr ,_fr où_fr ils_fr ont_fr dissimulés_fr un_fr certain_fr nombre_fr de_fr ballons_fr aux_fr etats_fr -_fr unis_fr et_fr ils_fr ont_fr dit_fr ,_fr "_fr utilisez_fr les_fr réseaux_fr ._fr
+essayez_fr de_fr trouver_fr ces_fr ballons_fr le_fr plus_fr vite_fr possible_fr ,_fr et_fr le_fr vainqueur_fr gagnera_fr 40_fr 000_fr $_fr "_fr ._fr
+et_fr le_fr gagnant_fr a_fr été_fr en_fr fait_fr un_fr groupe_fr du_fr mit_fr ,_fr qui_fr avaient_fr créé_fr une_fr sorte_fr de_fr schéma_fr en_fr pyramide_fr ,_fr un_fr réseau_fr ,_fr où_fr la_fr première_fr personne_fr qui_fr donne_fr un_fr conseil_fr sur_fr l'emplacement_fr du_fr ballon_fr gagne_fr 2_fr 000_fr $_fr et_fr n'importe_fr qui_fr soutient_fr ce_fr conseil_fr en_fr gagne_fr également_fr une_fr partie_fr ._fr
+et_fr en_fr 12_fr heures_fr ,_fr ils_fr ont_fr été_fr capables_fr de_fr trouver_fr tous_fr ces_fr ballons_fr ,_fr dans_fr tout_fr le_fr pays_fr ._fr
+une_fr dynamique_fr très_fr puissante_fr ._fr
+il_fr me_fr reste_fr donc_fr 20_fr secondes_fr ,_fr donc_fr si_fr je_fr dois_fr vous_fr quitter_fr avec_fr quelque_fr chose_fr ,_fr la_fr dernière_fr décennie_fr a_fr été_fr la_fr décennie_fr du_fr social_fr ._fr
+la_fr prochaine_fr décennie_fr va_fr être_fr celle_fr des_fr jeux_fr ._fr
+on_fr utilise_fr les_fr dynamiques_fr de_fr jeu_fr pour_fr construire_fr dessus_fr ._fr on_fr construit_fr avec_fr le_fr partage_fr des_fr idées_fr ._fr
+on_fr peut_fr influencer_fr le_fr comportement_fr ._fr
+c'est_fr très_fr puissant_fr ._fr c'est_fr très_fr excitant_fr ._fr
+construisons_fr -_fr le_fr ensemble_fr ,_fr faisons_fr -_fr le_fr bien_fr et_fr amusons_fr -_fr nous_fr ._fr

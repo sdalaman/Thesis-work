@@ -1,0 +1,155 @@
+ gut 	 en 	 	morgen	.
+ich	bin	 heut 	 e 	 	hier	,	um	über	 autonom 	 e 	 	,	 fliegen 	 de 	 	_UNK_	zu	sprechen	.
+ n 	 ein 	 	,	 wendig 	 e 	 	,	 fliegen 	 de 	 	roboter	wie	 dies 	 en 	 	hier	.
+ich	würde	 ihn 	 en 	 	 gern 	 e 	 	etwas	über	die	herausforderungen	bei	 ihr 	 em 	 	bau	 erzähl 	 en 	 	und	über	die	 großartig 	 en 	 	möglichkeiten	für	die	anwendung	 dies 	 er 	 	technologie	.
+ dies 	 e 	 	roboter	sind	verwandt	mit	 un 	 bemannt 	 en 	 	_UNK_	.
+die	fahrzeuge	,	die	sie	hier	sehen	,	sind	 je 	 doch 	 	 s 	 ehr 	 	groß	.
+sie	wiegen	 tausend 	 e 	 	von	kilos	und	sind	wirklich	nicht	wendig	.
+sie	sind	nicht	einmal	autonom	.
+sie	werden	 viel 	 mehr 	 	von	 ein 	 er 	 	 ganz 	 en 	 	mannschaft	geflogen	,	die	aus	 mehr 	 er 	 en 	 	piloten	,	technikern	für	die	_UNK_	und	_UNK_	bestehen	kann	.
+wir	 interessiere 	 n 	 	 un 	 s 	 	für	die	entwicklung	von	robotern	wie	 dies 	 em 	 	--	und	hier	sind	noch	zwei	bilder	von	robotern	,	die	man	so	im	laden	kaufen	kann	.
+das	sind	helikopter	mit	vier	rotoren	,	die	etwa	 ein 	 en 	 	meter	groß	sind	.	und	ein	paar	kilos	wiegen	.
+wir	 er 	 weiter 	 n 	 	sie	mit	ein	paar	sensoren	und	prozessoren	,	und	 dies 	 e 	 	roboter	können	 drin 	 n 	 en 	 	fliegen	ohne	gps	.
+der	roboter	,	den	ich	hier	in	 mein 	 er 	 	hand	halte	,	ist	der	hier	,	und	er	wurde	von	zwei	studenten	gebaut	,	alex	und	daniel	.
+er	wiegt	 n 	 ur 	 	etwas	mehr	 al 	 s 	 	50	gramm	.
+und	hat	 ein 	 en 	 	energieverbrauch	von	15	watt	.
+wie	sie	sehen	können	,	hat	er	 ein 	 en 	 	durchmesser	von	etwa	20	cm	.
+lassen	sie	mich	 ihn 	 en 	 	wirklich	 n 	 ur 	 	kurz	 erklär 	 en 	 	,	wie	 dies 	 e 	 	roboter	 funktion 	 ieren 	 	.
+er	hat	vier	rotoren	.
+wenn	sich	die	rotoren	mit	der	 gleich 	 en 	 	geschwindigkeit	drehen	,	schwebt	der	roboter	.
+wenn	sie	die	geschwindigkeit	 jede 	 s 	 	_UNK_	 er 	 höhen 	 	,	steigt	der	roboter	auf	und	beschleunigt	.
+natürlich	,	wenn	der	roboter	 ge 	 kippt 	 	wäre	,	 al 	 so 	 	wenn	er	nicht	ganz	horizontal	wäre	,	würde	er	in	 dies 	 e 	 	richtung	 besch 	 leunigen 	 	.
+um	ihn	zu	 kipp 	 en 	 	,	gibt	es	zwei	möglichkeiten	.
+in	 dies 	 em 	 	bild	hier	sehen	sie	,	dass	sich	_UNK_	vier	 schnell 	 er 	 	dreht	.	und	rotor	zwei	 langsam 	 er 	 	.
+und	 so 	 bald 	 	das	passiert	,	 ent 	 steht 	 	ein	moment	,	das	den	roboter	kippt	.
+und	 anders 	 rum 	 	,	wenn	sie	die	geschwindigkeit	von	rotor	drei	 er 	 höhen 	 	und	die	von	rotor	 ein 	 s 	 	 ab 	 s 	 enken 	 	kippt	der	roboter	nach	 vor 	 n 	 e 	 	.
+und	schließlich	,	wenn	sie	zwei	 gegenüber 	 liegende 	 	rotoren	 schnell 	 er 	 	 al 	 s 	 	das	 ander 	 e 	 	paar	drehen	,	dreht	sich	der	roboter	um	die	 senkrecht 	 e 	 	achse	.
+der	 ein 	 gebaut 	 e 	 	prozessor	 betrachte 	 t 	 	im	 wesentlich 	 en 	 	,	 welch 	 e 	 	bewegungen	 aus 	 geführt 	 	werden	 müss 	 en 	 	,	er	kombiniert	 dies 	 e 	 	bewegungen	und	rechnet	aus	,	 welch 	 e 	 	 befehl 	 e 	 	zu	den	motoren	geschickt	werden	 müss 	 en 	 	und	das	600	mal	pro	sekunde	.
+und	so	 funktion 	 ieren 	 	 dies 	 e 	 	dinger	 grund 	 sätzlich 	 	.
+ ein 	 er 	 	der	vorteile	 dies 	 es 	 	designs	ist	,	dass	wenn	sie	 all 	 es 	 	 ver 	 kleiner 	 n 	 	,	die	roboter	viel	_UNK_	werden	.
+r	ist	hier	die	 charakter 	 istische 	 	länge	des	roboters
+es	ist	eigentlich	der	 halb 	 e 	 	durchmesser	.
+und	es	gibt	viele	 physikalisch 	 e 	 	parameter	,	die	sich	ändern	,	 so 	 bald 	 	man	r	 ver 	 ring 	 er 	 t 	 	.
+der	wichtigste	ist	die	trägheit	oder	der	_UNK_	.
+es	ist	so	,	dass	die	trägheit	,	die	die	_UNK_	 beeinfluss 	 t 	 	,	mit	der	 fünft 	 en 	 	potenz	von	r	skaliert	.
+wenn	sie	 n 	 un 	 	r	 ver 	 kleiner 	 n 	 	,	nimmt	die	trägheit	drastisch	ab	.
+ein	ergebnis	davon	ist	,	dass	die	_UNK_	,	hier	mit	dem	 griechisch 	 en 	 	buchstaben	alpha	 be 	 zeichnet 	 	,	mit	1	über	r	 ver 	 läuft 	 	.
+sie	ist	 um 	 gekehrt 	 	proportional	zu	r	.
+je	kleiner	sie	sie	machen	,	desto	 schnell 	 er 	 	können	sie	drehen	.
+das	sollte	bei	 dies 	 en 	 	videos	klar	werden	.
+unten	rechts	sehen	sie	 ein 	 en 	 	roboter	,	der	 ein 	 en 	 	_UNK_	-	salto	in	 wenig 	 er 	 	 al 	 s 	 	 ein 	 er 	 	 halb 	 en 	 	sekunde	 voll 	 führt 	 	.
+ mehr 	 er 	 e 	 	_UNK_	,	ein	 biss 	 chen 	 	mehr	zeit	.
+die	prozessoren	bekommen	rückmeldungen	von	den	_UNK_	und	gyroskopen	an	bord	und	 be 	 rechnen 	 	,	wie	ich	 vor 	 hin 	 	schon	gesagt	habe	,	600	mal	pro	sekunde	 befehl 	 e 	 	,	um	den	roboter	zu	 stabil 	 isieren 	 	.
+links	sehen	sie	,	wie	daniel	den	roboter	in	die	luft	wirft	.
+und	man	sieht	,	wie	robust	die	kontrolle	ist	.
+egal	wie	sie	ihn	werfen	,	der	roboter	fängt	sich	und	kommt	wieder	zu	ihm	zurück	.
+ war 	 um 	 	baut	man	 solch 	 e 	 	roboter	?
+ n 	 un 	 	,	roboter	wie	 dies 	 e 	 	haben	viele	anwendungen	.
+man	kann	sie	in	gebäude	wie	 dies 	 es 	 	schicken	um	 al 	 s 	 	 er 	 ste 	 	nach	_UNK_	zu	suchen	,	 vielleich 	 t 	 	nach	 bio 	 chemisch 	 en 	 	lecks	zu	suchen	,	oder	_UNK_	.
+man	kann	sie	 ab 	 er 	 	auch	 zu 	 m 	 	bauen	 ein 	 setzen 	 	.
+hier	sehen	sie	roboter	,	die	träger	und	säulen	tragen	und	 würfel 	 förmige 	 	strukturen	 zusammen 	 bauen 	 	.
+ich	werde	 ihn 	 en 	 	noch	etwas	mehr	 dar 	 über 	 	 erzähl 	 en 	 	.
+ dies 	 e 	 	roboter	können	im	_UNK_	 ein 	 gesetzt 	 	werden	.
+ ein 	 es 	 	der	probleme	 dies 	 er 	 	 klein 	 en 	 	roboter	ist	ihre	 gering 	 e 	 	_UNK_	.
+daher	wollen	sie	 vielleich 	 t 	 	 mehr 	 er 	 e 	 	roboter	 ein 	 setzen 	 	,	um	die	ladung	zu	tragen	.
+das	ist	ein	bild	von	 ein 	 em 	 	 unser 	 er 	 	 letzt 	 en 	 	experimente	--	 wo 	 bei 	 	das	doch	schon	 ein 	 e 	 	weile	her	ist	--	in	sendai	,	kurz	nach	dem	erdbeben	.
+roboter	wie	 dies 	 er 	 	 konnt 	 en 	 	in	_UNK_	gebäude	geschickt	werden	,	um	den	schaden	nach	naturkatastrophen	zu	 be 	 urteil 	 en 	 	,	oder	in	_UNK_	,	um	 ein 	 e 	 	_UNK_	 aufzu 	 bauen 	 	.
+ein	 grundlegend 	 es 	 	problem	das	die	roboter	lösen	 müss 	 en 	 	,	wenn	sie	autonom	sein	 soll 	 en 	 	,	ist	im	 grund 	 e 	 	genommen	,	wie	sie	von	punkt	a	zu	punkt	b	kommen	.
+das	ist	 ein 	 e 	 	 ziemlich 	 e 	 	herausforderung	da	die	dynamik	so	 ein 	 es 	 	roboters	recht	kompliziert	ist	.
+tatsächlich	leben	sie	in	 ein 	 em 	 	12	-	dimensionalen	raum	.
+ al 	 so 	 	 benutze 	 n 	 	wir	 ein 	 en 	 	 klein 	 en 	 	trick	.
+wir	nehmen	 dies 	 en 	 	 ge 	 krümmt 	 en 	 	12	-	dimensionalen	raum	und	wandeln	ihn	in	 ein 	 en 	 	 flach 	 en 	 	vier	-	dimensionalen	raum	um	.
+und	 dies 	 er 	 	vier	-	dimensionale	raum	 be 	 steht 	 	aus	x	,	y	,	z	und	dem	_UNK_	.
+der	roboter	 al 	 so 	 	plant	etwas	,	das	wir	 ein 	 e 	 	bahnkurve	mit	 minimal 	 em 	 	snap	nennen	.
+ ein 	 e 	 	 kurz 	 e 	 	auffrischung	ihrer	_UNK_	:	es	gibt	den	ort	,	die	geschwindigkeit	 al 	 s 	 	ableitung	,	dann	beschleunigung	,	und	dann	kommt	ruck	,	und	dann	kommt	``	snap	``	.
+und	 dies 	 er 	 	roboter	 minim 	 iert 	 	snap	.
+und	was	das	im	endeffekt	 er 	 gibt 	 	,	ist	 ein 	 e 	 	 glatt 	 e 	 	und	_UNK_	bewegung	.
+und	er	macht	das	,	während	er	hindernissen	 aus 	 weicht 	 	.
+ dies 	 e 	 	trajektorien	mit	 minimal 	 em 	 	snap	in	 dies 	 em 	 	 flach 	 en 	 	raum	werden	dann	_UNK_	in	 dies 	 en 	 	 kompliziert 	 en 	 	12	-	dimensionalen	raum	,	und	das	 mus 	 s 	 	der	roboter	für	die	kontrolle	und	die	 später 	 e 	 	ausführung	tun	.
+lassen	sie	mich	ein	paar	beispiele	zeigen	,	wie	 dies 	 e 	 	flugbahnen	mit	 minimal 	 em 	 	snap	 aus 	 sehen 	 	.
+in	dem	 er 	 sten 	 	video	werden	sie	sehen	,	wie	der	roboter	von	a	nach	b	fliegt	durch	 ein 	 en 	 	_UNK_	.
+der	roboter	ist	offensichtlich	in	der	lage	,	jede	bahnkurve	 aus 	 zuführen 	 	.
+das	hier	sind	 kreis 	 förmige 	 	bahnkurven	,	bei	 den 	 en 	 	auf	den	roboter	2	g	wirken	.
+oben	 be 	 finden 	 	sich	motion	-	capture	-	kameras	,	die	dem	roboter	100	mal	pro	sekunde	sagen	,	wo	er	ist	.
+sie	sagen	dem	roboter	auch	,	wo	 dies 	 e 	 	hindernisse	sind	.
+und	 dies 	 e 	 	hindernisse	können	sich	auch	bewegen	.
+und	hier	sehen	sie	,	wie	daniel	 dies 	 en 	 	reifen	in	die	luft	wirft	,	während	der	roboter	die	position	vom	reifen	berechnet	und	 ver 	 sucht 	 	 auszu 	 rechnen 	 	,	wie	er	am	besten	durch	den	reifen	kommt	.
+ al 	 s 	 	akademiker	 müss 	 en 	 	wir	ständig	durch	reifen	springen	,	um	sponsoren	 aufzu 	 treiben 	 	,	und	wir	lassen	 unser 	 e 	 	roboter	das	machen	.
+ außer 	 dem 	 	kann	der	roboter	sich	abschnitte	der	flugbahnen	 merk 	 en 	 	,	die	er	lernt	,	oder	die	vorher	 ein 	 programm 	 iert 	 	 wurde 	 n 	 	.
+hier	sehen	sie	,	wie	der	roboter	 ein 	 e 	 	bewegung	kombiniert	,	um	schwung	zu	holen	und	dann	 sein 	 e 	 	ausrichtung	ändert	und	sich	wieder	fängt	.
+er	 mus 	 s 	 	das	machen	,	da	 dies 	 es 	 	loch	im	fenster	 n 	 ur 	 	etwas	größer	 al 	 s 	 	die	 breit 	 e 	 	des	roboters	ist	.
+ al 	 so 	 	genau	wie	ein	_UNK_	auf	dem	sprungbrett	,	der	_UNK_	um	schwung	zu	holen	und	dann	 dies 	 e 	 	_UNK_	 voll 	 führt 	 	,	 dies 	 en 	 	_UNK_	salto	und	sich	dann	elegant	wieder	fängt	,	 dies 	 er 	 	roboter	macht	im	 wesentlich 	 en 	 	das	 gleich 	 e 	 	.
+er	weiß	 al 	 so 	 	wie	man	 dies 	 e 	 	teile	der	bahnkurven	kombiniert	,	um	 dies 	 e 	 	ziemlich	 schwierig 	 en 	 	aufgaben	zu	lösen	.
+ kurz 	 er 	 	_UNK_	.
+ ein 	 er 	 	der	nachteile	 dies 	 er 	 	 klein 	 en 	 	roboter	ist	ihre	größe	.
+und	ich	habe	 ihn 	 en 	 	schon	 vor 	 hin 	 	gesagt	,	dass	wir	 vielleich 	 t 	 	 s 	 ehr 	 	viele	roboter	 ein 	 setzen 	 	wollen	,	um	die	beschränkungen	durch	die	größe	zu	 um 	 gehen 	 	.
+ ein 	 e 	 	schwierigkeit	ist	,	wie	kann	man	viele	roboter	 koordin 	 ieren 	 	?
+daher	haben	wir	 un 	 s 	 	die	natur	 an 	 geschaut 	 	.
+ich	 möcht 	 e 	 	 ihn 	 en 	 	 ein 	 en 	 	 kurz 	 en 	 	film	zeigen	,	von	_UNK_	_UNK_	,	wie	sie	in	professor	stephen	_UNK_	labor	 ein 	 en 	 	gegenstand	tragen	.
+das	ist	ein	stück	 ein 	 er 	 	feige	.
+sie	können	irgendein	mit	_UNK_	_UNK_	objekt	 hin 	 legen 	 	und	die	ameisen	werden	es	zurück	 zu 	 m 	 	nest	tragen	.
+ dies 	 e 	 	ameisen	haben	 kein 	 en 	 	 zentral 	 en 	 	koordinator	.
+sie	nehmen	ihre	nachbarn	wahr	.
+es	gibt	keine	_UNK_	kommunikation	.
+ ab 	 er 	 	weil	sie	ihre	nachbarn	spüren	und	weil	sie	das	objekt	spüren	,	haben	sie	 ein 	 e 	 	 impli 	 zit 	 e 	 	koordination	 inner 	 halb 	 	der	gruppe	.
+und	 dies 	 e 	 	art	der	koordination	 soll 	 en 	 	auch	 unser 	 e 	 	roboter	haben	.
+wenn	wir	 al 	 so 	 	 ein 	 en 	 	roboter	haben	,	der	von	 sein 	 en 	 	nachbarn	 um 	 geben 	 	ist	--	schauen	wir	 un 	 s 	 	roboter	i	und	j	an	--	was	wir	von	den	robotern	wollen	,	ist	,	dass	sie	den	abstand	zwischen	sich	 über 	 wachen 	 	,	während	sie	in	der	formation	fliegen	.
+und	dann	 mus 	 s 	 	man	 sicher 	 stellen 	 	,	dass	 dies 	 er 	 	abstand	 inner 	 halb 	 	 akzeptable 	 r 	 	schranken	ist	.
+die	roboter	 über 	 wachen 	 	 al 	 so 	 	 dies 	 en 	 	fehler	und	 be 	 rechnen 	 	die	_UNK_	100	mal	pro	sekunde	,	die	dann	in	_UNK_	600	mal	pro	sekunde	 über 	 setzt 	 	werden	.
+das	 mus 	 s 	 	auch	auf	 ein 	 e 	 	 dezentral 	 e 	 	art	 geschehe 	 n 	 	.
+ noch 	 mal 	 	,	wenn	sie	 s 	 ehr 	 	viele	 dies 	 er 	 	roboter	haben	,	ist	es	 un 	 möglich 	 	,	all	 dies 	 e 	 	informationen	zentral	zu	 koordin 	 ieren 	 	,	schnell	genug	,	 da 	 mit 	 	die	roboter	die	aufgabe	lösen	können	.
+ zu 	 sätzlich 	 	 müss 	 en 	 	die	roboter	ihre	entscheidungen	 n 	 ur 	 	 auf 	 grund 	 	der	 lokal 	 en 	 	informationen	fällen	,	 n 	 äm 	 lich 	 	,	was	sie	von	 ihr 	 en 	 	nachbarn	 wahr 	 nehmen 	 	.
+und	schließlich	bestehen	wir	darauf	,	dass	die	roboter	nicht	wissen	,	wer	ihre	nachbarn	sind	.
+das	ist	etwas	,	das	wir	anonymität	nennen	.
+was	ich	 ihn 	 en 	 	 al 	 s 	 	 nächst 	 es 	 	zeigen	will	,	ist	ein	video	von	20	 dies 	 er 	 	 klein 	 en 	 	roboter	,	wie	sie	in	 ein 	 er 	 	formation	fliegen	.
+sie	 über 	 wachen 	 	die	position	ihrer	nachbarn	.
+und	 er 	 halten 	 	die	formation	.
+die	formationen	können	sich	ändern	.
+sie	können	 flach 	 e 	 	formationen	sein	,	sie	können	drei	-	dimensionale	formationen	sein	.
+wie	sie	hier	sehen	können	,	kollabieren	sie	von	 ein 	 er 	 	3d	-	formation	in	 ein 	 e 	 	ebene	formation	.
+und	um	durch	hindernisse	zu	fliegen	,	können	sie	ihre	formation	im	flug	 an 	 passen 	 	.
+und	sie	sehen	,	 dies 	 e 	 	roboter	kommen	sich	wirklich	nah	.
+wie	sie	hier	bei	dem	flug	in	form	 ein 	 er 	 	acht	sehen	,	 näher 	 n 	 	sie	sich	bis	auf	 wenig 	 e 	 	zentimeter	.
+und	trotz	der	 aero 	 dynamisch 	 en 	 	wechselwirkungen	von	 dies 	 en 	 	_UNK_	,	sind	sie	in	der	lage	stabil	zu	fliegen	.
+ so 	 bald 	 	man	weiß	,	wie	man	in	 ein 	 er 	 	formation	fliegt	,	kann	man	auch	 gemein 	 sam 	 	objekte	 an 	 heben 	 	.
+das	hier	zeigt	,	dass	wir	die	_UNK_	 ver 	 doppel 	 n 	 	,	 ver 	 dreifach 	 en 	 	,	 ver 	 vier 	 fach 	 en 	 	können	,	in	dem	wir	sie	dazu	bringen	,	teams	zu	bilden	,	wie	sie	hier	sehen	können	.
+ ein 	 er 	 	der	nachteile	davon	ist	,	 so 	 bald 	 	sie	 all 	 es 	 	 ver 	 größer 	 n 	 	--	 al 	 so 	 	wenn	sie	viele	roboter	haben	,	die	das	 gleich 	 e 	 	objekt	tragen	,	 ver 	 größer 	 n 	 	sie	 da 	 mit 	 	die	trägheit	,	und	 da 	 mit 	 	zahlen	sie	 ein 	 en 	 	preis	;	sie	sind	nicht	mehr	so	wendig	.
+ ab 	 er 	 	sie	 gewinn 	 en 	 	 ein 	 en 	 	zuwachs	an	traglast	.
+ ein 	 e 	 	 ander 	 e 	 	_UNK_	,	die	ich	 ihn 	 en 	 	zeigen	will	--	das	ist	wieder	in	 unser 	 em 	 	labor	.
+das	ist	die	arbeit	von	quentin	lindsey	,	der	ein	doktorand	ist	.
+sein	algorithmus	sagt	 dies 	 en 	 	robotern	,	wie	sie	autonom	 würfel 	 förmige 	 	_UNK_	aus	 dies 	 en 	 	streben	bauen	können	.
+sein	algorithmus	sagt	dem	roboter	,	 welch 	 es 	 	stück	er	 an 	 heben 	 	soll	,	und	wann	und	wo	er	es	 platz 	 ieren 	 	soll	.
+und	in	 dies 	 em 	 	video	sehen	sie	--	und	es	ist	10-	oder	14	-	fach	beschleunigt	--	sie	sehen	,	wie	 dies 	 e 	 	roboter	drei	 verschieden 	 e 	 	strukturen	bauen	.
+und	wieder	,	 all 	 es 	 	ist	autonom	,	und	 all 	 es 	 	,	was	quentin	machen	 mus 	 s 	 	,	ist	 ihn 	 en 	 	 ein 	 e 	 	blaupause	zu	 besorg 	 en 	 	von	dem	design	,	das	er	bauen	will	.
+all	die	experimente	,	die	sie	bisher	gesehen	haben	,	all	 dies 	 e 	 	demonstrationen	,	 wurde 	 n 	 	mit	hilfe	 ein 	 es 	 	motion	-	capture	-	systems	 durch 	 geführt 	 	.
+was	passiert	 al 	 so 	 	,	wenn	man	das	labor	 ver 	 lässt 	 	,	und	nach	 dr 	 außen 	 	in	die	 wirklich 	 e 	 	welt	geht	?
+und	was	,	wenn	es	dort	kein	gps	gibt	?
+ dies 	 er 	 	roboter	wurde	mit	 ein 	 er 	 	kamera	 aus 	 gestattet 	 	,	und	 ein 	 em 	 	laser	-	_UNK_	,	 ein 	 em 	 	laser	-	scanner	.
+und	er	benutzt	 dies 	 e 	 	sensoren	,	um	 ein 	 e 	 	karte	der	umgebung	 aufzu 	 bauen 	 	.
+ dies 	 e 	 	karte	 be 	 steht 	 	aus	 besonder 	 en 	 	merkmalen	wie	türen	,	fenster	personen	,	möbelstücke	--	und	bestimmt	dann	 sein 	 e 	 	position	relativ	zu	 dies 	 en 	 	merkmalen	.
+es	gibt	 al 	 so 	 	kein	 global 	 es 	 	koordinatensystem	.
+das	koordinatensystem	basiert	auf	dem	roboter	,	wo	er	ist	und	was	er	 an 	 schaut 	 	.
+und	er	 navig 	 iert 	 	relativ	zu	 dies 	 en 	 	merkmalen	.
+ich	 möcht 	 e 	 	in	 ein 	 em 	 	 kurz 	 en 	 	film	algorithmen	zeigen	,	die	von	frank	 sh 	 en 	 	und	professor	nathan	michael	entwickelt	werden	.	er	zeigt	,	wie	ein	roboter	ein	haus	 zu 	 m 	 	 er 	 sten 	 	mal	 be 	 tritt 	 	und	im	flug	 dies 	 e 	 	karte	 er 	 stellt 	 	.
+ dies 	 er 	 	roboter	findet	heraus	,	was	 dies 	 e 	 	merkmale	sind	.
+und	 er 	 stellt 	 	die	karte	.
+er	berechnet	,	wo	er	sich	relativ	zu	den	merkmalen	 be 	 findet 	 	,	und	schätzt	dann	 sein 	 e 	 	position	100	mal	pro	sekunde	,	was	 un 	 s 	 	erlaubt	,	die	_UNK_	zu	 benutze 	 n 	 	,	die	ich	vorher	 be 	 schrieb 	 en 	 	habe	.
+ dies 	 er 	 	roboter	hier	wird	tatsächlich	von	frank	 fern 	 gesteuert 	 	.
+ ab 	 er 	 	der	roboter	kann	auch	 all 	 ein 	 e 	 	 heraus 	 finden 	 	,	wo	er	hin	will	.
+ an 	 genommen 	 	,	ich	 müss 	 te 	 	ihn	in	ein	gebäude	schicken	und	ich	wüsste	 über 	 haupt 	 	nicht	,	wie	es	 aus 	 sieht 	 	,	ich	kann	den	roboter	 bitte 	 n 	 	,	hinein	zu	gehen	,	 ein 	 e 	 	karte	zu	 er 	 stellen 	 	 wieder 	 zukommen 	 	und	mir	zu	sagen	,	wie	das	gebäude	 aus 	 sieht 	 	.
+in	 dies 	 em 	 	fall	löst	der	roboter	nicht	 n 	 ur 	 	das	problem	wie	er	von	punkt	a	zu	punkt	b	in	 dies 	 er 	 	karte	kommt	,	sonder	er	findet	auch	heraus	,	was	der	beste	punkt	b	zu	 jede 	 m 	 	zeitpunkt	ist	.
+im	 wesentlich 	 en 	 	weiß	er	,	 wo 	 hin 	 	er	gehen	 mus 	 s 	 	,	um	nach	 ort 	 en 	 	zu	suchen	,	über	die	er	am	 wenigste 	 n 	 	weiß	.
+und	auf	 dies 	 e 	 	weise	 er 	 stellt 	 	er	die	karte	.
+ich	würde	 ihn 	 en 	 	gern	noch	 ein 	 e 	 	 letzt 	 e 	 	anwendung	zeigen	.
+und	es	gibt	viele	anwendungen	für	 dies 	 e 	 	technologie	.
+ich	bin	ein	professor	und	wir	haben	 ein 	 e 	 	leidenschaft	für	die	ausbildung	.
+roboter	wie	 dies 	 er 	 	können	wirklich	den	unterricht	vom	kindergarten	bis	 zu 	 m 	 	schulabschluss	_UNK_	.
+ ab 	 er 	 	wir	sind	hier	in	südkalifornien	,	in	der	nähe	von	los	angeles	,	daher	 mus 	 s 	 	ich	am	ende	den	fokus	auf	die	unterhaltung	richten	.
+ich	würde	 gern 	 e 	 	mit	 ein 	 em 	 	musikvideo	schließen	.
+ich	würde	 gern 	 e 	 	die	urheber	 vor 	 stellen 	 	,	alex	und	daniel	,	die	 dies 	 es 	 	video	gedreht	haben	.
+ ab 	 er 	 	 be 	 vor 	 	ich	das	video	_UNK_	,	 mö 	 che 	 	ich	 ihn 	 en 	 	sagen	,	dass	sie	es	in	den	 letzt 	 en 	 	drei	 tag 	 en 	 	gedreht	haben	,	 nach 	 dem 	 	chris	sie	 an 	 gerufen 	 	hatte	.
+und	die	roboter	,	die	im	video	spielen	,	sind	völlig	autonom	.
+sie	werden	neun	roboter	sehen	,	die	sechs	 verschieden 	 e 	 	instrumente	spielen	.
+und	natürlich	wurde	es	exklusiv	für	ted	2012	gemacht	.
+schauen	wir	es	 un 	 s 	 	an	.
+

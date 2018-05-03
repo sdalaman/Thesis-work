@@ -1,0 +1,50 @@
+l'an	dernier	,	ici	à	ted	,	je	vous	ai	demandé	de	me	donner	vos	données	,	de	mettre	vos	données	sur	le	web	,	en	partant	du	principe	que	si	les	gens	mettent	leurs	données	sur	le	web	,	les	données	gouvernementales	,	scientifiques	,	communautaires	,	quoi	que	ce	soit	,	ce	sera	utilisé	par	d'autres	personnes	pour	faire	des	choses	merveilleuses	,	d'une	manière	qu'ils	n'auraient	jamais	pu	imaginer	.
+alors	aujourd'hui	,	je	suis	de	retour	pour	vous	montrer	quelques	petites	choses	,	vous	montrer	,	en	fait	,	qu'il	y	a	un	mouvement	pour	les	données	libres	qui	s'est	lancé	,	aujourd'hui	partout	dans	le	monde	.
+le	cri	pour	``	des	données	brutes	,	maintenant	``	que	j'ai	fait	pousser	aux	gens	dans	l'auditorium	a	été	entendu	dans	le	monde	entier	.
+alors	_UNK_	cette	vidéo	.
+l'histoire	classique	,	la	première	que	beaucoup	de	gens	ont	relevée	c'était	quand	,	en	mars	,	le	10	mars	en	fait	,	juste	après	ted	,	paul	clarke	,	du	gouvernement	britannique	,	a	_UNK_	``	oh	,	je	viens	de	recevoir	des	données	brutes	.	les	voilà	,	c'est	à	propos	des	accidents	de	vélo	.	``
+ça	a	pris	deux	jours	au	``	times	online	``	pour	faire	une	carte	,	une	carte	composite	,	on	appelle	ces	trucs	des	mash	-	ups	,	un	mash	-	up	,	une	interface	utilisateur	qui	vous	permet	d'aller	regarder	pour	voir	si	la	piste	cyclable	qui	mène	à	votre	travail	,	était	concernée	.
+il	y	a	d'autres	données	,	des	données	d'enquête	de	circulation	encore	,	qui	ont	été	diffusées	par	le	gouvernement	britannique	,	et	comme	ils	les	publient	en	utilisant	les	standards	linked	data	un	utilisateur	a	la	possibilité	de	créer	une	carte	,	juste	en	cliquant	.
+est	-	ce	que	ces	données	ont	des	effets	?	eh	bien	,	en	fait	,	revenons	en	2008	.
+regardons	le	cas	de	_UNK_	,	ohio	.
+voici	une	carte	faite	par	un	avocat	,	il	y	a	dessiné	le	réseau	d'eau	potable	,	on	y	voit	les	maisons	,	et	lesquelles	sont	raccordées	au	réseau	d'eau	potable	.
+et	il	a	eu	,	par	d'autres	sources	de	données	,	des	informations	qui	montrent	quelles	maisons	sont	occupées	par	des	blancs	.
+eh	bien	,	il	a	eu	l'impression	qu'il	y	avait	une	trop	grande	corrélation	entre	les	maisons	qui	étaient	occupées	par	des	blancs	et	celles	qui	avaient	l'eau	,	et	le	juge	ne	s'est	pas	laissé	impressionner	.
+le	juge	a	été	frappé	à	hauteur	de	_UNK_	millions	de	dollars	.
+c'est	toute	la	force	de	prendre	un	bout	d'une	donnée	,	un	autre	bout	de	donnée	,	de	les	mettre	ensemble	,	et	de	montrer	le	résultat	.
+regardons	maintenant	quelques	données	du	royaume	-	uni	.
+ce	sont	des	données	du	gouvernement	britannique	,	sur	un	site	entièrement	indépendant	,	``	où	va	mon	argent	``	,	qui	permet	à	n'importe	qui	d'aller	creuser	.
+vous	pouvez	fouiner	sur	un	type	particulier	de	dépenses	ou	vous	pouvez	passer	en	revue	les	différentes	régions	et	les	comparer	.
+donc	,	c'est	ce	qui	se	passe	au	royaume	-	uni	avec	les	données	du	gouvernement	britannique	.
+oui	,	on	peut	certainement	le	faire	par	ici	.
+voici	un	site	qui	vous	permet	de	regarder	les	dépenses	publiques	en	californie	.
+et	prenez	un	exemple	au	hasard	,	long	beach	,	californie	,	vous	pouvez	aller	regarder	combien	ils	ont	dépensé	en	fonds	publics	pour	différentes	choses	comme	l'énergie	.
+en	fait	,	voici	le	graphique	du	nombre	de	jeux	de	données	dans	les	référentiels	de	_UNK_	,	sur	_UNK_	.
+et	je	suis	ravi	de	voir	une	forte	concurrence	entre	le	royaume	-	uni	en	bleu	,	et	les	etats	-	unis	en	rouge	.
+comment	on	peut	utiliser	ce	truc	?
+eh	bien	,	par	exemple	,	si	vous	avez	une	quantité	de	données	sur	des	lieux	vous	pouvez	prendre	,	à	partir	d'un	code	postal	anglais	,	qui	est	comme	un	code	postal	américain	plus	quatre	chiffres	,	pour	un	groupe	précis	de	maisons	,	vous	pouvez	faire	un	rapport	,	imprimer	un	article	avec	des	choses	très	très	précises	sur	les	arrêts	de	bus	,	les	choses	spécialement	près	de	vous	.
+a	une	plus	grand	échelle	,	voici	un	mash	-	up	des	données	publiées	au	sujet	des	élections	afghanes	.
+ça	vous	permet	de	choisir	vos	propres	critères	sur	le	genre	de	choses	que	vous	voulez	regarder	.
+les	cercles	en	rouge	sont	des	centres	de	vote	,	sélectionnés	selon	vos	critères	.
+et	ensuite	vous	pouvez	sélectionner	également	d'autres	choses	sur	la	carte	pour	voir	d'autres	facteurs	comme	le	niveau	de	menace	.
+donc	,	ça	c'était	pour	les	données	gouvernementales	.
+j'ai	aussi	parlé	des	données	générées	par	les	communautés	--	en	fait	j'ai	coupé	la	vidéo	--	voici	la	carte	wiki	,	c'est	la	carte	libre	d'openstreetmap	le	terrace	theater	,	en	fait	je	l'ai	mis	sur	le	plan	parce	qu'il	n'y	était	pas	avant	le	ted	de	l'an	dernier	.
+je	n'étais	pas	le	seul	à	modifier	la	carte	libre	d'openstreetmap	chaque	flash	sur	cette	visualisation	assemblée	par	_UNK_	world	montre	une	modification	apportée	en	2009	sur	la	carte	libre	d'openstreetmap	.
+faisons	maintenant	tourner	le	globe	au	cours	de	la	même	année	.
+chaque	flash	est	une	mise	à	jour	.	quelqu'un	quelque	part	en	train	de	regarder	le	plan	d'openstreetmap	,	et	de	réaliser	qu'on	pourrait	l'améliorer	.
+vous	voyez	que	l'europe	est	embrasée	de	mises	à	jour	.
+d'autres	endroits	,	peut	-	être	pas	autant	qu'ils	le	devraient	.
+zoomons	ici	sur	haïti	.
+la	carte	de	port	-	au	-	prince	à	la	fin	de	2009	n'était	pas	complète	,	pas	aussi	bonne	que	celle	de	la	californie	.
+heureusement	,	juste	après	le	tremblement	de	terre	,	_UNK_	,	une	entreprise	commerciale	,	a	sorti	des	images	satellite	avec	une	licence	qui	permettait	à	la	communauté	open	-	source	de	les	utiliser	.
+voici	la	durée	du	mois	de	janvier	,	les	gens	font	des	modifications	,	voilà	le	tremblement	de	terre	.
+après	le	tremblement	de	terre	,	immédiatement	,	des	gens	partout	dans	le	monde	,	des	mappers	qui	voulaient	aider	,	et	le	pouvaient	,	ont	regardé	ces	images	,	construit	la	carte	,	qui	se	développe	rapidement	.
+nous	nous	_UNK_	à	présent	sur	port	-	au	-	prince	.
+la	couleur	bleue	indique	les	camps	de	réfugiés	que	ces	bénévoles	avaient	repérés	depuis	le	ciel	.
+donc	,	maintenant	nous	avons	,	immédiatement	,	une	carte	en	temps	réel	qui	montre	où	il	y	a	des	camps	de	réfugiés	,	et	qui	rapidement	est	devenue	la	meilleure	carte	à	utiliser	si	vous	faites	un	travail	de	secours	à	port	-	au	-	prince	.
+vous	êtes	témoins	du	fait	qu'elle	est	là	,	sur	l'appareil	_UNK_	utilisé	par	une	équipe	de	secours	.
+et	pour	haïti	,	voici	la	carte	qui	montre	sur	le	côté	gauche	là	,	cet	hôpital	,	en	fait	c'est	un	navire	-	hôpital	.
+voici	une	carte	en	temps	réel	qui	montre	les	routes	bloquées	les	bâtiments	endommagés	,	les	camps	de	réfugiés	.
+elle	montre	des	choses	dont	on	a	besoin	.
+alors	,	si	vous	avez	participé	à	ça	de	près	ou	de	loin	,	je	voulais	juste	dire	que	quoi	que	vous	ayez	fait	,	que	vous	ayez	juste	mis	en	forme	des	données	brutes	,	ou	que	vous	ayez	mis	en	ligne	des	données	gouvernementales	ou	scientifiques	,	je	voulais	profiter	de	cette	occasion	pour	vous	dire	un	grand	merci	,	et	ce	n'est	pour	nous	que	le	début	.
+

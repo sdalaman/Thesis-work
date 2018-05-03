@@ -1,0 +1,35 @@
+pour	 comprend 	 re 	 	le	monde	dans	 le 	 quel 	 	nous	 viv 	 ons 	 	,	nous	 racont 	 ons 	 	des	 histoire 	 s 	 	.
+alors	que	le	 remix 	 age 	 	 e 	 t 	 	le	partage	ont	été	 amené 	 s 	 	à	 façonne 	 r 	 	le	web	tel	que	nous	le	 con 	 naissons 	 	aujourd'hui	,	nous	 pouv 	 ons 	 	tous	faire	 parti 	 e 	 	de	 ce 	 tte 	 	histoire	par	de	 simple 	 s 	 	 outil 	 s 	 	qui	nous	 permette 	 nt 	 	de	faire	des	 chose 	 s 	 	en	ligne	.
+ mai 	 s 	 	la	vidéo	a	été	 oublié 	 e 	 	.	elle	est	arrivée	sur	le	web	dans	une	petite	boîte	,	 e 	 t 	 	elle	y	est	 rest 	 ée 	 	,	 complète 	 ment 	 	 dé 	 connecté 	 e 	 	des	 donné 	 es 	 	 e 	 t 	 	 contenu 	 s 	 	_UNK_	.
+en	effet	,	en	un	peu	plus	 d' 	 une 	 	décennie	,	la	 seul 	 e 	 	chose	qui	ait	changé	pour	la	vidéo	est	la	 t 	 aille 	 	de	la	boîte	 e 	 t 	 	la	 qualit 	 é 	 	de	 l' 	 image 	 	.
+ pop 	 corn 	 	change	tout	cela	.
+il	 s 	 'agit 	 	 d' 	 un 	 	outil	en	ligne	qui	permet	à	 tout 	 e 	 	personne	de	 combine 	 r 	 	de	la	vidéo	avec	du	contenu	tiré	en	temps	réel	 directe 	 ment 	 	du	web	.
+les	 vidéo 	 s 	 	 créé 	 es 	 	avec	 pop 	 corn 	 	 s 	 ont 	 	comme	le	web	lui	-	même	:	 dynamique 	 s 	 	,	 plein 	 es 	 	de	liens	,	 e 	 t 	 	 complète 	 ment 	 	 remix 	 ables 	 	,	 e 	 t 	 	 pouv 	 ant 	 	enfin	de	 s 	 e 	 	 libér 	 er 	 	du	cadre	.
+je	 voudrai 	 s 	 	vous	faire	la	 dé 	 monstr 	 ation 	 	 d' 	 un 	 	prototype	sur	 le 	 quel 	 	nous	 travail 	 lons 	 	 e 	 t 	 	que	nous	_UNK_	 ce 	 t 	 	automne	.
+ ce 	 tte 	 	version	 s 	 era 	 	 complète 	 ment 	 	 gratuit 	 e 	 	,	 e 	 t 	 	 marche 	 ra 	 	sous	tous	les	 navig 	 ateurs 	 	.
+ tout 	 e 	 	production	 pop 	 corn 	 	commence	avec	la	vidéo	,	 e 	 t 	 	donc	j'ai	fait	un	petit	clip	de	20	 seconde 	 s 	 	en	 utilis 	 ant 	 	un	modèle	pour	 présent 	 ateur 	 	de	journal	que	nous	utilisons	en	atelier	.
+ regard 	 ons 	 	-	le	.	on	y	 re 	 viendra 	 	,	 e 	 t 	 	je	vous	 montre 	 rai 	 	comment	on	l'a	fait	.
+ bon 	 jour 	 	,	 e 	 t 	 	 bien 	 venue 	 	à	mon	journal	télévisé	.
+j'ai	 ajout 	 é 	 	ma	localisation	à	travers	google	maps	,	 e 	 t 	 	elle	est	 actu 	 alisé 	 e 	 	en	temps	réel	,	donc	essayez	de	 bouge 	 r 	 	.
+vous	 pouv 	 ez 	 	 ajoute 	 r 	 	des	pop	-	up	avec	les	liens	 actif 	 s 	 	 e 	 t 	 	des	 icône 	 s 	 	_UNK_	,	ou	 importe 	 r 	 	du	contenu	de	tout	service	en	ligne	,	tel	que	flickr	,	ou	 ajoute 	 r 	 	des	 article 	 s 	 	 e 	 t 	 	des	 bille 	 t 	 s 	 	avec	des	liens	vers	le	contenu	complet	.
+bon	,	 re 	 venons 	 	-	y	 e 	 t 	 	je	vous	 montre 	 rai 	 	ce	que	vous	avez	vu	.	il	y	avait	beaucoup	de	 chose 	 s 	 	.
+ ce 	 ci 	 	est	la	 time 	 line 	 	,	 e 	 t 	 	si	vous	avez	 dé 	 jà 	 	édité	de	la	vidéo	,	 ce 	 ci 	 	vous	est	 famil 	 ier 	 	,	 mai 	 s 	 	au	lieu	 d' 	 avoir 	 	des	 clip 	 s 	 	dans	la	 time 	 line 	 	,	nous	avons	des	 élément 	 s 	 	du	web	qui	 s 	 ont 	 	 importé 	 s 	 	dans	la	vidéo	.
+dans	 ce 	 tte 	 	production	 pop 	 corn 	 	,	nous	avons	_UNK_	,	une	carte	google	maps	qui	apparaît	dans	 l' 	 image 	 	,	puis	 pop 	 corn 	 	la	laisse	sortir	du	cadre	 e 	 t 	 	 occupe 	 r 	 	tout	 l' 	 écran 	 	.
+deux	pop	-	up	vous	 apporte 	 nt 	 	 d' 	 autre 	 s 	 	 informat 	 ions 	 	,	 e 	 t 	 	un	dernier	article	avec	un	 li 	 en 	 	vers	 l' 	 article 	 	original	.
+voyons	 ce 	 tte 	 	carte	google	,	 e 	 t 	 	nous	verrons	comment	nous	 pouv 	 ons 	 	 l' 	 éditer 	 	.
+il	 suffi 	 t 	 	 d' 	 aller 	 	dans	la	 time 	 line 	 	,	de	double	-	 clique 	 r 	 	sur	 l' 	 élément 	 	,	 e 	 t 	 	je	 l' 	 ai 	 	 para 	 métré 	 	sur	toronto	,	 puisqu 	 e 	 	je	viens	de	là	.
+mettons	-	le	autre	chose	.
+ pop 	 corn 	 	va	 immédiat 	 ement 	 	sur	le	web	,	parle	à	google	,	 saisi 	 t 	 	la	carte	,	 e 	 t 	 	la	met	dans	la	zone	 d' 	 affichage 	 	.
+ e 	 t 	 	c'est	 exacte 	 ment 	 	la	même	chose	pour	les	 personne 	 s 	 	qui	 regarde 	 nt 	 	 vot 	 re 	 	production	.
+c'est	en	direct	.	ce	n'est	pas	une	image	.	vous	 clique 	 z 	 	dessus	,	vous	 zoome 	 z 	 	,	même	en	street	_UNK_	si	vous	le	 souhait 	 ez 	 	.
+dans	la	vidéo	,	j'ai	évoqué	 l' 	 ajout 	 	 d' 	 un 	 	flux	,	ce	que	nous	allons	faire	,	donc	 ajout 	 ons 	 	un	flux	de	flickr	.	allez	à	droite	,	 choisi 	 ssez 	 	flickr	de	la	liste	 d' 	 option 	 s 	 	,	glissez	-	le	dans	la	 time 	 line 	 	,	mettez	-	le	où	vous	le	 souhait 	 ez 	 	,	 e 	 t 	 	il	va	 immédiat 	 ement 	 	sur	flickr	 e 	 t 	 	commence	à	 importe 	 r 	 	les	 image 	 s 	 	 bas 	 ées 	 	sur	les	 tag 	 s 	 	.	mes	 développe 	 urs 	 	aiment	beaucoup	les	 po 	 ney 	 s 	 	,	 e 	 t 	 	donc	ils	ont	mis	cela	comme	tag	par	 dé 	 faut 	 	.
+essayons	autre	chose	,	peut	-	être	quelque	chose	en	rapport	à	aujourd'hui	.
+voici	les	 image 	 s 	 	_UNK_	en	direct	du	flux	.
+si	vous	 re 	 venez 	 	voir	 ce 	 ci 	 	dans	une	semaine	,	ça	 s 	 era 	 	 complète 	 ment 	 	différent	,	dynamique	,	tout	comme	le	web	,	 e 	 t 	 	tout	comme	le	web	,	tout	a	une	source	,	donc	 clique 	 z 	 	sur	le	 li 	 en 	 	,	 e 	 t 	 	vous	allez	 directe 	 ment 	 	sur	flickr	voir	 l' 	 image 	 	 d' 	 origine 	 	.
+tout	ce	que	vous	voyez	aujourd'hui	est	fait	avec	les	 base 	 s 	 	de	construction	du	web	:	du	html	,	_UNK_	 e 	 t 	 	javascript	.
+ce	qui	veut	dire	que	c'est	 complète 	 ment 	 	_UNK_	.
+ e 	 t 	 	qu'il	 n' 	 y 	 	a	pas	de	 log 	 iciel 	 	propriétaire	.	vous	 n' 	 avez 	 	besoin	que	 d' 	 un 	 	 navig 	 ateur 	 	web	.
+ imagine 	 z 	 	si	 tout 	 es 	 	les	 vidéo 	 s 	 	que	nous	 regard 	 ions 	 	sur	le	web	 march 	 aient 	 	comme	le	web	,	 s 	 e 	 raient 	 	 complète 	 ment 	 	 remix 	 ables 	 	,	 liée 	 s 	 	au	contenu	 d' 	 origine 	 	,	 e 	 t 	 	 inter 	 active 	 s 	 	pour	 tout 	 e 	 	personne	qui	les	 regarde 	 rait 	 	.
+je	pense	que	 pop 	 corn 	 	pourrait	 change 	 r 	 	la	façon	 do 	 nt 	 	nous	 racont 	 ons 	 	les	 histoire 	 s 	 	sur	le	web	,	 e 	 t 	 	la	façon	 do 	 nt 	 	nous	 com 	 prenons 	 	le	monde	dans	 le 	 quel 	 	nous	 viv 	 ons 	 	.
+merci	.
+

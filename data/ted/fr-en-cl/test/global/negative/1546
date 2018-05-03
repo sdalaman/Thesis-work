@@ -1,0 +1,146 @@
+je veux vous parler aujourd'hui de quelque chose que le monde de la programmation open source peut enseigner à la démocratie , mais avant cela , un petit préambule .
+nous allons commencer ici .
+voici martha payne . martha a 9 ans , elle est écossaise et elle vit dans le conseil d'argyll and bute .
+il y a quelques mois , payne a commencé un blog culinaire appelé _UNK_ , et elle emmenait son appareil photo tous les jours à l'école pour documenter ses déjeuners scolaires .
+pouvez - vous repérer les légumes ?
+et , comme ça arrive parfois , ce blog a d'abord acquis des dizaines de lecteurs , puis des centaines de lecteurs , et puis des milliers de lecteurs , quand les gens _UNK_ son blog pour voir son classement de ses repas scolaires , y compris ma catégorie préférée , " cheveux trouvés dans les aliments . " c'était une journée sans . c'est bien .
+et puis il y a deux semaines hier , elle a publié ceci .
+un post qui disait : " aurevoir . " et elle a dit : " je suis terriblement désolée de vous dire ceci , mais mon professeur principal m'a sortie de la classe aujourd'hui et m'a dit que je ne suis plus autorisée à prendre des photos dans la salle à manger .
+j'ai vraiment apprécié faire ça .
+merci de m'avoir lue . au revoir . " vous pouvez deviner ce qui s'est passé ensuite , non ?
+l'outrage a été tellement rapide , tellement volumineux , tellement _UNK_ , que le conseil d'argyll and bute a fait marche arrière le jour même et a dit : " nous ne _UNK_ jamais un enfant de neuf ans . " sauf , bien sûr , ce matin .
+et cela soulève la question , qu'est - ce qui leur a fait penser qu'ils pourraient s'en tirer avec quelque chose comme ça ?
+et la réponse est , toute l'histoire humaine avant maintenant .
+par conséquent , que se passe - t - il quand un média met tout à coup beaucoup de nouvelles idées en circulation ?
+ce n'est pas seulement une question ponctuelle .
+c'est quelque chose que nous avons rencontrés plusieurs fois au cours des derniers siècles .
+quand le télégraphe est apparu , il était clair qu'il allait mondialiser l'industrie de l'information .
+a quoi est - ce que ça conduirait ?
+eh bien , évidemment , ça conduirait à la paix mondiale .
+la télévision , un média qui nous a permis non seulement d'entendre mais de voir , littéralement voir , ce qui se passait ailleurs dans le monde , à quoi est - ce que ça conduirait ?
+la paix mondiale .
+le téléphone ?
+vous l'avez deviné : la paix mondiale .
+désolé pour cette fausse prédiction , mais pas de paix mondiale . pas encore .
+même la presse à imprimer , même la presse à imprimer était supposée être un outil qui allait faire respecter l'hégémonie intellectuelle catholique dans toute l'europe .
+au lieu de cela , c nous avons obtenu les 95 thèses de martin luther , la réforme protestante et , vous le savez , la guerre de trente ans . bon , ce que toutes ces prédictions de paix mondiale ont vu juste c'est que lorsque tout d'un coup beaucoup de nouvelles idées sont mises en circulation , ça transforme la société .
+ce sur quoi on s'est exactement trompé , c'est sur ce qui se passe ensuite .
+plus il y a d'idées en circulation , plus il y a d'idées à contredire pour chacun .
+plus de médias signifie toujours plus de débat ..
+voilà ce qui arrive lorsque l'espace des médias se développe .
+et pourtant , quand on revient sur la presse à imprimer , dans les premières années , nous aimons ce qui est arrivé .
+nous sommes une société en faveur de l'imprimerie .
+alors , comment _UNK_ - nous ces deux choses , le fait que ça engendre plus de débat , mais que nous pensons que c'est une bonne chose ?
+et la réponse , je pense , se trouve dans des choses comme ça .
+il s'agit de la couverture de " _UNK_ transactions " la première revue scientifique jamais publiée en anglais au milieu du 16e siècle .
+elle a été créée par un groupe de personnes qui se nommaient eux - mêmes " le collège invisible " , un groupe de philosophes naturels qui seulement plus tard s'appellerait scientifiques , et ils voulaient améliorer la façon dont les philosophes naturels _UNK_ , et ils devaient faire deux choses pour cela .
+ils avaient besoin d'ouverture . ils avaient besoin de créer une norme qui disait , quand vous faites une expérience , vous devez publier non seulement vos affirmations , mais comment vous avez conduit l'expérience .
+si vous ne nous dites pas comment vous l'avez faite , nous ne vous ferons pas confiance .
+mais ce dont ils avaient également besoin était la vitesse .
+ils ont dû rapidement synchroniser ce que d'autres philosophes naturels savaient . dans le cas contraire , impossible de lancer le bon type de débat .
+l'imprimerie était clairement le bon moyen pour ce faire , mais le livre était le mauvais outil . il était trop lent .
+et alors ils ont inventé la revue scientifique comme moyen de synchronisation du débat dans la communauté des spécialistes des sciences naturelles .
+la révolution scientifique n'a pas été créée par la presse à imprimer .
+elle a été créée par des scientifiques , mais elle n'aurait pas pu l'être s'ils n'avaient pas eu une presse à imprimer comme un outil .
+et nous , alors ? qu'en est - il de notre génération , et notre révolution des médias , d'internet ?
+eh bien , des prédictions de paix mondiale ? vérifions .
+plus de débat ? on peut mettre une étoile d'or là - dessus .
+je veux dire , youtube est une mine d'or .
+un meilleur débat ? c'est la question .
+j'étudie les médias sociaux , ce qui signifie , en première approximation , j'observe les gens débattre .
+et si je devais choisir un groupe dont je pense qu'il est notre collège invisible , c'est la collection de notre génération de gens qui essayent de prendre ces outils et de les utiliser , non pas pour plus _UNK_ , mais pour de meilleurs arguments , je choisirais les programmeurs opensource .
+la programmation est une relation triangulaire entre un programmeur , un code source , et l'ordinateur sur lequel le programme est destiné à être exécuté , mais les ordinateurs sont des interprètes si inflexibles des instructions qu'il est extraordinairement difficile d'écrire tout un ensemble des instructions que l'ordinateur sait comment exécuter , et nous parlons du cas où une seule personne l'a écrit .
+quand on a plus d'une personne , par écrit il est très facile pour n'importe quel deux programmeurs à écraser leurs travaux respectifs s'ils travaillent sur le même fichier , ou d'envoyer des instructions incompatibles ce qui fait que l'ordinateur s'étouffe , et ce problème s'accroît avec le nombre de programmeurs impliqués .
+en gros , le problème de la gestion d'un grand projet de logiciel est le problème d'éviter ce chaos social .
+depuis des décennies une solution canonique à ce problème consiste à utiliser ce qu'on appelle un " système de contrôle de version " , et un système de contrôle de version fait ce qui est marqué sur la boite .
+il fournit une copie canonique du logiciel sur un serveur quelque part .
+les seuls programmeurs qui peuvent le changer sont des personnes qui ont reçu spécifiquement l'autorisation d'y accéder , et ils sont seulement autorisés à accéder à la sous - section qu'ils sont autorisés à modifier .
+et quand les gens dessinent des diagrammes de systèmes de contrôle de version , les diagrammes ressemblent toujours à ça .
+bon . ils ressemblent à des organigrammes hiérarchiques .
+et pas besoin de plisser les yeux très fort pour voir les ramifications politiques d'un tel système .
+c'est du _UNK_ : un seul propriétaire , beaucoup d'ouvriers .
+c'est très bien pour l'industrie des logiciels commerciaux .
+c'est vraiment office de microsoft . c'est photoshop d'adobe .
+la société est propriétaire du logiciel .
+les programmeurs vont et viennent .
+mais il y avait un programmeur qui a décidé que ce n'était pas la façon de travailler .
+il s'agit de linus torvalds .
+torvalds est le programmeur open source le plus célèbre , il a créé linux , évidemment , et torvalds a examiné la façon dont le mouvement open source s'occupe de ce problème .
+les logiciels libres , la promesse de la base de la licence open source , est que tout le monde devrait avoir accès à l'intégralité du code source tout le temps , mais bien sûr , cela crée la menace même du chaos qu'il faut prévenir pour faire que ça marche .
+la plupart des projets open source se sont _UNK_ le nez et ont adopté des systèmes de gestion _UNK_ .
+mais torvalds a dit , " non , je vais pas faire ça . " son point de vue là - dessus a été très clair .
+lorsque vous adoptez un outil , vous aussi adopter la philosophie de gestion intégrée dans cet outil , et il n'allait pas adopter quelque chose qui ne fonctionnait pas comme la communauté linux fonctionnait .
+et pour vous donner une idée de l'énormité d'une telle décision voici une carte des dépendances internes au sein de linux , au sein du système d'exploitation linux , dont des sections du programme s'appuient sur d'autres sections pour se lancer .
+c'est un processus extrêmement complexe .
+c'est un programme extrêmement compliqué , et pourtant , pendant des années , torvalds a fait tourné ça non pas avec des outils automatisés , mais depuis sa boite e - mail .
+les gens lui envoyaient littéralement par mail les changements sur lesquels ils se mettaient d'accord , et il les fusionnait à la main .
+et puis , 15 ans après avoir observé linux et trouver comment la communauté fonctionnait , il a dit , " je pense que je sais comment écrire un système de contrôle de version pour les gens libres . "
+et il l'a appelé " git " . git est un contrôle de version distribué .
+il a deux grandes différences par rapport aux systèmes de contrôle de version traditionnels .
+la première est qu'il est à la hauteur de la promesse philosophique de l'open source . tous ceux qui travaillent sur un projet ont accès à toutes la données du code source tout le temps .
+et quand les gens dessinent des diagrammes de flux de travail git , ils utilisent des dessins qui ressemblent à ça .
+et pas besoin de comprendre ce que les cercles , les cases et les flèches implique de voir qu'il s'agit d'une façon bien plus compliquée de travailler que les systèmes de contrôle de version ordinaire ne supportent .
+mais c'est aussi la chose qui apporte de nouveau le chaos , et c'est la deuxième grande innovation de git .
+voici une capture d'écran de github , le premier service d'hébergement git , et chaque fois qu'un programmeur utilise git pour faire un changement important , en créant un nouveau fichier , en modifiant un fichier existant , en fusionnant deux fichiers , git crée ce type de signature .
+cette longue chaîne de chiffres et de lettres est un _UNK_ unique lié à chaque modification unique , mais sans coordination centrale .
+chaque système git génère ce numéro de la même façon , ce qui signifie que c'est une signature liée directement et sans possible de falsification à un changement particulier .
+ceci a l'effet suivant : un programmeur à édimbourg et un programmeur à _UNK_ peuvent tous les deux avoir le même - obtenir une copie du même logiciel .
+chacun d'eux peut apporter des modifications , et ils peuvent les fusionner après , même s'ils ne savent pas au préalable que l'autre existe .
+il s'agit de coopération sans coordination .
+voilà le grand changement .
+je vous dis tout ça non pas pour vous convaincre que c'est génial que des programmeurs opensource disposent maintenant d'un outil qui prend en charge leur manière philosophique de travailler , bien que je pense que c'est très bien .
+je vous dis tout cela à cause de ce que je pense que cela signifie pour la manière dont les communautés se réunissent .
+une fois que git a permis la coopération sans coordination , on commence à voir des communautés se former qui sont extrêmement vastes et complexes .
+voici un diagramme de la communauté ruby .
+c'est un langage de programmation open source , et de toutes les interconnexions entre les personnes -- voici maintenant non pas un graphique du logiciel , mais un graphe de personnes , toutes les interconnexions entre les personnes qui _UNK_ sur ce projet : et ça ne ressemble pas à un organigramme hiérarchique .
+ça ressemble à une organigramme dis - hiérarchique , et pourtant , à partir de cette communauté , mais à l'aide de ces outils , ils peuvent désormais créer quelque chose ensemble .
+donc , il y a deux bonnes raisons de penser que ce genre de technique peut être appliqué aux démocraties en général et en particulier à la loi .
+lorsque vous avancez , en fait , que quelque chose sur internet va être bon pour la démocratie , vous obtenez souvent cette réaction .
+qui est , tu parles du truc avec les chats qui chantent ? c'est le truc dont vous pensez qu'il va être bon pour la société ?
+et là , je dois dire , voilà ce qu'il y a avec les chats qui chantent . c'est toujours le cas .
+je ne veux pas seulement dire que ca se passe toujours comme ça avec internet , je veux _UNK_ ça arrive toujours avec les médias , point final .
+il n'a pas fallu longtemps après la naissance de l'imprimerie commerciale avant que quelqu'un comprenne que les romans érotiques étaient une bonne idée .
+pas besoin d'une incitation économique à vendre des livres très longtemps avant que quelqu'un ne dise , " hé , vous savez ce que j'ai parié que les gens paieraient pour ça ? " il a fallu aux gens encore 150 ans pour penser à la revue scientifique , pas vrai ?
+l'exploitation de l'invisible college de l'imprimerie pour créer le journal scientifique a été extrêmement important , mais ça n'a eu que des proportions modestes , et ce n'est pas arrivé rapidement , et ce n'est pas arrivé rapidement , alors si vous allez chercher où les changements se produisent , il faut regarder vers les marges .
+la loi est aussi liée à la dépendance .
+voici un graphique du code fiscal des états - unis , et les dépendances d'une loi aux autres lois pour l'effet global .
+donc il y a ça comme site pour la gestion du code source .
+mais il y a aussi le fait que le droit est un autre endroit où il y a beaucoup d'opinions en circulation , mais elles ont besoin d'être résolues en un seul exemplaire canonique , et quand vous allez sur github , et vous regardez , il y a des millions et des millions de projets , presque tous sont du code source , mais si vous regardez plus loin , vous pouvez voir des gens expérimenter avec les ramifications politiques d'un système comme ça .
+quelqu'un a mis en ligne tous les câbles de wikileaks du département d'état , ainsi que des logiciels utilisés pour les interpréter , y compris mon utilisation préférée des câbles _UNK_ , qui est un outil pour détecter les haïkus qui _UNK_ naturellement dans la prose du département d'etat .
+bon .
+le sénat de new york a mis en place ce qu'on appelle la législation ouverte , et _UNK_ également sur github , encore une fois pour toutes les raisons de mise à jour et de fluidité .
+vous pouvez aller choisir votre sénateur et ensuite vous pouvez voir une liste des lois qu'il a parrainé .
+quelqu'un avec le pseudo de _UNK_ a mis en ligne le code de l'utah , les lois de l'état de l'utah , et il l'a mis là non seulement pour distribuer le code , mais avec la possibilité très intéressante que ça pourrait servir à faire progresser le développement de la législation .
+quelqu'un a mis en ligne un outil au cours du débat du droit d'auteur l'an dernier au sénat , en disant : " il est étrange que hollywood ait plus accès aux législateurs canadiens que les citoyens canadiens . pourquoi n'utilisons - nous pas github pour leur montrer à quoi peut ressembler un projet de loi mis au point par les citoyens ? "
+et il inclut cette capture d'écran très évocatrice .
+c'est ce qu'on appelle un " _UNK_ " , cette chose ici à droite .
+ça vous montre , pour du texte que beaucoup de gens _UNK_ , quand une modification a été effectuée , qui l'a faite , et quel est le changement .
+les trucs en rouge sont les trucs qui ont été supprimés .
+les trucs en vert sont la les trucs qui ont été ajoutés .
+programmeurs prennent cette capacité comme allant de soi .
+aucune démocratie nulle part dans le monde ne propose cette fonctionnalité à ses citoyens ni pour la législation ni pour les budgets , même si ce sont les choses faites avec notre consentement et avec notre argent .
+maintenant , j'aimerais vous dire que le fait que les programmeurs opensource ont mis au point une méthode collaborative à grande échelle , distribuée , bon marché et en phase avec les idéaux de la démocratie , je serais ravi de vous dire que , parce que ces outils sont en place , l'innovation est inévitable . mais ce n'est pas le cas .
+une partie du problème , bien sûr , est juste un manque d'information .
+quelqu'un a mis une question sur _UNK_ et a dit : " comment se fait - il que les législateurs n'utilisent pas le contrôle de version distribué ? "
+voici la réponse qui a été donnée , graphiquement .
+et ça fait en effet partie du problème , mais seulement en partie .
+le plus gros problème , bien sûr , est le pouvoir .
+les gens qui expérimentent avec la participation n'ont pas le pouvoir législatif et les gens qui ont le pouvoir législatif _UNK_ pas avec la participation .
+ils expérimentent avec l'ouverture .
+il n'y a pas de démocratie digne de ce nom qui n'ait pas essayé une transparence , mais la transparence est l'ouverture dans un seul sens et se voir donner un tableau de bord sans un volant n'a jamais été la promesse de base qu'une démocratie fait à ses citoyens .
+alors , pensez - y.
+ce qui a fait que des avis de martha payne sont parvenus au public était une technologie , mais ce qui a fait qu'ils ont continué à s'y intéresser était la volonté politique .
+c'était l'attente des citoyens qu'elle ne serait pas censurée .
+c'est maintenant l'état dans lequel nous sommes avec ces outils de collaboration .
+nous les avons . nous les avons vus . ils fonctionnent .
+pouvons - nous les utiliser ?
+peut - on généraliser les techniques qui ont fonctionné ici à ça ?
+t.s. eliot a dit , " une des choses les plus mémorables " qui puisse arriver à une culture est qu'on _UNK_ une nouvelle forme de prose " .
+je pense que c'est faux , mais -- je pense que ce n'est valable que pour l'argumentation . pas vrai ?
+une chose importante qui puisse arriver à une culture est qu'on puisse acquérir un nouveau style d'argumentation : le procès avec jury , le droit de vote , l'examen par les pairs , maintenant ceci . pas vrai ?
+une nouvelle forme d'argumentation a été inventée de notre vivant , dans la dernière décennie , en fait .
+elles est grande , elle est distribuée , elle est peu coûteuse , et elle est compatible avec les idéaux de la démocratie .
+la question pour nous est maintenant , allons - nous laisser les programmeurs la garder pour eux ?
+ou allons - nous tenter de la prendre et de la mettre au service de la société dans son ensemble ?
+merci de m'avoir écouté .
+merci . merci .

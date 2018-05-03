@@ -1,0 +1,91 @@
+so	,	 th 	 is 	 	book	that	i	have	in	my	hand	is	a	 director 	 y 	 	of	 every 	 body 	 	who	had	an	email	address	in	1982	.
+ actual 	 ly 	 	,	it	's	 deceptive 	 ly 	 	large	.
+there	's	 actual 	 ly 	 	 on 	 ly 	 	about	20	people	on	each	page	,	 be 	 cause 	 	we	have	the	name	,	address	and	 tele 	 phone 	 	number	of	every	single	person	.
+and	,	in	fact	,	 every 	 body 	 	's	 list 	 ed 	 	twice	,	 be 	 cause 	 	it	's	 sort 	 ed 	 	once	by	name	and	once	by	email	address	.
+ obvious 	 ly 	 	a	 ver 	 y 	 	small	community	.
+there	 we 	 re 	 	 on 	 ly 	 	two	other	dannys	on	the	 inter 	 net 	 	then	.
+i	 k 	 new 	 	them	both	.
+we	did	n't	all	know	each	other	,	but	we	all	kind	of	 trust 	 ed 	 	each	other	,	and	that	 bas 	 ic 	 	 feel 	 ing 	 	of	trust	 permeate 	 d 	 	the	whole	network	,	and	there	was	a	real	sense	that	we	could	depend	on	each	other	to	do	 thing 	 s 	 	.
+so	just	to	give	you	an	idea	of	the	level	of	trust	in	 th 	 is 	 	community	,	let	me	tell	you	what	it	was	like	to	register	a	domain	name	in	the	early	 day 	 s 	 	.
+now	,	it	just	so	 happen 	 ed 	 	that	i	got	to	register	the	third	domain	name	on	the	 inter 	 net 	 	.
+so	i	could	have	 any 	 thing 	 	i	 want 	 ed 	 	other	than	bbn.com	and	symbolics.com	.
+so	i	 pick 	 ed 	 	think.com	,	but	then	i	thought	,	you	know	,	there	's	a	lot	of	 re 	 ally 	 	 interest 	 ing 	 	 name 	 s 	 	out	there	.
+ may 	 be 	 	i	should	register	a	few	extras	just	in	case	.
+and	then	i	thought	,	``	 na 	 h 	 	,	that	would	n't	be	 ver 	 y 	 	nice	.	``
+that	attitude	of	 on 	 ly 	 	taking	what	you	need	was	 re 	 ally 	 	what	 every 	 body 	 	had	on	the	network	in	 t 	 hose 	 	 day 	 s 	 	,	and	in	fact	,	it	was	n't	just	the	people	on	the	network	,	but	it	was	 actual 	 ly 	 	kind	of	built	 in 	 to 	 	the	 proto 	 col 	 s 	 	of	the	 inter 	 net 	 	 it 	 self 	 	.
+so	the	 bas 	 ic 	 	idea	of	i.p	.	,	or	 inter 	 net 	 	 proto 	 col 	 	,	and	the	way	that	the	--	the	 r 	 out 	 ing 	 	algorithm	that	used	it	,	 we 	 re 	 	 fundamental 	 ly 	 	``	from	each	 accord 	 ing 	 	to	 the 	 ir 	 	ability	,	to	each	 accord 	 ing 	 	to	 the 	 ir 	 	need	.	``
+and	so	,	if	you	had	some	extra	 band 	 width 	 	,	you	'd	deliver	a	 mess 	 age 	 	for	 some 	 one 	 	.
+if	they	had	some	extra	 band 	 width 	 	,	they	would	deliver	a	 mess 	 age 	 	for	you	.
+you	'd	kind	of	depend	on	people	to	do	that	,	and	that	was	the	building	block	.
+it	was	 actual 	 ly 	 	 interest 	 ing 	 	that	 s 	 uch 	 	a	 commun 	 ist 	 	principle	was	the	 bas 	 is 	 	of	a	system	 develop 	 ed 	 	 dur 	 ing 	 	the	cold	war	by	the	defense	 depart 	 ment 	 	,	but	it	 obvious 	 ly 	 	 work 	 ed 	 	 re 	 ally 	 	well	,	and	we	all	saw	what	 happen 	 ed 	 	with	the	 inter 	 net 	 	.
+it	was	 inc 	 red 	 ibly 	 	 success 	 ful 	 	.
+in	fact	,	it	was	so	 success 	 ful 	 	that	there	's	no	way	that	these	 day 	 s 	 	you	could	make	a	book	like	 th 	 is 	 	.
+my	rough	 calcul 	 ation 	 	is	it	would	be	about	25	 mile 	 s 	 	thick	.
+but	,	of	course	,	you	could	n't	do	it	,	 be 	 cause 	 	we	do	n't	know	the	 name 	 s 	 	of	all	the	people	with	 inter 	 net 	 	or	email	 address 	 es 	 	,	and	even	if	we	did	know	 the 	 ir 	 	 name 	 s 	 	,	i	'm	 pre 	 tty 	 	 s 	 ure 	 	that	they	would	not	want	 the 	 ir 	 	name	,	address	and	 tele 	 phone 	 	number	 publish 	 ed 	 	to	 every 	 one 	 	.
+so	the	fact	is	that	there	's	a	lot	of	bad	 guy 	 s 	 	on	the	 inter 	 net 	 	these	 day 	 s 	 	,	and	so	we	 deal 	 t 	 	with	that	by	making	secure	subnetworks	,	vpns	,	little	 thing 	 s 	 	that	are	n't	 re 	 ally 	 	the	 inter 	 net 	 	but	are	made	out	of	the	same	building	 block 	 s 	 	,	but	we	're	still	 bas 	 ically 	 	building	it	out	of	 t 	 hose 	 	same	building	 block 	 s 	 	with	 t 	 hose 	 	same	 assumption 	 s 	 	of	trust	.
+and	that	 mean 	 s 	 	that	it	's	 vulner 	 able 	 	to	certain	 kind 	 s 	 	of	 mistak 	 es 	 	that	can	happen	,	or	certain	 kind 	 s 	 	of	 de 	 liberate 	 	 attack 	 s 	 	,	but	even	the	 mistak 	 es 	 	can	be	bad	.
+so	,	for	 in 	 stance 	 	,	in	all	of	 a 	 s 	 ia 	 	 re 	 cent 	 ly 	 	,	it	was	 im 	 possible 	 	to	get	youtube	for	a	little	while	 be 	 cause 	 	pakistan	made	some	 mistak 	 es 	 	in	how	it	was	censoring	youtube	in	 it 	 s 	 	internal	network	.
+they	did	n't	intend	to	screw	up	 a 	 s 	 ia 	 	,	but	they	did	 be 	 cause 	 	of	the	way	that	the	 proto 	 col 	 s 	 	work	.
+ an 	 other 	 	 ex 	 ample 	 	that	may	have	 affect 	 ed 	 	 man 	 y 	 	of	you	in	 th 	 is 	 	audience	is	,	you	may	remember	a	couple	of	 year 	 s 	 	ago	,	all	the	 plane 	 s 	 	west	of	the	mississippi	 we 	 re 	 	 ground 	 ed 	 	 be 	 cause 	 	a	single	 r 	 out 	 ing 	 	card	in	salt	lake	city	had	a	bug	in	it	.
+now	,	you	do	n't	 re 	 ally 	 	think	that	our	 air 	 plane 	 	system	 depend 	 s 	 	on	the	 inter 	 net 	 	,	and	in	some	sense	it	 do 	 es 	 	n't	.
+i	'll	come	back	to	that	 lat 	 er 	 	.
+but	the	fact	is	that	people	could	n't	take	off	 be 	 cause 	 	 some 	 thing 	 	was	going	wrong	on	the	 inter 	 net 	 	,	and	the	 route 	 r 	 	card	was	down	.
+and	so	,	there	are	 man 	 y 	 	of	 t 	 hose 	 	 thing 	 s 	 	that	start	to	happen	.
+now	,	there	was	an	 interest 	 ing 	 	thing	that	 happen 	 ed 	 	last	april	.
+all	of	a	sudden	,	a	 ver 	 y 	 	large	 percent 	 age 	 	of	the	traffic	on	the	whole	 inter 	 net 	 	,	 in 	 clud 	 ing 	 	a	lot	of	the	traffic	between	u.s.	 militar 	 y 	 	 install 	 ations 	 	,	 start 	 ed 	 	 get 	 ting 	 	re	-	routed	through	 chin 	 a 	 	.
+so	for	a	few	 hour 	 s 	 	,	it	all	 pass 	 ed 	 	through	 chin 	 a 	 	.
+now	,	 chin 	 a 	 	 tele 	 com 	 	 say 	 s 	 	it	was	just	an	honest	 mistak 	 e 	 	,	and	it	is	 actual 	 ly 	 	possible	that	it	was	,	the	way	 thing 	 s 	 	work	,	but	 certain 	 ly 	 	 some 	 body 	 	could	make	a	 dis 	 honest 	 	 mistak 	 e 	 	of	that	sort	if	they	 want 	 ed 	 	to	,	and	it	 show 	 s 	 	you	how	 vulner 	 able 	 	the	system	is	even	to	 mistak 	 es 	 	.
+imagine	how	 vulner 	 able 	 	the	system	is	to	 de 	 liberate 	 	 attack 	 s 	 	.
+so	if	 some 	 body 	 	 re 	 ally 	 	 want 	 ed 	 	to	attack	the	 unit 	 ed 	 	 state 	 s 	 	or	western	 civil 	 ization 	 	these	 day 	 s 	 	,	they	're	not	going	to	do	it	with	 tank 	 s 	 	.
+that	will	not	succeed	.
+what	they	'll	 prob 	 ably 	 	do	is	 some 	 thing 	 	 ver 	 y 	 	much	like	the	attack	that	 happen 	 ed 	 	on	the	iranian	nuclear	 facil 	 ity 	 	.
+ no 	 body 	 	 ha 	 s 	 	 claim 	 ed 	 	credit	for	that	.
+there	was	 bas 	 ically 	 	a	 factor 	 y 	 	of	industrial	 machine 	 s 	 	.
+it	did	n't	think	of	 it 	 self 	 	 a 	 s 	 	 be 	 ing 	 	on	the	 inter 	 net 	 	.
+it	thought	of	 it 	 self 	 	 a 	 s 	 	 be 	 ing 	 	 dis 	 connect 	 ed 	 	from	the	 inter 	 net 	 	,	but	it	was	possible	for	 some 	 body 	 	to	smuggle	a	usb	drive	in	there	,	or	 some 	 thing 	 	like	that	,	and	 soft 	 ware 	 	got	in	there	that	 cause 	 s 	 	the	centrifuges	,	in	that	case	,	to	 actual 	 ly 	 	destroy	 them 	 s 	 elves 	 	.
+now	that	same	kind	of	 soft 	 ware 	 	could	destroy	an	oil	 refine 	 ry 	 	or	a	pharmaceutical	 factor 	 y 	 	or	a	 semi 	 conductor 	 	plant	.
+and	so	there	's	a	lot	of	--	i	'm	 s 	 ure 	 	you	've	read	a	lot	in	 paper 	 s 	 	,	about	 worri 	 es 	 	about	cyber	 attack 	 s 	 	and	 defense 	 s 	 	against	 t 	 hose 	 	.
+but	the	fact	is	,	people	are	 most 	 ly 	 	focused	on	 defend 	 ing 	 	the	 computer 	 s 	 	on	the	 inter 	 net 	 	,	and	there	's	 be 	 en 	 	 surprising 	 ly 	 	little	attention	to	 defend 	 ing 	 	the	 inter 	 net 	 	 it 	 self 	 	 a 	 s 	 	a	 communication 	 s 	 	medium	.
+and	i	think	we	 prob 	 ably 	 	do	need	to	pay	some	more	attention	to	that	,	 be 	 cause 	 	it	's	 actual 	 ly 	 	kind	of	fragile	.
+so	 actual 	 ly 	 	,	in	the	early	 day 	 s 	 	,	back	when	it	was	the	arpanet	,	there	 we 	 re 	 	 actual 	 ly 	 	 time 	 s 	 	--	there	was	a	 part 	 icular 	 	time	it	 fail 	 ed 	 	 complete 	 ly 	 	 be 	 cause 	 	one	single	 mess 	 age 	 	processor	 actual 	 ly 	 	got	a	bug	in	it	.
+and	the	way	the	 inter 	 net 	 	 work 	 s 	 	is	the	 route 	 rs 	 	are	 bas 	 ically 	 	 ex 	 changing 	 	information	about	how	they	can	get	 mess 	 age 	 s 	 	to	 place 	 s 	 	,	and	 th 	 is 	 	one	processor	,	 be 	 cause 	 	of	a	broken	card	,	 decide 	 d 	 	it	could	 actual 	 ly 	 	get	a	 mess 	 age 	 	to	some	place	in	negative	time	.
+so	,	in	other	 word 	 s 	 	,	it	 claim 	 ed 	 	it	could	deliver	a	 mess 	 age 	 	before	you	 s 	 ent 	 	it	.
+so	of	course	,	the	 fast 	 est 	 	way	to	get	a	 mess 	 age 	 	 any 	 where 	 	was	to	 s 	 end 	 	it	to	 th 	 is 	 	guy	,	who	would	 s 	 end 	 	it	back	in	time	and	get	it	there	super	early	,	so	every	 mess 	 age 	 	in	the	 inter 	 net 	 	 start 	 ed 	 	 get 	 ting 	 	 s 	 witch 	 ed 	 	through	 th 	 is 	 	one	 no 	 de 	 	,	and	of	course	that	 clog 	 ged 	 	 every 	 thing 	 	up	.
+ every 	 thing 	 	 start 	 ed 	 	 break 	 ing 	 	.
+the	 interest 	 ing 	 	thing	was	,	 th 	 ough 	 	,	that	the	sysadmins	 we 	 re 	 	able	to	fix	it	,	but	they	had	to	 bas 	 ically 	 	turn	every	single	thing	on	the	 inter 	 net 	 	off	.
+now	,	of	course	you	could	n't	do	that	 to 	 day 	 	.
+i	mean	,	 every 	 thing 	 	off	,	it	's	like	the	service	call	you	get	from	the	cable	company	,	 ex 	 cept 	 	for	the	whole	world	.
+now	,	in	fact	,	they	could	n't	do	it	for	a	lot	of	 reason 	 s 	 	 to 	 day 	 	.
+one	of	the	 reason 	 s 	 	is	a	lot	of	 the 	 ir 	 	 tele 	 phone 	 s 	 	use	ip	 proto 	 col 	 	and	use	 thing 	 s 	 	like	skype	and	so	on	that	go	through	the	 inter 	 net 	 	right	now	,	and	so	in	fact	we	're	 be 	 coming 	 	dependent	on	it	for	more	and	more	different	 thing 	 s 	 	,	like	when	you	take	off	from	lax	,	you	're	 re 	 ally 	 	not	 think 	 ing 	 	you	're	using	the	 inter 	 net 	 	.
+when	you	pump	gas	,	you	 re 	 ally 	 	do	n't	think	you	're	using	the	 inter 	 net 	 	.
+what	's	 happen 	 ing 	 	 increasing 	 ly 	 	,	 th 	 ough 	 	,	is	these	 system 	 s 	 	are	 begin 	 ning 	 	to	use	the	 inter 	 net 	 	.
+most	of	them	are	n't	based	on	the	 inter 	 net 	 	yet	,	but	they	're	 start 	 ing 	 	to	use	the	 inter 	 net 	 	for	service	 function 	 s 	 	,	for	 administr 	 ative 	 	 function 	 s 	 	,	and	so	if	you	take	 some 	 thing 	 	like	the	cell	phone	system	,	which	is	still	 relat 	 ively 	 	 in 	 dependent 	 	of	the	 inter 	 net 	 	for	the	most	part	,	 inter 	 net 	 	 piece 	 s 	 	are	 begin 	 ning 	 	to	sneak	 in 	 to 	 	it	in	 term 	 s 	 	of	some	of	the	control	and	 administr 	 ative 	 	 function 	 s 	 	,	and	it	's	so	 tempt 	 ing 	 	to	use	these	same	building	 block 	 s 	 	 be 	 cause 	 	they	work	so	well	,	they	're	cheap	,	they	're	 repeat 	 ed 	 	,	and	so	on	.
+so	all	of	our	 system 	 s 	 	,	more	and	more	,	are	 start 	 ing 	 	to	use	the	same	technology	and	 start 	 ing 	 	to	depend	on	 th 	 is 	 	technology	.
+and	so	even	a	modern	rocket	ship	these	 day 	 s 	 	 actual 	 ly 	 	uses	 inter 	 net 	 	 proto 	 col 	 	to	talk	from	one	end	of	the	rocket	ship	to	the	other	.
+that	's	crazy	.	it	was	never	designed	to	do	 thing 	 s 	 	like	that	.
+so	we	've	built	 th 	 is 	 	system	where	we	understand	all	the	 part 	 s 	 	of	it	,	but	we	're	using	it	in	a	 ver 	 y 	 	,	 ver 	 y 	 	different	way	than	we	 expect 	 ed 	 	to	use	it	,	and	it	's	gotten	a	 ver 	 y 	 	,	 ver 	 y 	 	different	scale	than	it	was	designed	for	.
+and	in	fact	,	 no 	 body 	 	 re 	 ally 	 	 exact 	 ly 	 	 understand 	 s 	 	all	the	 thing 	 s 	 	it	's	 be 	 ing 	 	used	for	right	now	.
+it	's	 turn 	 ing 	 	 in 	 to 	 	one	of	these	big	 emerge 	 nt 	 	 system 	 s 	 	like	the	financial	system	,	where	we	've	designed	all	the	 part 	 s 	 	but	 no 	 body 	 	 re 	 ally 	 	 exact 	 ly 	 	 understand 	 s 	 	how	it	 oper 	 ates 	 	and	all	the	little	 detail 	 s 	 	of	it	and	what	 kind 	 s 	 	of	 emerge 	 nt 	 	 behavior 	 s 	 	it	can	have	.
+and	so	if	you	hear	an	expert	 talk 	 ing 	 	about	the	 inter 	 net 	 	and	 say 	 ing 	 	it	can	do	 th 	 is 	 	,	or	it	 do 	 es 	 	do	 th 	 is 	 	,	or	it	will	do	that	,	you	should	treat	it	with	the	same	 skeptic 	 ism 	 	that	you	might	treat	the	 comment 	 s 	 	of	an	economist	about	the	 eco 	 nomy 	 	or	a	weatherman	about	the	weather	,	or	 some 	 thing 	 	like	that	.
+they	have	an	 inform 	 ed 	 	opinion	,	but	it	's	changing	so	 quick 	 ly 	 	that	even	the	 expert 	 s 	 	do	n't	know	 exact 	 ly 	 	what	's	going	on	.
+so	if	you	see	one	of	these	 map 	 s 	 	of	the	 inter 	 net 	 	,	it	's	just	 some 	 body 	 	's	guess	.
+ no 	 body 	 	 re 	 ally 	 	 know 	 s 	 	what	the	 inter 	 net 	 	is	right	now	 be 	 cause 	 	it	's	different	than	it	was	an	hour	ago	.
+it	's	 constant 	 ly 	 	changing	.	it	's	 constant 	 ly 	 	 reconfigur 	 ing 	 	.
+and	the	problem	with	it	is	,	i	think	we	are	setting	 our 	 s 	 elves 	 	up	for	a	kind	of	disaster	like	the	disaster	we	had	in	the	financial	system	,	where	we	take	a	system	that	's	 bas 	 ically 	 	built	on	trust	,	was	 bas 	 ically 	 	built	for	a	 small 	 er 	 	-	scale	system	,	and	we	've	kind	of	 expand 	 ed 	 	it	way	beyond	the	 limit 	 s 	 	of	how	it	was	 me 	 ant 	 	to	 oper 	 ate 	 	.
+and	so	right	now	,	i	think	it	's	 liter 	 ally 	 	true	that	we	do	n't	know	what	the	 con 	 sequence 	 s 	 	of	an	effective	 deni 	 al 	 	-	of	-	service	attack	on	the	 inter 	 net 	 	would	be	,	and	 what 	 ever 	 	it	would	be	is	going	to	be	 wo 	 rse 	 	next	year	,	and	 wo 	 rse 	 	next	year	,	and	so	on	.
+but	so	what	we	need	is	a	plan	b	.
+there	is	no	plan	b	right	now	.
+there	's	no	clear	 back 	 up 	 	system	that	we	've	 ver 	 y 	 	 care 	 fully 	 	 ke 	 pt 	 	to	be	 in 	 dependent 	 	of	the	 inter 	 net 	 	,	made	out	of	 complete 	 ly 	 	different	 set 	 s 	 	of	building	 block 	 s 	 	.
+so	what	we	need	is	 some 	 thing 	 	that	 do 	 es 	 	n't	 necess 	 arily 	 	have	to	have	the	performance	of	the	 inter 	 net 	 	,	but	the	police	 depart 	 ment 	 	 ha 	 s 	 	to	be	able	to	call	up	the	fire	 depart 	 ment 	 	even	 with 	 out 	 	the	 inter 	 net 	 	,	or	the	 hospital 	 s 	 	have	to	order	fuel	oil	.
+ th 	 is 	 	 do 	 es 	 	n't	need	to	be	a	multi	-	billion	-	dollar	government	project	.
+it	's	 actual 	 ly 	 	 relat 	 ively 	 	simple	to	do	,	 technical 	 ly 	 	,	 be 	 cause 	 	it	can	use	 exist 	 ing 	 	 fiber 	 s 	 	that	are	in	the	ground	,	 exist 	 ing 	 	 wire 	 less 	 	 infra 	 structure 	 	.
+it	's	 bas 	 ically 	 	a	matter	of	 dec 	 id 	 ing 	 	to	do	it	.
+but	people	wo	n't	decide	to	do	it	 un 	 til 	 	they	 recogn 	 ize 	 	the	need	for	it	,	and	that	's	the	problem	that	we	have	right	now	.
+so	there	's	 be 	 en 	 	 ple 	 n 	 ty 	 	of	people	,	 ple 	 n 	 ty 	 	of	us	have	 be 	 en 	 	 quiet 	 ly 	 	 argu 	 ing 	 	that	we	should	have	 th 	 is 	 	 in 	 dependent 	 	system	for	 year 	 s 	 	,	but	it	's	 ver 	 y 	 	hard	to	get	people	focused	on	plan	b	when	plan	a	 seem 	 s 	 	to	be	 work 	 ing 	 	so	well	.
+so	i	think	that	,	if	people	understand	how	much	we	're	 start 	 ing 	 	to	depend	on	the	 inter 	 net 	 	,	and	how	 vulner 	 able 	 	it	is	,	we	could	get	focused	on	just	 want 	 ing 	 	 th 	 is 	 	other	system	to	exist	,	and	i	think	if	 en 	 ough 	 	people	say	,	``	 yea 	 h 	 	,	i	would	like	to	use	it	,	i	'd	like	to	have	 s 	 uch 	 	a	system	,	``	then	it	will	get	built	.
+it	's	not	that	hard	a	problem	.
+it	could	 definite 	 ly 	 	be	 d 	 one 	 	by	people	in	 th 	 is 	 	room	.
+and	so	i	think	that	 th 	 is 	 	is	 actual 	 ly 	 	,	of	all	the	 problem 	 s 	 	you	're	going	to	hear	about	at	the	 con 	 ference 	 	,	 th 	 is 	 	is	 prob 	 ably 	 	one	of	the	 ver 	 y 	 	 eas 	 iest 	 	to	fix	.
+so	i	'm	happy	to	get	a	chance	to	tell	you	about	it	.
+thank	you	 ver 	 y 	 	much	.
+

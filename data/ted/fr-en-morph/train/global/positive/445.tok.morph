@@ -1,0 +1,184 @@
+comment	 s 	 e 	 	fait	-	il	,	comment	 pouv 	 ons 	 	-	nous	étudier	 ce 	 tte 	 	 flor 	 e 	 	virale	qui	nous	entoure	,	 e 	 t 	 	aider	la	 médecin 	 e 	 	?
+comment	 pouv 	 ons 	 	-	nous	 transforme 	 r 	 	 not 	 re 	 	connaissance	 cumul 	 ative 	 	de	la	_UNK_	en	un	simple	test	de	 diagnos 	 tique 	 	,	 port 	 able 	 	 e 	 t 	 	unique	.
+je	veux	 transforme 	 r 	 	tout	ce	que	nous	 s 	 avons 	 	aujourd'hui	sur	la	détection	des	virus	 e 	 t 	 	sur	 l' 	 éventail 	 	des	virus	existant	en	,	comment	dirai	-	je	,	une	petite	puce	.
+quand	nous	avons	 commenc 	 é 	 	à	 ré 	 fléchir 	 	à	ce	projet	--	comment	fabriquer	un	test	de	 diagnos 	 tique 	 	unique	pour	 dépist 	 er 	 	tous	les	 agent 	 s 	 	 pathogène 	 s 	 	à	la	fois	--	 e 	 h 	 	bien	,	 ce 	 tte 	 	idée	posait	plusieurs	 problème 	 s 	 	.
+tout	 d' 	 abord 	 	,	les	virus	 s 	 ont 	 	assez	 complex 	 es 	 	,	 mai 	 s 	 	ils	 évolue 	 nt 	 	aussi	très	 rapide 	 ment 	 	.
+ ce 	 ci 	 	est	un	 picorna 	 virus 	 	.
+les	 picorna 	 virus 	 	--	ce	 s 	 ont 	 	des	 chose 	 s 	 	 do 	 nt 	 	font	 parti 	 e 	 	le	 r 	 hum 	 e 	 	commun	 e 	 t 	 	la	polio	,	ce	 gen 	 re 	 	de	 chose 	 s 	 	.
+ce	que	vous	voyez	,	c'est	la	coque	du	virus	,	 e 	 t 	 	la	couleur	jaune	 représent 	 e 	 	les	 parti 	 es 	 	du	virus	qui	 évolue 	 nt 	 	très	,	très	vite	,	 e 	 t 	 	les	 parti 	 es 	 	 bleu 	 es 	 	 n' 	 évolue 	 nt 	 	pas	très	vite	.
+quand	on	 ré 	 fléchi 	 t 	 	à	la	 fabri 	 cation 	 	 d' 	 un 	 	 ré 	 actif 	 	de	détection	de	tous	les	virus	,	 habituel 	 lement 	 	c'est	 l' 	 évolution 	 	rapide	qui	pose	problème	,	car	comment	 pouv 	 ons 	 	-	nous	 détecte 	 r 	 	des	 chose 	 s 	 	si	elles	 change 	 nt 	 	 con 	 s 	 tam 	 ment 	 	?
+ mai 	 s 	 	 l' 	 évolution 	 	est	un	équilibre	:	là	où	vous	avez	des	 change 	 ment 	 s 	 	 rapide 	 s 	 	,	vous	avez	aussi	de	_UNK_	-	 conserv 	 ation 	 	--	des	 chose 	 s 	 	qui	ne	 change 	 nt 	 	 pratique 	 ment 	 	jamais	.
+ e 	 t 	 	donc	nous	avons	étudié	cela	 d' 	 un 	 	peu	plus	près	,	 e 	 t 	 	je	vais	 main 	 tenant 	 	vous	 montre 	 r 	 	des	 donné 	 es 	 	.
+c'est	un	truc	simple	que	 l' 	 on 	 	peut	faire	sur	un	ordinateur	dans	son	bureau	.
+j'ai	 pri 	 s 	 	une	poignée	de	 ce 	 s 	 	petits	 picorna 	 virus 	 	,	 tel 	 s 	 	que	le	 r 	 hum 	 e 	 	commun	,	la	polio	,	 e 	 t 	 	ainsi	de	suite	,	 e 	 t 	 	je	les	ai	 simple 	 ment 	 	_UNK_	en	petits	 segment 	 s 	 	,	 e 	 t 	 	ainsi	j'ai	 pri 	 s 	 	ce	premier	exemple	,	qui	 s' 	 appelle 	 	le	virus	coxsackie	,	 e 	 t 	 	je	 l' 	 ai 	 	 simple 	 ment 	 	 dé 	 composé 	 	en	 petite 	 s 	 	 fenêtre 	 s 	 	.
+ e 	 t 	 	je	 colori 	 e 	 	 ce 	 s 	 	 petite 	 s 	 	 fenêtre 	 s 	 	en	bleu	si	un	autre	virus	possède	une	séquence	identique	dans	son	génome	à	celle	de	ce	virus	.
+ ce 	 s 	 	 séquence 	 s 	 	tout	en	haut	--	qui	ne	 code 	 nt 	 	même	pas	de	protéine	,	soit	dit	en	 pass 	 ant 	 	--	 s 	 ont 	 	 pratique 	 ment 	 	 entière 	 ment 	 	 identique 	 s 	 	pour	tous	ceux	-	ci	,	donc	je	peux	utiliser	 ce 	 tte 	 	séquence	comme	un	 marque 	 ur 	 	pour	 dépist 	 er 	 	un	large	éventail	de	virus	,	sans	avoir	besoin	de	fabriquer	quelque	chose	pour	chacun	.
+bon	,	par	ici	il	y	a	une	 grand 	 e 	 	 divers 	 ité 	 	:	c'est	là	que	les	 chose 	 s 	 	 évolue 	 nt 	 	 rapide 	 ment 	 	.
+là	en	bas	vous	 pouv 	 ez 	 	voir	une	évolution	plus	 lent 	 e 	 	:	moins	de	 divers 	 ité 	 	.
+bon	,	une	fois	que	 l' 	 on 	 	arrive	ici	,	voyons	,	le	virus	de	la	paralysie	 aigu 	 ë 	 	de	 l' 	 abeille 	 	--	 prob 	 able 	 ment 	 	un	qu'il	ne	fait	pas	bon	 d' 	 avoir 	 	si	vous	êtes	une	abeille	--	ce	virus	ne	partage	 pratique 	 ment 	 	 aucun 	 e 	 	similarité	avec	le	virus	coxsackie	,	 mai 	 s 	 	je	peux	vous	 garant 	 ir 	 	que	les	 séquence 	 s 	 	qui	 s 	 ont 	 	le	plus	 conserv 	 ées 	 	,	 par 	 mi 	 	 ce 	 s 	 	virus	à	la	droite	de	 l' 	 écran 	 	le	 s 	 ont 	 	dans	des	 région 	 s 	 	 identique 	 s 	 	tout	en	haut	.
+donc	nous	 pouv 	 ons 	 	 incarne 	 r 	 	 ce 	 s 	 	 région 	 s 	 	 d' 	 ultra 	 	-	 conserv 	 ation 	 	tout	au	long	de	 l' 	 évolution 	 	--	la	 man 	 ière 	 	 do 	 nt 	 	 ce 	 s 	 	virus	ont	 évolué 	 s 	 	--	en	 choisi 	 ssant 	 	 simple 	 ment 	 	des	 élément 	 s 	 	d'adn	ou	d'arn	dans	 ce 	 s 	 	 région 	 s 	 	pour	les	 représent 	 er 	 	sur	 not 	 re 	 	puce	en	tant	que	 ré 	 actif 	 s 	 	de	 dépist 	 age 	 	.
+ok	,	donc	c'est	ce	que	nous	avons	fait	,	 mai 	 s 	 	comment	allons	-	nous	faire	cela	?
+bon	,	pendant	 long 	 temps 	 	,	 de 	 puis 	 	que	 j' 	 étais 	 	en	troisième	cycle	à	 l' 	 université 	 	,	je	me	suis	amusé	à	fabriquer	des	 puce 	 s 	 	adn	--	c'est	à	dire	,	à	 imprim 	 er 	 	de	l'adn	sur	du	 ver 	 re 	 	.
+ e 	 t 	 	c'est	ce	 qu' 	 on 	 	voit	ici	:	 ce 	 s 	 	petits	 gra 	 in 	 s 	 	de	 s 	 el 	 	 s 	 ont 	 	 simple 	 ment 	 	de	l'adn	fixé	sur	du	 ver 	 re 	 	,	 e 	 t 	 	je	peux	donc	en	mettre	des	 milli 	 er 	 s 	 	sur	 not 	 re 	 	puce	en	 ver 	 re 	 	 e 	 t 	 	les	utiliser	comme	des	 ré 	 actif 	 s 	 	de	détection	.
+nous	avons	amené	 not 	 re 	 	puce	chez	hewlett	-	packard	 e 	 t 	 	avons	utilisé	leur	 micro 	 scope 	 	à	force	atomique	sur	un	de	 ce 	 s 	 	 point 	 s 	 	,	 e 	 t 	 	voici	ce	que	 l' 	 on 	 	voit	:	on	peut	 vrai 	 ment 	 	voir	les	 brin 	 s 	 	d'adn	 couché 	 s 	 	sur	le	 ver 	 re 	 	ici	.
+donc	,	on	 imprim 	 e 	 	juste	de	l'adn	sur	du	 ver 	 re 	 	-	 ce 	 s 	 	petits	 truc 	 s 	 	 plat 	 s 	 	--	 e 	 t 	 	ils	vont	 servi 	 r 	 	de	 marque 	 urs 	 	pour	 agent 	 s 	 	 pathogène 	 s 	 	.
+ok	,	je	 fabri 	 que 	 	des	petits	 robot 	 s 	 	dans	le	 labo 	 ratoire 	 	pour	fabriquer	 ce 	 s 	 	 puce 	 s 	 	,	 e 	 t 	 	 j' 	 aime 	 	beaucoup	 dissémi 	 ner 	 	la	technologie	.
+si	vous	avez	assez	 d' 	 argent 	 	pour	vous	acheter	une	toyota	_UNK_	,	vous	 pouv 	 ez 	 	aussi	 construi 	 re 	 	un	de	ceux	là	,	 e 	 t 	 	nous	avons	mis	un	manuel	 dé 	 taillé 	 	sur	internet	,	 entière 	 ment 	 	gratuit	,	avec	des	 pièce 	 s 	 	standard	du	commerce	--	on	peut	 construi 	 re 	 	une	machine	à	fabriquer	des	 puce 	 s 	 	adn	dans	son	 gar 	 age 	 	.
+voici	la	 parti 	 e 	 	qui	traite	de	ce	 bou 	 ton 	 	capital	,	le	 bou 	 ton 	 	 d' 	 arrêt 	 	en	cas	 d' 	 urgence 	 	.
+ tout 	 e 	 	machine	 important 	 e 	 	doit	avoir	un	gros	 bou 	 ton 	 	rouge	.
+ mai 	 s 	 	en	 ré 	 alité 	 	,	c'est	assez	 solid 	 e 	 	.
+on	peut	 vrai 	 ment 	 	fabriquer	des	 puce 	 s 	 	adn	dans	son	 gar 	 age 	 	,	 e 	 t 	 	 dé 	 code 	 r 	 	des	 programme 	 s 	 	 génétique 	 s 	 	assez	 rapide 	 ment 	 	.	c'est	très	amusant	.
+ e 	 t 	 	donc	ce	que	nous	avons	fait	--	 e 	 t 	 	c'est	 vrai 	 ment 	 	un	super	projet	--	nous	avons	 simple 	 ment 	 	 commenc 	 é 	 	par	faire	une	puce	des	virus	 respir 	 atoire 	 s 	 	.
+j'en	ai	parlé	--	vous	 s 	 avez 	 	,	quand	on	va	dans	un	centre	de	consultation	 e 	 t 	 	 qu' 	 on 	 	ne	 diagnos 	 tique 	 	pas	ce	que	 l' 	 on 	 	a	?
+bon	,	en	gros	nous	avons	mis	tous	les	virus	 respir 	 atoire 	 s 	 	 humain 	 s 	 	sur	une	puce	,	 e 	 t 	 	nous	avons	 r 	 ajout 	 é 	 	le	virus	de	 l' 	 herpè 	 s 	 	pour	faire	bonne	mesure	--	après	tout	,	pourquoi	pas	?
+la	première	chose	que	 l' 	 on 	 	fait	en	tant	que	scientifique	est	de	 s' 	 assurer 	 	que	ça	marche	.
+ e 	 t 	 	donc	nous	avons	 simple 	 ment 	 	 pri 	 s 	 	des	 cellule 	 s 	 	de	culture	 tissu 	 laire 	 	 e 	 t 	 	nous	les	avons	 infecté 	 es 	 	avec	plusieurs	virus	,	 e 	 t 	 	nous	les	prenons	 e 	 t 	 	nous	 mar 	 quons 	 	de	façon	 fluorescent 	 e 	 	 l' 	 acide 	 	 nuclé 	 ique 	 	,	le	matériel	génétique	qui	 pro 	 vient 	 	de	 ce 	 s 	 	 cellule 	 s 	 	de	culture	 tissu 	 laire 	 	--	 principal 	 ement 	 	viral	--	 e 	 t 	 	on	le	met	sur	la	puce	pour	voir	où	il	 s 	 e 	 	colle	.
+or	,	si	les	 séquence 	 s 	 	d'adn	 correspond 	 ent 	 	,	ils	 s 	 e 	 	 coll 	 ent 	 	ensemble	,	 e 	 t 	 	donc	nous	 pouv 	 ons 	 	 regarde 	 r 	 	les	 point 	 s 	 	.
+ e 	 t 	 	si	les	 point 	 s 	 	 s' 	 éclaire 	 nt 	 	,	nous	 s 	 avons 	 	qu'il	y	a	un	certain	virus	là	 de 	 dans 	 	.
+ voil 	 à 	 	ce	à	quoi	ressemble	 vrai 	 ment 	 	une	de	 ce 	 s 	 	 puce 	 s 	 	,	 e 	 t 	 	 ce 	 s 	 	 point 	 s 	 	 rouge 	 s 	 	 s 	 ont 	 	en	fait	des	 signa 	 ux 	 	qui	 pro 	 viennent 	 	des	virus	.
+ e 	 t 	 	 cha 	 que 	 	point	 représent 	 e 	 	une	famille	de	virus	 différent 	 e 	 	ou	une	espèce	de	virus	 différent 	 e 	 	.
+ e 	 t 	 	donc	,	c'est	une	façon	 compliqué 	 e 	 	de	 regarde 	 r 	 	les	 chose 	 s 	 	,	donc	je	vais	juste	 code 	 r 	 	ça	comme	des	petits	 code 	 s 	 	 barre 	 s 	 	 re 	 groupé 	 s 	 	par	famille	,	pour	que	 l' 	 on 	 	 puis 	 s 	 e 	 	voir	les	 résultat 	 s 	 	de	façon	intuitive	.
+ voil 	 à 	 	ce	que	nous	avons	fait	,	nous	avons	 pri 	 s 	 	des	 cellule 	 s 	 	de	culture	 tissu 	 laire 	 	 e 	 t 	 	les	avons	 infecté 	 es 	 	avec	des	 adéno 	 virus 	 	,	 e 	 t 	 	vous	 pouv 	 ez 	 	voir	ce	petit	code	barre	jaune	à	côté	des	 adéno 	 virus 	 	.
+ e 	 t 	 	,	de	même	,	nous	les	avons	 infecté 	 es 	 	avec	le	virus	para	-	grippal	de	type	3	--	c'est	un	 para 	 myxo 	 virus 	 	--	 e 	 t 	 	vous	voyez	un	petit	code	barre	ici	.
+ e 	 t 	 	 en 	 suite 	 	nous	nous	 somme 	 s 	 	occupé	du	virus	 respir 	 atoire 	 	 s 	 yncytial 	 	.
+c'est	 par 	 tout 	 	un	fléau	pour	les	 crè 	 che 	 s 	 	--	c'est	comme	une	épidémie	de	 crott 	 es 	 	du	nez	.
+vous	 pouv 	 ez 	 	voir	--	vous	 pouv 	 ez 	 	voir	que	ce	code	barre	est	de	la	même	famille	,	 mai 	 s 	 	qu'il	est	distinct	de	la	para	-	grippe	de	type	3	,	 le 	 quel 	 	vous	donne	un	très	mauvais	 r 	 hum 	 e 	 	.
+ e 	 t 	 	ainsi	nous	 obten 	 ons 	 	des	 signa 	 ture 	 s 	 	 unique 	 s 	 	,	une	empreinte	pour	 cha 	 que 	 	virus	.
+polio	 e 	 t 	 	rhino	:	ils	 s 	 ont 	 	dans	la	même	famille	,	très	 pro 	 che 	 s 	 	 l' 	 un 	 	de	 l' 	 autre 	 	.
+rhino	est	le	 r 	 hum 	 e 	 	commun	,	 e 	 t 	 	vous	 s 	 avez 	 	tous	ce	 qu' 	 est 	 	la	polio	,	 e 	 t 	 	vous	 pouv 	 ez 	 	voir	que	 ce 	 s 	 	 signa 	 ture 	 s 	 	 s 	 ont 	 	 distinct 	 es 	 	.
+ e 	 t 	 	le	virus	de	 l' 	 herpè 	 s 	 	associé	au	sarcome	de	_UNK_	nous	donne	une	jolie	petite	 signa 	 ture 	 	ici	en	-	bas	.
+ e 	 t 	 	ainsi	ce	n'est	pas	 n' 	 importe 	 	quelle	bande	ou	truc	qui	nous	dit	que	nous	avons	un	virus	 d' 	 un 	 	type	particulier	ici	;	c'est	le	code	barre	qui	dans	son	ensemble	le	 représent 	 e 	 	 entière 	 ment 	 	.
+ d' 	 accord 	 	,	je	peux	voir	un	 rhino 	 virus 	 	--	 e 	 t 	 	voici	un	 agrandi 	 ssement 	 	du	petit	code	barre	du	 rhino 	 virus 	 	--	 mai 	 s 	 	 qu' 	 en 	 	est	-	il	des	 différent 	 s 	 	 rhino 	 virus 	 	?
+comment	est	-	ce	que	je	 s 	 ais 	 	quel	 rhino 	 virus 	 	j'ai	?
+il	y	a	102	 vari 	 antes 	 	 connu 	 es 	 	du	 r 	 hum 	 e 	 	commun	,	 e 	 t 	 	il	 n' 	 y 	 	en	a	que	102	parce	que	les	 gen 	 s 	 	ont	en	eu	 mar 	 re 	 	de	les	 recueilli 	 r 	 	:	il	y	en	a	 simple 	 ment 	 	de	 nouveau 	 x 	 	qui	 apparaisse 	 nt 	 	 cha 	 que 	 	année	.
+ e 	 t 	 	donc	voici	quatre	 rhino 	 virus 	 	 différent 	 s 	 	,	 e 	 t 	 	vous	 pouv 	 ez 	 	voir	,	même	à	 l' 	 oeil 	 	nu	,	sans	aucun	de	 ce 	 s 	 	 programme 	 s 	 	 informatique 	 s 	 	 sophistiqué 	 s 	 	de	 re 	 connaissance 	 	des	formes	,	que	vous	 pouv 	 ez 	 	 distingue 	 r 	 	chacun	de	 ce 	 s 	 	 code 	 s 	 	 barre 	 s 	 	des	 autre 	 s 	 	.
+bon	,	c'est	un	peu	de	la	triche	,	parce	que	je	connais	la	séquence	génétique	de	tous	 ce 	 s 	 	 rhino 	 virus 	 	 e 	 t 	 	j'ai	en	fait	conçu	 ce 	 tte 	 	puce	 express 	 é 	 ment 	 	pour	être	capable	de	les	 distingue 	 r 	 	,	 mai 	 s 	 	 qu' 	 en 	 	est	-	il	des	 rhino 	 virus 	 	qui	 n' 	 ont 	 	jamais	vu	un	_UNK_	génétique	?
+nous	ne	 s 	 avons 	 	pas	quelle	est	leur	séquence	,	on	les	a	juste	 sorti 	 s 	 	du	terrain	.
+donc	,	voici	quatre	 rhino 	 virus 	 	 do 	 nt 	 	on	ne	connait	rien	--	personne	ne	les	a	jamais	_UNK_	--	 e 	 t 	 	vous	 pouv 	 ez 	 	aussi	voir	que	 l' 	 on 	 	obtient	des	 modèle 	 s 	 	 unique 	 s 	 	 e 	 t 	 	 re 	 connaissable 	 s 	 	.
+on	peut	imaginer	 construi 	 re 	 	une	collection	,	 ré 	 elle 	 	ou	 virtuel 	 le 	 	,	des	 empreinte 	 s 	 	de	 cha 	 que 	 	virus	.
+ mai 	 s 	 	ça	aussi	c'est	un	combat	 gag 	 né 	 	 d' 	 avance 	 	,	vous	 s 	 avez 	 	,	n'est	-	ce	pas	?
+on	a	des	 cellule 	 s 	 	de	culture	 tissu 	 laire 	 	:	il	y	a	une	tonne	de	virus	.
+ qu' 	 en 	 	est	-	il	des	 vrai 	 s 	 	 gen 	 s 	 	?
+on	ne	peut	pas	 contrô 	 ler 	 	les	 vrai 	 s 	 	 gen 	 s 	 	,	comme	vous	le	 s 	 avez 	 	 prob 	 able 	 ment 	 	.
+on	n'a	 aucun 	 e 	 	idée	de	ce	que	 quel 	 qu'un 	 	va	 tousse 	 r 	 	dans	un	 go 	 be 	 let 	 	,	 e 	 t 	 	c'est	 prob 	 able 	 ment 	 	 vrai 	 ment 	 	 complex 	 e 	 	,	n'est	-	ce	pas	?
+il	peut	y	avoir	beaucoup	de	 bactérie 	 s 	 	,	il	peut	y	avoir	plus	 d' 	 un 	 	virus	,	 e 	 t 	 	il	y	a	 certain 	 ement 	 	du	matériel	génétique	de	 l' 	 hôte 	 	,	donc	comment	 abord 	 e 	 	t	-	on	cela	?
+ e 	 t 	 	comment	faisons	-	nous	un	 contrô 	 le 	 	positif	dans	ce	cas	?
+ e 	 h 	 	bien	,	c'est	assez	simple	.
+ça	c'est	moi	,	 subi 	 ssant 	 	un	lavage	 na 	 s 	 al 	 	.
+ e 	 t 	 	 l' 	 idée 	 	c'est	,	 inocul 	 ons 	 	 expéri 	 mentale 	 ment 	 	un	virus	à	des	 personne 	 s 	 	 e 	 t 	 	ainsi	nous	--	 ce 	 ci 	 	a	été	approuvé	par	le	 com 	 ité 	 	 d' 	 éthique 	 	 médical 	 e 	 	,	au	fait	,	ils	 s 	 ont 	 	 payé 	 s 	 	.
+ e 	 t 	 	en	gros	nous	 inocul 	 ons 	 	 expéri 	 mentale 	 ment 	 	aux	 gen 	 s 	 	le	virus	du	 r 	 hum 	 e 	 	commun	.
+ou	,	encore	 mi 	 eux 	 	,	prenons	 simple 	 ment 	 	des	 gen 	 s 	 	 directe 	 ment 	 	des	 urgence 	 s 	 	--	des	 infection 	 s 	 	 communautaire 	 s 	 	des	 voie 	 s 	 	 respir 	 atoire 	 s 	 	non	 défini 	 es 	 	.
+vous	 n' 	 avez 	 	pas	idée	de	tout	ce	que	nous	voyons	 arrive 	 r 	 	.
+bien	,	 comme 	 nçons 	 	 d' 	 abord 	 	par	le	 contrô 	 le 	 	positif	,	celui	où	nous	 s 	 avons 	 	que	la	personne	était	en	bonne	 s 	 ant 	 é 	 	.
+on	leur	fait	une	injection	de	virus	dans	le	nez	,	voyons	ce	qui	arrive	.
+premier	jour	:	rien	ne	 s 	 e 	 	passe	.
+ils	 s 	 ont 	 	en	bonne	 s 	 ant 	 é 	 	;	ils	 s 	 ont 	 	 propre 	 s 	 	--	c'est	incroyable	.
+en	fait	,	on	 pens 	 ait 	 	que	les	 voie 	 s 	 	_UNK_	 pour 	 raient 	 	être	 plein 	 es 	 	de	virus	même	quand	on	 s 	 e 	 	balade	en	bonne	 s 	 ant 	 é 	 	.
+elles	 s 	 ont 	 	 plu 	 tôt 	 	 propre 	 s 	 	.	si	on	est	en	bonne	 s 	 ant 	 é 	 	,	on	est	en	assez	bonne	 s 	 ant 	 é 	 	.
+troisième	jour	:	on	obtient	un	modèle	de	 rhino 	 virus 	 	très	marqué	,	 e 	 t 	 	ça	ressemble	beaucoup	à	ce	que	nous	 obten 	 ons 	 	en	labo	quand	nous	faisons	 not 	 re 	 	expérience	avec	une	culture	 tissu 	 laire 	 	.
+donc	c'est	super	,	 mai 	 s 	 	encore	une	fois	,	c'est	de	la	triche	,	 d' 	 accord 	 	?
+on	injecte	une	tonne	de	virus	dans	le	nez	de	ce	type	.	donc	--	--	je	veux	dire	,	nous	 voul 	 ions 	 	que	ça	marche	.	je	veux	dire	,	il	a	 vrai 	 ment 	 	eu	un	 r 	 hum 	 e 	 	.
+bon	,	 e 	 t 	 	les	 gen 	 s 	 	qui	viennent	 directe 	 ment 	 	de	 l' 	 extérieur 	 	?
+voici	donc	deux	 individu 	 s 	 	 représent 	 és 	 	par	 leur 	 s 	 	 code 	 s 	 	 d' 	 identité 	 	 anonyme 	 s 	 	.
+tous	les	deux	ont	des	 rhino 	 virus 	 	;	nous	 n' 	 avons 	 	jamais	vu	ce	modèle	en	labo	.
+nous	 s 	 é 	 que 	 nçons 	 	une	 parti 	 e 	 	de	 leur 	 s 	 	virus	;	ce	 s 	 ont 	 	de	 nouveau 	 x 	 	 rhino 	 virus 	 	que	 vrai 	 ment 	 	personne	n'a	jamais	vu	.
+ r 	 appelez 	 	-	vous	,	 no 	 s 	 	 séquence 	 s 	 	 conserv 	 ées 	 	 mal 	 gré 	 	 l' 	 évolution 	 	que	nous	utilisons	sur	 ce 	 tte 	 	puce	nous	 permette 	 nt 	 	de	 détecte 	 r 	 	des	virus	même	non	-	 caractér 	 isés 	 	ou	 nouveau 	 x 	 	,	parce	que	nous	 sélection 	 nons 	 	ce	qui	est	 conserv 	 é 	 	tout	au	long	de	 l' 	 évolution 	 	.
+voici	un	autre	type	.	vous	 pouv 	 ez 	 	 joue 	 r 	 	au	jeu	du	 diagnos 	 tic 	 	.
+ ce 	 s 	 	 différent 	 s 	 	 bloc 	 s 	 	 représent 	 ent 	 	les	 différent 	 s 	 	virus	de	 ce 	 tte 	 	famille	de	 para 	 myxo 	 virus 	 	,	donc	vous	 pouv 	 ez 	 	prendre	 ce 	 s 	 	 bloc 	 s 	 	un	par	un	 e 	 t 	 	voir	où	est	le	signal	.
+bien	,	il	n'a	pas	la	maladie	de	carré	des	 chien 	 s 	 	,	ce	qui	est	 prob 	 able 	 ment 	 	une	bonne	chose	.
+ mai 	 s 	 	quand	on	arrive	au	bloc	numéro	neuf	,	on	voit	ce	virus	 s 	 yncytial 	 	 respir 	 atoire 	 	.
+peut	-	être	ont	-	ils	des	 enfant 	 s 	 	.	 e 	 t 	 	puis	on	peut	aussi	voir	le	membre	de	la	famille	qui	est	lié	:	on	peut	voir	ici	le	sous	-	type	b	du	_UNK_	.
+bon	,	c'est	super	.
+voici	un	autre	individu	,	pour	 le 	 quel 	 	on	a	prélevé	des	 échantillon 	 s 	 	sur	deux	 jour 	 s 	 	 différent 	 s 	 	--	 visite 	 s 	 	 répété 	 es 	 	au	centre	de	consultation	.
+ ce 	 t 	 	individu	a	le	virus	 para 	 grippal 	 	de	type	1	,	 e 	 t 	 	on	peut	voir	qu'il	y	a	 ce 	 tte 	 	petite	bande	par	ici	pour	le	virus	de	sendai	:	c'est	la	_UNK_	de	la	 souri 	 s 	 	.
+la	 parent 	 é 	 	génétique	est	très	 pro 	 che 	 	là	.	c'est	très	amusant	.
+donc	,	nous	avons	construit	la	puce	.
+nous	avons	fabriqué	une	puce	sur	 la 	 quelle 	 	il	y	a	tous	les	virus	 connu 	 s 	 	.
+pourquoi	pas	?	tous	les	virus	de	 plante 	 s 	 	,	tous	les	virus	 d' 	 insecte 	 s 	 	,	tous	les	virus	 marin 	 s 	 	.
+tout	ce	que	nous	avons	pu	obtenir	de	la	banque	de	gènes	genbank	--	qui	est	le	dépôt	national	des	 séquence 	 s 	 	.
+ main 	 tenant 	 	nous	utilisons	 ce 	 tte 	 	puce	.	 e 	 t 	 	pour	quoi	 l' 	 utilisons 	 	-	nous	?
+bon	,	 d' 	 abord 	 	,	quand	on	a	une	grosse	puce	comme	celle	-	ci	,	on	a	besoin	 d' 	 un 	 	peu	plus	 d' 	 informatique 	 	,	donc	nous	avons	conçu	un	système	pour	faire	le	 diagnos 	 tique 	 	 automat 	 iquement 	 	.
+ e 	 t 	 	 l' 	 idée 	 	c'est	que	,	nous	avons	 simple 	 ment 	 	des	 modèle 	 s 	 	 virtuel 	 s 	 	--	parce	que	nous	 n' 	 aurons 	 	jamais	des	 échantillon 	 s 	 	de	 cha 	 que 	 	virus	;	cela	 s 	 e 	 rait 	 	 pratique 	 ment 	 	impossible	.	 mai 	 s 	 	nous	 pouv 	 ons 	 	obtenir	des	 modèle 	 s 	 	 virtuel 	 s 	 	,	 e 	 t 	 	les	 compare 	 r 	 	au	résultat	 observ 	 é 	 	,	qui	est	un	mélange	très	 complex 	 e 	 	,	 e 	 t 	 	 sug 	 gérer 	 	une	 sort 	 e 	 	de	note	qui	donne	la	 prob 	 abilité 	 	que	ce	soit	un	 rhino 	 virus 	 	ou	autre	chose	.
+ e 	 t 	 	voici	à	quoi	ça	ressemble	.
+si	,	par	exemple	,	on	utilise	une	cellule	de	culture	qui	est	 infecté 	 e 	 	de	façon	chronique	avec	un	papillome	,	voici	ce	qui	 s' 	 affiche 	 	sur	 l' 	 ordinateur 	 	,	 e 	 t 	 	 not 	 re 	 	algorithme	dit	qu'il	 s 	 'agit 	 	 prob 	 able 	 ment 	 	du	papillome	de	type	18	.
+ e 	 t 	 	c'est	,	en	fait	,	ce	avec	quoi	 ce 	 s 	 	 cellule 	 s 	 	-	là	 s 	 ont 	 	 infecté 	 es 	 	de	façon	chronique	.
+bon	,	faisons	quelque	chose	 d' 	 un 	 	peu	plus	difficile	.
+nous	mettons	le	_UNK_	dans	le	centre	de	consultation	.
+quand	 quel 	 qu'un 	 	 s 	 e 	 	 présent 	 e 	 	,	 e 	 t 	 	que	 l' 	 hôpital 	 	ne	 s 	 ait 	 	pas	quoi	faire	parce	 qu'il 	 s 	 	ne	peuvent	pas	faire	de	 diagnos 	 tique 	 	,	ils	nous	 appelle 	 nt 	 	.
+ voil 	 à 	 	 l' 	 idée 	 	,	 e 	 t 	 	nous	la	mettons	en	place	dans	la	région	de	san	 franc 	 is 	 co 	 	.
+ e 	 t 	 	donc	,	il	y	a	trois	 semaine 	 s 	 	ce	cas	nous	a	été	signalé	.
+nous	avons	une	femme	de	28	 an 	 s 	 	en	bonne	 s 	 ant 	 é 	 	,	qui	n'a	pas	 voyag 	 é 	 	,	[	 in 	 distinct 	 	]	,	qui	ne	 fum 	 e 	 	pas	,	qui	ne	boit	pas	.
+10	 jour 	 s 	 	de	fièvre	,	de	 su 	 eurs 	 	 nocturne 	 s 	 	,	_UNK_	 sanglant 	 es 	 	--	elle	crache	du	sang	--	de	 douleur 	 s 	 	 musculaire 	 s 	 	.
+elle	est	allée	au	centre	de	consultation	,	 e 	 t 	 	ils	lui	ont	donné	des	 anti 	 biotique 	 s 	 	,	bien	,	 e 	 t 	 	puis	ils	 l' 	 ont 	 	 r 	 envoyé 	 e 	 	chez	elle	.
+elle	est	 re 	 venue 	 	après	dix	 jour 	 s 	 	de	fièvre	--	elle	a	 tou 	 jour 	 s 	 	de	la	fièvre	--	 e 	 t 	 	elle	 souff 	 re 	 	_UNK_	--	elle	n'a	pas	beaucoup	 d' 	 oxygène 	 	dans	les	 poumon 	 s 	 	.
+ils	lui	ont	fait	un	ct	scan	.
+un	poumon	normal	est	tout	bleu	 e 	 t 	 	noir	ici	.
+tout	ce	blanc	--	ce	n'est	pas	bon	.
+ ce 	 tte 	 	 sort 	 e 	 	de	formation	en	arbre	 e 	 t 	 	en	 bourgeon 	 s 	 	indique	qu'il	y	a	une	inflammation	;	il	y	a	 prob 	 able 	 ment 	 	une	infection	.
+ok	.	donc	la	 patient 	 e 	 	a	alors	été	traitée	avec	une	_UNK_	,	un	 anti 	 biotique 	 	de	troisième	génération	,	 e 	 t 	 	de	la	_UNK_	,	 e 	 t 	 	le	troisième	jour	,	ça	 n' 	 avait 	 	rien	fait	:	elle	_UNK_	vers	une	 in 	 suffisance 	 	aigüe	.
+ils	ont	dû	_UNK_	,	donc	ils	lui	ont	mis	un	tube	dans	la	gorge	 e 	 t 	 	ils	ont	 commenc 	 é 	 	à	la	 vent 	 il 	 er 	 	 mécanique 	 ment 	 	.
+elle	ne	 pouv 	 ait 	 	plus	 respir 	 er 	 	par	elle	-	même	.
+que	faire	 main 	 tenant 	 	?	pas	 d' 	 idée 	 	.
+ change 	 r 	 	les	 anti 	 biotique 	 s 	 	,	donc	ils	lui	ont	donné	un	autre	 anti 	 biotique 	 	,	 e 	 t 	 	du	tamiflu	,	qui	--	ce	n'est	pas	clair	pourquoi	ils	 pens 	 aient 	 	 qu' 	 elle 	 	avait	la	grippe	--	 mai 	 s 	 	ils	 l' 	 ont 	 	mise	sous	tamiflu	.
+ e 	 t 	 	le	 six 	 ième 	 	jour	,	ils	ont	 pratique 	 ment 	 	jeté	 l' 	 éponge 	 	.
+on	pratique	une	biopsie	pulmonaire	 ouvert 	 e 	 	quand	on	n'a	pas	 d' 	 autre 	 s 	 	choix	.
+il	y	a	un	taux	de	mortalité	de	huit	pour	cent	du	simple	fait	de	 pratique 	 r 	 	 ce 	 tte 	 	intervention	,	 e 	 t 	 	donc	en	fait	--	 e 	 t 	 	que	nous	apprend	-	elle	?
+ce	que	vous	regardez	c'est	 s 	 a 	 	biopsie	pulmonaire	 ouvert 	 e 	 	.
+je	ne	suis	pas	un	 patho 	 logiste 	 	,	 mai 	 s 	 	on	ne	peut	pas	en	 dé 	 duire 	 	grand	chose	.
+tout	ce	 qu' 	 on 	 	peut	dire	c'est	qu'il	y	a	un	_UNK_	important	:	_UNK_	.
+ce	 n' 	 était 	 	pas	 révéla 	 teur 	 	:	c'est	ce	que	dit	le	rapport	du	 patho 	 logiste 	 	.
+ e 	 t 	 	donc	,	ils	lui	 fi 	 rent 	 	 subi 	 r 	 	 quel 	 s 	 	 test 	 s 	 	?
+ils	ont	leur	 propre 	 s 	 	 test 	 s 	 	,	bien	sûr	,	 e 	 t 	 	donc	ils	lui	ont	fait	 subi 	 r 	 	70	 test 	 s 	 	 différent 	 s 	 	,	pour	 tout 	 es 	 	les	 sort 	 es 	 	de	bactérie	,	_UNK_	 e 	 t 	 	virus	que	 l' 	 on 	 	peut	acheter	tout	 prêt 	 s 	 	:	sras	,	_UNK_	,	vih	,	_UNK_	--	tous	ceux	-	là	.
+tout	est	 re 	 venu 	 	négatif	.	plus	de	100.000	 dollar 	 s 	 	de	 test 	 s 	 	.
+je	veux	dire	,	ils	ont	fait	le	 maxim 	 um 	 	pour	 ce 	 tte 	 	femme	.
+ e 	 t 	 	en	fait	ils	nous	ont	 appelé 	 s 	 	lors	de	son	 huit 	 ième 	 	jour	 d' 	 hospitalisation 	 	.
+ils	nous	 donn 	 èrent 	 	une	aspiration	_UNK_	--	vous	 s 	 avez 	 	,	un	peu	de	 liquid 	 e 	 	prélevé	dans	la	gorge	,	venant	du	tube	 qu'il 	 s 	 	lui	avaient	mis	là	--	 e 	 t 	 	il	nous	le	 donn 	 èrent 	 	.
+nous	 l' 	 avons 	 	mis	sur	la	puce	;	 qu' 	 avons 	 	nous	vu	?	 e 	 t 	 	bien	,	nous	avons	vu	le	virus	 para 	 grippal 	 	de	type	4	.
+ mai 	 s 	 	,	 qu' 	 est 	 	-	ce	-	que	ça	peut	bien	être	le	virus	 para 	 grippal 	 	de	type	4	?
+personne	ne	fait	de	 contrô 	 le 	 	pour	le	virus	 para 	 grippal 	 	de	type	_UNK_	personne	ne	s'en	 souci 	 e 	 	.
+en	fait	,	il	n'a	pas	 vrai 	 ment 	 	été	 séquenc 	 é 	 	tant	que	ca	.
+on	 n' 	 en 	 	a	 séquenc 	 é 	 	qu'un	petit	bout	.
+il	 n' 	 y 	 	a	 pratique 	 ment 	 	pas	eu	de	recherche	 épidémio 	 logique 	 	ni	 d' 	 étude 	 s 	 	à	son	sujet	.
+personne	ne	l'a	même	envisagé	,	parce	que	personne	 n' 	 avait 	 	la	 mo 	 indre 	 	idée	qu'il	 pouv 	 ait 	 	 provoque 	 r 	 	une	 in 	 suffisance 	 	 respir 	 atoire 	 	.
+ e 	 t 	 	pourquoi	cela	?	la	simple	habitude	.	il	 n' 	 y 	 	a	pas	de	 donné 	 s 	 	--	pas	de	 donné 	 es 	 	qui	 montre 	 nt 	 	 s' 	 il 	 	provoque	une	maladie	grave	ou	bénigne	.
+ manifest 	 ement 	 	,	nous	avons	le	cas	 d' 	 une 	 	personne	en	bonne	 s 	 ant 	 é 	 	qui	va	de	plus	en	plus	mal	.
+ok	,	c'est	le	compte	rendu	 d' 	 un 	 	cas	.
+je	vais	vous	dire	une	 der 	 nière 	 	chose	dans	les	deux	 minute 	 s 	 	qui	 rest 	 ent 	 	qui	n'a	pas	été	 publié 	 e 	 	--	cela	va	être	rendu	public	demain	--	 e 	 t 	 	c'est	un	exemple	intéressant	 d' 	 utilisation 	 	de	 ce 	 tte 	 	puce	pour	trouver	quelque	chose	de	nouveau	 e 	 t 	 	ouvrir	une	nouvelle	voie	.
+le	cancer	de	la	prostate	.	je	n'ai	pas	besoin	de	vous	donner	plein	de	 statistique 	 s 	 	sur	le	cancer	de	la	prostate	.	la	 plu 	 part 	 	 d' 	 entre 	 	vous	les	 connaisse 	 nt 	 	 dé 	 jà 	 	:	la	troisième	cause	de	 dé 	 cès 	 	par	cancer	aux	etats	-	 uni 	 s 	 	.
+beaucoup	de	 facteur 	 s 	 	de	risque	,	 mai 	 s 	 	il	y	a	une	 prédis 	 position 	 	génétique	au	cancer	de	la	prostate	.
+dans	peut	-	être	10	pour	cent	des	 cancer 	 s 	 	de	la	prostate	,	il	y	a	des	 gen 	 s 	 	qui	y	 s 	 ont 	 	_UNK_	.
+ e 	 t 	 	le	premier	gène	qui	a	été	cartographié	dans	les	 étude 	 s 	 	 d' 	 association 	 	sur	ça	,	le	cancer	de	la	prostate	chez	 l' 	 homme 	 	 je 	 une 	 	,	était	le	gène	qui	 s' 	 appelle 	 	rnasel	.
+ qu' 	 est 	 	-	ce	que	c'est	?	c'est	une	enzyme	 anti 	 virale 	 	.
+donc	nous	 rest 	 ons 	 	assis	à	 ré 	 fléchir 	 	,	pourquoi	les	 homme 	 s 	 	qui	ont	 ce 	 tte 	 	mutation	,	un	 dé 	 faut 	 	dans	le	système	de	défense	 anti 	 viral 	 	,	_UNK_	-	ils	un	cancer	de	la	prostate	?
+ça	n'est	pas	logique	--	sauf	si	,	peut	-	être	,	il	y	a	un	virus	.
+donc	,	nous	avons	mis	des	 tum 	 eurs 	 	--	 e 	 t 	 	nous	avons	 main 	 tenant 	 	plus	de	100	 tum 	 eurs 	 	--	sur	 not 	 re 	 	puce	.
+ e 	 t 	 	nous	 s 	 avons 	 	qui	a	ou	non	un	rnasel	 défect 	 ueux 	 	.
+ e 	 t 	 	je	vous	montre	ici	le	signal	sur	la	puce	,	 e 	 t 	 	je	vous	le	montre	pour	le	bloc	des	_UNK_	de	 rétro 	 virus 	 	.
+ e 	 t 	 	ce	que	je	vous	dis	ici	à	 parti 	 r 	 	du	signal	est	que	les	 homme 	 s 	 	qui	ont	une	mutation	de	 ce 	 tte 	 	enzyme	 anti 	 virale 	 	,	 e 	 t 	 	qui	ont	une	 tum 	 eur 	 	,	ont	 sou 	 vent 	 	--	40	pour	cent	des	cas	--	une	 signa 	 ture 	 	qui	révèle	un	nouveau	 rétro 	 virus 	 	.
+ok	,	c'est	 plu 	 tôt 	 	fou	.	 qu' 	 est 	 	-	ce	c'est	?
+donc	,	nous	_UNK_	le	virus	en	entier	.
+ d' 	 abord 	 	,	je	vous	dirai	 qu'un 	 e 	 	rapide	 pré 	 vision 	 	 automat 	 isée 	 	nous	a	dit	qu'il	était	très	 sembla 	 ble 	 	à	un	virus	de	 souri 	 s 	 	.
+ mai 	 s 	 	ça	ne	nous	dit	pas	grand	chose	,	donc	nous	 l' 	 avons 	 	 vrai 	 ment 	 	 clo 	 né 	 	en	entier	.
+ e 	 t 	 	le	génome	que	je	vous	montre	juste	ici	?
+c'est	un	 rétro 	 virus 	 	 gamm 	 a 	 	 class 	 ique 	 	,	 mai 	 s 	 	il	est	 total 	 ement 	 	nouveau	;	on	ne	 l' 	 avait 	 	jamais	vu	avant	.
+son	plus	 pro 	 che 	 	parent	vient	,	en	fait	,	des	 souri 	 s 	 	,	 e 	 t 	 	donc	nous	 l'appel 	 ons 	 	un	 rétro 	 virus 	 	_UNK_	,	parce	qu'il	infecte	une	autre	espèce	que	les	 souri 	 s 	 	.
+ e 	 t 	 	 ce 	 ci 	 	est	un	petit	arbre	 phylo 	 génétique 	 	pour	voir	 quelle 	 s 	 	 s 	 ont 	 	 s 	 es 	 	 re 	 lation 	 s 	 	de	 parent 	 é 	 	avec	les	 autre 	 s 	 	virus	.
+ e 	 t 	 	 en 	 suite 	 	nous	avons	fait	cela	pour	de	 nombre 	 ux 	 	 patient 	 s 	 	,	 e 	 t 	 	nous	 pouv 	 ons 	 	dire	que	 tout 	 es 	 	 ce 	 s 	 	 infection 	 s 	 	 s 	 ont 	 	 in 	 dépendant 	 es 	 	.
+ils	ont	tous	le	même	virus	,	 mai 	 s 	 	ils	 s 	 ont 	 	 suffi 	 samment 	 	 différent 	 s 	 	pour	 qu' 	 on 	 	ait	des	 rais 	 ons 	 	de	croire	 qu'il 	 s 	 	ont	été	infecté	 in 	 dépend 	 am 	 ment 	 	.
+est	-	ce	 vrai 	 ment 	 	dans	les	 tissu 	 s 	 	.	 e 	 t 	 	je	 fini 	 rai 	 	là	-	dessus	.	oui	.
+nous	prenons	des	 coupe 	 s 	 	de	 ce 	 s 	 	 biopsie 	 s 	 	de	 tissu 	 s 	 	_UNK_	 e 	 t 	 	utilisons	ce	matériel	pour	 localise 	 r 	 	 vrai 	 ment 	 	les	virus	,	 e 	 t 	 	nous	 trouv 	 ons 	 	ici	des	 cellule 	 s 	 	qui	 con 	 tiennent 	 	des	 particule 	 s 	 	 virale 	 s 	 	.
+ ce 	 s 	 	 type 	 s 	 	ont	 vrai 	 ment 	 	ce	virus	.
+ce	virus	provoque	-	t	-	il	le	cancer	de	la	prostate	?
+rien	de	ce	que	je	dis	ici	 n' 	 implique 	 	la	 caus 	 alité 	 	.	je	ne	 s 	 ais 	 	pas	.
+est	-	ce	un	 li 	 en 	 	vers	_UNK_	?	je	ne	 s 	 ais 	 	pas	.
+est	-	ce	parce	que	 ce 	 s 	 	 type 	 s 	 	 s 	 ont 	 	 d 	 avantage 	 	 sujet 	 s 	 	aux	virus	?
+c'est	possible	.	 e 	 t 	 	ça	peut	 n' 	 avoir 	 	rien	à	voir	avec	le	cancer	.
+ mai 	 s 	 	 main 	 tenant 	 	ça	ouvre	une	voie	.
+nous	avons	une	 fort 	 e 	 	association	entre	la	présence	de	ce	virus	 e 	 t 	 	une	mutation	génétique	que	 l' 	 on 	 	a	liée	au	cancer	.
+ voil 	 à 	 	où	nous	en	 somme 	 s 	 	.
+donc	,	je	 cra 	 in 	 s 	 	que	ça	pose	plus	de	 question 	 s 	 	que	ça	ne	donne	de	 réponse 	 s 	 	,	 mai 	 s 	 	ça	,	vous	 s 	 avez 	 	,	c'est	le	point	fort	de	la	science	.
+tout	cela	est	fait	par	les	 gen 	 s 	 	dans	le	labo	;	pour	la	 majeur 	 e 	 	 parti 	 e 	 	je	ne	peux	pas	m'en	 attribue 	 r 	 	le	mérite	.
+c'est	une	 col 	 laboration 	 	entre	moi	-	même	 e 	 t 	 	don	.
+c'est	le	type	qui	a	 commenc 	 é 	 	le	projet	dans	mon	labo	,	 e 	 t 	 	lui	c'est	le	type	qui	a	fait	les	 truc 	 s 	 	sur	la	prostate	.
+merci	beaucoup	.
+

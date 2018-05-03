@@ -1,0 +1,240 @@
+
+
+
+EN-TR TOK TRAIN data files stats
+----------------------
+ class : art posPriFCnt 170 negPriFCnt 776 posSecFCnt 170 negSecFCnt 776
+ class : arts posPriFCnt 118 negPriFCnt 828 posSecFCnt 118 negSecFCnt 828
+ class : biology posPriFCnt 62 negPriFCnt 883 posSecFCnt 62 negSecFCnt 883
+ class : business posPriFCnt 171 negPriFCnt 775 posSecFCnt 171 negSecFCnt 775
+ class : creativity posPriFCnt 67 negPriFCnt 879 posSecFCnt 67 negSecFCnt 879
+ class : culture posPriFCnt 283 negPriFCnt 662 posSecFCnt 283 negSecFCnt 662
+ class : design posPriFCnt 227 negPriFCnt 719 posSecFCnt 227 negSecFCnt 719
+ class : economics posPriFCnt 58 negPriFCnt 888 posSecFCnt 58 negSecFCnt 888
+ class : education posPriFCnt 84 negPriFCnt 862 posSecFCnt 84 negSecFCnt 862
+ class : entertainment posPriFCnt 164 negPriFCnt 782 posSecFCnt 164 negSecFCnt 782
+ class : global posPriFCnt 229 negPriFCnt 717 posSecFCnt 229 negSecFCnt 717
+ class : health posPriFCnt 87 negPriFCnt 859 posSecFCnt 87 negSecFCnt 859
+ class : politics posPriFCnt 87 negPriFCnt 859 posSecFCnt 87 negSecFCnt 859
+ class : science posPriFCnt 260 negPriFCnt 685 posSecFCnt 260 negSecFCnt 685
+ class : technology posPriFCnt 333 negPriFCnt 613 posSecFCnt 333 negSecFCnt 613
+
+
+
+EN-TR TOK TEST data files stats
+----------------------
+ class : art posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : arts posPriFCnt 5 negPriFCnt 50 posSecFCnt 5 negSecFCnt 50
+ class : biology posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : business posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : creativity posPriFCnt 2 negPriFCnt 53 posSecFCnt 2 negSecFCnt 53
+ class : culture posPriFCnt 12 negPriFCnt 43 posSecFCnt 12 negSecFCnt 43
+ class : design posPriFCnt 8 negPriFCnt 47 posSecFCnt 8 negSecFCnt 47
+ class : economics posPriFCnt 1 negPriFCnt 54 posSecFCnt 1 negSecFCnt 54
+ class : education posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : entertainment posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : global posPriFCnt 7 negPriFCnt 48 posSecFCnt 7 negSecFCnt 48
+ class : health posPriFCnt 5 negPriFCnt 50 posSecFCnt 5 negSecFCnt 50
+ class : politics posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : science posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : technology posPriFCnt 12 negPriFCnt 43 posSecFCnt 12 negSecFCnt 43
+
+
+
+EN-TR MORPH TRAIN data files stats
+----------------------
+ class : art posPriFCnt 170 negPriFCnt 776 posSecFCnt 170 negSecFCnt 776
+ class : arts posPriFCnt 118 negPriFCnt 828 posSecFCnt 118 negSecFCnt 828
+ class : biology posPriFCnt 62 negPriFCnt 883 posSecFCnt 62 negSecFCnt 883
+ class : business posPriFCnt 171 negPriFCnt 775 posSecFCnt 171 negSecFCnt 775
+ class : creativity posPriFCnt 67 negPriFCnt 879 posSecFCnt 67 negSecFCnt 879
+ class : culture posPriFCnt 283 negPriFCnt 662 posSecFCnt 283 negSecFCnt 662
+ class : design posPriFCnt 227 negPriFCnt 719 posSecFCnt 227 negSecFCnt 719
+ class : economics posPriFCnt 58 negPriFCnt 888 posSecFCnt 58 negSecFCnt 888
+ class : education posPriFCnt 84 negPriFCnt 862 posSecFCnt 84 negSecFCnt 862
+ class : entertainment posPriFCnt 164 negPriFCnt 782 posSecFCnt 164 negSecFCnt 782
+ class : global posPriFCnt 229 negPriFCnt 717 posSecFCnt 229 negSecFCnt 717
+ class : health posPriFCnt 87 negPriFCnt 859 posSecFCnt 87 negSecFCnt 859
+ class : politics posPriFCnt 87 negPriFCnt 859 posSecFCnt 87 negSecFCnt 859
+ class : science posPriFCnt 260 negPriFCnt 685 posSecFCnt 260 negSecFCnt 685
+ class : technology posPriFCnt 333 negPriFCnt 613 posSecFCnt 333 negSecFCnt 613
+
+
+
+EN-TR MORPH TEST data files stats
+----------------------
+ class : art posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : arts posPriFCnt 5 negPriFCnt 50 posSecFCnt 5 negSecFCnt 50
+ class : biology posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : business posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : creativity posPriFCnt 2 negPriFCnt 53 posSecFCnt 2 negSecFCnt 53
+ class : culture posPriFCnt 12 negPriFCnt 43 posSecFCnt 12 negSecFCnt 43
+ class : design posPriFCnt 8 negPriFCnt 47 posSecFCnt 8 negSecFCnt 47
+ class : economics posPriFCnt 1 negPriFCnt 54 posSecFCnt 1 negSecFCnt 54
+ class : education posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : entertainment posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : global posPriFCnt 7 negPriFCnt 48 posSecFCnt 7 negSecFCnt 48
+ class : health posPriFCnt 5 negPriFCnt 50 posSecFCnt 5 negSecFCnt 50
+ class : politics posPriFCnt 3 negPriFCnt 52 posSecFCnt 3 negSecFCnt 52
+ class : science posPriFCnt 9 negPriFCnt 46 posSecFCnt 9 negSecFCnt 46
+ class : technology posPriFCnt 12 negPriFCnt 43 posSecFCnt 12 negSecFCnt 43
+
+
+
+EN-DE TOK TRAIN data files stats
+----------------------
+ class : art posPriFCnt 171 negPriFCnt 812 posSecFCnt 171 negSecFCnt 812
+ class : arts posPriFCnt 115 negPriFCnt 868 posSecFCnt 115 negSecFCnt 868
+ class : biology posPriFCnt 62 negPriFCnt 921 posSecFCnt 61 negSecFCnt 922
+ class : business posPriFCnt 175 negPriFCnt 808 posSecFCnt 174 negSecFCnt 809
+ class : creativity posPriFCnt 69 negPriFCnt 914 posSecFCnt 69 negSecFCnt 914
+ class : culture posPriFCnt 292 negPriFCnt 691 posSecFCnt 290 negSecFCnt 693
+ class : design posPriFCnt 226 negPriFCnt 757 posSecFCnt 226 negSecFCnt 757
+ class : economics posPriFCnt 64 negPriFCnt 919 posSecFCnt 64 negSecFCnt 919
+ class : education posPriFCnt 88 negPriFCnt 895 posSecFCnt 88 negSecFCnt 895
+ class : entertainment posPriFCnt 171 negPriFCnt 812 posSecFCnt 169 negSecFCnt 814
+ class : global posPriFCnt 245 negPriFCnt 738 posSecFCnt 245 negSecFCnt 738
+ class : health posPriFCnt 93 negPriFCnt 890 posSecFCnt 93 negSecFCnt 890
+ class : politics posPriFCnt 95 negPriFCnt 888 posSecFCnt 95 negSecFCnt 888
+ class : science posPriFCnt 272 negPriFCnt 711 posSecFCnt 271 negSecFCnt 712
+ class : technology posPriFCnt 345 negPriFCnt 638 posSecFCnt 344 negSecFCnt 639
+
+
+
+EN-DE TOK TEST data files stats
+----------------------
+ class : art posPriFCnt 10 negPriFCnt 55 posSecFCnt 10 negSecFCnt 55
+ class : arts posPriFCnt 5 negPriFCnt 60 posSecFCnt 5 negSecFCnt 60
+ class : biology posPriFCnt 5 negPriFCnt 60 posSecFCnt 5 negSecFCnt 60
+ class : business posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : creativity posPriFCnt 2 negPriFCnt 63 posSecFCnt 2 negSecFCnt 63
+ class : culture posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : design posPriFCnt 9 negPriFCnt 56 posSecFCnt 9 negSecFCnt 56
+ class : economics posPriFCnt 2 negPriFCnt 63 posSecFCnt 2 negSecFCnt 63
+ class : education posPriFCnt 4 negPriFCnt 61 posSecFCnt 4 negSecFCnt 61
+ class : entertainment posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : global posPriFCnt 8 negPriFCnt 57 posSecFCnt 8 negSecFCnt 57
+ class : health posPriFCnt 6 negPriFCnt 59 posSecFCnt 6 negSecFCnt 59
+ class : politics posPriFCnt 1 negPriFCnt 64 posSecFCnt 1 negSecFCnt 64
+ class : science posPriFCnt 11 negPriFCnt 54 posSecFCnt 11 negSecFCnt 54
+ class : technology posPriFCnt 19 negPriFCnt 46 posSecFCnt 19 negSecFCnt 46
+
+
+
+EN-DE MORPH TRAIN data files stats
+----------------------
+ class : art posPriFCnt 171 negPriFCnt 812 posSecFCnt 171 negSecFCnt 812
+ class : arts posPriFCnt 115 negPriFCnt 868 posSecFCnt 115 negSecFCnt 868
+ class : biology posPriFCnt 62 negPriFCnt 921 posSecFCnt 61 negSecFCnt 922
+ class : business posPriFCnt 175 negPriFCnt 808 posSecFCnt 174 negSecFCnt 809
+ class : creativity posPriFCnt 69 negPriFCnt 914 posSecFCnt 69 negSecFCnt 914
+ class : culture posPriFCnt 292 negPriFCnt 691 posSecFCnt 290 negSecFCnt 693
+ class : design posPriFCnt 226 negPriFCnt 757 posSecFCnt 226 negSecFCnt 757
+ class : economics posPriFCnt 64 negPriFCnt 919 posSecFCnt 64 negSecFCnt 919
+ class : education posPriFCnt 88 negPriFCnt 895 posSecFCnt 88 negSecFCnt 895
+ class : entertainment posPriFCnt 171 negPriFCnt 812 posSecFCnt 169 negSecFCnt 814
+ class : global posPriFCnt 245 negPriFCnt 738 posSecFCnt 245 negSecFCnt 738
+ class : health posPriFCnt 93 negPriFCnt 890 posSecFCnt 93 negSecFCnt 890
+ class : politics posPriFCnt 95 negPriFCnt 888 posSecFCnt 95 negSecFCnt 888
+ class : science posPriFCnt 272 negPriFCnt 711 posSecFCnt 271 negSecFCnt 712
+ class : technology posPriFCnt 345 negPriFCnt 638 posSecFCnt 344 negSecFCnt 639
+
+
+
+EN-DE MORPH TEST data files stats
+----------------------
+ class : art posPriFCnt 10 negPriFCnt 55 posSecFCnt 10 negSecFCnt 55
+ class : arts posPriFCnt 5 negPriFCnt 60 posSecFCnt 5 negSecFCnt 60
+ class : biology posPriFCnt 5 negPriFCnt 60 posSecFCnt 5 negSecFCnt 60
+ class : business posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : creativity posPriFCnt 2 negPriFCnt 63 posSecFCnt 2 negSecFCnt 63
+ class : culture posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : design posPriFCnt 9 negPriFCnt 56 posSecFCnt 9 negSecFCnt 56
+ class : economics posPriFCnt 2 negPriFCnt 63 posSecFCnt 2 negSecFCnt 63
+ class : education posPriFCnt 4 negPriFCnt 61 posSecFCnt 4 negSecFCnt 61
+ class : entertainment posPriFCnt 7 negPriFCnt 58 posSecFCnt 7 negSecFCnt 58
+ class : global posPriFCnt 8 negPriFCnt 57 posSecFCnt 8 negSecFCnt 57
+ class : health posPriFCnt 6 negPriFCnt 59 posSecFCnt 6 negSecFCnt 59
+ class : politics posPriFCnt 1 negPriFCnt 64 posSecFCnt 1 negSecFCnt 64
+ class : science posPriFCnt 11 negPriFCnt 54 posSecFCnt 11 negSecFCnt 54
+ class : technology posPriFCnt 19 negPriFCnt 46 posSecFCnt 19 negSecFCnt 46
+
+
+
+EN-FR TOK TRAIN data files stats
+----------------------
+ class : art posPriFCnt 184 negPriFCnt 871 posSecFCnt 184 negSecFCnt 871
+ class : arts posPriFCnt 125 negPriFCnt 930 posSecFCnt 125 negSecFCnt 930
+ class : biology posPriFCnt 68 negPriFCnt 987 posSecFCnt 68 negSecFCnt 987
+ class : business posPriFCnt 184 negPriFCnt 871 posSecFCnt 184 negSecFCnt 871
+ class : creativity posPriFCnt 73 negPriFCnt 982 posSecFCnt 73 negSecFCnt 982
+ class : culture posPriFCnt 311 negPriFCnt 744 posSecFCnt 311 negSecFCnt 744
+ class : design posPriFCnt 251 negPriFCnt 804 posSecFCnt 251 negSecFCnt 804
+ class : economics posPriFCnt 67 negPriFCnt 988 posSecFCnt 67 negSecFCnt 988
+ class : education posPriFCnt 96 negPriFCnt 959 posSecFCnt 96 negSecFCnt 959
+ class : entertainment posPriFCnt 185 negPriFCnt 870 posSecFCnt 185 negSecFCnt 870
+ class : global posPriFCnt 260 negPriFCnt 795 posSecFCnt 260 negSecFCnt 795
+ class : health posPriFCnt 93 negPriFCnt 962 posSecFCnt 93 negSecFCnt 962
+ class : politics posPriFCnt 98 negPriFCnt 957 posSecFCnt 98 negSecFCnt 957
+ class : science posPriFCnt 291 negPriFCnt 764 posSecFCnt 291 negSecFCnt 764
+ class : technology posPriFCnt 380 negPriFCnt 675 posSecFCnt 380 negSecFCnt 675
+
+
+
+EN-FR TOK TEST data files stats
+----------------------
+ class : art posPriFCnt 13 negPriFCnt 85 posSecFCnt 13 negSecFCnt 85
+ class : arts posPriFCnt 7 negPriFCnt 91 posSecFCnt 7 negSecFCnt 91
+ class : biology posPriFCnt 8 negPriFCnt 90 posSecFCnt 8 negSecFCnt 90
+ class : business posPriFCnt 15 negPriFCnt 83 posSecFCnt 15 negSecFCnt 83
+ class : creativity posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : culture posPriFCnt 16 negPriFCnt 82 posSecFCnt 16 negSecFCnt 82
+ class : design posPriFCnt 11 negPriFCnt 87 posSecFCnt 11 negSecFCnt 87
+ class : economics posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : education posPriFCnt 8 negPriFCnt 90 posSecFCnt 8 negSecFCnt 90
+ class : entertainment posPriFCnt 9 negPriFCnt 89 posSecFCnt 9 negSecFCnt 89
+ class : global posPriFCnt 18 negPriFCnt 80 posSecFCnt 18 negSecFCnt 80
+ class : health posPriFCnt 12 negPriFCnt 86 posSecFCnt 12 negSecFCnt 86
+ class : politics posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : science posPriFCnt 19 negPriFCnt 79 posSecFCnt 19 negSecFCnt 79
+ class : technology posPriFCnt 29 negPriFCnt 69 posSecFCnt 29 negSecFCnt 69
+
+
+
+EN-FR MORPH TRAIN data files stats
+----------------------
+ class : art posPriFCnt 184 negPriFCnt 871 posSecFCnt 184 negSecFCnt 871
+ class : arts posPriFCnt 125 negPriFCnt 930 posSecFCnt 125 negSecFCnt 930
+ class : biology posPriFCnt 68 negPriFCnt 987 posSecFCnt 68 negSecFCnt 987
+ class : business posPriFCnt 184 negPriFCnt 871 posSecFCnt 184 negSecFCnt 871
+ class : creativity posPriFCnt 73 negPriFCnt 982 posSecFCnt 73 negSecFCnt 982
+ class : culture posPriFCnt 311 negPriFCnt 744 posSecFCnt 311 negSecFCnt 744
+ class : design posPriFCnt 251 negPriFCnt 804 posSecFCnt 251 negSecFCnt 804
+ class : economics posPriFCnt 67 negPriFCnt 988 posSecFCnt 67 negSecFCnt 988
+ class : education posPriFCnt 96 negPriFCnt 959 posSecFCnt 96 negSecFCnt 959
+ class : entertainment posPriFCnt 185 negPriFCnt 870 posSecFCnt 185 negSecFCnt 870
+ class : global posPriFCnt 260 negPriFCnt 795 posSecFCnt 260 negSecFCnt 795
+ class : health posPriFCnt 93 negPriFCnt 962 posSecFCnt 93 negSecFCnt 962
+ class : politics posPriFCnt 98 negPriFCnt 957 posSecFCnt 98 negSecFCnt 957
+ class : science posPriFCnt 291 negPriFCnt 764 posSecFCnt 291 negSecFCnt 764
+ class : technology posPriFCnt 380 negPriFCnt 675 posSecFCnt 380 negSecFCnt 675
+
+
+
+EN-FR MORPH TEST data files stats
+----------------------
+ class : art posPriFCnt 13 negPriFCnt 85 posSecFCnt 13 negSecFCnt 85
+ class : arts posPriFCnt 7 negPriFCnt 91 posSecFCnt 7 negSecFCnt 91
+ class : biology posPriFCnt 8 negPriFCnt 90 posSecFCnt 8 negSecFCnt 90
+ class : business posPriFCnt 15 negPriFCnt 83 posSecFCnt 15 negSecFCnt 83
+ class : creativity posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : culture posPriFCnt 16 negPriFCnt 82 posSecFCnt 16 negSecFCnt 82
+ class : design posPriFCnt 11 negPriFCnt 87 posSecFCnt 11 negSecFCnt 87
+ class : economics posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : education posPriFCnt 8 negPriFCnt 90 posSecFCnt 8 negSecFCnt 90
+ class : entertainment posPriFCnt 9 negPriFCnt 89 posSecFCnt 9 negSecFCnt 89
+ class : global posPriFCnt 18 negPriFCnt 80 posSecFCnt 18 negSecFCnt 80
+ class : health posPriFCnt 12 negPriFCnt 86 posSecFCnt 12 negSecFCnt 86
+ class : politics posPriFCnt 6 negPriFCnt 92 posSecFCnt 6 negSecFCnt 92
+ class : science posPriFCnt 19 negPriFCnt 79 posSecFCnt 19 negSecFCnt 79
+ class : technology posPriFCnt 29 negPriFCnt 69 posSecFCnt 29 negSecFCnt 69

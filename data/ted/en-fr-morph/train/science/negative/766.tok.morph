@@ -1,0 +1,73 @@
+about	a	year	and	a	half	ago	,	stephen	lawler	,	who	 al 	 so 	 	 g 	 ave 	 	a	talk	here	at	ted	in	2007	on	virtual	earth	,	 br 	 ought 	 	me	over	to	 be 	 come 	 	the	architect	of	bing	 map 	 s 	 	,	which	is	 micro 	 soft 	 	's	 on 	 line 	 	-	mapping	effort	.
+in	the	past	two	and	a	half	,	we	've	 be 	 en 	 	 ver 	 y 	 	hard	at	work	on	 re 	 defi 	 ning 	 	the	way	 map 	 s 	 	work	 on 	 line 	 	.
+and	we	 re 	 ally 	 	are	 see 	 ing 	 	 th 	 is 	 	in	 ver 	 y 	 	different	 term 	 s 	 	from	the	kind	of	mapping	and	direction	 s 	 ite 	 	that	one	is	used	to	.
+so	,	the	first	thing	that	you	might	notice	about	the	mapping	 s 	 ite 	 	is	just	the	 fluid 	 ity 	 	of	the	 zoom 	 ing 	 	and	the	 pan 	 ning 	 	,	which	,	if	you	're	familiar	at	all	with	seadragon	,	that	's	where	it	 come 	 s 	 	from	.
+mapping	is	,	of	course	,	not	just	about	 cart 	 ography 	 	,	it	's	 al 	 so 	 	about	 image 	 ry 	 	.
+so	,	 a 	 s 	 	we	zoom	-	in	beyond	a	certain	level	 th 	 is 	 	 re 	 solve 	 s 	 	 in 	 to 	 	a	kind	of	sim	city	-	like	virtual	view	at	45	 degree 	 s 	 	.
+ th 	 is 	 	can	be	 view 	 ed 	 	from	any	of	the	 card 	 in 	 al 	 	 direction 	 s 	 	to	show	you	the	3d	structure	of	the	city	,	all	the	 facade 	 s 	 	.
+now	,	we	see	 th 	 is 	 	space	,	 th 	 is 	 	three	-	dimensional	environment	,	 a 	 s 	 	 be 	 ing 	 	a	canvas	on	which	all	 sort 	 s 	 	of	 application 	 s 	 	can	play	out	,
+and	map	's	 direction 	 s 	 	are	 re 	 ally 	 	just	one	of	them	.
+if	you	click	on	 th 	 is 	 	,	you	'll	see	some	of	the	 one 	 s 	 	that	we	've	put	out	,	just	in	the	past	couple	of	 month 	 s 	 	since	we	've	 launch 	 ed 	 	.
+so	,	for	 ex 	 ample 	 	,	a	couple	of	 day 	 s 	 	after	the	disaster	in	 ha 	 iti 	 	,	we	had	an	 earth 	 quake 	 	map	that	 show 	 ed 	 	before	and	after	 picture 	 s 	 	from	the	sky	.
+ th 	 is 	 	 wonder 	 ful 	 	one	which	i	do	n't	have	time	to	show	you	is	taking	hyper	-	local	 blog 	 s 	 	in	real	time	and	mapping	 t 	 hose 	 	 st 	 ories 	 	,	 t 	 hose 	 	 ent 	 ries 	 	to	the	 place 	 s 	 	that	are	 refer 	 red 	 	to	on	the	 blog 	 s 	 	.
+it	's	 wonder 	 ful 	 	.
+but	i	'm	going	to	show	you	some	more	 can 	 dy 	 	sort	of	stuff	.
+so	,	we	see	the	 image 	 ry 	 	,	of	course	,	not	 stop 	 ping 	 	at	the	sky	.
+these	little	green	 bubble 	 s 	 	represent	 photo 	 synth 	 s 	 	that	 user 	 s 	 	have	made	.
+i	'm	not	going	to	 d 	 ive 	 	 in 	 to 	 	them	either	,	but	 photo 	 synth 	 s 	 	are	 integrate 	 d 	 	 in 	 to 	 	the	map	.
+ every 	 thing 	 	that	's	 case 	 d 	 	in	blue	is	an	area	where	we	've	taken	 image 	 ry 	 	on	the	ground	 a 	 s 	 	well	.
+and	so	,	when	you	fly	down	--	thank	you	.	when	you	fly	down	to	the	ground	,	and	you	see	 th 	 is 	 	kind	of	 pan 	 ora 	 mic 	 	 image 	 ry 	 	,	the	first	thing	that	you	might	notice	is	that	it	's	not	just	a	picture	,	there	's	just	 a 	 s 	 	much	three	-	dimensional	 understand 	 ing 	 	of	 th 	 is 	 	environment	 a 	 s 	 	there	is	of	the	three	-	dimensional	city	from	above	,	so	if	i	click	on	 some 	 thing 	 	to	get	a	 close 	 r 	 	view	of	it	,	then	,	the	fact	that	that	 transit 	 ion 	 	 look 	 s 	 	 a 	 s 	 	it	 do 	 es 	 	,	is	a	function	of	all	of	that	 geo 	 metry 	 	,	all	of	that	3d	 understand 	 ing 	 	 be 	 hind 	 	 th 	 is 	 	model	.
+now	,	i	'll	show	you	a	 f 	 un 	 	app	that	--	we	've	 be 	 en 	 	 work 	 ing 	 	on	a	 collabor 	 ation 	 	with	our	 friend 	 s 	 	at	flickr	.
+ th 	 is 	 	 take 	 s 	 	flickr	,	 geo 	 register 	 ed 	 	 image 	 ry 	 	and	uses	photosynth	-	like	 process 	 es 	 	to	connect	that	 image 	 ry 	 	to	our	 image 	 ry 	 	,	so	--	i	'm	not	 s 	 ure 	 	if	that	's	the	one	i	 actual 	 ly 	 	 me 	 ant 	 	to	pull	up	,	but	--	but	notice	--	 th 	 is 	 	is	,	of	course	,	a	popular	tourist	 s 	 ite 	 	,	and	there	are	 lot 	 s 	 	of	 photo 	 s 	 	around	here	,	and	these	 photo 	 s 	 	are	all	taken	at	different	 time 	 s 	 	.
+so	 th 	 is 	 	one	was	taken	around	five	.
+so	that	's	the	flickr	photo	,	that	's	our	 image 	 ry 	 	.
+so	you	 re 	 ally 	 	see	how	 th 	 is 	 	kind	of	crowd	-	sourced	 image 	 ry 	 	is	 integ 	 rating 	 	,	in	a	 ver 	 y 	 	deep	way	,	 in 	 to 	 	the	map	 it 	 self 	 	.
+thank	you	.
+there	are	 s 	 ever 	 al 	 	 reason 	 s 	 	why	 th 	 is 	 	is	 interest 	 ing 	 	and	one	of	them	,	of	course	,	is	time	travel	.
+and	i	'm	not	going	to	show	you	some	of	the	 wonder 	 ful 	 	historic	 image 	 ry 	 	in	here	,	but	there	are	some	with	 horse 	 s 	 	and	 carriage 	 s 	 	and	so	on	 a 	 s 	 	well	.
+but	what	's	cool	about	 th 	 is 	 	is	that	,	not	 on 	 ly 	 	is	it	 augment 	 ing 	 	 th 	 is 	 	visual	 represent 	 ation 	 	of	the	world	with	 thing 	 s 	 	that	are	coming	in	from	 user 	 s 	 	,	but	it	 al 	 so 	 	is	the	 found 	 ation 	 	for	 augment 	 ed 	 	 re 	 ality 	 	,	and	that	's	 some 	 thing 	 	that	i	'll	be	 show 	 ing 	 	you	more	of	in	just	a	moment	.
+now	i	just	made	a	 transit 	 ion 	 	 in 	 door 	 s 	 	.	that	's	 al 	 so 	 	 interest 	 ing 	 	.
+ok	,	notice	there	's	now	a	roof	above	us	.
+we	're	 in 	 side 	 	the	pike	place	market	.
+and	 th 	 is 	 	is	 some 	 thing 	 	that	we	're	able	to	do	with	a	 back 	 pack 	 	camera	,
+so	,	we	're	now	not	 on 	 ly 	 	 im 	 aging 	 	in	the	street	with	 th 	 is 	 	camera	on	 top 	 s 	 	of	 car 	 s 	 	,	but	we	're	 al 	 so 	 	 im 	 aging 	 	 in 	 side 	 	.
+and	from	here	,	we	're	able	to	do	the	same	 sort 	 s 	 	of	 registr 	 ation 	 	,	not	 on 	 ly 	 	of	still	 image 	 s 	 	,	but	 al 	 so 	 	of	video	.
+so	 th 	 is 	 	is	 some 	 thing 	 	that	we	're	now	going	to	try	for	the	first	time	,	live	,	and	 th 	 is 	 	is	 re 	 ally 	 	,	 tru 	 ly 	 	,	 ver 	 y 	 	 frighten 	 ing 	 	.
+ok	.
+all	right	,	 guy 	 s 	 	,	are	you	there	?
+all	right	.	i	'm	hitting	it	.	i	'm	 punch 	 ing 	 	play	.
+i	'm	live	.	all	right	.	there	we	go	.
+so	,	these	are	our	 friend 	 s 	 	in	pike	place	market	,	the	lab	.
+so	they	're	 broad 	 cast 	 ing 	 	 th 	 is 	 	live	.
+ok	,	george	,	can	you	pan	back	over	to	the	corner	market	?
+ be 	 cause 	 	i	want	to	show	 point 	 s 	 	of	interest	.
+no	,	no	.	the	other	way	.
+ yea 	 h 	 	,	 yea 	 h 	 	,	back	to	the	corner	,	back	to	the	corner	.
+i	do	n't	want	to	see	you	 guy 	 s 	 	yet	.
+ok	,	ok	,	back	to	the	corner	,	back	to	the	corner	,	back	to	the	corner	.
+ok	,	never	mind	.
+what	i	 want 	 ed 	 	to	show	you	was	these	 point 	 s 	 	of	interest	over	here	on	top	of	the	image	 be 	 cause 	 	what	that	 give 	 s 	 	you	a	sense	of	is	the	way	,	if	you	're	 actual 	 ly 	 	on	the	spot	,
+you	can	think	about	 th 	 is 	 	--	 th 	 is 	 	is	taking	a	step	in	 add 	 ition 	 	to	 augment 	 ed 	 	 re 	 ality 	 	.
+what	the	hell	are	you	 guy 	 s 	 	--	oh	,	sorry	.
+we	're	 do 	 ing 	 	two	different	--
+ok	,	i	'm	 hang 	 ing 	 	up	now	.
+we	're	 do 	 ing 	 	two	different	 thing 	 s 	 	here	.
+one	of	them	is	to	take	that	real	...
+all	right	,	let	me	just	take	a	moment	and	thank	the	team	.
+they	've	 d 	 one 	 	a	fantastic	job	of	 pull 	 ing 	 	 th 	 is 	 	together	.
+i	'm	going	to	abandon	them	now	and	walk	back	 out 	 side 	 	.
+and	while	i	walk	 out 	 side 	 	,	i	'll	just	 ment 	 ion 	 	that	here	we	're	using	 th 	 is 	 	for	 tele 	 presence 	 	,	but	you	can	 equal 	 ly 	 	well	use	 th 	 is 	 	on	the	spot	,	for	 augment 	 ed 	 	 re 	 ality 	 	.
+when	you	use	it	on	the	spot	,	it	 mean 	 s 	 	that	you	're	able	to	 br 	 ing 	 	all	of	that	 meta 	 data 	 	and	information	about	the	world	to	you	.
+so	here	,	we	're	taking	the	extra	step	of	 al 	 so 	 	 broad 	 cast 	 ing 	 	it	.
+that	was	 be 	 ing 	 	 broad 	 cast 	 	,	by	the	way	,	on	a	4g	network	from	the	market	.
+all	right	,	and	now	there	's	one	last	ted	talk	that	 micro 	 soft 	 	 ha 	 s 	 	 give 	 n 	 	in	the	past	 s 	 ever 	 al 	 	 year 	 s 	 	.
+and	that	's	curtis	wong	,	 world 	 wide 	 	 tele 	 scope 	 	.
+so	,	we	're	going	to	head	over	to	the	 dump 	 sters 	 	,	where	it	's	 tradition 	 al 	 	,	after	a	long	day	at	the	market	,	to	go	out	for	a	break	,	but	 al 	 so 	 	 star 	 e 	 	up	at	the	sky	.
+ th 	 is 	 	is	the	 integ 	 ration 	 	of	 world 	 wide 	 	 tele 	 scope 	 	 in 	 to 	 	our	 map 	 s 	 	.
+ th 	 is 	 	is	the	current	--	thank	you	--	 th 	 is 	 	is	the	current	time	.	if	we	scrub	the	time	,	then	we	can	see	how	the	sky	will	look	at	different	 time 	 s 	 	,	and	we	can	get	all	of	 th 	 is 	 	 ver 	 y 	 	 detail 	 ed 	 	information	about	different	 time 	 s 	 	,	different	 date 	 s 	 	:
+let	's	move	the	moon	a	little	 high 	 er 	 	in	the	sky	,	 may 	 be 	 	change	the	date	.
+i	would	like	to	kind	of	zoom	in	on	the	moon	.
+so	,	 th 	 is 	 	is	an	 astronomical 	 ly 	 	complete	 represent 	 ation 	 	of	the	sky	 integrate 	 d 	 	right	 in 	 to 	 	the	earth	.
+all	right	now	,	i	've	 over 	 run 	 	my	time	,	so	i	've	got	to	stop	.
+thank	you	all	 ver 	 y 	 	much	.
+

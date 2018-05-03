@@ -1,0 +1,40 @@
+let_en me_en introduce_en to_en you_en rezero_en ._en
+this_en little_en fellow_en was_en developed_en by_en a_en group_en of_en 10_en undergraduate_en students_en at_en the_en autonomous_en systems_en laboratory_en at_en eth_en -_en zurich_en ._en
+our_en robot_en belongs_en to_en a_en family_en of_en robots_en called_en ballbots_en ._en
+instead_en of_en wheels_en ,_en a_en ballbot_en is_en balancing_en and_en moving_en on_en one_en single_en ball_en ._en
+the_en main_en characteristics_en of_en such_en a_en system_en is_en that_en there_en 's_en one_en sole_en contact_en point_en to_en the_en ground_en ._en
+this_en means_en that_en the_en robot_en is_en inherently_en unstable_en ._en
+it_en 's_en like_en when_en i_en am_en trying_en to_en stand_en on_en one_en foot_en ._en
+you_en might_en ask_en yourself_en ,_en what_en 's_en the_en usefulness_en of_en a_en robot_en that_en 's_en unstable_en ?_en
+now_en we_en 'll_en explain_en that_en in_en a_en second_en ._en
+let_en me_en first_en explain_en how_en rezero_en actually_en keeps_en his_en balance_en ._en
+rezero_en keeps_en his_en balance_en by_en constantly_en measuring_en his_en pitch_en angle_en with_en a_en sensor_en ._en
+he_en then_en counteracts_en and_en avoids_en toppling_en over_en by_en turning_en the_en motors_en appropriately_en ._en
+this_en happens_en 160_en times_en per_en second_en ,_en and_en if_en anything_en fails_en in_en this_en process_en ,_en rezero_en would_en immediately_en fall_en to_en the_en ground_en ._en
+now_en to_en move_en and_en to_en balance_en ,_en rezero_en needs_en to_en turn_en the_en ball_en ._en
+the_en ball_en is_en driven_en by_en three_en special_en wheels_en that_en allow_en rezero_en to_en move_en into_en any_en direction_en and_en also_en move_en around_en his_en own_en axis_en at_en the_en same_en time_en ._en
+due_en to_en his_en instability_en ,_en rezero_en is_en always_en in_en motion_en ._en now_en here_en 's_en the_en trick_en ._en
+it_en 's_en indeed_en exactly_en this_en instability_en that_en allows_en a_en robot_en to_en move_en very_en [_en dynamically_en ]_en ._en
+let_en 's_en play_en a_en little_en ._en
+you_en may_en have_en wondered_en what_en happens_en if_en i_en give_en the_en robot_en a_en little_en push_en ._en
+in_en this_en mode_en ,_en he_en 's_en trying_en to_en maintain_en his_en position_en ._en
+for_en the_en next_en demo_en ,_en i_en 'd_en like_en you_en to_en introduce_en to_en my_en colleagues_en michael_en ,_en on_en the_en computer_en ,_en and_en thomas_en who_en 's_en helping_en me_en onstage_en ._en
+in_en the_en next_en mode_en ,_en rezero_en is_en passive_en ,_en and_en we_en can_en move_en him_en around_en ._en
+with_en almost_en no_en force_en i_en can_en control_en his_en position_en and_en his_en velocity_en ._en
+i_en can_en also_en make_en him_en spin_en ._en
+in_en the_en next_en mode_en ,_en we_en can_en get_en rezero_en to_en follow_en a_en person_en ._en
+he_en 's_en now_en keeping_en a_en constant_en distance_en to_en thomas_en ._en
+this_en works_en with_en a_en laser_en sensor_en that_en 's_en mounted_en on_en top_en of_en rezero_en ._en
+with_en the_en same_en method_en ,_en we_en can_en also_en get_en him_en to_en circle_en a_en person_en ._en
+we_en call_en this_en the_en orbiting_en mode_en ._en
+all_en right_en ,_en thank_en you_en ,_en thomas_en ._en
+now_en ,_en what_en 's_en the_en use_en of_en this_en technology_en ?_en
+for_en now_en ,_en it_en 's_en an_en experiment_en ,_en but_en let_en me_en show_en you_en some_en possible_en future_en applications_en ._en
+rezero_en could_en be_en used_en in_en exhibitions_en or_en parks_en ._en
+with_en a_en screen_en it_en could_en inform_en people_en or_en show_en them_en around_en in_en a_en fun_en and_en entertaining_en way_en ._en
+in_en a_en hospital_en ,_en this_en device_en could_en be_en used_en to_en carry_en around_en medical_en equipment_en ._en
+due_en to_en the_en ballbot_en system_en ,_en it_en has_en a_en very_en small_en footprint_en and_en it_en 's_en also_en easy_en to_en move_en around_en ._en
+and_en of_en course_en ,_en who_en would_en n't_en like_en to_en take_en a_en ride_en on_en one_en of_en these_en ._en
+and_en these_en are_en more_en practical_en applications_en ._en
+but_en there_en 's_en also_en a_en certain_en beauty_en within_en this_en technology_en ._en
+thank_en you_en ._en thank_en you_en ._en

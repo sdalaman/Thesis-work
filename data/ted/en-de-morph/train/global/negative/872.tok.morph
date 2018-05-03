@@ -1,0 +1,172 @@
+we	're	25	,	26	 year 	 s 	 	after	the	 ad 	 vent 	 	of	the	macintosh	,	which	was	an	 astound 	 ing 	 ly 	 	 semi 	 nal 	 	event	in	the	 histo 	 ry 	 	of	human	-	machine	 inter 	 face 	 	and	in	computation	in	general	.
+it	 fundamental 	 ly 	 	 change 	 d 	 	the	way	that	people	thought	about	computation	,	thought	about	 computer 	 s 	 	,	how	they	used	them	and	who	and	how	 man 	 y 	 	people	 we 	 re 	 	able	to	use	them	.
+it	was	 s 	 uch 	 	a	radical	change	,	in	fact	,	that	the	early	macintosh	 develop 	 ment 	 	team	in	'82	,	'83	,	'84	had	to	write	an	 entire 	 ly 	 	new	 oper 	 ating 	 	system	from	the	ground	up	.
+now	,	 th 	 is 	 	is	an	 interest 	 ing 	 	little	 mess 	 age 	 	,	and	it	's	a	 less 	 on 	 	that	 ha 	 s 	 	since	,	i	think	,	 be 	 en 	 	 for 	 gotten 	 	or	lost	or	 some 	 thing 	 	,	and	that	is	,	 name 	 ly 	 	,	that	the	os	is	the	 inter 	 face 	 	.
+the	 inter 	 face 	 	is	the	os	.
+it	's	like	the	land	and	the	king	they	're	 in 	 s 	 e 	 par 	 able 	 	,	they	are	one	.
+and	to	write	a	new	 oper 	 ating 	 	system	was	not	a	 capric 	 ious 	 	matter	.
+it	was	n't	just	a	matter	of	 t 	 un 	 ing 	 	up	some	 graphic 	 s 	 	 routine 	 s 	 	.
+there	 we 	 re 	 	no	 graphic 	 s 	 	 routine 	 s 	 	.	there	 we 	 re 	 	no	mouse	 driver 	 s 	 	.
+so	it	was	a	 necess 	 ity 	 	.
+but	in	the	quarter	-	century	since	then	,	we	've	 s 	 een 	 	all	of	the	fundamental	 support 	 ing 	 	 techno 	 logies 	 	go	 ber 	 s 	 er 	 k 	 	.
+so	 memor 	 y 	 	 cap 	 a 	 city 	 	and	 dis 	 k 	 	 cap 	 a 	 city 	 	have	 be 	 en 	 	 multi 	 plied 	 	by	 some 	 thing 	 	between	10,000	and	a	million	.
+same	thing	for	processor	 speed 	 s 	 	.
+ network 	 s 	 	,	we	did	n't	have	 network 	 s 	 	at	all	at	the	time	of	the	macintosh	's	 introduc 	 tion 	 	,	and	that	 ha 	 s 	 	 be 	 come 	 	the	single	most	 s 	 al 	 ient 	 	 a 	 spect 	 	of	how	we	live	with	 computer 	 s 	 	.
+and	,	of	course	,	 graphic 	 s 	 	:	 to 	 day 	 	84	 dollar 	 s 	 	and	97	 cent 	 s 	 	at	best	buy	 buy 	 s 	 	you	more	 graphic 	 s 	 	power	than	you	could	have	gotten	for	a	million	 buck 	 s 	 	from	sgi	 on 	 ly 	 	a	decade	ago	.
+so	we	've	got	that	 in 	 credible 	 	ramp	-	up	.
+then	,	on	the	side	,	we	've	got	the	web	and	,	 increasing 	 ly 	 	,	the	cloud	,	which	is	fantastic	,	but	 al 	 so 	 	--	in	the	regard	in	which	an	 inter 	 face 	 	is	fundamental	--	kind	of	a	 distract 	 ion 	 	.
+so	we	've	 for 	 gotten 	 	to	invent	new	 inter 	 face 	 s 	 	.
+ certain 	 ly 	 	we	've	 s 	 een 	 	in	 re 	 cent 	 	 year 	 s 	 	a	lot	of	change	in	that	regard	,	and	people	are	 start 	 ing 	 	to	wake	up	about	that	.
+so	what	 happen 	 s 	 	next	?	where	do	we	go	from	there	?
+the	problem	,	 a 	 s 	 	we	see	it	,	 ha 	 s 	 	to	do	with	a	single	,	simple	word	:	``	space	,	``	or	a	single	,	simple	phrase	:	``	real	world	 geo 	 metry 	 	.	``
+ computer 	 s 	 	and	the	 programm 	 ing 	 	 language 	 s 	 	that	we	talk	to	them	in	,	that	we	teach	them	in	,	are	 hide 	 ously 	 	 in 	 sens 	 ate 	 	when	it	 come 	 s 	 	to	space	.
+they	do	n't	understand	real	world	space	.
+it	's	a	funny	thing	 be 	 cause 	 	the	rest	of	us	occupy	it	 quit 	 e 	 	 frequent 	 ly 	 	and	 quit 	 e 	 	well	.
+they	 al 	 so 	 	do	n't	understand	time	,	but	that	's	a	matter	for	a	 separat 	 e 	 	talk	.
+so	what	 happen 	 s 	 	if	you	start	to	explain	space	to	them	?
+one	thing	you	might	get	is	 some 	 thing 	 	like	the	 lumin 	 ous 	 	room	.
+the	 lumin 	 ous 	 	room	is	a	system	in	which	it	's	 consider 	 ed 	 	that	 in 	 put 	 	and	 out 	 put 	 	 space 	 s 	 	are	co	-	 locate 	 d 	 	.
+that	's	a	 strange 	 ly 	 	simple	,	and	yet	 un 	 explore 	 d 	 	idea	,	right	?
+when	you	use	a	mouse	,	your	hand	is	down	here	on	the	mouse	pad	.
+it	's	not	even	on	the	same	plane	 a 	 s 	 	what	you	're	 talk 	 ing 	 	about	:	the	 pixel 	 s 	 	are	up	on	the	 dis 	 play 	 	.
+so	here	was	a	room	in	which	all	the	 wall 	 s 	 	,	 floor 	 s 	 	,	 ceil 	 ing 	 s 	 	,	 pet 	 s 	 	,	 pot 	 ted 	 	 plant 	 s 	 	,	 what 	 ever 	 	was	in	there	,	 we 	 re 	 	 cap 	 able 	 	,	not	 on 	 ly 	 	of	 dis 	 play 	 	but	of	 sens 	 ing 	 	 a 	 s 	 	well	.
+and	that	 mean 	 s 	 	 in 	 put 	 	and	 out 	 put 	 	are	in	the	same	space	 enabl 	 ing 	 	stuff	like	 th 	 is 	 	.
+that	's	a	digital	 s 	 to 	 rage 	 	in	a	physical	 contain 	 er 	 	.
+the	contract	is	the	same	 a 	 s 	 	with	real	word	 object 	 s 	 	in	real	world	 contain 	 ers 	 	.
+ ha 	 s 	 	to	come	back	out	,	 what 	 ever 	 	you	put	in	.
+ th 	 is 	 	little	design	experiment	that	was	a	small	 off 	 ice 	 	here	 k 	 new 	 	a	few	other	 trick 	 s 	 	 a 	 s 	 	well	.
+if	you	 present 	 ed 	 	it	with	a	 ches 	 s 	 	board	,	it	 tri 	 ed 	 	to	figure	out	what	you	might	mean	by	that	.
+and	if	there	was	 noth 	 ing 	 	for	them	to	do	,	the	 ches 	 s 	 	 piece 	 s 	 	 event 	 ual 	 ly 	 	got	 bor 	 ed 	 	and	hopped	away	.
+the	 academic 	 s 	 	who	 we 	 re 	 	 over 	 see 	 ing 	 	 th 	 is 	 	work	thought	that	that	was	too	frivolous	,	so	we	built	 dead 	 ly 	 	serious	 application 	 s 	 	like	 th 	 is 	 	 optic 	 s 	 	 proto 	 ty 	 ping 	 	 work 	 bench 	 	in	which	a	 tooth 	 paste 	 	cap	on	a	 card 	 board 	 	box	 be 	 come 	 s 	 	a	laser	.
+the	beam	 split 	 ter 	 s 	 	and	 lens 	 es 	 	are	 represent 	 ed 	 	by	physical	 object 	 s 	 	,	and	the	system	 project 	 s 	 	down	the	laser	beam	path	.
+so	you	've	got	an	 inter 	 face 	 	that	 ha 	 s 	 	no	 inter 	 face 	 	.
+you	 oper 	 ate 	 	the	world	 a 	 s 	 	you	 oper 	 ate 	 	the	real	world	,	which	is	to	say	,	with	your	 hand 	 s 	 	.
+ similar 	 ly 	 	,	a	digital	wind	tunnel	with	digital	wind	 flow 	 ing 	 	from	right	to	left	--	not	that	 remark 	 able 	 	in	a	sense	;	we	did	n't	invent	the	 mathematic 	 s 	 	.
+but	if	you	 dis 	 play 	 ed 	 	that	on	a	crt	or	flat	 pan 	 el 	 	 dis 	 play 	 	,	it	would	be	 meaning 	 less 	 	to	hold	up	an	 arbitr 	 ary 	 	object	,	a	real	world	object	in	that	.
+here	,	the	real	world	 merge 	 s 	 	with	the	 simul 	 ation 	 	.
+and	 final 	 ly 	 	,	to	pull	out	all	the	 stop 	 s 	 	,	 th 	 is 	 	is	a	system	 call 	 ed 	 	urp	,	for	urban	 plan 	 ner 	 s 	 	,	in	which	we	give	 architect 	 s 	 	and	urban	 plan 	 ner 	 s 	 	back	the	 model 	 s 	 	that	we	 confisc 	 ated 	 	when	we	 insist 	 ed 	 	that	they	use	cad	 system 	 s 	 	.
+and	we	make	the	machine	meet	them	half	way	.
+it	 project 	 s 	 	down	digital	 shadow 	 s 	 	,	 a 	 s 	 	you	see	here	.
+and	if	you	 introduc 	 e 	 	 tool 	 s 	 	like	 th 	 is 	 	 in 	 verse 	 	clock	,	then	you	can	control	the	 s 	 un 	 	's	position	in	the	sky	.
+that	's	8	 a.m 	 . 	 	 shadow 	 s 	 	.
+they	get	a	little	 short 	 er 	 	at	9	a.m	.
+there	you	are	,	 s 	 wing 	 ing 	 	the	 s 	 un 	 	around	.
+short	 shadow 	 s 	 	at	noon	and	so	forth	.
+and	we	built	up	a	 s 	 eries 	 	of	 tool 	 s 	 	like	 th 	 is 	 	.
+there	are	inter	-	shadowing	 stud 	 ies 	 	that	children	can	 oper 	 ate 	 	,	even	 th 	 ough 	 	they	do	n't	know	 any 	 thing 	 	about	urban	 plan 	 ning 	 	:	to	move	a	building	,	you	 simpl 	 y 	 	reach	out	your	hand	and	you	move	the	building	.
+a	material	 wan 	 d 	 	 make 	 s 	 	the	building	 in 	 to 	 	a	sort	of	frank	gehry	thing	that	 reflect 	 s 	 	light	in	all	 direction 	 s 	 	.
+are	you	 blind 	 ing 	 	 pass 	 ers 	 	by	and	 motor 	 ists 	 	on	the	 free 	 ways 	 	?
+a	 zon 	 ing 	 	tool	 connect 	 s 	 	 di 	 stant 	 	 structure 	 s 	 	,	a	building	and	a	 road 	 way 	 	.
+are	you	going	to	get	 su 	 ed 	 	by	the	 zon 	 ing 	 	commission	?	and	so	forth	.
+now	,	if	these	 idea 	 s 	 	seem	familiar	or	 per 	 hap 	 s 	 	even	a	little	 d 	 ated 	 	,	that	's	great	;	they	should	seem	familiar	.
+ th 	 is 	 	work	is	15	 year 	 s 	 	old	.
+ th 	 is 	 	stuff	was	 under 	 taken 	 	at	mit	and	the	media	lab	under	the	 in 	 credible 	 	direction	of	professor	hiroshi	ishii	,	director	of	the	tangible	media	group	.
+but	it	was	that	work	that	was	 s 	 een 	 	by	alex	mcdowell	,	one	of	the	world	's	 legend 	 ary 	 	production	 design 	 ers 	 	.
+but	alex	was	 pre 	 par 	 ing 	 	a	little	,	sort	of	 obscur 	 e 	 	,	 in 	 die 	 	,	 art 	 house 	 	film	 call 	 ed 	 	``	 minor 	 ity 	 	report	``	for	steven	spielberg	,	and	 invit 	 ed 	 	us	to	come	out	from	mit	and	design	the	 inter 	 face 	 s 	 	that	would	appear	in	that	film	.
+and	the	great	thing	about	it	was	that	alex	was	so	 dedicate 	 d 	 	to	the	idea	of	 ver 	 i 	 simil 	 itude 	 	,	the	idea	that	the	 put 	 ative 	 	2054	that	we	 we 	 re 	 	 paint 	 ing 	 	in	the	film	be	 believ 	 able 	 	,	that	he	 allow 	 ed 	 	us	to	take	on	that	design	work	 a 	 s 	 	if	it	 we 	 re 	 	an	r	&	d	effort	.
+and	the	result	is	sort	of	 grat 	 ifying 	 ly 	 	 perpetu 	 al 	 	.
+people	still	 re 	 ference 	 	 t 	 hose 	 	 sequence 	 s 	 	in	``	 minor 	 ity 	 	report	``	when	they	talk	about	new	ui	design	.
+so	 th 	 is 	 	led	full	circle	,	in	a	strange	way	,	to	build	these	 idea 	 s 	 	 in 	 to 	 	what	we	 believ 	 e 	 	is	the	 necess 	 ary 	 	future	of	human	machine	 inter 	 face 	 	:	the	spatial	 oper 	 ating 	 	environment	,	we	call	it	.
+so	here	we	have	a	bunch	of	stuff	,	some	 image 	 s 	 	.
+and	,	using	a	hand	,	we	can	 actual 	 ly 	 	 exercis 	 e 	 	six	 degree 	 s 	 	of	 free 	 dom 	 	,	six	 degree 	 s 	 	of	 navig 	 ation 	 al 	 	control	.
+and	it	's	 f 	 un 	 	to	fly	through	mr.	beckett	's	eye	.
+and	you	can	come	back	out	through	the	 scar 	 y 	 	orangutan	.
+and	that	's	all	well	and	good	.
+let	's	do	 some 	 thing 	 	a	little	more	difficult	.
+here	,	we	have	a	whole	bunch	of	disparate	 image 	 s 	 	.
+we	can	fly	around	them	.
+so	 navig 	 ation 	 	is	a	fundamental	issue	.
+you	have	to	be	able	to	 navig 	 ate 	 	in	3d	.
+much	of	what	we	want	 computer 	 s 	 	to	help	us	with	in	the	first	place	is	 inherent 	 ly 	 	spatial	.
+and	the	part	that	is	n't	spatial	can	often	be	 spatial 	 ized 	 	to	allow	our	 wet 	 ware 	 	to	make	 great 	 er 	 	sense	of	it	.
+now	we	can	 distribut 	 e 	 	 th 	 is 	 	stuff	in	 man 	 y 	 	different	ways	.
+so	we	can	throw	it	out	like	that	.	let	's	 re 	 set 	 	it	.
+we	can	organize	it	 th 	 is 	 	way	.
+and	,	of	course	,	it	's	not	just	about	 navig 	 ation 	 	,	but	about	 manipul 	 ation 	 	 a 	 s 	 	well	.
+so	if	we	do	n't	like	stuff	,	or	we	're	 intens 	 e 	 ly 	 	 cur 	 ious 	 	about	ernst	haeckel	's	scientific	 fals 	 ification 	 s 	 	,	we	can	pull	them	out	like	that	.
+and	then	if	it	's	time	for	analysis	,	we	can	pull	back	a	little	bit	and	ask	for	a	different	 distribut 	 ion 	 	.
+let	's	just	come	down	a	bit	and	fly	around	.
+so	that	's	a	different	way	to	look	at	stuff	.
+if	you	're	of	a	more	 analytic 	 al 	 	nature	then	you	might	want	,	 actual 	 ly 	 	,	to	look	at	 th 	 is 	 	 a 	 s 	 	a	color	 histo 	 gram 	 	.
+so	now	we	've	got	the	stuff	color	-	 sort 	 ed 	 	,	angle	 map 	 s 	 	onto	color	.
+and	now	,	if	we	want	to	select	stuff	,	3d	,	space	,	the	idea	that	we	're	 track 	 ing 	 	 hand 	 s 	 	in	real	space	 be 	 come 	 s 	 	 re 	 ally 	 	 import 	 ant 	 	 be 	 cause 	 	we	can	reach	in	,	not	in	2d	,	not	in	fake	2d	,	but	in	actual	3d	.
+here	are	some	 s 	 election 	 	 plane 	 s 	 	.
+and	we	'll	perform	 th 	 is 	 	boolean	operation	 be 	 cause 	 	we	 re 	 ally 	 	love	yellow	and	 tap 	 ir 	 s 	 	on	green	grass	.
+so	,	from	there	to	the	world	of	real	work	.
+here	's	a	 logist 	 ic 	 s 	 	system	,	a	small	piece	of	one	that	we	're	 current 	 ly 	 	building	.
+there	're	a	lot	of	 element 	 s 	 	.
+and	one	thing	that	's	 ver 	 y 	 	 import 	 ant 	 	is	to	combine	 tradition 	 al 	 	 tabula 	 r 	 	data	with	three	-	dimensional	and	 geo 	 spatial 	 	information	.
+so	here	's	a	familiar	place	.
+and	we	'll	 br 	 ing 	 	 th 	 is 	 	back	here	for	a	second	.
+ may 	 be 	 	select	a	little	bit	of	that	.
+and	 br 	 ing 	 	out	 th 	 is 	 	graph	.
+and	we	should	,	now	,	be	able	to	fly	in	here	and	have	a	 close 	 r 	 	look	.
+these	are	 logist 	 ic 	 s 	 	 element 	 s 	 	that	are	 scatter 	 ed 	 	 a 	 cross 	 	the	 unit 	 ed 	 	 state 	 s 	 	.
+one	thing	that	three	-	dimensional	 interact 	 ions 	 	and	the	general	idea	of	 im 	 bu 	 ing 	 	computation	with	space	 afford 	 s 	 	you	is	a	final	 destruct 	 ion 	 	of	that	 un 	 fortunate 	 	one	-	to	-	one	 pair 	 ing 	 	between	human	 be 	 ing 	 s 	 	and	 computer 	 s 	 	.
+that	's	the	old	way	,	that	's	the	old	 man 	 tra 	 	:	one	machine	,	one	human	,	one	mouse	,	one	screen	.
+well	,	that	 do 	 es 	 	n't	 re 	 ally 	 	cut	it	 any 	 more 	 	.
+in	the	real	world	,	we	have	people	who	 collabor 	 ate 	 	;	we	have	people	who	have	to	work	together	,	and	we	have	 man 	 y 	 	different	 dis 	 play 	 s 	 	.
+and	we	might	want	to	look	at	these	 vari 	 ous 	 	 image 	 s 	 	.
+we	might	want	to	ask	for	some	help	.
+the	author	of	 th 	 is 	 	new	 point 	 ing 	 	 de 	 vice 	 	is	 s 	 itt 	 ing 	 	over	there	,	so	i	can	pull	 th 	 is 	 	from	there	to	there	.
+these	are	 un 	 related 	 	 machine 	 s 	 	,	right	?
+so	the	computation	is	space	soluble	and	network	soluble	.
+so	i	'm	going	to	 leav 	 e 	 	that	over	there	 be 	 cause 	 	i	have	a	question	for	paul	.
+paul	is	the	 design 	 er 	 	of	 th 	 is 	 	 wan 	 d 	 	,	and	 may 	 be 	 	 it 	 s 	 	 eas 	 iest 	 	for	him	to	come	over	here	and	tell	me	in	person	what	's	going	on	.
+so	let	me	get	some	of	these	out	of	the	way	.
+let	's	pull	 th 	 is 	 	 a 	 part 	 	:	i	'll	go	 a 	 head 	 	and	explode	it	.
+kevin	,	can	you	help	?
+let	me	see	if	i	can	help	us	find	the	circuit	board	.
+mind	you	,	it	's	a	sort	of	gratuitous	field	-	 strip 	 ping 	 	 exercis 	 e 	 	,	but	we	do	it	in	the	lab	all	the	time	.
+all	right	.
+so	 collabor 	 ative 	 	work	,	 whet 	 her 	 	it	's	 im 	 mediate 	 ly 	 	co	-	 locate 	 d 	 	or	 di 	 stant 	 	and	distinct	,	is	 al 	 ways 	 	 import 	 ant 	 	.
+and	 aga 	 in 	 	,	that	stuff	 need 	 s 	 	to	be	 under 	 taken 	 	in	the	 con 	 text 	 	of	space	.
+and	 final 	 ly 	 	,	i	'd	like	to	 leav 	 e 	 	you	with	a	 glimps 	 e 	 	that	 take 	 s 	 	us	back	to	the	world	of	 image 	 ry 	 	.
+ th 	 is 	 	is	a	system	 call 	 ed 	 	tamper	,	which	is	a	 s 	 light 	 ly 	 	 whim 	 s 	 ical 	 	look	at	what	the	future	of	 edit 	 ing 	 	and	media	 manipul 	 ation 	 	 system 	 s 	 	might	be	.
+we	at	oblong	 believ 	 e 	 	that	media	should	be	 access 	 ible 	 	in	much	more	fine	-	grained	form	.
+so	we	have	a	large	number	of	 movie 	 s 	 	 s 	 tuck 	 	 in 	 side 	 	here	.
+and	let	's	just	pick	out	a	few	 element 	 s 	 	.
+we	can	zip	through	them	 a 	 s 	 	a	 possibil 	 ity 	 	.
+we	can	grab	 element 	 s 	 	off	the	front	,	where	 up 	 on 	 	they	 re 	 animate 	 	,	come	to	life	,	and	drag	them	down	onto	the	table	here	.
+we	'll	go	over	to	jacques	tati	here	and	grab	our	blue	friend	and	put	him	down	on	the	table	 a 	 s 	 	well	.
+we	may	need	more	than	one	.
+and	we	 prob 	 ably 	 	need	,	well	,	we	 prob 	 ably 	 	need	a	 cow 	 boy 	 	to	be	 quit 	 e 	 	honest	.
+ yea 	 h 	 	,	let	's	take	that	one	.
+you	see	,	 cow 	 boy 	 s 	 	and	french	 far 	 ce 	 	people	do	n't	go	well	together	,	and	the	system	 know 	 s 	 	that	.
+let	me	 leav 	 e 	 	with	one	final	thought	,	and	that	is	that	one	of	the	 great 	 est 	 	english	language	 writer 	 s 	 	of	the	last	three	 decade 	 s 	 	 suggest 	 ed 	 	that	great	art	is	 al 	 ways 	 	a	gift	.
+and	he	was	n't	 talk 	 ing 	 	about	 whet 	 her 	 	the	novel	 cost 	 s 	 	24.95	[	 dollar 	 s 	 	]	,	or	 whet 	 her 	 	you	have	to	spring	70	million	 buck 	 s 	 	to	buy	the	 stole 	 n 	 	vermeer	;	he	was	 talk 	 ing 	 	about	the	 circum 	 stance 	 s 	 	of	 it 	 s 	 	creation	and	of	 it 	 s 	 	 exist 	 ence 	 	.
+and	i	think	that	it	's	time	that	we	 ask 	 ed 	 	for	the	same	from	technology	.
+technology	is	 cap 	 able 	 	of	 express 	 ing 	 	and	 be 	 ing 	 	 imbue 	 d 	 	with	a	certain	 gene 	 ros 	 ity 	 	,	and	we	need	to	demand	that	,	in	fact	.
+for	some	of	 th 	 is 	 	kind	of	technology	,	ground	center	is	a	combination	of	design	,	which	is	 cruci 	 ally 	 	 import 	 ant 	 	.
+we	ca	n't	have	 advance 	 s 	 	in	technology	any	 long 	 er 	 	 un 	 less 	 	design	is	 integrate 	 d 	 	from	the	 ver 	 y 	 	start	.
+and	,	 a 	 s 	 	well	,	 a 	 s 	 	of	 e 	 ff 	 ic 	 acy 	 	,	 age 	 ncy 	 	.
+we	're	,	 a 	 s 	 	human	 be 	 ing 	 s 	 	,	the	 creature 	 s 	 	that	create	,	and	we	should	make	 s 	 ure 	 	that	our	 machine 	 s 	 	aid	us	in	that	task	and	are	built	in	that	same	image	.
+so	i	will	 leav 	 e 	 	you	with	that	.	thank	you	.
+chris	anderson	:	so	to	ask	the	obvious	question	--	 actual 	 ly 	 	 th 	 is 	 	is	from	bill	 gate 	 s 	 	--	when	?
+ca	:	when	real	?	when	for	us	,	not	just	in	a	lab	and	on	a	stage	?
+can	it	be	for	every	man	,	or	is	 th 	 is 	 	just	for	 corporation 	 s 	 	and	movie	 produce 	 rs 	 	?
+ju	:	no	,	it	 ha 	 s 	 	to	be	for	every	human	 be 	 ing 	 	.
+that	's	our	goal	 entire 	 ly 	 	.
+we	wo	n't	have	 succeed 	 ed 	 	 un 	 less 	 	we	take	that	next	big	step	.
+i	mean	it	's	 be 	 en 	 	25	 year 	 s 	 	.
+can	there	 re 	 ally 	 	be	 on 	 ly 	 	one	 inter 	 face 	 	?	there	ca	n't	.
+ca	:	but	 do 	 es 	 	that	mean	that	,	at	your	desk	or	in	your	home	,	you	need	 project 	 ors 	 	,	 camera 	 s 	 	?
+you	know	,	how	can	it	work	?
+ju	:	no	,	 th 	 is 	 	stuff	will	be	built	 in 	 to 	 	the	bezel	of	every	 dis 	 play 	 	.
+it	'll	be	built	 in 	 to 	 	 architect 	 ure 	 	.
+the	 glove 	 s 	 	go	away	in	a	matter	of	 month 	 s 	 	or	 year 	 s 	 	.
+so	 th 	 is 	 	is	the	 inevit 	 ability 	 	about	it	.
+ca	:	so	,	in	your	mind	,	five	 year 	 s 	 	time	,	 some 	 one 	 	can	buy	 th 	 is 	 	 a 	 s 	 	part	of	a	standard	computer	 inter 	 face 	 	?
+ju	:	i	think	in	five	 year 	 s 	 	time	when	you	buy	a	computer	,	you	'll	get	 th 	 is 	 	.
+ca	:	well	that	's	cool	.
+the	world	 ha 	 s 	 	a	habit	of	surprising	us	 a 	 s 	 	to	how	these	 thing 	 s 	 	are	 actual 	 ly 	 	used	.
+what	do	you	think	,	what	in	your	mind	is	the	first	killer	app	for	 th 	 is 	 	?
+ju	:	that	's	a	good	question	,	and	we	ask	 our 	 s 	 elves 	 	that	every	day	.
+at	the	moment	,	our	early	-	adopter	 custom 	 ers 	 	--	and	these	 system 	 s 	 	are	 deploy 	 ed 	 	out	in	the	real	world	--	do	all	the	big	data	intensive	,	data	heavy	 problem 	 s 	 	with	it	.
+so	,	 whet 	 her 	 	it	's	 logist 	 ic 	 s 	 	and	supply	chain	management	or	natural	gas	and	resource	 extra 	 ction 	 	,	financial	 service 	 s 	 	,	 pharmaceutical 	 s 	 	,	 bio 	 informatics 	 	,	 t 	 hose 	 	are	the	 top 	 ic 	 s 	 	right	now	,	but	that	's	not	a	killer	app	.
+and	i	understand	what	you	're	 ask 	 ing 	 	.
+ca	:	 c 	 ' 	 mon 	 	,	 c 	 ' 	 mon 	 	.	 mar 	 tial 	 	 art 	 s 	 	,	 game 	 s 	 	.	 c 	 ' 	 mon 	 	.
+john	,	thank	you	for	making	science	-	fiction	real	.
+ju	:	it	's	 be 	 en 	 	a	great	pleasure	.
+thank	you	to	you	all	.
+

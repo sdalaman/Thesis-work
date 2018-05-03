@@ -1,0 +1,41 @@
+let	me	 introduc 	 e 	 	to	you	rezero	.
+ th 	 is 	 	little	fellow	was	 develop 	 ed 	 	by	a	group	of	10	 under 	 graduate 	 	 student 	 s 	 	at	the	autonomous	 system 	 s 	 	 labor 	 atory 	 	at	eth	-	zurich	.
+our	robot	 belong 	 s 	 	to	a	family	of	 robot 	 s 	 	 call 	 ed 	 	ballbots	.
+ in 	 stead 	 	of	 wheel 	 s 	 	,	a	 ball 	 bot 	 	is	 balanc 	 ing 	 	and	moving	on	one	single	ball	.
+the	main	 character 	 istic 	 s 	 	of	 s 	 uch 	 	a	system	is	that	there	's	one	sole	contact	point	to	the	ground	.
+ th 	 is 	 	 mean 	 s 	 	that	the	robot	is	 inherent 	 ly 	 	 un 	 s 	 table 	 	.
+it	's	like	when	i	am	 try 	 ing 	 	to	stand	on	one	foot	.
+you	might	ask	 your 	 self 	 	,	what	's	the	 use 	 fulness 	 	of	a	robot	that	's	 un 	 s 	 table 	 	?
+now	we	'll	explain	that	in	a	second	.
+let	me	first	explain	how	rezero	 actual 	 ly 	 	 keep 	 s 	 	his	balance	.
+rezero	 keep 	 s 	 	his	balance	by	 constant 	 ly 	 	 measur 	 ing 	 	his	pitch	angle	with	a	sensor	.
+he	then	 counter 	 act 	 s 	 	and	 avoid 	 s 	 	 top 	 pl 	 ing 	 	over	by	 turn 	 ing 	 	the	 motor 	 s 	 	 appropriate 	 ly 	 	.
+ th 	 is 	 	 happen 	 s 	 	160	 time 	 s 	 	per	second	,	and	if	 any 	 thing 	 	 fail 	 s 	 	in	 th 	 is 	 	process	,	rezero	would	 im 	 mediate 	 ly 	 	fall	to	the	ground	.
+now	to	move	and	to	balance	,	rezero	 need 	 s 	 	to	turn	the	ball	.
+the	ball	is	driven	by	three	special	 wheel 	 s 	 	that	allow	rezero	to	move	 in 	 to 	 	any	direction	and	 al 	 so 	 	move	around	his	own	axis	at	the	same	time	.
+due	to	his	 in 	 st 	 ability 	 	,	rezero	is	 al 	 ways 	 	in	motion	.	now	here	's	the	trick	.
+it	's	 in 	 de 	 ed 	 	 exact 	 ly 	 	 th 	 is 	 	 in 	 st 	 ability 	 	that	 allow 	 s 	 	a	robot	to	move	 ver 	 y 	 	[	 dynamic 	 ally 	 	]	.
+let	's	play	a	little	.
+you	may	have	 wonder 	 ed 	 	what	 happen 	 s 	 	if	i	give	the	robot	a	little	push	.
+in	 th 	 is 	 	mode	,	he	's	 try 	 ing 	 	to	maintain	his	position	.
+for	the	next	demo	,	i	'd	like	you	to	 introduc 	 e 	 	to	my	 col 	 league 	 s 	 	michael	,	on	the	computer	,	and	thomas	who	's	 help 	 ing 	 	me	 on 	 stage 	 	.
+in	the	next	mode	,	rezero	is	 pass 	 ive 	 	,	and	we	can	move	him	around	.
+with	 al 	 most 	 	no	force	i	can	control	his	position	and	his	 velo 	 city 	 	.
+i	can	 al 	 so 	 	make	him	spin	.
+in	the	next	mode	,	we	can	get	rezero	to	follow	a	person	.
+he	's	now	 keep 	 ing 	 	a	constant	distance	to	thomas	.
+ th 	 is 	 	 work 	 s 	 	with	a	laser	sensor	that	's	 mount 	 ed 	 	on	top	of	rezero	.
+with	the	same	method	,	we	can	 al 	 so 	 	get	him	to	circle	a	person	.
+we	call	 th 	 is 	 	the	 orbit 	 ing 	 	mode	.
+all	right	,	thank	you	,	thomas	.
+now	,	what	's	the	use	of	 th 	 is 	 	technology	?
+for	now	,	it	's	an	experiment	,	but	let	me	show	you	some	possible	future	 application 	 s 	 	.
+rezero	could	be	used	in	 exhibit 	 ions 	 	or	 park 	 s 	 	.
+with	a	screen	it	could	inform	people	or	show	them	around	in	a	 f 	 un 	 	and	 entertain 	 ing 	 	way	.
+in	a	hospital	,	 th 	 is 	 	 de 	 vice 	 	could	be	used	to	carry	around	medical	 equi 	 p 	 ment 	 	.
+due	to	the	 ball 	 bot 	 	system	,	it	 ha 	 s 	 	a	 ver 	 y 	 	small	 foot 	 print 	 	and	it	's	 al 	 so 	 	easy	to	move	around	.
+and	of	course	,	who	would	n't	like	to	take	a	ride	on	one	of	these	.
+and	these	are	more	practical	 application 	 s 	 	.
+but	there	's	 al 	 so 	 	a	certain	 beaut 	 y 	 	 with 	 in 	 	 th 	 is 	 	technology	.
+thank	you	.	thank	you	.
+

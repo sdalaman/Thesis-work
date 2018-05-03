@@ -1,0 +1,299 @@
+nous	prenons	tous	des	 décision 	 s 	 	tous	les	 jour 	 s 	 	;	nous	 voul 	 ons 	 	 s 	 avoir 	 	quel	est	le	bon	choix	à	faire	--	que	ce	soit	dans	le	domaine	 financ 	 ier 	 	,	 g 	 astronomique 	 	,	professionnel	,	ou	 amour 	 eux 	 	.
+ e 	 t 	 	,	si	 quel 	 qu'un 	 	 pouv 	 ait 	 	dire	avec	certitude	les	 bon 	 s 	 	choix	à	faire	à	 cha 	 que 	 	instant	,	cela	 s 	 e 	 rait 	 	un	 cad 	 eau 	 	 merveille 	 ux 	 	.
+en	fait	,	il	 s 	 e 	 	 trouv 	 e 	 	que	le	monde	a	reçu	ce	 cad 	 eau 	 	en	1738	,	de	la	part	 d' 	 un 	 	 poly 	 math 	 e 	 	 hol 	 landais 	 	,	daniel	bernoulli	.
+aujourd'hui	 j' 	 aimerais 	 	vous	 parle 	 r 	 	de	ce	 cad 	 eau 	 	,	 mai 	 s 	 	aussi	,	vous	expliquer	pourquoi	il	n'a	 absolu 	 ment 	 	rien	changé	.
+voici	le	 cad 	 eau 	 	de	bernoulli	.	je	cite	.
+si	ça	vous	paraît	du	grec	,	 e 	 h 	 	bien	,	 c' 	 en 	 	est	.
+ mai 	 s 	 	la	 traduc 	 tion 	 	--	bien	moins	 précis 	 e 	 	,	 mai 	 s 	 	qui	 en 	 globe 	 	 l' 	 essentiel 	 	de	ce	que	bernoulli	avait	à	dire	--	est	:	la	 val 	 eur 	 	 attendu 	 e 	 	de	 n' 	 importe 	 	quelle	action	--	à	 s 	 avoir 	 	,	le	bien	que	 l' 	 on 	 	peut	espérer	obtenir	--	est	le	produit	de	deux	 chose 	 s 	 	:	la	 prob 	 abilité 	 	que	 l' 	 action 	 	nous	apporte	un	gain	,	 e 	 t 	 	la	 val 	 eur 	 	de	ce	gain	à	 no 	 s 	 	yeux	.
+ d' 	 une 	 	 certain 	 e 	 	façon	,	ce	que	bernoulli	explique	est	que	,	si	 l' 	 on 	 	peut	 estime 	 r 	 	 e 	 t 	 	 multiplie 	 r 	 	 ce 	 s 	 	deux	 val 	 eurs 	 	,	on	 s 	 aura 	 	 tou 	 jour 	 s 	 	 exacte 	 ment 	 	comme	 s 	 e 	 	 comporte 	 r 	 	.
+ainsi	,	 ce 	 tte 	 	simple	équation	,	même	pour	ceux	 d' 	 entre 	 	vous	qui	 n'aime 	 nt 	 	pas	les	 équation 	 s 	 	,	est	quelque	chose	qui	vous	est	 famil 	 ier 	 	.
+voici	un	exemple	:	je	vous	propose	de	 joue 	 r 	 	à	pile	ou	face	;	je	vais	 lance 	 r 	 	une	pièce	,	 e 	 t 	 	si	 l' 	 on 	 	obtient	face	,	je	vous	donne	10	 dollar 	 s 	 	,	 mai 	 s 	 	vous	 dev 	 ez 	 	 paye 	 r 	 	4	 dollar 	 s 	 	pour	avoir	le	droit	de	 joue 	 r 	 	,	la	 plu 	 part 	 	 d' 	 entre 	 	vous	 di 	 ront 	 	,	bien	sûr	,	je	joue	.	parce	que	vous	 s 	 avez 	 	que	vous	avez	une	chance	sur	deux	de	 gagne 	 r 	 	,	que	le	gain	est	de	10	 dollar 	 s 	 	,	ce	qui	fait	un	gain	moyen	de	5	,	 e 	 t 	 	c'est	plus	que	ce	que	je	vous	demande	pour	 joue 	 r 	 	.	la	réponse	est	donc	oui	.
+c'est	ce	que	les	 statisticien 	 s 	 	 appelle 	 nt 	 	un	sacré	bon	pari	.
+ mai 	 s 	 	c'est	facile	quand	on	joue	à	pile	ou	face	,	 mai 	 s 	 	ce	n'est	pas	aussi	simple	dans	la	vie	de	tous	les	 jour 	 s 	 	.
+les	 gen 	 s 	 	 s 	 ont 	 	très	mauvais	pour	 estime 	 r 	 	 ce 	 s 	 	deux	 val 	 eurs 	 	,	 e 	 t 	 	c'est	de	ça	que	je	vais	vous	 parle 	 r 	 	aujourd'hui	.
+il	y	a	deux	 type 	 s 	 	 d' 	 erreur 	 s 	 	que	les	 gen 	 s 	 	font	en	 tent 	 ant 	 	de	 décid 	 er 	 	quoi	faire	,	il	 s 	 'agit 	 	 d' 	 erreur 	 s 	 	en	 estim 	 ant 	 	les	 chance 	 s 	 	de	 réussi 	 te 	 	,	 e 	 t 	 	 d' 	 erreur 	 	 d' 	 estimation 	 	de	la	 val 	 eur 	 	de	leur	 réussi 	 te 	 	.
+ parl 	 ons 	 	de	la	première	erreur	.
+ calcul 	 er 	 	des	 pro 	 babilités 	 	semble	assez	simple	:	il	y	a	6	 face 	 s 	 	sur	un	dé	,	deux	 côté 	 s 	 	sur	une	pièce	,	52	 carte 	 s 	 	dans	le	 pa 	 quet 	 	.
+on	connaît	tous	la	 prob 	 abilité 	 	de	 tombe 	 r 	 	sur	 l'a 	 s 	 	de	pique	,	ou	de	 tombe 	 r 	 	sur	le	côté	``	face	``	.
+ mai 	 s 	 	ce	n'est	pas	si	simple	au	quotidien	.
+voila	pourquoi	les	 américain 	 s 	 	 dépens 	 ent 	 	 d 	 avantage 	 	--	ou	,	 plu 	 tôt 	 	,	 perd 	 ent 	 	 d' 	 avantage 	 	--	sur	des	 pari 	 s 	 	que	sur	tous	les	 autre 	 s 	 	 loisir 	 s 	 	 réuni 	 s 	 	.
+la	raison	est	que	ce	n'est	pas	comme	ça	que	les	 gen 	 s 	 	 calcul 	 ent 	 	des	 pro 	 babilités 	 	.
+pour	expliquer	la	façon	 do 	 nt 	 	les	 gen 	 s 	 	font	des	 pro 	 babilités 	 	nous	 dev 	 ons 	 	 d' 	 abord 	 	 parle 	 r 	 	de	 co 	 chons 	 	.
+la	question	que	je	vais	vous	poser	est	la	 suiv 	 ante 	 	:	pensez	-	vous	qu'il	y	a	 d 	 avantage 	 	de	 chien 	 s 	 	ou	de	 co 	 chons 	 	en	laisse	à	oxford	,	un	jour	ordinaire	.
+ e 	 t 	 	bien	sûr	,	vous	 s 	 avez 	 	tous	que	la	réponse	est	``	 chien 	 s 	 	``	.
+vous	 s 	 avez 	 	que	la	réponse	est	 chien 	 s 	 	,	car	vous	avez	consulté	 vot 	 re 	 	mémoire	pour	trouver	 com 	 bien 	 	de	fois	vous	avez	vu	des	 chien 	 s 	 	 e 	 t 	 	des	 co 	 chons 	 	en	laisse	.
+il	est	facile	de	 s 	 e 	 	 sou 	 venir 	 	 d' 	 avoir 	 	vu	des	 chien 	 s 	 	,	pas	si	simple	de	 s 	 e 	 	 sou 	 venir 	 	 d' 	 avoir 	 	vu	des	 co 	 chons 	 	.	 e 	 t 	 	vous	en	avez	 dé 	 duit 	 	que	,	si	les	 chien 	 s 	 	en	laisse	vous	viennent	plus	 rapide 	 ment 	 	à	 l' 	 esprit 	 	,	c'est	 qu'il 	 s 	 	 s 	 ont 	 	plus	 fréquent 	 s 	 	.
+ce	n'est	pas	une	 mauvais 	 e 	 	 approxim 	 ation 	 	,	sauf	quand	elle	ne	fonctionne	pas	.
+voici	,	par	exemple	,	un	jeu	de	 lettre 	 s 	 	.
+en	anglais	,	existe	-	t	-	il	plus	de	 mot 	 s 	 	de	quatre	 lettre 	 s 	 	qui	 commence 	 nt 	 	par	r	,	ou	qui	ont	un	r	en	troisième	position	?
+vous	 consulte 	 z 	 	 vot 	 re 	 	mémoire	 rapide 	 ment 	 	,	 e 	 t 	 	il	est	très	simple	de	 s 	 e 	 	dire	:	 r 	 ing 	 	,	rang	,	_UNK_	,	 e 	 t 	 	très	dur	de	 s 	 e 	 	dire	:	_UNK_	...	park	:	ils	vous	viennent	plus	 lent 	 ement 	 	.
+ mai 	 s 	 	en	 ré 	 alité 	 	,	il	y	a	beaucoup	plus	de	 mot 	 s 	 	anglais	qui	ont	un	r	en	3e	position	 qu' 	 en 	 	première	.
+la	raison	pour	 la 	 quelle 	 	les	 mot 	 s 	 	avec	un	r	en	3e	place	vous	viennent	plus	 lent 	 ement 	 	à	 l' 	 esprit 	 	n'est	pas	 qu'il 	 s 	 	 s 	 ont 	 	 improb 	 ables 	 	,	--	-	ou	peu	 fréquent 	 s 	 	.
+c'est	parce	que	 l' 	 esprit 	 	 s 	 e 	 	 sou 	 vient 	 	des	 mot 	 s 	 	par	leur	première	lettre	.
+en	quelque	 sort 	 e 	 	vous	 commence 	 z 	 	à	dire	le	son	,	s	--	 e 	 t 	 	le	mot	arrive	.
+c'est	comme	un	 diction 	 naire 	 	;	c'est	difficile	de	 cherche 	 r 	 	des	 mot 	 s 	 	par	leur	troisième	lettre	.
+ ce 	 t 	 	exemple	montre	que	 l' 	 idée 	 	 s 	 e 	 lon 	 	 la 	 quelle 	 	la	vitesse	à	 la 	 quelle 	 	les	 chose 	 s 	 	vous	viennent	à	 l' 	 esprit 	 	est	une	indication	de	leur	 prob 	 abilité 	 	,	est	une	idée	qui	peut	vous	 joue 	 r 	 	des	 tour 	 s 	 	.	 mai 	 s 	 	il	ne	 s 	 'agit 	 	pas	que	de	 puzzle 	 s 	 	.
+par	exemple	,	quand	on	demande	aux	 américain 	 s 	 	 d' 	 estime 	 r 	 	la	 prob 	 abilité 	 	de	 mour 	 ir 	 	 d' 	 une 	 	façon	étrange	--	voici	les	 estimation 	 s 	 	du	nombre	de	 mort 	 s 	 	par	an	,	pour	200	 million 	 s 	 	de	 citoyen 	 s 	 	 américain 	 s 	 	.
+on	a	 demand 	 é 	 	à	des	 gen 	 s 	 	normaux	comme	vous	 d' 	 estime 	 r 	 	la	 prob 	 abilité 	 	 qu'il 	 s 	 	avaient	de	 mour 	 ir 	 	dans	une	 tor 	 nade 	 	,	un	accident	de	feu	 d' 	 artifice 	 	,	 d' 	 asthme 	 	,	de	noyade	,	etc	.
+ compa 	 rons 	 	 ce 	 s 	 	 estimation 	 s 	 	sur	les	 véri 	 tables 	 	 statistique 	 s 	 	.
+on	 a 	 perçoit 	 	tout	de	suite	un	motif	intéressant	,	qui	est	que	deux	 chose 	 s 	 	 s 	 ont 	 	très	_UNK_	:	les	 tor 	 nade 	 s 	 	 e 	 t 	 	les	 f 	 eux 	 	 d' 	 artifice 	 	;	 tan 	 dis 	 	que	deux	 chose 	 s 	 	 s 	 ont 	 	très	sous	-	 estimé 	 es 	 	:	les	 mort 	 s 	 	par	noyade	,	 e 	 t 	 	à	cause	 d' 	 asthme 	 	.	pourquoi	?
+ pouv 	 ez 	 	-	vous	vous	 sou 	 venir 	 	avoir	 dé 	 jà 	 	ouvert	un	journal	avec	comme	gros	titre	``	un	garçon	meurt	 d' 	 asthme 	 	``	?
+ce	n'est	pas	intéressant	,	car	c'est	si	commun	.
+on	arrive	 facile 	 ment 	 	à	 s 	 e 	 	 sou 	 venir 	 	 d' 	 avoir 	 	vu	des	 re 	 port 	 age 	 s 	 	ou	des	 article 	 s 	 	qui	 parle 	 nt 	 	de	 tor 	 nade 	 s 	 	 détruis 	 ant 	 	des	 ville 	 s 	 	,	ou	 d' 	 un 	 	pauvre	type	qui	a	perdu	 s 	 es 	 	 main 	 s 	 	avec	un	 pét 	 ard 	 	le	jour	de	la	fête	 national 	 e 	 	.
+les	_UNK_	 e 	 t 	 	 l' 	 asthme 	 	ne	 s 	 ont 	 	pas	très	 représent 	 és 	 	aux	 info 	 s 	 	.
+elles	ne	nous	viennent	pas	 rapide 	 ment 	 	à	 l' 	 esprit 	 	,	 e 	 t 	 	donc	on	les	sous	-	estime	 énormé 	 ment 	 	.
+c'est	un	peu	comme	ce	jeu	de	``	 r 	 ue 	 	 s 	 ésame 	 	``	,	``	 cherche 	 z 	 	 l' 	 intrus 	 	``	.	 e 	 t 	 	ici	,	 l' 	 intrus 	 	est	la	 pisci 	 ne 	 	,	car	une	 pisci 	 ne 	 	est	la	 seul 	 e 	 	chose	sur	 ce 	 tte 	 	image	qui	est	 vrai 	 ment 	 	très	 danger 	 euse 	 	.
+il	est	en	effet	plus	 prob 	 able 	 	de	 mour 	 ir 	 	dans	une	 pisci 	 ne 	 	que	dans	 ce 	 s 	 	le	 lot 	 o 	 	est	un	bon	exemple	,	bien	sûr	--	un	très	bon	cas	 d' 	 étude 	 	de	la	façon	 do 	 nt 	 	les	 gen 	 s 	 	 calcul 	 ent 	 	les	 pro 	 babilités 	 	.
+ e 	 t 	 	les	 économiste 	 s 	 	--	pardonnez	-	moi	,	si	vous	 joue 	 z 	 	au	 lot 	 o 	 	--	 mai 	 s 	 	les	 économiste 	 s 	 	,	au	moins	entre	eux	,	 appelle 	 nt 	 	le	 lot 	 o 	 	une	taxe	sur	la	 stupid 	 ité 	 	,	 puisqu 	 e 	 	les	 chance 	 s 	 	de	 gagne 	 r 	 	quoi	que	ce	soit	en	 achet 	 ant 	 	un	 ti 	 cket 	 	de	 lot 	 o 	 	 s 	 ont 	 	à	peu	près	 équivalent 	 es 	 	à	 jet 	 er 	 	 l' 	 argent 	 	par	la	fenêtre	.
+ce	qui	,	soit	dit	en	 pass 	 ant 	 	,	ne	requiert	pas	que	vous	 all 	 iez 	 	au	magasin	pour	acheter	quoi	que	soit	pourquoi	 qui 	 con 	 que 	 	 voudrai 	 t 	 	 joue 	 r 	 	au	 lot 	 o 	 	?
+ e 	 t 	 	,	il	y	a	de	 nombre 	 uses 	 	 réponse 	 s 	 	,	 mai 	 s 	 	une	des	 réponse 	 s 	 	est	,	on	voit	beaucoup	de	 gagnant 	 s 	 	,	n'est	-	ce	pas	?	quand	ce	couple	gagne	le	gros	lot	,	ou	que	ed	_UNK_	vous	apporte	un	chèque	 gé 	 ant 	 	--	comment	 dé 	 poser 	 	un	truc	de	 ce 	 tte 	 	 t 	 aille 	 	à	la	banque	,	je	ne	 s 	 ais 	 	pas	.
+on	voit	ça	à	la	télé	,	on	le	lit	dans	le	journal	.
+quand	avez	-	vous	vu	pour	la	 der 	 nière 	 	fois	des	 interview 	 s 	 	 complète 	 s 	 	de	tous	ceux	qui	ont	perdu	?
+en	vérité	,	si	on	 demand 	 ait 	 	aux	 chaîne 	 s 	 	de	 télé 	 vision 	 	de	 montre 	 r 	 	une	interview	de	30	 seconde 	 s 	 	de	 cha 	 que 	 	perdant	 cha 	 que 	 	fois	 qu' 	 elles 	 	 montre 	 nt 	 	un	gagnant	,	les	100	 million 	 s 	 	de	 perdant 	 s 	 	de	la	 der 	 nière 	 	 lot 	 erie 	 	 demande 	 raient 	 	9	 an 	 s 	 	 e 	 t 	 	demi	de	 vot 	 re 	 	temps	,	 simple 	 ment 	 	pour	les	entendre	dire	,	``	moi	?	j'ai	perdu	``	.	``	moi	?	j'ai	perdu	``	.
+alors	,	si	vous	 regard 	 iez 	 	9	 an 	 s 	 	 e 	 t 	 	demi	de	 télé 	 vision 	 	--	sans	 dorm 	 ir 	 	,	sans	pause	 toilette 	 s 	 	--	 e 	 t 	 	que	vous	voyez	perdant	après	perdant	,	suivi	 d' 	 une 	 	séquence	de	trente	 seconde 	 s 	 	de	``	moi	,	j'ai	 gag 	 né 	 	``	.
+il	est	très	peu	 prob 	 able 	 	que	vous	 all 	 iez 	 	 joue 	 r 	 	au	 lot 	 o 	 	.
+je	peux	vous	le	 prouve 	 r 	 	:	voici	une	 lot 	 erie 	 	simple	.
+il	y	a	10	 ti 	 cket 	 s 	 	en	jeu	.
+neuf	 ti 	 cket 	 s 	 	ont	été	 vendu 	 s 	 	à	 ce 	 s 	 	 personne 	 s 	 	.
+le	dernier	 ti 	 cket 	 	 cout 	 e 	 	1	dollar	,	 e 	 t 	 	,	si	vous	 gagne 	 z 	 	,	vous	 emporte 	 z 	 	20	 dollar 	 s 	 	.	est	-	ce	un	bon	pari	?
+ e 	 t 	 	bien	,	bernoulli	nous	dit	que	oui	:	le	gain	moyen	est	de	2	 dollar 	 s 	 	,	c'est	une	 lot 	 erie 	 	dans	 la 	 quelle 	 	vous	 dev 	 riez 	 	investir	 vot 	 re 	 	argent	.
+la	 plu 	 part 	 	des	 gen 	 s 	 	 dis 	 ent 	 	``	ok	,	je	joue	``	.
+voyons	 main 	 tenant 	 	une	version	 légère 	 ment 	 	 différent 	 e 	 	de	 ce 	 tte 	 	 lot 	 erie 	 	:	 imagine 	 z 	 	que	les	9	 ti 	 cket 	 s 	 	ont	tous	été	 acheté 	 s 	 	par	un	seul	gros	type	appelé	leroy	.
+leroy	a	neuf	 ti 	 cket 	 s 	 	;	il	 n' 	 en 	 	reste	qu'un	à	 vend 	 re 	 	est	-	ce	que	vous	le	prenez	?	la	 plu 	 part 	 	des	 gen 	 s 	 	ne	veulent	pas	 joue 	 r 	 	à	 ce 	 tte 	 	 lot 	 erie 	 	.
+vous	 pouv 	 ez 	 	voir	que	la	 prob 	 abilité 	 	de	 gagne 	 r 	 	n'a	pas	changé	 mai 	 s 	 	il	est	 main 	 tenant 	 	 extrême 	 ment 	 	facile	 d' 	 imaginer 	 	qui	va	 gagne 	 r 	 	.
+on	voit	bien	que	leroy	va	 gagne 	 r 	 	le	lot	,	n'est	-	ce	pas	?
+vous	ne	 pouv 	 ez 	 	pas	vous	dire	,	``	j'ai	autant	de	 chance 	 s 	 	que	tout	le	monde	``	,	car	vous	 n' 	 avez 	 	pas	autant	de	 chance 	 s 	 	de	 gagne 	 r 	 	que	leroy	.
+le	fait	qu'un	seul	type	possède	tous	 ce 	 s 	 	 ti 	 cket 	 s 	 	change	 vot 	 re 	 	décision	de	 joue 	 r 	 	ou	non	,	alors	que	ça	ne	change	rien	du	tout	aux	 pro 	 babilités 	 	.
+ mai 	 s 	 	 estime 	 r 	 	des	 pro 	 babilités 	 	,	aussi	difficile	que	ça	paraisse	,	est	très	facile	 compa 	 ré 	 	au	problème	 d' 	 estime 	 r 	 	des	 val 	 eurs 	 	:	 détermine 	 r 	 	ce	que	vaut	quelque	chose	,	à	quel	point	on	va	 l' 	 apprécie 	 r 	 	,	la	 quant 	 ité 	 	de	plaisir	qu'il	va	nous	 r 	 apporter 	 	.
+je	vais	 main 	 tenant 	 	vous	 parle 	 r 	 	 d' 	 erreur 	 s 	 	de	 val 	 eur 	 	.
+ com 	 bien 	 	vaut	ce	big	mac	?	est	-	ce	qu'il	vaut	25	 dollar 	 s 	 	?
+la	 plu 	 part 	 	 d' 	 entre 	 	vous	 s 	 e 	 	 dis 	 ent 	 	que	non	--	vous	ne	 paye 	 riez 	 	pas	ça	pour	 l' 	 avoir 	 	.
+ mai 	 s 	 	en	vérité	,	pour	 s 	 avoir 	 	si	un	big	mac	vaut	25	 dollar 	 s 	 	,	il	faut	vous	poser	une	 seul 	 e 	 	question	:	 qu' 	 est 	 	-	ce	que	je	peux	faire	 d' 	 autre 	 	avec	25	 dollar 	 s 	 	?
+si	vous	êtes	sur	un	de	 ce 	 s 	 	 vol 	 s 	 	long	-	 courrier 	 s 	 	,	en	route	pour	l'australie	,	 e 	 t 	 	que	vous	vous	 rend 	 ez 	 	compte	qu'il	 n' 	 y 	 	aura	pas	de	 re 	 pas 	 	,	 mai 	 s 	 	que	 quel 	 qu'un 	 	 dev 	 ant 	 	vous	ouvre	un	sac	de	chez	mac	_UNK_	,	 e 	 t 	 	que	 l' 	 odeur 	 	vous	 par 	 vient 	 	,	vous	vous	dites	je	ne	peux	rien	faire	avec	mes	25	 dollar 	 s 	 	pour	les	 prochain 	 es 	 	16	heures	.
+je	ne	peux	même	pas	les	 brûl 	 er 	 	--	ils	ont	 pri 	 s 	 	mon	 brique 	 t 	 	!
+à	ce	moment	,	25	 dollar 	 s 	 	pour	un	big	mac	semble	être	une	bonne	affaire	.
+ d' 	 un 	 	autre	côté	,	si	vous	êtes	dans	un	pays	en	voie	de	 développe 	 ment 	 	,	où	25	 dollar 	 s 	 	peuvent	vous	obtenir	un	 re 	 pas 	 	de	 lux 	 e 	 	,	c'est	 ex 	 orbitant 	 	pour	un	big	mac	.
+pourquoi	étiez	-	vous	si	 sûr 	 s 	 	que	la	réponse	était	non	,	avant	même	que	je	vous	aie	expliqué	le	 context 	 e 	 	?
+parce	que	la	 plu 	 part 	 	 d' 	 entre 	 	vous	 compare 	 nt 	 	le	 pri 	 x 	 	de	ce	big	mac	avec	le	 pri 	 x 	 	que	vous	avez	 l' 	 habitude 	 	de	 paye 	 r 	 	.	au	lieu	de	vous	dire	``	 qu' 	 est 	 	ce	que	je	peux	avoir	 d' 	 autre 	 	avec	 ce 	 t 	 	argent	?	``	,	c'est	-	à	-	dire	 compare 	 r 	 	 ce 	 t 	 	investissement	aux	 autre 	 s 	 	 investissement 	 s 	 	 possible 	 s 	 	,	vous	 l' 	 avez 	 	 compa 	 ré 	 	au	passé	.
+c'est	une	erreur	que	les	 gen 	 s 	 	font	 systémat 	 iquement 	 	.
+vous	vous	êtes	dit	,	 d' 	 habitude 	 	je	paye	3	 dollar 	 s 	 	,	25	c'est	beaucoup	trop	.
+c'est	une	erreur	,	 e 	 t 	 	je	peux	vous	le	 prouve 	 r 	 	en	vous	 mont 	 rant 	 	le	 gen 	 re 	 	de	 comporte 	 ment 	 	irrationnel	que	ça	apporte	.
+voici	par	exemple	une	des	 astuce 	 s 	 	en	 market 	 ing 	 	les	plus	 sympath 	 iques 	 	;	il	 s 	 'agit 	 	de	dire	que	quelque	chose	était	plus	cher	auparavant	,	 e 	 t 	 	tout	à	coup	ça	 dev 	 ient 	 	une	affaire	.
+si	on	demande	à	des	 gen 	 s 	 	de	 choisi 	 r 	 	entre	 ce 	 s 	 	deux	 mé 	 tiers 	 	:	dans	 l' 	 un 	 	,	on	gagne	60	mille	,	puis	50	,	puis	40	mille	,	un	 bou 	 lot 	 	où	vous	 recev 	 ez 	 	une	baisse	de	 s 	 a 	 laire 	 	 cha 	 que 	 	année	,	 e 	 t 	 	un	autre	où	vous	avez	une	 augment 	 ation 	 	,	les	 gen 	 s 	 	 préfère 	 nt 	 	le	second	au	premier	,	bien	 qu' 	 on 	 	leur	ait	dit	 qu'il 	 s 	 	 gagne 	 ront 	 	moins	au	final	.	pourquoi	?
+parce	 qu'il 	 s 	 	_UNK_	que	des	 baisse 	 s 	 	de	 s 	 a 	 laire 	 	 s 	 ont 	 	 pi 	 re 	 s 	 	que	des	 augment 	 ations 	 	,	même	si	le	total	est	plus	élevé	dans	le	premier	cas	.	voici	un	autre	cas	 sympath 	 ique 	 	.
+voici	un	voyage	organisé	à	hawaii	qui	coûte	2000	 dollar 	 s 	 	.	il	est	en	 sol 	 de 	 	pour	1600	imaginons	que	vous	 voul 	 iez 	 	 parti 	 r 	 	à	hawaii	,	achetez	-	vous	ce	voyage	?
+la	 plu 	 part 	 	des	 gen 	 s 	 	 dis 	 ent 	 	que	oui	.	voici	une	version	un	peu	 différent 	 e 	 	:	le	voyage	a	2000	 dollar 	 s 	 	est	en	 sol 	 de 	 	pour	700	 dollar 	 s 	 	,	vous	y	 ré 	 fléchissez 	 	pendant	une	semaine	.
+ mai 	 s 	 	quand	vous	 arrive 	 z 	 	à	 l' 	 agence 	 	de	 voyage 	 s 	 	,	les	 bille 	 t 	 s 	 	à	ce	 pri 	 x 	 	 s 	 ont 	 	 vendu 	 s 	 	--	le	voyage	coûte	 main 	 tenant 	 	1500	.	est	-	ce	que	vous	 l' 	 achetez 	 	?	la	 plu 	 part 	 	des	 gen 	 s 	 	 répond 	 ent 	 	non	.
+pourquoi	?	parce	que	ça	 coût 	 ait 	 	700	,	 e 	 t 	 	je	ne	vais	pas	 paye 	 r 	 	1500	un	truc	qui	 coût 	 ait 	 	700	la	semaine	 der 	 nière 	 	.
+ ce 	 tte 	 	tendance	à	 compare 	 r 	 	au	passé	fait	que	les	 gen 	 s 	 	ne	prennent	pas	le	meilleur	 pri 	 x 	 	.
+une	bonne	affaire	qui	était	une	 super 	 be 	 	affaire	paraît	moins	bien	 qu'un 	 e 	 	 mauvais 	 e 	 	affaire	qui	était	une	très	 mauvais 	 e 	 	affaire	.
+voici	un	autre	exemple	de	la	façon	 do 	 nt 	 	les	 compa 	 rais 	 ons 	 	au	passé	peuvent	 compl 	 ique 	 r 	 	 no 	 s 	 	 décision 	 s 	 	.
+imaginons	que	vous	allez	au	théâtre	.
+vous	êtes	en	chemin	.
+dans	 vot 	 re 	 	 porte 	 feuille 	 	il	y	a	 vot 	 re 	 	place	,	que	vous	avez	 payé 	 e 	 	20	 dollar 	 s 	 	,	 e 	 t 	 	un	 bille 	 t 	 	de	20	 dollar 	 s 	 	.
+en	 arriv 	 ant 	 	au	théâtre	,	vous	vous	 rend 	 ez 	 	compte	 qu' 	 en 	 	chemin	vous	avez	perdu	le	 ti 	 cket 	 	.
+est	-	ce	que	vous	utilisez	le	 bille 	 t 	 	pour	acheter	une	autre	place	?
+la	 plu 	 part 	 	des	 gen 	 s 	 	 répond 	 ent 	 	:	non	.
+ mai 	 s 	 	 change 	 ons 	 	un	seul	élément	de	ce	scénario	.
+vous	êtes	en	chemin	vers	le	théâtre	,	 e 	 t 	 	dans	 vot 	 re 	 	 porte 	 feuille 	 	vous	avez	deux	 bille 	 t 	 s 	 	de	20	 dollar 	 s 	 	.
+en	 arriv 	 ant 	 	,	vous	vous	 apercev 	 ez 	 	que	vous	en	avez	perdu	un	.
+est	-	ce	que	vous	 dépens 	 ez 	 	les	20	 dollar 	 s 	 	 rest 	 ant 	 s 	 	pour	acheter	une	place	?
+ e 	 h 	 	bien	,	bien	sûr	:	je	suis	venu	au	théâtre	pour	voir	la	pièce	,	 qu' 	 est 	 	ce	que	la	 per 	 te 	 	de	20	 dollar 	 s 	 	a	à	voir	avec	ça	?
+au	cas	où	vous	ne	vous	 rend 	 riez 	 	pas	compte	du	problème	,	voici	un	schéma	.
+en	chemin	,	vous	avez	perdu	quelque	chose	.
+dans	les	deux	cas	,	il	 s 	 'agit 	 	 d' 	 un 	 	bout	de	papier	.
+dans	un	cas	,	il	y	avait	le	 vis 	 age 	 	 d' 	 un 	 	président	américain	sur	le	papier	,	pas	sur	 l' 	 autre 	 	.
+quelle	différence	est	-	ce	que	cela	 dev 	 rait 	 	faire	?
+la	différence	est	que	quand	vous	 perd 	 ez 	 	le	 ti 	 cket 	 	vous	vous	dites	:	je	ne	vais	pas	 paye 	 r 	 	deux	fois	la	même	chose	.
+vous	 compare 	 z 	 	le	 pri 	 x 	 	de	la	pièce	 main 	 tenant 	 	--	40	 dollar 	 s 	 	--	avec	 l' 	 ancien 	 	 pri 	 x 	 	de	la	place	--	20	 dollar 	 s 	 	--	 e 	 t 	 	vous	vous	dites	que	c'est	une	 mauvais 	 e 	 	affaire	.
+faire	des	 compa 	 rais 	 ons 	 	avec	le	passé	est	source	de	beaucoup	de	 problème 	 s 	 	que	les	 économiste 	 s 	 	du	 comporte 	 ment 	 	 e 	 t 	 	les	 psych 	 ologues 	 	 identifie 	 nt 	 	dans	les	 tent 	 atives 	 	des	 gen 	 s 	 	à	 assign 	 er 	 	des	 val 	 eurs 	 	.
+ mai 	 s 	 	même	en	 compa 	 rant 	 	avec	ce	qui	est	possible	,	au	lieu	du	passé	,	on	fait	encore	 d' 	 autre 	 s 	 	 erreur 	 s 	 	.
+je	vais	vous	en	 montre 	 r 	 	deux	.
+une	des	 chose 	 s 	 	que	 l' 	 on 	 	 s 	 ait 	 	sur	les	 compa 	 rais 	 ons 	 	:	quand	on	compare	une	chose	à	une	autre	,	ça	 modifi 	 e 	 	 s 	 a 	 	 val 	 eur 	 	.
+en	92	,	ce	monsieur	,	george	 bus 	 h 	 	,	pour	ceux	 d' 	 entre 	 	nous	qui	 s 	 ont 	 	 plu 	 tôt 	 	à	gauche	en	politique	,	ne	 paraiss 	 ait 	 	pas	très	bon	.
+ e 	 t 	 	tout	à	coup	,	on	en	vient	 pres 	 que 	 	à	espérer	qu'il	 re 	 vienne 	 	.
+la	 compa 	 raison 	 	change	la	façon	 do 	 nt 	 	on	 l' 	 estime 	 	.
+les	 commerçant 	 s 	 	 s 	 avaient 	 	ça	bien	avant	tout	le	monde	,	bien	sûr	,	 e 	 t 	 	ils	 utilise 	 nt 	 	 ce 	 tte 	 	 s 	 age 	 sse 	 	pour	vous	aider	à	vous	 libér 	 er 	 	de	 vot 	 re 	 	argent	.
+ainsi	si	vous	allez	chez	un	marchand	de	vin	 e 	 t 	 	que	vous	voulez	prendre	une	 bout 	 e 	 ille 	 	,	 e 	 t 	 	que	vous	voyez	 ce 	 s 	 	 der 	 nières 	 	,	à	8	,	27	,	 e 	 t 	 	33	 dollar 	 s 	 	,	 qu' 	 est 	 	ce	que	vous	 fer 	 iez 	 	?
+la	 plu 	 part 	 	des	 gen 	 s 	 	ne	veulent	pas	la	plus	chère	,	ils	ne	veulent	pas	le	premier	 pri 	 x 	 	.
+donc	,	ils	 achète 	 nt 	 	la	 bout 	 e 	 ille 	 	du	 mi 	 lieu 	 	.
+si	vous	êtes	un	commerçant	 rus 	 é 	 	,	donc	,	vous	allez	mettre	un	objet	très	cher	,	que	personne	_UNK_	,	car	tout	à	coup	la	 bout 	 e 	 ille 	 	à	33	 dollar 	 s 	 	ne	semble	pas	si	chère	,	en	 compa 	 raison 	 	.
+je	vous	explique	quelque	chose	que	vous	 s 	 aviez 	 	 dé 	 jà 	 	:	les	 compa 	 rais 	 ons 	 	 change 	 nt 	 	la	 val 	 eur 	 	des	 chose 	 s 	 	.
+voici	pourquoi	c'est	un	problème	:	le	problème	est	que	quand	vous	achetez	la	 bout 	 e 	 ille 	 	à	33	 dollar 	 s 	 	,	 s 	 a 	 	position	sur	 l' 	 étagère 	 	n'a	plus	 aucun 	 e 	 	importance	.
+les	 compa 	 rais 	 ons 	 	que	 l' 	 on 	 	fait	en	 estim 	 ant 	 	la	 val 	 eur 	 	,	quand	on	essaye	 d' 	 estime 	 r 	 	à	quel	point	on	va	 apprécie 	 r 	 	les	 chose 	 s 	 	,	ne	 s 	 ont 	 	pas	les	mêmes	 compa 	 rais 	 ons 	 	que	 l' 	 on 	 	fera	quand	on	les	 consomm 	 era 	 	.
+ce	problème	de	 compa 	 rais 	 ons 	 	qui	 change 	 nt 	 	nous	gêne	dans	 no 	 s 	 	 tent 	 atives 	 	pour	prendre	des	 décision 	 s 	 	 ration 	 nelle 	 s 	 	laissez	-	moi	vous	donner	un	exemple	.
+il	faut	que	je	vous	 présent 	 e 	 	quelque	chose	de	mes	 propre 	 s 	 	 recherche 	 s 	 	.
+voici	des	 sujet 	 s 	 	venant	pour	une	expérience	,	à	qui	on	demande	la	plus	simple	des	 question 	 s 	 	:	à	quel	point	allez	-	vous	 apprécie 	 r 	 	 mange 	 r 	 	des	 chi 	 p 	 s 	 	,	dans	une	minute	?
+ils	 s 	 ont 	 	dans	une	pièce	,	avec	un	 pa 	 quet 	 	de	 chi 	 p 	 s 	 	en	face	 d' 	 eux 	 	.
+pour	 quelque 	 s 	 	 sujet 	 s 	 	,	dans	un	coin	de	la	pièce	 s 	 e 	 	 trouv 	 e 	 	une	 boit 	 e 	 	de	 chocolat 	 s 	 	de	chez	godiva	,	 e 	 t 	 	pour	les	 autre 	 s 	 	il	y	a	une	 boit 	 e 	 	de	 pât 	 é 	 	de	porc	.
+ e 	 t 	 	on	 s 	 e 	 	rend	compte	que	les	 objet 	 s 	 	qui	 s 	 ont 	 	dans	la	pièce	 change 	 nt 	 	à	quel	point	les	 sujet 	 s 	 	 pense 	 nt 	 	 qu'il 	 s 	 	vont	 apprécie 	 r 	 	les	 chi 	 p 	 s 	 	.
+ceux	qui	 regarde 	 nt 	 	le	 pât 	 é 	 	 pense 	 nt 	 	que	les	 chi 	 p 	 s 	 	vont	être	très	 bonne 	 s 	 	;	 e 	 t 	 	ceux	qui	 regarde 	 nt 	 	les	 chocolat 	 s 	 	 pense 	 nt 	 	 qu' 	 elles 	 	ne	vont	pas	être	si	 bonne 	 s 	 	que	ça	.
+ e 	 t 	 	,	bien	sûr	,	 qu' 	 est 	 	-	ce	qui	 s 	 e 	 	passe	quand	ils	 mange 	 nt 	 	les	 chi 	 p 	 s 	 	?
+ e 	 h 	 	bien	,	vous	 n' 	 avez 	 	pas	besoin	 d' 	 un 	 	 psycho 	 logue 	 	pour	 s 	 avoir 	 	que	,	quand	vous	avez	une	 bouché 	 e 	 	de	 chi 	 p 	 s 	 	_UNK_	,	 graisse 	 uses 	 	,	_UNK_	 e 	 t 	 	 déli 	 cieuse 	 s 	 	,	ce	qu'il	y	avait	dans	un	coin	de	la	pièce	ne	fait	 aucun 	 e 	 	différence	pour	 vot 	 re 	 	 pal 	 ais 	 	.
+ e 	 t 	 	 pour 	 tant 	 	,	 leur 	 s 	 	 attente 	 s 	 	 s 	 ont 	 	 modifi 	 ées 	 	par	une	 compa 	 raison 	 	qui	 en 	 suite 	 	ne	change	pas	leur	expérience	.
+on	en	a	tous	 dé 	 jà 	 	fait	 l' 	 expérience 	 	,	même	si	vous	 n' 	 êtes 	 	jamais	passé	dans	 not 	 re 	 	labo	pour	 mange 	 r 	 	des	 chi 	 p 	 s 	 	.	voici	un	exemple	:	vous	voulez	acheter	un	 auto 	 radio 	 	.
+le	 vend 	 eur 	 	près	de	chez	vous	les	vend	à	200	 dollar 	 s 	 	,	 mai 	 s 	 	si	vous	allez	à	 l' 	 autre 	 	bout	de	la	ville	,	vous	 pouv 	 ez 	 	 l' 	 avoir 	 	pour	100	 dollar 	 s 	 	.
+est	-	ce	que	vous	faites	le	 tra 	 jet 	 	pour	avoir	une	 ré 	 duction 	 	de	50	%	,	 e 	 t 	 	 économise 	 r 	 	100	 dollar 	 s 	 	?
+la	 plu 	 part 	 	des	 gen 	 s 	 	 dis 	 ent 	 	que	oui	.
+ils	ne	peuvent	imaginer	 l' 	 acheter 	 	à	deux	fois	le	 pri 	 x 	 	quand	,	en	 travers 	 ant 	 	la	ville	,	ils	peuvent	 l' 	 avoir 	 	à	moitié	 pri 	 x 	 	.
+imaginons	à	présent	que	vous	voulez	acheter	une	voiture	avec	un	 auto 	 radio 	 	,	 e 	 t 	 	le	 vend 	 eur 	 	près	de	chez	vous	la	vend	à	_UNK_	.
+ mai 	 s 	 	,	à	 l' 	 autre 	 	bout	de	la	ville	,	vous	 pouv 	 ez 	 	 l' 	 avoir 	 	pour	_UNK_	.
+est	-	ce	que	vous	faites	le	 tra 	 jet 	 	?	pour	 économise 	 r 	 	_UNK_	%	--	les	100	 dollar 	 s 	 	.
+la	 plu 	 part 	 	des	 gen 	 s 	 	 répond 	 ent 	 	non	,	je	ne	vais	pas	 traverse 	 r 	 	 tout 	 e 	 	la	ville	pour	 économise 	 r 	 	100	 dollar 	 s 	 	sur	 l' 	 achat 	 	 d' 	 une 	 	voiture	.
+ce	 gen 	 re 	 	de	 comporte 	 ment 	 	rend	les	 économiste 	 s 	 	 fou 	 s 	 	,	 e 	 t 	 	c'est	normal	.
+parce	que	 ce 	 s 	 	100	 dollar 	 s 	 	que	vous	 économise 	 z 	 	,	ils	ne	 s 	 a 	 vent 	 	pas	 d' 	 où 	 	ils	viennent	.
+ils	ne	 s 	 a 	 vent 	 	pas	ce	sur	quoi	vous	les	avez	 économi 	 s 	 és 	 	.
+quand	vous	faites	des	 cours 	 es 	 	avec	,	les	 bille 	 t 	 s 	 	ne	 s 	 e 	 	 dis 	 ent 	 	pas	:	``	je	suis	 l' 	 argent 	 	 économi 	 s 	 é 	 	sur	_UNK_	``	,	ou	,	``	je	suis	 l' 	 argent 	 	 bête 	 ment 	 	 économi 	 s 	 é 	 	sur	la	voiture	``	.	c'est	de	 l' 	 argent 	 	!
+si	 traverse 	 r 	 	la	ville	vaut	100	 dollar 	 s 	 	,	ça	vaut	100	 dollar 	 s 	 	,	peu	importe	ce	sur	quoi	vous	 économise 	 z 	 	.	 mai 	 s 	 	les	 gen 	 s 	 	ne	 pense 	 nt 	 	pas	comme	ça	.
+ voil 	 à 	 	pourquoi	ils	ne	 s 	 a 	 vent 	 	pas	si	le	gérant	de	leur	_UNK_	prend	0.1	ou	_UNK_	%	de	 com 	 mission 	 	,	 mai 	 s 	 	ils	 conserv 	 ent 	 	les	 bon 	 s 	 	de	 ré 	 duction 	 	pour	 gagne 	 r 	 	un	dollar	sur	le	 dent 	 if 	 rice 	 	.
+vous	le	voyez	,	c'est	un	problème	de	 compa 	 rais 	 ons 	 	 change 	 antes 	 	,	 puisqu 	 e 	 	vous	 compare 	 z 	 	les	100	 dollar 	 s 	 	 économi 	 s 	 és 	 	à	 l' 	 achat 	 	effectué	,	 mai 	 s 	 	quand	vous	_UNK_	 ce 	 t 	 	argent	,	vous	ne	 fer 	 ez 	 	plus	la	 compa 	 raison 	 	.
+nous	avons	tous	fait	 l' 	 expérience 	 	 suiv 	 ante 	 	.
+si	vous	êtes	américain	,	vous	avez	sans	doute	 voyag 	 é 	 	en	france	.
+ e 	 t 	 	vous	avez	 rencontr 	 é 	 	un	couple	originaire	de	 vot 	 re 	 	ville	,	 e 	 t 	 	vous	vous	êtes	dit	,	``	oh	,	c'est	 gen 	 s 	 	 s 	 ont 	 	si	 chaleur 	 eux 	 	,	si	 gentil 	 s 	 	.
+ sur 	 tout 	 	,	 compa 	 ré 	 	à	tous	 ce 	 s 	 	 gen 	 s 	 	qui	me	 détest 	 ent 	 	quand	 j' 	 essaye 	 	de	 parle 	 r 	 	leur	langue	,	 e 	 t 	 	plus	encore	quand	je	 n' 	 essaye 	 	pas	,	 ce 	 s 	 	 gen 	 s 	 	 s 	 ont 	 	 merveille 	 ux 	 	``	.	vous	 visite 	 z 	 	donc	la	france	avec	ce	couple	,	 e 	 t 	 	une	fois	 rent 	 ré 	 s 	 	vous	les	 invite 	 z 	 	à	 dîn 	 er 	 	,	 e 	 t 	 	 qu' 	 est 	 	-	ce	que	vous	 apercev 	 ez 	 	?
+par	rapport	à	 vo 	 s 	 	 autre 	 s 	 	 ami 	 s 	 	,	ceux	-	là	 s 	 ont 	 	 ennuy 	 eux 	 	,	n'est	-	ce	pas	?	c'est	parce	que	dans	ce	nouveau	 context 	 e 	 	,	la	 compa 	 raison 	 	est	très	,	très	 différent 	 e 	 	,	en	fait	,	vous	vous	dites	même	que	vous	les	 détest 	 ez 	 	 t 	 ellement 	 	 qu'il 	 s 	 	 pour 	 raient 	 	aussi	bien	être	français	.
+vous	avez	le	même	problème	quand	vous	allez	acheter	une	 chai 	 ne 	 	hi	-	fi	vous	allez	au	magasin	,	 e 	 t 	 	on	vous	propose	deux	 gen 	 re 	 s 	 	_UNK_	--	 ce 	 s 	 	gros	 truc 	 s 	 	_UNK_	,	 e 	 t 	 	 ce 	 s 	 	 tout 	 es 	 	 petite 	 s 	 	 enceinte 	 s 	 	,	vous	les	essayez	,	 e 	 t 	 	vous	vous	dites	,	oui	,	 j' 	 entend 	 s 	 	une	différence	,	les	plus	gros	 rend 	 ent 	 	un	meilleur	son	.
+vous	les	achetez	donc	,	les	amenez	à	la	maison	,	 e 	 t 	 	elles	 casse 	 nt 	 	 complète 	 ment 	 	la	 dé 	 co 	 	de	 vot 	 re 	 	foyer	.
+le	problème	,	bien	sûr	,	 e 	 t 	 	que	la	 compa 	 raison 	 	que	vous	avez	 fait 	 e 	 	est	une	 compa 	 raison 	 	que	vous	ne	_UNK_	plus	jamais	.
+quel	est	la	 prob 	 abilité 	 	que	,	plusieurs	 année 	 s 	 	plus	tard	,	vous	 allum 	 iez 	 	la	 chai 	 ne 	 	 e 	 t 	 	que	vous	vous	 dis 	 iez 	 	``	le	son	est	bien	meilleur	que	sur	les	plus	 petite 	 s 	 	``	,	 do 	 nt 	 	vous	ne	vous	 sou 	 venez 	 	même	plus	.
+le	problème	des	 compa 	 rais 	 ons 	 	 change 	 antes 	 	est	encore	plus	 complex 	 e 	 	quand	 ce 	 s 	 	choix	 s 	 ont 	 	 étalé 	 s 	 	dans	la	durée	.
+les	 gen 	 s 	 	ont	 d' 	 énorme 	 s 	 	 difficulté 	 s 	 	à	 compare 	 r 	 	des	 chose 	 s 	 	qui	 sur 	 viendront 	 	à	 différent 	 s 	 	 moment 	 s 	 	dans	le	temps	.
+ e 	 t 	 	,	ce	que	les	 psych 	 ologues 	 	 e 	 t 	 	les	 économiste 	 s 	 	du	 comporte 	 ment 	 	ont	 dé 	 couvert 	 	,	est	que	la	 plu 	 part 	 	des	 gen 	 s 	 	 suiv 	 ent 	 	deux	 règle 	 s 	 	 simple 	 s 	 	.
+je	vais	donner	un	problème	très	simple	à	 résoud 	 re 	 	,	puis	un	second	aussi	simple	,	 e 	 t 	 	enfin	un	troisième	problème	,	plus	difficile	.
+voici	le	premier	problème	.
+vous	 pouv 	 ez 	 	avoir	 immédiat 	 ement 	 	60	ou	50	 dollar 	 s 	 	.	 qu' 	 est 	 	-	ce	qui	vous	 fer 	 ait 	 	plaisir	?
+ dis 	 ons 	 	que	c'est	un	test	de	qi	à	une	question	,	 d' 	 accord 	 	?
+tout	le	monde	,	 j' 	 espère 	 	,	préfère	avoir	 d 	 avantage 	 	 d' 	 argent 	 	,	car	nous	 pens 	 ons 	 	que	plus	est	 mi 	 eux 	 	que	moins	.
+voici	le	second	problème	:	vous	 dev 	 ez 	 	 choisi 	 r 	 	entre	60	 dollar 	 s 	 	tout	de	suite	,	ou	dans	un	 moi 	 s 	 	.	 qu' 	 est 	 	-	ce	que	vous	 préfé 	 rez 	 	?
+encore	une	fois	,	c'est	facile	,	nous	 s 	 avons 	 	tous	que	 main 	 tenant 	 	est	 mi 	 eux 	 	que	plus	tard	.
+le	choix	 dev 	 ient 	 	difficile	quand	 ce 	 s 	 	deux	 règle 	 s 	 	 s 	 ont 	 	en	conflit	:	si	,	par	exemple	,	on	vous	offre	50	 dollar 	 s 	 	tout	de	suite	,	ou	60	dans	un	 moi 	 s 	 	.
+cela	correspond	à	de	 nombre 	 uses 	 	 situ 	 ations 	 	 ré 	 elles 	 	,	où	vous	 gagne 	 z 	 	à	 attend 	 re 	 	,	en	étant	patient	.
+ qu' 	 est 	 	ce	que	 l' 	 on 	 	découvre	?	que	font	les	 gen 	 s 	 	dans	 ce 	 s 	 	 situ 	 ations 	 	?
+ e 	 h 	 	bien	,	en	général	les	 gen 	 s 	 	 s 	 ont 	 	très	 im 	 patient 	 s 	 	.
+c'est	-	à	-	dire	 qu'il 	 s 	 	ont	besoin	de	taux	 d' 	 intérêt 	 	de	 l' 	 ordre 	 	de	la	 cent 	 aine 	 	de	 milli 	 er 	 s 	 	de	%	pour	 accepte 	 r 	 	 d' 	 attend 	 re 	 	,	 e 	 t 	 	 d' 	 avoir 	 	10	 dollar 	 s 	 	 supplément 	 aires 	 	le	 moi 	 s 	 	 suiv 	 ant 	 	.
+ce	n'est	peut	-	être	pas	si	 remarqu 	 able 	 	,	 mai 	 s 	 	ce	qui	 l' 	 est 	 	est	à	quel	point	il	est	facile	de	faire	 disparaît 	 re 	 	 ce 	 tte 	 	impatience	en	 change 	 ant 	 	quand	les	 date 	 s 	 	où	les	 gen 	 s 	 	 recev 	 ront 	 	 ce 	 s 	 	 somme 	 s 	 	 d' 	 argent 	 	.
+ imagine 	 z 	 	que	vous	avez	le	choix	entre	50	 dollar 	 s 	 	dans	un	an	--	12	 moi 	 s 	 	--	ou	60	 dollar 	 s 	 	dans	13	 moi 	 s 	 	.
+ qu' 	 est 	 	-	ce	 qu' 	 on 	 	découvre	?
+les	 gen 	 s 	 	 accepte 	 nt 	 	 d' 	 attend 	 re 	 	sans	problème	.	 puis 	 qu'il 	 s 	 	 doive 	 nt 	 	 attend 	 re 	 	12	 moi 	 s 	 	,	ils	peuvent	aussi	bien	 attend 	 re 	 	13	 moi 	 s 	 	.
+ d' 	 où 	 	vient	 ce 	 tte 	 	_UNK_	dynamique	?
+les	 compa 	 rais 	 ons 	 	.	les	 compa 	 rais 	 ons 	 	à	problème	.	laissez	-	moi	vous	le	 prouve 	 r 	 	.
+voici	un	graphique	 mont 	 rant 	 	les	 comporte 	 ment 	 s 	 	 do 	 nt 	 	je	vous	ai	parlé	,	 e 	 t 	 	vous	 fer 	 iez 	 	pareil	si	je	vous	 laiss 	 ais 	 	le	temps	de	 répond 	 re 	 	,	à	 s 	 avoir 	 	:	les	 gen 	 s 	 	 trouv 	 ent 	 	que	la	 val 	 eur 	 	subjective	de	50	est	 supérieur 	 e 	 	à	le	 val 	 eur 	 	subjective	de	60	,	quand	 ce 	 s 	 	 somme 	 s 	 	 s 	 ont 	 	 donné 	 es 	 	 immédiat 	 ement 	 	ou	dans	un	 moi 	 s 	 	--	un	délai	de	30	 jour 	 s 	 	--	 mai 	 s 	 	les	 gen 	 s 	 	 donne 	 nt 	 	la	réponse	inverse	quand	vous	_UNK_	 ce 	 tte 	 	décision	un	an	dans	le	futur	.
+ mai 	 s 	 	pourquoi	est	-	ce	que	nous	voyons	ce	 gen 	 re 	 	de	résultat	?
+ ce 	 s 	 	 gar 	 s 	 	-	là	peuvent	nous	 l' 	 expliquer 	 	.
+vous	 pouv 	 ez 	 	voir	deux	 homme 	 s 	 	,	 l' 	 un 	 	est	plus	grand	que	 l' 	 autre 	 	:	le	pompier	 e 	 t 	 	le	 violon 	 iste 	 	.
+ils	vont	 recule 	 r 	 	 jus 	 qu' 	 à 	 	 disparaît 	 re 	 	à	 l' 	 horizon 	 	,	 e 	 t 	 	vous	allez	voir	deux	 chose 	 s 	 	.
+à	aucun	moment	,	le	pompier	ne	semble	plus	haut	que	le	 violon 	 iste 	 	.	jamais	.
+ mai 	 s 	 	la	différence	de	 t 	 aille 	 	entre	eux	semble	être	de	plus	en	plus	petite	.
+c'est	 d' 	 abord 	 	 quelque 	 s 	 	 centimètre 	 s 	 	,	puis	un	centimètre	,	puis	un	demi	-	centimètre	,	 e 	 t 	 	enfin	ils	 dis 	 paraisse 	 nt 	 	à	 l' 	 horizon 	 	.
+voici	les	 résultat 	 s 	 	que	je	viens	de	vous	 montre 	 r 	 	.
+la	 t 	 aille 	 	subjective	--	la	 t 	 aille 	 	que	vous	avez	 observ 	 ée 	 	à	 différent 	 s 	 	 moment 	 s 	 	.
+ e 	 t 	 	je	 voudrai 	 s 	 	que	vous	vous	 rend 	 iez 	 	compte	de	deux	 chose 	 s 	 	:	 d' 	 une 	 	,	plus	ils	 s 	 ont 	 	loin	,	plus	ils	nous	 semble 	 nt 	 	petits	;	 e 	 t 	 	de	deux	,	le	pompier	est	 tou 	 jour 	 s 	 	plus	grand	que	le	 violon 	 iste 	 	.
+ mai 	 s 	 	regardez	ce	qui	 s 	 e 	 	passe	quand	on	cache	 certain 	 s 	 	 résultat 	 s 	 	.	 voil 	 à 	 	.
+de	très	près	,	le	 violon 	 iste 	 	semble	plus	grand	que	le	pompier	,	 mai 	 s 	 	de	loin	leur	 re 	 lation 	 	 normal 	 e 	 	,	 véri 	 table 	 	,	est	 préserv 	 ée 	 	.
+comme	platon	 dis 	 ait 	 	,	ce	que	 l' 	 espace 	 	est	à	la	 t 	 aille 	 	,	le	temps	est	à	la	 val 	 eur 	 	.
+voici	les	 résultat 	 s 	 	du	problème	difficile	que	je	vous	ai	donné	:	60	 main 	 tenant 	 	ou	50	dans	un	 moi 	 s 	 	?
+il	 s 	 'agit 	 	là	de	 val 	 eurs 	 	_UNK_	,	 e 	 t 	 	on	 s 	 e 	 	rend	compte	que	 no 	 s 	 	deux	 règle 	 s 	 	 s 	 ont 	 	 respect 	 ées 	 	.
+les	 gen 	 s 	 	 pense 	 nt 	 	 tou 	 jour 	 s 	 	que	plus	est	 mi 	 eux 	 	que	moins	,	60	est	 tou 	 jour 	 s 	 	meilleur	que	50	;	 e 	 t 	 	ils	 pense 	 nt 	 	 tou 	 jour 	 s 	 	que	 main 	 tenant 	 	est	 mi 	 eux 	 	que	plus	tard	.
+les	 barre 	 s 	 	de	ce	côté	 s 	 ont 	 	plus	 haute 	 s 	 	que	les	 barre 	 s 	 	de	ce	côté	.
+regardez	ce	qui	 s 	 e 	 	passe	quand	on	en	 supprim 	 e 	 	 quelque 	 s 	 	-	 une 	 s 	 	.
+on	voit	_UNK_	dynamique	qui	nous	a	surpris	.
+nous	avons	la	tendance	de	 choisi 	 r 	 	les	50	 dollar 	 s 	 	tout	de	suite	ou	 attend 	 re 	 	un	 moi 	 s 	 	,	 mai 	 s 	 	pas	si	 ce 	 tte 	 	décision	est	dans	 l' 	 avenir 	 	.
+ note 	 z 	 	que	cela	implique	quelque	chose	 d' 	 intéressant 	 	:	quand	les	 gen 	 s 	 	 arrive 	 nt 	 	à	ce	point	dans	 l' 	 avenir 	 	,	ils	 change 	 nt 	 	leur	choix	.
+c'est	-	à	-	dire	que	,	quand	le	_UNK_	 moi 	 s 	 	approche	,	vous	vous	dites	 mai 	 s 	 	à	quoi	je	 pens 	 ais 	 	,	pourquoi	 attend 	 re 	 	un	 moi 	 s 	 	de	plus	pour	60	 dollar 	 s 	 	?
+je	veux	les	50	 dollar 	 s 	 	tout	de	suite	.
+la	question	sur	 la 	 quelle 	 	 j' 	 aimerais 	 	 conclu 	 re 	 	est	la	 suiv 	 ante 	 	:	si	on	est	si	 stupid 	 e 	 	que	ça	,	comment	a	-	t	-	on	fait	pour	envoyer	un	homme	sur	la	lune	?
+parce	que	je	 pour 	 rais 	 	vous	 parle 	 r 	 	pendant	deux	heures	,	 preuve 	 s 	 	à	 l' 	 appui 	 	,	de	 l'in 	 capacité 	 	des	 gen 	 s 	 	à	 estime 	 r 	 	les	 pro 	 babilités 	 	 e 	 t 	 	les	 val 	 eurs 	 	.
+la	réponse	à	 ce 	 tte 	 	question	est	,	je	pense	,	quelque	chose	que	vous	avez	 dé 	 jà 	 	entendu	dans	 certain 	 es 	 	 autre 	 s 	 	 présent 	 ations 	 	ici	,	 e 	 t 	 	je	pense	que	vous	_UNK_	encore	.
+à	 s 	 avoir 	 	,	que	 no 	 s 	 	 cerveau 	 x 	 	ont	été	 conçu 	 s 	 	pour	un	monde	bien	différent	de	celui	dans	 le 	 quel 	 	nous	 viv 	 ons 	 	ils	étaient	 conçu 	 s 	 	pour	un	monde	où	les	 gen 	 s 	 	 viv 	 aient 	 	en	petits	 groupe 	 s 	 	,	 rencontr 	 aient 	 	 ra 	 re 	 ment 	 	 quel 	 qu'un 	 	de	très	différent	 d' 	 eux 	 	-	mêmes	,	avaient	des	 vie 	 s 	 	assez	 court 	 es 	 	,	sans	beaucoup	de	choix	,	 e 	 t 	 	où	la	 principal 	 e 	 	priorité	était	de	 mange 	 r 	 	 e 	 t 	 	 s 	 e 	 	 re 	 pro 	 duire 	 	le	jour	même	.
+le	 cad 	 eau 	 	de	bernoulli	,	 s 	 a 	 	petite	formule	,	nous	permet	,	nous	dit	comment	nous	 dev 	 rions 	 	nous	 comporte 	 r 	 	dans	un	monde	que	la	nature	n'a	jamais	créé	pour	nous	.
+voici	pourquoi	nous	avons	tant	de	 difficulté 	 s 	 	à	 l' 	 utiliser 	 	,	 mai 	 s 	 	ça	explique	aussi	pourquoi	il	est	si	important	que	nous	 de 	 venions 	 	 bon 	 s 	 	,	 e 	 t 	 	vite	.
+nous	 somme 	 s 	 	la	 seul 	 e 	 	espèce	de	 ce 	 tte 	 	planète	qui	ait	jamais	tenu	son	propre	destin	entre	 s 	 es 	 	 main 	 s 	 	.
+nous	 n' 	 avons 	 	pas	de	 préd 	 ateurs 	 	,	nous	 somme 	 s 	 	les	 maître 	 s 	 	de	 not 	 re 	 	environnement	,	les	 chose 	 s 	 	qui	,	 habituel 	 lement 	 	,	font	 disparaît 	 re 	 	des	 espèce 	 s 	 	ne	 s' 	 applique 	 nt 	 	plus	à	nous	.
+la	 seul 	 e 	 	chose	--	la	 seul 	 e 	 	--	qui	pourrait	nous	 dé 	 truire 	 	 e 	 t 	 	nous	 condamn 	 er 	 	est	 no 	 s 	 	 propre 	 s 	 	 décision 	 s 	 	.
+si	nous	ne	 somme 	 s 	 	plus	là	dans	10	000	 an 	 s 	 	,	ça	 s 	 era 	 	parce	que	nous	 n' 	 avons 	 	pas	su	utiliser	le	 cad 	 eau 	 	qui	nous	a	été	fait	par	un	 je 	 une 	 	 hol 	 landais 	 	en	1738	,	car	nous	avons	sous	-	estimé	les	 pro 	 babilités 	 	de	 no 	 s 	 	 souff 	 rance 	 s 	 	 futur 	 es 	 	 e 	 t 	 	 sur 	 estimé 	 	la	 val 	 eur 	 	de	 no 	 s 	 	 plaisir 	 s 	 	 présent 	 s 	 	.
+merci	.
+chris	anderson	:	 c' 	 était 	 	 fascin 	 ant 	 	.
+nous	avons	le	temps	pour	 quelque 	 s 	 	 question 	 s 	 	pour	dan	gilbert	.	vous	deux	.
+bill	_UNK_	:	est	-	ce	que	vous	 di 	 riez 	 	que	 ce 	 s 	 	 mécan 	 isme 	 s 	 	 s 	 ont 	 	en	 parti 	 e 	 	la	façon	 do 	 nt 	 	les	 acte 	 s 	 	 terroriste 	 s 	 	nous	 effraie 	 nt 	 	,	 e 	 t 	 	 s' 	 il 	 	existe	un	moyen	de	 ré 	 duire 	 	 ce 	 t 	 	effet	?
+dan	gilbert	:	j'ai	 effective 	 ment 	 	été	consulté	 réc 	 emment 	 	par	le	département	de	la	sécurité	 intérieur 	 e 	 	,	qui	pense	 habituel 	 lement 	 	que	le	budget	américain	de	la	 sûr 	 e 	 té 	 	 dev 	 rait 	 	être	utilisé	pour	 rend 	 re 	 	les	 front 	 ière 	 s 	 	plus	 sûr 	 es 	 	.
+j'ai	tenté	de	leur	expliquer	que	le	 terror 	 isme 	 	était	ainsi	nommé	sur	la	base	des	 ré 	 action 	 s 	 	 psycho 	 logique 	 s 	 	des	 gen 	 s 	 	à	 certain 	 s 	 	 événement 	 s 	 	,	 e 	 t 	 	que	 s' 	 ils 	 	 voul 	 aient 	 	 s' 	 occupe 	 r 	 	du	 terror 	 isme 	 	,	ils	 pour 	 raient 	 	 s 	 e 	 	 demande 	 r 	 	 qu' 	 est 	 	-	ce	qui	cause	la	 t 	 erreur 	 	,	comment	 empêche 	 r 	 	les	 gen 	 s 	 	 d' 	 être 	 	 terrifi 	 és 	 	,	 plu 	 tôt 	 	que	--	non	pas	 plu 	 tôt 	 	que	,	 mai 	 s 	 	en	plus	de	 cherche 	 r 	 	à	 empêche 	 r 	 	les	 atrocité 	 s 	 	qui	nous	_UNK_	tous	.
+sans	aucun	doute	,	la	part	que	les	 média 	 s 	 	 américain 	 s 	 	 accorde 	 nt 	 	à	--	 e 	 t 	 	pardonnez	-	moi	,	 mai 	 s 	 	dans	les	 chiffre 	 s 	 	il	 s 	 'agit 	 	de	tout	petits	 accident 	 s 	 	.
+nous	 s 	 avons 	 	,	par	exemple	,	 qu' 	 aux 	 	 état 	 s 	 	-	 uni 	 s 	 	,	 d 	 avantage 	 	de	 personne 	 s 	 	 s 	 ont 	 	 mort 	 es 	 	de	ne	pas	avoir	 pri 	 s 	 	 l' 	 avion 	 	--	car	elles	avaient	peur	--	 e 	 t 	 	ont	 pri 	 s 	 	 l' 	 autoroute 	 	,	qu'il	 n' 	 y 	 	a	eu	de	 mort 	 s 	 	le	11	 sept 	 embre 	 	.	ok	?
+si	je	vous	 dis 	 ais 	 	 qu'un 	 e 	 	épidémie	allait	tuer	15.000	 américain 	 s 	 	 l' 	 année 	 	 prochain 	 e 	 	,	vous	 pourri 	 ez 	 	être	 inqui 	 ets 	 	si	vous	 n' 	 aviez 	 	pas	compris	qu'il	 s' 	 agissait 	 	de	la	grippe	.
+il	 s 	 'agit 	 	de	petits	 accident 	 s 	 	,	 e 	 t 	 	on	pourrait	 s 	 e 	 	 demande 	 r 	 	 s' 	 ils 	 	 dev 	 raient 	 	avoir	 l' 	 importance 	 	,	la	 couvert 	 ure 	 	 média 	 tique 	 	,	 qu'il 	 s 	 	ont	.
+cela	 engend 	 re 	 	sans	doute	des	_UNK_	de	la	 prob 	 abilité 	 	que	vous	 pourri 	 ez 	 	 mour 	 ir 	 	de	 ce 	 tte 	 	façon	,	 e 	 t 	 	donne	de	la	force	à	ceux	qui	veulent	nous	effrayer	.
+ca	:	dan	,	 j' 	 aimerais 	 	en	entendre	plus	sur	ce	sujet	.	vous	dites	que	 not 	 re 	 	réponse	au	 terror 	 isme 	 	est	une	 sort 	 e 	 	de	bug	mental	?
+dites	-	nous	en	plus	.
+dg	:	c'est	 sur 	 estimé 	 	.	regardez	.
+si	l'australie	 dis 	 paraiss 	 ait 	 	demain	,	la	 t 	 erreur 	 	 s 	 e 	 rait 	 	sans	doute	la	bonne	 ré 	 action 	 	.
+il	 s 	 'agit 	 	 d' 	 une 	 	énorme	 port 	 ion 	 	de	 gen 	 s 	 	très	 sympath 	 iques 	 	.	 d' 	 un 	 	autre	côté	,	quand	un	bus	explose	 e 	 t 	 	 tu 	 e 	 	30	 personne 	 s 	 	,	plus	de	 gen 	 s 	 	que	ça	 s 	 ont 	 	 mort 	 s 	 	dans	ce	même	pays	parce	 qu'il 	 s 	 	 n' 	 avaient 	 	pas	mis	leur	 ceintu 	 re 	 	.
+est	-	ce	que	la	 t 	 erreur 	 	est	la	bonne	 ré 	 action 	 	?
+ca	:	 qu' 	 est 	 	-	ce	qui	cause	ce	bug	?	est	-	ce	que	c'est	le	choc	de	 l' 	 événement 	 	--	le	fait	qu'il	soit	si	spectaculaire	?
+ou	est	-	ce	le	fait	qu'il	 s 	 'agit 	 	 d' 	 une 	 	attaque	volontaire	par	des	,	entre	 guille 	 mets 	 	,	 étranger 	 s 	 	?
+ qu' 	 est 	 	ce	que	c'est	?
+dg	:	oui	,	il	y	a	plusieurs	 élément 	 s 	 	,	 e 	 t 	 	vous	en	avez	mentionné	plusieurs	.
+tout	 d' 	 abord 	 	,	c'est	une	personne	qui	cherche	à	nous	tuer	--	pas	un	arbre	qui	nous	tombe	dessus	par	accident	.
+ en 	 suite 	 	,	il	 s 	 'agit 	 	_UNK_	qui	 pour 	 raient 	 	 voul 	 oir 	 	nous	 ble 	 s 	 s 	 er 	 	à	nouveau	.
+les	 gen 	 s 	 	qui	 s 	 e 	 	font	tuer	sans	raison	 plu 	 tôt 	 	 qu' 	 avec 	 	une	bonne	raison	--	comme	 s' 	 il 	 	y	avait	de	 bonne 	 s 	 	 rais 	 ons 	 	,	 mai 	 s 	 	 par 	 fois 	 	les	 gen 	 s 	 	 pense 	 nt 	 	que	oui	.
+il	y	a	donc	un	grand	nombre	de	 chose 	 s 	 	qui	,	ensemble	,	font	que	 ce 	 t 	 	évènement	est	 exception 	 nel 	 	.	 mai 	 s 	 	 n' 	 oublions 	 	pas	que	les	 jour 	 naux 	 	 s 	 e 	 	 vend 	 ent 	 	quand	les	 gen 	 s 	 	y	voient	quelque	chose	 qu'il 	 s 	 	ont	envie	de	 li 	 re 	 	.	il	y	a	donc	un	rôle	important	joué	par	les	 média 	 s 	 	qui	 cherche 	 nt 	 	à	 rend 	 re 	 	 ce 	 s 	 	 événement 	 s 	 	aussi	 spectaculaire 	 s 	 	 qu'il 	 s 	 	le	peuvent	.
+ca	:	 mai 	 s 	 	 qu' 	 est 	 	ce	qu'il	 faudra 	 it 	 	pour	 convainc 	 re 	 	 not 	 re 	 	culture	de	 ré 	 duire 	 	 l' 	 impact 	 	de	 ce 	 s 	 	 événement 	 s 	 	?
+dg	:	 e 	 h 	 	bien	,	prenez	 l' 	 exemple 	 	d'israël	.
+en	israël	,	un	centre	commercial	explose	,	tout	le	monde	est	triste	,	 e 	 t 	 	une	heure	 e 	 t 	 	 demi 	 e 	 	plus	tard	--	quand	 j' 	 y 	 	étais	en	tout	cas	,	 e 	 t 	 	 j' 	 étais 	 	à	50	 mètre 	 s 	 	du	centre	commercial	quand	il	a	 explo 	 s 	 é 	 	--	je	suis	 re 	 tourné 	 	à	mon	hôtel	,	le	 mari 	 age 	 	qui	y	était	prévu	 continu 	 ait 	 	 normal 	 ement 	 	.
+ e 	 t 	 	,	comme	me	_UNK_	la	mère	 israélien 	 ne 	 	,	``	on	ne	les	 laisser 	 a 	 	pas	 gagne 	 r 	 	en	_UNK_	les	 mari 	 age 	 s 	 	``	.
+voila	une	 socié 	 té 	 	qui	a	appris	--	 e 	 t 	 	il	y	en	a	 d' 	 autre 	 s 	 	comme	ça	--	ce	que	c'est	que	de	 viv 	 re 	 	avec	un	certain	niveau	de	 terror 	 isme 	 	sans	être	aussi	en	 col 	 ère 	 	,	si	je	puis	dire	,	que	ceux	 d' 	 entre 	 	nous	qui	 n' 	 ont 	 	pas	vécu	tant	 d' 	 attaque 	 s 	 	.
+ca	:	 mai 	 s 	 	est	-	ce	qu'il	 n' 	 y 	 	a	pas	un	peu	de	 ration 	 alité 	 	dans	 ce 	 tte 	 	peur	,	à	 s 	 avoir 	 	que	nous	 somme 	 s 	 	 effrayé 	 s 	 	,	car	nous	 pens 	 ons 	 	 qu'un 	 e 	 	attaque	ultime	est	à	venir	?
+dg	:	oui	,	bien	sûr	.	si	nous	étions	 sûr 	 s 	 	que	 c' 	 était 	 	la	 pi 	 re 	 	attaque	que	nous	aurons	,	il	pourrait	y	avoir	 d 	 avantage 	 	de	bus	de	30	 personne 	 s 	 	--	 e 	 t 	 	nous	ne	 s 	 e 	 riez 	 	pas	si	 effrayé 	 s 	 	.
+je	ne	cherche	pas	à	dire	--	je	vous	en	 pri 	 e 	 	,	je	vais	être	cité	quelque	part	comme	disant	``	le	 terror 	 isme 	 	ce	n'est	rien	,	nous	ne	 dev 	 rions 	 	pas	être	si	 inqui 	 ets 	 	``	.
+ce	n'est	pas	ce	que	 j' 	 essaye 	 	de	dire	.
+ce	que	je	cherche	à	dire	est	que	,	de	façon	 ration 	 nelle 	 	 not 	 re 	 	 souff 	 rance 	 	par	rapport	aux	 événement 	 s 	 	 futur 	 s 	 	,	aux	 menace 	 s 	 	,	 dev 	 rait 	 	être	 proportion 	 nelle 	 	à	 l' 	 importance 	 	de	 ce 	 s 	 	 menace 	 s 	 	 e 	 t 	 	des	 menace 	 s 	 	à	venir	.
+je	pense	que	dans	le	cas	du	 terror 	 isme 	 	,	ce	n'est	pas	le	cas	.
+ par 	 mi 	 	les	 nombre 	 uses 	 	 chose 	 s 	 	que	nous	avons	 entendu 	 es 	 	aujourd'hui	--	 com 	 bien 	 	de	 personne 	 s 	 	 s 	 e 	 	 s 	 ont 	 	 levé 	 es 	 	 e 	 t 	 	ont	dit	la	 pauvre 	 té 	 	!	je	n'arrive	pas	à	croire	ce	que	la	 pauvre 	 té 	 	nous	cause	.
+les	 gen 	 s 	 	 s 	 e 	 	 lève 	 nt 	 	le	matin	;	ils	ne	 pense 	 nt 	 	pas	à	la	 pauvre 	 té 	 	.
+ça	ne	fait	pas	les	gros	 titre 	 s 	 	;	ça	ne	passe	pas	aux	 info 	 s 	 	,	ce	n'est	pas	 impression 	 nant 	 	.
+il	 n' 	 y 	 	a	pas	de	 coup 	 s 	 	de	feu	.
+voyons	,	si	vous	 pouv 	 iez 	 	 résoud 	 re 	 	 l' 	 un 	 	de	 ce 	 s 	 	 problème 	 s 	 	,	chris	,	 le 	 quel 	 	est	ce	que	ça	 s 	 e 	 rait 	 	?	le	 terror 	 isme 	 	ou	la	 pauvre 	 té 	 	?
+question	difficile	.
+ca	:	sans	aucun	doute	.
+la	 pauvre 	 té 	 	,	 large 	 ment 	 	,	très	 large 	 ment 	 	,	sauf	si	 quel 	 qu'un 	 	peut	 prouve 	 r 	 	que	des	 terroriste 	 s 	 	avec	une	arme	nucléaire	ont	de	 grand 	 es 	 	 chance 	 s 	 	 d' 	 attaquer 	 	.
+ mai 	 s 	 	 d' 	 après 	 	ce	que	j'ai	lu	,	ils	ne	peuvent	pas	faire	ça	.
+ s' 	 ils 	 	y	 arrive 	 nt 	 	,	on	a	 l' 	 air 	 	bête	,	 mai 	 s 	 	avec	la	 pauvre 	 té 	 	c'est	--	dg	:	même	si	 c' 	 était 	 	le	cas	,	la	 pauvre 	 té 	 	 tuer 	 ait 	 	 d 	 avantage 	 	de	 personne 	 s 	 	.
+ca	:	nous	avons	évolué	pour	être	 impression 	 nés 	 	par	 ce 	 s 	 	 attaque 	 s 	 	 dramat 	 iques 	 	.	est	-	ce	parce	 qu' 	 auparavant 	 	,	il	y	a	très	 long 	 temps 	 	,	on	ne	 com 	 prenait 	 	pas	des	 chose 	 s 	 	comme	les	 maladie 	 s 	 	 e 	 t 	 	les	 système 	 s 	 	qui	 cause 	 nt 	 	la	 pauvre 	 té 	 	,	etc	.
+ e 	 t 	 	donc	que	nous	ne	 voy 	 ions 	 	pas	 l' 	 intérêt 	 	,	en	tant	 qu' 	 espèce 	 	,	de	 dépens 	 er 	 	de	 l' 	 énergie 	 	à	 s 	 e 	 	 pré 	 occupe 	 r 	 	de	 ce 	 s 	 	 problème 	 s 	 	?
+des	 gen 	 s 	 	 s 	 ont 	 	 mort 	 s 	 	,	soit	.
+ mai 	 s 	 	si	vous	vous	faites	attaquer	,	vous	 pouv 	 ez 	 	faire	quelque	chose	.
+nous	avons	donc	évolué	vers	 ce 	 s 	 	 ré 	 action 	 s 	 	.
+est	-	ce	ce	qui	 s' 	 est 	 	passé	?
+dg	:	 e 	 h 	 	bien	,	vous	 s 	 avez 	 	,	les	 gen 	 s 	 	qui	_UNK_	le	plus	à	sauter	sur	les	 explication 	 s 	 	 évolution 	 nistes 	 	pour	 tout 	 es 	 	les	 question 	 s 	 	,	 s 	 ont 	 	les	 psych 	 ologues 	 	 évolution 	 nistes 	 	eux	-	mêmes	.
+à	mon	avis	il	 n' 	 y 	 	a	rien	de	si	spécifique	dans	 not 	 re 	 	passé	évolutif	.	 mai 	 s 	 	si	vous	 cherche 	 z 	 	une	réponse	 évolution 	 niste 	 	,	vous	 pourri 	 ez 	 	vous	dire	que	la	 plu 	 part 	 	des	 organisme 	 s 	 	 s 	 ont 	 	_UNK_	--	c'est	-	à	-	dire	 qu'il 	 s 	 	ont	peur	de	ce	qui	est	nouveau	 e 	 t 	 	différent	.
+ e 	 t 	 	à	juste	titre	,	car	ce	que	vous	 connaisse 	 z 	 	ne	va	pas	vous	 mange 	 r 	 	,	n'est	-	ce	pas	?
+tout	animal	que	vous	avez	 dé 	 jà 	 	vu	à	moins	de	 chance 	 s 	 	 d' 	 être 	 	un	 préd 	 ateur 	 	,	 con 	 traire 	 ment 	 	à	un	animal	que	vous	 n' 	 avez 	 	jamais	vu	.
+ e 	 t 	 	donc	,	quand	un	bus	scolaire	explose	 e 	 t 	 	 qu' 	 on 	 	n'a	jamais	vu	ça	,	 not 	 re 	 	 mécan 	 isme 	 	naturel	 en 	 vers 	 	ce	qui	est	nouveau	est	activé	.
+je	ne	pense	pas	que	ça	soit	aussi	spécifique	que	le	 mécan 	 isme 	 	que	vous	avez	mentionné	,	 mai 	 s 	 	peut	-	être	un	autre	,	plus	fondamental	,	sous	-	jacent	jay	walker	:	vous	 s 	 avez 	 	,	les	 économiste 	 s 	 	 adore 	 nt 	 	nous	 parle 	 r 	 	de	la	bêtise	de	ceux	qui	 joue 	 nt 	 	au	 lot 	 o 	 	.	 mai 	 s 	 	je	pense	que	vous	faites	la	même	erreur	que	ce	que	vous	leur	_UNK_	,	à	 s 	 avoir 	 	une	erreur	de	 val 	 eur 	 	.
+vous	 s 	 avez 	 	,	j'ai	 interview 	 é 	 	près	de	1000	 joueur 	 s 	 	de	 lot 	 o 	 	au	cours	des	 année 	 s 	 	,	il	 s 	 e 	 	 trouv 	 e 	 	que	la	 val 	 eur 	 	 d' 	 acheter 	 	un	 ti 	 cket 	 	n'est	pas	de	 gagne 	 r 	 	.
+c'est	ce	que	vous	croyez	.
+le	joueur	moyen	achète	environ	150	 ti 	 cket 	 s 	 	par	an	,	il	 s 	 ait 	 	donc	très	bien	qu'il	ou	elle	va	 perd 	 re 	 	,	 e 	 t 	 	 pour 	 tant 	 	,	elle	achète	150	 ti 	 cket 	 s 	 	par	an	.	pourquoi	?
+ce	n'est	pas	parce	qu'il	ou	elle	est	 stupid 	 e 	 	.
+c'est	parce	que	 l' 	 anticip 	 ation 	 	du	gain	relâche	de	la	sérotonine	dans	le	cerveau	,	ce	qui	donne	un	sentiment	de	bien	-	être	 jus 	 qu'au 	 	tirage	qui	indique	que	vous	avez	perdu	.
+pour	dire	les	 chose 	 s 	 	 autre 	 ment 	 	,	en	terme	de	 dépens 	 e 	 	,	vous	vous	 s 	 ent 	 ez 	 	 mi 	 eux 	 	 qu' 	 en 	 	 jet 	 ant 	 	 simple 	 ment 	 	 l' 	 argent 	 	par	les	 fenêtre 	 s 	 	,	ce	qui	ne	vous	procure	pas	de	joie	.
+les	 économiste 	 s 	 	ont	tendance	à	ils	ont	tendance	à	voir	le	monde	à	travers	 leur 	 s 	 	yeux	,	à	 s 	 avoir 	 	que	les	 joueur 	 s 	 	ne	 s 	 ont 	 	que	des	 idiot 	 s 	 	.
+c'est	pourquoi	beaucoup	voient	les	 économiste 	 s 	 	comme	des	 idiot 	 s 	 	.
+en	gros	,	la	raison	pour	 la 	 quelle 	 	nous	avons	atteint	la	lune	est	que	nous	 n' 	 avons 	 	pas	écouté	les	 économiste 	 s 	 	.	merci	.
+dg	:	 e 	 h 	 	bien	,	c'est	une	bonne	 remarqu 	 e 	 	.	il	reste	à	 prouve 	 r 	 	si	la	joie	 d' 	 anticip 	 ation 	 	est	 strict 	 ement 	 	égale	à	la	 quant 	 ité 	 	de	 dé 	 ception 	 	après	le	tirage	.	car	 r 	 appelez 	 	-	vous	les	 gen 	 s 	 	qui	ne	 joue 	 nt 	 	pas	ne	 s 	 e 	 	 s 	 ent 	 ent 	 	pas	mal	le	 len 	 demain 	 	non	plus	,	même	 s' 	 ils 	 	ne	 s 	 e 	 	 s 	 ent 	 ent 	 	pas	super	pendant	le	tirage	.
+je	ne	pense	pas	que	les	 joueur 	 s 	 	 s 	 a 	 vent 	 	 qu'il 	 s 	 	vont	 perd 	 re 	 	je	pense	 qu'il 	 s 	 	 s 	 e 	 	 dis 	 ent 	 	que	c'est	peu	 prob 	 able 	 	,	 mai 	 s 	 	ça	pourrait	 arrive 	 r 	 	.
+ voil 	 à 	 	pourquoi	ils	 préfère 	 nt 	 	ça	à	 jet 	 er 	 	 l' 	 argent 	 	par	les	 fenêtre 	 s 	 	.
+ mai 	 s 	 	je	vois	ce	que	vous	voulez	dire	:	il	peut	y	avoir	un	gain	à	 joue 	 r 	 	au	 lot 	 o 	 	,	autre	que	 gagne 	 r 	 	.
+en	tout	cas	,	il	y	a	de	 nombre 	 uses 	 	 rais 	 ons 	 	de	ne	pas	 écoute 	 r 	 	les	 économiste 	 s 	 	 mai 	 s 	 	je	ne	pense	pas	que	cela	en	soit	une	.
+ca	:	une	 der 	 nière 	 	question	.
+aubrey	de	grey	:	je	suis	aubrey	de	grey	,	de	cambridge	.
+je	travaille	sur	ce	qui	 tu 	 e 	 	plus	que	 n' 	 importe 	 	quoi	 d' 	 autre 	 	--	je	travaille	sur	le	 vieilli 	 ssement 	 	,	 e 	 t 	 	sur	ce	 qu' 	 on 	 	peut	y	faire	,	j'en	 parle 	 rai 	 	demain	.
+ j' 	 apprécie 	 	beaucoup	ce	que	vous	dites	,	car	il	me	semble	que	le	problème	 d' 	 intéresse 	 r 	 	les	 gen 	 s 	 	à	 travaille 	 r 	 	sur	le	 vieilli 	 ssement 	 	est	que	,	au	moment	où	la	 vieille 	 sse 	 	vous	prend	,	ça	ressemble	à	un	cancer	ou	un	arrêt	 card 	 iaque 	 	ou	autre	.	 pouv 	 ez 	 	-	vous	me	conseiller	?
+dg	:	pour	eux	ou	pour	vous	?
+_UNK_	:	pour	les	 convainc 	 re 	 	.
+dg	:	ah	,	pour	vous	aider	à	les	 convainc 	 re 	 	.
+il	est	 terrible 	 ment 	 	difficile	de	faire	en	 sort 	 e 	 	que	les	 gen 	 s 	 	voient	le	long	terme	,	 mai 	 s 	 	une	astuce	que	les	 psych 	 ologues 	 	 utilise 	 nt 	 	 e 	 t 	 	qui	semble	 marche 	 r 	 	est	de	 demande 	 r 	 	aux	 gen 	 s 	 	 d' 	 imaginer 	 	leur	futur	plus	 précis 	 é 	 ment 	 	.
+une	des	 difficulté 	 s 	 	dans	la	prise	de	 décision 	 s 	 	 d' 	 un 	 	futur	lointain	 e 	 t 	 	 d' 	 un 	 	futur	 pro 	 che 	 	,	est	que	nous	 imagi 	 nions 	 	le	futur	 pro 	 che 	 	de	façon	beaucoup	plus	nette	que	le	futur	lointain	.
+si	on	 pouv 	 ait 	 	 égale 	 r 	 	la	 quant 	 ité 	 	de	détail	que	les	 gen 	 s 	 	ont	dans	 leur 	 s 	 	 image 	 s 	 	 mentale 	 s 	 	du	futur	 pro 	 che 	 	 e 	 t 	 	éloigné	,	alors	les	 gen 	 s 	 	prennent	des	 décision 	 s 	 	à	propos	des	deux	de	la	même	façon	.
+ainsi	,	 voud 	 riez 	 	-	vous	avoir	100.000	 dollar 	 s 	 	de	plus	à	65	 an 	 s 	 	,	est	une	question	très	 différent 	 e 	 	de	:	 imagine 	 z 	 	qui	vous	 s 	 e 	 rez 	 	à	65	 an 	 s 	 	,	 s 	 e 	 rez 	 	-	vous	en	vie	,	quelle	 s 	 era 	 	 vot 	 re 	 	apparence	,	aurez	-	vous	encore	des	 che 	 veux 	 	,	avec	qui	 viv 	 rez 	 	-	vous	.
+une	fois	 qu' 	 on 	 	pense	à	tous	les	 détail 	 s 	 	de	ce	scénario	,	tout	à	coup	on	réalise	qu'il	pourrait	être	important	 d' 	 économise 	 r 	 	pour	que	 ce 	 tte 	 	personne	ait	de	 l' 	 argent 	 	pour	 s 	 a 	 	retraite	.
+ mai 	 s 	 	 ce 	 s 	 	 astuce 	 s 	 	 s 	 ont 	 	 anecdo 	 tiques 	 	je	pense	 qu' 	 en 	 	règle	 général 	 e 	 	vous	 com 	 battez 	 	une	tendance	humaine	 fondamental 	 e 	 	à	 s 	 avoir 	 	,	``	je	suis	là	aujourd'hui	,	 e 	 t 	 	aujourd'hui	est	plus	important	que	demain	``	ca	:	dan	,	merci	.	 mes 	 dame 	 s 	 	 e 	 t 	 	 messie 	 urs 	 	,	 c' 	 était 	 	une	 s 	 ession 	 	fantastique	.	merci	.
+

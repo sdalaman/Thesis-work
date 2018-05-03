@@ -1,0 +1,84 @@
+up	 un 	 til 	 	now	,	our	communication	with	 machine 	 s 	 	 ha 	 s 	 	 al 	 ways 	 	 be 	 en 	 	 limit 	 ed 	 	to	conscious	and	direct	 form 	 s 	 	.
+ whet 	 her 	 	it	's	 some 	 thing 	 	simple	like	 turn 	 ing 	 	on	the	 light 	 s 	 	with	a	 s 	 witch 	 	,	or	even	 a 	 s 	 	complex	 a 	 s 	 	 programm 	 ing 	 	 robotic 	 s 	 	,	we	have	 al 	 ways 	 	had	to	give	a	command	to	a	machine	,	or	even	a	 s 	 eries 	 	of	 command 	 s 	 	,	in	order	for	it	to	do	 some 	 thing 	 	for	us	.
+communication	between	people	,	on	the	other	hand	,	is	far	more	complex	and	a	lot	more	 interest 	 ing 	 	 be 	 cause 	 	we	take	 in 	 to 	 	account	so	much	more	than	what	is	 ex 	 plicit 	 ly 	 	 express 	 ed 	 	.
+we	 observ 	 e 	 	 fa 	 cial 	 	 express 	 ions 	 	,	body	language	,	and	we	can	intuit	 feel 	 ing 	 s 	 	and	 emotion 	 s 	 	from	our	 dial 	 ogue 	 	with	one	 an 	 other 	 	.
+ th 	 is 	 	 actual 	 ly 	 	 form 	 s 	 	a	large	part	of	our	decision	-	making	process	.
+our	vision	is	to	 introduc 	 e 	 	 th 	 is 	 	whole	new	realm	of	human	 interact 	 ion 	 	 in 	 to 	 	human	-	computer	 interact 	 ion 	 	so	that	 computer 	 s 	 	can	understand	not	 on 	 ly 	 	what	you	direct	it	to	do	,	but	it	can	 al 	 so 	 	respond	to	your	 fa 	 cial 	 	 express 	 ions 	 	and	 emotion 	 al 	 	 experience 	 s 	 	.
+and	what	better	way	to	do	 th 	 is 	 	than	by	 interpret 	 ing 	 	the	 signal 	 s 	 	 natural 	 ly 	 	 produce 	 d 	 	by	our	brain	,	our	center	for	control	and	experience	.
+well	,	it	 sound 	 s 	 	like	a	 pre 	 tty 	 	good	idea	,	but	 th 	 is 	 	task	,	 a 	 s 	 	bruno	 ment 	 ion 	 ed 	 	,	is	n't	an	easy	one	for	two	main	 reason 	 s 	 	:	first	,	the	 detect 	 ion 	 	 algorithm 	 s 	 	.
+our	brain	is	made	up	of	 billion 	 s 	 	of	active	 neuro 	 ns 	 	,	around	170,000	km	of	 combine 	 d 	 	axon	length	.
+when	these	 neuro 	 ns 	 	interact	,	the	chemical	 re 	 action 	 	 emit 	 s 	 	an	 electric 	 al 	 	impulse	,	which	can	be	 measur 	 ed 	 	.
+the	 major 	 ity 	 	of	our	functional	brain	is	 distribut 	 ed 	 	over	the	 out 	 er 	 	surface	layer	of	the	brain	,	and	to	 in 	 crease 	 	the	area	that	's	 avail 	 able 	 	for	mental	 cap 	 a 	 city 	 	,	the	brain	surface	is	 high 	 ly 	 	 fold 	 ed 	 	.
+now	 th 	 is 	 	 cort 	 ical 	 	 fold 	 ing 	 	 present 	 s 	 	a	significant	 challeng 	 e 	 	for	 interpret 	 ing 	 	surface	 electric 	 al 	 	 impulse 	 s 	 	.
+each	individual	's	cortex	is	 fold 	 ed 	 	 different 	 ly 	 	,	 ver 	 y 	 	much	like	a	 finger 	 print 	 	.
+so	even	 th 	 ough 	 	a	signal	may	come	from	the	same	functional	part	of	the	brain	,	by	the	time	the	structure	 ha 	 s 	 	 be 	 en 	 	 fold 	 ed 	 	,	 it 	 s 	 	physical	location	is	 ver 	 y 	 	different	between	 individual 	 s 	 	,	even	 ident 	 ical 	 	 t 	 win 	 s 	 	.
+there	is	no	 long 	 er 	 	any	 consist 	 ency 	 	in	the	surface	 signal 	 s 	 	.
+our	 break 	 through 	 	was	to	create	an	algorithm	that	 un 	 fold 	 s 	 	the	cortex	,	so	that	we	can	map	the	 signal 	 s 	 	 close 	 r 	 	to	 it 	 s 	 	source	,	and	 there 	 fore 	 	making	it	 cap 	 able 	 	of	 work 	 ing 	 	 a 	 cross 	 	a	mass	population	.
+the	second	 challeng 	 e 	 	is	the	actual	 de 	 vice 	 	for	 observ 	 ing 	 	 brain 	 wave 	 s 	 	.
+eeg	 measure 	 ments 	 	 typical 	 ly 	 	involve	a	 hair 	 net 	 	with	an	array	of	 sensor 	 s 	 	,	like	the	one	that	you	can	see	here	in	the	photo	.
+a	technician	will	put	the	 electro 	 de 	 s 	 	onto	the	scalp	using	a	 conduct 	 ive 	 	gel	or	paste	and	 usual 	 ly 	 	after	a	procedure	of	 pre 	 par 	 ing 	 	the	scalp	by	light	 abras 	 ion 	 	.
+now	 th 	 is 	 	is	 quit 	 e 	 	time	 consum 	 ing 	 	and	is	n't	the	most	 comfort 	 able 	 	process	.
+and	on	top	of	that	,	these	 system 	 s 	 	 actual 	 ly 	 	cost	in	the	 ten 	 s 	 	of	 thousand 	 s 	 	of	 dollar 	 s 	 	.
+so	with	that	,	i	'd	like	to	 invit 	 e 	 	 on 	 stage 	 	evan	grant	,	who	is	one	of	last	year	's	 speaker 	 s 	 	,	who	's	 kind 	 ly 	 	 agree 	 d 	 	to	help	me	to	 demonst 	 rate 	 	what	we	've	 be 	 en 	 	able	to	develop	.
+so	the	 de 	 vice 	 	that	you	see	is	a	14	-	channel	,	high	-	fidelity	eeg	 acquisit 	 ion 	 	system	.
+it	 do 	 es 	 	n't	 requir 	 e 	 	any	scalp	 pre 	 par 	 ation 	 	,	no	 conduct 	 ive 	 	gel	or	paste	.
+it	 on 	 ly 	 	 take 	 s 	 	a	few	 minute 	 s 	 	to	put	on	and	for	the	 signal 	 s 	 	to	settle	.
+it	's	 al 	 so 	 	 wire 	 less 	 	,	so	it	 give 	 s 	 	you	the	 free 	 dom 	 	to	move	around	.
+and	 compar 	 ed 	 	to	the	 ten 	 s 	 	of	 thousand 	 s 	 	of	 dollar 	 s 	 	for	a	 tradition 	 al 	 	eeg	system	,	 th 	 is 	 	 head 	 set 	 	 on 	 ly 	 	 cost 	 s 	 	a	few	hundred	 dollar 	 s 	 	.
+now	on	to	the	 detect 	 ion 	 	 algorithm 	 s 	 	.
+so	 fa 	 cial 	 	 express 	 ions 	 	--	 a 	 s 	 	i	 ment 	 ion 	 ed 	 	before	in	 emotion 	 al 	 	 experience 	 s 	 	--	are	 actual 	 ly 	 	designed	to	work	out	of	the	box	with	some	 sensitiv 	 ity 	 	 adjust 	 ments 	 	 avail 	 able 	 	for	 personal 	 ization 	 	.
+but	with	the	 limit 	 ed 	 	time	we	have	 avail 	 able 	 	,	i	'd	like	to	show	you	the	cognitive	 suit 	 e 	 	,	which	is	the	ability	for	you	to	 bas 	 ically 	 	move	virtual	 object 	 s 	 	with	your	mind	.
+now	,	evan	is	new	to	 th 	 is 	 	system	,	so	what	we	have	to	do	first	is	create	a	new	profile	for	him	.
+he	's	 obvious 	 ly 	 	not	joanne	--	so	we	'll	``	add	user	.	``
+evan	.	 ok 	 a 	 y 	 	.
+so	the	first	thing	we	need	to	do	with	the	cognitive	 suit 	 e 	 	is	to	start	with	training	a	neutral	signal	.
+with	neutral	,	there	's	 noth 	 ing 	 	in	 part 	 icular 	 	that	evan	 need 	 s 	 	to	do	.
+he	just	 hang 	 s 	 	out	.	he	's	 relax 	 ed 	 	.
+and	the	idea	is	to	establish	a	 base 	 line 	 	or	normal	state	for	his	brain	,	 be 	 cause 	 	every	brain	is	different	.
+it	 take 	 s 	 	eight	 second 	 s 	 	to	do	 th 	 is 	 	,	and	now	that	that	's	 d 	 one 	 	,	we	can	 choos 	 e 	 	a	 move 	 ment 	 	-	based	action	.
+so	evan	,	 choos 	 e 	 	 some 	 thing 	 	that	you	can	 visual 	 ize 	 	 clear 	 ly 	 	in	your	mind	.
+evan	grant	:	let	's	do	``	pull	.	``
+tan	le	:	 ok 	 a 	 y 	 	,	so	let	's	 choos 	 e 	 	``	pull	.	``
+so	the	idea	here	now	is	that	evan	 need 	 s 	 	to	imagine	the	object	coming	forward	 in 	 to 	 	the	screen	,	and	there	's	a	progress	bar	that	will	scroll	 a 	 cross 	 	the	screen	while	he	's	 do 	 ing 	 	that	.
+the	first	time	,	 noth 	 ing 	 	will	happen	,	 be 	 cause 	 	the	system	 ha 	 s 	 	no	idea	how	he	 think 	 s 	 	about	``	pull	.	``
+but	maintain	that	thought	for	the	entire	 dur 	 ation 	 	of	the	eight	 second 	 s 	 	.
+so	:	one	,	two	,	three	,	go	.
+ ok 	 a 	 y 	 	.
+so	once	we	accept	 th 	 is 	 	,	the	cube	is	live	.
+so	let	's	see	if	evan	can	 actual 	 ly 	 	try	and	imagine	 pull 	 ing 	 	.
+ah	,	good	job	!
+that	's	 re 	 ally 	 	 amaz 	 ing 	 	.
+so	we	have	a	little	bit	of	time	 avail 	 able 	 	,	so	i	'm	going	to	ask	evan	to	do	a	 re 	 ally 	 	difficult	task	.
+and	 th 	 is 	 	one	is	difficult	 be 	 cause 	 	it	's	all	about	 be 	 ing 	 	able	to	 visual 	 ize 	 	 some 	 thing 	 	that	 do 	 es 	 	n't	exist	in	our	physical	world	.
+ th 	 is 	 	is	``	disappear	.	``
+so	what	you	want	to	do	--	at	 l 	 east 	 	with	 move 	 ment 	 	-	based	 action 	 s 	 	,	we	do	that	all	the	time	,	so	you	can	 visual 	 ize 	 	it	.
+but	with	``	disappear	,	``	there	's	 re 	 ally 	 	no	 analog 	 ies 	 	--	so	evan	,	what	you	want	to	do	here	is	to	imagine	the	cube	 s 	 low 	 ly 	 	 fad 	 ing 	 	out	,	 ok 	 a 	 y 	 	.
+same	sort	of	drill	.	so	:	one	,	two	,	three	,	go	.
+ ok 	 a 	 y 	 	.	let	's	try	that	.
+oh	,	my	 good 	 ness 	 	.	he	's	just	too	good	.
+let	's	try	that	 aga 	 in 	 	.
+eg	:	 lo 	 s 	 ing 	 	 concent 	 ration 	 	.
+tl	:	but	we	can	see	that	it	 actual 	 ly 	 	 work 	 s 	 	,	even	 th 	 ough 	 	you	can	 on 	 ly 	 	hold	it	for	a	little	bit	of	time	.
+ a 	 s 	 	i	 s 	 aid 	 	,	it	's	a	 ver 	 y 	 	difficult	process	to	imagine	 th 	 is 	 	.
+and	the	great	thing	about	it	is	that	we	've	 on 	 ly 	 	 give 	 n 	 	the	 soft 	 ware 	 	one	 in 	 stance 	 	of	how	he	 think 	 s 	 	about	``	disappear	.	``
+ a 	 s 	 	there	is	a	machine	 learn 	 ing 	 	algorithm	in	 th 	 is 	 	--	thank	you	.
+good	job	.	good	job	.
+thank	you	,	evan	,	you	're	a	 wonder 	 ful 	 	,	 wonder 	 ful 	 	 ex 	 ample 	 	of	the	technology	.
+so	,	 a 	 s 	 	you	can	see	,	before	,	there	is	a	 level 	 ing 	 	system	built	 in 	 to 	 	 th 	 is 	 	 soft 	 ware 	 	so	that	 a 	 s 	 	evan	,	or	any	user	,	 be 	 come 	 s 	 	more	familiar	with	the	system	,	they	can	 continu 	 e 	 	to	add	more	and	more	 detect 	 ions 	 	,	so	that	the	system	 begin 	 s 	 	to	 different 	 iate 	 	between	different	distinct	 thought 	 s 	 	.
+and	once	you	've	trained	up	the	 detect 	 ions 	 	,	these	 thought 	 s 	 	can	be	 assign 	 ed 	 	or	 ma 	 pped 	 	to	any	computing	platform	,	application	or	 de 	 vice 	 	.
+so	i	'd	like	to	show	you	a	few	 ex 	 ample 	 s 	 	,	 be 	 cause 	 	there	are	 man 	 y 	 	possible	 application 	 s 	 	for	 th 	 is 	 	new	 inter 	 face 	 	.
+in	 game 	 s 	 	and	virtual	 world 	 s 	 	,	for	 ex 	 ample 	 	,	your	 fa 	 cial 	 	 express 	 ions 	 	can	 natural 	 ly 	 	and	 intuitive 	 ly 	 	be	used	to	control	an	avatar	or	virtual	character	.
+ obvious 	 ly 	 	,	you	can	experience	the	 fanta 	 s 	 y 	 	of	magic	and	control	the	world	with	your	mind	.
+and	 al 	 so 	 	,	 color 	 s 	 	,	 light 	 ing 	 	,	sound	and	 effect 	 s 	 	can	 dynamic 	 ally 	 	respond	to	your	 emotion 	 al 	 	state	to	 height 	 en 	 	the	experience	that	you	're	 hav 	 ing 	 	,	in	real	time	.
+and	moving	on	to	some	 application 	 s 	 	 develop 	 ed 	 	by	 develop 	 ers 	 	and	 research 	 ers 	 	around	the	world	,	with	 robot 	 s 	 	and	simple	 machine 	 s 	 	,	for	 ex 	 ample 	 	--	in	 th 	 is 	 	case	,	 fly 	 ing 	 	a	 to 	 y 	 	helicopter	 simpl 	 y 	 	by	 think 	 ing 	 	``	lift	``	with	your	mind	.
+the	technology	can	 al 	 so 	 	be	 appli 	 ed 	 	to	real	world	 application 	 s 	 	--	in	 th 	 is 	 	 ex 	 ample 	 	,	a	smart	home	.
+you	know	,	from	the	user	 inter 	 face 	 	of	the	control	system	to	 open 	 ing 	 	 cur 	 tain 	 s 	 	or	 clo 	 s 	 ing 	 	 cur 	 tain 	 s 	 	.
+and	of	course	,	 al 	 so 	 	to	the	 light 	 ing 	 	--	 turn 	 ing 	 	them	on	or	off	.
+and	 final 	 ly 	 	,	to	real	life	-	changing	 application 	 s 	 	,	 s 	 uch 	 	 a 	 s 	 	 be 	 ing 	 	able	to	control	an	electric	wheelchair	.
+in	 th 	 is 	 	 ex 	 ample 	 	,	 fa 	 cial 	 	 express 	 ions 	 	are	 ma 	 pped 	 	to	the	 move 	 ment 	 	 command 	 s 	 	.
+man	:	now	blink	right	to	go	right	.
+now	blink	left	to	turn	back	left	.
+now	 s 	 mile 	 	to	go	straight	.
+tl	:	we	 re 	 ally 	 	--	thank	you	.
+we	are	 re 	 ally 	 	 on 	 ly 	 	 scratch 	 ing 	 	the	surface	of	what	is	possible	 to 	 day 	 	,	and	with	the	community	's	 in 	 put 	 	,	and	 al 	 so 	 	with	the	 involve 	 ment 	 	of	 develop 	 ers 	 	and	 research 	 ers 	 	from	around	the	world	,	we	hope	that	you	can	help	us	to	shape	where	the	technology	 go 	 es 	 	from	here	.	thank	you	so	much	.
+

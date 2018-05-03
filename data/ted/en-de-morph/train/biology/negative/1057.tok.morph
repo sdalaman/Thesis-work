@@ -1,0 +1,204 @@
+i	will	start	by	posing	a	little	bit	of	a	 challeng 	 e 	 	:	the	 challeng 	 e 	 	of	 deal 	 ing 	 	with	data	,	data	that	we	have	to	deal	with	in	medical	 situ 	 ations 	 	.
+it	's	 re 	 ally 	 	a	huge	 challeng 	 e 	 	for	us	.
+and	 th 	 is 	 	is	our	beast	of	burden	--	 th 	 is 	 	is	a	computer	 tomo 	 graphy 	 	machine	,	a	ct	machine	.
+it	's	a	fantastic	 de 	 vice 	 	.
+it	uses	x	-	 ray 	 s 	 	,	x	-	ray	 beam 	 s 	 	,	that	are	 rot 	 ating 	 	 ver 	 y 	 	fast	around	the	human	body	.
+it	 take 	 s 	 	about	30	 second 	 s 	 	to	go	through	the	whole	machine	and	is	generating	enormous	 amount 	 s 	 	of	information	that	 come 	 s 	 	out	of	the	machine	.
+so	 th 	 is 	 	is	a	fantastic	machine	that	we	can	use	for	 improv 	 ing 	 	health	care	,	but	 a 	 s 	 	i	 s 	 aid 	 	,	it	's	 al 	 so 	 	a	 challeng 	 e 	 	for	us	.
+and	the	 challeng 	 e 	 	is	 re 	 ally 	 	found	in	 th 	 is 	 	picture	here	.
+it	's	the	medical	data	explosion	that	we	're	 hav 	 ing 	 	right	now	.
+we	're	facing	 th 	 is 	 	problem	.
+and	let	me	step	back	in	time	.
+let	's	go	back	a	few	 year 	 s 	 	in	time	and	see	what	 happen 	 ed 	 	back	then	.
+these	 machine 	 s 	 	that	came	out	--	they	 start 	 ed 	 	coming	in	the	1970s	--	they	would	 s 	 can 	 	human	bodies	,	and	they	would	generate	about	100	 image 	 s 	 	of	the	human	body	.
+and	i	've	taken	the	 liber 	 ty 	 	,	just	for	 clar 	 ity 	 	,	to	 transl 	 ate 	 	that	to	data	 slice 	 s 	 	.
+that	would	correspond	to	about	50	 mega 	 byte 	 s 	 	of	data	,	which	is	small	when	you	think	about	the	data	we	can	handle	 to 	 day 	 	just	on	normal	mobile	 de 	 vice 	 s 	 	.
+if	you	 transl 	 ate 	 	that	to	phone	 book 	 s 	 	,	it	's	about	one	meter	of	phone	 book 	 s 	 	in	the	pile	.
+looking	at	what	we	're	 do 	 ing 	 	 to 	 day 	 	with	these	 machine 	 s 	 	that	we	have	,	we	can	,	just	in	a	few	 second 	 s 	 	,	get	24,000	 image 	 s 	 	out	of	a	body	,	and	that	would	correspond	to	about	20	 gigabyte 	 s 	 	of	data	,	or	800	phone	 book 	 s 	 	,	and	the	pile	would	then	be	200	 meter 	 s 	 	of	phone	 book 	 s 	 	.
+what	's	about	to	happen	--	and	we	're	 see 	 ing 	 	 th 	 is 	 	;	it	's	 begin 	 ning 	 	--	a	technology	trend	that	's	 happen 	 ing 	 	right	now	is	that	we	're	 start 	 ing 	 	to	look	at	time	-	resolved	 situ 	 ations 	 	 a 	 s 	 	well	.
+so	we	're	 get 	 ting 	 	the	 dynamic 	 s 	 	out	of	the	body	 a 	 s 	 	well	.
+and	just	 assum 	 e 	 	that	we	will	be	 collect 	 ing 	 	data	 dur 	 ing 	 	five	 second 	 s 	 	,	and	that	would	correspond	to	one	 tera 	 byte 	 	of	data	--	that	's	800,000	 book 	 s 	 	and	16	 kilometer 	 s 	 	of	phone	 book 	 s 	 	.
+that	's	one	patient	,	one	data	set	.
+and	 th 	 is 	 	is	what	we	have	to	deal	with	.
+so	 th 	 is 	 	is	 re 	 ally 	 	the	enormous	 challeng 	 e 	 	that	we	have	.
+and	 al 	 ready 	 	 to 	 day 	 	--	 th 	 is 	 	is	25,000	 image 	 s 	 	.
+imagine	the	 day 	 s 	 	when	we	had	 radio 	 logists 	 	 do 	 ing 	 	 th 	 is 	 	.
+they	would	put	up	25,000	 image 	 s 	 	,	they	would	go	like	 th 	 is 	 	,	``	25,0000	,	 ok 	 a 	 y 	 	,	 ok 	 a 	 y 	 	.
+there	is	the	problem	.	``
+they	ca	n't	do	that	 any 	 more 	 	.	that	's	 im 	 possible 	 	.
+so	we	have	to	do	 some 	 thing 	 	that	's	a	little	bit	more	intelligent	than	 do 	 ing 	 	 th 	 is 	 	.
+so	what	we	do	is	that	we	put	all	these	 slice 	 s 	 	together	.
+imagine	that	you	slice	your	body	in	all	these	 direction 	 s 	 	,	and	then	you	try	to	put	the	 slice 	 s 	 	back	together	 aga 	 in 	 	 in 	 to 	 	a	pile	of	data	,	 in 	 to 	 	a	block	of	data	.
+so	 th 	 is 	 	is	 re 	 ally 	 	what	we	're	 do 	 ing 	 	.
+so	 th 	 is 	 	gigabyte	or	 tera 	 byte 	 	of	data	,	we	're	 put 	 ting 	 	it	 in 	 to 	 	 th 	 is 	 	block	.
+but	of	course	,	the	block	of	data	just	 contain 	 s 	 	the	amount	of	x	-	ray	that	's	 be 	 en 	 	 absorb 	 ed 	 	in	each	point	in	the	human	body	.
+so	what	we	need	to	do	is	to	figure	out	a	way	of	looking	at	the	 thing 	 s 	 	we	do	want	to	look	at	and	make	 thing 	 s 	 	 trans 	 parent 	 	that	we	do	n't	want	to	look	at	.
+so	 transform 	 ing 	 	the	data	set	 in 	 to 	 	 some 	 thing 	 	that	 look 	 s 	 	like	 th 	 is 	 	.
+and	 th 	 is 	 	is	a	 challeng 	 e 	 	.
+ th 	 is 	 	is	a	huge	 challeng 	 e 	 	for	us	to	do	that	.
+using	 computer 	 s 	 	,	even	 th 	 ough 	 	they	're	 get 	 ting 	 	 fast 	 er 	 	and	better	all	the	time	,	it	's	a	 challeng 	 e 	 	to	deal	with	 gigabyte 	 s 	 	of	data	,	 tera 	 byte 	 s 	 	of	data	and	 ex 	 tract 	 ing 	 	the	relevant	information	.
+i	want	to	look	at	the	heart	.
+i	want	to	look	at	the	blood	 vessel 	 s 	 	.	i	want	to	look	at	the	liver	.
+ may 	 be 	 	even	find	a	tumor	,	in	some	 case 	 s 	 	.
+so	 th 	 is 	 	is	where	 th 	 is 	 	little	dear	 come 	 s 	 	 in 	 to 	 	play	.
+ th 	 is 	 	is	my	daughter	.
+ th 	 is 	 	is	 a 	 s 	 	of	9	 a.m 	 . 	 	 th 	 is 	 	 morn 	 ing 	 	.
+she	's	 play 	 ing 	 	a	computer	game	.
+she	's	 on 	 ly 	 	two	 year 	 s 	 	old	,	and	she	's	 hav 	 ing 	 	a	blast	.
+so	she	's	 re 	 ally 	 	the	 driv 	 ing 	 	force	 be 	 hind 	 	the	 develop 	 ment 	 	of	 graphic 	 s 	 	-	 process 	 ing 	 	 unit 	 s 	 	.
+ a 	 s 	 	long	 a 	 s 	 	 kid 	 s 	 	are	 play 	 ing 	 	computer	 game 	 s 	 	,	 graphic 	 s 	 	is	 get 	 ting 	 	better	and	better	and	better	.
+so	 pleas 	 e 	 	go	back	home	,	tell	your	 kid 	 s 	 	to	play	more	 game 	 s 	 	,	 be 	 cause 	 	that	's	what	i	need	.
+so	what	's	 in 	 side 	 	of	 th 	 is 	 	machine	is	what	 en 	 able 	 s 	 	me	to	do	the	 thing 	 s 	 	that	i	'm	 do 	 ing 	 	with	the	medical	data	.
+so	 re 	 ally 	 	what	i	'm	 do 	 ing 	 	is	using	these	fantastic	little	 de 	 vice 	 s 	 	.
+and	you	know	,	going	back	 may 	 be 	 	10	 year 	 s 	 	in	time	when	i	got	the	 fund 	 ing 	 	to	buy	my	first	 graphic 	 s 	 	computer	--	it	was	a	huge	machine	.
+it	was	 cabinet 	 s 	 	of	 processor 	 s 	 	and	 s 	 to 	 rage 	 	and	 every 	 thing 	 	.
+i	paid	about	one	million	 dollar 	 s 	 	for	that	machine	.
+that	machine	is	,	 to 	 day 	 	,	about	 a 	 s 	 	fast	 a 	 s 	 	my	iphone	.
+so	every	month	there	are	new	 graphic 	 s 	 	 card 	 s 	 	coming	out	,	and	here	is	a	few	of	the	 lat 	 est 	 	 one 	 s 	 	from	the	 vend 	 ors 	 	--	nvidia	,	ati	,	 in 	 tel 	 	is	out	there	 a 	 s 	 	well	.
+and	you	know	,	for	a	few	hundred	 buck 	 s 	 	you	can	get	these	 thing 	 s 	 	and	put	them	 in 	 to 	 	your	computer	,	and	you	can	do	fantastic	 thing 	 s 	 	with	these	 graphic 	 s 	 	 card 	 s 	 	.
+so	 th 	 is 	 	is	 re 	 ally 	 	what	's	 enabl 	 ing 	 	us	to	deal	with	the	explosion	of	data	in	medicine	,	together	with	some	 re 	 ally 	 	nifty	work	in	 term 	 s 	 	of	 algorithm 	 s 	 	--	 compress 	 ing 	 	data	,	 ex 	 tract 	 ing 	 	the	relevant	information	that	people	are	 do 	 ing 	 	research	on	.
+so	i	'm	going	to	show	you	a	few	 ex 	 ample 	 s 	 	of	what	we	can	do	.
+ th 	 is 	 	is	a	data	set	that	was	 capture 	 d 	 	using	a	ct	scanner	.
+you	can	see	that	 th 	 is 	 	is	a	full	data	[	set	]	.
+it	's	a	woman	.	you	can	see	the	hair	.
+you	can	see	the	individual	 structure 	 s 	 	of	the	woman	.
+you	can	see	that	there	is	[	a	]	 scatter 	 ing 	 	of	x	-	 ray 	 s 	 	on	the	 tee 	 th 	 	,	the	metal	in	the	 tee 	 th 	 	.
+that	's	where	 t 	 hose 	 	 artifact 	 s 	 	are	coming	from	.
+but	fully	 interact 	 ively 	 	on	standard	 graphic 	 s 	 	 card 	 s 	 	on	a	normal	computer	,	i	can	just	put	in	a	clip	plane	.
+and	of	course	all	the	data	is	 in 	 side 	 	,	so	i	can	start	 rot 	 ating 	 	,	i	can	look	at	it	from	different	 angle 	 s 	 	,	and	i	can	see	that	 th 	 is 	 	woman	had	a	problem	.
+she	had	a	 ble 	 ed 	 ing 	 	up	in	the	brain	,	and	that	's	 be 	 en 	 	 fix 	 ed 	 	with	a	little	 s 	 tent 	 	,	a	metal	 clam 	 p 	 	that	's	 tight 	 en 	 ing 	 	up	the	vessel	.
+and	just	by	changing	the	 function 	 s 	 	,	then	i	can	decide	what	's	going	to	be	 trans 	 parent 	 	and	what	's	going	to	be	visible	.
+i	can	look	at	the	skull	structure	,	and	i	can	see	that	,	 ok 	 a 	 y 	 	,	 th 	 is 	 	is	where	they	 open 	 ed 	 	up	the	skull	on	 th 	 is 	 	woman	,	and	that	's	where	they	went	in	.
+so	these	are	fantastic	 image 	 s 	 	.
+they	're	 re 	 ally 	 	high	 re 	 solution 	 	,	and	they	're	 re 	 ally 	 	 show 	 ing 	 	us	what	we	can	do	with	standard	 graphic 	 s 	 	 card 	 s 	 	 to 	 day 	 	.
+now	we	have	 re 	 ally 	 	made	use	of	 th 	 is 	 	,	and	we	have	 tri 	 ed 	 	to	 squeez 	 e 	 	a	lot	of	data	 in 	 to 	 	the	system	.
+and	one	of	the	 application 	 s 	 	that	we	've	 be 	 en 	 	 work 	 ing 	 	on	--	and	 th 	 is 	 	 ha 	 s 	 	gotten	a	little	bit	of	 tract 	 ion 	 	 world 	 wide 	 	--	is	the	application	of	virtual	 auto 	 psies 	 	.
+so	 aga 	 in 	 	,	looking	at	 ver 	 y 	 	,	 ver 	 y 	 	large	data	 set 	 s 	 	,	and	you	saw	 t 	 hose 	 	full	-	body	 s 	 can 	 s 	 	that	we	can	do	.
+we	're	just	 push 	 ing 	 	the	body	through	the	whole	ct	scanner	,	and	just	in	a	few	 second 	 s 	 	we	can	get	a	full	-	body	data	set	.
+so	 th 	 is 	 	is	from	a	virtual	 au 	 topsy 	 	.
+and	you	can	see	how	i	'm	 gradu 	 ally 	 	 peel 	 ing 	 	off	.
+first	you	saw	the	body	bag	that	the	body	came	in	,	then	i	'm	 peel 	 ing 	 	off	the	skin	--	you	can	see	the	 muscle 	 s 	 	--	and	 event 	 ual 	 ly 	 	you	can	see	the	bone	structure	of	 th 	 is 	 	woman	.
+now	at	 th 	 is 	 	point	,	i	would	 al 	 so 	 	like	to	 emphas 	 ize 	 	that	,	with	the	 great 	 est 	 	respect	for	the	people	that	i	'm	now	going	to	show	--	i	'm	going	to	show	you	a	few	 case 	 s 	 	of	virtual	 auto 	 psies 	 	--	so	it	's	with	great	respect	for	the	people	that	have	 di 	 ed 	 	under	violent	 circum 	 stance 	 s 	 	that	i	'm	 show 	 ing 	 	these	 picture 	 s 	 	to	you	.
+in	the	forensic	case	--	and	 th 	 is 	 	is	 some 	 thing 	 	that	...	there	's	 be 	 en 	 	 approximate 	 ly 	 	400	 case 	 s 	 	so	far	just	in	the	part	of	sweden	that	i	come	from	that	 ha 	 s 	 	 be 	 en 	 	 under 	 going 	 	virtual	 auto 	 psies 	 	in	the	past	four	 year 	 s 	 	.
+so	 th 	 is 	 	will	be	the	typical	 work 	 flow 	 	 situ 	 ation 	 	.
+the	police	will	decide	--	in	the	 even 	 ing 	 	,	when	there	's	a	case	coming	in	--	they	will	decide	,	 ok 	 a 	 y 	 	,	is	 th 	 is 	 	a	case	where	we	need	to	do	an	 au 	 topsy 	 	?
+so	in	the	 morn 	 ing 	 	,	in	between	six	and	seven	in	the	 morn 	 ing 	 	,	the	body	is	then	 transport 	 ed 	 	 in 	 side 	 	of	the	body	bag	to	our	center	and	is	 be 	 ing 	 	 s 	 can 	 ned 	 	through	one	of	the	ct	 scanner 	 s 	 	.
+and	then	the	 radio 	 logist 	 	,	together	with	the	 patho 	 logist 	 	and	 some 	 time 	 s 	 	the	forensic	scientist	,	 look 	 s 	 	at	the	data	that	's	coming	out	,	and	they	have	a	joint	session	.
+and	then	they	decide	what	to	do	in	the	real	physical	 au 	 topsy 	 	after	that	.
+now	looking	at	a	few	 case 	 s 	 	,	here	's	one	of	the	first	 case 	 s 	 	that	we	had	.
+you	can	 re 	 ally 	 	see	the	 detail 	 s 	 	of	the	data	set	.
+it	's	 ver 	 y 	 	high	-	 re 	 solution 	 	,	and	it	's	our	 algorithm 	 s 	 	that	allow	us	to	zoom	in	on	all	the	 detail 	 s 	 	.
+and	 aga 	 in 	 	,	it	's	fully	 inter 	 active 	 	,	so	you	can	 rot 	 ate 	 	and	you	can	look	at	 thing 	 s 	 	in	real	time	on	these	 system 	 s 	 	here	.
+ with 	 out 	 	 say 	 ing 	 	too	much	about	 th 	 is 	 	case	,	 th 	 is 	 	is	a	traffic	accident	,	a	drunk	driver	hit	a	woman	.
+and	it	's	 ver 	 y 	 	,	 ver 	 y 	 	easy	to	see	the	 damage 	 s 	 	on	the	bone	structure	.
+and	the	cause	of	death	is	the	broken	neck	.
+and	 th 	 is 	 	women	 al 	 so 	 	 end 	 ed 	 	up	under	the	car	,	so	she	's	 quit 	 e 	 	 bad 	 ly 	 	 beat 	 en 	 	up	by	 th 	 is 	 	 in 	 jury 	 	.
+here	's	 an 	 other 	 	case	,	a	 kn 	 if 	 ing 	 	.
+and	 th 	 is 	 	is	 al 	 so 	 	 aga 	 in 	 	 show 	 ing 	 	us	what	we	can	do	.
+it	's	 ver 	 y 	 	easy	to	look	at	metal	 artifact 	 s 	 	that	we	can	show	 in 	 side 	 	of	the	body	.
+you	can	 al 	 so 	 	see	some	of	the	 artifact 	 s 	 	from	the	 tee 	 th 	 	--	that	's	 actual 	 ly 	 	the	 fill 	 ing 	 	of	the	 tee 	 th 	 	--	but	 be 	 cause 	 	i	've	set	the	 function 	 s 	 	to	show	me	metal	and	make	 every 	 thing 	 	else	 trans 	 parent 	 	.
+here	's	 an 	 other 	 	violent	case	.	 th 	 is 	 	 re 	 ally 	 	did	n't	kill	the	person	.
+the	person	was	 kill 	 ed 	 	by	 stab 	 s 	 	in	the	heart	,	but	they	just	 deposit 	 ed 	 	the	knife	by	 put 	 ting 	 	it	through	one	of	the	 eye 	 ball 	 s 	 	.
+here	's	 an 	 other 	 	case	.
+it	's	 ver 	 y 	 	 interest 	 ing 	 	for	us	to	be	able	to	look	at	 thing 	 s 	 	like	knife	 stab 	 bing 	 s 	 	.
+here	you	can	see	that	knife	went	through	the	heart	.
+it	's	 ver 	 y 	 	easy	to	see	how	air	 ha 	 s 	 	 be 	 en 	 	 leak 	 ing 	 	from	one	part	to	 an 	 other 	 	part	,	which	is	difficult	to	do	in	a	normal	,	standard	,	physical	 au 	 topsy 	 	.
+so	it	 re 	 ally 	 	,	 re 	 ally 	 	 help 	 s 	 	the	criminal	investigation	to	establish	the	cause	of	death	,	and	in	some	 case 	 s 	 	 al 	 so 	 	 direct 	 ing 	 	the	investigation	in	the	right	direction	to	find	out	who	the	killer	 re 	 ally 	 	was	.
+here	's	 an 	 other 	 	case	that	i	think	is	 interest 	 ing 	 	.
+here	you	can	see	a	bullet	that	 ha 	 s 	 	 lodg 	 ed 	 	just	next	to	the	 s 	 pine 	 	on	 th 	 is 	 	person	.
+and	what	we	've	 d 	 one 	 	is	that	we	've	 turn 	 ed 	 	the	bullet	 in 	 to 	 	a	light	source	,	so	that	bullet	is	 actual 	 ly 	 	 shin 	 ing 	 	,	and	it	 make 	 s 	 	it	 re 	 ally 	 	easy	to	find	these	 fragment 	 s 	 	.
+ dur 	 ing 	 	a	physical	 au 	 topsy 	 	,	if	you	 actual 	 ly 	 	have	to	dig	through	the	body	to	find	these	 fragment 	 s 	 	,	that	's	 actual 	 ly 	 	 quit 	 e 	 	hard	to	do	.
+one	of	the	 thing 	 s 	 	that	i	'm	 re 	 ally 	 	,	 re 	 ally 	 	happy	to	be	able	to	show	you	here	 to 	 day 	 	is	our	virtual	 au 	 topsy 	 	table	.
+it	's	a	touch	 de 	 vice 	 	that	we	have	 develop 	 ed 	 	based	on	these	 algorithm 	 s 	 	,	using	standard	 graphic 	 s 	 	gpus	.
+it	 actual 	 ly 	 	 look 	 s 	 	like	 th 	 is 	 	,	just	to	give	you	a	 feel 	 ing 	 	for	what	it	 look 	 s 	 	like	.
+it	 re 	 ally 	 	just	 work 	 s 	 	like	a	huge	iphone	.
+so	we	've	 implement 	 ed 	 	all	the	 gest 	 ures 	 	you	can	do	on	the	table	,	and	you	can	think	of	it	 a 	 s 	 	an	enormous	touch	 inter 	 face 	 	.
+so	if	you	 we 	 re 	 	 think 	 ing 	 	of	 buy 	 ing 	 	an	ipad	,	forget	about	it	.	 th 	 is 	 	is	what	you	want	 in 	 stead 	 	.
+steve	,	i	hope	you	're	 listen 	 ing 	 	to	 th 	 is 	 	,	all	right	.
+so	it	's	a	 ver 	 y 	 	nice	little	 de 	 vice 	 	.
+so	if	you	have	the	 opport 	 un 	 ity 	 	,	 pleas 	 e 	 	try	it	out	.
+it	's	 re 	 ally 	 	a	 hand 	 s 	 	-	on	experience	.
+so	it	 gain 	 ed 	 	some	 tract 	 ion 	 	,	and	we	're	 try 	 ing 	 	to	roll	 th 	 is 	 	out	and	 try 	 ing 	 	to	use	it	for	 education 	 al 	 	 purpose 	 s 	 	,	but	 al 	 so 	 	,	 per 	 hap 	 s 	 	in	the	future	,	in	a	more	 clinic 	 al 	 	 situ 	 ation 	 	.
+there	's	a	youtube	video	that	you	can	download	and	look	at	 th 	 is 	 	,	if	you	want	to	convey	the	information	to	other	people	about	virtual	 auto 	 psies 	 	.
+ ok 	 a 	 y 	 	,	now	that	we	're	 talk 	 ing 	 	about	touch	,	let	me	move	on	to	 re 	 ally 	 	``	 touch 	 ing 	 	``	data	.
+and	 th 	 is 	 	is	a	bit	of	science	fiction	now	,	so	we	're	moving	 in 	 to 	 	 re 	 ally 	 	the	future	.
+ th 	 is 	 	is	not	 re 	 ally 	 	what	the	medical	 doctor 	 s 	 	are	using	right	now	,	but	i	hope	they	will	in	the	future	.
+so	what	you	're	 see 	 ing 	 	on	the	left	is	a	touch	 de 	 vice 	 	.
+it	's	a	little	 mechanic 	 al 	 	pen	that	 ha 	 s 	 	 ver 	 y 	 	,	 ver 	 y 	 	fast	step	 motor 	 s 	 	 in 	 side 	 	of	the	pen	.
+and	so	i	can	generate	a	force	 feed 	 back 	 	.
+so	when	i	 virtual 	 ly 	 	touch	data	,	it	will	generate	 force 	 s 	 	in	the	pen	,	so	i	get	a	 feed 	 back 	 	.
+so	in	 th 	 is 	 	 part 	 icular 	 	 situ 	 ation 	 	,	it	's	a	 s 	 can 	 	of	a	living	person	.
+i	have	 th 	 is 	 	pen	,	and	i	look	at	the	data	,	and	i	move	the	pen	 to 	 ward 	 s 	 	the	head	,	and	all	of	a	sudden	i	feel	 resist 	 ance 	 	.
+so	i	can	feel	the	skin	.
+if	i	push	a	little	bit	 hard 	 er 	 	,	i	'll	go	through	the	skin	,	and	i	can	feel	the	bone	structure	 in 	 side 	 	.
+if	i	push	even	 hard 	 er 	 	,	i	'll	go	through	the	bone	structure	,	 e 	 special 	 ly 	 	close	to	the	ear	where	the	bone	is	 ver 	 y 	 	soft	.
+and	then	i	can	feel	the	brain	 in 	 side 	 	,	and	 th 	 is 	 	will	be	the	 s 	 lush 	 y 	 	like	 th 	 is 	 	.
+so	 th 	 is 	 	is	 re 	 ally 	 	nice	.
+and	to	take	that	even	further	,	 th 	 is 	 	is	a	heart	.
+and	 th 	 is 	 	is	 al 	 so 	 	due	to	these	fantastic	new	 scanner 	 s 	 	,	that	just	in	0.3	 second 	 s 	 	,	i	can	 s 	 can 	 	the	whole	heart	,	and	i	can	do	that	with	time	 re 	 solution 	 	.
+so	just	looking	at	 th 	 is 	 	heart	,	i	can	play	back	a	video	here	.
+and	 th 	 is 	 	is	karljohan	,	one	of	my	graduate	 student 	 s 	 	who	's	 be 	 en 	 	 work 	 ing 	 	on	 th 	 is 	 	project	.
+and	he	's	 s 	 itt 	 ing 	 	there	in	front	of	the	 hap 	 tic 	 	 de 	 vice 	 	,	the	force	 feed 	 back 	 	system	,	and	he	's	moving	his	pen	 to 	 ward 	 s 	 	the	heart	,	and	the	heart	is	now	 beat 	 ing 	 	in	front	of	him	,	so	he	can	see	how	the	heart	is	 beat 	 ing 	 	.
+he	's	taken	the	pen	,	and	he	's	moving	it	 to 	 ward 	 s 	 	the	heart	,	and	he	's	 put 	 ting 	 	it	on	the	heart	,	and	then	he	 feel 	 s 	 	the	 heart 	 beat 	 s 	 	from	the	real	living	patient	.
+then	he	can	examine	how	the	heart	is	moving	.
+he	can	go	 in 	 side 	 	,	push	 in 	 side 	 	of	the	heart	,	and	 re 	 ally 	 	feel	how	the	 val 	 ves 	 	are	moving	.
+and	 th 	 is 	 	,	i	think	,	is	 re 	 ally 	 	the	future	for	heart	 surgeon 	 s 	 	.
+i	mean	it	's	 prob 	 ably 	 	the	wet	dream	for	a	heart	surgeon	to	be	able	to	go	 in 	 side 	 	of	the	patient	's	heart	before	you	 actual 	 ly 	 	do	 s 	 urge 	 ry 	 	,	and	do	that	with	high	-	quality	 re 	 solution 	 	data	.
+so	 th 	 is 	 	is	 re 	 ally 	 	neat	.
+now	we	're	going	even	further	 in 	 to 	 	science	fiction	.
+and	we	heard	a	little	bit	about	functional	mri	.
+now	 th 	 is 	 	is	 re 	 ally 	 	an	 interest 	 ing 	 	project	.
+mri	is	using	 magnet 	 ic 	 	 field 	 s 	 	and	radio	 fr 	 equ 	 encies 	 	to	 s 	 can 	 	the	brain	,	or	any	part	of	the	body	.
+so	what	we	're	 re 	 ally 	 	 get 	 ting 	 	out	of	 th 	 is 	 	is	information	of	the	structure	of	the	brain	,	but	we	can	 al 	 so 	 	measure	the	 differ 	 ence 	 	in	 magnet 	 ic 	 	 proper 	 ties 	 	of	blood	that	's	 oxygen 	 ated 	 	and	blood	that	's	 deplete 	 d 	 	of	oxygen	.
+that	 mean 	 s 	 	that	it	's	possible	to	map	out	the	activity	of	the	brain	.
+so	 th 	 is 	 	is	 some 	 thing 	 	that	we	've	 be 	 en 	 	 work 	 ing 	 	on	.
+and	you	just	saw	motts	the	research	engineer	,	there	,	going	 in 	 to 	 	the	mri	system	,	and	he	was	 wear 	 ing 	 	 go 	 gg 	 les 	 	.
+so	he	could	 actual 	 ly 	 	see	 thing 	 s 	 	in	the	 go 	 gg 	 les 	 	.
+so	i	could	present	 thing 	 s 	 	to	him	while	he	's	in	the	scanner	.
+and	 th 	 is 	 	is	a	little	bit	 freak 	 y 	 	,	 be 	 cause 	 	what	motts	is	 see 	 ing 	 	is	 actual 	 ly 	 	 th 	 is 	 	.
+he	's	 see 	 ing 	 	his	own	brain	.
+so	motts	is	 do 	 ing 	 	 some 	 thing 	 	here	,	and	 prob 	 ably 	 	he	is	going	like	 th 	 is 	 	with	his	right	hand	,	 be 	 cause 	 	the	left	side	is	 activate 	 d 	 	on	the	motor	cortex	.
+and	then	he	can	see	that	at	the	same	time	.
+these	 visual 	 ization 	 s 	 	are	brand	new	.
+and	 th 	 is 	 	is	 some 	 thing 	 	that	we	've	 be 	 en 	 	 research 	 ing 	 	for	a	little	while	.
+ th 	 is 	 	is	 an 	 other 	 	sequence	of	motts	'	brain	.
+and	here	we	 ask 	 ed 	 	motts	to	 calcul 	 ate 	 	 back 	 ward 	 s 	 	from	100	.
+so	he	's	going	``	100	,	97	,	94.	``
+and	then	he	's	going	 back 	 ward 	 s 	 	.
+and	you	can	see	how	the	little	math	processor	is	 work 	 ing 	 	up	here	in	his	brain	and	is	 light 	 ing 	 	up	the	whole	brain	.
+well	 th 	 is 	 	is	fantastic	.	we	can	do	 th 	 is 	 	in	real	time	.
+we	can	investigate	 thing 	 s 	 	.	we	can	tell	him	to	do	 thing 	 s 	 	.
+you	can	 al 	 so 	 	see	that	his	visual	cortex	is	 activate 	 d 	 	in	the	back	of	the	head	,	 be 	 cause 	 	that	's	where	he	's	 see 	 ing 	 	,	he	's	 see 	 ing 	 	his	own	brain	.
+and	he	's	 al 	 so 	 	 hear 	 ing 	 	our	 instruct 	 ions 	 	when	we	tell	him	to	do	 thing 	 s 	 	.
+the	signal	is	 re 	 ally 	 	deep	 in 	 side 	 	of	the	brain	 a 	 s 	 	well	,	and	it	's	 shin 	 ing 	 	through	,	 be 	 cause 	 	all	of	the	data	is	 in 	 side 	 	 th 	 is 	 	volume	.
+and	in	just	a	second	here	you	will	see	--	 ok 	 a 	 y 	 	,	here	.	motts	,	now	move	your	left	foot	.
+so	he	's	going	like	 th 	 is 	 	.
+for	20	 second 	 s 	 	he	's	going	like	that	,	and	all	of	a	sudden	it	 light 	 s 	 	up	up	here	.
+so	we	've	got	motor	cortex	 activ 	 ation 	 	up	there	.
+so	 th 	 is 	 	is	 re 	 ally 	 	,	 re 	 ally 	 	nice	,	and	i	think	 th 	 is 	 	is	a	great	tool	.
+and	 connect 	 ing 	 	 al 	 so 	 	with	the	previous	talk	here	,	 th 	 is 	 	is	 some 	 thing 	 	that	we	could	use	 a 	 s 	 	a	tool	to	 re 	 ally 	 	understand	how	the	 neuro 	 ns 	 	are	 work 	 ing 	 	,	how	the	brain	is	 work 	 ing 	 	,	and	we	can	do	 th 	 is 	 	with	 ver 	 y 	 	,	 ver 	 y 	 	high	visual	quality	and	 ver 	 y 	 	fast	 re 	 solution 	 	.
+now	we	're	 al 	 so 	 	 hav 	 ing 	 	a	bit	of	 f 	 un 	 	at	the	center	.
+so	 th 	 is 	 	is	a	cat	 s 	 can 	 	--	computer	aided	 tomo 	 graphy 	 	.
+so	 th 	 is 	 	is	a	lion	from	the	local	zoo	 out 	 side 	 	of	norrkoping	in	kolmarden	,	elsa	.
+so	she	came	to	the	center	,	and	they	 s 	 ed 	 ated 	 	her	and	then	put	her	straight	 in 	 to 	 	the	scanner	.
+and	then	,	of	course	,	i	get	the	whole	data	set	from	the	lion	.
+and	i	can	do	 ver 	 y 	 	nice	 image 	 s 	 	like	 th 	 is 	 	.
+i	can	peel	off	the	layer	of	the	lion	.
+i	can	look	 in 	 side 	 	of	it	.
+and	we	've	 be 	 en 	 	 experiment 	 ing 	 	with	 th 	 is 	 	.
+and	i	think	 th 	 is 	 	is	a	great	application	for	the	future	of	 th 	 is 	 	technology	,	 be 	 cause 	 	there	's	 ver 	 y 	 	little	known	about	the	animal	anatomy	.
+what	's	known	out	there	for	 veterin 	 arian 	 s 	 	is	kind	of	 bas 	 ic 	 	information	.
+we	can	 s 	 can 	 	all	 sort 	 s 	 	of	 thing 	 s 	 	,	all	 sort 	 s 	 	of	 animal 	 s 	 	.
+the	 on 	 ly 	 	problem	is	to	fit	it	 in 	 to 	 	the	machine	.
+so	here	's	a	bear	.
+it	was	kind	of	hard	to	get	it	in	.
+and	the	bear	is	a	 cuddl 	 y 	 	,	friendly	animal	.
+and	here	it	is	.	here	is	the	nose	of	the	bear	.
+and	you	might	want	to	 cuddl 	 e 	 	 th 	 is 	 	one	,	 un 	 til 	 	you	change	the	 function 	 s 	 	and	look	at	 th 	 is 	 	.
+so	be	aware	of	the	bear	.
+so	with	that	,	i	'd	like	to	thank	all	the	people	who	have	 help 	 ed 	 	me	to	generate	these	 image 	 s 	 	.
+it	's	a	huge	effort	that	 go 	 es 	 	 in 	 to 	 	 do 	 ing 	 	 th 	 is 	 	,	 gather 	 ing 	 	the	data	and	 develop 	 ing 	 	the	 algorithm 	 s 	 	,	writing	all	the	 soft 	 ware 	 	.
+so	,	some	 ver 	 y 	 	 talent 	 ed 	 	people	.
+my	 mot 	 to 	 	is	 al 	 ways 	 	,	i	 on 	 ly 	 	hire	people	that	are	 smart 	 er 	 	than	i	am	and	most	of	these	are	 smart 	 er 	 	than	i	am	.
+so	thank	you	 ver 	 y 	 	much	.
+

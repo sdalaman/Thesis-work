@@ -1,0 +1,39 @@
+bir	kuş	gibi	 uçma 	 k 	 	 insanoğlu 	 nun 	 	bir	hayali	.
+ kuş 	 lar 	 	çok	çevik	 hayvan 	 lardır 	 	.
+ uçma 	 k 	 	için	dönüş	 eleman 	 larına 	 	 ihtiyaç 	 ları 	 	 yok 	 tur 	 	,	sadece	 kanat 	 larını 	 	 çırp 	 arak 	 	 uçar 	 lar 	 	.
+bu	 neden 	 le 	 	biz	 kuş 	 ları 	 	 incele 	 dik 	 	,	ve	güçlü	,	hafif	,	kendi	 kendi 	 ne 	 	sadece	 kanat 	 larını 	 	 kullan 	 arak 	 	 uçma 	 sını 	 	 sağlaya 	 cak 	 	üstün	 aero 	 dinamik 	 	 nitelik 	 lere 	 	sahip	bir	model	 yapma 	 ya 	 	 çalıştı 	 k 	 	.
+bunun	için	deniz	üzerinde	 özgür 	 ce 	 	,	 daire 	 ler 	 	 çize 	 rek 	 	 uça 	 n 	 	kuzey	gümüş	_UNK_	bir	örnek	model	olarak	 kullanma 	 ktan 	 	daha	iyi	ne	 olabilir 	 di 	 	ki	?
+bu	 neden 	 le 	 	planör
+ inşaat 	 ı 	 	alanında	ve	 aero 	 dinamik 	 	 alanında 	 ki 	 	 uzman 	 lardan 	 	 oluşa 	 n 	 	bir	takım	 bir 	 araya 	 	 getir 	 dik 	 	.
+ve	görev	,	kapalı	bir	 ala 	 nda 	 	 başı 	 nızın 	 	 üzerinde 	 n 	 	 uça 	 bilecek 	 	son	derece	hafif	bir	model	 yaratma 	 ya 	 	 çalışma 	 ktı 	 	.
+o	 yüz 	 den 	 	 ilerleye 	 n 	 	 dakika 	 larda 	 	 dikkat 	 li 	 	olun	.
+bu	da	bir	sorun	teşkil	ediyordu	:	 robot 	 u 	 	,	yere	 düştüğü 	 nde 	 	 kimse 	 nin 	 	zarar	 görme 	 yeceği 	 	kadar	hafif	 yapma 	 k 	 	.
+ pek 	 i 	 	bütün	 bun 	 ları 	 	neden	 yaptı 	 k 	 	?
+biz	otomasyon	alanında	çalışan	bir	_UNK_	,	ve	çok	hafif	 gövde 	 ler 	 	 yapma 	 k 	 	 istiyor 	 uz 	 	çünkü	 enerji 	 yi 	 	daha	verimli	 kullanıyor 	 lar 	 	.	basınç	ve	hava	akışı	 olay 	 ları 	 	hakkında	daha	çok	şey	 öğrenme 	 k 	 	 istiyor 	 uz 	 	.
+şimdi	 siz 	 den 	 	 kemer 	 lerinizi 	 	_UNK_	ve	_UNK_	_UNK_	istiyorum	.
+belki	smartbird'ü	 uçurma 	 yı 	 	 deneye 	 biliriz 	 	.
+ teşekkür 	 ler 	 	.
+şimdi	_UNK_	daha	 yakın 	 dan 	 	 baka 	 biliriz 	 	.
+i̇şte	bu	içindeki	iskelet	.
+kanat	 geniş 	 liği 	 	 yaklaşı 	 k 	 	iki	metre	.
+uzunluğu	1.6	metre	,	ve	ağırlığı	sadece	450	gram	.
+ve	 tamam 	 iyle 	 	karbon	 lif 	 inden 	 	yapıldı	.
+ortasında	bir	motor	var	,	ve	ayrıca	içinde	bir	vites	var	.	ve	biz	bu	 vites 	 i 	 	motor	 devr 	 ini 	 	 iletme 	 k 	 	için	 kullan 	 ıyoruz 	 	.
+ motoru 	 n 	 	içerisinde	,	ü	ç	adet	hall	 sensör 	 ü 	 	var	,	 böyle 	 ce 	 	 kanadı 	 n 	 	tam	olarak	nerede	olduğunu	biliyoruz	.
+ve	şimdi	eğer	 kanat 	 ları 	 	yukarı	ve	aşağı	_UNK_	,
+bir	kuş	gibi	uçurtma	_UNK_	var	.
+aşağı	 ine 	 rseniz 	 	,	geniş	bir	itici	kuvvet	alanına	sahip	 olur 	 sunuz 	 	.	yukarı	 çıkar 	 sanız 	 	,	 kanat 	 lar 	 	o	kadar	geniş	değil	,	ve	 kalkma 	 sı 	 	daha	kolay	.
+ yaptığı 	 mız 	 	bir	sonraki	şey	,	ya	da	 hall 	 ettiğimiz 	 	sorun	bu	 hareket 	 i 	 	 düzenleme 	 kti 	 	.
+onu	_UNK_	,	aşağı	ve	yukarı	hareket	 ettirme 	 liyiz 	 	.
+çift	 kanat 	 lara 	 	 sahibi 	 z 	 	.
+çift	kanat	ile	,	üst	 kanat 	 ta 	 	kaldırma	 kuvvet 	 ini 	 	,	alt	 kanat 	 ta 	 	itici	 kuvvet 	 ini 	 	 el 	 de 	 	ediyoruz	.
+ayrıca	,	 aero 	 dinamik 	 	 verimli 	 liği 	 	nasıl	_UNK_	 görüyor 	 uz 	 	.
+ elektro 	 mekanik 	 	 verimli 	 lik 	 	hakkında	 bilgi 	 miz 	 	vardı	,	bu	 sa 	 ye 	 de 	 	 aero 	 dinamik 	 	 verimli 	 liği 	 	 hesaplaya 	 biliriz 	 	.
+ böyle 	 ce 	 	,	pasif	 dönme 	 den 	 	,	aktif	 dönme 	 ye 	 	 yüksel 	 iyor 	 	,	yüzde	30'dan	yüzde	80'e	.
+bir	sonraki	 yapma 	 mız 	 	gereken	şey	,	tüm	 yapı 	 yı 	 	kontrol	etmek	ve	 düzenleme 	 k 	 	.
+ an 	 cak 	 	kontrol	ederek	ve	 düzenleye 	 rek 	 	,	o	 aero 	 dinamik 	 	 verimli 	 liği 	 	 el 	 de 	 	edersiniz	.
+toplam	enerji	tüketimi	,	 kalkış 	 ta 	 	 yaklaşı 	 k 	 	25	watt	ve	uçuşta	16	ile	18	watt	arasında	.
+ teşekkür 	 ler 	 	.
+bruno	giussani	:	markus	,	bence	bir	kez	daha	_UNK_	.
+markus	fischer	:	evet	,	tabi	.
+

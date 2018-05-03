@@ -1,0 +1,95 @@
+hi	there	.
+i	'm	going	to	be	 talk 	 ing 	 	a	little	bit	about	music	,	 machine 	 s 	 	and	life	.
+or	,	more	 specific 	 ally 	 	,	what	we	 learn 	 ed 	 	from	the	creation	of	a	 ver 	 y 	 	large	and	 complic 	 ated 	 	machine	for	a	music	video	.
+some	of	you	may	 recogn 	 ize 	 	 th 	 is 	 	image	.
+ th 	 is 	 	is	the	 open 	 ing 	 	frame	of	the	video	that	we	 create 	 d 	 	.
+we	'll	be	 show 	 ing 	 	the	video	at	the	end	,	but	before	we	do	,	i	want	to	talk	a	little	bit	about	what	it	is	that	they	 want 	 ed 	 	.
+now	,	when	we	first	 start 	 ed 	 	 talk 	 ing 	 	to	ok	go	--	the	name	of	the	song	is	``	 th 	 is 	 	too	 s 	 hall 	 	pass	``	--	we	 we 	 re 	 	 re 	 ally 	 	 excit 	 ed 	 	 be 	 cause 	 	they	 express 	 ed 	 	interest	in	building	a	machine	that	they	could	dance	with	.
+and	we	 we 	 re 	 	 ver 	 y 	 	 excit 	 ed 	 	about	 th 	 is 	 	 be 	 cause 	 	,	of	course	,	they	have	a	 histo 	 ry 	 	of	 danc 	 ing 	 	with	 machine 	 s 	 	.
+they	're	 respons 	 ible 	 	for	 th 	 is 	 	video	,	``	here	it	 go 	 es 	 	 aga 	 in 	 	.	``
+50	-	million	-	plus	 view 	 s 	 	on	youtube	.
+four	 guy 	 s 	 	 danc 	 ing 	 	on	 tread 	 mill 	 s 	 	,	no	 cut 	 s 	 	,	just	a	static	camera	.
+a	 fantastic 	 ally 	 	viral	and	 wonder 	 ful 	 	video	.
+so	we	 we 	 re 	 	 re 	 ally 	 	 excit 	 ed 	 	about	 work 	 ing 	 	with	them	.
+and	we	sort	of	 start 	 ed 	 	 talk 	 ing 	 	about	what	it	is	that	they	 want 	 ed 	 	.
+and	they	 explain 	 ed 	 	that	they	 want 	 ed 	 	kind	of	a	rube	goldberg	machine	.
+now	,	for	 t 	 hose 	 	of	you	who	do	n't	know	,	a	rube	goldberg	machine	is	a	 complic 	 ated 	 	contraption	,	an	 inc 	 red 	 ibly 	 	over	-	engineered	piece	of	 machine 	 ry 	 	that	 accomplish 	 es 	 	a	 relat 	 ively 	 	simple	task	.
+so	we	 we 	 re 	 	 excit 	 ed 	 	by	 th 	 is 	 	idea	,	and	we	 start 	 ed 	 	 talk 	 ing 	 	about	 exact 	 ly 	 	what	it	would	look	like	.
+and	we	came	up	with	some	 parameter 	 s 	 	,	 be 	 cause 	 	,	you	know	,	building	a	rube	goldberg	machine	 ha 	 s 	 	 limit 	 ations 	 	,	but	it	 al 	 so 	 	is	 pre 	 tty 	 	wide	open	.
+and	we	 want 	 ed 	 	to	make	 s 	 ure 	 	that	we	did	 some 	 thing 	 	that	would	work	for	a	music	video	.
+so	we	came	up	with	a	list	of	 requir 	 ement 	 s 	 	,	the	``	10	 command 	 ments 	 	,	``	and	they	 we 	 re 	 	,	in	order	of	 ascend 	 ing 	 	 difficult 	 y 	 	:	the	first	is	``	no	magic	.	``
+ every 	 thing 	 	that	 happen 	 ed 	 	on	screen	had	to	be	 ver 	 y 	 	 eas 	 ily 	 	 under 	 stood 	 	by	a	typical	 view 	 er 	 	.
+the	rule	of	thumb	was	that	,	if	my	mother	could	n't	understand	it	,	then	we	could	n't	use	it	in	the	video	.
+they	 want 	 ed 	 	band	 integ 	 ration 	 	,	that	is	,	the	machine	 act 	 ing 	 	 up 	 on 	 	the	band	 member 	 s 	 	,	 specific 	 ally 	 	not	the	other	way	around	.
+they	 want 	 ed 	 	the	machine	action	to	follow	the	song	 feel 	 ing 	 	.
+so	 a 	 s 	 	the	song	 pick 	 s 	 	up	emotion	,	so	should	the	machine	get	 grand 	 er 	 	in	 it 	 s 	 	process	.
+they	 want 	 ed 	 	us	to	make	use	of	the	space	.
+so	we	have	 th 	 is 	 	10,000	-	square	-	foot	 ware 	 house 	 	we	 we 	 re 	 	using	,	 divid 	 ed 	 	between	two	 floor 	 s 	 	.
+it	 include 	 d 	 	an	 ex 	 terior 	 	 load 	 ing 	 	dock	.
+we	used	all	of	that	,	 in 	 clud 	 ing 	 	a	giant	hole	in	the	floor	that	we	 actual 	 ly 	 	 descend 	 ed 	 	the	camera	and	 camera 	 man 	 	through	.
+they	 want 	 ed 	 	it	 mess 	 y 	 	,	and	we	 we 	 re 	 	happy	to	 oblig 	 e 	 	.
+the	machine	 it 	 self 	 	would	start	the	music	.
+so	the	machine	would	get	 start 	 ed 	 	,	it	would	travel	some	distance	,	 react 	 ing 	 	 a 	 long 	 	the	way	,	hit	play	on	an	ipod	or	a	tape	deck	or	 some 	 thing 	 	that	would	start	 play 	 back 	 	.
+and	the	machine	would	maintain	 synchron 	 ization 	 	 through 	 out 	 	.
+and	 s 	 peaking 	 	of	 synchron 	 ization 	 	,	they	 want 	 ed 	 	it	to	sync	to	the	rhythm	and	to	hit	specific	 beat 	 s 	 	 a 	 long 	 	the	way	.
+ ok 	 a 	 y 	 	.
+they	 want 	 ed 	 	it	to	end	 precise 	 ly 	 	on	time	.
+ ok 	 a 	 y 	 	,	so	now	the	start	to	finish	 tim 	 ing 	 	 ha 	 s 	 	to	be	perfect	.
+and	they	 want 	 ed 	 	the	music	to	drop	out	at	a	certain	point	in	the	video	and	actual	live	audio	from	the	machine	to	play	part	of	the	song	.
+and	 a 	 s 	 	if	that	was	n't	 en 	 ough 	 	,	all	of	these	 inc 	 red 	 ibly 	 	 complic 	 ating 	 	 thing 	 s 	 	,	right	,	they	 want 	 ed 	 	it	in	one	shot	.
+ ok 	 a 	 y 	 	.
+so	,	just	some	 statistic 	 s 	 	about	what	we	went	through	in	the	process	.
+the	machine	 it 	 self 	 	 ha 	 s 	 	89	distinct	 interact 	 ions 	 	.
+it	took	us	85	 take 	 s 	 	to	get	it	on	film	to	our	satisfaction	.
+of	 t 	 hose 	 	85	 take 	 s 	 	,	 on 	 ly 	 	three	 actual 	 ly 	 	 success 	 fully 	 	 complete 	 d 	 	 the 	 ir 	 	run	.
+we	 destroy 	 ed 	 	two	 piano 	 s 	 	and	10	 tele 	 vision 	 s 	 	in	the	process	.
+we	went	to	home	 de 	 pot 	 	well	over	a	hundred	 time 	 s 	 	.
+and	we	lost	one	high	-	heeled	shoe	when	one	of	our	 engineer 	 s 	 	,	heather	 k 	 night 	 	,	left	her	high	-	heeled	shoe	--	after	a	nice	 d 	 inner 	 	,	and	 return 	 ed 	 	back	to	the	build	--	and	left	it	in	a	pile	of	stuff	.
+and	 an 	 other 	 	engineer	thought	,	``	well	,	that	would	be	a	 re 	 ally 	 	good	thing	to	use	``	and	 end 	 ed 	 	up	using	it	 a 	 s 	 	a	 re 	 ally 	 	nice	trigger	.
+and	it	's	 actual 	 ly 	 	in	the	machine	.
+so	what	did	we	learn	from	all	of	 th 	 is 	 	?
+well	,	 hav 	 ing 	 	 complete 	 d 	 	 th 	 is 	 	,	we	have	the	 opport 	 un 	 ity 	 	to	step	back	and	reflect	on	some	of	the	 thing 	 s 	 	.
+and	we	 learn 	 ed 	 	that	small	stuff	 stink 	 s 	 	.
+little	 ball 	 s 	 	in	 wood 	 en 	 	 track 	 s 	 	are	 re 	 ally 	 	susceptible	to	 hu 	 mid 	 ity 	 	and	temperature	and	a	little	bit	of	dust	,	and	they	fall	out	of	the	 track 	 s 	 	,	the	exact	 angle 	 s 	 	 make 	 s 	 	it	hard	to	get	right	.
+and	yet	,	a	 bowl 	 ing 	 	ball	will	 al 	 ways 	 	follow	the	same	path	.
+it	 do 	 es 	 	n't	matter	what	temperature	it	is	,	 do 	 es 	 	n't	matter	what	's	in	 it 	 s 	 	way	;	it	will	 pre 	 tty 	 	much	get	where	it	 need 	 s 	 	to	go	.
+but	 a 	 s 	 	much	 a 	 s 	 	the	small	stuff	 stink 	 s 	 	,	we	 need 	 ed 	 	 some 	 where 	 	to	start	,	so	that	we	would	have	 some 	 where 	 	to	go	.
+and	so	you	have	to	start	with	it	.	you	have	to	focus	on	it	.
+small	stuff	 stink 	 s 	 	,	but	,	of	course	,	it	's	essential	,	right	?
+what	else	?	 plan 	 ning 	 	is	 inc 	 red 	 ibly 	 	 import 	 ant 	 	.
+you	know	,	we	 s 	 pent 	 	a	lot	of	time	 ide 	 ating 	 	and	even	building	some	of	these	 thing 	 s 	 	.
+it	's	 be 	 en 	 	 s 	 aid 	 	that	,	``	no	battle	plan	 surviv 	 es 	 	contact	with	the	 ene 	 my 	 	.	``
+i	think	our	 ene 	 my 	 	was	physics	--	and	she	's	a	cruel	 mi 	 stress 	 	.
+often	,	we	had	to	pull	 thing 	 s 	 	out	 a 	 s 	 	a	result	 be 	 cause 	 	of	 tim 	 ing 	 	or	 aesthetic 	 s 	 	or	 what 	 ever 	 	.
+and	so	while	 plan 	 ning 	 	is	 import 	 ant 	 	,	so	is	 flex 	 ibility 	 	.
+these	are	all	 thing 	 s 	 	that	 end 	 ed 	 	up	not	making	it	 in 	 to 	 	the	final	machine	.
+so	 al 	 so 	 	,	put	 reli 	 able 	 	stuff	last	,	the	stuff	that	's	going	to	run	every	time	.
+ aga 	 in 	 	,	small	to	large	is	relevant	here	.
+the	little	lego	car	in	the	 begin 	 ning 	 	of	the	video	 re 	 ference 	 s 	 	the	big	,	real	car	near	the	end	of	the	video	.
+the	big	,	real	car	 work 	 s 	 	every	time	;	there	's	no	problem	about	it	.
+the	little	one	had	a	 tend 	 ency 	 	to	try	to	run	off	the	track	and	that	's	a	problem	.
+but	you	do	n't	want	to	have	to	 re 	 set 	 	the	whole	machine	 be 	 cause 	 	the	lego	car	at	the	end	 do 	 es 	 	n't	work	,	right	.
+so	you	put	that	up	front	so	that	,	if	it	 fail 	 s 	 	,	at	 l 	 east 	 	you	know	you	do	n't	have	to	 re 	 set 	 	the	whole	thing	.
+life	can	be	 mess 	 y 	 	.
+there	 we 	 re 	 	 inc 	 red 	 ibly 	 	difficult	 moment 	 s 	 	in	the	building	of	 th 	 is 	 	thing	.
+ month 	 s 	 	 we 	 re 	 	 s 	 pent 	 	in	 th 	 is 	 	 tin 	 y 	 	,	cold	 ware 	 house 	 	.
+and	the	 wonder 	 ful 	 	 el 	 ation 	 	that	we	had	when	we	 final 	 ly 	 	 complete 	 d 	 	it	.
+so	it	's	 import 	 ant 	 	to	remember	that	 whet 	 her 	 	it	's	good	or	it	's	bad	,	``	 th 	 is 	 	too	 s 	 hall 	 	pass	.	``
+thank	you	 ver 	 y 	 	much	.
+and	now	to	 introduc 	 e 	 	 the 	 ir 	 	music	video	,	we	have	ok	go	.
+ok	go	:	an	 introduc 	 tion 	 	.	 hell 	 o 	 	tedxusc	.
+we	are	ok	go	.
+what	are	we	 do 	 ing 	 	?	oh	,	just	 hang 	 ing 	 	out	with	our	grammy	.	what	what	!
+it	think	we	can	do	better	than	 th 	 is 	 	.	 hell 	 o 	 	tedxusc	.
+we	are	ok	go	.	have	you	read	the	``	natural	curiosity	cabinet	?	``
+i	mean	,	``	curiosity	``	--	excuse	me	.
+let	me	start	 aga 	 in 	 	.
+we	need	some	more	 ridicul 	 ous 	 	 thing 	 s 	 	 be 	 side 	 s 	 	``	the	cabinet	of	natural	 cur 	 io 	 s 	 ities 	 	.	``
+tim	's	 s 	 un 	 dial 	 	hat	.
+have	you	 s 	 een 	 	the	new	work	they	've	 d 	 one 	 	to	the	waltz	 tower 	 s 	 	?
+sorry	,	start	 aga 	 in 	 	.
+ dog 	 s 	 	.
+ hell 	 o 	 	,	tedxusc	.	we	are	ok	go	,	and	 th 	 is 	 	our	new	video	,	``	 th 	 is 	 	too	 s 	 hall 	 	pass	.	``
+[	 un 	 clear 	 	]	kay	,	we	can	still	do	one	better	i	think	,	 yea 	 h 	 	.
+that	one	's	 pre 	 tty 	 	good	.	it	's	 get 	 ting 	 	better	.
+

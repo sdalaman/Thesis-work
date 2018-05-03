@@ -1,0 +1,180 @@
+bugün_tr bir_tr fikir_tr hakkında_tr konuşmak_tr istiyorum_tr ._tr büyük_tr bir_tr fikir_tr ._tr
+aslında_tr ,_tr bu_tr fikrin_tr sonunda_tr ,_tr geçtiğimiz_tr yüzyılda_tr çıkmış_tr tek_tr büyük_tr fikir_tr olarak_tr _UNK__tr düşünüyorum_tr ._tr
+bu_tr hesaplama_tr fikridir_tr ._tr
+şimdi_tr ,_tr elbette_tr ki_tr bu_tr fikir_tr bize_tr bugün_tr sahip_tr olduğumuz_tr bütün_tr bilgisayar_tr teknolojisini_tr de_tr getirdi_tr ._tr
+ama_tr aslında_tr hesaplama_tr fikrinin_tr daha_tr çok_tr işi_tr var_tr ._tr
+bu_tr çok_tr derin_tr ,_tr çok_tr güçlü_tr ,_tr çok_tr temel_tr bir_tr fikir_tr ve_tr bunun_tr etkilerini_tr yeni_tr görmeye_tr başladık_tr ._tr
+ben_tr hayatımın_tr son_tr 30_tr _UNK__tr hesaplamayı_tr oldukça_tr ciddiye_tr almaya_tr çalışan_tr ü_tr ç_tr büyük_tr projede_tr çalışarak_tr geçirdim_tr ._tr
+genç_tr yaşta_tr ,_tr bilgisayarları_tr araç_tr olarak_tr kullanan_tr bir_tr fizikçi_tr olarak_tr başladım_tr ._tr
+sonra_tr ,_tr daha_tr derinlere_tr indim_tr ,_tr yapmak_tr istediğim_tr hesaplamalar_tr hakkında_tr düşündüm_tr ,_tr hangi_tr ilklerden_tr _UNK__tr ve_tr nasıl_tr mümkün_tr olduğunca_tr _UNK__tr _UNK__tr tahmin_tr etmeye_tr çalıştım_tr ._tr
+neticede_tr ,_tr sembolik_tr programlamaya_tr dayalı_tr tam_tr bir_tr yapı_tr hazırladım_tr ve_tr bu_tr da_tr mathematica'yı_tr _UNK__tr sağladı_tr ._tr
+ve_tr son_tr 23_tr yıldır_tr ,_tr giderek_tr artan_tr bir_tr hızla_tr ,_tr daha_tr fazla_tr yeni_tr fikir_tr ve_tr yetenekleri_tr mathematica'ya_tr _UNK__tr ,_tr ve_tr bunun_tr ar_tr -_tr ge_tr ,_tr eğitim_tr ve_tr diğer_tr birçok_tr alanda_tr iyi_tr işlerin_tr yapılmasını_tr sağladığını_tr söylemekten_tr mutluyum_tr ._tr
+açıkçası_tr ,_tr itiraf_tr etmeliyim_tr ki_tr mathematica'yı_tr oluşturmak_tr için_tr çok_tr bencil_tr bir_tr nedenim_tr de_tr vardı_tr ._tr onu_tr kendim_tr kullanmak_tr istedim_tr ,_tr galileo'nun_tr 400_tr yıl_tr önce_tr kendi_tr teleskobunu_tr kullanması_tr gibi_tr ._tr
+ama_tr ben_tr astronomik_tr evrene_tr değil_tr ,_tr hesaplama_tr evrenine_tr bakmak_tr istiyordum_tr ._tr
+normalde_tr programları_tr ,_tr çok_tr özel_tr amaçlar_tr için_tr oluşturduğumuz_tr karmaşık_tr şeyler_tr olarak_tr görürüz_tr ._tr
+peki_tr ya_tr tüm_tr muhtemel_tr programlar_tr _UNK__tr ne_tr demeli_tr ?_tr
+burada_tr çok_tr basit_tr bir_tr programın_tr gösterimi_tr var_tr ._tr
+eğer_tr bu_tr programı_tr çalıştırırsak_tr ,_tr bunu_tr elde_tr ederiz_tr ._tr
+çok_tr basit_tr ._tr
+şimdi_tr bu_tr program_tr için_tr kuralı_tr biraz_tr değiştirmeyi_tr deneyelim_tr ._tr
+şimdi_tr başka_tr bir_tr sonuç_tr alıyoruz_tr ,_tr halen_tr çok_tr basit_tr ._tr
+tekrar_tr değiştirmeyi_tr deneyin_tr ._tr
+biraz_tr daha_tr karmaşık_tr bir_tr şey_tr elde_tr edersiniz_tr ,_tr
+ama_tr bunu_tr bir_tr süre_tr çalıştırırsak_tr ,_tr anlarız_tr ki_tr ,_tr sonuç_tr _UNK__tr biraz_tr karışık_tr olsa_tr da_tr ,_tr çok_tr düzgün_tr bir_tr yapısı_tr var_tr ._tr
+soru_tr şudur_tr :_tr başka_tr bir_tr şey_tr olabilir_tr mi_tr ?_tr
+bunun_tr için_tr ufak_tr bir_tr deney_tr yapabiliriz_tr ._tr
+hadi_tr ufak_tr bir_tr matematik_tr deneyi_tr yapalım_tr ,_tr deneyip_tr bulalım_tr ._tr
+bu_tr baktığımız_tr türdeki_tr tüm_tr muhtemel_tr programları_tr çalıştıralım_tr ._tr
+bunlara_tr hücresel_tr otomatlar_tr adı_tr verilir_tr ._tr
+buradaki_tr davranışta_tr çok_tr fazla_tr çeşitlilik_tr görebilirsiniz_tr ._tr
+çoğu_tr çok_tr basit_tr şeyler_tr yapıyor_tr ._tr ama_tr eğer_tr tüm_tr farklı_tr resimler_tr arasında_tr ,_tr 30._tr kurala_tr bakarsanız_tr ,_tr ilginç_tr bir_tr şeylerin_tr döndüğünü_tr görebilirsiniz_tr ._tr
+o_tr zaman_tr hadi_tr 30._tr kurala_tr daha_tr yakından_tr bakalım_tr ._tr
+i̇şte_tr burada_tr ._tr
+biz_tr sadece_tr şu_tr aşağıdaki_tr basit_tr kuralı_tr takip_tr ediyoruz_tr ama_tr tüm_tr bu_tr şaşırtıcı_tr şeyleri_tr elde_tr ediyoruz_tr ._tr
+bu_tr hiç_tr de_tr alıştığımız_tr bir_tr şey_tr değil_tr ,_tr ve_tr söylemeliyim_tr ki_tr ,_tr bunu_tr ilk_tr gördüğümde_tr ,_tr _UNK__tr büyük_tr bir_tr şok_tr yaşadı_tr ,_tr
+ve_tr ,_tr aslında_tr ,_tr onu_tr anlayabilmek_tr için_tr ,_tr sonunda_tr farklı_tr bir_tr bilim_tr yaratmak_tr zorunda_tr kaldım_tr ._tr
+bu_tr son_tr 300_tr küsür_tr yıldır_tr kullandığımız_tr matematik_tr bazlı_tr bilimden_tr farklı_tr ,_tr daha_tr genel_tr bir_tr bilimdir_tr ._tr
+bilirsiniz_tr ,_tr doğanın_tr bize_tr çok_tr karmaşık_tr gelen_tr birçok_tr şeyi_tr nasıl_tr görünüşte_tr çok_tr zahmetsizce_tr ürettiği_tr bize_tr büyük_tr bir_tr gizem_tr gibi_tr gelmiştir_tr ._tr
+sanırım_tr biz_tr onun_tr sırrını_tr bulduk_tr ._tr o_tr sadece_tr hesaplama_tr evreninde_tr ne_tr varsa_tr onları_tr örnekliyor_tr ve_tr çoğunlukla_tr 30._tr kural_tr gibi_tr şeyler_tr elde_tr ediyor_tr ya_tr da_tr bunun_tr gibi_tr ._tr
+ve_tr bunu_tr bilmek_tr ,_tr bilimde_tr uzun_tr zamandır_tr süren_tr gizemleri_tr açıklamaya_tr başlıyor_tr ._tr
+fakat_tr sayısal_tr _UNK__tr gibi_tr yeni_tr sorunları_tr da_tr getiriyor_tr ._tr
+yani_tr ,_tr biz_tr bilimin_tr bir_tr şeyleri_tr tahmin_tr etmemize_tr izin_tr vermesin_tr alışkınız_tr ,_tr ama_tr bunun_tr gibi_tr bir_tr şey_tr esas_tr olarak_tr _UNK__tr ._tr
+sonucunu_tr etkin_tr şekilde_tr bulmanın_tr tek_tr yolu_tr ,_tr onun_tr gelişmesini_tr seyretmektir_tr ._tr
+bu_tr benim_tr hesaplama_tr denkliği_tr adını_tr verdiğim_tr prensibe_tr bağlıdır_tr ,_tr bu_tr prensibe_tr göre_tr inanılmaz_tr _UNK__tr sistemler_tr bile_tr herhangi_tr bir_tr şey_tr kadar_tr karmaşık_tr hesaplamalar_tr yapabilirler_tr ._tr
+rastgele_tr hesaplama_tr yapabilmek_tr gibi_tr hemen_tr her_tr yerde_tr olan_tr bir_tr şeyi_tr yapabilmek_tr için_tr ,_tr çok_tr fazla_tr teknoloji_tr veya_tr biyolojik_tr evrim_tr gerekmez_tr ._tr
+bu_tr kadar_tr basit_tr kuralı_tr olan_tr şeyler_tr bile_tr yapabilir_tr ._tr
+bunun_tr ,_tr bilimin_tr sınırları_tr hakkında_tr ,_tr biyolojik_tr süreçler_tr ve_tr ekonomilerin_tr tahmin_tr edilebilirliği_tr ve_tr kontrol_tr edilebilirliği_tr hakkında_tr ,_tr evrendeki_tr zeka_tr hakkında_tr ,_tr özgür_tr irade_tr gibi_tr sorular_tr hakkında_tr ve_tr teknoloji_tr yaratma_tr hakkında_tr derin_tr imaları_tr vardır_tr ._tr
+bilirsiniz_tr ,_tr bu_tr bilim_tr üzerinde_tr yıllarca_tr çalışırken_tr merak_tr edip_tr durdum_tr ,_tr "_tr bunun_tr ilk_tr harika_tr uygulaması_tr ne_tr olacak_tr ?_tr "_tr
+çocukluğumdan_tr beri_tr ,_tr bilgiyi_tr _UNK__tr ve_tr bir_tr şekilde_tr hesaplanabilir_tr yapmak_tr konusunda_tr düşünüyorum_tr ._tr
+leibniz_tr gibi_tr insanlar_tr da_tr 300_tr yıl_tr önce_tr bunu_tr merak_tr etti_tr ._tr
+fakat_tr hep_tr sanıyordum_tr ki_tr ilerleme_tr kaydetmek_tr için_tr ,_tr esasında_tr tüm_tr beyni_tr _UNK__tr gerekiyor_tr ._tr
+ama_tr şimdiki_tr düşüncem_tr :_tr benim_tr bu_tr bilimsel_tr _UNK__tr farklı_tr bir_tr şey_tr öneriyor_tr ._tr ve_tr ,_tr bu_tr arada_tr ,_tr _UNK__tr devasa_tr hesaplama_tr yetenekleri_tr var_tr elimde_tr ,_tr ve_tr büyük_tr ,_tr delice_tr projeler_tr yapmak_tr için_tr maddi_tr kaynağı_tr olan_tr bir_tr üst_tr düzey_tr yöneticiyim_tr ._tr ve_tr dünyadaki_tr sistematik_tr bilginin_tr ne_tr kadarını_tr hesaplanabilir_tr yapabileceğimizi_tr görmeye_tr çalışmaya_tr karar_tr verdim_tr ._tr
+bu_tr _UNK__tr emin_tr bile_tr olamadığım_tr ,_tr büyük_tr ve_tr çok_tr karmaşık_tr bir_tr projedir_tr ._tr
+fakat_tr aslında_tr iyi_tr gittiğini_tr söylemekten_tr mutluyum_tr ._tr
+ve_tr geçen_tr yıl_tr wolfram_tr alpha'nın_tr ilk_tr web_tr site_tr versiyonunu_tr _UNK__tr ._tr
+onun_tr amacı_tr soruların_tr cevaplarını_tr hesaplayan_tr ciddi_tr bir_tr bilgi_tr motoru_tr olmaktır_tr ._tr
+bir_tr deneyelim_tr ._tr
+çok_tr basit_tr bir_tr şeyle_tr başlayalım_tr ._tr
+en_tr iyisini_tr umalım_tr ._tr
+çok_tr iyi_tr ._tr pekala_tr ._tr
+i̇yi_tr gidiyoruz_tr ._tr
+hadi_tr daha_tr zor_tr bir_tr şey_tr deneyelim_tr ._tr
+diyelim_tr ki_tr ._tr matematiksel_tr bir_tr şey_tr yapalım_tr ve_tr umarız_tr cevabını_tr verebilir_tr ve_tr bize_tr ilginç_tr şeyler_tr ,_tr ilgili_tr matematik_tr hakkında_tr şeyler_tr anlatmaya_tr çalışır_tr ._tr
+gerçek_tr dünya_tr hakkında_tr bir_tr şeyler_tr sorabiliriz_tr ._tr
+bakalım_tr ,_tr --_tr bilmem_tr --_tr i̇spanya'nın_tr gsmh'sı_tr nedir_tr ?_tr
+ve_tr bize_tr bunu_tr _UNK__tr ._tr
+şimdi_tr bununla_tr ilgili_tr bir_tr hesaplama_tr yapabiliriz_tr ,_tr varsayalım_tr ki_tr i̇spanya'nın_tr _UNK__tr bölelim_tr ,_tr bilmem_tr ki_tr ,_tr --_tr hmmm_tr --_tr
+microsoft'un_tr gelirine_tr bölelim_tr ._tr
+esas_tr fikir_tr bunu_tr ,_tr bu_tr tür_tr bir_tr soruyu_tr aklımıza_tr geldiği_tr gibi_tr yazıp_tr sorabilmektir_tr ._tr
+o_tr yüzden_tr bir_tr soru_tr soralım_tr ,_tr mesela_tr sağlıkla_tr ilgili_tr bir_tr soru_tr ._tr
+varsayalım_tr ki_tr 50_tr yaşındaki_tr bir_tr erkeğin_tr
+düşük_tr yoğunluklu_tr _UNK__tr seviyesinin_tr 140_tr olduğunu_tr bulan_tr bir_tr labaratuvar_tr olsun_tr ._tr
+bunu_tr _UNK__tr ve_tr wolfram_tr alpha_tr şimdi_tr gidip_tr mevcut_tr sağlık_tr verilerini_tr kullanacak_tr ve_tr bu_tr _UNK__tr birinin_tr nüfusun_tr hangi_tr kesimine_tr denk_tr geldiğini_tr bulmaya_tr çalışacak_tr ._tr
+şunu_tr sormayı_tr deneyelim_tr ,_tr bilmem_tr ki_tr ,_tr uluslararası_tr uzay_tr istasyonu_tr ._tr
+ve_tr orada_tr olup_tr biten_tr şudur_tr :_tr wolfram_tr alpha_tr sadece_tr bir_tr şeye_tr bakmıyor_tr ;_tr uluslararası_tr uzay_tr istasyonunun_tr şu_tr anda_tr nerede_tr olduğunu_tr ,_tr ne_tr kadar_tr hızlı_tr gittiğini_tr vs_tr eş_tr zamanlı_tr olarak_tr hesaplıyor_tr ._tr
+yani_tr wolfram_tr alpha_tr bir_tr sürü_tr şey_tr biliyor_tr ._tr
+şu_tr anda_tr ,_tr herhangi_tr bir_tr standart_tr referans_tr kütüphanesinde_tr bulabileceğiniz_tr her_tr şeyi_tr içeriyor_tr ._tr
+fakat_tr hedef_tr daha_tr da_tr ileri_tr gitmek_tr ve_tr tüm_tr bu_tr bilgileri_tr genişçe_tr _UNK__tr ,_tr ve_tr tüm_tr alanlarda_tr otorite_tr kaynağı_tr olmaya_tr çalışmak_tr ,_tr
+ve_tr insanların_tr sorduğu_tr kendine_tr özgü_tr soruların_tr cevaplarını_tr hesaplamak_tr ,_tr ve_tr bunu_tr başkalarının_tr yazdığı_tr bilgiler_tr arasından_tr arayarak_tr değil_tr ,_tr aksine_tr mevcut_tr bilgileri_tr kullanarak_tr bu_tr özel_tr sorulara_tr taze_tr yeni_tr cevapları_tr _UNK__tr ._tr
+wolfram_tr alpha_tr tabii_tr ki_tr devasa_tr büyüklükte_tr ,_tr çok_tr zorluklar_tr içeren_tr uzun_tr vadeli_tr bir_tr projedir_tr ._tr
+başlangıç_tr için_tr zilyon_tr tane_tr farklı_tr veri_tr kaynağını_tr düzenlemek_tr gerekir_tr ,_tr ve_tr bunun_tr için_tr beşeri_tr alan_tr uzmanları_tr ve_tr mathematica_tr _UNK__tr altyapısını_tr inşa_tr ettik_tr ._tr
+bu_tr sadece_tr başlangıç_tr ._tr
+ham_tr gerçekler_tr ve_tr veriler_tr ile_tr soruları_tr gerçekten_tr cevaplayabilmek_tr için_tr hesaplamak_tr gerekir_tr ,_tr bilimin_tr ve_tr diğer_tr alanların_tr yüzyıllar_tr boyunca_tr ortaya_tr çıkardığı_tr tüm_tr o_tr yöntemleri_tr ,_tr modelleri_tr ,_tr ve_tr algoritmaları_tr vesaire_tr uygulamak_tr gerekir_tr ._tr
+sadece_tr _UNK__tr başlamak_tr bile_tr ,_tr çok_tr büyük_tr bir_tr uğraştır_tr ._tr
+şimdiye_tr dek_tr wolfram_tr _UNK__tr çok_tr farklı_tr alanlardaki_tr uzmanlar_tr tarafından_tr yazılan_tr yaklaşık_tr 8_tr milyon_tr satır_tr mathematica_tr kodu_tr var_tr ._tr
+wolfram_tr alpha_tr hakkındaki_tr en_tr önemli_tr fikir_tr sıradan_tr konuşma_tr dilini_tr kullanarak_tr ona_tr soru_tr sorabilmektir_tr ,_tr bu_tr demektir_tr ki_tr insanların_tr girdi_tr alanına_tr yazdığı_tr tüm_tr o_tr tuhaf_tr ifadeleri_tr bir_tr kenara_tr atmak_tr ve_tr o_tr yazılanları_tr _UNK__tr ._tr
+ve_tr şunu_tr söylemeliyim_tr ki_tr bu_tr adım_tr son_tr derece_tr imkansız_tr olabilir_tr ._tr
+i̇ki_tr büyük_tr şey_tr oldu_tr ._tr i̇lki_tr ,_tr hesaplama_tr evrenini_tr _UNK__tr gelen_tr dilbilim_tr ile_tr ilgili_tr birtakım_tr yeni_tr fikirlerdir_tr ._tr ve_tr ikincisi_tr ,_tr gerçekten_tr hesaplanabilir_tr bilgiye_tr sahip_tr olmak_tr birinin_tr dili_tr anlama_tr girişimini_tr tamamen_tr değiştirdiğinin_tr farkına_tr varmaktır_tr ._tr
+ve_tr ,_tr tabii_tr ki_tr ,_tr şimdi_tr wolfram_tr alpha_tr ortalıkta_tr _UNK__tr ,_tr onun_tr gerçek_tr kullanımından_tr bir_tr şeyler_tr öğrenebiliriz_tr ._tr
+ve_tr wolfram_tr alpha_tr ile_tr onun_tr kullanıcıları_tr arasında_tr gerçekten_tr ilginç_tr bir_tr ortak_tr evrimleşme_tr süreci_tr meydana_tr gelmiştir_tr ._tr ve_tr bu_tr gerçekten_tr cesaret_tr verici_tr ._tr
+şu_tr anda_tr web_tr _UNK__tr bakarsak_tr ,_tr %_tr 80'i_tr ilk_tr seferde_tr başarıyla_tr _UNK__tr ._tr
+ve_tr iphone_tr uygulaması_tr gibi_tr şeylere_tr bakarsanız_tr ,_tr bu_tr oran_tr oldukça_tr daha_tr büyük_tr ._tr
+yani_tr tüm_tr bunlardan_tr memnunum_tr ._tr
+fakat_tr birçok_tr yönden_tr ,_tr halen_tr wolfram_tr alpha'nın_tr en_tr başındayız_tr ._tr
+demek_tr istediğim_tr ,_tr her_tr şey_tr güzelce_tr büyüyor_tr ._tr daha_tr da_tr emin_tr oluyoruz_tr ._tr
+wolfram_tr alpha_tr teknolojisinin_tr ,_tr daha_tr birçok_tr yerde_tr hem_tr böyle_tr bir_tr sitedeki_tr gibi_tr halka_tr açık_tr veriler_tr üzerinde_tr çalışırken_tr ,_tr hem_tr de_tr kişi_tr ve_tr şirketlere_tr has_tr özel_tr veriler_tr üzerinde_tr çalışırken_tr karşınıza_tr çıkmasını_tr _UNK__tr ._tr
+biliyorsunuz_tr ,_tr wolfram_tr alpha'nın_tr bilgi_tr -_tr tabanlı_tr hesaplama_tr diyebileceğimiz_tr yepyeni_tr bir_tr hesaplama_tr yöntemi_tr sunduğunu_tr fark_tr ettim_tr ,_tr ki_tr bu_tr durumda_tr herhangi_tr bir_tr kimse_tr sadece_tr ham_tr veriyle_tr değil_tr aksine_tr çok_tr geniş_tr bir_tr mevcut_tr bilgi_tr _UNK__tr başlıyor_tr ._tr
+ve_tr birisini_tr bunu_tr yaptığı_tr vakit_tr ,_tr ister_tr internette_tr olsun_tr ister_tr başka_tr yerde_tr sonuçta_tr hesaplanabilir_tr şeyleri_tr dağıtma_tr ekonomisini_tr gerçekten_tr değiştiriyor_tr ._tr
+biliyorsunuz_tr şu_tr anda_tr burada_tr çok_tr ilginç_tr bir_tr durum_tr var_tr ._tr
+bir_tr tarafta_tr ,_tr muntazam_tr ve_tr net_tr bir_tr dili_tr olan_tr ve_tr birçok_tr alanda_tr özenle_tr tasarlanmış_tr yetenekleri_tr ile_tr birçok_tr işi_tr birkaç_tr satır_tr kod_tr ile_tr yapabilen_tr mathematica_tr var_tr ._tr
+size_tr birkaç_tr örnek_tr göstereyim_tr ._tr
+burada_tr küçük_tr bir_tr matematik_tr programı_tr var_tr ._tr
+burada_tr birtakım_tr farklı_tr özellikleri_tr eklediğimiz_tr bir_tr şeyler_tr var_tr ._tr
+burada_tr bu_tr çizgide_tr sadece_tr biraz_tr _UNK__tr sağlayacak_tr bir_tr arayüz_tr oluşturacağız_tr ._tr
+devam_tr ederseniz_tr ,_tr çeşitli_tr algoritmik_tr şeyler_tr yapan_tr ve_tr kullanıcı_tr arayüzleri_tr oluşturan_tr bu_tr biraz_tr daha_tr karmaşık_tr program_tr ortaya_tr çıkar_tr ._tr
+ama_tr bu_tr net_tr şeylerden_tr oluşan_tr bir_tr şeydir_tr ._tr
+bur_tr mathematica'ya_tr ne_tr yapması_tr gerektiğini_tr anlatan_tr gayet_tr muntazam_tr ve_tr net_tr bir_tr tanımlamadır_tr ._tr
+diğer_tr tarafta_tr elimizde_tr dünyanın_tr ve_tr insan_tr dilinin_tr tüm_tr karmaşıklığının_tr ve_tr diğer_tr şeylerin_tr gömülü_tr olduğu_tr wolfram_tr alpha_tr var_tr ._tr
+peki_tr bu_tr şeyleri_tr bir_tr araya_tr koyduğunuzda_tr ne_tr olur_tr ?_tr
+bence_tr oldukça_tr harika_tr olur_tr ._tr
+mathematica'nın_tr içinde_tr wolfram_tr alpha_tr ile_tr örneğin_tr ,_tr gerçek_tr dünya_tr verilerini_tr alan_tr muntazam_tr programlar_tr yapabilirsiniz_tr ._tr
+burada_tr çok_tr basit_tr bir_tr örnek_tr var_tr ._tr
+ayrıca_tr belirsiz_tr ifadeler_tr de_tr girebilirsiniz_tr ve_tr wolfram_tr alpha'nın_tr ne_tr demek_tr istediğinizi_tr anlamaya_tr çalışmasını_tr deneyebilirsiniz_tr ._tr
+haydi_tr burada_tr deneyelim_tr ._tr
+fakat_tr bence_tr burada_tr gerçekten_tr heyecan_tr verici_tr olan_tr şey_tr bunun_tr bize_tr programlamayı_tr demokratikleştirme_tr şansı_tr vermesidir_tr ._tr
+demek_tr istediğim_tr ,_tr herhangi_tr bir_tr kimse_tr ne_tr istediğini_tr gündelik_tr dilde_tr söyleyecek_tr ,_tr
+ve_tr ,_tr esas_tr fikir_tr ,_tr wolfram_tr alpha_tr bu_tr yazılanlarla_tr istenen_tr şeyi_tr tam_tr olarak_tr hangi_tr kodun_tr yapabileceğini_tr bulmaya_tr çalışacak_tr ve_tr onlara_tr daha_tr büyük_tr ve_tr net_tr programlar_tr inşa_tr etmelerini_tr sağlayacak_tr örnekler_tr sunup_tr bunlar_tr arasından_tr istediklerini_tr seçmelerini_tr sağlayacak_tr ._tr
+bazen_tr ,_tr wolfram_tr alpha_tr istenen_tr her_tr şeyi_tr anında_tr yapabilecek_tr ve_tr ardından_tr hesaplamayı_tr yapabileceğin_tr büyük_tr programı_tr tümüyle_tr verecek_tr ._tr
+burada_tr birçok_tr eğitsel_tr malzemenin_tr ve_tr diğer_tr birçok_tr şey_tr hakkında_tr topladığımız_tr bir_tr sürü_tr örneklerin_tr yer_tr aldığı_tr büyük_tr bir_tr web_tr sitesi_tr var_tr ._tr
+bilmiyorum_tr ,_tr size_tr bir_tr örnek_tr göstereceğim_tr ,_tr belki_tr burada_tr ._tr
+bu_tr sadece_tr tüm_tr bu_tr hesaplanabilir_tr belgelerin_tr bir_tr örneği_tr ._tr
+bu_tr ,_tr burada_tr çalışabilen_tr muhtemelen_tr oldukça_tr kısa_tr bir_tr mathematica_tr kodudur_tr ._tr
+pekala_tr ,_tr tekrar_tr uzaklaşalım_tr ._tr
+pekala_tr ,_tr bu_tr yeni_tr bilim_tr türümüzü_tr teknoloji_tr üretmek_tr için_tr kullanacağımız_tr genel_tr bir_tr yöntem_tr var_tr mı_tr ?_tr
+söz_tr konusu_tr fiziksel_tr maddeler_tr olunca_tr dünyayı_tr dolaşıp_tr belirli_tr maddelerin_tr belirli_tr teknolojik_tr amaçlar_tr için_tr uygun_tr olup_tr olmadığını_tr araştırmaya_tr alışmışız_tr ._tr
+görünen_tr o_tr ki_tr aynı_tr şeyi_tr hesaplama_tr evreninde_tr de_tr yapabiliriz_tr ._tr
+bitmez_tr tükenmez_tr bir_tr program_tr kaynağı_tr var_tr dışarıda_tr ._tr
+asıl_tr mesele_tr onları_tr insanların_tr kullanımı_tr için_tr nasıl_tr _UNK__tr ._tr
+örneğin_tr kural_tr 30'un_tr gerçekten_tr iyi_tr bir_tr rastgelelik_tr üreticisi_tr olması_tr gibi_tr ._tr
+diğer_tr basit_tr programlar_tr doğal_tr ve_tr sosyal_tr dünyadaki_tr işlemler_tr için_tr iyi_tr modeldir_tr ._tr
+ve_tr ,_tr örneğin_tr ,_tr wolfram_tr alpha_tr ve_tr mathematica_tr gerçekten_tr bizim_tr hesaplama_tr evrenini_tr araştırırken_tr keşfettiğimiz_tr _UNK__tr doludur_tr ._tr
+ve_tr ,_tr örneğin_tr ,_tr bu_tr --_tr buraya_tr geri_tr dönüyoruz_tr --_tr bu_tr ,_tr hesaplama_tr evreninde_tr arama_tr yaparak_tr müziksel_tr yapılar_tr bulan_tr besteciler_tr arasında_tr şaşırtıcı_tr derecede_tr popüler_tr oldu_tr ._tr
+bir_tr anlamda_tr ,_tr _UNK__tr düzenlenmiş_tr yaratıcılığı_tr edinmek_tr için_tr hesaplama_tr evrenini_tr kullanabiliriz_tr ._tr
+umuyorum_tr ki_tr ,_tr örneğin_tr ,_tr wolfram_tr _UNK__tr rutin_tr olarak_tr icat_tr ve_tr keşif_tr yapmak_tr ve_tr hiçbir_tr mühendisin_tr ve_tr hiçbir_tr artan_tr evrim_tr sürecinin_tr _UNK__tr tüm_tr bu_tr harika_tr şeyleri_tr bulmak_tr için_tr kullanabiliriz_tr ._tr
+bu_tr bizi_tr mutlak_tr soruya_tr götürüyor_tr ._tr hesaplama_tr evrenin_tr bir_tr yerinde_tr kendi_tr fiziksel_tr evrenimizi_tr bulmamız_tr mümkün_tr müdür_tr ?_tr
+belki_tr de_tr evrenimiz_tr için_tr oldukça_tr basit_tr bir_tr kural_tr veya_tr basit_tr bir_tr program_tr vardır_tr ._tr
+fizik_tr tarihi_tr bizden_tr ,_tr evrenin_tr _UNK__tr son_tr derece_tr karmaşık_tr olduğuna_tr inanmamızı_tr isteyecektir_tr ._tr
+fakat_tr hesaplama_tr evreninde_tr son_tr derece_tr basit_tr kuralların_tr nasıl_tr oldukça_tr zengin_tr ve_tr karmaşık_tr davranışlar_tr ürettiğini_tr gördük_tr ._tr
+bizim_tr bütün_tr evrende_tr de_tr olup_tr biten_tr bu_tr olabilir_tr mi_tr ?_tr
+eğer_tr evrenin_tr kuralları_tr _UNK__tr ,_tr onların_tr çok_tr soyut_tr ve_tr çok_tr alt_tr düzeyde_tr olmaları_tr ,_tr örneğin_tr bir_tr şeyleri_tr tanımlamayı_tr zorlaştıran_tr zaman_tr ve_tr uzay_tr düzeyinin_tr çok_tr altında_tr işliyor_tr olmaları_tr gerektiği_tr kaçınılmaz_tr olacaktır_tr ._tr
+fakat_tr geniş_tr bir_tr vaka_tr sınıfında_tr ,_tr evreni_tr bir_tr tür_tr ağ_tr gibi_tr görebiliriz_tr ,_tr öyle_tr ki_tr bu_tr ağ_tr yeterince_tr büyük_tr olduğunda_tr aynen_tr birçok_tr molekülün_tr daimi_tr bir_tr sıvı_tr gibi_tr hareket_tr ettiği_tr şekilde_tr davranmaya_tr başlayacaktır_tr ._tr
+ardından_tr evren_tr ,_tr bu_tr ağı_tr dereceli_tr olarak_tr güncelleyen_tr küçük_tr kuralları_tr uygulayarak_tr evrimleşmek_tr zorundadır_tr ._tr
+ve_tr her_tr olası_tr kural_tr ,_tr bir_tr şekilde_tr ,_tr aday_tr bir_tr evrene_tr karşılık_tr gelir_tr ._tr
+aslında_tr ,_tr bunları_tr henüz_tr göstermedim_tr ,_tr ama_tr burada_tr benim_tr baktığım_tr birkaç_tr aday_tr evren_tr yer_tr alıyor_tr ._tr
+bunların_tr bazıları_tr umutsuz_tr evrenler_tr ,_tr tamamen_tr kısır_tr ,_tr boşluk_tr ,_tr zaman_tr veya_tr maddenin_tr olmadığı_tr diğer_tr patolojiler_tr gibi_tr buna_tr benzer_tr sorunlar_tr ._tr
+fakat_tr son_tr birkaç_tr yılda_tr bulduğum_tr heyecan_tr verici_tr şey_tr ,_tr bizim_tr evrenimiz_tr olmadığı_tr gayet_tr açık_tr olan_tr aday_tr evrenleri_tr bulmaya_tr başlamak_tr için_tr hesaplama_tr evreninde_tr çok_tr da_tr uzağa_tr gitmeniz_tr _UNK__tr ._tr
+i̇şte_tr problem_tr :_tr bizim_tr evrenimiz_tr için_tr ciddi_tr bir_tr aday_tr ,_tr mutlak_tr şekilde_tr sayısal_tr _UNK__tr doludur_tr ,_tr
+bu_tr da_tr demektir_tr ki_tr ,_tr onun_tr gerçekten_tr nasıl_tr _UNK__tr veya_tr fiziksel_tr _UNK__tr eşleşip_tr _UNK__tr kestirmek_tr indirgenemez_tr derecede_tr zordur_tr ._tr
+birkaç_tr yıl_tr önce_tr izafiyet_tr teorisini_tr ve_tr hatta_tr genel_tr görelilik_tr kuramı_tr ve_tr yer_tr çekimini_tr başarılı_tr bir_tr şekilde_tr kopyalayan_tr ve_tr en_tr azından_tr kuantum_tr mekaniği_tr hakkında_tr ipuçları_tr veren_tr son_tr derece_tr basit_tr kurallı_tr aday_tr evrenler_tr olduğunu_tr keşfettiğimde_tr oldukça_tr heyecanlanmıştım_tr ._tr
+peki_tr ,_tr fiziğin_tr tamamını_tr bulabilecek_tr miyiz_tr ?_tr
+emin_tr değilim_tr ._tr fakat_tr bence_tr bu_tr aşamada_tr en_tr azından_tr _UNK__tr utanç_tr vericidir_tr ._tr
+kolay_tr bir_tr proje_tr değil_tr ._tr
+çok_tr teknoloji_tr oluşturmak_tr zorundayız_tr ._tr
+muhtemelen_tr en_tr az_tr mevcut_tr fizik_tr kadar_tr derin_tr yapılar_tr inşa_tr etmeliyiz_tr ._tr
+ve_tr tüm_tr bunu_tr organize_tr edecek_tr en_tr iyi_tr yöntemin_tr ne_tr olduğundan_tr emin_tr değilim_tr ._tr
+bir_tr takım_tr oluştur_tr ,_tr aç_tr dünyaya_tr ,_tr ödüller_tr ver_tr vb_tr ._tr
+fakat_tr bugün_tr burada_tr size_tr bu_tr on_tr yıl_tr için_tr evrenimizin_tr kuralını_tr elimizde_tr tutup_tr _UNK__tr ,_tr ve_tr evrenimizin_tr tüm_tr aday_tr evrenler_tr içinde_tr nerede_tr yer_tr aldığını_tr görüp_tr _UNK__tr ,_tr ve_tr wolfram_tr _UNK__tr "_tr evrenin_tr teorisi_tr "_tr _UNK__tr
+onun_tr bize_tr anlatıp_tr _UNK__tr görebilmek_tr için_tr bu_tr projenin_tr bitmesine_tr kendimi_tr _UNK__tr söyleyeceğim_tr ._tr
+hesaplama_tr fikri_tr üzerinde_tr 30_tr yıldan_tr fazladır_tr araçlar_tr ve_tr _UNK__tr oluşturarak_tr ,_tr zeki_tr fikirleri_tr _UNK__tr satır_tr koda_tr dönüştürerek_tr ve_tr bunları_tr sunucu_tr tarlaları_tr üzerinde_tr öğüterek_tr çalışıyorum_tr ._tr
+her_tr geçen_tr yıl_tr ile_tr birlikte_tr ,_tr hesaplama_tr fikrinin_tr ne_tr kadar_tr güçlü_tr olduğunu_tr fark_tr ediyorum_tr ._tr
+bize_tr zaten_tr uzun_tr bir_tr yol_tr kat_tr ettirdi_tr ,_tr fakat_tr bunun_tr dahası_tr var_tr ._tr
+bilimin_tr temellerinden_tr teknolojinin_tr limitlerine_tr ,_tr bizzat_tr insan_tr durumunun_tr tanımına_tr kadar_tr ,_tr bence_tr hesaplamanın_tr kaderi_tr geleceğimizin_tr fikrini_tr tanımlamaktır_tr ._tr
+teşekkürler_tr ._tr
+chris_tr anderson_tr :_tr bu_tr hayret_tr vericiydi_tr ._tr
+bekle_tr burada_tr ._tr bir_tr sorum_tr var_tr ._tr
+doğrusu_tr çok_tr şaşırtıcı_tr bir_tr konuşmaydı_tr ._tr
+bu_tr tür_tr bir_tr düşünce_tr tarzının_tr nasıl_tr bir_tr şekilde_tr sicim_tr _UNK__tr veya_tr insanların_tr evrenin_tr temel_tr açıklaması_tr olarak_tr gördüğü_tr şeylere_tr _UNK__tr bir_tr veya_tr iki_tr cümlede_tr anlatabilir_tr misin_tr ?_tr
+stephen_tr wolfram_tr :_tr fiziğin_tr ,_tr doğru_tr olduğunu_tr bildiğimiz_tr ,_tr örneğin_tr fiziğin_tr standart_tr modelleri_tr gibi_tr taraflarını_tr bağlayabiliriz_tr ._tr yapmaya_tr çalıştığım_tr şey_tr ,_tr fiziğin_tr standart_tr modelini_tr daha_tr iyi_tr şekilde_tr yeniden_tr üretmek_tr veya_tr baştan_tr yanlıştır_tr ._tr
+i̇nsanların_tr son_tr 25_tr küsür_tr yıldır_tr sicim_tr kuramı_tr ve_tr diğer_tr şeyler_tr ile_tr yapmaya_tr çalıştıkları_tr ,_tr standart_tr modele_tr _UNK__tr için_tr yapılan_tr fakat_tr henüz_tr o_tr noktaya_tr ulaşamayan_tr ilginç_tr _UNK__tr ._tr
+benim_tr tahminim_tr yaptığım_tr büyük_tr _UNK__tr sicim_tr _UNK__tr yapılan_tr kadar_tr gerçekten_tr kayda_tr değer_tr etki_tr _UNK__tr ,_tr fakat_tr bu_tr henüz_tr nasıl_tr olacağını_tr bilmediğim_tr karmaşık_tr bir_tr matematik_tr _UNK__tr ._tr
+ca_tr :_tr dinleyiciler_tr arasında_tr benoit_tr _UNK__tr var_tr ._tr
+o_tr da_tr basit_tr bir_tr başlangıçtan_tr nasıl_tr karmaşıklık_tr çıkacağını_tr göstermiştir_tr ._tr
+senin_tr çalışman_tr bununla_tr alakalı_tr mı_tr ?_tr
+sw_tr :_tr öyle_tr sanırım_tr ._tr
+benoit_tr _UNK__tr çalışmalarını_tr bu_tr tür_tr alanların_tr temel_tr taşı_tr olarak_tr görüyorum_tr ._tr
+benoit_tr özellikle_tr iç_tr içe_tr kalıplar_tr ,_tr fraktallar_tr ve_tr yapının_tr bir_tr ağacın_tr dallarına_tr benzeyen_tr büyük_tr dallardan_tr _UNK__tr çıktığı_tr ve_tr küçük_tr dallardan_tr da_tr daha_tr _UNK__tr çıktığı_tr yapılara_tr ilgi_tr duyuyor_tr ._tr
+bu_tr gerçek_tr karmaşıklığa_tr giden_tr yollardan_tr bir_tr tanesidir_tr ._tr
+bence_tr ,_tr kural_tr 30_tr gibi_tr hücre_tr _UNK__tr bizi_tr farklı_tr seviyelere_tr götürür_tr ._tr
+aslında_tr bizi_tr farklı_tr bir_tr seviyeye_tr çok_tr net_tr bir_tr yoldan_tr götürüyorlar_tr çünkü_tr onlar_tr karmaşıklık_tr _UNK__tr şeyler_tr gibiler_tr bu_tr karmaşıklığın_tr olabileceği_tr en_tr büyük_tr hali_tr gibi_tr bir_tr şey_tr ..._tr
+daha_tr çok_tr anlatırım_tr ama_tr lafı_tr _UNK__tr ._tr
+ca_tr :_tr stephen_tr wolfram_tr ,_tr teşekkürler_tr ._tr

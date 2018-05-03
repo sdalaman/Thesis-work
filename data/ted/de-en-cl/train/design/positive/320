@@ -1,0 +1,152 @@
+ich habe meinen ersten computer als teenager in accra bekommen und es war ein echt tolles gerät .
+man konnte spiele damit spielen und in basic programmieren .
+ich war fasziniert davon .
+also ging ich in die bücherei , um herauszufinden , wie dieses ding funktionierte .
+ich las , dass die cpu ständig daten hin und her schiebt zwischen speicher , ram und der alu , der arithmetisch - logischen einheit .
+und ich dachte mir , diese cpu muss wirklich wie verrückt arbeiten , damit die ganzen daten ungehindert fließen können .
+aber keiner machte sich darüber wirklich gedanken .
+als die ersten computer auf den markt kamen , wurde gesagt , sie seien eine million mal schneller als neuronen .
+die menschen waren begeistert . sie dachten , es würde nicht lange dauern , bis computer die kapazität des gehirns übertreffen würden .
+hier ist ein zitat von alan turing : " in 30 jahren wird es genauso einfach sein , einem computer eine frage zu stellen wie einem menschen . "
+das stammt von 1946 . und heute , 2007 , trifft es immer noch nicht zu .
+die frage ist , warum sehen wir die fähigkeiten , die das gehirn hat , nicht auch in computern ?
+was die menschen aber nicht verstehen und erst jetzt beginnen zu verstehen , ist , dass wir einen gewaltigen preis zahlen für die geschwindigkeit , die doch ein großer vorteil dieser computer sein soll .
+sehen wir uns mal einige zahlen an .
+dies hier ist blue gene , der schnellste rechner der welt .
+er hat 120.000 prozessoren , die 10 billiarden bits an informationen pro sekunde verarbeiten können .
+das ist 10 hoch 16. und sie verbrauchen anderthalb megawatt strom .
+wäre das nicht großartig , wenn man das zur _UNK_ _UNK_ addieren könnte .
+das würde die wirtschaft richtig ankurbeln .
+wenn wir zurück in die usa schauen , entspricht die menge strom , die dieser computer _UNK_ , 1.200 us - amerikanischen haushalten .
+so viel strom verbraucht dieser computer .
+jetzt vergleichen wir das doch mal mit dem gehirn .
+dies ist ein bild vom gehirn - von rory _UNK_ ' freundin übrigens .
+rory ist student in stanford .
+er erforscht das gehirn mittels mri und er behauptet , dies sei das schönste gehirn , das er jemals gescannt habe .
+das ist wahre liebe .
+also , wieviel _UNK_ besitzt denn das gehirn ?
+meine schätzung liegt bei 10 hoch 16 bits pro sekunde , was sehr nah an dem liegt , was blue gene kann .
+und da lautet doch die frage : wenn sie ähnlich viele berechnungen durchführen , ähnlich viele daten verarbeiten , wieviel energie oder elektrizität braucht dann das gehirn dafür ?
+und es ist erstaunlicherweise soviel wie ihr laptop : nur 10 watt .
+wofür computer momentan dieselbe energie wie 1.200 haushalte brauchen , das schafft das gehirn mit dem energieverbrauch eines laptop .
+da fragt man sich , wie erreicht das gehirn eine solche effizienz ?
+lassen sie mich das nochmal zusammenfassen : das gehirn verarbeitet informationen mit 100.000 mal weniger energie , als wir das momentan mit unserer computertechnologie können .
+wie schafft das gehirn das ?
+sehen wir uns dazu mal an , wie das gehirn funktioniert , und im vergleich dazu , wie computer funktionieren .
+hier sehen wir einen clip aus der serie " das geheime leben des gehirns " .
+er zeigt diese zellen , die informationen verarbeiten .
+man nennt sie neuronen .
+sie senden einander kleine elektrische impulse entlang ihrer bahnen und an _UNK_ können diese impulse von einem neuron zum anderen überspringen .
+dieser prozess heißt synapse .
+es gibt also dieses riesige netzwerk _UNK_ zellen , ungefähr 100 millionen davon , die 10 billiarden dieser pulse pro sekunde _UNK_ .
+und genau das passiert auch gerade in ihrem gehirn , während sie sich dies angucken .
+wie funktionieren dagegen computer ?
+in einem computer fließen alle daten durch die cpu , den hauptprozessor , und alle daten müssen durch diesen flaschenhals hindurch . wohingegen die daten im gehirn einfach durch das netzwerk der neuronen fließen . es gibt hier keinen engpass .
+es handelt sich wortwörtlich um ein netzwerk .
+die berechnungen im gehirn sind das werk des netzes .
+wenn man sich die beiden bilder anguckt , dann kommen einem begriffe in den sinn wie :
+das eine läuft starr und nach der reihenfolge , wie verkehr auf der autobahn - alles muss im gleichschritt passieren . während hier der prozess parallel und flüssig abläuft .
+die informationsverarbeitung ist höchst dynamisch und anpassungsfähig .
+doch ich bin nicht der erste , der das erkannt hat . hier ist ein zitat von brian eno : " computer haben das problem , dass in ihnen nicht genug afrika steckt . "
+brian hat das schon 1995 gesagt .
+keiner hat damals zugehört , doch jetzt beginnen die leute zuzuhören , weil wir es mit einem drängenden technologischen problem zu tun haben .
+auf den nächsten paar folien werde ich ihnen das kurz erläutern .
+es gibt eine bemerkenswerte annäherung zwischen den bauteilen , die wir in computern benutzen , und den bauteilen , die in unseren gehirnen zum einsatz kommen .
+die bauteile , die in computern eingesetzt werden , heißen transistoren .
+diese elektrode hier , gate genannt , kontrolliert den stromfluss von der quelle zum abfluss , diesen zwei elektroden .
+dieser stromfluss , elektrischer strom , wird von elektronen übertragen , genau wie z.b. in ihrem haus .
+wenn man jetzt das gate einschaltet , kann strom das gate passieren und es entsteht ein stetiger stromfluss .
+wenn man das gate ausschaltet , fließt kein strom mehr durch das teil .
+ihr computer interpretiert einen vorhandenen stromfluss als eine eins und die abwesenheit eines _UNK_ als null .
+weil transistoren jedoch kleiner und kleiner und kleiner werden , sehen wir zunehmend , dass sie sich nicht mehr so verhalten .
+tatsächlich beginnen sie , sich mehr wie das bauteil in neuronen zu verhalten , das ionenkanal genannt wird .
+es handelt sich dabei um ein kleines _UNK_ .
+neuronen haben tausende davon .
+es sitzt sich in der _UNK_ und hat eine kleine öffnung , ein pore .
+und hier haben wir einzelne _UNK_ , die durch diese pore fließen .
+nun kann sich diese pore öffnen und schließen .
+aber wenn sie offen ist , müssen sich die ionen einreihen und nacheinander _UNK_ , mit der folge , dass kein stetiger sondern ein _UNK_ stromfluss entsteht .
+und selbst wenn man die pore schließt - was neuronen tun können , sie können diese poren öffnen und schließen , um elektrische aktivität zu erzeugen , - selbst wenn sie geschlossen ist , können die winzigen ionen sich ab und zu _UNK_ . einige von ihnen schaffen das immer .
+wenn die pore geöffnet ist , fließt manchmal strom .
+dies sind die einsen , aber mit ein paar nullen drin .
+und wenn sie geschlossen ist , ergeben sich nullen aber mit einigen einsen dabei .
+dasselbe passiert jetzt auch in transistoren .
+der grund dafür ist , dass unsere gegenwärtige technik , stand 2007 , transistoren erzeugt , die groß genug sind , dass mehrere elektronen gleichzeitig nebeneinander passieren können .
+ungefähr 12 elektronen passen da gleichzeitig durch , um genau zu sein .
+so kann man sagen , dass ein transistor 12 parallel _UNK_ _UNK_ entspricht .
+doch in ein paar jahren , zirka 2015 , werden wir transistoren so geschrumpft haben .
+intel macht das , um mehr kerne auf einen chip zu kriegen
+oder um _UNK_ zu erweitern , auf die jetzt 1 gigabyte daten passen , und früher waren es 256 megabyte .
+transistoren werden kleiner , um das zu ermöglichen und das hat unsere technologie wesentlich besser gemacht .
+aber die folge ist , dass der transistor 2015 so klein geworden sein wird , dass nur noch ein elektron auf einmal durch den kanal fließen kann , was einem einzelnen ionenkanal entspricht .
+dadurch ergeben sich vermehrt dieselben staus wie im ionenkanal .
+der stromfluss wird immer wieder unterbrochen , selbst wenn er an sein soll ,
+was bedeutet , dass ihr computer seine nullen und einsen durcheinander bekommt und die maschine in folge _UNK_ .
+wir sind damit an einem punkt , wo wir nicht wirklich wissen , wie wir mit so etwas noch rechnen sollen .
+das einzige vorbild , das wir derzeit haben , das berechnungen unter diesen umständen durchführen kann , ist das gehirn .
+okay , also ein computer holt bestimmte daten aus dem speicher , und sendet sie an den hauptprozessor oder die alu , und schickt das resultat zurück in den speicher .
+das ist der rot gekennzeichnete pfad .
+in gehirnen dagegen gibt es all diese neuronen .
+und sie stellen daten dar , indem sie diese daten in kleine teile _UNK_ , die durch pulse und unterschiedliche neuronen repräsentiert werden .
+es gibt also all diese _UNK_ , über das ganze netzwerk verteilt .
+um diese zu verarbeiten und ein resultat zu erhalten , wird das _UNK_ der neuronen in ein neues muster übersetzt , einfach indem es durch das netzwerk fließt .
+verbindungen werden so hergestellt , dass das _UNK_ abläuft und dabei das _UNK_ erzeugt wird .
+hier sieht man , dass es _UNK_ verbindungen gibt .
+wenn dieses _UNK_ oder dieses da zu bruch geht , und keine ausgabe erzeugt , können diese zwei teile das fehlende stück aktivieren durch diese mehrfachen verbindungen .
+trotz dieser _UNK_ bauteile , die manchmal statt einer eins eine null erzeugen , gibt es _UNK_ im netzwerk , die fehlende informationen ersetzen können .
+das macht das gehirn von grund auf stabil .
+hier haben wir ein system , das daten an einem ort speichert .
+und es ist anfällig , denn jeder schritt muss fehlerfrei ablaufen , sonst gehen die daten verloren . das system des gehirns dagegen speichert daten dezentral und ist fehlertolerant .
+worüber ich nun sprechen möchte , ist mein traum , nämlich einen computer zu bauen , der wie ein gehirn funktioniert .
+daran haben wir die vergangenen paar jahre gearbeitet .
+und ich zeige ihnen jetzt ein system , das wir entwickelt haben , das die netzhaut nachbildet , einen teil des gehirns , der die innenseite ihres _UNK_ bedeckt .
+wir haben dafür keinen _UNK_ geschrieben wie beim computer .
+es ist nämlich so , dass die berechnungen in diesem kleinen _UNK_ sehr ähnlich wie bei der verarbeitung von videos , die über das internet _UNK_ werden sollen .
+die informationen werden komprimiert . es sollen nur die veränderungen von einem bild zum anderen gesendet werden . so schafft es das auge , die ganzen informationen durch den sehnerv zu quetschen , und an den rest des hirns zu senden .
+statt das als software mit algorithmen umzusetzen , ließen wir uns von neurobiologen beraten , die die netzhaut bereits analysiert und nachgebaut haben .
+sie haben die zelltypen zugeordnet , das netzwerk verstanden und wir haben dieses netzwerk genommen und es als bauplan für einen mikrochip genommen .
+die neuronen werden von schaltkreise auf dem chip repräsentiert und die verbindungen zwischen neuronen bestehen aus transistoren .
+die transistoren verhalten sich im grunde genau wie die ionenkanäle im gehirn .
+so ergibt sich derselbe _UNK_ aufbau wie vorhin .
+so sieht unser künstliches auge aus .
+unser netzhautchip befindet sich hinter dieser linse hier .
+ich zeige ihnen jetzt ein video das die künstliche retina erzeugt hat , als es kareem _UNK_ anschaute . kareem ist der student , der diesen chip designt hat .
+ich erkläre ihnen kurz , was sie sehen werden . denn es werden verschiedene spezielle daten erzeugt , nicht wie bei einer kamera .
+der netzhautchip erfasst vier verschiedene arten von daten .
+er erfasse dunkle bereiche , die im video _UNK_ sind .
+und er erfasst weiße oder helle bereiche , die im video grün sind .
+hier sind _UNK_ dunkle augen und das hier ist der weiße hintergrund .
+außerdem erfasst er bewegungen .
+wenn kareem seinen kopf nach rechts bewegt , sehen sie hier blaue aktivität . das repräsentiert bereiche , wo die helligkeit des bildes steigt , wo es sich von dunkel nach hell verändert .
+dann sehen sie noch gelbe aktivität in bereichen , wo sich die helligkeit verringert , also von hell nach dunkel geht .
+diese arten von informationen ... ihr sehnerv hat etwa eine million fasern und 900.000 dieser fasern senden diese vier arten von informationen .
+wir bilden wirklich die art signale nach , die im sehnerv vorkommen .
+wie man merkt sind diese aufnahmen vom ausgang des _UNK_ sehr spärlich .
+nicht der ganze hintergrund ist grün , nur die ecken und so weiter .
+dasselbe kann man beobachten , wenn videos zum versand komprimiert werden : vieles wird weggelassen , weil die datei so kleiner wird . genau das macht die retina , und zwar nur mit ihren schaltkreisen , dem netzwerk von neuronen und deren verhalten , das wir hier auf dem chip haben .
+was ich ihnen klarmachen will , ich zeig 's ihnen hier oben ...
+das _UNK_ wird so aussehen wie diese hier , aber ich zeige ihnen , dass wir das bild rekonstruieren können , sodass sie kareem hier oben fast erkennen können .
+los geht 's .
+so funktioniert das .
+ohne bewegung sehen sie nur helle und dunkle flecken .
+aber sobald bewegung dazukommt , erfasst die retina diese veränderungen .
+wenn sie hier sitzen und sich plötzlich etwas neben ihnen bewegt , richten sie sofort den blick darauf .
+sie haben diese zellen , die auf veränderungen reagieren und sie darauf hinweisen .
+das hilft ihnen dabei jemanden zu erwischen , der sich anschleichen will .
+zum abschluss will ich ihnen zeigen , was passiert , wenn man afrika in ein piano steckt .
+das ist eine _UNK_ _UNK_ . das passiert , wenn man afrika in ein piano steckt .
+wir sollten mehr afrika in den computer stecken und einen neuen computer erfinden , der gedanken , vorstellungskraft hervorbringt und kreativ ist .
+danke .
+chris anderson : eine frage an dich , kwabena .
+_UNK_ du gedanklich deine arbeit , die zukunft afrikas , diese konferenz ... was für verbindungen können wir dazwischen sehen ?
+kwabena boahen : ja , wie anfangs gesagt , meinen ersten computer bekam ich als teenager in accra .
+ich hatte so ein bauchgefühl , dass wir es falsch angehen .
+es war sehr brachial , sehr _UNK_ .
+diese reaktion hätte ich wohl nicht gehabt , wenn ich als kind science - fiction gelesen hätte , von _UNK_ 2d2 gehört gehabt hätte , oder wie immer das hieß . diesen hype um computer geglaubt hätte .
+ich hatte einen anderen blickwinkel darauf und habe meinen blickwinkel benutzt , um das problem anzugehen .
+ich glaube , viele afrikaner haben diese andere perspektive , und ich glaube , das wird die technologie beeinflussen .
+es wird sich auf die technologische entwicklung auswirken .
+diese werden wir nutzen können , um neue dinge zu erfinden , weil wir die dinge aus einer anderen sicht sehen .
+wir können etwas beitragen , wir können träumen wie jeder andere .
+chris anderson : _UNK_ kwabena , das war sehr interessant .
+danke .

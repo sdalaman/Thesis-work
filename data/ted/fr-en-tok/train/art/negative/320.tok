@@ -1,0 +1,154 @@
+j'ai	eu	mon	premier	ordinateur	quand	j'étais	adolescent	et	que	je	grandissais	à	accra	,	et	c'était	vraiment	une	belle	machine	.
+on	pouvait	jouer	avec	ou	le	programmer	en	basic	et	j'étais	fasciné	.
+donc	je	suis	allé	à	la	bibliothèque	pour	comprendre	comment	cette	chose	marchait	.
+j'ai	lu	sur	le	processeur	qui	fait	constamment	aller	et	venir	les	données	entre	la	_UNK_	,	la	ram	et	_UNK_	,	l'unité	arithmétique	et	logique	.
+et	je	me	suis	dit	que	le	processeur	devait	vraiment	travailler	comme	un	fou	simplement	pour	que	toutes	ces	données	bougent	à	travers	le	système	.
+mais	personne	ne	s'inquiétait	vraiment	de	ça	.
+quand	les	ordinateurs	ont	commencé	à	être	connus	,	ils	disaient	qu'ils	étaient	un	million	de	fois	plus	rapide	que	les	neurones	.
+les	gens	étaient	vraiment	excités	,	ils	pensaient	qu'on	allait	bientôt	dépasser	les	capacités	du	cerveau	.
+une	citation	d'alan	turing	:	``	dans	30	ans	,	ce	sera	aussi	facile	de	poser	une	question	à	un	ordinateur	,	que	d'en	poser	une	à	une	personne	.	``
+c'était	en	1946	.	et	maintenant	en	2007	,	ce	n'est	toujours	pas	le	cas	.
+mais	pourquoi	donc	on	ne	voit	pas	encore	la	même	puissance	dans	les	ordinateurs	que	l'on	voit	dans	le	cerveau	?
+ce	que	les	gens	ne	réalisent	pas	,	et	que	je	commence	à	réaliser	maintenant	,	c'est	que	nous	avons	payé	le	prix	fort	pour	la	vitesse	,	que	l'on	disait	être	un	gros	avantage	pour	ces	ordinateurs	.
+regardons	ces	quelques	chiffres	.
+c'est	blue	gene	,	l'ordinateur	le	plus	rapide	au	monde	.
+il	a	120	000	coeurs	qui	peuvent	traiter	10	millions	de	milliards	d'information	par	seconde	.
+c'est	10	puissance	16.	et	ça	consomme	un	demi	mégawatt	.
+donc	ça	serait	vraiment	génial	,	si	on	pouvait	les	ajouter	à	la	production	électrique	de	la	tanzanie	.
+ça	_UNK_	vraiment	l'économie	.
+pour	revenir	aux	u.	s.	a	,	si	on	traduit	la	quantité	d'énergie	électrique	que	cet	ordinateur	utilise	en	nombre	de	foyers	américains	,	ça	donne	1	200	ménages	,	voilà	pour	l'énergie	qu'utilise	cet	ordinateur	.
+maintenant	,	comparons	le	avec	le	cerveau	.
+voici	une	image	du	cerveau	de	la	petite	amie	de	rory	_UNK_	.
+rory	est	un	étudiant	de	troisième	cycle	à	stanford	.
+il	étudie	le	cerveau	par	irm	et	il	prétend	que	c'est	le	plus	beau	cerveau	qu'il	ait	jamais	scanné	.
+ca	,	c'est	vraiment	de	l'amour	.
+alors	,	à	quelle	vitesse	calcule	le	cerveau	?
+je	l'estime	à	10	puissance	16	bits	par	seconde	ce	qui	est	en	fait	très	proche	de	ce	que	fait	blue	gene	.
+donc	,	la	vraie	question	,	c'est	combien	--	ils	calculent	autant	,	une	quantité	similaire	de	donnée	--	la	question	c'est	quelle	énergie	,	combien	d'électricité	est	ce	que	le	cerveau	utilise	?
+et	en	fait	,	c'est	autant	que	votre	ordinateur	portable	:	seulement	10	watts	.
+donc	,	ce	que	nous	faisons	actuellement	avec	les	ordinateurs	avec	l'énergie	consommée	par	1	200	maisons	,	le	cerveau	le	fait	avec	l'énergie	consommée	par	votre	pc	portable	.
+alors	,	comment	est	ce	que	le	cerveau	peut	être	aussi	efficace	?
+et	laisser	moi	résumer	,	voici	les	faits	:	le	cerveau	fonctionne	en	utilisant	100	000	fois	moins	d'énergie	que	ce	que	nous	faisons	maintenant	avec	notre	technologie	informatique	.
+comment	le	cerveau	peut	il	faire	cela	?
+regardons	juste	comment	le	cerveau	fonctionne	,	et	après	on	va	comparer	ça	à	comment	les	ordinateurs	fonctionnent	.
+ce	clip	vient	de	la	série	pbs	,	``	la	vie	secrète	du	cerveau	``	.
+qui	vous	monte	ces	cellules	qui	traitent	l'information	.
+ce	sont	les	neurones	.
+ils	s'envoient	des	petites	impulsions	électriques	et	à	l'endroit	où	ils	se	touchent	,	ces	petites	impulsions	électriques	peuvent	sauter	d'un	neurone	à	un	autre	.
+on	appelle	ça	une	synapse	.
+on	a	cet	énorme	réseau	de	cellules	qui	interagissent	ensemble	,	environ	100	million	,	qui	envoient	environ	10	million	de	milliard	d'impulsions	par	seconde	.
+et	c'est	exactement	ce	qui	se	passe	dans	votre	cerveau	maintenant	alors	que	vous	me	regardez	.
+comment	comparer	cela	à	la	façon	de	travailler	des	ordinateurs	?
+dans	l'ordinateur	,	on	a	toutes	les	données	qui	passent	par	le	processeur	central	,	et	chaque	bout	de	donnée	doit	absolument	passer	par	ce	goulot	d'étranglement	alors	que	dans	le	cerveau	,	on	a	ces	neurones	et	les	données	circulent	librement	à	travers	ce	réseau	de	connections	parmi	les	neurones	,	il	n'y	a	pas	de	goulot	d'étranglement	ici	.
+c'est	vraiment	un	réseau	au	sens	littéral	du	terme	.
+c'est	le	réseau	qui	fait	le	travail	dans	un	cerveau	.
+si	vous	regardez	simplement	ces	deux	images	,	voici	les	mots	qui	vous	viennent	à	l'esprit	.
+l'ordinateur	est	_UNK_	et	rigide	,	c'est	comme	des	voitures	sur	l'autoroute	--	tout	doit	se	faire	dans	un	ordre	précis	.
+alors	que	le	cerveau	est	asynchrone	et	fluide	.
+le	traitement	de	l'information	est	dynamique	et	adaptable	.
+et	je	ne	suis	pas	le	premier	à	le	dire	.	voici	une	citation	de	brian	eno	:	``	le	problème	avec	les	ordinateurs	,	c'est	qu'il	n'y	a	pas	assez	d'afrique	en	eux	.	``
+en	fait	,	brian	a	dit	ça	en	1995	.
+et	personne	ne	_UNK_	,	mais	maintenant	les	gens	commencent	à	écouter	car	nous	sommes	confrontés	à	un	problème	technologique	urgent	.
+et	je	vais	vous	l'expliquer	dans	les	prochaines	diapos	.
+c'est	--	il	y	a	vraiment	une	convergence	remarquable	entre	les	éléments	utilisées	pour	calculer	dans	les	ordinateurs	,	et	les	éléments	utilisés	par	notre	cerveau	pour	calculer	.
+les	éléments	de	base	utilisés	par	les	ordinateurs	sont	appelés	les	transistors	.
+cette	électrode	ici	,	appelée	un	pont	,	contrôle	le	flux	de	courant	de	l'entrée	à	la	sortie	,	ces	deux	électrodes	.
+et	le	courant	,	un	courant	éléctrique	est	transporté	par	des	électrons	,	exactement	comme	dans	votre	maison	,	etc	.
+et	voici	ce	qui	se	passe	:	quand	on	active	le	pont	,	on	obtient	une	augmentation	de	la	quantité	de	courant	,	il	y	a	un	flux	constant	de	courant	.
+et	quand	on	désactive	le	pont	,	le	courant	ne	passe	plus	.
+votre	ordinateur	utilise	la	présence	de	courant	pour	_UNK_	un	un	,	et	l'absence	de	courant	pour	représenter	un	zéro	.
+mais	maintenant	,	ce	qui	se	passe	,	c'est	que	les	transistors	sont	vraiment	de	plus	en	plus	petits	.
+ils	ne	se	comportent	plus	comme	ça	.
+en	fait	,	ils	commencent	à	se	comporter	comme	ce	que	les	neurones	utilisent	pour	calculer	,	ce	qu'on	appelle	les	canaux	ioniques	.
+et	ça	c'est	une	petite	molécule	de	protéine	.
+les	neurones	en	ont	des	_UNK_	comme	ça	.
+et	ils	se	trouvent	dans	la	membrane	de	la	cellule	,	et	il	y	a	un	pore	dedans	.
+et	ça	ce	sont	plusieurs	ions	potassium	,	qui	passent	à	travers	ce	pore	.
+et	ce	pore	peut	s'ouvrir	et	se	fermer	.
+mais	,	quand	c'est	ouvert	,	comme	ces	ions	doivent	être	alignés	et	ils	circulent	un	par	un	,	on	a	un	courant	irrégulier	,	pas	constant	--	c'est	un	flux	de	courant	sporadique	.
+et	même	avec	le	pore	fermé	,	ce	que	les	neurones	peuvent	faire	ils	ouvrent	et	ferment	ces	pores	pour	générer	l'activité	électrique	--	et	même	quand	c'est	fermé	,	comme	ces	ions	sont	si	petits	,	ils	peuvent	se	faufiler	à	travers	,	quelques	uns	peuvent	passer	.
+et	au	final	,	quand	un	pore	est	ouvert	,	on	a	du	courant	de	temps	en	temps	.
+ce	sont	les	``	un	``	,	mais	il	y	a	quelques	zéros	à	l'intérieur	.
+et	quand	c'est	fermé	,	vous	avez	un	zéro	,	mais	il	y	a	quelques	un	dedans	,	ok	.
+et	maintenant	,	ça	commence	à	arriver	aussi	aux	transistors	.
+et	la	raison	pour	laquelle	ça	arrive	,	c'est	que	,	en	ce	moment	même	en	2007	,	la	technologie	utilisée	,	un	transistor	est	assez	gros	pour	que	plusieurs	électrons	puissent	couler	ensemble	à	travers	le	canal	,	côte	à	côte	.
+en	fait	,	il	y	a	environ	12	électrons	qui	peuvent	traverser	en	même	temps	.
+et	cela	signifie	qu'un	transistor	correspond	à	environ	12	canaux	ioniques	en	parallèle	.
+mais	dans	quelques	années	,	vers	2015	,	nous	allons	tellement	rétrécir	les	transistors	.
+c'est	ce	que	fait	intel	en	ajoutant	toujours	plus	de	coeurs	sur	les	puces	,	et	nos	clés	usb	actuelles	peuvent	stocker	un	gigabyte	de	données	.	avant	,	c'était	256	.
+les	transistors	sont	de	plus	en	plus	petits	pour	permettre	tout	cela	,	et	la	technologie	a	vraiment	profité	de	ça	.
+mais	ce	qui	se	passe	,	c'est	qu'en	2015	,	les	transistors	seront	devenus	tellement	petits	,	qu'ils	ne	correspondent	qu'à	un	seul	électron	à	la	fois	pouvant	traverser	ce	canal	,	et	ça	correspond	à	un	seul	canal	ionique	.
+et	on	commence	à	avoir	le	même	type	d'embouteillages	que	l'on	a	dans	les	canaux	ioniques	,	le	courant	va	s'activer	et	se	désactiver	au	hasard	,	même	quand	il	est	censé	être	activé	.
+et	ça	veut	dire	que	votre	ordinateur	va	avoir	ses	un	et	ses	zéros	_UNK_	,	et	ça	va	faire	planter	votre	machine	.
+donc	,	voilà	où	nous	en	sommes	.
+nous	ne	savons	pas	vraiment	calculer	avec	ce	genre	de	matériel	.
+et	la	seule	chose	que	nous	connaissons	en	ce	moment	,	qui	peut	calculer	avec	ce	matériel	,	c'est	le	cerveau	.
+ok	,	donc	un	ordinateur	prend	une	donnée	spécifique	dans	la	mémoire	,	l'envoie	dans	le	processeur	ou	dans	l'unité	logique	,	et	ensuite	,	il	remet	le	résultat	dans	la	mémoire	.
+c'est	le	chemin	rouge	qui	est	surligné	.
+la	façon	de	travailler	du	cerveau	,	vous	avez	tous	ces	neurones	.
+et	leur	façon	de	représenter	l'information	est	ils	divisent	les	données	en	petits	morceaux	qui	sont	représentés	par	des	impulsions	et	des	neurones	différents	.
+donc	on	a	tous	ces	bouts	de	donnée	répartis	au	sein	du	réseau	.
+et	puis	la	façon	dont	vous	travaillez	les	données	pour	avoir	un	résultat	c'est	que	vous	traduisez	ce	modèle	d'activité	en	un	nouveau	modèle	,	juste	en	le	faisant	passer	à	travers	le	réseau	.
+donc	vous	fixez	ces	connections	afin	que	_UNK_	coule	à	travers	le	réseau	et	génère	le	modèle	final	.
+ce	que	vous	voyez	ici	,	c'est	qu'il	y	a	des	connections	redondantes	.
+donc	,	si	un	bout	de	donnée	ou	un	autre	est	abîmé	,	ça	n'a	aucun	effet	,	ces	deux	parties	peuvent	activer	la	partie	manquante	grâce	à	ces	connections	redondantes	.
+donc	même	avec	un	matériel	nul	avec	un	zéro	alors	que	l'on	veut	un	un	,	la	redondance	dans	le	réseau	permet	de	retrouver	l'information	manquante	.
+cela	rend	le	cerveau	robuste	par	nature	.
+ce	que	vous	avez	ici	,	c'est	un	système	où	les	données	sont	stockées	localement	.
+et	c'est	fragile	,	parce	que	chacune	de	ces	étapes	doit	être	parfaite	,	ou	sinon	on	perd	des	données	.	alors	que	dans	le	cerveau	,	on	a	un	système	qui	stocke	les	données	de	façon	distribuée	,	et	c'est	solide	.
+ce	que	je	veux	partager	,	c'est	mon	rêve	qui	est	de	construire	un	ordinateur	qui	fonctionne	comme	le	cerveau	.
+nous	avons	travaillé	sur	le	sujet	depuis	une	vingtaine	d'années	.
+et	je	vais	vous	montrer	le	système	que	nous	avons	conçu	pour	modéliser	la	rétine	,	qui	est	une	partie	du	cerveau	qui	_UNK_	l'intérieur	de	vos	yeux	.
+nous	ne	l'avons	pas	fait	en	écrivant	du	code	,	comme	on	fait	dans	un	ordinateur	.
+en	fait	,	le	processus	qui	se	déroule	dans	ce	morceau	de	cerveau	est	très	similaire	au	type	de	processus	que	les	ordinateurs	utilisent	quand	ils	font	du	streaming	vidéo	sur	internet	.
+ils	veulent	compresser	l'information	--	ils	veulent	envoyer	uniquement	les	changements	,	ce	qui	est	nouveau	dans	l'image	et	le	son	--	et	c'est	la	façon	dont	votre	œil	peut	faire	passer	toute	cette	information	dans	le	nerf	optique	,	pour	l'envoyer	au	reste	du	cerveau	.
+au	lieu	de	faire	ça	par	le	logiciel	,	ou	avec	ces	types	d'algorithmes	,	nous	sommes	allés	parler	aux	_UNK_	qui	ont	étudié	le	fonctionnement	de	cette	partie	du	cerveau	,	la	rétine	.
+et	ils	ont	compris	le	rôle	de	chaque	cellule	,	et	ils	ont	compris	le	réseau	,	et	nous	avons	juste	pris	ce	réseau	et	nous	l'avons	pris	comme	modèle	pour	le	design	d'une	puce	en	silicone	.
+et	donc	les	neurones	sont	représentés	par	des	petits	noeud	ou	des	circuits	sur	la	puce	,	et	les	connections	entre	les	neurones	sont	pour	l'instant	_UNK_	par	des	transistors	.
+et	ces	transistors	se	comportent	exactement	comme	les	canaux	ioniques	dans	le	cerveau	.
+et	ça	va	donner	le	même	type	d'architecture	que	j'ai	décris	.
+voici	à	quoi	ressemble	notre	oeil	artificiel	.
+la	puce	de	rétine	que	l'on	a	conçue	est	derrière	la	lentille	,	ici	.
+et	la	puce	--	je	vais	vous	montrer	une	vidéo	que	la	puce	de	silicone	a	produit	quand	elle	regardait	kareem	_UNK_	,	qui	est	l'étudiant	qui	a	conçu	cette	puce	.
+laissez	moi	vous	expliquer	ce	que	vous	allez	voir	,	d'accord	?
+parce	que	ça	mélange	différents	types	d'information	et	ce	n'est	pas	aussi	direct	qu'un	camera	.
+la	puce	de	rétine	extrait	cinq	types	d'information	différents	.
+elle	extrait	les	régions	avec	un	contraste	foncé	,	qui	sera	montré	en	rouge	sur	la	vidéo	.
+et	elle	extrait	les	régions	avec	les	contrastes	blancs	ou	clairs	,	qui	seront	montrés	en	vert	sur	la	vidéo	.
+ce	sont	les	yeux	foncés	de	kareem	et	ça	,	c'est	l'arrière	plan	blanc	que	vous	voyez	ici	.
+et	ensuite	,	ça	extrait	aussi	le	mouvement	.
+quand	kareem	bouge	sa	tête	vers	la	droite	,	vous	allez	voir	cette	activité	bleue	ici	,	ça	représente	les	régions	où	le	contraste	augmente	dans	l'image	,	c'est	là	où	ça	passe	du	foncé	au	clair	.
+et	vous	voyez	aussi	cette	activité	jaune	,	qui	représente	les	régions	où	le	contraste	décroit	,	ça	passe	du	clair	au	foncé	.
+et	ces	cinq	types	d'information	--	votre	nerf	optique	comporte	environ	un	million	de	fibres	,	et	900	000	de	ces	fibres	envoient	ces	cinq	types	d'information	.
+donc	on	a	vraiment	copié	le	type	de	signal	que	l'on	a	dans	le	nerf	optique	.
+vous	pouvez	remarquer	que	ces	captures	d'écran	prises	à	la	sortie	de	la	puce	rétinienne	sont	très	_UNK_	.
+ca	ne	s'affiche	pas	en	vert	partout	sur	l'arrière	plan	,	seulement	sur	les	bords	,	etc	.
+et	c'est	la	même	chose	que	l'on	voit	quand	les	gens	_UNK_	la	vidéo	pour	l'envoyer	:	ils	veulent	la	rendre	très	_UNK_	,	parce	que	le	fichier	est	plus	petit	.	et	c'est	ce	que	la	rétine	fait	,	et	elle	le	fait	seulement	avec	le	circuit	,	et	la	façon	dont	ce	réseau	de	neurone	qui	interagissent	dedans	,	que	nous	avons	capturés	dans	la	puce	.
+mais	le	point	que	je	veux	faire	,	je	vais	vous	le	montrer	ici	.
+donc	cette	image	va	paraitre	comme	celles	-	ci	,	mais	ici	,	je	vais	vous	montrer	que	l'on	peut	reconstruire	l'image	,	pour	que	l'on	puisse	presque	reconnaitre	kareem	dans	la	partie	du	haut	.
+on	y	va	.
+voilà	,	c'est	ça	l'idée	.
+quand	vous	restez	immobile	,	on	voit	juste	ces	contrastes	clairs	et	foncés	.
+mais	quand	ça	fait	un	mouvement	de	va	et	vient	,	la	rétine	détecte	ces	changements	.
+et	c'est	pourquoi	,	vous	savez	,	quand	on	est	là	et	que	quelque	chose	se	passe	dans	l'arrière	plan	,	vous	déplacez	à	peine	vos	yeux	.
+ce	sont	les	petites	cellules	qui	détectent	le	changement	et	votre	attention	se	porte	sur	lui	.
+donc	c'est	très	important	pour	attraper	quelqu'un	qui	s'approche	furtivement	.
+laissez	moi	juste	finir	en	vous	montrant	ce	qui	se	passe	quand	on	met	l'afrique	dans	un	piano	,	ok	.
+c'est	un	tambour	en	métal	qui	a	été	modifié	,	et	c'est	ce	qui	arrive	quand	on	met	l'afrique	dans	un	piano	.
+et	ce	que	je	voudrait	que	l'on	fasse	,	c'est	de	mettre	l'afrique	dans	un	ordinateur	,	et	de	créer	un	nouveau	type	d'ordinateur	qui	va	générer	de	la	pensée	,	de	l'imagination	,	qui	sera	créatif	,	et	caetera	.
+merci	.
+chris	anderson	:	j'ai	une	question	pour	vous	,	kwabena	.
+est	ce	que	vous	associez	dans	votre	esprit	le	travail	que	vous	faites	et	l'avenir	de	l'afrique	,	cette	conférence	--	quelles	connections	peut	t'on	faire	entre	ces	choses	?
+kwabena	boahen	:	oui	,	comme	je	l'ai	dit	au	début	.
+j'ai	eu	mon	premier	ordinateur	quand	j'étais	adolescent	à	accra	.
+et	j'ai	eu	cette	réaction	instinctive	que	c'était	la	mauvaise	façon	de	faire	.
+c'était	une	démarche	de	force	brute	,	pas	du	tout	élégante	.
+je	ne	pense	pas	que	j'aurais	eu	cette	réaction	,	si	je	n'avais	pas	grandi	en	lisant	toute	cette	science	-	fiction	,	qui	parlait	de	rd	2d2	,	peu	importe	comment	on	l'appelle	,	et	juste	--	vous	savez	et	été	complètement	fasciné	par	tout	ce	battage	sur	les	ordinateurs	.
+je	m'en	suis	approché	avec	une	perspective	différente	,	où	j'utilisais	cette	perspective	différente	pour	résoudre	le	problème	.
+et	je	pense	que	beaucoup	d'africains	ont	ce	point	de	vue	différent	,	et	je	pense	que	ça	aura	un	impact	sur	la	technologie	.
+et	que	ça	va	modifier	son	évolution	.
+et	je	pense	qu'on	va	bientôt	pouvoir	utiliser	cette	contribution	pour	arriver	à	de	nouvelles	choses	,	parce	que	nous	venons	d'un	horizon	différent	.
+je	pense	que	nous	pouvons	contribuer	,	que	nous	pouvons	rêver	comme	n'importe	qui	d'autre	.
+chris	anderson	:	merci	kwabena	,	c'était	vraiment	intéressant	.
+merci	.
+

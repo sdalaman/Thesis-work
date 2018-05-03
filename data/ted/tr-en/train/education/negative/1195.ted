@@ -1,0 +1,38 @@
+bir_tr kuş_tr gibi_tr uçmak_tr insanoğlunun_tr bir_tr hayali_tr ._tr
+kuşlar_tr çok_tr çevik_tr hayvanlardır_tr ._tr
+uçmak_tr için_tr dönüş_tr elemanlarına_tr ihtiyaçları_tr yoktur_tr ,_tr sadece_tr kanatlarını_tr çırparak_tr uçarlar_tr ._tr
+bu_tr nedenle_tr biz_tr kuşları_tr inceledik_tr ,_tr ve_tr güçlü_tr ,_tr hafif_tr ,_tr kendi_tr kendine_tr sadece_tr kanatlarını_tr kullanarak_tr uçmasını_tr sağlayacak_tr üstün_tr aerodinamik_tr niteliklere_tr sahip_tr bir_tr model_tr yapmaya_tr çalıştık_tr ._tr
+bunun_tr için_tr deniz_tr üzerinde_tr özgürce_tr ,_tr daireler_tr çizerek_tr uçan_tr kuzey_tr gümüş_tr _UNK__tr bir_tr örnek_tr model_tr olarak_tr kullanmaktan_tr daha_tr iyi_tr ne_tr olabilirdi_tr ki_tr ?_tr
+bu_tr nedenle_tr planör_tr
+inşaatı_tr alanında_tr ve_tr aerodinamik_tr alanındaki_tr uzmanlardan_tr oluşan_tr bir_tr takım_tr biraraya_tr getirdik_tr ._tr
+ve_tr görev_tr ,_tr kapalı_tr bir_tr alanda_tr başınızın_tr üzerinden_tr uçabilecek_tr son_tr derece_tr hafif_tr bir_tr model_tr yaratmaya_tr çalışmaktı_tr ._tr
+o_tr yüzden_tr ilerleyen_tr dakikalarda_tr dikkatli_tr olun_tr ._tr
+bu_tr da_tr bir_tr sorun_tr teşkil_tr ediyordu_tr :_tr robotu_tr ,_tr yere_tr düştüğünde_tr kimsenin_tr zarar_tr görmeyeceği_tr kadar_tr hafif_tr yapmak_tr ._tr
+peki_tr bütün_tr bunları_tr neden_tr yaptık_tr ?_tr
+biz_tr otomasyon_tr alanında_tr çalışan_tr bir_tr _UNK__tr ,_tr ve_tr çok_tr hafif_tr gövdeler_tr yapmak_tr istiyoruz_tr çünkü_tr enerjiyi_tr daha_tr verimli_tr kullanıyorlar_tr ._tr basınç_tr ve_tr hava_tr akışı_tr olayları_tr hakkında_tr daha_tr çok_tr şey_tr öğrenmek_tr istiyoruz_tr ._tr
+şimdi_tr sizden_tr kemerlerinizi_tr _UNK__tr ve_tr _UNK__tr _UNK__tr istiyorum_tr ._tr
+belki_tr smartbird'ü_tr uçurmayı_tr deneyebiliriz_tr ._tr
+teşekkürler_tr ._tr
+şimdi_tr _UNK__tr daha_tr yakından_tr bakabiliriz_tr ._tr
+i̇şte_tr bu_tr içindeki_tr iskelet_tr ._tr
+kanat_tr genişliği_tr yaklaşık_tr iki_tr metre_tr ._tr
+uzunluğu_tr 1.6_tr metre_tr ,_tr ve_tr ağırlığı_tr sadece_tr 450_tr gram_tr ._tr
+ve_tr tamamiyle_tr karbon_tr lifinden_tr yapıldı_tr ._tr
+ortasında_tr bir_tr motor_tr var_tr ,_tr ve_tr ayrıca_tr içinde_tr bir_tr vites_tr var_tr ._tr ve_tr biz_tr bu_tr vitesi_tr motor_tr devrini_tr iletmek_tr için_tr kullanıyoruz_tr ._tr
+motorun_tr içerisinde_tr ,_tr ü_tr ç_tr adet_tr hall_tr sensörü_tr var_tr ,_tr böylece_tr kanadın_tr tam_tr olarak_tr nerede_tr olduğunu_tr biliyoruz_tr ._tr
+ve_tr şimdi_tr eğer_tr kanatları_tr yukarı_tr ve_tr aşağı_tr _UNK__tr ,_tr
+bir_tr kuş_tr gibi_tr uçurtma_tr _UNK__tr var_tr ._tr
+aşağı_tr inerseniz_tr ,_tr geniş_tr bir_tr itici_tr kuvvet_tr alanına_tr sahip_tr olursunuz_tr ._tr yukarı_tr çıkarsanız_tr ,_tr kanatlar_tr o_tr kadar_tr geniş_tr değil_tr ,_tr ve_tr kalkması_tr daha_tr kolay_tr ._tr
+yaptığımız_tr bir_tr sonraki_tr şey_tr ,_tr ya_tr da_tr hallettiğimiz_tr sorun_tr bu_tr hareketi_tr düzenlemekti_tr ._tr
+onu_tr _UNK__tr ,_tr aşağı_tr ve_tr yukarı_tr hareket_tr ettirmeliyiz_tr ._tr
+çift_tr kanatlara_tr sahibiz_tr ._tr
+çift_tr kanat_tr ile_tr ,_tr üst_tr kanatta_tr kaldırma_tr kuvvetini_tr ,_tr alt_tr kanatta_tr itici_tr kuvvetini_tr elde_tr ediyoruz_tr ._tr
+ayrıca_tr ,_tr aerodinamik_tr verimliliği_tr nasıl_tr _UNK__tr görüyoruz_tr ._tr
+elektromekanik_tr verimlilik_tr hakkında_tr bilgimiz_tr vardı_tr ,_tr bu_tr sayede_tr aerodinamik_tr verimliliği_tr hesaplayabiliriz_tr ._tr
+böylece_tr ,_tr pasif_tr dönmeden_tr ,_tr aktif_tr dönmeye_tr yükseliyor_tr ,_tr yüzde_tr 30'dan_tr yüzde_tr 80'e_tr ._tr
+bir_tr sonraki_tr yapmamız_tr gereken_tr şey_tr ,_tr tüm_tr yapıyı_tr kontrol_tr etmek_tr ve_tr düzenlemek_tr ._tr
+ancak_tr kontrol_tr ederek_tr ve_tr düzenleyerek_tr ,_tr o_tr aerodinamik_tr verimliliği_tr elde_tr edersiniz_tr ._tr
+toplam_tr enerji_tr tüketimi_tr ,_tr kalkışta_tr yaklaşık_tr 25_tr watt_tr ve_tr uçuşta_tr 16_tr ile_tr 18_tr watt_tr arasında_tr ._tr
+teşekkürler_tr ._tr
+bruno_tr giussani_tr :_tr markus_tr ,_tr bence_tr bir_tr kez_tr daha_tr _UNK__tr ._tr
+markus_tr fischer_tr :_tr evet_tr ,_tr tabi_tr ._tr

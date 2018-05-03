@@ -1,0 +1,152 @@
+il	y	a	10	 an 	 s 	 	de	cela	,	j'ai	accepté	 d' 	 enseigne 	 r 	 	le	 développe 	 ment 	 	global	à	des	 étudiant 	 s 	 	suédois	.	je	venais	de	passer	20	 an 	 s 	 	à	étudier	la	faim	en	afrique	avec	des	 institution 	 s 	 	,	donc	je	 con 	 naissais 	 	un	peu	le	sujet	.
+j'ai	 démarr 	 é 	 	un	cours	appelé	 s 	 ant 	 é 	 	 global 	 e 	 	dans	 not 	 re 	 	université	 médical 	 e 	 	,	karolinska	institute	.
+ j' 	 avais 	 	un	peu	le	_UNK_	,	je	dois	dire	.	après	tout	,	 ce 	 s 	 	 étudiant 	 s 	 	les	 meilleur 	 s 	 	du	pays	...	peut	-	être	 qu'il 	 s 	 	 s 	 avaient 	 	 dé 	 jà 	 	tout	ce	que	je	_UNK_	leur	apprendre	.	j'ai	donc	fait	un	petit	test	avant	de	 commence 	 r 	 	.
+ e 	 t 	 	il	y	a	une	question	qui	m'a	 per 	 mis 	 	 d' 	 apprendre 	 	beaucoup	de	 chose 	 s 	 	:	``	sur	 ce 	 s 	 	cinq	 pair 	 es 	 	,	quel	est	le	pays	qui	a	la	mortalité	infantile	la	plus	 élevé 	 e 	 	?	``
+ l' 	 un 	 	des	pays	avait	une	mortalité	infantile	deux	fois	plus	 important 	 e 	 	que	 l' 	 autre 	 	.
+ça	fait	une	grosse	différence	.
+je	ne	vais	pas	vous	 demande 	 r 	 	de	faire	le	test	,	 mai 	 s 	 	c'est	la	turquie	,	la	pologne	,	la	russie	,	le	pakistan	 e 	 t 	 	l'afrique	du	sud	.
+ e 	 t 	 	voici	les	 résultat 	 s 	 	des	 étudiant 	 s 	 	suédois	.	j'ai	eu	une	intervalle	de	_UNK_	,	 e 	 t 	 	 j' 	 étais 	 	ravi	des	 résultat 	 s 	 	.
+1,8	bonne	réponse	sur	les	cinq	 possible 	 s 	 	.	cela	 voul 	 ait 	 	dire	qu'il	y	avait	une	place	pour	un	professeur	 e 	 t 	 	pour	mes	cours	.
+ mai 	 s 	 	un	soir	,	alors	que	je	 compil 	 ais 	 	le	rapport	,	je	me	suis	rendu	compte	de	quelque	chose	.	j'ai	 dé 	 montré 	 	que	les	 étudiant 	 s 	 	suédois	les	plus	 brillant 	 s 	 	avaient	,	 statistique 	 ment 	 	 parl 	 ant 	 	,	moins	de	 connaissance 	 s 	 	sur	le	monde	que	les	 chimpanzé 	 s 	 	.
+parce	que	les	 chimpanzé 	 s 	 	auraient	50	%	de	 bonne 	 s 	 	 réponse 	 s 	 	si	je	leur	 donnai 	 s 	 	deux	 bana 	 nes 	 	avec	le	sri	lanka	 e 	 t 	 	la	turquie	.
+ mai 	 s 	 	pas	les	 étudiant 	 s 	 	.	le	problème	pour	moi	,	ce	 n' 	 était 	 	pas	 l' 	 ignorance 	 	,	 c' 	 était 	 	les	 idée 	 s 	 	 pré 	 conçu 	 es 	 	.
+j'ai	 égale 	 ment 	 	réalisé	une	étude	 con 	 traire 	 	à	 l' 	 éthique 	 	sur	les	 professeur 	 s 	 	du	karolinska	institute	,	 ce 	 t 	 	institut	qui	 dé 	 cern 	 e 	 	le	 pri 	 x 	 	 no 	 bel 	 	de	 médecin 	 e 	 	,	 e 	 t 	 	dans	ce	cas	,	les	 professeur 	 s 	 	 s 	 ont 	 	au	niveau	des	 chimpanzé 	 s 	 	.
+c'est	là	que	je	me	suis	rendu	compte	qu'il	y	avait	un	besoin	de	 commun 	 ication 	 	car	les	 informat 	 ions 	 	sur	ce	qui	 s 	 e 	 	passe	dans	le	monde	,	sur	la	 s 	 ant 	 é 	 	des	 enfant 	 s 	 	dans	tous	les	pays	,	 ce 	 s 	 	 informat 	 ions 	 	existent	.
+on	a	créé	un	 log 	 iciel 	 	qui	fonctionne	de	la	façon	 suiv 	 ante 	 	:	 cha 	 que 	 	bulle	correspond	à	un	pays	.
+ce	pays	là	,	c'est	la	 chi 	 ne 	 	.	là	,	c'est	 l' 	 inde 	 	.
+la	 t 	 aille 	 	de	la	bulle	correspond	à	la	population	du	pays	,	 e 	 t 	 	 ce 	 t 	 	axe	là	,	c'est	le	taux	de	 fécond 	 ité 	 	.
+parce	 qu' 	 en 	 	fait	,	mes	 étudiant 	 s 	 	...
+quand	ils	ont	 regard 	 é 	 	le	monde	,	 e 	 t 	 	que	je	leur	ai	 demand 	 é 	 	:	``	que	pensez	-	vous	du	monde	?	``	...
+j'ai	 dé 	 couvert 	 	que	 c' 	 était 	 	un	livre	de	tintin	.
+ils	 m' 	 ont 	 	 répond 	 u 	 	:	``	le	monde	est	 tou 	 jour 	 s 	 	divisé	entre	'	nous	'	 e 	 t 	 	'	eux	'	.
+nous	,	c'est	les	 occident 	 aux 	 	,	eux	,	le	tiers	monde	.	``
+``	c'est	quoi	le	monde	occidental	pour	vous	?	``
+``	une	vie	longue	,	une	famille	 réduit 	 e 	 	...	dans	le	tiers	monde	,	c'est	 l' 	 inverse 	 	.	``
+voici	donc	ce	que	j'ai	mis	là	.	j'ai	inscrit	le	taux	de	 fécond 	 ité 	 	:	nombre	 d' 	 enfant 	 s 	 	par	femme	,	un	,	deux	,	trois	,	quatre	,	 jus 	 qu' 	 à 	 	huit	 enfant 	 s 	 	par	femme	.
+ de 	 puis 	 	1962	,	on	a	des	 informat 	 ions 	 	 précis 	 es 	 	sur	la	 t 	 aille 	 	des	 famille 	 s 	 	dans	tous	les	pays	du	monde	.
+la	 mar 	 ge 	 	 d' 	 erreur 	 s 	 	est	très	faible	.	là	j'ai	inscrit	 l' 	 espérance 	 	de	vie	à	la	naissance	,	de	30	 an 	 s 	 	pour	 certain 	 s 	 	pays	à	70	 an 	 s 	 	pour	 d' 	 autre 	 s 	 	.
+en	1962	,	il	y	avait	un	ensemble	de	pays	 industrialisé 	 s 	 	,	 do 	 nt 	 	la	 t 	 aille 	 	des	 famille 	 s 	 	était	 réduit 	 e 	 	 e 	 t 	 	 l' 	 espérance 	 	de	vie	était	 important 	 e 	 	.
+ e 	 t 	 	il	y	avait	à	côté	les	pays	en	voie	de	 développe 	 ment 	 	,	avec	de	 grand 	 es 	 	 famille 	 s 	 	 e 	 t 	 	une	espérance	de	vie	 relativ 	 ement 	 	 court 	 e 	 	.
+ qu' 	 est 	 	-	ce	qui	 s' 	 est 	 	passé	 de 	 puis 	 	1962	?	on	veut	voir	le	 change 	 ment 	 	.
+les	 étudiant 	 s 	 	ont	-	ils	raison	?	est	-	ce	qu'il	y	a	 tou 	 jour 	 s 	 	deux	 type 	 s 	 	de	pays	?
+ou	est	-	ce	que	les	 donné 	 es 	 	ont	changé	pour	les	pays	en	voie	de	 développe 	 ment 	 	?
+où	est	-	ce	 qu'il 	 s 	 	 s 	 ont 	 	?	quelle	est	leur	espérance	de	vie	?
+voyons	voir	.	nous	avons	 arrêt 	 é 	 	le	monde	.	il	 s 	 'agit 	 	là	de	 statistique 	 s 	 	des	 nation 	 s 	 	 uni 	 es 	 	...	 voil 	 à 	 	.	vous	voyez	?
+c'est	la	 chi 	 ne 	 	,	là	,	avec	une	 s 	 ant 	 é 	 	qui	 s' 	 améliore 	 	.
+tous	les	pays	d'amérique	du	sud	 tend 	 ent 	 	vers	des	 famille 	 s 	 	de	 t 	 aille 	 	plus	 réduit 	 e 	 	.
+les	 jaune 	 s 	 	,	ce	 s 	 ont 	 	les	pays	 arabe 	 s 	 	,	qui	ont	des	 famille 	 s 	 	plus	 important 	 es 	 	,	 mai 	 s 	 	...	non	,	une	vie	plus	longue	,	en	fait	.
+les	 africain 	 s 	 	 s 	 ont 	 	en	vert	.	ils	 rest 	 ent 	 	là	.
+là	,	c'est	 l' 	 inde 	 	.	l'indonésie	évolue	vite	.
+dans	les	 année 	 s 	 	1980	,	le	bangladesh	était	 tou 	 jour 	 s 	 	avec	les	pays	 africain 	 s 	 	.
+ mai 	 s 	 	à	présent	...	c'est	un	miracle	qui	 s' 	 est 	 	produit	:	les	 imam 	 s 	 	ont	 commenc 	 é 	 	à	faire	 l'ap 	 ologie 	 	des	 plan 	 ning 	 s 	 	 famil 	 iaux 	 	.
+ils	 arrive 	 nt 	 	là	.	 e 	 t 	 	dans	les	 année 	 s 	 	1990	,	 l' 	 épidémie 	 	de	 s 	 ida 	 	a	réduit	 l' 	 espérance 	 	de	vie	des	pays	 africain 	 s 	 	...
+le	reste	 s 	 e 	 	retrouve	là	,	avec	des	 famille 	 s 	 	 réduit 	 es 	 	 e 	 t 	 	une	espérance	de	vie	 important 	 e 	 	...	un	nouveau	monde	.
+je	vais	faire	une	 compa 	 raison 	 	entre	les	 état 	 s 	 	-	 uni 	 s 	 	d'amérique	 e 	 t 	 	le	vietnam	.
+en	1964	,	l'amérique	,	c'est	des	 famille 	 s 	 	 réduit 	 es 	 	 e 	 t 	 	une	espérance	de	vie	 important 	 e 	 	;	au	vietnam	,	c'est	 l' 	 inverse 	 	.	 e 	 t 	 	voici	ce	qui	 s 	 e 	 	produit	:	 mal 	 gré 	 	la	guerre	 e 	 t 	 	tous	 s 	 es 	 	 mort 	 s 	 	,	 l' 	 espérance 	 	de	vie	a	 augment 	 é 	 	.	à	la	fin	de	 l' 	 année 	 	,	les	 plan 	 ning 	 s 	 	 famil 	 iaux 	 	ont	été	 lancé 	 s 	 	,	 e 	 t 	 	la	 t 	 aille 	 	des	 famille 	 s 	 	a	 commenc 	 é 	 	à	 diminue 	 r 	 	.
+les	 état 	 s 	 	-	 uni 	 s 	 	ont	une	espérance	de	vie	plus	longue	,	la	 t 	 aille 	 	de	la	famille	ne	change	pas	.	dans	les	 année 	 s 	 	1980	,	ils	ont	abandonné	le	 commun 	 isme 	 	 e 	 t 	 	 passe 	 nt 	 	à	 l' 	 économie 	 	de	marché	,	 e 	 t 	 	tout	a	 progre 	 ssé 	 	 rapide 	 ment 	 	.	aujourd'hui	,	 l' 	 espérance 	 	de	vie	 e 	 t 	 	la	 t 	 aille 	 	de	la	famille	 s 	 ont 	 	les	mêmes	au	vietnam	en	2003	 qu' 	 aux 	 	 état 	 s 	 	-	 uni 	 s 	 	en	1974	,	à	la	fin	de	la	guerre	.
+je	pense	que	nous	ne	nous	 rend 	 ons 	 	pas	compte	de	 l' 	 importance 	 	des	 change 	 ment 	 s 	 	 survenu 	 s 	 	en	asie	,	des	 change 	 ment 	 s 	 	sociaux	avant	les	 change 	 ment 	 s 	 	 économique 	 s 	 	.
+ pass 	 ons 	 	à	présent	à	autre	chose	...	voici	comment	nous	 pouv 	 ons 	 	 représent 	 er 	 	la	 distribu 	 tion 	 	des	 re 	 venu 	 s 	 	dans	le	monde	.
+un	dollar	par	jour	,	10	 dollar 	 s 	 	par	jour	,	100	 dollar 	 s 	 	par	jour	.
+il	 n' 	 y 	 	a	plus	de	fossé	entre	les	riches	 e 	 t 	 	les	 pauvre 	 s 	 	,	c'est	un	 myth 	 e 	 	.
+il	y	a	une	petite	bosse	là	.	 mai 	 s 	 	il	y	a	des	 gen 	 s 	 	à	tous	les	 niveau 	 x 	 	.
+ e 	 t 	 	si	on	regarde	où	 arrive 	 nt 	 	les	 re 	 venu 	 s 	 	...
+là	,	c'est	100	%	des	 re 	 venu 	 s 	 	 annuel 	 s 	 	du	monde	.	 e 	 t 	 	les	20	%	les	plus	riches	en	 obtien 	 nent 	 	environ	74	%	.	 e 	 t 	 	les	20	%	les	plus	 pauvre 	 s 	 	,	en	 obtien 	 nent 	 	environ	2	%	.	cela	montre	bien	que	le	concept	de	pays	en	voie	de	 développe 	 ment 	 	est	peu	 convainc 	 ant 	 	.	on	parle	 d' 	 aide 	 	...
+les	 gen 	 s 	 	ici	qui	 aide 	 nt 	 	les	 gen 	 s 	 	qui	 s 	 ont 	 	là	-	bas	.	 mai 	 s 	 	au	 mi 	 lieu 	 	,	il	y	a	la	 major 	 ité 	 	de	la	population	 mondial 	 e 	 	,	qui	 dé 	 t 	 ient 	 	24	%	des	 re 	 venu 	 s 	 	.
+on	l'a	 dé 	 jà 	 	entendu	.	 mai 	 s 	 	 quel 	 s 	 	 s 	 ont 	 	-	ils	?
+ quel 	 s 	 	 s 	 ont 	 	les	 différent 	 s 	 	pays	?	je	peux	vous	 montre 	 r 	 	l'afrique	.
+voici	l'afrique	.	10	%	de	la	population	 mondial 	 e 	 	,	la	 major 	 ité 	 	vivant	dans	la	 pauvre 	 té 	 	.
+voici	l'ocde	.	les	pays	riches	.	le	 cou 	 nt 	 ry 	 	club	de	l'onu	.
+ e 	 t 	 	ils	 s 	 ont 	 	de	ce	 co 	 té 	 	.	l'afrique	 e 	 t 	 	l'ocde	 s 	 e 	 	 chevauch 	 ent 	 	.
+ e 	 t 	 	voici	l'amérique	du	sud	.	on	y	retrouve	tout	 l' 	 éventail 	 	de	ce	qu'il	y	a	sur	terre	,	du	plus	pauvre	au	plus	 rich 	 e 	 	.
+ e 	 t 	 	encore	au	-	dessus	,	on	peut	mettre	l'europe	de	 l' 	 est 	 	,	l'asie	de	 l' 	 est 	 	,	 e 	 t 	 	l'asie	du	sud	.	qu'obtient	-	on	si	 l' 	 on 	 	retourne	en	arrière	dans	le	temps	,	vers	1970	?	il	y	a	plusieurs	 bosse 	 s 	 	alors	.
+ e 	 t 	 	nous	avons	les	 asiatique 	 s 	 	qui	 viv 	 aient 	 	dans	une	 pauvre 	 té 	 	 absolu 	 e 	 	.
+le	problème	mondial	 d' 	 alors 	 	était	la	 pauvre 	 té 	 	en	asie	.	 e 	 t 	 	si	on	avance	dans	le	temps	,	vous	 ver 	 rez 	 	que	pendant	que	la	population	croît	,	il	y	a	des	 cent 	 aine 	 s 	 	de	 million 	 s 	 	 d' 	 asiatique 	 s 	 	qui	 sort 	 ent 	 	de	la	 pauvre 	 té 	 	 e 	 t 	 	 d' 	 autre 	 s 	 	qui	y	 arrive 	 nt 	 	,	 e 	 t 	 	voici	la	 situ 	 ation 	 	 d' 	 aujourd'hui 	 	.
+ e 	 t 	 	le	meilleur	scénario	 d' 	 après 	 	la	banque	 mondial 	 e 	 	est	que	cela	va	 s 	 e 	 	 pro 	 duire 	 	 e 	 t 	 	que	nous	 n' 	 aurons 	 	pas	un	monde	divisé	en	deux	.	nous	aurons	la	 major 	 ité 	 	de	la	population	au	 mi 	 lieu 	 	.
+bien	sûr	,	c'est	une	échelle	logarithmique	ici	,	 mai 	 s 	 	 not 	 re 	 	 con 	 ception 	 	de	 l' 	 économie 	 	est	une	croissance	en	 pourcent 	 age 	 	.	nous	la	voyons	comme	une	possibilité	 d' 	 augment 	 ation 	 	en	 pourcent 	 age 	 	.	si	je	change	ça	 e 	 t 	 	que	je	 prend 	 s 	 	le	pib	par	individu	à	la	place	du	 re 	 venu 	 	par	foyer	,	 e 	 t 	 	que	je	change	les	 donné 	 es 	 	 individu 	 elles 	 	en	 donné 	 es 	 	 région 	 ale 	 s 	 	du	produit	 domesti 	 que 	 	brut	,	 e 	 t 	 	si	je	mets	 ce 	 s 	 	 région 	 s 	 	là	,	la	 t 	 aille 	 	de	la	bulle	 représent 	 e 	 	 tou 	 jour 	 s 	 	la	population	.
+vous	avez	l'ocde	ici	,	l'afrique	 subsaharien 	 ne 	 	là	,	 e 	 t 	 	nous	 déplaç 	 ons 	 	les	 état 	 s 	 	 arabe 	 s 	 	ici	,	venant	d'afrique	 e 	 t 	 	d'asie	,	nous	les	 sépa 	 rons 	 	,	 e 	 t 	 	nous	_UNK_	 l' 	 axe 	 	.	je	peux	donner	une	nouvelle	dimension	en	 ajout 	 ant 	 	les	 val 	 eurs 	 	 social 	 es 	 	,	 l' 	 espérance 	 	de	vie	infantile	.
+ main 	 tenant 	 	j'ai	 l' 	 argent 	 	sur	 ce 	 t 	 	axe	 e 	 t 	 	j'ai	les	 chance 	 s 	 	de	 sur 	 vie 	 	de	 l' 	 enfant 	 	là	.
+dans	certain	pays	,	_UNK_	%	des	 enfant 	 s 	 	 surviv 	 ent 	 	au	-	delà	5	 an 	 s 	 	.
+dans	 d' 	 autre 	 s 	 	,	 seul 	 ement 	 	70	%	.	 e 	 t 	 	là	,	il	semble	y	avoir	un	fossé	énorme	entre	l'ocde	,	l'amérique	 latin 	 e 	 	,	l'europe	de	 l' 	 est 	 	,	l'asie	de	 l' 	 est 	 	,	les	 état 	 s 	 	 arabe 	 s 	 	,	l'asie	du	sud	 e 	 t 	 	l'afrique	 subsaharien 	 ne 	 	.
+la	linéarité	est	très	 fort 	 e 	 	entre	la	 sur 	 vie 	 	de	 l' 	 enfant 	 	 e 	 t 	 	 l' 	 argent 	 	.
+ mai 	 s 	 	laissez	-	moi	 divise 	 r 	 	l'afrique	 subsaharien 	 ne 	 	.	la	 s 	 ant 	 é 	 	est	là	 e 	 t 	 	la	 meilleur 	 e 	 	 s 	 ant 	 é 	 	est	ici	.
+je	peux	aller	ici	 e 	 t 	 	je	peux	 divise 	 r 	 	l'afrique	 subsaharien 	 ne 	 	par	 s 	 es 	 	 différent 	 s 	 	pays	.
+ e 	 t 	 	quand	elle	éclate	,	la	 t 	 aille 	 	de	la	bulle	de	son	pays	reste	égale	à	la	population	.
+la	sierra	leone	est	en	bas	.	la	mauritanie	est	en	haut	.	la	mauritanie	a	été	le	premier	pays	à	 s' 	 affranchi 	 r 	 	des	 bar 	 rières 	 	 commercial 	 es 	 	 e 	 t 	 	à	pouvoir	 vend 	 re 	 	son	sucre	.
+elle	 pouv 	 ait 	 	 vend 	 re 	 	 s 	 es 	 	 textile 	 s 	 	 s 	 e 	 lon 	 	les	mêmes	 condition 	 s 	 	que	les	 européen 	 s 	 	 e 	 t 	 	les	nord	-	 américain 	 s 	 	.
+il	y	a	de	 grand 	 es 	 	 différence 	 s 	 	en	afrique	.	 e 	 t 	 	le	ghana	est	là	,	au	 mi 	 lieu 	 	.
+en	sierra	leone	,	 l' 	 aide 	 	 human 	 itaire 	 	.
+ici	en	ouganda	,	 l' 	 aide 	 	au	 développe 	 ment 	 	.	ici	,	 l' 	 investissement 	 	,	ici	,	vous	 pouv 	 ez 	 	y	aller	en	 vaca 	 nce 	 s 	 	.	c'est	une	énorme	 vari 	 ation 	 	au	sein	de	l'afrique	 do 	 nt 	 	nous	tenons	 ra 	 re 	 ment 	 	compte	-	que	ça	_UNK_	en	tout	.
+je	peux	 divise 	 r 	 	l'asie	du	sud	ici	.	 l' 	 inde 	 	est	la	grosse	bulle	du	 mi 	 lieu 	 	.
+ mai 	 s 	 	il	y	a	une	grosse	différence	entre	l'afghanistan	 e 	 t 	 	le	sri	lanka	.
+je	peux	 divise 	 r 	 	les	 état 	 s 	 	 arabe 	 s 	 	.	comment	 s 	 ont 	 	-	ils	?	même	climat	,	même	culture	,	même	religion	.	 mai 	 s 	 	de	 grosse 	 s 	 	 différence 	 s 	 	.	même	entre	 voisin 	 s 	 	.
+yémen	,	guerre	 civil 	 e 	 	.	émirats	 arabe 	 s 	 	,	de	 l' 	 argent 	 	 équitable 	 ment 	 	réparti	 e 	 t 	 	bien	utilisé	.
+ in 	 différemment 	 	du	 myth 	 e 	 	.	 e 	 t 	 	cela	 inclu 	 t 	 	les	 enfant 	 s 	 	des	 étranger 	 s 	 	qui	 travaille 	 nt 	 	dans	le	pays	.
+les	 donné 	 es 	 	 s 	 ont 	 	 meilleur 	 es 	 	que	ce	que	 l' 	 on 	 	pense	.	beaucoup	 pense 	 nt 	 	 qu' 	 elles 	 	 s 	 ont 	 	 mauvais 	 es 	 	.
+il	y	a	une	 mar 	 ge 	 	 incertain 	 e 	 	,	 mai 	 s 	 	on	peut	voir	la	différence	ici	:	cambodge	,	singapour	.	les	 différence 	 s 	 	 s 	 ont 	 	plus	 important 	 es 	 	que	la	 faible 	 sse 	 	des	 donné 	 es 	 	.	europe	de	 l' 	 est 	 	:	 l' 	 économie 	 	 sovi 	 étique 	 	pendant	 long 	 temps 	 	,	 mai 	 s 	 	au	bout	de	dix	 an 	 s 	 	,	c'est	très	,	très	différent	.	 e 	 t 	 	voici	l'amérique	 latin 	 e 	 	.
+aujourd'hui	,	inutile	 d' 	 aller 	 	à	cuba	pour	trouver	un	pays	sain	en	 amér 	 ique 	 	 latin 	 e 	 	.
+le	 chi 	 li 	 	aura	une	mortalité	infantile	 inférieur 	 e 	 	à	celle	de	cuba	 d' 	 ici 	 	 quelque 	 s 	 	 année 	 s 	 	.
+ e 	 t 	 	ici	,	voici	les	pays	à	haut	 re 	 venu 	 	de	l'ocde	.
+nous	 pouv 	 ons 	 	obtenir	le	modèle	mondial	,	qui	est	plus	ou	moins	comme	 ce 	 ci 	 	.	en	 observ 	 ant 	 	ce	à	quoi	ressemble	le	monde	en	1960	,	il	commence	à	 évolue 	 r 	 	.	1960	.
+c'est	mao	tsé	-	toung	.	il	a	fait	de	la	 chi 	 ne 	 	un	pays	en	bonne	 s 	 ant 	 é 	 	.	puis	il	est	mort	.
+ en 	 suite 	 	,	deng	xiaoping	a	amené	 l' 	 argent 	 	en	 chi 	 ne 	 	 e 	 t 	 	a	 r 	 amené 	 	le	pays	sur	le	 dev 	 ant 	 	de	la	 s 	 cène 	 	.
+nous	avons	vu	comment	les	pays	vont	dans	des	 direction 	 s 	 	 différent 	 es 	 	comme	 ce 	 ci 	 	,	c'est	donc	compliqué	de	trouver	un	pays	qui	 re 	 groupe 	 	tout	les	 schéma 	 s 	 	 mond 	 iaux 	 	.
+je	 voudrai 	 s 	 	 re 	 venir 	 	ici	,	en	1960	.
+ j' 	 aimerais 	 	 compare 	 r 	 	la	corée	du	sud	qui	est	là	,	avec	le	brésil	,	qui	est	là	.	j'ai	perdu	 l' 	 étiquette 	 	.	 e 	 t 	 	je	 voudrai 	 s 	 	 compare 	 r 	 	l'ouganda	,	qui	est	ici	.	je	peux	le	faire	 avance 	 r 	 	,	comme	 ce 	 ci 	 	.
+vous	 pouv 	 ez 	 	voir	que	la	corée	du	sud	progresse	très	 rapide 	 ment 	 	alors	que	le	brésil	est	 nette 	 ment 	 	plus	lent	.
+ e 	 t 	 	si	on	 re 	 vient 	 	en	arrière	,	ici	,	 e 	 t 	 	que	nous	les	 traç 	 ons 	 	comme	 ce 	 ci 	 	,	vous	 pouv 	 ez 	 	voir	que	la	vitesse	de	 développe 	 ment 	 	est	très	 différent 	 e 	 	.	les	pays	 évolue 	 nt 	 	plus	ou	moins	au	même	taux	en	rapport	argent	 e 	 t 	 	 s 	 ant 	 é 	 	,	 mai 	 s 	 	il	semble	possible	de	 progresse 	 r 	 	plus	vite	en	étant	en	bonne	 s 	 ant 	 é 	 	 plu 	 tôt 	 	 qu' 	 en 	 	étant	 rich 	 e 	 	.
+ e 	 t 	 	pour	 illustre 	 r 	 	cela	,	prenons	 l' 	 exemple 	 	des	émirats	 arabe 	 s 	 	.
+ autre 	 fois 	 	,	 c' 	 était 	 	un	pays	 mini 	 er 	 	.	ils	ont	trouvé	du	 pétrol 	 e 	 	,	ils	ont	 gag 	 né 	 	 énormé 	 ment 	 	 d' 	 argent 	 	,	 mai 	 s 	 	la	 s 	 ant 	 é 	 	ne	 s' 	 achète 	 	pas	au	 super 	 marché 	 	.
+vous	 dev 	 ez 	 	investir	dans	la	 s 	 ant 	 é 	 	.	vous	 dev 	 ez 	 	 scolar 	 iser 	 	les	 enfant 	 s 	 	.
+vous	 dev 	 ez 	 	former	du	personnel	de	 s 	 ant 	 é 	 	.	vous	 dev 	 ez 	 	éduquer	la	population	.
+ e 	 t 	 	le	sheikh	_UNK_	l'a	fait	 d' 	 une 	 	 man 	 ière 	 	 admir 	 able 	 	.
+ mal 	 gré 	 	la	chute	du	 pri 	 x 	 	du	 pétrol 	 e 	 	,	il	a	amené	son	pays	 jusqu 	 e 	 	là	.
+nous	avons	donc	une	 meilleur 	 e 	 	approche	de	 l' 	 aspect 	 	du	monde	,	où	tout	les	pays	ont	tendance	à	 mi 	 eux 	 	utiliser	leur	argent	que	par	le	passé	.	 main 	 tenant 	 	,	c'est	,	plus	ou	moins	,	si	vous	regardez	la	moyenne	des	 donné 	 es 	 	des	pays	.	ils	 s 	 e 	 	 présent 	 ent 	 	ainsi	.
+ mai 	 s 	 	il	est	 hasard 	 eux 	 	 d' 	 utiliser 	 	des	 moyenne 	 s 	 	car	il	y	a	une	grosse	différence	entre	les	pays	.	donc	si	je	vais	par	là	,	nous	 pouv 	 ons 	 	 remarqu 	 er 	 	que	l'ouganda	aujourd'hui	est	 sembla 	 ble 	 	à	la	corée	du	sud	en	1960	.	si	je	divise	l'ouganda	,	il	existe	de	 grand 	 es 	 	 différence 	 s 	 	au	sein	de	l'ouganda	.	voici	les	_UNK_	de	l'ouganda	.
+les	20	%	des	 ougand 	 ais 	 	les	plus	riches	 s 	 ont 	 	là	.
+les	plus	 pauvre 	 s 	 	 s 	 ont 	 	ici	en	bas	.	si	je	divise	l'afrique	du	sud	,	c'est	ainsi	.
+si	je	 descend 	 s 	 	 e 	 t 	 	que	je	regarde	le	 ni 	 ger 	 	,	où	il	y	a	eu	une	terrible	 fa 	 mine 	 	 der 	 nière 	 ment 	 	,	cela	ressemble	à	ça	.	les	20	%	les	plus	 pauvre 	 s 	 	du	 ni 	 ger 	 	ici	,	 e 	 t 	 	les	20	%	les	plus	riches	d'afrique	du	sud	là	.
+nous	 pouv 	 ons 	 	 en 	 suite 	 	 discut 	 er 	 	des	 solution 	 s 	 	existant	pour	l'afrique	.
+tout	en	ce	monde	existe	en	afrique	.	 e 	 t 	 	on	ne	peut	pas	 parle 	 r 	 	 d' 	 un 	 	accès	 univers 	 el 	 	au	vih	[	 traite 	 ment 	 	]	pour	ce	_UNK_	ici	en	haut	avec	la	même	stratégie	que	pour	celui	-	ci	en	bas	.	 l' 	 amélioration 	 	du	monde	doit	être	 fort 	 ement 	 	_UNK_	dans	son	 context 	 e 	 	,	 e 	 t 	 	ce	n'est	en	aucun	cas	pertinent	à	un	niveau	 région 	 al 	 	.	nous	 dev 	 ons 	 	 d 	 avantage 	 	 détaille 	 r 	 	.
+nous	avons	 dé 	 couvert 	 	que	les	 étudiant 	 s 	 	 s 	 ont 	 	 emballé 	 s 	 	quand	ils	peuvent	utiliser	 ce 	 t 	 	outil	.
+ e 	 t 	 	même	les	 respons 	 ables 	 	 politique 	 s 	 	 e 	 t 	 	les	 entreprise 	 s 	 	 aimer 	 aient 	 	 observe 	 r 	 	 l' 	 évolution 	 	du	monde	.	 mai 	 s 	 	pourquoi	cela	n'est	-	il	pas	mis	en	place	?
+pourquoi	ne	pas	utiliser	les	 donné 	 es 	 	que	nous	avons	?	nous	 posséd 	 ons 	 	des	 donné 	 es 	 	aux	 nation 	 s 	 	 uni 	 es 	 	,	dans	les	 agence 	 s 	 	 national 	 es 	 	de	 statistique 	 s 	 	 e 	 t 	 	dans	les	 université 	 s 	 	 e 	 t 	 	les	 autre 	 s 	 	 organisation 	 s 	 	non	 gouverne 	 mentale 	 s 	 	.
+parce	que	les	 donné 	 es 	 	 s 	 ont 	 	 enfoui 	 es 	 	dans	les	 base 	 s 	 	de	 donné 	 es 	 	.
+le	public	est	là	,	internet	est	là	,	 mai 	 s 	 	nous	ne	les	utilisons	pas	 efficace 	 ment 	 	.
+ tout 	 es 	 	 ce 	 s 	 	 informat 	 ions 	 	que	nous	voyons	 change 	 r 	 	dans	le	monde	 n' 	 inclu 	 ent 	 	pas	les	 statistique 	 s 	 	 publique 	 s 	 	.	il	existe	des	 page 	 s 	 	web	comme	celle	-	ci	,	 mai 	 s 	 	elles	 s 	 e 	 	 nourri 	 ssent 	 	des	 base 	 s 	 	de	 donné 	 es 	 	,	 mai 	 s 	 	on	les	rend	_UNK_	,	on	_UNK_	des	 mot 	 s 	 	de	passe	 stupid 	 es 	 	 e 	 t 	 	des	 statistique 	 s 	 	 ennuy 	 euses 	 	.
+ e 	 t 	 	cela	ne	marche	pas	.	que	 dev 	 ons 	 	-	nous	faire	?	nous	avons	les	 base 	 s 	 	de	 donné 	 es 	 	.
+ce	n'est	pas	de	 nouvelle 	 s 	 	 base 	 s 	 	de	 donné 	 es 	 	 do 	 nt 	 	nous	avons	besoin	.	nous	avons	des	 outil 	 s 	 	de	mise	en	forme	 merveille 	 ux 	 	,	 e 	 t 	 	il	s'en	 cré 	 e 	 	de	plus	en	plus	.	nous	avons	donc	lancé	une	entreprise	à	but	non	lucratif	que	nous	avons	 appelé 	 e 	 	-	en	 reli 	 ant 	 	les	 donné 	 es 	 	à	la	 con 	 ception 	 	-	nous	 l' 	 avons 	 	 appelé 	 e 	 	``	gapminder	``	,	par	analogie	au	métro	 lond 	 on 	 ien 	 	qui	vous	 averti 	 t 	 	de	faire	attention	au	vide	.	nous	avons	donc	 pens 	 é 	 	que	``	gapminder	``	était	un	nom	approprié	.
+nous	avons	donc	développé	des	 log 	 iciel 	 s 	 	qui	 reli 	 ent 	 	les	 donné 	 es 	 	comme	cela	.
+ e 	 t 	 	ce	 n' 	 était 	 	pas	si	compliqué	.	cela	nous	a	 pri 	 s 	 	 quelque 	 s 	 	 année 	 s 	 	,	 e 	 t 	 	nous	avons	produit	des	 animation 	 s 	 	.
+vous	 pouv 	 ez 	 	prendre	un	ensemble	de	 donné 	 es 	 	 e 	 t 	 	les	amener	là	.
+nous	nous	 somme 	 s 	 	 procu 	 ré 	 	des	 donné 	 es 	 	de	l'onu	 e 	 t 	 	de	 quelque 	 s 	 	 organisation 	 s 	 	de	l'onu	.
+ certain 	 s 	 	pays	ont	accepté	de	 rend 	 re 	 	 publique 	 s 	 	 leur 	 s 	 	 donné 	 es 	 	,	 mai 	 s 	 	ce	 do 	 nt 	 	nous	avons	 ré 	 ellement 	 	besoin	c'est	,	bien	sûr	,	 d' 	 une 	 	fonction	de	recherche	.
+une	fonction	de	recherche	qui	nous	 permet 	 trait 	 	de	 copie 	 r 	 	les	 donné 	 es 	 	dans	un	 forma 	 t 	 	accessible	 e 	 t 	 	de	les	 trans 	 mettre 	 	au	monde	entier	.	 e 	 t 	 	 quelle 	 s 	 	ont	été	les	 ré 	 action 	 s 	 	?
+j'ai	fait	une	recherche	_UNK_	sur	les	 principal 	 es 	 	 formation 	 s 	 	 statistique 	 s 	 	.	tout	le	monde	a	dit	,	``	c'est	impossible	.	on	ne	peut	pas	faire	ça	.	 not 	 re 	 	 in 	 formation 	 	est	trop	spécifique	 e 	 t 	 	ne	peut	être	 partag 	 ée 	 	comme	 n' 	 importe 	 	quelle	autre	.
+on	ne	peut	pas	donner	 ce 	 tte 	 	 in 	 formation 	 	 gratuit 	 ement 	 	aux	 étudiant 	 s 	 	 e 	 t 	 	aux	 entrepreneur 	 s 	 	du	monde	entier	.	``
+ mai 	 s 	 	c'est	 exacte 	 ment 	 	ce	que	nous	 voul 	 ons 	 	faire	,	n'est	-	ce	pas	?
+les	 donné 	 es 	 	 publique 	 s 	 	 s 	 ont 	 	juste	là	.
+nous	 souhait 	 ons 	 	 qu' 	 elles 	 	 s 	 e 	 	 développe 	 nt 	 	sur	internet	.
+ l' 	 un 	 	des	 point 	 s 	 	 cru 	 ci 	 aux 	 	consiste	à	les	 rend 	 re 	 	 accessible 	 s 	 	 e 	 t 	 	à	faire	en	 sort 	 e 	 	que	les	 gen 	 s 	 	 puis 	 s 	 ent 	 	utiliser	les	 différent 	 s 	 	 outil 	 s 	 	pour	les	 rend 	 re 	 	 vivant 	 es 	 	.
+ e 	 t 	 	j'ai	une	bonne	nouvelle	pour	vous	.
+le	nouveau	 directe 	 ur 	 	du	service	 statistique 	 s 	 	de	l'onu	ne	dit	pas	que	c'est	impossible	.
+il	dit	 simple 	 ment 	 	:	``	on	ne	peut	pas	le	faire	``	.
+c'est	 plu 	 tôt 	 	 quel 	 qu'un 	 	de	 mal 	 in 	 	,	n'est	-	ce	pas	?
+donc	nous	allons	voir	beaucoup	de	 change 	 ment 	 s 	 	 s 	 e 	 	 pro 	 duire 	 	dans	les	 année 	 s 	 	à	venir	dans	le	domaine	de	 l' 	 échange 	 	des	 donné 	 es 	 	.
+nous	 pour 	 rons 	 	 observe 	 r 	 	la	 distribu 	 tion 	 	des	 riches 	 s 	 es 	 	de	 façon 	 s 	 	 complète 	 ment 	 	 nouvelle 	 s 	 	.
+voici	la	 distribu 	 tion 	 	des	 riches 	 s 	 es 	 	en	 chi 	 ne 	 	en	1970	.
+la	 distribu 	 tion 	 	des	 riches 	 s 	 es 	 	aux	 état 	 s 	 	-	 uni 	 s 	 	en	1970	.
+ quasi 	 ment 	 	aucun	 chevauch 	 ement 	 	.	 quasi 	 ment 	 	aucun	.	 e 	 t 	 	que	 s' 	 est 	 	-	il	produit	?
+voici	ce	qui	 s' 	 est 	 	passé	:	la	 chi 	 ne 	 	a	 progre 	 ssé 	 	,	ce	n'est	plus	si	équitable	,	 e 	 t 	 	cela	 s 	 e 	 	voit	ici	,	dominant	les	 état 	 s 	 	-	 uni 	 s 	 	.
+on	 di 	 rait 	 	un	fantôme	,	n'est	-	ce	pas	?
+c'est	 plu 	 tôt 	 	effrayant	.	 mai 	 s 	 	je	pense	qu'il	est	important	 d' 	 avoir 	 	 ce 	 tte 	 	 in 	 formation 	 	.
+nous	 dev 	 ons 	 	la	voir	.	 mai 	 s 	 	au	lieu	 d' 	 approfondi 	 r 	 	ce	sujet	,	je	 voudrai 	 s 	 	 termine 	 r 	 	en	 mont 	 rant 	 	les	 utilisateur 	 s 	 	 d' 	 internet 	 	pour	1	000	.
+dans	ce	 log 	 iciel 	 	,	nous	 accéd 	 ons 	 	assez	 facile 	 ment 	 	à	environ	500	 variable 	 s 	 	de	tous	les	pays	.
+il	faut	du	temps	pour	passer	à	cela	,	 mai 	 s 	 	vous	 pouv 	 ez 	 	 facile 	 ment 	 	trouver	sur	les	 axe 	 s 	 	 n' 	 importe 	 	quelle	variable	de	 vot 	 re 	 	choix	.
+le	but	 s 	 e 	 rait 	 	que	les	 base 	 s 	 	de	 donné 	 es 	 	soient	 gratuit 	 es 	 	,	 accessible 	 s 	 	 e 	 t 	 	en	 cliqu 	 ant 	 	une	seconde	fois	,	de	les	obtenir	dans	des	 graphique 	 s 	 	,	où	vous	 pour 	 rez 	 	les	 comprend 	 re 	 	 instantané 	 ment 	 	.
+les	 statisticien 	 s 	 	 n' 	 apprécie 	 nt 	 	pas	car	 s 	 e 	 lon 	 	eux	,	cela	ne	reflète	pas	la	 ré 	 alité 	 	.	nous	 dev 	 ons 	 	avoir	une	approche	statistique	 e 	 t 	 	 méthod 	 ique 	 	.
+ mai 	 s 	 	cela	génère	des	 hypothèse 	 s 	 	.
+je	termine	donc	avec	le	monde	.	ici	,	internet	arrive	.
+le	nombre	 d' 	 internautes 	 	croît	comme	cela	.	voici	le	pib	par	individu	.
+c'est	une	nouvelle	technologie	qui	voit	le	jour	 e 	 t 	 	qui	,	 étonna 	 mment 	 	,	 s 	 e 	 	fond	avec	 l' 	 économie 	 	des	pays	.	c'est	pourquoi	 l' 	 ordinateur 	 	à	100	 dollar 	 s 	 	est	si	important	.	 mai 	 s 	 	c'est	une	tendance	faible	.
+c'est	comme	si	le	monde	_UNK_	?	 ce 	 s 	 	pays	 s 	 e 	 	 soulève 	 nt 	 	plus	que	 l' 	 économie 	 	,	 e 	 t 	 	il	 s 	 e 	 rait 	 	intéressant	de	 suiv 	 re 	 	ce	phénomène	au	fil	des	 année 	 s 	 	,	comme	je	 souhait 	 e 	 rais 	 	que	vous	 puis 	 s 	 iez 	 	utiliser	les	 donné 	 es 	 	 financé 	 es 	 	par	des	 fond 	 s 	 	 public 	 s 	 	.	merci	beaucoup	.
+

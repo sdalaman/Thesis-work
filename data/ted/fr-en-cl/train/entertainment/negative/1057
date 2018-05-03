@@ -1,0 +1,208 @@
+je vais commencer par lancer un tout petit défi , le problème du traitement des données , des données que nous devons traiter dans le contexte médical .
+c'est vraiment un énorme défi pour nous .
+et ceci est notre bête de somme .
+c'est un appareil à tomographie calculée par ordinateur -- un scanner ct .
+c'est un appareil extraordinaire .
+il utilise les rayons x , des faisceaux de rayons x , qui tournent très rapidement autour du corps humain .
+il faut environ 30 secondes pour passer à travers tout l'appareil et d'énormes quantités d'informations sont produites en sortie de la machine .
+c'est une machine extraordinaire que nous pouvons utiliser pour améliorer les soins de santé .
+mais , comme je l'ai dit , c'est aussi un défi à relever .
+toute l'ampleur du problème se trouve sur cette image .
+il s'agit de l'explosion des données médicales qui se produit en ce moment même .
+c'est le problème auquel nous sommes confrontés .
+laissez - moi revenir en arrière .
+revenons quelques années en arrière , et observons ce qui se passait à l'époque .
+les appareils qui sortaient alors -- ils ont commencé à arriver dans les années 70 -- _UNK_ le corps humain , et produisaient environ une centaine d'images de ce corps .
+j'ai pris la liberté , pour que ce soit plus clair , de traduire cela en termes de données numériques .
+ça correspondrait à environ 50 mo , ce qui est peu quand vous pensez aux quantités de données que nous pouvons manipuler de nos jours rien que sur nos portables normaux .
+si vous traduisez ça en annuaires , ça fait une pile d'annuaires d'environ un mètre de haut .
+quand on voit ce que l'on peut faire aujourd'hui avec les machines dont nous disposons , on peut , en seulement quelques secondes , obtenir 24 000 images d'un corps .
+cela correspondrait à environ 20 go , ou 800 annuaires .
+la pile d'annuaires ferait alors 200 mètres de haut .
+ce qui va se produire -- et nous le voyons déjà , ça commence -- c'est une tendance technologique qui arrive en ce moment même , est que nous commençons également à regarder les images en temps réel .
+nous obtenons également la dynamique du corps .
+supposez seulement que nous ne _UNK_ des données que sur une durée de cinq secondes , cela correspondrait à un téraoctet de données .
+c'est à dire 800 000 annuaires , une pile de 16 km de haut .
+et cela pour un seul patient , un seul examen .
+voilà ce à quoi nous devons faire face .
+c'est vraiment l'énorme défi qui se présente à nous .
+et dès aujourd'hui -- il s'agit de 25 000 images .
+imaginez l'époque où les radiologues travaillaient de cette façon .
+ils auraient affiché 25 000 clichés , et ils auraient dit 25 000 fois : " tout va bien , tout va bien , ah , voilà le problème . " on ne peut plus faire ça , c'est impossible .
+alors on doit trouver quelque chose d'un peu plus intelligent que ça .
+ce que nous faisons donc , c'est de regrouper toutes ces coupes .
+imaginez que vous découpez votre corps dans tous les sens , et puis vous essayez de remettre les tranches ensemble pour former une pile de données , un bloc de données .
+c'est ce que nous faisons en réalité .
+ce _UNK_ , ou téraoctet de données , nous le mettons dans ce bloc .
+mais , bien sûr , le bloc de données n'indique que la quantité de rayons x qui a été absorbée par chaque point du corps humain .
+nous devons donc trouver un moyen de voir les choses que nous voulons observer et de rendre transparentes les choses que nous ne voulons pas observer .
+c'est - à - dire de transformer l'ensemble des données en quelque chose qui ressemble à ça .
+et c'est très difficile .
+le défi pour nous est énorme .
+en utilisant des ordinateurs , même s'ils deviennent tout le temps plus rapides et meilleurs , il est très difficile de traiter des gigaoctets de données , des téraoctets de données , et d'en extraire les informations utiles .
+je veux observer le cœur , je veux observer les vaisseaux sanguins , je veux observer le foie , peut - être même détecter une tumeur dans certains cas .
+et voilà où ce petit amour entre en jeu .
+c'est ma fille .
+a 9 h 00 , ce matin même .
+elle joue à un jeu sur ordinateur .
+elle n'a que deux ans , et elle _UNK_ .
+c'est elle la vraie force motrice qui pousse au développement des cartes graphiques .
+aussi longtemps que les gamins joueront à des jeux sur ordinateur , le traitement graphique continuera à s'améliorer de plus en plus .
+alors rentrez chez vous , s'il vous plaît , et dites à vos enfants de jouer plus souvent , parce que j'en ai besoin .
+c'est ce qui est à l'intérieur de cet appareil qui me permet de faire ce que je _UNK_ avec les données médicales .
+ce que je fais en vérité , c'est que j'utilise ces petits appareils extraordinaires .
+et vous savez , si je reviens peut - être dix ans en arrière quand j'ai obtenu le financement pour acheter mon premier ordinateur de traitement graphique .
+c'était une énorme machine .
+c'était des rangées de processeurs , de stockage , de tout cela .
+j'ai payé cette machine aux alentours d'un million de dollars .
+et elle était à peu près aussi rapide que mon iphone aujourd'hui .
+chaque mois il y a de nouvelles cartes graphiques qui sortent .
+en voici quelques unes des dernières mises en vente -- _UNK_ , _UNK_ . intel est également présent .
+et vous savez , pour quelques centaines d'euros , vous pouvez les acquérir et les mettre dans votre ordinateur , et vous pouvez faire des choses extraordinaires avec ces cartes graphiques .
+c'est donc ce qui nous permet de faire face à l'explosion des données en médecine , ajouté à l'élaboration de quelques solutions très habiles en termes d'algorithmes -- de compression des données , d'extraction des informations utiles aux travaux des chercheurs .
+je vais vous montrer quelques exemples de ce que nous pouvons faire .
+voici un ensemble de données qui ont été _UNK_ par un scanner ct .
+vous pouvez voir que ces données sont complètes .
+c'est une femme . vous pouvez voir les cheveux .
+vous pouvez voir chaque organe de cette femme séparément .
+vous pouvez voir qu'il y a un éparpillement de rayons x sur les dents , le métal des dents .
+c'est la raison de ces traces .
+mais de façon complètement interactive , avec une carte graphique standard , sur un ordinateur normal , je peux faire une coupe plane .
+et bien sûr , toutes les données sont à l'intérieur , je peux donc la faire tourner , je peux la voir sous différents angles , et je peux voir que cette femme a eu un problème .
+elle a eu une hémorragie au cerveau , qui a été soignée par un petit stent , un tube en métal qui renforce le vaisseau .
+et rien qu'en changeant les réglages , je peux décider de ce qui va être transparent , et de ce qui va être visible .
+je peux observer la structure crânienne , et je peux voir que , oui , c'est là qu'on a ouvert le crâne de cette femme , et c'est par là qu'on est entré .
+ce sont des images extraordinaires .
+elles sont de très haute définition , et sont vraiment un exemple de ce qu'on peut faire aujourd'hui avec des cartes graphiques standard .
+alors on s'en est vraiment servi , et on a essayé de faire entrer plein de données dans le système .
+l'une des utilisations sur lesquelles nous travaillons -- et cela a suscité quelque intérêt dans le monde entier -- est le programme d'autopsies virtuelles .
+une fois de plus , en partant de très très grands ensembles de données , vous avez vu ces scans en pied que nous pouvons faire .
+nous faisons juste passer le corps à travers le scanner ct , et en seulement quelques secondes nous pouvons obtenir l'ensemble des données du corps entier .
+ceci provient d'une autopsie virtuelle .
+vous pouvez voir comment j'enlève progressivement les couches .
+en premier vous avez vu le sac dans lequel le corps est arrivé , puis j'enlève la peau -- vous pouvez voir les muscles -- et finalement vous pouvez voir le squelette de cette femme .
+a ce stade , je voudrais aussi souligner que , avec le plus grand respect pour les personnes que je vais maintenant vous montrer -- je vais vous montrer quelques cas d'autopsies virtuelles -- c'est avec un grand respect pour ces personnes qui sont mortes dans des circonstances violentes que je vous montre ces images .
+dans le cadre _UNK_ - légal -- il y a eu jusqu'ici rien que dans la région de suède d'où je viens , qui ont subi une autopsie virtuelle durant ces quatre dernières années .
+voilà le déroulement de la situation typique : la police va décider -- dans la soirée , quand un cas se présente -- ils vont décider , d'accord , voilà un cas qui nécessite une autopsie .
+le lendemain , entre six et sept heures du matin , le corps est transporté dans son sac jusqu'à notre centre , et il est passé dans l'un de nos scanners ct .
+puis le radiologue , en compagnie du pathologiste et parfois du médecin légiste , examinent les données qui sortent , et ils se _UNK_ .
+ils décident alors de ce qu'ils vont faire lors de la vraie autopsie qui va suivre .
+voyons maintenant quelques cas , voici l'un de nos tout premiers .
+vous pouvez vraiment voir les détails de l'ensemble de données ; c'est à très haute définition .
+et ce sont nos algorithmes qui nous permettent d'agrandir chaque détail .
+là aussi , c'est totalement interactif , vous pouvez le faire pivoter et voir les choses en temps réel sur ces systèmes là .
+sans trop en dire sur ce cas , il s'agit d'un accident de circulation , un chauffard ivre a renversé une femme .
+il est très très facile de voir les dégâts sur le squelette .
+et la cause du décès qui est la nuque brisée .
+cette femme a de plus fini sous la voiture , alors elle est assez gravement abîmée par l'accident .
+voici un autre cas , une attaque au couteau .
+ça nous montre une fois encore ce que nous pouvons faire .
+il est très facile d'observer les objets en métal , nous pouvons les montrer à l'intérieur du corps .
+vous pouvez aussi voir des objets dans la mâchoire -- ce sont en réalité les plombages -- mais c'est parce que j'ai réglé les fonctions pour faire apparaître le métal et rendre tout le reste transparent .
+voici un autre cas de violence . ce n'est pas vraiment ça qui a tué la personne .
+elle a été tuée par des coups de _UNK_ dans le cœur , mais ils se sont simplement débarrassé du couteau en _UNK_ dans l'un des globes oculaires .
+voici un autre cas .
+c'est très intéressant pour nous de pouvoir observer des choses comme les coups de couteau .
+ici vous pouvez voir que le couteau a _UNK_ le cœur .
+on peut facilement voir comment l'air a fui d'un endroit à l'autre , ce qui est difficile dans une autopsie normale , standard .
+cela aide énormément l'enquête criminelle à établir la cause du décès , et dans certains cas , à orienter l'enquête dans la bonne direction pour découvrir qui est vraiment le meurtrier .
+voici un autre cas que je trouve intéressant .
+vous pouvez voir ici une balle qui s'est _UNK_ juste à côté de la colonne vertébrale de cette personne .
+et ce que nous avons fait , c'est de transformer cette balle en source lumineuse , de façon à ce que la balle brille réellement , ce qui rend la recherche des fragments très facile .
+lors d'une autopsie physique , si vous devez réellement fouiller le corps pour retrouver les fragments , c'est vraiment assez dur à faire .
+une des choses que je suis très très heureux de pouvoir vous montrer aujourd'hui est notre table d'autopsie virtuelle .
+c'est un appareil tactile que nous avons élaboré basé sur ces algorithmes , et qui utilise un processeur graphique standard .
+voici de quoi cela a l'air en vrai , juste pour vous donner un idée de ce à quoi cela ressemble .
+ça marche vraiment comme un énorme iphone .
+nous avons implémenté tous les gestes que vous pouvez faire sur une table classique , vous pouvez voir cela comme une énorme interface tactile .
+alors si vous aviez l'intention d'acheter un ipad , laissez tomber , voilà ce qu'il vous faut à la place .
+steve , j'espère bien que tu nous écoutes .
+c'est un petit appareil très sympa .
+alors si vous en avez l'occasion , essayez - le .
+c'est vraiment une expérience concrète .
+nous avons eu des réactions favorables , et nous essayons de le développer , et de l'utiliser à des fins pédagogiques , mais aussi , peut - être à l'avenir , dans un contexte plus clinique .
+il y a une vidéo sur youtube que vous pouvez télécharger et regarder , si vous voulez relayer l'information sur les autopsies virtuelles vers d'autres personnes .
+bon , puisque nous parlons de toucher , passons à la possibilité de toucher réellement les données .
+c'est un peu de la science - fiction , là , on se projette dans le futur .
+ça n'est pas vraiment ce que les médecins utilisent actuellement , mais j'espère qu'ils le feront à l'avenir .
+ce que vous voyez à gauche est un appareil tactile .
+c'est un petit stylet mécanique qui a des moteurs pas à pas extrêmement rapides à l'intérieur .
+je peux donc produire un retour de force .
+alors , quand je touche virtuellement les données cela va produire des retours de force dans le stylet , et j'obtiens ainsi une réaction .
+dans ce cas précis , il s'agit du scan d'une personne vivante .
+j'ai ce stylet , et j'examine les données , je déplace le stylet vers la tête , et tout à coup , je sens une résistance .
+et ainsi je peux sentir la peau .
+si j'appuie un peu plus fort , je vais traverser la peau , et je pourrai sentir l'os à l'intérieur .
+si j'appuie encore plus fort , je _UNK_ le crâne , particulièrement près de l'oreille , où l'os est très tendre .
+et alors je pourrai sentir le cerveau à l'intérieur , et ça aura une consistance de neige fondue , comme ceci .
+c'est vraiment bien .
+et pour aller encore plus loin , voilà un cœur .
+c'est aussi grâce à ces nouveaux scanners extraordinaires , avec lesquels , en seulement 0,3 secondes , je peux scanner la totalité du cœur , et je peux le faire avec une dimension temporelle .
+et donc , pour observer ce cœur , je peux faire tourner une vidéo .
+voici _UNK_ , l'un de mes étudiants de troisième cycle , qui travaille sur ce projet .
+il est assis devant l'appareil haptique , le système de retour de force , et il déplace le stylet vers le cœur , et le cœur bat maintenant devant lui , pour qu'il puisse voir comment il bat .
+il a pris le stylet , et il le déplace vers le cœur , il le pose sur le cœur , et il sent les battements de cœur du véritable patient en vie .
+il peut alors examiner les mouvements du cœur .
+il peut entrer à l'intérieur , pénétrer à l'intérieur du cœur , et sentir vraiment comment les valves bougent .
+ceci , je crois , est vraiment l'avenir pour les chirurgiens cardiaques .
+je veux dire , c'est probablement le plus grand fantasme pour un chirurgien du cœur que de pouvoir aller voir à l'intérieur du cœur du patient avant de passer à l'acte chirurgical , et de faire cela avec des données de qualité haute définition .
+c'est vraiment super .
+maintenant nous allons encore un peu plus loin dans la science - fiction .
+nous avons un peu entendu parler de l'irm fonctionnelle .
+voilà un projet vraiment intéressant .
+l'irm utilise des champs magnétiques et des fréquences radio pour scanner le cerveau , ou n'importe quelle partie du corps .
+ce que l'on obtient en réalité ce sont des informations sur la structure du cerveau , mais on peut aussi mesurer la différence de propriétés magnétiques entre le sang qui est oxygéné et le sang qui s'est _UNK_ en oxygène .
+cela signifie qu'il est possible d'établir une carte de l'activité du cerveau .
+c'est quelque chose sur quoi nous travaillons .
+vous venez juste de voir motts , notre ingénieur d'étude , entrer dans la machine d'irm , et il portait des lunettes .
+pour qu'il puisse voir des choses dans les lunettes , en fait .
+pour que je puisse lui montrer des choses pendant qu'il est dans le scanner .
+et c'est un peu bizarre , parce que ce que motts voit , c'est en fait ceci .
+il voit son propre cerveau .
+motts fait quelque chose , là .
+il fait probablement comme ça avec sa main droite , parce que le côté gauche du cortex de la motricité est actif .
+et il peut voir ceci en même temps .
+ces représentations sont toutes nouvelles .
+c'est quelque chose sur quoi nous menons des recherches depuis un certain temps .
+voici une autre séquence du cerveau de motts .
+ici , nous avons demandé à motts de compter à rebours à partir de 100 .
+il fait : " 100 , 97 , 94 ... "
+il le fait à l'envers .
+et vous pouvez voir comment le petit processeur mathématique travaille dans son cerveau , et illumine tout le cerveau .
+eh bien , c'est extraordinaire . on peut faire ça en temps réel .
+on peut étudier des tas de choses . on peut lui demander de faire des trucs .
+vous pouvez aussi voir que son cortex visuel est actif , à l'arrière de sa tête , parce que c'est là qu'il voit , il voit son propre cerveau .
+et il entend également nos instructions quand nous lui disons de faire quelque chose .
+de plus , le signal est vraiment profond à l'intérieur du cerveau , mais il brille au travers , parce qu'il y a toutes les données à l'intérieur de ce volume .
+dans juste un instant vous allez voir -- bien , là , motts , maintenant bouge ton pied gauche .
+il fait comme ça .
+pendant 20 secondes , il fait comme ça , et tout à coup , ça _UNK_ là - haut .
+nous avons le cortex moteur qui s'active là - haut .
+c'est vraiment , vraiment bien .
+je pense que c'est un outil formidable .
+et en rapport avec la conférence qui m'a précédé ici , c'est quelque chose que nous pourrions utiliser comme outil pour comprendre vraiment comment marchent les neurones , comment marche le cerveau , et nous pouvons le faire avec de la très , très bonne qualité visuelle et une résolution très rapide .
+il nous arrive aussi de nous amuser au centre .
+ceci est un cat scan -- computer _UNK_ _UNK_ .
+c'est _UNK_ , une lionne du zoo de notre région , près de _UNK_ , dans la forêt de _UNK_ .
+elle est arrivée au centre , et ils l'ont endormie , et passée directement dans le scanner .
+ensuite , bien sûr , j'obtiens tout l'ensemble des données de la lionne .
+et je peux faire de très jolies images comme celle - ci .
+je peux enlever des couches de la lionne .
+je peux observer l'intérieur .
+nous avons testé cela .
+et je pense que c'est une application formidable pour l'avenir de cette technologie .
+parce qu'on en sait très peu sur l'anatomie animale .
+le seul savoir disponible pour les vétérinaires est très basique , en somme .
+nous pouvons scanner toutes sortes de choses , toutes sortes d'animaux .
+le seul problème est de les faire entrer dans la machine .
+voici un ours .
+ça a été un peu dur de le faire rentrer .
+l'ours est un animal affectueux , amical .
+le voilà . voilà le nez de l'ours .
+vous pourriez avoir envie de _UNK_ celui - ci , jusqu'à ce que vous changiez les réglages et que vous voyiez ceci .
+alors , attention aux ours .
+pour finir , je voudrais remercier toutes les personnes qui m'ont aidé à produire ces images .
+c'est un énorme travail que de réussir cela , rassembler les données , développer les algorithmes , écrire tous les programmes .
+ces personnes ont énormément de talent .
+ma devise est toujours : " _UNK_ que des gens plus intelligents que toi " , et la plupart d'entre eux sont plus intelligents que moi .
+merci beaucoup .

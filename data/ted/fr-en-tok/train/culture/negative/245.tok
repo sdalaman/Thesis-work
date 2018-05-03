@@ -1,0 +1,63 @@
+comme	chercheur	,	nous	utilisons	parfois	d'immenses	ressources	pour	atteindre	nos	buts	.
+c'est	essentiel	au	progrès	scientifique	,	à	l'exploration	du	possible	.
+mais	cela	amène	cette	triste	situation	où	une	minuscule	part	du	monde	peut	réellement	participer	à	cette	exploration	ou	peut	bénéficier	de	cette	technologie	.
+ce	qui	me	motive	et	m'enthousiasme	dans	mes	recherches	,	ce	sont	les	occasions	simples	de	changer	radicalement	cela	,	et	de	rendre	cette	technologie	accessible	à	beaucoup	plus	de	monde	.
+vous	verrez	2	démos	très	populaires	qui	incarnent	cette	philosophie	.
+très	populaires	qui	incarnent	cette	philosophie	.
+elles	utilisent	la	manette	de	la	wii	de	nintendo	.
+pour	ceux	qui	l'ignorent	,	c'est	une	manette	de	jeux	vidéo	à	40	$	.
+pour	ceux	qui	l'ignorent	,	c'est	une	manette	de	jeux	vidéo	à	40	$	.
+elle	est	surtout	connue	pour	son	capteur	de	mouvement	,	permettant	de	s'en	servir	comme	d'une	raquette	ou	une	batte	de	baseball	.
+mais	ce	qui	m'intéresse	réellement	est	qu'il	y	a	au	bout	mais	ce	qui	m'intéresse	réellement	est	qu'il	y	a	au	bout	une	caméra	infrarouge	assez	performante	.
+je	vais	vous	montrer	à	quoi	c'est	utile	.
+j'ai	ici	un	ordinateur	avec	un	projecteur	,	et	une	manette	posée	dessus	.
+j'ai	ici	un	ordinateur	avec	un	projecteur	,	et	une	manette	posée	dessus	.
+par	exemple	,	si	vous	êtes	dans	une	école	,	sans	grand	budget	,	ce	qui	probablement	le	cas	de	beaucoup	d'écoles	,	ou	si	vous	êtes	dans	un	bureau	,	et	que	vous	voulez	un	tableau	interactif	,	il	vous	en	coûtera	normalement	de	2000	à	3000	dollars	.
+je	vais	vous	montrer	comment	en	faire	un	avec	une	manette	.
+je	vais	vous	montrer	comment	en	faire	un	avec	une	manette	.
+il	faudra	aussi	autre	chose	,	un	stylo	infrarouge	.
+il	faudra	aussi	autre	chose	,	un	stylo	infrarouge	.
+vous	pourrez	en	faire	un	pour	5	$	dans	un	magasin	d'électronique	.
+en	gros	,	c'est	une	pile	,	un	bouton	et	une	led	à	infrarouge	,	vous	ne	pourrez	pas	le	voir	,	mais	elle	s'allume	quand	j'appuie	.
+vous	ne	pourrez	pas	le	voir	,	mais	elle	s'allume	quand	j'appuie	.
+si	je	démarre	mon	logiciel	,	la	caméra	voit	le	point	infrarouge	,	et	je	peux	_UNK_	les	pixels	de	la	caméra	à	ceux	du	projecteur	.	voici	un	tableau	blanc	interactif	.
+pour	50	$	,	vous	avez	votre	tableau	blanc	.
+voici	adobe	photoshop	.
+merci	.
+j'ai	mis	ce	logiciel	sur	mon	site	internet	,	en	téléchargement	gratuit	.
+j'ai	mis	ce	logiciel	sur	mon	site	internet	,	en	téléchargement	gratuit	.
+en	trois	mois	,	il	a	été	téléchargé	plus	d'un	demi	-	million	de	fois	.
+en	trois	mois	,	il	a	été	téléchargé	plus	d'un	demi	-	million	de	fois	.
+des	professeurs	et	des	étudiants	,	de	par	le	monde	,	l'utilisent	déjà	.
+des	professeurs	et	des	étudiants	,	de	par	le	monde	,	l'utilisent	déjà	.
+bien	qu'elle	fonctionne	,	cette	approche	a	des	limites	.
+bien	qu'elle	fonctionne	,	cette	approche	a	des	limites	.
+mais	on	y	est	à	80	%	pour	1	%	du	prix	.
+mais	on	y	est	à	80	%	pour	1	%	du	prix	.
+la	caméra	voit	plusieurs	points	,	c'est	donc	la	caméra	voit	plusieurs	points	,	c'est	donc	un	tableau	_UNK_	.
+pour	cette	démonstration	,	la	manette	wii	est	sur	l'écran	.
+pour	cette	démonstration	,	la	manette	wii	est	sur	l'écran	.
+elle	voit	de	là	,	au	lieu	de	regarder	vers	l'écran	.
+elle	voit	de	là	,	au	lieu	de	regarder	vers	l'écran	.
+c'est	intéressant	,	car	si	vous	mettez	des	lunettes	de	sécurité	ayant	deux	points	infrarouges	,	si	vous	mettez	des	lunettes	de	sécurité	ayant	deux	points	infrarouges	,	ils	permettent	à	l'ordinateur	d'approximer	la	position	de	votre	tête	.
+ils	permettent	à	l'ordinateur	d'approximer	la	position	de	votre	tête	.
+c'est	intéressant	avec	ce	programme	qui	montre	à	l'écran	c'est	intéressant	avec	ce	programme	qui	montre	à	l'écran	une	pièce	en	3d	où	des	cibles	flottent	.
+cela	ressemble	à	une	pièce	de	jeu	vidéo	3d	,	cela	ressemble	à	une	pièce	de	jeu	vidéo	3d	,	et	l'image	reste	assez	plate	à	la	surface	de	l'écran	,	et	l'image	reste	assez	plate	à	la	surface	de	l'écran	,	mais	avec	le	suivi	de	la	tête	,	l'ordinateur	peut	changer	l'image	en	suivant	les	mouvements	de	la	tête	.
+l'ordinateur	peut	changer	l'image	en	suivant	les	mouvements	de	la	tête	.
+cela	donne	ceci	.
+ça	a	un	peu	surpris	les	créateurs	de	jeux	.
+ça	a	un	peu	surpris	les	créateurs	de	jeux	.
+parce	que	ça	coûte	environ	10	$	de	matériel	si	vous	avez	une	wii	nintendo	.
+parce	que	ça	coûte	environ	10	$	de	matériel	si	vous	avez	une	wii	nintendo	.
+je	m'attends	à	en	voir	des	nouveaux	jeux	,	et	d'ailleurs	louis	castle	a	annoncé	je	m'attends	à	en	voir	des	nouveaux	jeux	,	et	d'ailleurs	louis	castle	a	annoncé	qu'electronic	arts	,	un	grand	éditeur	de	jeux	,	publiera	en	mai	un	jeu	qu'electronic	arts	,	un	grand	éditeur	de	jeux	,	publiera	en	mai	un	jeu	ayant	en	bonus	ce	type	de	suivi	de	regard	.
+ayant	en	bonus	ce	type	de	suivi	de	regard	.
+en	moins	de	5	mois	,	on	est	passé	d'un	proto	dans	mon	labo	à	un	produit	commercial	majeur	.
+en	moins	de	5	mois	,	on	est	passé	d'un	proto	dans	mon	labo	à	un	produit	commercial	majeur	.
+merci	.
+ce	que	je	trouve	presque	plus	intéressant	,	c'est	la	façon	dont	ce	que	je	trouve	presque	plus	intéressant	,	c'est	la	façon	dont	les	gens	ont	découvert	cela	.
+youtube	a	vraiment	changé	la	façon	,	ou	la	vitesse	,	à	laquelle	un	individu	peut	répandre	une	idée	.
+à	laquelle	un	individu	peut	répandre	une	idée	.
+je	fais	de	la	recherche	avec	une	caméra	et	en	une	semaine	,	1	million	de	personnes	a	vu	mon	travail	,	en	quelques	jours	des	ingénieurs	,	professeurs	,	étudiants	du	monde	entier	,	_UNK_	leurs	propres	vidéos	youtube	les	montrant	en	train	d'utiliser	ce	système	ou	un	dérivé	.
+alors	,	j'espère	voir	cela	davantage	dans	le	futur	,	et	que	la	vidéo	sur	internet	alors	,	j'espère	voir	cela	davantage	dans	le	futur	,	et	que	la	vidéo	sur	internet	soit	adoptée	par	les	chercheurs	.
+merci	beaucoup	.
+

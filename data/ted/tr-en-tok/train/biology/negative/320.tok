@@ -1,0 +1,153 @@
+i̇lk	bilgisayarımı	gençliğimde	,	accra'da	büyürken	aldım	.	ve	gerçekten	çok	hoş	bir	cihazdı	.
+onunla	oyun	oynayabilir	,	onu	basic	dilinde	_UNK_	.
+ve	gerçekten	etkilenmiştim	.
+bu	yüzden	bu	şeyin	nasıl	çalıştığını	öğrenmek	için	kütüphaneye	gittim	.
+_UNK_	verileri	bellek	ve	aritmetik	mantık	birimi	arasında	nasıl	sürekli	ileri	geri	_UNK_	okudum	.
+ve	kendi	kendime	düşündüm	ki	,	bu	cpu	,	tüm	bu	veriyi	sistemin	orasından	_UNK_	taşımak	için	gerçekten	deli	gibi	çalışıyor	olmalı
+ancak	bunun	hakkında	pek	endişe	eden	de	yoktu	.
+bilgisayarlar	ilk	çıktığında	,	_UNK_	milyon	kat	hızlı	oldukları	söylenmişti	.
+i̇nsanlar	etkilenmişti	,	yakında	beynin	kapasitesini	_UNK_	düşündüler	.
+alan	_UNK_	bir	söz	:	``	30	yıl	içerisinde	,	bilgisayara	bir	soru	sormak	,	insana	soru	sormak	kadar	kolay	olacak	.	``
+bu	1946	yılındaydı	.	şimdi	2007	yılındayız	,	söz	hala	doğru	değil	.
+soru	şu	,	beyinde	gördüğümüz	ölçekteki	güçleri	neden	bilgisayarda	göremiyoruz	?
+i̇nsanların	fark	edemediği	,	benim	ise	şimdilerde	fark	etmeye	başladığım	şey	,	bu	bilgisayarların	büyük	_UNK_	olan	hız	için	büyük	bir	bedel	ödüyor	olmamız	.
+haydi	biraz	da	bazı	verilere	bakalım	.
+bu	,	blue	gene	,	dünyadaki	en	hızlı	bilgisayar	.
+120,000	işlemciye	sahip	.	saniyede	10	katrilyon	bit	bilgi	_UNK_	.
+bu	10	üzeri	16	demek	.	ve	bir	buçuk	megawatt	güç	harcıyor	.
+eğer	bu	miktarı	tanzanya'nın	üretim	kapasitesine	_UNK_	harika	olurdu	.
+ekonomiyi	cidden	canlandırırdı	.
+amerika'ya	dönelim	,	eğer	bu	bilgisayarın	kullandığı	elektrik	enerjisi	miktarını	abd'deki	evlerin	güç	tüketimine	_UNK_	olursanız	,	1200	ev	gibi	bir	rakam	elde	edersiniz	.
+i̇şte	bu	bilgisayarın	tükettiği	güç	miktarı	.
+şimdi	,	bunu	beyinle	karşılaştıralım	.
+bu	,	rory	_UNK_	kız	arkadaşının	beyninin	fotoğrafı	.
+rory	,	stanford'da	bir	yüksek	lisans	öğrencisi	.
+beyin	üzerinde	mri	kullanarak	çalışmalar	yapıyor	ve	iddia	ediyor	ki	bu	şimdiye	kadar	_UNK_	en	güzel	beyin	.
+i̇şte	bu	gerçek	aşk	,	tam	burada	.
+şimdi	,	beyin	ne	kadar	hesaplama	yapıyor	?
+yaklaşık	olarak	saniyede	10	üzeri	16	bit	,	aslında	blue	gene'in	yaptığına	çok	yakın	.
+i̇şte	soru	bu	.	soru	:	ne	kadar	--	benzer	miktarda	işlem	yapıyorlar	,	benzer	miktarda	veri	var	--	soru	:	``	beyin	ne	kadar	enerji	veya	elektrik	tüketiyor	?	``	.
+ve	aslında	sadece	dizüstü	bilgisayarınız	kadar	:	sadece	10	watt	.
+o	zaman	bizim	şu	anda	bilgisayarlarla	1200	evin	tükettiği	enerjiyi	tüketerek	yaptığımız	işi	beyin	,	dizüstü	bilgisayarınız	kadar	enerji	tüketerek	yapıyor	.
+şu	halde	soru	şu	,	beyin	,	bu	denli	verimliliği	nasıl	elde	ediyor	?
+ve	_UNK_	izin	verin	.	beyin	bilgiyi	,	halihazırdaki	bilgisayar	teknolojisine	gore	100,000	kat	daha	az	enerji	harcayarak	işliyor	.
+peki	beyin	bunu	nasıl	başarıyor	?
+haydi	beynin	nasıl	çalıştığına	bir	bakalım	,	ve	bilgisayarların	nasıl	çalıştığıyla	karşılaştıralım	.
+bu	kısa	film	``	beynin	gizli	hayatı	``	isimli	_UNK_	belgeselinden	.
+bilgi	işleyen	hücreleri	gösteriyor	.
+bunlara	``	nöron	``	denir	.
+i̇şlem	sırasında	birbirlerine	küçük	elektrik	atımları	gönderirler	,	ve	birbirlerine	dokundukları	yerlerde	bu	küçük	elektrik	atımları	,	bir	nörondan	diğerine	atlar	.
+bu	işleme	``	sinaps	``	denir	.
+yani	elimizde	birbirleriyle	saniyede	yaklaşık	10	katrilyon	atım	göndererek	_UNK_	100	milyon	kadar	hücreden	oluşan	devasa	bir	ağ	var	.
+ve	siz	bu	konuşmayı	izlerken	beyninizde	olup	biten	de	bu	.
+şimdi	bunu	bilgisayarların	nasıl	çalıştığıyla	karşılaştıralım	.
+_UNK_	bütün	bilgi	işlemciden	geçer	,	ve	her	veri	parçası	bu	_UNK_	geçmek	zorundadır	.	beyinde	ise	nöronlar	var	ve	veriler	bu	nöronlar	arasındaki	bağlantı	ağı	içinde	akar	,	burada	bir	darboğaz	yok	.
+bu	kelimenin	tam	anlamıyla	bir	``	ağ	``	dır
+beyinde	işleri	bu	ağ	halleder	.
+bu	iki	resme	bakarsanız	,	aklınıza	iki	kelime	gelir	.
+bu	``	seri	ve	katı	``	:	otoyoldaki	arabalar	gibi	--	herşey	sırayla	olmalı	.	bu	ise	paralel	ve	akıcı	.
+bilgi	işleme	oldukça	dinamik	ve	adaptif	.
+tabi	ki	bunu	tek	farkeden	ben	değilim	:	brian	_UNK_	bir	alıntı	:	``	bilgisayarların	sorunu	,	içlerinde	yeterince	afrika	olmaması	.	``
+brian	bunu	1995'te	söyledi	.
+o	zamanlarda	dinleyen	yoktu	,	ama	şimdi	dinlemeye	başlıyorlar	,	çünkü	karşımızda	acil	,	teknolojik	bir	problem	var
+sıradaki	bir	kaç	slaytta	size	biraz	bundan	bahsedeceğim	.
+bu	--	bilgisayarlarda	hesap	yapmak	için	kullandığımız	araçlarla	,	beynimizin	hesap	yapmak	için	kullandığı	araçların	önemli	bir	yakınsaması	.
+bilgisayarların	kullandığı	araçlara	``	transistör	``	deniyor	.
+buradaki	,	``	kapı	``	adı	verilen	elektrot	,	``	kaynak	``	tan	``	toplayıcı	``	ya	giden	akımı	kontrol	eder	.
+ve	bu	akım	,	elektrik	akımı	,	evinizin	içinde	olduğu	gibi	,	elektronlar	tarafından	taşınır	.
+burada	gördüğümüz	ise	,	``	kapı	``	yı	açtığınızda	,	akım	miktarında	bir	artış	görürsünüz	,	sabit	bir	akım	vardır	.
+``	kapı	``	yı	kapattığınızda	ise	cihazdan	geçen	bir	akım	yoktur	.
+bilgisayar	,	akımın	olduğu	durumu	bir	``	1	``	,	olmadığı	durumu	ise	bir	0	göstermek	için	kullanır	.
+bugünlerde	olan	şu	:	transistörler	gittikçe	küçülüyor	,	küçülüyor	,	_UNK_	.	ve	artık	bu	şekilde	_UNK_	.
+aslında	,	yavaş	yavaş	nöronların	hesap	yapmak	için	kullandıkları	cihaza	benziyorlar	,	buna	``	iyon	kanalı	``	deniyor	.
+ve	bu	,	küçük	bir	protein	molekülü	.
+_UNK_	bundan	binlerce	var	.
+hücre	_UNK_	duruyor	ve	ortasında	bir	gözeneği	var	.
+bunlar	da	o	_UNK_	geçen	potasyum	_UNK_	.
+şimdi	,	bu	gözenek	açılıp	_UNK_	.
+ama	,	açık	olduğu	zaman	,	bu	iyonlar	sıraya	_UNK_	,	her	seferinde	bir	tanesi	geçebileceği	için	,	dağınık	düzensiz	bir	akış	var	.
+gözeneği	_UNK_	bile	--	ki	nöronlar	bunu	yapıyorlar	,	elektrik	aktivitesi	yaratmak	için	bu	_UNK_	açılıp	_UNK_	.	kapalı	olsa	bile	,	bu	iyonlar	çok	küçük	oldukları	için	,	bir	seferde	bir	kaç	tanesi	aradan	geçebilir	.
+yani	elimizde	şu	var	:	gözenek	açık	olduğu	zaman	,	düzensiz	de	olsa	bir	akım	var	.
+bu	sizin	``	1	``	iniz	,	ama	_UNK_	serpiştirilmiş	``	0	``	lar	da	var	.
+kapalı	olduğu	zaman	da	``	0	``	demek	,	ama	aralarda	``	1	``	ler	de	var	,	tamam	.
+şimdi	,	aynı	şey	_UNK_	de	olmaya	başlıyor	.
+bunun	olmasının	sebebi	de	,	şu	an	,	2007'de	,	_UNK_	teknolojiyle	ürettiğimiz	transistörler	,	içinden	çok	sayıda	elektronun	yan	yana	geçebileceği	kadar	büyükler	.
+aslında	,	yaklaşık	12	elektron	_UNK_	bu	şekilde	geçebiliyor	.
+bu	da	,	bir	transistörün	,	12	paralel	iyon	kanalına	denk	geldiği	anlamına	geliyor	.
+şimdi	,	bir	kaç	sene	içinde	,	2015'e	kadar	,	_UNK_	çok	_UNK_	.
+intel	,	_UNK_	daha	fazla	çekirdek	eklemek	için	bunu	yapıyor	.
+hafıza	_UNK_	1	gigabayt	veri	_UNK_	,	eskiden	bu	256	_UNK_	.
+bunun	olabilmesi	için	transistörler	gittikçe	küçülüyor	,	ve	teknoloji	bundan	gerçekten	de	faydalandı	.
+fakat	2015	yılında	,	transistörler	o	kadar	küçülmüş	olacak	ki	,	kanaldan	aynı	anda	sadece	bir	elektron	geçebilecek	,	ve	bu	da
+ve	iyon	kanalında	meydana	gelene	benzer	trafik	sıkışıklıkları	görmeye	başlıyorsunuz	,
+akım	açık	olması	gerekirken	bile	,	raslantısal	bir	şekilde	açılıp	kapanacak	.
+bu	yüzden	bilgisayarınız	``	1	``	ve	``	0	``	_UNK_	karıştıracak	,	ve	bu	da	_UNK_	sebep	olacak	.
+şimdi	,	bu	türden	cihazlarla	nasıl	hesap	yapacağımızı	bilemediğimiz	bir	noktadayız	.
+ve	bu	türden	cihazlarla	hesap	yapabilen	,	hesap	yapabildiğini	bildiğimiz	,	tek	şey	beyin	.
+tamam	,	o	halde	bilgisayar	_UNK_	bir	veri	parçası	alıyor	,	onu	işlemciye	ya	da	_UNK_	gönderiyor	,	ve	sonra	da	sonucu	_UNK_	geri	koyuyor	.
+beliren	kırmızı	renkli	yol	şeklinde	.
+beyinlerin	çalışmasında	,	bütün	bu	nöronlara	sahipsiniz	.
+ve	onların	bilgiyi	temsil	etme	şekli	verileri	kısa	bölümler	ve	farklı	nöronlar	tarafından	temsil	edilecek	şekilde	ufak	parçalar	haline	getirmek	.
+böylece	şebekenin	tamamına	dağıtılmış	bütün	veri	bölümlerine	sahipsiniz	.
+ve	sonra	verilerin	_UNK_	hedefe	_UNK_	izlenecek	yol	,	sizin	şebekenin	içindeki	akışı	sağlamanız	yoluyla	bu	aktivite	biçimini	yeni	bir	aktivite	biçimine	dönüştürmektir	.
+ve	bağlantıları	kurarsınız	,	giriş	paterni	ilerler	ve	çıkış	paterni	oluşur	.
+burada	gördüğünüz	bu	fazla	sayıdaki	bağlantıların	varlığıdır	.
+bir	kez	bu	data	parçası	ya	da	şu	data	parçası	_UNK_	kendini	burada	_UNK_	,	diğer	bağlantıların	yardımıyla	bu	iki	parça	ortada	görünmeyen	parçayı	aktive	eder	.
+böylece	bazen	bir	koyup	ta	sıfır	aldığınız	işe	yaramaz	aletlerle	_UNK_	bile	şebekede	fazladan	varolan	güç	kaybolan	bilgiyi	hakikaten	geri	getirir	.
+bu	beyni	doğal	açıdan	güçlü	kılar	.
+burada	verileri	bölgesel	olarak	depolayan	bir	sisteminiz	var	.
+ve	bu	sistem	hassastır	,	çünkü	bu	basamaklardan	her	biri	kusursuz	olmalıdır	,	aksi	taktirde	veriyi	kaybedersiniz	.	halbuki	beyinde	verileri	dağınık	biçimde	depolayan	bir	sisteme	sahipsiniz	,	ve	o	_UNK_	.
+benim	esas	olarak	anlatmak	istediğim	şey	beyin	gibi	çalışan	bir	bilgisayar	yapma	hayalim	.
+bu	son	iki	yıldır	üzerinde	çalıştığımız	bir	şey	.
+ve	size	retinayı	modellemek	için	geliştirdiğimiz	bir	sistem	göstermek	istiyorum	.	bu	da	göz	_UNK_	içine	doğru	uzanan	bir	parçacık	beyin	.
+biz	bunu	bilgisayarda	_UNK_	gibi	bir	kodlama	yazarak	yapmadık	.
+esasında	,	bu	ufak	beyin	_UNK_	_UNK_	bilgisayarların	internet	üzerinden	video	göndermelerine	çok	benzer	bir	_UNK_	.
+bilgileri	sıkıştırma	yoluyla	--	görüntüde	yeni	olana	ait	değişikliklerin	gönderilmesi	--	ve	bu	da	beyne	gönderilecek	bilginin	önce	göz	_UNK_	içinden	sıkışmış	olarak	görme	sinirine	aktarılması	gibi	bir	işleme	benzer	.
+bunları	yazılım	olarak	hazırlamak	ya	da	bir	takım	algoritmalar	yapmak	yerine	,	_UNK_	gittik	ve	onlarla	konuştuk	ki	onlar	esasında	retina	denilen	beyin	parçasında	bu	mühendisliği	sanki
+tersinden	yapan	ve	bütün	farklı	hücreleri	de	belirleyen	kişiler	oluyorlar	,	ve	şebekeyi	ortaya	koydular	,	biz	bu	şebekeyi	aldık	ve	bir	silikon	çipin	tasarımında	plan	olarak	kullandık	.
+böylelikle	artık	nöronlar	çipin	üzerinde	ufak	_UNK_	ya	da	_UNK_	halinde	temsil	ediliyorlar	,	ve	nöronların	arasındaki	bağlantılar	transistörler	tarafından	_UNK_	.
+ve	bu	transistörler	beyinde	iyon	kanalları	nasıl	davranıyorsa	öyle	davranıyorlar	.
+ve	o	_UNK_	aynı	özellikleri	gösteren	güvenli	bir	yapılanma	verecek	.
+burada	bizim	yapay	gözün	neye	benzediği	görülüyor	.
+tasarladığımız	retina	çipi	burada	lensin	arkasında	görülüyor	.
+ve	çip	--	size	bir	video	göstereceğim	silikon	retina	bu	çipi	tasarlayan	öğrenci	karem	_UNK_	baktığı	zaman	kendi	çıktısını	bozarak	değiştiriyor	.
+ne	göreceksiniz	açıklayayım	,	pekala	.	farklı	bilgilerle	çıktısını	değiştirdiği	için	o	sadece	bir	kamera	gibi	_UNK_	.
+çip	retina	dört	farklı	türden	bilgiyi	ayırıp	çıkarıyor	.
+koyu	renkli	alanları	ayırıyor	,	ki	bunlar	videoda	kırmızı	olarak	görünecek	.
+ve	beyaz	ya	da	açık	renkli	alanları	ayırıyor	,	ki	videoda	yeşil	olarak	görünecek	.
+bu	_UNK_	koyu	renkli	gözleri	ve	burada	görmüş	olduğunuz	da	beyaz	zemin	.
+ve	harekete	duyarlıdır	.
+kareem	başını	sağa	doğru	çevirdiği	zaman	mavi	aktiviteyi	görmüş	olacaksınız	.	bu	,	görüntüde	kontrastın	_UNK_	açığa	doğru	arttığı	alanları	temsil	ediyor	.
+ve	aynı	zamanda	kontrastın	_UNK_	_UNK_	doğru	azaldığı	bölgeleri	temsil	eden	sarı	aktiviteyi	göreceksiniz	.
+ve	bunlar	bilginin	dört	tipi	olmuş	oluyor	--	optik	_UNK_	içinde	bir	milyon	kadar	life	sahiptir	,	ve	bu	liflerin	_UNK_	'	i	bu	dört	çeşit	bilgiyi	iletir	.
+böylece	biz	gerçekten	optik	_UNK_	sinyallerin	kopyasını	yapmış	oluyoruz	.
+burada	retina	çipin	_UNK_	alınan	_UNK_	görüntülerin	çok	dağınık	olduğunu	farkediyorsunuz	.
+zeminin	her	yerinde	yeşil	renk	parlamıyor	,	sadece	kenarlarda	,	ve	bu	böyle	devam	ediyor	.
+i̇nsanlar	göndermek	için	videoyu	sıkıştırdıkları	zaman	bakın	aynı	şeyi	görüyorsunuz	:	dosya	küçük	olduğundan	dağınık	yapmak	istiyorlar	..	ve	bu	da	retinanın	yaptığı	gibi	bir	iş	,	ve	onu	bir	devre	içinde	yapıyor	,	ve	orada	nöronlar	şebeke	içinde	nasıl	bir	iletişime	_UNK_	,	biz	bunu	çip	üzerinde	başardık	.
+ama	ben	göstermek	istediğim	noktayı	size	burada	göstereceğim	.
+buradaki	görüntü	diğerlerine	benzeyecek	,	ama	burada	size	göstermek	istediğim	şey	bunu	yeniden	_UNK_	,	_UNK_	üst	bölümde	herhalde	tanıyacaksınız	.
+i̇şte	böyle	.
+evet	,	aynı	zamanda	fikri	de	.
+biraz	devam	ederseniz	açık	ve	koyu	_UNK_	da	göreceksiniz	.
+ama	öne	ve	arkaya	hareket	ettiği	zaman	,	retina	bu	değişimleri	de	yakalar	.
+ve	bilirsiniz	ki	,	burada	oturduğunuz	zaman	sizin	_UNK_	bir	şeyler	olursa	,	sadece	ona	doğru	gözlerinizi	hareket	_UNK_	.
+değişimi	belirleyen	hücreler	vardır	ve	siz	dikkatinizin	yönünü	ona	doğru	değiştirirsiniz	.
+ve	bunlar	size	gizlice	yaklaşmak	isteyenleri	farketmeniz	için	çok	önemlidir	.
+bitirirken	söylemek	isterim	ki	,	afrika'yı	piyano	içine	koyarsanız	,	bu	gerçekleşir	.
+bu	bir	geliştirilmiş	çelikten	davul	ve	bu	da	afrika'yı	piyano	içine	koyduğunuz	zaman	olan	.
+ve	bizlerin	yapmasını	istediğim	şey	afrika'yı	bilgisayar	içine	koyup	,	düşünce	,	hayal	üreten	,	yaratıcı	olan	ve	bu	gibi	şeyleri	yapan	yeni	tür	bir	bilgisayarla	ortaya	çıkmak	.
+teşekkür	ederim
+chris	anderson	:	sana	bir	soru	,	kwabena	.
+zihninde	,	yaptığın	çalışmaları	,	afrika'nın	geleceğini	,	bu	konferansı	--	biraraya	_UNK_	ne	tür	bağlantılar	yapabiliriz	,	eğer	varsa	,	aralarında	?
+kwabena	boahen	:	evet	,	başlangıçta	da	söylediğim	gibi	.	i̇lk	bilgisayarımı	gençliğimde	,	accra'da	büyürken	aldım	.
+ve	bunu	yapmamın	doğru	olmadığını	belirten	acımasız	bir	tepki	aldım	.
+acımasızca	ve	_UNK_	.
+eğer	bütün	bu	bilim	kurguyu	okuyarak	,	_UNK_	2d	``	yi	duyarak	ve	ne	_UNK_	_UNK_	--	size	kalmış	--	bilgisayarlar	hakkındaki	ucuz	reklamlardan	etkilenerek	büyümüş	olsaydım	bu	tür	bir	tepkiyi	_UNK_	.
+ben	farklı	bir	görüş	açısından	geliyordum	,	bu	görüş	açısını	problemin	çözümü	için	_UNK_	.
+ve	bana	göre	afrika'daki	bir	çok	insan	bu	farklı	görüş	açısına	sahip	ve	bunun	teknolojiyi	etkileyeceğini	düşünüyorum	.
+ve	bu	etkilenme	onun	nasıl	_UNK_	doğrultusunda	olacak	.
+ve	bu	etkileşimin	yeni	sonuçlara	yol	açacağını	görebileceksiniz	.	çünkü	siz	farklı	bir	görüş	açısından	geliyorsunuz	.
+biz	de	herkes	gibi	katkıda	bulunabiliriz	,	hayal	edebiliriz	.
+chris	anderson	:	teşekkürler	kwabena	,	gerçekten	çok	ilginçti	.
+teşekkür	ederim	.
+

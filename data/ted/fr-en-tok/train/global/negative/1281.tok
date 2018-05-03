@@ -1,0 +1,41 @@
+laissez	-	moi	vous	présenter	rezero	.
+ce	petit	ami	a	été	développé	par	un	groupe	de	10	étudiants	du	laboratoire	des	systèmes	autonomes	à	l'école	polytechnique	fédérale	de	zurich	.
+notre	robot	appartient	à	une	famille	de	robots	qui	s'appelle	_UNK_	.
+a	la	place	des	roues	,	un	ballbot	se	tient	en	équilibre	et	se	déplace	sur	une	boule	.
+la	principale	caractéristique	de	ce	système	est	qu'il	y	a	qu'un	seul	point	de	contact	avec	le	sol	.
+cela	signifie	que	le	robot	est	en	soi	instable	.
+c'est	un	peu	comme	si	je	devais	me	tenir	sur	un	pied	.
+vous	pourriez	vous	demander	,	quelle	est	l'utilité	d'un	robot	instable	?
+nous	allons	vous	l'expliquer	tout	de	suite	.
+avant	tout	,	laissez	-	moi	vous	expliquer	comment	rezero	se	tient	en	fait	en	équilibre	.
+rezero	se	tient	en	équilibre	en	mesurant	constamment	son	inclinaison	avec	un	détecteur	.
+ensuite	il	se	_UNK_	et	évite	de	basculer	en	utilisant	ses	moteurs	de	façon	appropriée	.
+ça	se	produit	160	fois	par	seconde	,	et	si	quelque	chose	ne	marche	pas	dans	le	processus	,	rezero	tombe	immédiatement	par	terre	.
+pour	se	déplacer	et	se	tenir	en	équilibre	,	rezero	doit	tourner	la	boule	.
+la	boule	est	_UNK_	par	trois	roues	spéciales	qui	permettent	à	rezero	de	se	déplacer	dans	n'importe	quelle	direction	et	se	déplacer	également	sur	son	axe	en	même	temps	.
+a	cause	de	son	instabilité	,	rezero	est	toujours	en	mouvement	.	voici	le	secret	.
+c'est	précisément	cette	instabilité	qui	permet	au	robot	de	se	déplacer	de	manière	très	dynamique	.
+jouons	un	peu	.
+vous	vous	êtes	peut	-	être	demandé	ce	qui	se	passerait	si	je	_UNK_	un	peu	le	robot	.
+dans	ce	mode	,	il	essaye	de	maintenir	sa	position	.
+pour	la	prochaine	démo	,	j'aimerais	vous	présenter	mes	collègues	michael	,	à	l'ordinateur	,	et	thomas	qui	me	donne	un	coup	de	main	sur	scène	.
+dans	le	mode	suivant	,	rezero	est	passif	,	et	nous	pouvons	le	déplacer	.
+presque	sans	aucune	force	je	peux	contrôler	sa	position	et	sa	vitesse	.
+je	peux	même	le	faire	tourner	.
+dans	le	mode	suivant	,	nous	pouvons	le	faire	suivre	une	personne	.
+là	il	maintient	une	distance	constante	avec	thomas	.
+ça	marche	avec	un	détecteur	laser	monté	au	sommet	de	rezero	.
+avec	la	même	méthode	,	nous	pouvons	aussi	le	faire	tourner	autour	d'une	personne	.
+nous	appelons	cela	le	mode	_UNK_	.
+très	bien	,	merci	,	thomas	.
+quelle	est	l'utilité	de	cette	technologie	?
+pour	l'instant	,	c'est	une	expérience	mais	laissez	-	moi	vous	montrer	quelques	applications	futures	possibles	.
+rezero	pourrait	être	utilisé	dans	des	expositions	ou	des	parcs	.
+avec	un	écran	il	pourrait	informer	les	personnes	ou	les	faire	visiter	de	manière	amusante	et	divertissante	.
+dans	un	hôpital	,	cet	appareil	pourrait	être	utilisé	pour	transporter	les	équipements	médicaux	.
+grâce	au	système	ballbot	,	il	a	un	faible	_UNK_	et	se	déplace	facilement	.
+et	bien	sûr	,	qui	ne	_UNK_	pas	faire	un	tour	sur	un	de	ces	appareils	.
+ce	sont	des	applications	plus	pratiques	.
+mais	il	y	a	aussi	une	certaine	beauté	dans	cette	technologie	.
+merci	.
+

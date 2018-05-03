@@ -1,0 +1,110 @@
+the	idea	 be 	 hind 	 	the	stuxnet	computer	worm	is	 actual 	 ly 	 	 quit 	 e 	 	simple	.
+we	do	n't	want	iran	to	get	the	bomb	.
+ the 	 ir 	 	major	asset	for	 develop 	 ing 	 	nuclear	 weapon 	 s 	 	is	the	natanz	 ur 	 an 	 ium 	 	 enrich 	 ment 	 	 facil 	 ity 	 	.
+the	gray	boxes	that	you	see	,	these	are	real	-	time	control	 system 	 s 	 	.
+now	if	we	manage	to	 com 	 promise 	 	these	 system 	 s 	 	that	control	drive	 speed 	 s 	 	and	 val 	 ves 	 	,	we	can	 actual 	 ly 	 	cause	a	lot	of	 problem 	 s 	 	with	the	 cent 	 rifuge 	 	.
+the	gray	boxes	do	n't	run	 window 	 s 	 	 soft 	 ware 	 	;	they	are	a	 complete 	 ly 	 	different	technology	.
+but	if	we	manage	to	place	a	good	 window 	 s 	 	virus	on	a	 note 	 book 	 	that	is	used	by	a	maintenance	engineer	to	 configu 	 re 	 	 th 	 is 	 	gray	box	,	then	we	are	in	business	.
+and	 th 	 is 	 	is	the	plot	 be 	 hind 	 	stuxnet	.
+so	we	start	with	a	 window 	 s 	 	dropper	.
+the	 pay 	 load 	 	 go 	 es 	 	onto	the	gray	box	,	 damage 	 s 	 	the	 cent 	 rifuge 	 	,	and	the	iranian	nuclear	program	is	 delay 	 ed 	 	--	mission	 accomplish 	 ed 	 	.
+that	's	easy	,	huh	?
+i	want	to	tell	you	how	we	found	that	out	.
+when	we	 start 	 ed 	 	our	research	on	stuxnet	six	 month 	 s 	 	ago	,	it	was	 complete 	 ly 	 	 un 	 known 	 	what	the	purpose	of	 th 	 is 	 	thing	was	.
+the	 on 	 ly 	 	thing	that	was	known	is	it	's	 ver 	 y 	 	,	 ver 	 y 	 	complex	on	the	 window 	 s 	 	part	,	the	dropper	part	,	used	 multi 	 ple 	 	zero	-	day	 vulner 	 abilities 	 	.
+and	it	 seem 	 ed 	 	to	want	to	do	 some 	 thing 	 	with	these	gray	boxes	,	these	real	-	time	control	 system 	 s 	 	.
+so	that	got	our	attention	,	and	we	 start 	 ed 	 	a	lab	project	where	we	 infect 	 ed 	 	our	environment	with	stuxnet	and	 check 	 ed 	 	 th 	 is 	 	thing	out	.
+and	then	some	 ver 	 y 	 	funny	 thing 	 s 	 	 happen 	 ed 	 	.
+stuxnet	 behav 	 ed 	 	like	a	lab	rat	that	did	n't	like	our	cheese	--	_UNK_	,	but	did	n't	want	to	eat	.
+did	n't	make	sense	to	me	.
+and	after	we	 experiment 	 ed 	 	with	different	 flavor 	 s 	 	of	cheese	,	i	 real 	 ized 	 	,	well	,	 th 	 is 	 	is	a	 direct 	 ed 	 	attack	.
+it	's	 complete 	 ly 	 	 direct 	 ed 	 	.
+the	dropper	is	_UNK_	 active 	 ly 	 	on	the	gray	box	if	a	specific	 configu 	 ration 	 	is	found	,	and	even	if	the	actual	program	code	that	it	's	 try 	 ing 	 	to	infect	is	 actual 	 ly 	 	running	on	that	target	.
+and	if	not	,	stuxnet	 do 	 es 	 	 noth 	 ing 	 	.
+so	that	 re 	 ally 	 	got	my	attention	,	and	we	 start 	 ed 	 	to	work	on	 th 	 is 	 	 near 	 ly 	 	around	the	clock	,	 be 	 cause 	 	i	thought	,	``	well	,	we	do	n't	know	what	the	target	is	.
+it	could	be	,	let	's	say	for	 ex 	 ample 	 	,	a	u.s.	power	plant	,	or	a	chemical	plant	in	germany	.
+so	we	better	find	out	what	the	target	is	soon	.	``
+so	we	 extra 	 cted 	 	and	_UNK_	the	attack	code	,	and	we	 discover 	 ed 	 	that	it	's	 structure 	 d 	 	in	two	digital	 bomb 	 s 	 	--	a	 small 	 er 	 	one	and	a	 big 	 ger 	 	one	.
+and	we	 al 	 so 	 	saw	that	they	are	 ver 	 y 	 	 professional 	 ly 	 	engineered	by	people	who	 obvious 	 ly 	 	had	all	 insid 	 er 	 	information	.
+they	 k 	 new 	 	all	the	bits	and	 bite 	 s 	 	that	they	had	to	attack	.
+they	 prob 	 ably 	 	even	know	the	shoe	 s 	 ize 	 	of	the	 oper 	 ator 	 	.
+so	they	know	 every 	 thing 	 	.
+and	if	you	have	heard	that	the	dropper	of	stuxnet	is	complex	and	high	-	tech	,	let	me	tell	you	 th 	 is 	 	:	the	 pay 	 load 	 	is	rocket	science	.
+it	's	way	above	 every 	 thing 	 	that	we	have	ever	 s 	 een 	 	before	.
+here	you	see	a	 s 	 ample 	 	of	 th 	 is 	 	actual	attack	code	.
+we	are	 talk 	 ing 	 	about	--	around	about	15,000	lines	of	code	.
+ look 	 s 	 	 pre 	 tty 	 	much	like	old	-	style	 assem 	 bly 	 	language	.
+and	i	want	to	tell	you	how	we	 we 	 re 	 	able	to	make	sense	out	of	 th 	 is 	 	code	.
+so	what	we	 we 	 re 	 	looking	for	is	,	first	of	all	,	system	function	 call 	 s 	 	,	 be 	 cause 	 	we	know	what	they	do	.
+and	then	we	 we 	 re 	 	looking	for	 timer 	 s 	 	and	data	 structure 	 s 	 	and	 try 	 ing 	 	to	 re 	 late 	 	them	to	the	real	world	--	to	potential	real	world	 target 	 s 	 	.
+so	we	do	need	target	 the 	 ories 	 	that	we	can	prove	or	 dis 	 prove 	 	.
+in	order	to	get	target	 the 	 ories 	 	,	we	remember	that	it	's	 definite 	 ly 	 	 hard 	 core 	 	sabotage	,	it	must	be	a	high	-	value	target	and	it	is	most	 like 	 ly 	 	 locate 	 d 	 	in	iran	,	 be 	 cause 	 	that	's	where	most	of	the	 infect 	 ions 	 	had	 be 	 en 	 	 report 	 ed 	 	.
+now	you	do	n't	find	 s 	 ever 	 al 	 	thousand	 target 	 s 	 	in	that	area	.
+it	 bas 	 ically 	 	 boil 	 s 	 	down	to	the	_UNK_	nuclear	power	plant	and	to	the	natanz	fuel	 enrich 	 ment 	 	plant	.
+so	i	told	my	 assist 	 ant 	 	,	``	get	me	a	list	of	all	 cent 	 rifuge 	 	and	power	plant	 expert 	 s 	 	from	our	client	base	.	``
+and	i	 phone 	 d 	 	them	up	and	 pick 	 ed 	 	 the 	 ir 	 	brain	in	an	effort	to	match	 the 	 ir 	 	 expert 	 ise 	 	with	what	we	found	in	code	and	data	.
+and	that	 work 	 ed 	 	 pre 	 tty 	 	well	.
+so	we	 we 	 re 	 	able	to	associate	the	small	digital	 war 	 head 	 	with	the	rotor	control	.
+the	rotor	is	that	moving	part	 with 	 in 	 	the	 cent 	 rifuge 	 	,	that	black	object	that	you	see	.
+and	if	you	 manipul 	 ate 	 	the	speed	of	 th 	 is 	 	rotor	,	you	are	 actual 	 ly 	 	able	to	crack	the	rotor	and	 event 	 ual 	 ly 	 	even	have	the	 cent 	 rifuge 	 	explode	.
+what	we	 al 	 so 	 	saw	is	that	the	goal	of	the	attack	was	 re 	 ally 	 	to	do	it	 s 	 low 	 ly 	 	and	 creep 	 y 	 	--	 obvious 	 ly 	 	in	an	effort	to	drive	maintenance	 engineer 	 s 	 	crazy	,	that	they	would	not	be	able	to	figure	 th 	 is 	 	out	 quick 	 ly 	 	.
+the	big	digital	 war 	 head 	 	--	we	had	a	shot	at	 th 	 is 	 	by	looking	 ver 	 y 	 	 close 	 ly 	 	at	data	and	data	 structure 	 s 	 	.
+so	for	 ex 	 ample 	 	,	the	number	164	 re 	 ally 	 	 stand 	 s 	 	out	in	that	code	;	you	ca	n't	overlook	it	.
+i	 start 	 ed 	 	to	research	scientific	 liter 	 ature 	 	on	how	these	centrifuges	are	 actual 	 ly 	 	built	in	natanz	and	found	they	are	 structure 	 d 	 	in	what	is	 call 	 ed 	 	a	 cascad 	 e 	 	,	and	each	 cascad 	 e 	 	 hold 	 s 	 	164	centrifuges	.
+so	that	made	sense	,	that	was	a	match	.
+and	it	even	got	better	.
+these	centrifuges	in	iran	are	subdivided	 in 	 to 	 	15	,	what	is	 call 	 ed 	 	,	 stage 	 s 	 	.	and	guess	what	we	found	in	the	attack	code	?
+an	 al 	 most 	 	 ident 	 ical 	 	structure	.
+so	 aga 	 in 	 	,	that	was	a	real	good	match	.
+and	 th 	 is 	 	 g 	 ave 	 	us	 ver 	 y 	 	high	confidence	for	what	we	 we 	 re 	 	looking	at	.
+now	do	n't	get	me	wrong	here	,	it	did	n't	go	like	 th 	 is 	 	.
+these	 result 	 s 	 	have	 be 	 en 	 	 obtain 	 ed 	 	over	 s 	 ever 	 al 	 	 week 	 s 	 	of	 re 	 ally 	 	hard	labor	.
+and	we	often	went	 in 	 to 	 	just	a	dead	end	and	had	to	 re 	 cover 	 	.
+ any 	 way 	 	,	so	we	 figur 	 ed 	 	out	that	both	digital	 war 	 head 	 s 	 	 we 	 re 	 	 actual 	 ly 	 	 aim 	 ing 	 	at	one	and	the	same	target	,	but	from	different	 angle 	 s 	 	.
+the	small	 war 	 head 	 	is	taking	one	 cascad 	 e 	 	,	and	 s 	 pinning 	 	up	the	 rotor 	 s 	 	and	 s 	 low 	 ing 	 	them	down	,	and	the	big	 war 	 head 	 	is	 talk 	 ing 	 	to	six	 cascad 	 es 	 	and	 manipul 	 ating 	 	 val 	 ves 	 	.
+so	in	all	,	we	are	 ver 	 y 	 	confident	that	we	have	 actual 	 ly 	 	 determine 	 d 	 	what	the	target	is	.
+it	is	natanz	,	and	it	is	 on 	 ly 	 	natanz	.
+so	we	do	n't	have	to	worry	that	other	 target 	 s 	 	might	be	hit	by	stuxnet	.
+here	's	some	 ver 	 y 	 	cool	stuff	that	we	saw	--	 re 	 ally 	 	 knock 	 ed 	 	my	 sock 	 s 	 	off	.
+down	there	is	the	gray	box	,	and	on	the	top	you	see	the	centrifuges	.
+now	what	 th 	 is 	 	thing	 do 	 es 	 	is	it	intercepts	the	 in 	 put 	 	 value 	 s 	 	from	 sensor 	 s 	 	--	so	for	 ex 	 ample 	 	,	from	pressure	 sensor 	 s 	 	and	vibration	 sensor 	 s 	 	--	and	it	 provide 	 s 	 	legitimate	program	code	,	which	is	still	running	 dur 	 ing 	 	the	attack	,	with	fake	 in 	 put 	 	data	.
+and	 a 	 s 	 	a	matter	of	fact	,	 th 	 is 	 	fake	 in 	 put 	 	data	is	 actual 	 ly 	 	prerecorded	by	stuxnet	.
+so	it	's	just	like	from	the	hollywood	 movie 	 s 	 	where	 dur 	 ing 	 	the	 he 	 ist 	 	,	the	 observ 	 ation 	 	camera	is	fed	with	prerecorded	video	.
+that	's	cool	,	huh	?
+the	idea	here	is	 obvious 	 ly 	 	not	 on 	 ly 	 	to	fool	the	 oper 	 ators 	 	in	the	control	room	.	it	 actual 	 ly 	 	is	much	more	 danger 	 ous 	 	and	 aggress 	 ive 	 	.
+the	idea	is	to	 circum 	 vent 	 	a	digital	 safe 	 ty 	 	system	.
+we	need	digital	 safe 	 ty 	 	 system 	 s 	 	where	a	human	 oper 	 ator 	 	could	not	act	quick	 en 	 ough 	 	.
+so	for	 ex 	 ample 	 	,	in	a	power	plant	,	when	your	big	 s 	 team 	 	turbine	 get 	 s 	 	too	over	speed	,	you	must	open	relief	 val 	 ves 	 	 with 	 in 	 	a	 milli 	 second 	 	.
+ obvious 	 ly 	 	,	 th 	 is 	 	can	not	be	 d 	 one 	 	by	a	human	 oper 	 ator 	 	.
+so	 th 	 is 	 	is	where	we	need	digital	 safe 	 ty 	 	 system 	 s 	 	.
+and	when	they	are	 com 	 promise 	 d 	 	,	then	real	bad	 thing 	 s 	 	can	happen	.
+your	plant	can	blow	up	.
+and	 n 	 either 	 	your	 oper 	 ators 	 	nor	your	 safe 	 ty 	 	system	will	notice	it	.
+that	's	 scar 	 y 	 	.
+but	it	 get 	 s 	 	 wo 	 rse 	 	.
+and	 th 	 is 	 	is	 ver 	 y 	 	 import 	 ant 	 	,	what	i	'm	going	to	say	.	think	about	 th 	 is 	 	:
+ th 	 is 	 	attack	is	generic	.
+it	 do 	 es 	 	n't	have	 any 	 thing 	 	to	do	,	in	 specific 	 s 	 	,	with	centrifuges	,	with	 ur 	 an 	 ium 	 	 enrich 	 ment 	 	.
+so	it	would	work	 a 	 s 	 	well	,	for	 ex 	 ample 	 	,	in	a	power	plant	or	in	an	 auto 	 mobile 	 	 factor 	 y 	 	.
+it	is	generic	.
+and	you	do	n't	have	--	 a 	 s 	 	an	 attack 	 er 	 	--	you	do	n't	have	to	deliver	 th 	 is 	 	 pay 	 load 	 	by	a	usb	stick	,	 a 	 s 	 	we	saw	it	in	the	case	of	stuxnet	.
+you	could	 al 	 so 	 	use	 convention 	 al 	 	worm	technology	for	 spread 	 ing 	 	.
+just	spread	it	 a 	 s 	 	wide	 a 	 s 	 	possible	.
+and	if	you	do	that	,	what	you	end	up	with	is	a	cyber	weapon	of	mass	 destruct 	 ion 	 	.
+that	's	the	 con 	 sequence 	 	that	we	have	to	face	.
+so	 un 	 fortunate 	 ly 	 	,	the	 big 	 gest 	 	number	of	 target 	 s 	 	for	 s 	 uch 	 	 attack 	 s 	 	are	not	in	the	middle	east	.
+they	're	in	the	 unit 	 ed 	 	 state 	 s 	 	and	europe	and	in	japan	.
+so	all	of	the	green	 area 	 s 	 	,	these	are	your	target	-	rich	 environment 	 s 	 	.
+we	have	to	face	the	 con 	 sequence 	 s 	 	,	and	we	better	start	to	 prep 	 are 	 	right	now	.
+ thank 	 s 	 	.
+chris	anderson	:	i	've	got	a	question	.
+ralph	,	it	's	 be 	 en 	 	 quit 	 e 	 	 wide 	 ly 	 	 report 	 ed 	 	that	people	 assum 	 e 	 	that	mossad	is	the	main	 ent 	 ity 	 	 be 	 hind 	 	 th 	 is 	 	.
+is	that	your	opinion	?
+ralph	langner	:	 ok 	 a 	 y 	 	,	you	 re 	 ally 	 	want	to	hear	that	?
+ yea 	 h 	 	.	 ok 	 a 	 y 	 	.
+my	opinion	is	that	the	mossad	is	 involve 	 d 	 	,	but	that	the	 lead 	 ing 	 	force	is	not	israel	.
+so	the	 lead 	 ing 	 	force	 be 	 hind 	 	that	is	the	cyber	 super 	 power 	 	.
+there	is	 on 	 ly 	 	one	,	and	that	's	the	 unit 	 ed 	 	 state 	 s 	 	--	 fortunate 	 ly 	 	,	 fortunate 	 ly 	 	.
+ be 	 cause 	 	 other 	 wise 	 	,	our	 problem 	 s 	 	would	even	be	 big 	 ger 	 	.
+ca	:	thank	you	for	 scar 	 ing 	 	the	living	_UNK_	out	of	us	.	thank	you	,	ralph	.
+

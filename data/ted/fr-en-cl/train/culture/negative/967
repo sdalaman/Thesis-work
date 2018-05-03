@@ -1,0 +1,199 @@
+nous vivons à une époque remarquable , l'âge de la génomique .
+votre génome est la séquence intégrale de votre adn .
+votre séquence et la mienne sont légèrement différentes .
+c'est pour cela que nous ne nous ressemblons pas .
+j'ai les yeux bruns .
+les vôtres sont peut - être bleus ou gris .
+mais cela ne concerne pas seulement ce qui se voit à l'oeil nu .
+les gros titres des journaux nous apprennent que ce sont les gènes qui sont responsables de maladies effrayantes , qui peut - être même modèlent notre personnalité , ou qui causent des désordres mentaux .
+nos gènes semblent posséder une emprise phénoménale sur nos destins .
+et pourtant , je voudrais penser que je suis plus que mes gènes .
+vous en pensez quoi ?
+vous êtes aussi plus que vos gènes ?
+oui ?
+je pense que certains sont d'accord avec moi .
+je pense que nous devrions le _UNK_ .
+je pense que nous devrions le dire tous ensemble .
+allez : " je suis plus que mes gènes " -- tous ensemble .
+tout le monde : je suis plus que mes gènes .
+sebastian seung : qu'est - ce que je suis ?
+je suis mon connectome .
+bon , comme vous êtes vraiment supers , vous pourriez peut - être me faire plaisir et le dire tous ensemble aussi .
+voilà . tous ensemble maintenant .
+tout le monde : je suis mon connectome .
+ss : c'était super bien .
+vous savez quoi , vous êtes vraiment supers , parce que vous n'avez aucune idée de ce qu'est un connectome mais vous jouez quand même le jeu avec moi .
+je n'ai plus qu'à rentrer chez moi maintenant .
+en fait , pour le moment on ne connaît qu'un seul connectome , celui de ce minuscule vers .
+son système nerveux très modeste ne contient que 300 neurones .
+et dans les années 1970 et 80 , une équipe de scientifiques a cartographié les 7000 connexions entre chaque neurone .
+dans ce schéma , chaque noeud est un neurone , et chaque ligne une connexion .
+voici le connectome du vers c. elegans .
+votre connectome est bien plus complexe que cela , car votre cerveau contient 100 milliards de neurones et 10 000 fois autant de connexions .
+il y a un schéma comme celui - ci pour votre cerveau mais il n'y a aucune chance qu'il rentre sur cette diapo .
+votre connectome contient un million de fois plus de connexions que ce que votre génome a de lettres .
+ca fait beaucoup d'informations .
+qu'y a - t - il dans cette information ?
+nous n'en sommes pas sûrs , mais nous avons des théories .
+depuis le 19ème siècle , les neuro - scientifiques imaginent que peut - être vos souvenirs -- cette information qui fait que vous êtes qui vous êtes -- peut - être que vos souvenirs sont stockés dans les connexions entre les neurones de votre cerveau .
+et peut - être que d'autres aspects de votre identité -- peut - être votre personnalité et votre intelligence -- peut - être sont - ils aussi encodés dans les connexions entre les neurones .
+maintenant vous comprenez pourquoi j'ai proposé cette hypothèse : je suis mon connectome .
+je ne vous ai pas demandé de le scander parce que c'est vrai , je veux juste que vous vous en rappeliez .
+en fait , nous ne savons pas si cette hypothèse est correcte , parce que nous n'avons pas encore de technologie assez puissante pour la mettre à l'épreuve .
+trouver le connectome de ce vers équivaut à plus d'une douzaine d'années de travail acharné .
+et pour trouver les connectomes de cerveaux qui s'approchent davantage des nôtres , nous avons besoin de technologies plus sophistiquées , _UNK_ , qui _UNK_ la vitesse du processus qui permet de trouver des connectomes .
+et , dans les minutes à venir , je vais vous parler un peu de ces technologies qui sont actuellement en cours de développement dans mon labo et dans les labos de mes collaborateurs .
+bon , vous avez probablement déjà vu des images de neurones par le passé .
+vous les reconnaissez instantanément à leur forme fantastique .
+ils déploient de longues et délicates branches et , pour faire court , ils ressemblent à des arbres .
+mais il ne s'agit là que d'un seul neurone .
+pour trouver les connectomes , nous devons regarder tous les neurones en même temps .
+laissez - moi vous présenter bobby _UNK_ qui travaille dans le laboratoire de jeff _UNK_ à harvard .
+bobby s'occupe des tranches extrêmement fines du cerveau d'une souris .
+nous agrandissons l'image 100 000 fois pour obtenir la résolution qui nous permet de voir toutes les branches du neurone en une seule fois .
+sauf qu'il est possible que vous ne puissiez toujours pas les reconnaître et c'est parce qu'il est nécessaire de travailler en trois dimensions .
+si on prend plusieurs images de plusieurs tranches du cerveau et si on les empile , on obtient une image tri - dimensionnelle .
+et pourtant , il est possible que vous ne voyiez toujours pas les branches .
+donc on commence par en haut , et on colore en rouge la coupe transversale d'une branche .
+on fait pareil pour la tranche d'après , et celle d'après .
+et on continue de faire ça , tranche après tranche .
+si on continue comme ça pour toute la pile , on peut reconstruire la forme en trois dimensions d'un petit fragment de la branche d'un neurone .
+on peut faire la même chose pour un autre neurone en vert .
+vous pouvez voir que le neurone vert touche le neurone rouge à deux endroits , et c'est là ce qu'on appelle les synapses .
+agrandissons une synapse .
+et fixez attentivement l'intérieur du neurone vert .
+vous devriez voir des petits cercles .
+c'est ce qu'on appelle les _UNK_ .
+elles contiennent une molécule qu'on appelle un neurotransmetteur .
+ainsi quand le neurone vert veut communiquer , qu'il veut envoyer un message au neurone rouge , il lâche des neurotransmetteurs .
+au niveau de la synapse , les deux neurones sont connectés comme deux amis qui parleraient au téléphone .
+vous voyez donc comment trouver une synapse .
+comment fait - on pour trouver un connectome entier ?
+eh bien on prend cette pile d'images en trois dimensions et on la traite comme un livre de _UNK_ tridimensionnel géant .
+on colorie chaque neurone avec une couleur différente et puis on regarde à travers toutes ces images , on trouve les synapses et on note les couleurs des deux neurones impliqués dans chaque synapse .
+si on peut faire ça pour toutes les images , on doit pouvoir trouver un connectome .
+bien , arrivés à ce point , vous avez appris ce qu'il y a _UNK_ à savoir sur les neurones et les synapses .
+je pense donc que nous sommes prêts à aborder l'une des questions les plus importantes de la neuroscience : en quoi les cerveau des hommes et des femmes sont - ils différents ?
+si on en croit ce livre de développement personnel , les cerveaux des hommes sont comme des gaufres ; leur vie est comme compartimentée dans des boîtes .
+le cerveau des filles ressemble aux spaghettis ; tout dans leur vie est connecté à quelque chose d'autre .
+vous riez mais , vous savez , ce livre a changé ma vie .
+non mais sérieusement , qu'est - ce qui cloche ici ?
+vous en savez déjà assez pour me le dire . pourquoi cette idée est - elle fausse ?
+peu importe que vous soyez un garçon ou une fille , tous les cerveaux sont comme des spaghettis .
+ou alors des _UNK_ vraiment très fins , avec des branches .
+exactement de la même façon qu'un brin de spaghetti est en contact avec plein d'autres brins dans votre assiette , un neurone touche plein d'autres neurones grâce à leurs branches , emmêlées les unes aux autres .
+un neurone peut être connecté à beaucoup d'autres neurones parce que des synapses peuvent apparaître à ces points de contact .
+il se peut que vous n'ayez plus trop conscience à ce stade de la taille de ce cube de tissu cérébral .
+je vous propose donc de faire une série de comparaisons pour vous montrer .
+je vais vous montrer . ca , c'est vraiment minuscule . seulement six microns sur un côté .
+là vous voyez comment ça _UNK_ dans un neurone entier .
+et vous pouvez voir que , vraiment , seuls les plus petits fragments des branches sont contenus dans ce cube .
+et un neurone , eh bien c'est plus petit qu'un cerveau .
+et il ne s'agit là que du cerveau d'une souris .
+c'est bien plus petit qu'un cerveau humain .
+du coup quand j'ai montré ça à mes amis ils m'ont parfois dit " tu sais , sebastian , tu devrais simplement abandonner .
+il n'y a pas d'espoir en neuroscience . "
+parce que si vous observez votre cerveau à l'oeil nu , vous ne vous rendez pas vraiment compte à quel point c'est complexe , mais quand vous utilisez un microscope , cette complexité qui se cachait est révélée . "
+au 17ème siècle , blaise pascal , mathématicien et philosophe , a écrit sur sa peur de l'infini , son sentiment de vanité quand il contemple " le silence éternel de ces espaces infinis " .
+en tant que scientifique , je ne suis pas supposé parler de mes sentiments .
+trop d'informations , professeur .
+mais pourquoi pas ?
+je ressens une vraie curiosité , et une vraie envie de comprendre mais parfois je ressens aussi du désespoir .
+pourquoi ai - je choisi d'étudier cet organe , si formidable dans sa complexité , qu'il pourrait bien être infini ?
+c'est absurde .
+comment pourrions - nous même oser penser que nous arriverons un jour à comprendre cela ?
+et pourtant , je m'obstine à lutter contre des moulins à vent .
+et de fait , _UNK_ depuis peu de nouveaux espoirs .
+un jour , un équipement de microscopes _UNK_ chaque neurone et chaque synapse et le _UNK_ dans une énorme base de données d'images .
+et un jour , des super ordinateurs à intelligence artificielle _UNK_ les images sans l'aide des humains pour les synthétiser en un connectome .
+je ne sais pas si cela sera possible , mais j'espère que je vivrai assez longtemps pour voir ce jour .
+parce que trouver un connectome humain en _UNK_ est l'un des plus grands défis technologiques de tous les temps .
+cela demandera le travail de plusieurs générations pour y arriver .
+actuellement , mes collaborateurs et moi - même , visons quelque chose de bien plus modeste -- seulement trouver des connectomes _UNK_ de petits morceaux de cerveaux de souris et d'humains .
+mais même cela suffirait pour les premières mises à l'épreuve de l'hypothèse qui affirme que je suis mon connectome .
+pour le moment , laissez - moi vous convaincre de la plausibilité de cette hypothèse , et qu'elle vaut vraiment la peine qu'on la prenne au sérieux .
+pendant que vous grandissez dans votre enfance et que vous _UNK_ à l'âge adulte , votre identité change doucement .
+de même , chaque connectome change à travers le temps .
+de quelle sorte de changements s'agit - il ?
+eh bien , les neurones , comme les arbres , peuvent avoir de nouvelles branches qui poussent et en perdre des anciennes .
+des synapses peuvent être créées puis éliminées .
+et les synapses peuvent _UNK_ et rapetisser .
+deuxième question : qu'est - ce qui cause ces changements ?
+eh bien , c'est vrai .
+d'une certaine manière , ils sont programmés par vos gènes .
+mais l'histoire ne s'arrête pas là , parce que ce sont des signaux , des signaux électriques qui voyagent le long des branches de neurones et des signaux chimiques qui sautent d'une branche à une autre .
+on appelle ces signaux l'activité cérébrale .
+il y a beaucoup à parier que l'activité cérébrale encode nos pensées , sentiments et perceptions , nos expériences mentales .
+et il y a beaucoup à parier que l'activité cérébrale puisse amener vos connexions à changer .
+et si vous on rassemble ces deux faits on comprends que vos expériences peuvent changer votre connectome .
+c'est pour cela que chaque connectome est unique , même ceux de jumeaux identiques génétiquement .
+le connectome est ce lieu où l'acquis rencontre l'inné .
+et il peut être vrai que le simple fait de penser change votre connectome -- une idée que vous trouverez sans doute stimulante .
+qu'y a - t - il dans cette image ?
+d'après vous , un courant d'eau froid et _UNK_ .
+qu'y a - t - il d'autre dans cette image ?
+n'oubliez pas ce sillon dans la terre qu'on appelle le lit de la rivière .
+sans lui , l'eau ne saurait pas dans quelle direction s'écouler .
+et avec l'idée de courant , j'aimerais proposer une métaphore pour désigner la relation entre l'activité neuronale et la connectivité .
+l'activité neuronale change constamment .
+c'est comme l'eau d'un courant ; il ne reste jamais en place .
+les connexions du réseau neuronal du cerveau déterminent les chemins que vont emprunter les flux d'activité cérébrale .
+et donc le connectome est comme le lit de la rivière .
+mais la métaphore est plus riche que cela .
+parce que s'il est vrai que le lit de la rivière guide les flots de l'eau , il faut dire aussi que sur un long terme l'eau à son tour _UNK_ le lit de la rivière .
+et comme je vous le disais justement , l'activité neuronal peut changer le connectome .
+et si vous _UNK_ à gravir les hautes cimes de la métaphore , je vous _UNK_ que l'activité neuronale est le fondement physique -- du moins c'est ce que pensent les neuroscientifiques -- des pensées , des sentiments et des perceptions .
+nous pouvons donc même parler d'un flux de conscience .
+l'activité neuronale est son cours d'eau , et le connectome son lit .
+quittons donc ces hauts sommets de la métaphore et retournons à la science .
+supposez que les technologies qui nous permettent de trouver des connectomes marchent vraiment .
+comment nous y prendrons - nous pour mettre à l'épreuve l'hypothèse selon laquelle " je suis mon connectome " ?
+eh bien je vous propose un test en direct .
+essayons de déchiffrer des souvenirs depuis des connectomes .
+examinez le souvenir de longues séquences temporelles de mouvements comme un pianiste jouant une sonate de beethoven .
+selon une théorie qui remonte au _UNK_ , des souvenirs comme cela sont stockés dans nos cerveaux sous formes de connexions synaptiques .
+parce que , si les premiers neurones dans la chaîne sont activés , ils envoient des messages par leurs synapses aux _UNK_ neurones , qui sont activés , et cela se poursuit ainsi sur toute la ligne , un peu comme une chaîne de _UNK_ qui _UNK_ .
+et cette séquence d'activation neuronale est envisagée hypothétiquement comme étant la base neuronale de ces séquences de mouvements .
+aussi un des moyens d'essayer de tester cette théorie consiste à chercher ce genre de chaînes à l'intérieur des connectomes .
+mais ce ne sera pas facile , parce qu'elles ne ressembleront pas à ça .
+elles seront toutes emmêlées .
+on va donc devoir utiliser nos ordinateurs pour essayer de démêler les chaînes .
+et si on arrive à faire ça , la séquence de neurones que nous _UNK_ sera une prédiction du modèle de l'activité neuronale qui est _UNK_ dans le cerveau lors de la _UNK_ des souvenirs .
+et si cela s'avérait être une réussite , cela serait le premier exemple d'une lecture de souvenirs à partir d'un connectome .
+quel _UNK_ .
+avez - vous déjà essayé de faire les branchements d'un système aussi complexe que celui - ci ?
+j'espère que non .
+mais si jamais c'est le cas , vous savez comme il peut être facile de faire une erreur .
+les branchements des neurones sont comme les fils électriques du cerveau .
+est - ce que quelqu'un peut deviner ça : quelle est la longueur totale des fils dans notre cerveau ?
+je vous donne un indice . c'est un nombre très grand .
+je l'estime à des millions de miles .
+tout empaqueté dans notre boîte crânienne .
+et si vous arrivez à estimer ce nombre , vous pouvez facilement comprendre qu'il y a une immense probabilité pour qu'il y ait de mauvaises connexions dans le cerveau .
+et en effet , la presse populaire adore les gros titres du genre " le cerveau des anorexiques est connecté différemment " ou " le cerveau des autistes est connecté différement " .
+ce sont des affirmations plausibles mais , en vérité , on n'est pas capable de regarder le " câblage " du cerveau assez clairement pour dire si elles sont vraies .
+donc les technologies qui visent à observer des connectomes nous permettrons en fin de compte de déchiffrer les erreurs de câblage dans le cerveau , de repérer les désordres mentaux dans les connectomes .
+parfois le meilleur moyen de tester une hypothèse est de la considérer dans ce qu'elle implique de plus extrême .
+les philosophes connaissent très bien ce jeu .
+si vous pensez que je suis mon connectome , je pense que vous devrez aussi accepter l'idée que la mort entraîne la destruction de votre connectome .
+je me permets de mentionner cela parce qu'il y a des prophètes aujourd'hui qui affirment que la technologie finira par modifier fondamentalement la condition humaine et peut - être même par transformer l'espèce humaine .
+un de leurs rêves les plus tendres est de tromper la mort grâce à cette pratique connue sous le nom de cryonie .
+pour 100 000 dollars , vous pouvez vous arranger pour qu'on congèle votre corps après votre mort et pour qu'on le place dans de l'azote liquide dans un de ces aquariums dans un entrepôt en arizona dans l'attente d'une civilisation future assez avancée pour pouvoir vous ressusciter .
+devons - nous tourner en ridicule les chercheurs d'immortalité des temps modernes , et les appeler idiots ?
+ou bien reviendront - ils un jour ricaner au - dessus de nos tombes ?
+je ne sais pas .
+je préfère mettre à l'épreuve leurs croyances , scientifiquement .
+je propose que nous essayions de trouver un connectome d'un cerveau congelé .
+nous savons que des dommages sont infligés au cerveau après la mort et pendant le refroidissement du cadavre .
+la question est : est - ce que ces dommages effacent le connectome ?
+si c'est le cas , il n'y a aucun moyen pour qu'une civilisation du future soit _UNK_ de récupérer les souvenirs de ces cerveaux _UNK_ .
+la résurrection pourrait bien fonctionner pour le corps , mais pas pour l'esprit .
+d'un autre côté , si le connectome est toujours intact , on ne peut pas ridiculiser les affirmations des partisans de la cryonie si facilement .
+j'ai décrit une quête qui commence dans le monde de l'infiniment petit et finit par nous propulser dans le monde d'un futur très éloigné .
+les connectomes _UNK_ un tournant dans l'histoire de l'humanité .
+alors que nous nous _UNK_ de la condition de nos ancêtres à l'apparence de singes dans la savane africaine , ce qui nous _UNK_ , c'était nos cerveaux plus larges .
+nous avons utilisé nos cerveaux pour concevoir des technologies toujours plus incroyables .
+a la fin , ces technologies deviendront si puissantes que nous les utiliserons pour mieux nous connaître en _UNK_ et reconstruisant nos propres cerveaux .
+je suis convaincu que cette aventure , qui nous permet de comprendre qui nous sommes , n'est pas réservée qu'aux scientifiques mais s'offre à chacun de nous .
+et je suis reconnaissant d'avoir eu la chance de partager cette aventure avec vous aujourd'hui .
+merci .

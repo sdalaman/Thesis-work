@@ -1,0 +1,109 @@
+je	vais	vous	parler	aujourd'hui	de	la	conception	de	technologie	médicale	pour	les	endroits	à	faibles	ressources	.
+j'ai	étudié	les	systèmes	de	santé	dans	ces	pays	.
+et	une	des	plus	grandes	carences	dans	les	soins	,	à	peu	près	partout	,	c'est	l'accès	à	une	chirurgie	sûre	.
+un	des	freins	majeurs	que	nous	avons	rencontré	qui	empêche	l'accès	d'une	part	et	la	sécurité	de	ces	opérations	qui	se	déroulent	c'est	l'anesthésie	.
+et	en	fait	,	c'est	le	modèle	que	nous	nous	attendons	à	voir	fonctionner	pour	fournir	l'anesthésie	dans	ces	environnements	nous	avons	ici	une	scène	que	nous	trouverions	dans	n'importe	quelle	salle	d'opération	dans	tous	les	etats	-	unis	ou	tout	autre	pays	développé	.
+au	fond	ici	il	y	a	une	machine	à	anesthésie	très	sophistiquée	.
+et	cette	machine	est	capable	de	permettre	des	opérations	et	de	sauver	des	vies	parce	qu'elle	a	été	conçue	en	pensant	à	son	environnement	.
+pour	fonctionner	,	cette	machine	a	besoin	d'un	certain	nombre	de	choses	que	cet	hôpital	offre	.
+elle	a	besoin	d'un	anesthésiste	extrêmement	bien	formé	avec	des	années	d'expérience	avec	des	machines	complexes	pour	l'aider	à	surveiller	les	flux	de	gaz	et	maintenir	ses	patients	sous	anesthésie	et	en	sécurité	tout	au	long	de	l'opération	.
+c'est	une	machine	délicate	qui	fonctionne	sur	des	algorithmes	informatiques	,	et	elle	a	besoin	d'une	maintenance	spéciale	,	de	soins	attentifs	,	pour	continuer	à	fonctionner	,	et	elle	tombe	en	panne	assez	facilement	.
+et	quand	cela	se	produit	,	elle	a	besoin	d'une	équipe	de	techniciens	médicaux	qui	comprennent	sa	complexité	,	peuvent	la	réparer	,	peuvent	trouver	les	pièces	et	faire	qu'elle	continue	à	sauver	des	vies	.
+c'est	une	machine	assez	coûteuse	.
+il	faut	un	hôpital	dont	le	budget	puisse	permettre	de	maintenir	une	machine	qui	coûte	jusqu'à	50	ou	100	000	dollars	.
+et	ce	qui	est	le	plus	évident	peut	-	être	,	et	peut	-	être	le	plus	important	,	et	la	voie	vers	des	concepts	dont	nous	avons	entendu	parler	en	est	en	quelque	sorte	l'illustration	,	il	faut	une	infrastructure	qui	puisse	fournir	une	source	ininterrompue	d'électricité	,	d'oxygène	comprimé	et	d'autres	fournitures	médicales	qui	sont	si	indispensables	au	fonctionnement	de	cette	machine	.
+en	d'autres	termes	,	cette	machine	a	besoin	de	beaucoup	de	choses	que	cet	hôpital	-	ci	ne	peut	offrir	.
+voici	l'alimentation	électrique	d'un	hôpital	en	zone	rurale	au	malawi	.
+dans	cet	hôpital	,	il	y	a	une	personne	qualifiée	pour	administrer	une	anesthésie	,	et	elle	est	qualifiée	parce	qu'elle	a	12	,	peut	-	être	18	mois	de	formation	en	anesthésie	.
+dans	l'hôpital	et	dans	toute	la	région	,	il	n'y	a	pas	un	seul	technicien	biomédical	.
+alors	quand	cette	machine	tombe	en	panne	,	quand	les	machines	avec	lesquelles	ils	travaillent	tombent	en	panne	,	ils	doivent	se	débrouiller	,	mais	la	plupart	du	temps	,	c'est	le	bout	de	la	route	.
+ces	machines	finissent	à	la	_UNK_	.
+et	le	prix	de	la	machine	dont	j'ai	parlé	pourrait	représenter	peut	-	être	un	quart	ou	un	tiers	du	budget	annuel	de	fonctionnement	de	cet	hôpital	.
+et	pour	finir	,	je	pense	que	vous	voyez	que	cette	infrastructure	n'est	pas	très	solide	.
+cet	hôpital	est	connecté	à	une	alimentation	électrique	très	fragile	,	qui	a	souvent	des	coupures	.
+alors	l'hôpital	tout	entier	tourne	souvent	sur	un	générateur	.
+et	vous	pouvez	imaginer	,	le	générateur	tombe	en	panne	ou	n'a	plus	d'essence	.
+et	la	banque	mondiale	voit	ça	et	estime	qu'un	hôpital	dans	ce	cadre	dans	un	pays	à	faible	revenu	peut	s'attendre	à	avoir	jusqu'à	18	coupures	de	courant	par	mois	.
+de	même	l'oxygène	comprimé	et	d'autres	fournitures	médicales	sont	un	vrai	luxe	et	peuvent	souvent	être	en	rupture	de	stock	pendant	des	mois	voire	un	an	.
+cela	peut	sembler	fou	,	mais	le	modèle	que	nous	avons	à	l'heure	actuelle	c'est	prendre	ces	machines	qui	ont	été	conçues	pour	ce	premier	environnement	que	je	vous	ai	montré	et	les	donner	ou	les	vendre	à	des	hôpitaux	dans	cet	environnement	-	ci	.
+c'est	non	seulement	inadéquat	,	mais	ça	devient	vraiment	dangereux	.
+un	de	nos	partenaires	à	l'hôpital	john	hopkins	a	observé	des	salles	d'opérations	au	sierra	leone	il	y	a	environ	un	an	.
+et	la	première	opération	de	la	journée	était	un	cas	_UNK_	.
+une	femme	est	arrivée	,	il	fallait	lui	faire	une	césarienne	en	urgence	pour	sauver	sa	vie	et	celle	du	bébé	.
+et	tout	a	commencé	plutôt	bien	.
+le	chirurgien	était	de	garde	et	s'est	préparé	.
+l'infirmière	était	là	.
+elle	a	pu	_UNK_	rapidement	,	et	c'était	important	à	cause	de	l'urgence	de	la	situation	.
+et	tout	a	bien	commencé	jusqu'à	la	coupure	de	courant	.
+et	en	plein	milieu	de	l'opération	,	le	chirurgien	fait	une	course	contre	la	montre	pour	terminer	son	travail	,	et	il	peut	le	faire	,	il	a	une	lampe	frontale	.
+mais	l'infirmière	court	littéralement	dans	toute	la	salle	d'opération	obscure	et	essaye	de	trouver	tout	ce	qu'elle	peut	pour	anesthésier	sa	patiente	,	pour	la	maintenir	endormie	.
+parce	que	sa	machine	ne	fonctionne	pas	quand	il	n'y	a	pas	d'électricité	.
+et	maintenant	cette	opération	de	routine	que	beaucoup	d'entre	vous	ont	probablement	vécu	,	et	d'autres	en	sont	probablement	le	produit	,	est	devenue	une	tragédie	.
+et	ce	qui	est	tellement	frustrant	,	c'est	que	ce	n'est	pas	un	cas	unique	;	ça	se	produit	dans	tout	le	monde	en	développement	.
+35	millions	d'opérations	sont	_UNK_	chaque	année	sans	anesthésie	sûre	.
+mon	collègue	,	le	docteur	paul	_UNK_	,	vivait	cette	réalité	.
+il	était	le	responsable	de	_UNK_	dans	un	hôpital	au	malawi	,	un	chu	.
+il	allait	travailler	tous	les	jours	dans	une	salle	d'opération	comme	celle	-	ci	,	et	essayait	d'administrer	une	anesthésie	et	d'enseigner	à	d'autres	comment	le	faire	en	employant	le	même	équipement	qui	devenait	si	peu	fiable	,	et	absolument	pas	sûr	,	dans	son	hôpital	.
+et	après	une	_UNK_	opération	,	et	vous	pouvez	imaginer	,	une	tragédie	vraiment	_UNK_	,	il	a	dit	simplement	,	``	c'est	bon	,	j'abandonne	.	ça	suffit	.
+il	doit	y	avoir	mieux	que	ça	.	``	alors	il	s'est	rendu	au	bout	du	couloir	jusqu'à	l'endroit	où	on	jetait	toutes	ces	machines	qui	les	avaient	lâchés	,	je	pense	que	c'est	le	terme	scientifique	exact	,	et	il	s'est	mis	à	bricoler	.
+il	a	pris	une	pièce	d'ici	et	une	autre	de	là	,	et	il	a	essayé	de	fabriquer	une	machine	qui	_UNK_	dans	la	réalité	à	laquelle	il	était	confronté	.
+et	ce	qu'il	a	fabriqué	c'était	ce	truc	,	le	prototype	de	la	machine	universelle	à	anesthésie	,	une	machine	qui	fonctionnerait	et	_UNK_	ses	patients	quelles	que	soient	les	circonstances	que	son	hôpital	ait	à	offrir	.
+la	voici	chez	elle	dans	ce	même	hôpital	,	un	peu	plus	développée	,	12	ans	plus	tard	,	qui	travaille	sur	des	patients	depuis	la	_UNK_	jusqu'à	la	gériatrie	.
+laissez	-	moi	vous	montrer	un	peu	comment	cette	machine	fonctionne	.
+voilà	!
+la	voici	.
+quand	vous	avez	de	l'électricité	,	tout	dans	cette	machine	commence	dans	le	socle	.
+il	y	a	un	concentrateur	d'oxygène	incorporé	là	en	bas	.
+vous	m'avez	entendue	mentionner	l'oxygène	plusieurs	fois	jusqu'ici	.
+en	gros	,	pour	administrer	une	anesthésie	,	il	vous	faut	de	l'oxygène	aussi	pur	que	possible	,	parce	qu'au	final	vous	allez	le	diluer	avec	le	gaz	.
+et	le	mélange	que	le	patient	inhale	doit	contenir	au	moins	un	certain	pourcentage	d'oxygène	autrement	il	peut	devenir	dangereux	.
+mais	donc	ici	dedans	quand	il	y	a	de	l'électricité	,	le	concentrateur	d'oxygène	absorbe	l'air	ambiant	.
+nous	savons	que	l'air	ambiant	est	tout	à	fait	gratuit	il	est	abondant	et	il	contient	déjà	21	%	d'oxygène	.
+donc	ce	concentrateur	absorbe	l'oxygène	de	l'air	,	le	filtre	et	envoie	95	%	d'oxygène	pur	jusqu'ici	où	il	se	mélange	à	un	agent	_UNK_	.
+avant	que	le	mélange	ne	parvienne	aux	poumons	du	patient	,	il	va	passer	par	ici	,	vous	ne	le	voyez	pas	,	mais	il	y	a	un	capteur	d'oxygène	ici	,	qui	va	afficher	sur	cet	écran	le	pourcentage	d'oxygène	administré	.
+si	vous	n'avez	pas	d'électricité	,	ou	s'il	y	a	une	coupure	de	courant	au	milieu	de	l'opération	,	cette	machine	fait	la	transition	automatiquement	,	sans	qu'on	ait	besoin	de	la	toucher	,	pour	tirer	l'air	de	la	pièce	depuis	cette	entrée	.
+tout	le	reste	est	pareil	.
+la	seule	différence	est	que	maintenant	vous	travaillez	seulement	avec	21	%	d'oxygène	.
+avant	c'était	un	jeu	dangereux	de	devinette	,	parce	que	vous	ne	saviez	si	vous	aviez	donné	trop	peu	d'oxygène	qu'une	fois	que	quelque	chose	avait	mal	tourné	.
+mais	nous	avons	mis	une	batterie	de	secours	longue	durée	ici	.
+c'est	la	seule	partie	qui	soit	soutenue	par	une	batterie	.
+mais	ceci	donne	le	contrôle	au	fournisseur	,	qu'il	y	ait	de	l'électricité	ou	pas	.
+parce	qu'il	peut	ajuster	le	flux	en	fonction	du	pourcentage	d'oxygène	qu'il	voit	qu'il	donne	à	son	patient	.
+dans	les	deux	cas	,	que	vous	ayez	de	l'électricité	ou	pas	,	parfois	le	patient	a	besoin	d'aide	pour	respirer	.
+c'est	une	réalité	de	l'anesthésie	.	les	poumons	peuvent	être	paralysés	.
+et	donc	nous	avons	ajouté	ces	_UNK_	manuels	.
+nous	avons	vu	des	opérations	de	3	ou	4	heures	ventiler	le	patient	avec	ça	.
+c'est	donc	une	machine	sans	fioritures	.
+je	tremble	à	l'idée	de	dire	simple	;	elle	est	sans	_UNK_	.
+de	par	sa	conception	.
+et	pas	besoin	d'être	un	anesthésiste	hautement	spécialisé	et	formé	pour	utiliser	cette	machine	,	ce	qui	est	une	bonne	chose	parce	que	,	dans	ces	hôpitaux	de	zone	rurale	,	vous	n'aurez	pas	ce	niveau	de	formation	.
+elle	est	aussi	conçue	pour	l'environnement	où	elle	sera	utilisée	.
+c'est	une	machine	incroyablement	robuste	.
+elle	doit	résister	à	la	chaleur	et	à	l'usure	qui	se	produit	dans	les	hôpitaux	de	ces	zones	rurales	.
+et	donc	elle	ne	tombera	pas	en	panne	facilement	,	mais	si	c'est	le	cas	,	chaque	pièce	de	cette	machine	peut	être	virtuellement	échangée	et	remplacée	par	une	clé	hexagonale	et	un	tournevis	.
+et	finalement	,	elle	est	abordable	.
+cette	machine	est	proposée	à	un	huitième	du	coût	de	la	machine	conventionnelle	que	je	vous	ai	montré	tout	à	l'heure	.
+en	d'autres	termes	,	ce	que	nous	avons	ici	c'est	une	machine	qui	peut	permettre	les	opérations	et	sauver	des	vies	parce	qu'elle	a	été	conçue	pour	son	environnement	,	tout	comme	la	première	machine	que	je	vous	ai	montré	.
+mais	nous	ne	nous	sommes	pas	arrêtés	là	.
+est	-	ce	que	ça	marche	?
+est	-	ce	le	design	qui	va	fonctionner	sur	place	?
+nous	avons	vu	de	bons	résultats	jusqu'à	présent	.
+elle	est	dans	13	hôpitaux	dans	4	pays	,	et	depuis	2010	,	nous	avons	réussi	plus	de	2000	opérations	sans	incidents	cliniques	.
+nous	sommes	ravis	.
+c'est	apparemment	une	solution	adaptable	et	efficiente	à	un	problème	qui	est	vraiment	envahissant	.
+mais	nous	voulons	encore	être	sûrs	que	c'est	l'appareil	le	plus	efficace	et	sûr	que	nous	pouvons	mettre	dans	les	hôpitaux	.
+pour	ce	faire	,	nous	avons	lancé	un	nombre	de	partenariats	avec	des	ong	et	des	universités	pour	collecter	des	données	sur	l'interface	utilisateur	,	sur	les	types	d'opérations	pour	lesquelles	elle	est	appropriée	et	les	manières	dont	nous	pouvons	améliorer	l'appareil	lui	-	même	.
+un	de	ces	partenariats	est	avec	l'hôpital	john	hopkins	ici	à	baltimore	.
+ils	ont	un	super	laboratoire	de	simulation	d'anesthésie	à	baltimore	.
+nous	amenons	donc	cette	machine	et	nous	recréons	des	crises	de	salle	d'opération	auxquelles	cette	machine	pourrait	être	confrontée	.
+dans	un	des	hôpitaux	auxquels	elle	est	destinée	,	et	dans	un	environnement	contrôlé	et	sûr	,	on	évalue	son	efficacité	.
+nous	sommes	alors	en	mesure	de	comparer	les	résultats	de	cette	étude	avec	les	expériences	du	monde	réel	,	parce	que	nous	en	mettons	deux	dans	des	hôpitaux	gérés	par	john	hopkins	au	sierra	leone	,	dont	l'hôpital	où	cette	césarienne	en	urgence	a	eu	lieu	.
+j'ai	donc	parlé	beaucoup	d'anesthésie	,	et	j'ai	tendance	à	faire	ça	.
+je	pense	que	c'est	incroyablement	fascinant	et	un	composant	important	de	la	santé	.
+et	ça	semble	vraiment	accessoire	,	nous	n'y	pensons	jamais	,	jusqu'à	ce	qu'on	n'y	accède	pas	et	alors	ça	devient	vital	.
+qui	bénéficie	de	la	chirurgie	,	et	qui	n'en	bénéficie	pas	?
+qui	bénéficie	de	la	chirurgie	sûre	,	et	qui	n'en	bénéficie	pas	?
+mais	vous	savez	,	ce	n'est	qu'une	des	nombreuses	manières	par	laquelle	le	design	,	le	design	adéquat	,	peut	impacter	les	résultats	de	santé	.
+si	plus	de	gens	dans	l'espace	de	livraison	de	la	santé	qui	travaillent	vraiment	sur	certains	de	ces	problèmes	dans	les	pays	à	faible	revenu	pouvaient	commencer	leurs	processus	de	design	;	leurs	recherches	de	solutions	,	en	dehors	de	la	légendaire	boite	et	à	l'intérieur	de	l'hôpital	,	en	d'autres	termes	,	si	nous	pouvions	concevoir	pour	l'environnement	qui	existe	dans	tant	d'endroits	du	monde	,	plutôt	que	celui	que	nous	aimerions	voir	exister	,	nous	pourrions	sauver	de	nombreuses	vies	.
+merci	beaucoup	.
+

@@ -1,0 +1,195 @@
+moi	je	pense	que	les	 donné 	 es 	 	peuvent	en	fait	nous	 rend 	 re 	 	plus	 humain 	 s 	 	.
+nous	 récolt 	 ons 	 	 e 	 t 	 	 cré 	 ons 	 	 tout 	 es 	 	 sort 	 es 	 	de	 donné 	 es 	 	sur	 not 	 re 	 	environnement	de	vie	,	 e 	 t 	 	cela	nous	permet	de	 raconte 	 r 	 	des	 histoire 	 s 	 	 étonnant 	 es 	 	.
+ réc 	 emment 	 	,	un	 s 	 age 	 	théoricien	des	 media 	 s 	 	a	_UNK_	,	``	la	culture	du	19ème	siècle	était	 défini 	 e 	 	par	le	roman	,	la	culture	du	20ème	siècle	était	 défini 	 e 	 	par	le	cinéma	,	 e 	 t 	 	la	culture	du	21ème	siècle	 s 	 era 	 	 défini 	 e 	 	par	 l' 	 interface 	 	.	``
+ e 	 t 	 	je	crois	que	cela	va	 s 	 e 	 	 vérifie 	 r 	 	.
+ no 	 s 	 	 vie 	 s 	 	 s 	 ont 	 	_UNK_	par	les	 donné 	 es 	 	,	 e 	 t 	 	la	 présent 	 ation 	 	des	 ce 	 s 	 	 donné 	 es 	 	est	pour	nous	une	opportunité	de	créer	des	 interface 	 s 	 	 étonnant 	 es 	 	qui	 raconte 	 nt 	 	de	 grand 	 es 	 	 histoire 	 s 	 	.
+je	vais	donc	vous	 montre 	 r 	 	 quelque 	 s 	 	-	 un 	 s 	 	des	 projet 	 s 	 	sur	 les 	 quel 	 s 	 	j'ai	travaillé	 ce 	 s 	 	deux	 der 	 nières 	 	 année 	 s 	 	 e 	 t 	 	qui	 reflète 	 nt 	 	 no 	 s 	 	 vie 	 s 	 	 e 	 t 	 	 no 	 s 	 	 système 	 s 	 	.
+voici	un	projet	nommé	flight	 patte 	 r 	 ns 	 	.
+ce	que	vous	voyez	là	est	le	 tra 	 fic 	 	aérien	au	-	dessus	de	l'amérique	du	nord	pendant	24h	.
+comme	vous	voyez	,	tout	 s 	 e 	 	fond	 jus 	 qu' 	 à 	 	 de 	 venir 	 	noir	,	 e 	 t 	 	vous	voyez	les	 gen 	 s 	 	 s' 	 endormi 	 r 	 	.
+après	ça	,	vous	voyez	sur	la	côte	ouest	des	avions	qui	 traverse 	 nt 	 	,	les	 vol 	 s 	 	à	 l' 	 oeil 	 	rouge	vers	la	côte	est	.
+ e 	 t 	 	vous	allez	voir	tout	le	monde	_UNK_	sur	la	côte	est	,	 suivi 	 s 	 	par	les	 vol 	 s 	 	 européen 	 s 	 	qui	 arrive 	 nt 	 	dans	le	coin	en	haut	à	droite	.
+tout	le	monde	migre	de	la	côte	est	à	la	côte	ouest	.
+vous	voyez	san	 franc 	 is 	 co 	 	 e 	 t 	 	los	angeles	 commence 	 r 	 	leur	voyage	vers	hawaii	dans	le	coin	en	bas	à	gauche	.
+je	pense	que	c'est	une	chose	de	dire	qu'il	y	a	140	000	avions	 suivi 	 s 	 	par	le	 gouverne 	 ment 	 	 fédér 	 al 	 	à	un	instant	donné	,	 e 	 t 	 	c'est	une	autre	chose	de	voir	ce	système	dans	son	flux	 e 	 t 	 	 re 	 flux 	 	.
+c'est	une	prise	de	vue	 accélér 	 ée 	 	de	 l' 	 exacte 	 	même	 donné 	 e 	 	,	 mai 	 s 	 	je	 l' 	 ai 	 	 codé 	 e 	 	en	couleur	par	type	,	pour	que	 l' 	 on 	 	 puis 	 s 	 e 	 	voir	la	 divers 	 ité 	 	des	avions	dans	le	ciel	au	-	dessus	de	 no 	 s 	 	 tête 	 s 	 	.
+ e 	 t 	 	j'ai	 commenc 	 é 	 	à	faire	 ce 	 s 	 	 vue 	 s 	 	 e 	 t 	 	je	les	ai	 intégr 	 ées 	 	à	google	maps	vous	 pouv 	 ez 	 	 zoome 	 r 	 	 e 	 t 	 	voir	 cha 	 que 	 	aéroport	 e 	 t 	 	les	 motif 	 s 	 	qui	 s 	 e 	 	 dessin 	 ent 	 	.
+ici	nous	voyons	que	le	blanc	 représent 	 e 	 	les	 basse 	 s 	 	 altitude 	 s 	 	,	 e 	 t 	 	le	bleu	ce	 s 	 ont 	 	les	 altitude 	 s 	 	plus	 élevé 	 es 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	 zoome 	 r 	 	.	là	,	c'est	une	vue	d'atlanta	.
+vous	 pouv 	 ez 	 	voir	ici	un	important	aéroport	de	 fre 	 t 	 	,	 e 	 t 	 	il	y	a	 tout 	 es 	 	 sort 	 es 	 	 d' 	 activité 	 s 	 	là	-	bas	.
+vous	 pouv 	 ez 	 	aussi	 bascule 	 r 	 	 d' 	 une 	 	altitude	à	 l' 	 autre 	 	par	modèle	 e 	 t 	 	 fabrican 	 t 	 	.
+voyez	,	encore	,	la	 divers 	 ité 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	faire	 défi 	 ler 	 	 l' 	 ensemble 	 	 e 	 t 	 	voir	 quelque 	 s 	 	-	 un 	 s 	 	des	 différent 	 s 	 	 aéroport 	 s 	 	 e 	 t 	 	 leur 	 s 	 	 différent 	 s 	 	 motif 	 s 	 	.
+ voil 	 à 	 	une	vue	en	 re 	 mont 	 ant 	 	la	côte	est	.
+vous	voyez	un	peu	du	 cha 	 o 	 s 	 	qui	anime	new	york	avec	les	 contrôleur 	 s 	 	 aérien 	 s 	 	qui	 doive 	 nt 	 	gérer	tous	 ce 	 s 	 	 aéroport 	 s 	 	 majeur 	 s 	 	 pro 	 che 	 s 	 	les	 un 	 s 	 	des	 autre 	 s 	 	.
+en	 dé 	 zoom 	 ant 	 	très	vite	nous	voyons	,	à	nouveau	,	les	etats	-	 uni 	 s 	 	--	vous	avez	la	floride	en	bas	à	droite	.
+en	 s 	 e 	 	 déplaç 	 ant 	 	 jus 	 qu' 	 à 	 	la	côte	ouest	,	vous	voyez	san	 franc 	 is 	 co 	 	 e 	 t 	 	los	angeles	--	de	 grand 	 es 	 	 zone 	 s 	 	à	faible	 tra 	 fic 	 	le	long	du	nevada	 e 	 t 	 	de	l'arizona	.
+ e 	 t 	 	nous	voici	là	,	à	los	angeles	 e 	 t 	 	long	beach	en	bas	.
+j'ai	aussi	 commenc 	 é 	 	 jet 	 er 	 	un	oeil	aux	 différent 	 s 	 	 para 	 mètre 	 s 	 	,	car	on	peut	 choisi 	 r 	 	ce	que	 l' 	 on 	 	veut	extraire	des	 donné 	 es 	 	.
+ voil 	 à 	 	une	vue	 compa 	 rant 	 	les	 vol 	 s 	 	_UNK_	 e 	 t 	 	 descend 	 ant 	 s 	 	.
+ e 	 t 	 	vous	voyez	,	dans	le	temps	,	comment	les	 aéroport 	 s 	 	 change 	 nt 	 	.
+vous	voyez	les	 motif 	 s 	 	 persist 	 ant 	 s 	 	qui	 commence 	 nt 	 	à	 s 	 e 	 	 développe 	 r 	 	en	bas	de	 l' 	 écran 	 	.
+ e 	 t 	 	vous	voyez	 final 	 ement 	 	 l' 	 aéroport 	 	qui	change	 vrai 	 ment 	 	de	 direction 	 s 	 	.
+ voil 	 à 	 	un	autre	projet	sur	 le 	 quel 	 	j'ai	travaillé	avec	le	sensible	cities	lab	du	mit	.
+ voil 	 à 	 	une	vue	des	 commun 	 ication 	 s 	 	 inter 	 national 	 es 	 	.
+ e 	 t 	 	 voil 	 à 	 	comment	new	york	 commun 	 ique 	 	avec	 d' 	 autre 	 s 	 	 ville 	 s 	 	 inter 	 national 	 es 	 	.
+ e 	 t 	 	nous	avons	mis	cela	en	place	comme	un	globe	en	 liv 	 e 	 	au	 mus 	 ée 	 	 d' 	 art 	 	 modern 	 e 	 	de	new	york	à	 l' 	 occasion 	 	de	 l' 	 exposition 	 	design	the	_UNK_	mind	.
+ e 	 t 	 	il	a	été	alimenté	par	un	flux	pendant	24h	,	donc	on	 pouv 	 ait 	 	voir	la	 re 	 lation 	 	 évolue 	 r 	 	,	 e 	 t 	 	des	 info 	 s 	 	 démo 	 graphique 	 s 	 	qui	 pro 	 venaient 	 	des	 donné 	 es 	 	at	&	t	 e 	 t 	 	 s 	 e 	 	 révéla 	 ient 	 	.
+voici	un	autre	projet	sur	 le 	 quel 	 	j'ai	travaillé	avec	le	sensible	cities	lab	 e 	 t 	 	_UNK_	.
+ e 	 t 	 	cela	montre	des	 s 	 m 	 s 	 	 envoyé 	 s 	 	dans	la	ville	d'amsterdam	.
+vous	voyez	le	flux	 e 	 t 	 	 re 	 flux 	 	quotidien	des	 gen 	 s 	 	qui	 envoie 	 nt 	 	des	 s 	 m 	 s 	 	des	 différent 	 es 	 	 parti 	 es 	 	de	la	ville	 jus 	 qu' 	 à 	 	 l' 	 approche 	 	du	 nou 	 vel 	 	an	où	tout	le	monde	dit	``	bonne	année	!	``
+donc	c'est	un	outil	 inter 	 actif 	 	que	vous	 pouv 	 ez 	 	 déplace 	 r 	 	 par 	 tout 	 	,	pour	voir	 différent 	 es 	 	 parti 	 es 	 	de	la	ville	.
+ici	nous	 observ 	 ons 	 	un	autre	événement	.	on	 l' 	 appelle 	 	le	jour	de	la	 re 	 ine 	 	.
+là	encore	,	vous	avez	ce	flux	 e 	 t 	 	 re 	 flux 	 	quotidien	des	 gen 	 s 	 	qui	 envoie 	 nt 	 	des	 s 	 m 	 s 	 	des	 différent 	 es 	 	 parti 	 es 	 	de	la	ville	.
+ e 	 t 	 	vous	allez	voir	des	 gen 	 s 	 	 s 	 e 	 	 rassemble 	 r 	 	dans	le	centre	-	ville	pour	faire	la	fête	la	veille	comme	ça	 s 	 e 	 	passe	juste	là	.
+ en 	 suite 	 	vous	voyez	les	 gen 	 s 	 	faire	la	fête	le	 len 	 demain 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	faire	pause	 e 	 t 	 	 avance 	 r 	 	 e 	 t 	 	 recule 	 r 	 	pour	voir	 différent 	 es 	 	 phase 	 s 	 	.
+ pass 	 ons 	 	 main 	 tenant 	 	à	quelque	chose	de	 total 	 ement 	 	différent	.
+ certain 	 s 	 	 d' 	 entre 	 	vous	 connaisse 	 nt 	 	peut	-	être	.
+voici	la	machine	à	 joue 	 r 	 	aux	 échec 	 s 	 	du	 bar 	 on 	 	wolfgang	von	_UNK_	.
+c'est	un	robot	étonnant	qui	joue	très	bien	aux	 échec 	 s 	 	,	sauf	pour	un	détail	:	ce	n'est	pas	du	tout	un	robot	.
+c'est	en	fait	un	homme	sans	 jambe 	 s 	 	qui	est	assis	dans	 ce 	 tte 	 	 boit 	 e 	 	 e 	 t 	 	 contrô 	 le 	 	ce	joueur	 d' 	 échec 	 s 	 	.
+cela	a	inspiré	un	web	service	d'amazon	appelé	le	turc	mécanique	--	 d' 	 après 	 	le	nom	de	ce	type	.
+ e 	 t 	 	c'est	 bas 	 é 	 	sur	le	postulat	que	 certain 	 es 	 	 chose 	 s 	 	 s 	 ont 	 	 facile 	 s 	 	pour	les	 gen 	 s 	 	,	 mai 	 s 	 	 vrai 	 ment 	 	 compliqué 	 es 	 	pour	les	 ordinateur 	 s 	 	.
+alors	ils	ont	fait	ce	web	service	 e 	 t 	 	dit	``	 n' 	 importe 	 	quel	 programme 	 ur 	 	peut	écrire	un	bout	de	code	 e 	 t 	 	 puis 	 er 	 	dans	les	 esprit 	 s 	 	de	 milli 	 er 	 s 	 	de	 gen 	 s 	 	.	``
+mon	côté	 ner 	 d 	 	a	 pens 	 é 	 	``	 wah 	 ou 	 	,	c'est	fou	.
+je	peux	 puis 	 er 	 	dans	les	 esprit 	 s 	 	de	 milli 	 er 	 s 	 	de	 gen 	 s 	 	.	``
+ e 	 t 	 	mon	autre	côté	 ner 	 d 	 	a	 pens 	 é 	 	``	c'est	horrible	.	c'est	 total 	 ement 	 	bizarre	.
+ qu' 	 est 	 	-	ce	que	ça	implique	pour	le	futur	de	 l' 	 humanité 	 	,	que	nous	 somme 	 s 	 	tous	 branché 	 s 	 	à	ce	_UNK_	?	``
+ j' 	 étais 	 	sans	doute	un	peu	extrême	.
+ mai 	 s 	 	 qu' 	 est 	 	-	ce	que	ça	veut	dire	quand	nous	 n' 	 avons 	 	pas	le	 context 	 e 	 	pour	ce	sur	quoi	nous	 travail 	 lons 	 	 e 	 t 	 	nous	faisons	juste	 ce 	 s 	 	 petite 	 s 	 	 tâche 	 s 	 	.
+alors	j'ai	créé	 ce 	 t 	 	outil	pour	 dessin 	 er 	 	.
+j'ai	 demand 	 é 	 	aux	 gen 	 s 	 	de	 dessin 	 er 	 	un	mouton	qui	regarde	à	gauche	.
+ e 	 t 	 	j'ai	dit	``	je	vous	 paye 	 rai 	 	2	 cent 	 s 	 	pour	 vot 	 re 	 	 contribu 	 tion 	 	.	``
+ e 	 t 	 	j'ai	 commenc 	 é 	 	à	 collection 	 ner 	 	les	 mouton 	 s 	 	.
+j'ai	réuni	beaucoup	,	beaucoup	de	 mouton 	 s 	 	 différent 	 s 	 	.
+des	 ta 	 s 	 	de	 mouton 	 s 	 	.
+j'ai	 pri 	 s 	 	les	 premier 	 s 	 	10	000	 mouton 	 s 	 	que	 j' 	 avais 	 	 réuni 	 s 	 	,	 e 	 t 	 	je	les	ai	mis	sur	un	site	appelé	_UNK_	où	vous	 pouv 	 ez 	 	en	fait	acheter	des	 collection 	 s 	 	de	20	 mouton 	 s 	 	.
+vous	ne	 pouv 	 ez 	 	pas	 choisi 	 r 	 	un	mouton	à	 l' 	 unité 	 	 mai 	 s 	 	vous	 pouv 	 ez 	 	acheter	un	block	de	 vigne 	 ttes 	 	comme	matière	première	.
+ e 	 t 	 	 juxta 	 posée 	 	à	la	grille	vous	 pouv 	 ez 	 	vous	en	 pass 	 ant 	 	la	 souri 	 s 	 	sur	 cha 	 que 	 	mouton	,	 l' 	 humanité 	 	derrière	 ce 	 t 	 	immense	 process 	 us 	 	mécanique	.
+je	pense	qu'il	y	a	quelque	chose	de	 vrai 	 ment 	 	intéressant	à	 regarde 	 r 	 	les	 gen 	 s 	 	passer	par	ce	 lab 	 eur 	 	créatif	--	quelque	chose	qui	nous	parle	à	tous	,	ce	 process 	 us 	 	créatif	 d' 	 essayer 	 	 d' 	 inventer 	 	quelque	chose	à	 parti 	 r 	 	de	rien	.
+je	 trouv 	 e 	 	que	 c' 	 était 	 	 vrai 	 ment 	 	intéressant	de	mettre	en	regard	 ce 	 tte 	 	humanité	avec	 ce 	 tte 	 	grille	massive	 e 	 t 	 	 disséminé 	 e 	 	.
+c'est	assez	étonnant	ce	que	 certain 	 es 	 	 personne 	 s 	 	ont	fait	.
+voici	 quelque 	 s 	 	 statistique 	 s 	 	sur	le	projet	.
+un	taux	_UNK_	de	11	 mouton 	 s 	 	par	jour	ce	que	 représent 	 e 	 	un	 s 	 a 	 laire 	 	de	69	 cent 	 s 	 	par	heure	.
+662	 mouton 	 s 	 	ont	été	 rejet 	 és 	 	car	ils	_UNK_	pas	dans	les	 crit 	 ères 	 	 e 	 t 	 	on	les	a	 sorti 	 s 	 	du	 troupe 	 au 	 	.
+le	temps	passé	à	 dessin 	 er 	 	allait	de	4	 seconde 	 s 	 	à	46	 minute 	 s 	 	.
+cela	vous	donne	une	idée	des	 différent 	 s 	 	 type 	 s 	 	de	 motiva 	 tion 	 s 	 	 e 	 t 	 	 d' 	 engagement 	 	.
+ e 	 t 	 	il	y	a	eu	7	599	 contribu 	 teurs 	 	au	projet	,	en	tout	cas	qui	avaient	une	adresse	ip	unique	--	ça	 représent 	 e 	 	à	peu	près	le	nombre	de	 personne 	 s 	 	qui	ont	 contribu 	 é 	 	.
+ mai 	 s 	 	un	seul	de	 ce 	 s 	 	7	599	 personne 	 s 	 	a	dit	 ce 	 ci 	 	.
+ce	qui	m'a	 plu 	 tôt 	 	surpris	.
+je	 m'attend 	 ais 	 	à	ce	que	les	 gen 	 s 	 	 s 	 e 	 	 demande 	 nt 	 	``	pourquoi	j'ai	choisi	un	mouton	?	``
+ e 	 t 	 	je	 trouv 	 e 	 	que	c'est	une	question	 plu 	 tôt 	 	 pertinent 	 e 	 	.
+ e 	 t 	 	il	y	a	beaucoup	de	 rais 	 ons 	 	pour	 les 	 quelle 	 s 	 	j'ai	choisi	un	mouton	.
+le	mouton	a	été	le	premier	animal	qui	a	été	élevé	avec	des	 produit 	 s 	 	 dérivé 	 s 	 	 produit 	 s 	 	 mécanique 	 ment 	 	,	le	premier	qui	a	été	 sélection 	 né 	 	pour	 s 	 es 	 	 caractér 	 istique 	 s 	 	de	 re 	 production 	 	,	le	premier	qui	a	été	 clo 	 né 	 	.
+ manifest 	 ement 	 	nous	voyons	les	 mouton 	 s 	 	comme	des	 suiv 	 eurs 	 	.
+ en 	 suite 	 	il	y	a	la	référence	au	``	petit	prince	``	où	le	 narrat 	 eur 	 	demande	au	prince	de	 dessin 	 er 	 	un	mouton	.
+il	 dessin 	 e 	 	un	mouton	après	 l' 	 autre 	 	.
+le	 narrat 	 eur 	 	ne	_UNK_	que	quand	il	 dessin 	 e 	 	une	 boit 	 e 	 	.
+ e 	 t 	 	il	dit	``	tu	 n'a 	 s 	 	pas	besoin	de	 dessin 	 er 	 	un	mouton	 scientifique 	 ment 	 	exact	.
+ce	qui	compte	c'est	ton	interprétation	 e 	 t 	 	faire	quelque	chose	de	différent	.	``
+ e 	 t 	 	 j' 	 aime 	 	ça	.
+voici	un	extrait	des	temps	 modern 	 es 	 	de	charlie	chaplin	.
+cela	montre	charlie	chaplin	aux	 prise 	 s 	 	avec	 quelque 	 s 	 	 change 	 ment 	 s 	 	 majeur 	 s 	 	pendant	la	 r 	 évolution 	 	 industriel 	 le 	 	.
+il	 n' 	 y 	 	avait	plus	de	 fabrican 	 t 	 s 	 	de	 chaussure 	 s 	 	,	 mai 	 s 	 	il	y	avait	des	 gen 	 s 	 	qui	_UNK_	des	 sem 	 elles 	 	sur	les	 chaussure 	 s 	 	.
+ e 	 t 	 	 l' 	 idée 	 	 global 	 e 	 	de	la	 re 	 lation 	 	de	chacun	à	son	travail	,	avait	beaucoup	changé	.
+alors	j'ai	 pens 	 é 	 	que	 c' 	 était 	 	une	vidéo	 intéressant 	 e 	 	 qu' 	 on 	 	 pouv 	 ait 	 	 découpe 	 r 	 	en	16	 morceau 	 x 	 	 e 	 t 	 	je	les	ai	 injecté 	 s 	 	dans	le	turc	mécanique	avec	un	outil	de	dessin	.
+cela	a	 per 	 mis 	 	en	fait	--	ce	que	vous	voyez	à	gauche	est	 l' 	 image 	 	 original 	 e 	 	,	 e 	 t 	 	à	droite	vous	voyez	 ce 	 tte 	 	image	 interprété 	 e 	 	par	16	 personne 	 s 	 	qui	 n' 	 avaient 	 	 aucun 	 e 	 	idée	de	ce	 qu'il 	 s 	 	étaient	en	train	de	faire	.
+ e 	 t 	 	ça	a	été	 l' 	 inspiration 	 	pour	un	projet	sur	 le 	 quel 	 	j'ai	travaillé	avec	mon	ami	_UNK_	_UNK_	.
+nous	avons	 décid 	 é 	 	 d' 	 utiliser 	 	le	turc	mécanique	pour	 s 	 a 	 	raison	 d' 	 être 	 	 précis 	 e 	 	,	qui	était	de	 r 	 apporter 	 	de	 l' 	 argent 	 	.
+alors	nous	avons	 pri 	 s 	 	une	 cent 	 aine 	 	de	 dollar 	 s 	 	 e 	 t 	 	les	avons	divisé	en	10	000	 morceau 	 x 	 	 minuscule 	 s 	 	 e 	 t 	 	nous	les	avons	 placé 	 s 	 	dans	le	turc	mécanique	.
+nous	avons	 demand 	 é 	 	aux	 gen 	 s 	 	dire	ce	 qu'il 	 s 	 	 voy 	 aient 	 	.
+ mai 	 s 	 	là	il	 n' 	 y 	 	avait	pas	de	 crit 	 ère 	 	de	``	mouton	ressemblant	``	.
+les	 gen 	 s 	 	,	 s' 	 ils 	 	 ti 	 raient 	 	un	 personn 	 age 	 	en	 bâton 	 s 	 	ou	un	smiley	,	ça	 ent 	 rait 	 	dans	le	 bille 	 t 	 	.
+donc	ce	que	vous	voyez	est	 vrai 	 ment 	 	une	 représent 	 ation 	 	de	la	 man 	 ière 	 	 do 	 nt 	 	les	 gen 	 s 	 	ont	bien	fait	ce	qui	leur	était	 demand 	 é 	 	.
+nous	avons	donc	 pri 	 s 	 	 ce 	 s 	 	cent	 bille 	 t 	 s 	 	 d' 	 un 	 	dollar	,	 e 	 t 	 	nous	les	avons	mis	sur	un	site	appelé	_UNK_	,	où	vous	 pouv 	 ez 	 	passer	en	revue	 tout 	 es 	 	les	 contribu 	 tion 	 s 	 	 individu 	 elles 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	aussi	 échange 	 r 	 	des	 vrai 	 s 	 	 bille 	 t 	 s 	 	de	cent	 dollar 	 s 	 	contre	des	faux	 bille 	 t 	 s 	 	de	cent	 dollar 	 s 	 	 e 	 t 	 	faire	un	don	au	projet	_UNK_	dollar	laptop	,	qui	est	aussi	connu	 dés 	 ormais 	 	sous	le	nom	un	laptop	par	enfant	.
+ voil 	 à 	 	encore	 tout 	 es 	 	les	 différent 	 es 	 	 contribu 	 tion 	 s 	 	.
+vous	voyez	que	 certain 	 s 	 	ont	fait	de	très	beaux	 rendu 	 s 	 	 point 	 illé 	 s 	 	comme	celui	-	ci	en	haut	--	ils	ont	passé	du	temps	à	faire	des	 version 	 s 	 	 réaliste 	 s 	 	.
+ e 	 t 	 	 d' 	 autre 	 s 	 	ont	dessiné	des	 personn 	 age 	 s 	 	en	 bâton 	 s 	 	ou	des	 smiley 	 s 	 	.
+ici	à	droite	au	 mi 	 lieu 	 	vous	voyez	le	type	qui	écrit	``	$	_UNK_	!	!	!	_UNK_	?	``
+c'est	tout	ce	que	vous	me	donnez	pour	ça	?
+bon	,	le	dernier	projet	turc	mécanique	 do 	 nt 	 	je	vais	vous	 parle 	 r 	 	porte	le	nom	de	 bicycle 	 tte 	 	 construit 	 e 	 	pour	2000	.
+c'est	une	 col 	 laboration 	 	avec	mon	ami	daniel	_UNK_	.
+vous	 reconnaît 	 rez 	 	peut	-	être	 ce 	 s 	 	deux	 type 	 s 	 	.
+ce	 s 	 ont 	 	max	_UNK_	 e 	 t 	 	 jo 	 hn 	 	kelly	du	bell	labs	dans	les	 année 	 s 	 	60	où	ils	ont	créé	la	 chan 	 son 	 	``	daisy	bell	``	,	qui	a	été	le	premier	ordinateur	 chant 	 ant 	 	au	monde	.
+vous	 reconnaît 	 rez 	 	peut	-	être	dans	``	2001	:	l'odyssée	de	 l' 	 espace 	 	``	quand	hal	est	en	train	de	 mour 	 ir 	 	à	la	fin	 e 	 t 	 	commence	à	 chant 	 er 	 	 ce 	 tte 	 	 chan 	 son 	 	comme	une	référence	au	moment	où	les	 ordinateur 	 s 	 	 s 	 ont 	 	 devenu 	 s 	 	 humain 	 s 	 	.
+donc	nous	avons	 re 	 produit 	 	 ce 	 tte 	 	 chan 	 son 	 	.
+ voil 	 à 	 	à	quoi	ça	 re 	 s 	 sembla 	 it 	 	.
+nous	avons	 dé 	 composé 	 	 tout 	 es 	 	les	 note 	 s 	 	 e 	 t 	 	les	 phon 	 ème 	 s 	 	dans	la	 chan 	 son 	 	.
+daisy	bell	:	♫	daisy	,	daisy	...	♫	aaron	koblin	:	 e 	 t 	 	nous	avons	 pri 	 s 	 	 tout 	 es 	 	les	 pièce 	 s 	 	 unitaire 	 s 	 	,	 e 	 t 	 	nous	les	avons	 entrée 	 s 	 	dans	une	autre	 re 	 quête 	 	turc	.
+voici	à	quoi	ça	 ressemble 	 rait 	 	si	vous	 all 	 iez 	 	sur	le	site	.
+vous	 tape 	 z 	 	 vot 	 re 	 	code	,	 e 	 t 	 	 test 	 ez 	 	 d' 	 abord 	 	 vot 	 re 	 	micro	.
+on	vous	 fourni 	 rait 	 	un	simple	clip	audio	.
+ e 	 t 	 	alors	vous	 fer 	 iez 	 	de	 vot 	 re 	 	 mi 	 eux 	 	pour	le	 re 	 créer 	 	avec	 vot 	 re 	 	propre	voix	.
+après	 l' 	 avoir 	 	 visual 	 isé 	 	 e 	 t 	 	confirmé	comme	 vot 	 re 	 	 contribu 	 tion 	 	,	vous	 pourri 	 ez 	 	le	 sou 	 mettre 	 	au	turc	mécanique	sans	aucun	 context 	 e 	 	 addition 	 nel 	 	.
+ e 	 t 	 	voici	ce	que	nous	avons	reçu	du	tout	premier	jeu	de	_UNK_	.
+enregistrement	en	cours	:	♫	daisy	,	daisy	♫	♫	 giv 	 e 	 	me	 you 	 r 	 	answer	do	♫	♫	i	'm	 hal 	 f 	 	crazy	♫	♫	all	for	the	love	of	you	♫	♫	it	ca	 n' 	 t 	 	be	a	 styl 	 ish 	 	 mar 	 riage 	 	♫	♫	i	ca	 n' 	 t 	 	afford	a	 car 	 riage 	 	♫	♫	but	you	_UNK_	look	 s 	 weet 	 	upon	the	 s 	 e 	 at 	 	♫	♫	of	a	bicycle	 bu 	 il 	 t 	 	for	 t 	 wo 	 	♫	ak	:	alors	 ja 	 mes 	 	_UNK_	a	 ce 	 tte 	 	idée	de	la	 s 	 age 	 sse 	 	des	 foule 	 s 	 	,	qui	dit	qu'un	groupe	de	 gen 	 s 	 	est	plus	intelligent	que	 n' 	 importe 	 	quel	individu	.
+nous	 voul 	 ions 	 	voir	comment	 ce 	 ci 	 	 s' 	 applique 	 	au	_UNK_	,	à	la	création	de	 mus 	 ique 	 	 distribu 	 ée 	 	,	où	personne	n'a	la	 mo 	 indre 	 	idée	de	ce	sur	quoi	il	travaille	.
+donc	si	vous	allez	sur	_UNK_	vous	 pouv 	 ez 	 	 vrai 	 ment 	 	entendre	ce	que	ça	donne	tout	ensemble	.
+désolé	pour	ça	.
+_UNK_	:	♫	daisy	,	daisy	♫	♫	 giv 	 e 	 	me	 you 	 r 	 	answer	do	♫	♫	i	'm	 hal 	 f 	 	crazy	♫	♫	all	for	the	love	of	you	♫	♫	it	ca	 n' 	 t 	 	be	a	 styl 	 ish 	 	 mar 	 riage 	 	♫	♫	i	ca	 n' 	 t 	 	afford	a	 car 	 riage 	 	♫	♫	but	you	'd	look	 s 	 weet 	 	upon	the	 s 	 e 	 at 	 	♫	♫	of	a	bicycle	 bu 	 il 	 t 	 	for	 t 	 wo 	 	♫	ak	:	alors	en	 re 	 venant 	 	en	arrière	un	instant	,	quand	 j' 	 étais 	 	à	ucla	à	 l' 	 université 	 	,	je	 travail 	 lais 	 	aussi	au	 cent 	 er 	 	for	_UNK_	network	_UNK_	.
+ e 	 t 	 	je	_UNK_	un	 log 	 iciel 	 	pour	les	 scanner 	 s 	 	à	laser	visuel	.
+donc	 principal 	 ement 	 	du	mouvement	dans	un	espace	3d	.
+ e 	 t 	 	un	 réalis 	 ateur 	 	de	l.a.	appelé	 ja 	 mes 	 	frost	l'a	vu	 e 	 t 	 	a	dit	``	 attend 	 ez 	 	une	minute	.
+vous	voulez	dire	 qu' 	 on 	 	peut	 tourne 	 r 	 	un	clip	musical	sans	utiliser	de	vidéo	?	``
+ e 	 t 	 	on	a	fait	 exacte 	 ment 	 	ça	.
+nous	avons	fait	une	vidéo	 musical 	 e 	 	 d' 	 un 	 	de	mes	 groupe 	 s 	 	 favori 	 s 	 	,	radiohead	.
+ e 	 t 	 	je	crois	 qu'un 	 e 	 	de	mes	 parti 	 es 	 	 préfé 	 rées 	 	du	projet	ce	 n' 	 était 	 	pas	de	 tourne 	 r 	 	une	vidéo	avec	des	 laser 	 s 	 	,	 mai 	 s 	 	le	fait	de	le	 rend 	 re 	 	open	source	,	 e 	 t 	 	comment	nous	 l' 	 avons 	 	sorti	en	tant	que	projet	google	code	avec	 le 	 quel 	 	les	 gen 	 s 	 	 pouv 	 aient 	 	 télécharge 	 r 	 	un	 pa 	 quet 	 	de	 donné 	 es 	 	 e 	 t 	 	du	code	source	pour	 construi 	 re 	 	leur	propre	version	.
+ e 	 t 	 	les	 gen 	 s 	 	ont	fait	des	 chose 	 s 	 	 étonnant 	 es 	 	.
+voici	deux	de	mes	 préfé 	 rées 	 	:	le	tableau	 d' 	 affichage 	 	thom	yorke	 e 	 t 	 	un	lego	thom	yorke	.
+une	chaîne	youtube	entière	où	les	 gen 	 s 	 	 post 	 ent 	 	des	 contenu 	 s 	 	 vrai 	 ment 	 	 intéressant 	 s 	 	.
+plus	 réc 	 emment 	 	,	 quel 	 qu'un 	 	a	même	imprimé	en	3d	la	tête	de	thom	yorke	qui	fait	un	peu	peur	,	 mai 	 s 	 	est	assez	sympa	.
+alors	avec	tous	 ce 	 s 	 	 gen 	 s 	 	qui	 produis 	 ent 	 	tant	de	 chose 	 s 	 	 étonnant 	 es 	 	 e 	 t 	 	 com 	 prennent 	 	 vrai 	 ment 	 	ce	sur	quoi	ils	 travail 	 laient 	 	 j' 	 avais 	 	 vrai 	 ment 	 	envie	 d' 	 essayer 	 	de	faire	un	projet	collaboratif	où	les	 gen 	 s 	 	 travaille 	 raient 	 	ensemble	pour	 construi 	 re 	 	quelque	chose	.
+ e 	 t 	 	j'ai	 rencontr 	 é 	 	un	 réalis 	 ateur 	 	musical	,	chris	milk	.
+ e 	 t 	 	nous	avons	 commenc 	 é 	 	à	 lance 	 r 	 	des	 idée 	 s 	 	pour	faire	un	projet	de	vidéo	 musical 	 e 	 	collaborative	.
+ mai 	 s 	 	nous	 s 	 avions 	 	que	nous	avions	 vrai 	 ment 	 	besoin	de	la	bonne	personne	pour	 r 	 allier 	 	tout	le	monde	derrière	elle	 e 	 t 	 	donner	envie	de	 construi 	 re 	 	.
+alors	nous	avons	mis	 l' 	 idée 	 	en	 veille 	 use 	 	 quelque 	 s 	 	 moi 	 s 	 	.
+ e 	 t 	 	il	a	fini	par	 parle 	 r 	 	à	rick	rubin	,	qui	 termin 	 ait 	 	 l' 	 album 	 	de	johnny	cash	``	ai	 n' 	 t 	 	no	grave	.	``
+les	 parole 	 s 	 	du	morceau	principal	 s 	 ont 	 	``	 aucun 	 e 	 	tombe	ne	peut	 plaque 	 r 	 	mon	corps	au	sol	``	alors	nous	avons	 pens 	 é 	 	que	 c' 	 était 	 	le	projet	idéal	pour	 construi 	 re 	 	un	 mémor 	 ial 	 	collaboratif	 e 	 t 	 	une	 ré 	 sur 	 rec 	 tion 	 	 virtuel 	 le 	 	pour	johnny	cash	.
+alors	j'ai	fait	équipe	avec	mon	bon	ami	ricardo	_UNK_	aussi	connu	sous	le	nom	de	 m 	 . 	 	_UNK_	,	qui	est	un	bien	meilleur	 programme 	 ur 	 	que	moi	,	 e 	 t 	 	il	a	fait	 ce 	 t 	 	étonnant	outil	de	dessin	en	flash	.
+comme	vous	le	 s 	 avez 	 	,	une	animation	est	une	 séri 	 e 	 	 d' 	 image 	 s 	 	.
+ e 	 t 	 	ce	que	nous	avons	fait	c'est	 coupe 	 r 	 	des	 séquence 	 s 	 	 d' 	 archive 	 s 	 	de	johnny	cash	,	 e 	 t 	 	à	8	 image 	 s 	 	par	seconde	,	nous	avons	 per 	 mis 	 	à	des	 gen 	 s 	 	de	 dessin 	 er 	 	une	image	unique	qui	 s 	 e 	 rait 	 	 intégr 	 ée 	 	dans	 ce 	 tte 	 	vidéo	 musical 	 e 	 	qui	change	de	façon	dynamique	.
+bien	,	je	n'ai	pas	le	temps	de	vous	le	 montre 	 r 	 	en	entier	,	 mai 	 s 	 	je	 voul 	 ais 	 	vous	 montre 	 r 	 	deux	 court 	 s 	 	 extrait 	 s 	 	.
+ l' 	 un 	 	est	le	début	du	clip	vidéo	.
+ e 	 t 	 	juste	après	vous	 ver 	 rez 	 	un	clip	court	où	des	 gen 	 s 	 	qui	ont	 contribu 	 é 	 	au	projet	en	 parle 	 nt 	 	 bri 	 ève 	 ment 	 	.
+johnny	cash	:	♫	there	ai	 n' 	 t 	 	no	grave	♫	♫	can	hold	my	 bo 	 dy 	 	down	♫	♫	there	ai	 n' 	 t 	 	no	grave	♫	♫	can	hold	 bo 	 dy 	 	down	♫	♫	when	i	_UNK_	the	_UNK_	 sou 	 nd 	 	♫	♫	i	'm	 go 	 ing 	 	to	ride	right	out	of	the	 g 	 round 	 	♫	♫	ai	 n' 	 t 	 	no	grave	♫	♫	can	hold	my	 bo 	 dy 	 	...	♫	ak	:	quelle	 meilleur 	 e 	 	 man 	 ière 	 	de	 rend 	 re 	 	hommage	à	 l' 	 homme 	 	que	de	faire	quelque	chose	pour	une	de	 s 	 es 	 	 chan 	 s 	 ons 	 	.
+ collab 	 orateur 	 	:	j'ai	été	 vrai 	 ment 	 	triste	quand	il	est	mort	.
+ e 	 t 	 	je	me	suis	dit	que	ça	 s 	 e 	 rait 	 	 merveille 	 ux 	 	ça	 s 	 e 	 rait 	 	 vrai 	 ment 	 	super	de	faire	quelque	chose	en	 s 	 a 	 	mémoire	.
+ collab 	 orateur 	 	2	:	ça	fait	 vrai 	 ment 	 	de	son	dernier	enregistrement	un	 mémor 	 ial 	 	vivant	,	qui	 respir 	 e 	 	.
+_UNK_	3	:	que	 tout 	 es 	 	les	 image 	 s 	 	soient	 dessiné 	 es 	 	par	des	 fan 	 s 	 	,	 cha 	 que 	 	image	 individu 	 elle 	 	,	ça	donne	une	impression	très	 puissant 	 e 	 	à	 l' 	 ensemble 	 	.
+ collab 	 orateur 	 	4	:	j'ai	vu	tout	le	monde	du	japon	,	du	venezuela	,	aux	etats	-	 uni 	 s 	 	,	à	knoxville	,	tennessee	.
+ collab 	 orateur 	 	5	:	c'est	 t 	 ellement 	 	différent	 d' 	 image 	 	en	image	,	c'est	 vrai 	 ment 	 	personnel	.
+ collab 	 orateur 	 	6	:	en	 regard 	 ant 	 	 ce 	 tte 	 	vidéo	dans	ma	chambre	,	je	me	 voy 	 ais 	 	dans	 l'in 	 com 	 préhension 	 	au	début	.
+ e 	 t 	 	j'ai	travaillé	 e 	 t 	 	travaillé	sur	les	 problème 	 s 	 	,	 jus 	 qu' 	 à 	 	ce	que	mes	 petite 	 s 	 	 bataille 	 s 	 	de	 détail 	 s 	 	dans	 l' 	 image 	 	 commence 	 nt 	 	à	 tout 	 es 	 	 s 	 e 	 	 résoud 	 re 	 	.
+alors	je	vois	le	moment	où	je	 s 	 ais 	 	ce	que	je	suis	en	train	de	faire	,	 e 	 t 	 	beaucoup	de	lumière	 e 	 t 	 	 d' 	 ombre 	 	entre	.
+ e 	 t 	 	 curieuse 	 ment 	 	,	c'est	aussi	ce	que	 j' 	 aime 	 	dans	la	 mus 	 ique 	 	de	johnny	cash	.
+c'est	la	somme	de	 s 	 a 	 	vie	,	 tout 	 es 	 	les	 chose 	 s 	 	qui	étaient	 arrivée 	 s 	 	--	les	 mauvais 	 es 	 	,	les	 bonne 	 s 	 	.
+vous	entendez	la	vie	 d' 	 une 	 	personne	.
+ak	:	si	vous	allez	sur	le	site	_UNK_	,	ce	que	vous	 ver 	 rez 	 	c'est	la	vidéo	ci	-	dessus	.
+ e 	 t 	 	en	-	dessous	ce	 s 	 ont 	 	les	 image 	 s 	 	 individu 	 elles 	 	que	les	 gen 	 s 	 	ont	_UNK_	pour	le	projet	.
+donc	ce	n'est	pas	du	tout	un	travail	fini	,	c'est	un	projet	 tou 	 jour 	 s 	 	ouvert	 au 	 quel 	 	les	 gen 	 s 	 	peuvent	continuer	à	 collabore 	 r 	 	.
+si	vous	 passe 	 z 	 	la	 souri 	 s 	 	sur	 n' 	 importe 	 	 la 	 quelle 	 	de	 ce 	 s 	 	 vigne 	 ttes 	 	 individu 	 elles 	 	,	vous	 ver 	 rez 	 	la	personne	qui	a	dessiné	 ce 	 tte 	 	image	 e 	 t 	 	où	elle	 s 	 e 	 	 trouv 	 e 	 	 géographique 	 ment 	 	.
+ e 	 t 	 	si	vous	en	 trouv 	 ez 	 	une	qui	vous	intéresse	,	vous	 pouv 	 ez 	 	 clique 	 r 	 	dessus	 e 	 t 	 	ouvrir	une	fiche	 d'in 	 formation 	 	où	vous	 pouv 	 ez 	 	lui	donner	une	note	,	ce	 l' 	 aide 	 	à	 remonte 	 r 	 	dans	la	liste	.
+vous	 pouv 	 ez 	 	aussi	voir	comment	elle	a	été	 dessiné 	 e 	 	.
+là	encore	,	vous	 pouv 	 ez 	 	 joue 	 r 	 	la	vidéo	 e 	 t 	 	vous	la	 contribu 	 tion 	 	 personnel 	 le 	 	.
+en	plus	de	ça	,	 s 	 ont 	 	_UNK_	le	nom	de	 l' 	 artiste 	 	,	 s 	 a 	 	localisation	,	le	temps	qu'il	a	mis	à	 dessin 	 er 	 	 l' 	 image 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	 choisi 	 r 	 	un	style	.	celle	-	ci	a	été	_UNK_	``	_UNK_	.	``
+il	y	a	un	 ta 	 s 	 	de	 style 	 s 	 	 différent 	 s 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	 arrange 	 r 	 	la	vidéo	de	beaucoup	de	 façon 	 s 	 	 différent 	 es 	 	.
+vous	 pouv 	 ez 	 	dire	``	je	veux	voir	la	version	_UNK_	ou	la	version	 schéma 	 tique 	 	ou	la	version	réaliste	.	``
+ e 	 t 	 	voici	encore	la	version	 abstrait 	 e 	 	,	qui	 fini 	 t 	 	de	façon	un	peu	folle	.
+bien	.	le	dernier	projet	 do 	 nt 	 	je	veux	vous	 parle 	 r 	 	est	une	autre	 col 	 laboration 	 	avec	chris	milk	.
+elle	 s' 	 appelle 	 	``	the	wilderness	downtown	.	``
+c'est	une	vidéo	 musical 	 e 	 	pour	the	_UNK_	fire	.
+chris	 e 	 t 	 	moi	-	même	étions	très	surpris	du	potentiel	actuel	avec	les	 navig 	 ateurs 	 	web	 modern 	 es 	 	,	avec	_UNK_	5	audio	 e 	 t 	 	vidéo	 e 	 t 	 	la	puissance	du	javascript	pour	un	rendu	 incroyable 	 ment 	 	rapide	.
+ e 	 t 	 	nous	 voul 	 ions 	 	 pro 	 mouvoir 	 	 l' 	 idée 	 	 d' 	 une 	 	vidéo	 musical 	 e 	 	 fait 	 e 	 	pour	le	web	au	-	delà	de	la	fenêtre	_UNK_	ou	_UNK_	 e 	 t 	 	essayer	de	la	faire	 joue 	 r 	 	 e 	 t 	 	la	 chorégraphie 	 r 	 	 par 	 tout 	 	dans	 l' 	 écran 	 	.
+ mai 	 s 	 	plus	important	encore	,	je	pense	,	nous	 voul 	 ions 	 	 vrai 	 ment 	 	faire	une	expérience	 différent 	 e 	 	du	projet	johnny	cash	,	où	nous	aurions	un	petit	groupe	de	 personne 	 s 	 	 pass 	 ant 	 	beaucoup	de	temps	pour	 pro 	 duire 	 	quelque	chose	pour	tous	.
+ e 	 t 	 	si	nous	avions	un	engagement	très	bas	,	 mai 	 s 	 	 arriv 	 ions 	 	à	créer	quelque	chose	 d' 	 unique 	 	pour	 cha 	 que 	 	 contribu 	 teur 	 	?
+le	projet	commence	en	vous	 demand 	 ant 	 	 d' 	 entrer 	 	 l' 	 adresse 	 	où	vous	avez	grandi	.
+ e 	 t 	 	vous	 tape 	 z 	 	 l' 	 adresse 	 	--	 e 	 t 	 	ça	 cré 	 e 	 	une	vidéo	 musical 	 e 	 	 spécial 	 ement 	 	pour	vous	,	en	 intégr 	 ant 	 	des	 image 	 s 	 	de	google	maps	 e 	 t 	 	streetview	dans	 l' 	 expérience 	 	elle	-	même	.
+vous	 dev 	 riez 	 	 vrai 	 ment 	 	voir	ça	chez	vous	en	 tap 	 ant 	 	 vot 	 re 	 	propre	adresse	 mai 	 s 	 	je	vais	vous	donner	un	petit	aperçu	de	ce	à	quoi	vous	 pouv 	 ez 	 	vous	 attend 	 re 	 	.
+_UNK_	butler	:	♫aujourd'hui	 no 	 s 	 	 vie 	 s 	 	 change 	 nt 	 	 vite 	 ♫ 	 	♫aujourd'hui	 no 	 s 	 	 vie 	 s 	 	 change 	 nt 	 	 vite 	 ♫ 	 	♫j'espère	que	quelque	chose	de	pur	peut	 dure 	 r 	 ♫ 	 	♫j'espère	que	quelque	chose	de	pur	peut	 dure 	 r 	 ♫ 	 	♫ooh	on	 attend 	 ait 	 ♫ 	 	♫ooh	on	 attend 	 ait 	 ♫ 	 	♫ooh	on	 attend 	 ait 	 ♫ 	 	♫parfois	ça	 n' 	 arrivait 	 	 jamais 	 ♫ 	 	♫parfois	ça	 n' 	 arrivait 	 	 jamais 	 ♫ 	 	 tou 	 jour 	 s 	 	à	 évolue 	 r 	 	dans	la	douleur	on	 l' 	 attend 	 ait 	 	on	 l' 	 attend 	 ait 	 	on	 l' 	 attend 	 ait 	 	ak	:	alors	je	crois	que	 s' 	 il 	 	y	a	une	chose	à	 re 	 tenir 	 	de	ma	 présent 	 ation 	 	 d' 	 aujourd'hui 	 	,	c'est	 qu'un 	 e 	 	interface	peut	être	un	outil	puissant	de	 narrat 	 ion 	 	.
+ e 	 t 	 	alors	que	nous	 collect 	 ons 	 	de	plus	en	plus	de	 donné 	 es 	 	 personnel 	 les 	 	 e 	 t 	 	 social 	 es 	 	 pertinent 	 es 	 	nous	avons	une	opportunité	,	 e 	 t 	 	peut	-	être	même	une	obligation	de	 main 	 tenir 	 	 l' 	 humanité 	 	 e 	 t 	 	de	 raconte 	 r 	 	des	 histoire 	 s 	 	 étonnant 	 es 	 	en	 explo 	 rant 	 	 e 	 t 	 	en	 collab 	 or 	 ant 	 	ensemble	.
+merci	beaucoup	.
+

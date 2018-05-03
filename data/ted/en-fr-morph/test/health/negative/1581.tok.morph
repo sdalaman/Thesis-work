@@ -1,0 +1,35 @@
+to	understand	the	world	that	live	in	,	we	tell	 st 	 ories 	 	.
+and	while	 remix 	 ing 	 	and	sharing	have	come	to	define	the	web	 a 	 s 	 	we	know	it	,	all	of	us	can	now	be	part	of	that	story	through	simple	 tool 	 s 	 	that	allow	us	to	make	 thing 	 s 	 	 on 	 line 	 	.
+but	video	 ha 	 s 	 	 be 	 en 	 	left	out	.	it	 arriv 	 ed 	 	on	the	web	in	a	small	box	,	and	there	it	 ha 	 s 	 	 remain 	 ed 	 	,	 complete 	 ly 	 	 dis 	 connect 	 ed 	 	from	the	data	and	the	content	all	around	it	.
+in	fact	,	in	over	a	decade	on	the	web	,	the	 on 	 ly 	 	thing	that	 ha 	 s 	 	 change 	 d 	 	about	video	is	the	 s 	 ize 	 	of	the	box	and	the	quality	of	the	picture	.
+ pop 	 corn 	 	 change 	 s 	 	all	of	that	.
+it	's	an	 on 	 line 	 	tool	that	 allow 	 s 	 	 any 	 one 	 	to	combine	video	with	content	 pull 	 ed 	 	live	 direct 	 ly 	 	from	the	web	.
+ video 	 s 	 	 create 	 d 	 	with	 pop 	 corn 	 	 behav 	 e 	 	like	the	web	 it 	 self 	 	:	dynamic	,	full	of	 link 	 s 	 	,	and	 complete 	 ly 	 	 remix 	 able 	 	,	and	 final 	 ly 	 	 allow 	 ed 	 	to	break	free	from	the	frame	.
+i	want	to	give	you	a	demo	of	a	prototype	that	we	're	 work 	 ing 	 	on	that	we	'll	launch	 lat 	 er 	 	 th 	 is 	 	fall	.
+it	will	be	 complete 	 ly 	 	free	,	and	it	will	work	in	any	 brow 	 s 	 er 	 	.
+so	,	every	 pop 	 corn 	 	production	 begin 	 s 	 	with	the	video	,	and	so	i	've	made	a	short	,	20	-	second	clip	using	a	 news 	 cast 	 er 	 	template	that	we	use	in	 work 	 shop 	 s 	 	.
+so	let	's	watch	it	.	we	'll	go	back	,	and	i	'll	show	you	how	we	made	it	.
+hi	,	and	welcome	to	my	 news 	 cast 	 	.
+i	've	 add 	 ed 	 	my	location	with	a	google	map	,	and	it	's	live	,	so	try	moving	it	around	.
+you	can	add	pop	-	 up 	 s 	 	with	live	 link 	 s 	 	and	custom	 icon 	 s 	 	,	or	pull	in	content	from	any	web	service	,	like	flickr	,	or	add	 article 	 s 	 	and	blog	 post 	 s 	 	with	 link 	 s 	 	out	to	the	full	content	.
+so	let	's	go	back	,	and	i	'll	show	you	what	you	saw	.	there	was	a	lot	there	.
+so	 th 	 is 	 	is	the	 time 	 line 	 	,	and	if	you	've	ever	 edit 	 ed 	 	video	,	you	're	familiar	with	 th 	 is 	 	,	but	 in 	 stead 	 	of	 clip 	 s 	 	in	the	 time 	 line 	 	,	what	you	're	looking	at	is	web	 event 	 s 	 	 pull 	 ed 	 	 in 	 to 	 	the	video	.
+now	in	 th 	 is 	 	 pop 	 corn 	 	production	we	've	got	the	title	card	,	we	've	got	a	google	map	that	 show 	 s 	 	up	picture	-	in	-	picture	,	then	 pop 	 corn 	 	lets	it	push	 out 	 side 	 	the	frame	and	take	over	the	whole	screen	.
+there	are	two	pop	-	 up 	 s 	 	 br 	 ing 	 ing 	 	you	some	other	information	,	and	a	final	article	with	a	link	out	to	the	original	article	.
+let	's	go	to	 th 	 is 	 	google	map	,	and	i	'll	show	you	how	you	can	edit	it	.
+all	you	do	,	go	 in 	 to 	 	the	 time 	 line 	 	,	double	-	click	the	item	,	and	i	've	set	it	to	toronto	,	 be 	 cause 	 	that	's	where	i	'm	from	.
+let	's	set	it	to	 some 	 thing 	 	else	.
+ pop 	 corn 	 	 im 	 mediate 	 ly 	 	 go 	 es 	 	out	onto	the	web	,	 talk 	 s 	 	to	google	,	 grab 	 s 	 	the	map	,	and	 put 	 s 	 	it	in	the	 dis 	 play 	 	.
+and	it	's	 exact 	 ly 	 	the	same	for	the	people	who	watch	your	production	.
+and	it	's	live	.	it	's	not	an	image	.	so	you	click	on	it	,	you	zoom	in	,	right	down	to	street	view	if	you	want	to	.
+now	in	the	video	,	i	 ment 	 ion 	 ed 	 	 add 	 ing 	 	a	live	feed	,	which	we	can	do	right	now	,	so	let	's	add	a	live	feed	from	flickr	.	go	over	to	the	right	-	hand	side	,	grab	flickr	from	the	list	of	 option 	 s 	 	,	drag	it	 in 	 to 	 	the	 time 	 line 	 	,	and	put	it	where	you	'd	like	it	to	go	,	and	it	 im 	 mediate 	 ly 	 	 go 	 es 	 	out	to	flickr	and	 start 	 s 	 	 pull 	 ing 	 	in	 image 	 s 	 	based	on	the	 tag 	 s 	 	.	now	,	my	 develop 	 ers 	 	 re 	 ally 	 	like	 p 	 onies 	 	,	and	so	they	've	set	that	 a 	 s 	 	the	default	tag	.
+let	's	try	 some 	 thing 	 	else	,	 may 	 be 	 	 some 	 thing 	 	a	bit	more	relevant	to	 to 	 day 	 	.
+now	here	are	live	 image 	 s 	 	 be 	 ing 	 	 pull 	 ed 	 	straight	from	the	feed	.
+if	you	come	and	watch	 th 	 is 	 	a	week	from	now	,	 th 	 is 	 	will	be	 complete 	 ly 	 	different	,	dynamic	,	just	like	the	web	,	and	just	like	the	web	,	 every 	 thing 	 	is	sourced	,	so	click	your	link	,	and	you	go	straight	to	flickr	and	see	the	source	image	.
+ every 	 thing 	 	you	've	 s 	 een 	 	 to 	 day 	 	is	built	with	the	 bas 	 ic 	 	building	 block 	 s 	 	of	the	web	:	html	,	css	and	javascript	.
+that	 mean 	 s 	 	it	's	 complete 	 ly 	 	 remix 	 able 	 	.	it	 al 	 so 	 	 mean 	 s 	 
+there	's	no	 prop 	 riet 	 ary 	 	 soft 	 ware 	 	.	all	you	need	is	a	web	 brow 	 s 	 er 	 	.
+so	imagine	if	every	video	that	we	 watch 	 ed 	 	on	the	web	 work 	 ed 	 	like	the	web	,	 complete 	 ly 	 	 remix 	 able 	 	,	linked	to	 it 	 s 	 	source	content	,	and	 inter 	 active 	 	for	 every 	 one 	 	who	 view 	 s 	 	it	.
+i	think	 pop 	 corn 	 	could	change	the	way	that	we	tell	 st 	 ories 	 	on	the	web	,	and	the	way	we	understand	the	world	we	live	in	.
+thank	you	.
+

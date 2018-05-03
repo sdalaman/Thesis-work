@@ -1,0 +1,120 @@
+l'électricité qui alimente les lumières de ce théâtre a été générée il y a à peine quelques instants .
+parce que telles que les choses sont aujourd'hui , la demande d'électricité doit être en équilibre constant avec l'approvisionnement en électricité .
+si dans le temps qu'il m'a fallu pour venir sur cette scène , quelques dizaines de mégawatts d'énergie éolienne arrêtaient de se déverser dans le réseau , la différence devrait être _UNK_ immédiatement par d'autres générateurs .
+mais les centrales au charbon , les centrales nucléaires ne peuvent pas répondre assez vite .
+une batterie géante le pourrait .
+avec une batterie géante , nous serions en mesure de résoudre le problème de _UNK_ qui empêche le vent et l'énergie solaire de contribuer au réseau de la même manière que le charbon , le gaz et le nucléaire aujourd'hui .
+vous voyez , la batterie est l'appareil _UNK_ clé ici .
+avec elle , nous pourrions tirer de l'électricité du soleil même quand le soleil ne brille pas .
+et cela change tout .
+parce qu'alors les énergies renouvelables , comme l'énergie éolienne et solaire sortent des ailes , pour venir ici au centre de la scène .
+aujourd'hui , je veux vous parler d'un tel appareil .
+c'est ce qu'on appelle la batterie métal liquide .
+c'est une nouvelle forme de stockage de l'énergie que j'ai inventé au mit avec une équipe de mes étudiants et post - doctorants .
+le thème de ted cette année est full spectrum , [ tout le spectre ] .
+le dictionnaire oxford définit spectre comme " l'ensemble des longueurs d'onde d'un rayonnement électromagnétique , depuis les ondes radio les plus longues aux rayons gamma les plus courts dont la plage de lumière visible n'est qu'une petite partie . " donc , je ne suis pas ici aujourd'hui que pour vous dire comment mon équipe au mit a tiré de la nature une solution à l'un des grands problèmes du monde .
+je veux parcourir tout le spectre et vous dire comment , dans le processus de développement de cette nouvelle technologie , nous avons découvert quelques hétérodoxies surprenantes qui peuvent servir de leçons pour l'innovation , des idées qui méritent d'être partagées .
+et vous le savez , si nous devons sortir ce pays de sa situation énergétique actuelle , nous ne pouvons pas nous en sortir sans changement ; nous ne pouvons pas nous en sortir en forant ; nous ne pouvons pas nous en sortir à coups de bombes .
+nous allons le faire à la bonne vielle manière américaine , nous allons nous en sortir en inventant , en travaillant ensemble .
+maintenant , commençons .
+la batterie a été inventée il y a 200 ans par un professeur , alessandro volta , à l'université de _UNK_ en italie .
+son invention a donné naissance à un nouveau domaine scientifique , _UNK_ , et les nouvelles technologies telles que la galvanoplastie .
+peut - être négligée , l'invention de la pile par volta pour la première fois a aussi démontré l'utilité d'un professeur .
+jusqu'à volta , personne ne pouvait imaginer qu'un professeur pouvait être d'une utilité quelconque .
+voici la première batterie - une pile de pièces de monnaie , de zinc et d'argent , séparées par du carton trempé dans de la saumure .
+c'est le point de départ pour la conception d'une batterie - deux électrodes , dans le cas présent des métaux de composition différente , et un électrolyte , dans le cas présent le sel dissous dans l'eau .
+la science est aussi simple que cela .
+certes , j'ai laissé de côté quelques détails .
+maintenant , je vous ai enseigné que la science de la batterie est simple et la nécessité de stockage au niveau du réseau est convaincante , mais le fait est qu'aujourd'hui , il n'y a tout simplement pas de technologie des batteries capable de répondre aux exigences de performance du réseau - à savoir une énergie anormalement élevée , une durée de vie longue et un coût ultra - faible .
+nous devons réfléchir au problème différemment .
+nous devons penser grand , nous devons penser bon marché .
+donc , abandonnons l'idée de chercher la chimie la plus cool et puis d'espérer faire baisser les coûts en faisant simplement des tas et des tas de produits .
+au lieu de cela , inventons au niveau de prix du marché de l'électricité .
+cela signifie donc que certaines parties de la table périodique sont _UNK_ hors - limites .
+cette batterie doit être faite à partir d'éléments abondants sur terre .
+je dis que si vous voulez faire quelque chose de vraiment pas cher , prenez de la terre pour le faire -- de préférence de la poussière qui est d'origine locale .
+et nous devons être en mesure de construire ce truc en utilisant des techniques de fabrication simples et des usines qui ne nous coûtent pas une fortune .
+donc , il y a environ six ans , j'ai commencé à réfléchir à ce problème .
+et afin d'adopter une nouvelle perspective , j'ai cherché l'inspiration au - delà du domaine du stockage de l'électricité .
+en fait , je me suis tourné vers une technologie qui ne stocke pas et ne génère pas d'électricité , mais au lieu de ça consomme de l'électricité , en quantités énormes .
+je parle de la production d'aluminium .
+le procédé a été inventé en _UNK_ par deux hommes de 22 ans - hall aux états - unis et héroult en france .
+et à peine quelques années après leur découverte , l'aluminium est passé du statut de métal précieux coûtant aussi cher que l'argent à celui d'un matériau ordinaire .
+vous avez devant vous là la halle _UNK_ d'une _UNK_ moderne .
+elle mesure environ 15 mètres de large et s'étend sur environ 800 mètres - rangée après rangée de cellules qui , à l'intérieur , ressemble à la pile de volta , avec trois différences importantes .
+la pile de volta fonctionne à température ambiante .
+elle est munie d'électrodes solides et d'un électrolyte qui est une solution saline .
+la cellule de hall - héroult fonctionne à haute température , une température suffisamment élevée pour que le produit de l'aluminium métallique soit liquide .
+l'électrolyte n'est pas une solution saline , mais plutôt du sel fondu .
+c'est cette combinaison de métal liquide , de sel fondu et la température élevée qui nous permet d'envoyer du courant élevée à travers cette chose .
+aujourd'hui , nous pouvons produire du métal vierge à partir du minerai à un coût inférieur à 50 cents la livre .
+c'est le miracle économique de _UNK_ moderne .
+c'est ce qui a attiré et retenu mon attention au point _UNK_ une batterie capable de capturer cette économie d'échelle gigantesque est devenue pour moi une obsession .
+et je l'ai fait .
+j'ai fait une batterie entièrement liquide - des métaux liquides pour les deux électrodes et un sel fondu pour l'électrolyte .
+je vais vous montrer comment .
+donc , j'ai mis du métal liquide de faible densité dans la partie supérieure , un métal liquide à haute densité au fond , et le sel fondu entre les deux .
+alors maintenant , comment choisir les métaux ?
+pour moi , l'exercice de conception commence toujours ici avec la classification périodique , énoncée par un autre professeur , dimitri _UNK_ .
+tout ce que nous savons est constitué d'une combinaison de ce que vous voyez représenté ici .
+et cela inclut notre propre corps .
+je me souviens du moment où un jour quand j'étais à la recherche d'une paire de métaux qui répondrait aux contraintes de l'abondance sur terre , de densité différente et opposée , et d'une grande réactivité mutuelle .
+j'ai ressenti le frisson de la réalisation quand j'ai su que j'avais trouvé la réponse .
+le magnésium pour la couche supérieure .
+et l'antimoine pour la couche inférieure .
+vous savez , je dois vous dire , un des plus grands avantages d'être un professeur : la craie de couleur .
+donc , pour produire du courant , le magnésium perd deux électrons pour devenir ion magnésium , qui migre ensuite à travers l'électrolyte , accepte deux électrons de l'antimoine , et se mélange ensuite avec lui pour former un _UNK_ .
+les électrons se mettent au travail dans le monde réel ici , et alimentent nos appareils .
+maintenant , pour charger la batterie , nous connectons une source d'électricité .
+ce pourrait être quelque chose comme un parc éolien .
+et puis , nous inversons le courant .
+et cela _UNK_ le magnésium à quitter _UNK_ et à revenir à _UNK_ supérieure , ce qui restaure la constitution initiale de la batterie .
+et le courant qui passe entre les électrodes génère suffisamment de chaleur pour le garder à la température .
+c'est plutôt cool , du moins en théorie .
+mais ça marche vraiment ?
+alors , que faire ensuite ?
+nous allons au laboratoire .
+maintenant est - ce que j'embauche des professionnels chevronnés ?
+non , j'embauche un étudiant et je l'épaule , je lui apprends à réfléchir au problème , à le voir de mon point de vue puis je le laisse faire .
+c'est lui l'étudiant , david _UNK_ , qui , dans cette image , semble se demander si cette chose fonctionnera un jour .
+ce que je n'ai pas dit david à l'époque c'est que je n'étais moi - même pas convaincu que cela fonctionnerait .
+mais david est jeune et il est intelligent et il veut un doctorat , et il procède à la construction - il procède à la construction de la première batterie en métal liquide de cette chimie .
+et sur la base des premiers résultats prometteurs de david , qui ont été payés avec des fonds _UNK_ au mit , j'ai pu attirer des fonds de recherche majeurs du secteur privé et du gouvernement fédéral .
+et ce qui m'a permis d'élargir mon groupe à 20 personnes , un mélange d'étudiants diplômés , de post - doctorants et même des étudiants de premier cycle .
+et j'ai pu attirer des gens vraiment , vraiment bons , des gens qui partagent ma passion pour la science et le service à la société , pas pour la science et le service pour le développement de carrière .
+et si vous demandez à ces gens pourquoi ils travaillent sur la batterie en métal liquide , leur réponse ferait écho aux remarques du président kennedy à l'université rice en 1962 quand il a dit - et je prends des libertés ici - " nous avons choisi de travailler sur le réseau au niveau de stockage , non pas parce que c'est facile , mais parce que c'est dur . " c'est donc l'évolution de la batterie en métal liquide .
+nous commençons ici avec notre pile d'un _UNK_ .
+je l'ai appelé le petit verre .
+nous en avons exploité plus de 400 , en _UNK_ leurs performances avec une pluralité de _UNK_ - pas seulement du magnésium et de l'antimoine .
+au fil du temps nous sommes passés à la pile de 20 watts - heure .
+c'est ce que j'appelle le palet de hockey .
+et nous avons obtenu les mêmes résultats remarquables .
+et puis , il était sur la soucoupe .
+c'est 200 _UNK_ .
+la technologie s'est avérée être robuste et adaptable .
+mais le rythme n'était pas assez rapide pour nous .
+donc , il y a un an et demi , david et moi , avec un autre membre du personnel de recherche , nous avons formé une société pour accélérer le rythme des progrès et la course pour fabriquer un produit .
+donc , aujourd'hui , au _UNK_ , nous construisons des cellules de 41 cm de diamètre d'une capacité de un kilowattheure - 1000 fois la capacité de cette cellule petit verre initiale .
+nous l'appelons la pizza .
+et puis nous avons une cellule de quatre _UNK_ en préparation .
+elle fera 91 cm de diamètre .
+nous l'appelons la table de bistro , mais elle n'est pas encore prête à montrer au public .
+et une variante de la technologie nous fait empiler ces plateaux de bistrot en modules , agréger les modules en une pile géante qui entre dans un conteneur d'expédition de 12 mètres pour le placement sur le terrain .
+et cela a une capacité _UNK_ de deux mégawatts - heures - deux millions de watts - heures .
+c'est assez d'énergie pour répondre aux besoins quotidiens électriques de 200 ménages américains .
+alors là , vous l'avez , le stockage au niveau du réseau : silencieux , sans émissions , pas de pièces mobiles , télécommandé , conçu pour le prix de _UNK_ sur le marché sans subvention .
+alors qu'avons - nous appris de tout cela ?
+alors qu'avons - nous appris de tout cela ?
+permettez - moi de partager avec vous quelques - unes des surprises , des hétérodoxies .
+elles se trouvent au - delà du visible .
+température : la sagesse conventionnelle dit de la régler à un niveau faible .
+à ou près de la température ambiante , puis installer un système de contrôle pour la maintenir .
+_UNK_ _UNK_ thermique .
+la batterie de métal liquide est conçue pour fonctionner à une température élevée avec une régulation minimale .
+notre batterie peut gérer les hausses très importantes de température qui viennent des _UNK_ .
+changement d'échelle : la sagesse conventionnelle dit de réduire les coûts en produisant en grand nombre .
+la batterie métal liquide est conçue pour réduire les coûts en produisant moins , mais elles seront plus grandes .
+et enfin , les ressources humaines : la sagesse conventionnelle dit d'engager des experts de la batterie , des professionnels chevronnés , qui peuvent tirer parti de leurs vastes expérience et connaissances .
+pour développer la batterie en métal liquide , j'ai embauché des étudiants et des post - doctorants et les ai encadrés .
+dans une batterie , je m'efforce de maximiser le potentiel électrique ; quand _UNK_ , je m'efforce de maximiser le potentiel humain .
+donc , vous voyez , l'histoire de la batterie de métal liquide est plus qu'un compte - rendu sur l'invention d'une technologie , c'est un plan pour inventer les inventeurs , à spectre complet .

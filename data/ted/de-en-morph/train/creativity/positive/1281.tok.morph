@@ -1,0 +1,42 @@
+lassen	sie	mich	 ihn 	 en 	 	rezero	 vor 	 stellen 	 	.
+ dies 	 er 	 	 klein 	 e 	 	kerl	wurde	von	 ein 	 er 	 	gruppe	von	10	studenten	im	grundstudium	am	labor	für	 autonom 	 e 	 	systeme	an	der	_UNK_	in	zürich	entwickelt	.
+unser	roboter	gehört	zu	 ein 	 er 	 	_UNK_	 namen 	 s 	 	_UNK_	,	ballroboter	.
+ an 	 stelle 	 	von	rädern	balanciert	und	bewegt	sich	so	ein	ballbot	auf	 ein 	 em 	 	 einzeln 	 en 	 	ball	.
+die	_UNK_	 ein 	 es 	 	 solch 	 en 	 	systems	sind	,	dass	es	 ein 	 en 	 	 einzig 	 en 	 	_UNK_	am	boden	gibt	.
+das	 be 	 deutet 	 	,	der	roboter	ist	_UNK_	 in 	 stabil 	 	.
+es	ist	,	 al 	 s 	 	ob	ich	 versuch 	 e 	 	,	auf	 ein 	 em 	 	fuß	zu	stehen	.
+sie	 mög 	 en 	 	sich	fragen	,	wo	liegt	der	nutzen	 ein 	 es 	 	 in 	 stabil 	 en 	 	roboters	?
+ n 	 un 	 	,	wir	werden	 ihn 	 en 	 	das	gleich	 erklär 	 en 	 	.
+lassen	sie	mich	erst	 aus 	 führen 	 	,	wie	rezero	tatsächlich	in	balance	bleibt	.
+rezero	hält	 sein 	 e 	 	balance	,	 in 	 dem 	 	er	konstant	 sein 	 en 	 	_UNK_	mit	 ein 	 em 	 	sensor	berechnet	.
+dann	wirkt	er	dem	entgegen	und	 ver 	 meide 	 t 	 	 ein 	 en 	 	sturz	,	 in 	 dem 	 	er	die	motoren	 dem 	 entsprechend 	 	dreht	.
+das	 gesc 	 hieht 	 	160	mal	pro	sekunde	und	wenn	in	 dies 	 em 	 	prozess	 irgend 	 etwas 	 	schief	geht	,	 fiel 	 e 	 	rezero	 so 	 fort 	 	zu	boden	.
+ n 	 un 	 	,	um	sich	zu	bewegen	und	zu	balancieren	,	 mus 	 s 	 	rezero	den	ball	drehen	.
+der	ball	wird	von	drei	 speziell 	 en 	 	rädern	 an 	 getrieben 	 	,	die	es	rezero	 erlaube 	 n 	 	,	sich	in	jede	richtung	zu	bewegen	und	sich	auch	 gleich 	 zeitig 	 	um	 sein 	 e 	 	 eigen 	 e 	 	achse	zu	drehen	.
+durch	 sein 	 e 	 	instabilität	ist	rezero	immer	in	bewegung	.	der	trick	ist	wie	folgt	:
+es	ist	tatsächlich	genau	 dies 	 e 	 	instabilität	,	die	 ein 	 em 	 	roboter	erlaubt	,	sich	 s 	 ehr 	 	[	dynamisch	]	zu	bewegen	.
+lassen	sie	 un 	 s 	 	ein	wenig	spielen	.
+sie	haben	sich	 vielleich 	 t 	 	gefragt	,	was	 gesc 	 hieht 	 	,	wenn	ich	dem	roboter	 ein 	 en 	 	 klein 	 en 	 	schubs	 ge 	 be 	 	.
+in	 dies 	 em 	 	modus	 ver 	 sucht 	 	er	,	 sein 	 e 	 	position	zu	halten	.
+für	die	 nächst 	 e 	 	demonstration	 möcht 	 e 	 	ich	 ihn 	 en 	 	meine	kollegen	 vor 	 stellen 	 	:	michael	am	computer	und	thomas	,	der	mir	hier	auf	der	bühne	helfen	wird	.
+im	 nächst 	 en 	 	modus	ist	rezero	passiv	und	wir	können	ihn	 herum 	 schieben 	 	.
+ bei 	 nahe 	 	ohne	_UNK_	kann	ich	 sein 	 e 	 	position	und	geschwindigkeit	 kontroll 	 ieren 	 	.
+ich	kann	ihn	auch	 zu 	 m 	 	drehen	bringen	.
+im	 nächst 	 en 	 	modus	können	wir	rezero	dazu	bringen	,	 ein 	 er 	 	person	zu	folgen	.
+er	hält	 n 	 un 	 	 ein 	 e 	 	 konstant 	 e 	 	distanz	zu	thomas	.
+das	 gesc 	 hieht 	 	mit	hilfe	 ein 	 es 	 	_UNK_	,	der	oben	auf	rezero	montiert	ist	.
+mit	 der 	 selben 	 	methode	können	wir	ihn	auch	dazu	bringen	,	 ein 	 e 	 	person	zu	 um 	 kreisen 	 	.
+wir	nennen	das	den	_UNK_	modus	.
+gut	,	 viel 	 en 	 	dank	dir	,	thomas	.
+ n 	 un 	 	,	 wo 	 zu 	 	dient	 dies 	 e 	 	technologie	?
+für	den	moment	ist	es	ein	experiment	,	 ab 	 er 	 	lassen	sie	mich	 ihn 	 en 	 	 einig 	 e 	 	mögliche	anwendungen	zeigen	.
+rezero	 könnt 	 e 	 	in	ausstellungen	oder	parks	 ein 	 gesetzt 	 	werden	.
+mit	 ein 	 em 	 	monitor	 könnt 	 e 	 	er	die	leute	 in 	 form 	 ieren 	 	,	oder	sie	auf	 unterhaltsam 	 e 	 	und	 spaßig 	 e 	 	art	_UNK_	.
+in	 ein 	 em 	 	krankenhaus	 könnt 	 e 	 	das	gerät	dazu	 ver 	 wendet 	 	werden	,	 medizinisch 	 e 	 	apparate	 herum 	 zutragen 	 	.
+dank	des	ballbot	-	systems	hat	es	 ein 	 en 	 	 s 	 ehr 	 	 klein 	 en 	 	fußabdruck	und	ist	auch	 s 	 ehr 	 	einfach	zu	bewegen	.
+und	natürlich	,	wer	 möcht 	 e 	 	nicht	einmal	auf	 ein 	 em 	 	von	 dies 	 en 	 	dingern	reiten	.
+das	sind	 e 	 her 	 	die	 praktische 	 n 	 	anwendungen	.
+ ab 	 er 	 	es	liegt	auch	 ein 	 e 	 	 gewiss 	 e 	 	schönheit	in	 dies 	 er 	 	technologie	.
+danke	.
+ viel 	 en 	 	dank	.
+

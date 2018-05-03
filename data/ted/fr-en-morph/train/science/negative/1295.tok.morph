@@ -1,0 +1,220 @@
+ com 	 bien 	 	 d' 	 entre 	 	vous	ont	 dé 	 jà 	 	eu	à	 rempli 	 r 	 	un	 formula 	 ire 	 	en	ligne	dans	 le 	 quel 	 	on	vous	demande	de	 li 	 re 	 	une	séquence	 dé 	 formé 	 e 	 	de	 caractère 	 s 	 	 t 	 elle 	 	que	ceux	-	là	?
+ com 	 bien 	 	 d' 	 entre 	 	vous	ont	trouvé	ça	 vrai 	 ment 	 	,	 vrai 	 ment 	 	_UNK_	?
+ok	,	c'est	clair	.	 e 	 t 	 	c'est	moi	qui	 l' 	 ai 	 	inventé	.
+enfin	,	j'ai	 particip 	 é 	 	à	son	invention	.
+ ce 	 tte 	 	chose	 s' 	 appelle 	 	un	captcha	.
+ e 	 t 	 	 s 	 a 	 	raison	 d' 	 être 	 	est	de	 vérifie 	 r 	 	que	vous	,	_UNK_	qui	 rempli 	 t 	 	le	 formula 	 ire 	 	,	êtes	bien	un	humain	 e 	 t 	 	pas	un	 quel 	 con 	 que 	 	programme	informatique	,	créé	pour	 sou 	 mettre 	 	le	 formula 	 ire 	 	des	 million 	 s 	 	 e 	 t 	 	des	 million 	 s 	 	de	fois	.
+la	raison	pour	 la 	 quelle 	 	ça	marche	est	que	les	 humain 	 s 	 	en	tous	cas	les	 humain 	 s 	 	qui	ne	 s 	 ont 	 	pas	mal	 voyant 	 s 	 	,	 n' 	 ont 	 	pas	de	problème	pour	 li 	 re 	 	des	 caractère 	 s 	 	_UNK_	 e 	 t 	 	 dé 	 formé 	 s 	 	,	alors	que	les	 programme 	 s 	 	 informatique 	 s 	 	ne	peuvent	pas	encore	le	faire	aussi	bien	.
+par	exemple	,	dans	le	cas	de	``	ticketmaster	``	,	la	raison	pour	 la 	 quelle 	 	vous	 dev 	 ez 	 	 tape 	 r 	 	 ce 	 s 	 	 caractère 	 s 	 	est	 d' 	 empêche 	 r 	 	des	 revend 	 eurs 	 	au	marché	noir	 d' 	 écrire 	 	un	programme	qui	pourrait	acheter	des	 million 	 s 	 	de	 ti 	 cket 	 s 	 	,	deux	par	deux	.
+les	captcha	 s 	 ont 	 	 utilisé 	 s 	 	 par 	 tout 	 	sur	internet	.
+ e 	 t 	 	comme	on	les	utilise	aussi	 sou 	 vent 	 	,	de	 nombre 	 uses 	 	fois	,	la	séquence	de	 caractère 	 s 	 	 aléatoire 	 s 	 	qui	est	 montré 	 e 	 	à	 l' 	 utilisateur 	 	n'est	pas	très	heureuse	.
+voici	un	exemple	tiré	de	la	page	 d' 	 inscription 	 	de	yahoo	.
+les	 caractère 	 s 	 	 aléatoire 	 s 	 	 montré 	 s 	 	à	 l' 	 utilisateur 	 	étaient	a	,	t	,	t	,	e	,	n	,	d	,	r	,	e	,	qui	,	bien	sûr	,	 forme 	 nt 	 	un	mot	.
+ mai 	 s 	 	le	plus	drôle	c'est	le	 messag 	 e 	 	que	 l' 	 aide 	 	en	ligne	de	yahoo	a	reçu	environ	20	min	plus	tard	.
+texte	:	``	aidez	-	moi	!	 j' 	 attend 	 s 	 	 de 	 puis 	 	plus	de	20	min	,	 e 	 t 	 	il	ne	 s 	 e 	 	passe	rien	.	``
+la	personne	 pens 	 ait 	 	 de 	 voir 	 	 attend 	 re 	 	.
+bien	sûr	,	ce	n'est	pas	aussi	terrible	que	ce	qui	est	 arriv 	 é 	 	à	 ce 	 tte 	 	pauvre	personne	.
+nous	avons	lancé	le	projet	captcha	il	y	a	plus	de	10	 an 	 s 	 	,	ici	,	à	carnegie	mellon	,	 e 	 t 	 	il	est	 main 	 tenant 	 	utilisé	 par 	 tout 	 	.
+laissez	-	moi	 main 	 tenant 	 	vous	 parle 	 r 	 	 d' 	 un 	 	projet	que	nous	avons	lancé	 quelque 	 s 	 	 année 	 s 	 	plus	tard	,	qui	est	,	en	quelque	 sort 	 e 	 	,	 l' 	 étape 	 	 suiv 	 ante 	 	du	captcha	.
+il	 s 	 'agit 	 	du	projet	que	nous	avons	appelé	recaptcha	,	que	nous	avons	 commenc 	 é 	 	ici	à	carnegie	mellon	,	puis	que	nous	avons	 trans 	 formé 	 	en	start	-	up	.
+ e 	 t 	 	il	y	environ	un	an	 e 	 t 	 	demi	,	google	l'a	en	fait	_UNK_	.
+laissez	-	moi	vous	 raconte 	 r 	 	les	 début 	 s 	 	de	ce	projet	.
+ce	projet	est	né	du	constat	 suiv 	 ant 	 	:	il	s'avère	_UNK_	200	 million 	 s 	 	de	captcha	 s 	 ont 	 	 tap 	 és 	 	par	des	 gen 	 s 	 	tous	les	 jour 	 s 	 	dans	le	monde	.
+la	première	fois	que	j'ai	entendu	ça	,	 j' 	 étais 	 	assez	fier	de	moi	.
+je	me	suis	dit	``	regarde	 l' 	 influence 	 	que	ma	recherche	a	 eu 	 e 	 	``	.
+ mai 	 s 	 	 en 	 suite 	 	,	j'ai	 commenc 	 é 	 	à	me	 senti 	 r 	 	mal	.
+en	effet	,	à	 cha 	 que 	 	fois	que	vous	 tape 	 z 	 	un	captcha	,	vous	 perd 	 ez 	 	en	gros	10	 seconde 	 s 	 	de	 vot 	 re 	 	temps	.
+ e 	 t 	 	si	vous	 multiplie 	 z 	 	ça	par	200	 million 	 s 	 	,	vous	vous	 rend 	 ez 	 	compte	que	 l' 	 humanité 	 	perd	environ	500	000	heures	 cha 	 que 	 	 jour 	 s 	 	en	 tap 	 ant 	 	 ce 	 s 	 	 ennuy 	 eux 	 	captcha	.
+alors	,	j'ai	 commenc 	 é 	 	à	me	 senti 	 r 	 	mal	.
+ e 	 t 	 	puis	j'ai	 commenc 	 é 	 	à	me	 demande 	 r 	 	,	bon	,	bien	sûr	,	on	ne	peut	pas	 simple 	 ment 	 	 s 	 e 	 	 débarrasse 	 r 	 	des	captcha	,	car	la	sécurité	du	web	en	dépend	un	peu	.
+ mai 	 s 	 	alors	j'ai	 commenc 	 é 	 	à	me	 demande 	 r 	 	 s' 	 il 	 	y	avait	moyen	 d' 	 utiliser 	 	 ce 	 t 	 	effort	pour	quelque	chose	de	 béné 	 f 	 ique 	 	pour	 l' 	 humanité 	 	?
+pendant	que	vous	 tape 	 z 	 	un	captcha	,	pendant	 ce 	 s 	 	10	 seconde 	 s 	 	,	 vot 	 re 	 	cerveau	fait	quelque	chose	 d' 	 incroyable 	 	.
+ vot 	 re 	 	cerveau	fait	quelque	chose	que	les	 ordinateur 	 s 	 	ne	 s 	 a 	 vent 	 	pas	encore	faire	.
+ pouv 	 ons 	 	-	nous	alors	vous	amener	à	faire	un	travail	utile	pendant	 ce 	 s 	 	10	 seconde 	 s 	 	?
+y	a	-	t	-	il	un	énorme	problème	que	nous	ne	 s 	 ach 	 ions 	 	pas	encore	 résoud 	 re 	 	à	 l' 	 aide 	 	 d' 	 ordinateur 	 s 	 	,	 mai 	 s 	 	que	nous	 puis 	 s 	 ions 	 	 découpe 	 r 	 	en	petits	 bout 	 s 	 	de	10	 seconde 	 s 	 	de	façon	à	ce	que	 cha 	 que 	 	fois	que	 quel 	 qu'un 	 	 ré 	 s 	 out 	 	un	captcha	,	il	 ré 	 s 	 out 	 	un	petit	bout	de	ce	problème	?
+ e 	 t 	 	la	réponse	est	``	oui	``	,	 e 	 t 	 	c'est	ce	que	nous	faisons	 main 	 tenant 	 	.
+ce	que	vous	ne	 s 	 avez 	 	peut	-	être	pas	,	c'est	que	 main 	 tenant 	 	,	quand	vous	 tape 	 z 	 	un	captcha	,	non	 seul 	 ement 	 	vous	vous	_UNK_	en	tant	 qu' 	 humain 	 	,	 mai 	 s 	 	en	plus	vous	 contribu 	 ez 	 	à	la	 numér 	 isation 	 	de	 livre 	 s 	 	.
+laissez	-	moi	vous	expliquer	comment	ça	marche	.
+il	y	a	plein	de	 projet 	 s 	 	 do 	 nt 	 	le	but	est	de	 numér 	 iser 	 	des	 livre 	 s 	 	.
+google	en	a	un	.	internet	archive	en	a	un	.
+amazon	,	 main 	 tenant 	 	avec	kindle	,	essaye	de	 numér 	 iser 	 	des	 livre 	 s 	 	.
+ voil 	 à 	 	en	gros	comment	ça	marche	:	vous	prenez	un	 vi 	 eux 	 	livre	.
+vous	voyez	de	quoi	je	parle	,	n'est	-	ce	pas	?	 gen 	 re 	 	,	un	livre	?
+donc	,	vous	prenez	un	livre	 e 	 t 	 	vous	le	_UNK_	.
+scanner	un	livre	,	c'est	comme	prendre	une	photo	 numér 	 ique 	 	de	 cha 	 que 	 	page	du	livre	.
+vous	avez	alors	une	image	de	 cha 	 que 	 	page	du	livre	.
+une	image	avec	du	texte	pour	 cha 	 que 	 	page	du	livre	.
+ l' 	 étape 	 	 suiv 	 ante 	 	du	 process 	 us 	 	implique	que	 l' 	 ordinateur 	 	sache	 dé 	 crypt 	 er 	 	tous	les	 mot 	 s 	 	de	 l' 	 image 	 	.
+on	utilise	une	technologie	 appelé 	 e 	 	roc	,	pour	 re 	 connaissance 	 	optique	de	 caractère 	 s 	 	,	qui	prend	une	image	du	texte	 e 	 t 	 	essaie	 d' 	 identifie 	 r 	 	le	texte	qui	 s' 	 y 	 	 trouv 	 e 	 	.
+le	problème	est	que	la	roc	n'est	pas	parfaite	.
+ sur 	 tout 	 	avec	les	 vi 	 eux 	 	 livre 	 s 	 	,	 do 	 nt 	 	 l' 	 encre 	 	est	 passé 	 e 	 	,	 e 	 t 	 	les	 page 	 s 	 	_UNK_	,	la	roc	ne	reconnait	pas	beaucoup	 mot 	 s 	 	.
+par	exemple	,	pour	des	 truc 	 s 	 	 écrit 	 s 	 	il	y	a	plus	de	50	 an 	 s 	 	,	 l' 	 ordinateur 	 	ne	reconnait	pas	environ	30	%	des	 mot 	 s 	 	.
+nous	prenons	tous	les	 mot 	 s 	 	que	 l' 	 ordinateur 	 	ne	reconnait	pas	 e 	 t 	 	des	 gen 	 s 	 	les	lisent	pour	nous	quand	ils	 tape 	 nt 	 	un	captcha	sur	internet	.
+alors	,	la	 prochain 	 e 	 	fois	que	vous	 tape 	 z 	 	un	captcha	,	 ce 	 s 	 	 mot 	 s 	 	que	vous	_UNK_	 s 	 e 	 ront 	 	en	fait	des	 mot 	 s 	 	venant	de	 livre 	 s 	 	en	cours	de	 numér 	 isation 	 	que	 l' 	 ordinateur 	 	n'a	pas	su	 reconnait 	 re 	 	.
+ e 	 t 	 	la	raison	pour	 la 	 quelle 	 	nous	avons	deux	 mot 	 s 	 	,	 e 	 t 	 	non	pas	un	seul	,	est	qu'un	de	 ce 	 s 	 	 mot 	 s 	 	est	un	mot	que	le	système	a	tiré	 d' 	 un 	 	livre	,	sans	 s 	 avoir 	 	ce	que	c'est	,	 e 	 t 	 	il	va	vous	le	 montre 	 r 	 	.
+ mai 	 s 	 	comme	il	ne	connait	pas	la	bonne	réponse	,	il	ne	peut	pas	évaluer	la	vôtre	.
+donc	nous	vous	en	donnons	un	autre	,	un	pour	 le 	 quel 	 	le	système	connait	la	réponse	.
+nous	ne	vous	 dis 	 ons 	 	pas	 le 	 quel 	 	est	 le 	 quel 	 	,	 e 	 t 	 	nous	vous	 demand 	 ons 	 	de	 tape 	 r 	 	les	deux	.
+ e 	 t 	 	si	vous	 tape 	 z 	 	le	bon	mot	pour	celui	pour	 le 	 quel 	 	le	système	connait	 dé 	 jà 	 	la	réponse	,	il	suppose	que	vous	êtes	humain	,	 e 	 t 	 	il	vous	fait	 confi 	 ante 	 	pour	 tape 	 r 	 	 l' 	 autre 	 	mot	 correct 	 ement 	 	.
+ e 	 t 	 	si	nous	 ré 	 pét 	 ons 	 	ce	 process 	 us 	 	avec	environ	10	 personne 	 s 	 	 différent 	 es 	 	,	 e 	 t 	 	que	 tout 	 es 	 	 tombe 	 nt 	 	 d' 	 accord 	 	sur	le	nouveau	mot	,	alors	nous	 obten 	 ons 	 	un	mot	de	plus	numérisé	 correct 	 ement 	 	.
+voila	comment	fonctionne	le	système	.
+ e 	 t 	 	en	gros	,	 de 	 puis 	 	que	nous	 l' 	 avons 	 	lancé	,	il	y	a	3	ou	4	 an 	 s 	 	,	beaucoup	de	 site 	 s 	 	web	ont	 commenc 	 é 	 	à	passer	du	 vi 	 eux 	 	captcha	avec	 le 	 quel 	 	les	 gen 	 s 	 	 perd 	 aient 	 	leur	temps	au	nouveau	captcha	avec	 le 	 quel 	 	les	 gen 	 s 	 	 contribu 	 ent 	 	à	 numér 	 iser 	 	des	 livre 	 s 	 	.
+par	exemple	,	ticketmaster	.
+alors	 cha 	 que 	 	fois	que	vous	achetez	un	 bille 	 t 	 	sur	ticketmaster	,	vous	 contribu 	 ez 	 	à	 numér 	 iser 	 	un	livre	.
+ face 	 book 	 	:	 cha 	 que 	 	fois	que	vous	 ajoute 	 z 	 	 quel 	 qu'un 	 	,	ou	lui	envoyez	un	_UNK_	vous	 contribu 	 ez 	 	à	 numér 	 iser 	 	un	livre	.
+ twitt 	 er 	 	 e 	 t 	 	environ	350	000	 autre 	 s 	 	 site 	 s 	 	 utilise 	 nt 	 	recaptcha	.
+ e 	 t 	 	en	fait	,	le	nombre	de	 site 	 s 	 	 utilis 	 ant 	 	recaptcha	est	si	grand	que	le	nombre	de	 mot 	 s 	 	que	nous	 numér 	 isons 	 	par	jour	est	très	très	grand	.
+c'est	environ	100	 million 	 s 	 	par	jour	,	soit	 l' 	 équivalent 	 	 d' 	 à 	 	peu	près	2,5	 million 	 s 	 	de	 livre 	 s 	 	par	an	.
+ e 	 t 	 	tout	est	fait	un	mot	après	 l' 	 autre 	 	,	 unique 	 ment 	 	par	des	 gen 	 s 	 	qui	 tape 	 nt 	 	des	captcha	sur	internet	.
+bien	sûr	,	 puisqu 	 e 	 	nous	faisons	 t 	 ellement 	 	de	 mot 	 s 	 	par	jour	,	il	peut	 s 	 e 	 	 pro 	 duire 	 	de	 drôle 	 s 	 	de	 chose 	 s 	 	.
+ e 	 t 	 	c'est	 particulière 	 ment 	 	vrai	car	nous	 propos 	 ons 	 	aux	 gen 	 s 	 	deux	 mot 	 s 	 	 pri 	 s 	 	au	hasard	dans	la	langue	 anglais 	 e 	 	,	 l' 	 un 	 	à	côté	de	 l' 	 autre 	 	.
+ e 	 t 	 	donc	de	 drôle 	 s 	 	de	 chose 	 s 	 	 s 	 e 	 	 produis 	 ent 	 	.
+par	exemple	,	nous	avons	 propos 	 é 	 	ce	mot	.
+il	 s 	 'agit 	 	du	mot	``	 chrétien 	 s 	 	``	;	il	 n' 	 y 	 	a	rien	de	mal	à	ça	.
+ mai 	 s 	 	si	vous	le	 présent 	 ez 	 	à	côté	 d' 	 un 	 	autre	mot	 pri 	 s 	 	au	hasard	,	de	 mauvais 	 es 	 	 chose 	 s 	 	peuvent	 s 	 e 	 	 pro 	 duire 	 	.
+ainsi	,	nous	avons	obtenu	ça	.
+ e 	 t 	 	c'est	bien	 pi 	 re 	 	,	car	il	 s 	 e 	 	 trouv 	 e 	 	que	le	site	web	où	cela	 s' 	 est 	 	 affich 	 é 	 	était	en	fait	appelé	ambassade	du	royaume	de	dieu	.
+oh	la	gaffe	!
+voici	encore	un	 vrai 	 ment 	 	mauvais	coup	.
+_UNK_	ainsi	,	nous	_UNK_	sans	cesse	des	 gen 	 s 	 	ici	 e 	 t 	 	là	,	tous	les	 jour 	 s 	 	.
+bien	sûr	,	nous	ne	nous	 content 	 ons 	 	pas	de	les	 insulte 	 r 	 	.
+vous	voyez	,	le	truc	c'est	que	,	 puisqu 	 e 	 	nous	 présent 	 ons 	 	deux	 mot 	 s 	 	 pri 	 s 	 	au	hasard	,	il	peut	 s 	 e 	 	passer	des	 chose 	 s 	 	 intéressant 	 es 	 	.
+ e 	 t 	 	ça	a	donné	lieu	à	un	immense	mème	sur	internet	,	 au 	 quel 	 	des	 dizaine 	 s 	 	de	 milli 	 er 	 s 	 	de	 personne 	 s 	 	ont	 particip 	 é 	 	,	 e 	 t 	 	qui	 s' 	 appelle 	 	le	captcha	art	.
+je	suis	sûr	que	 certain 	 s 	 	 d' 	 entre 	 	en	ont	 dé 	 jà 	 	entendu	 parle 	 r 	 	.
+voici	comment	ça	marche	.
+ imagine 	 z 	 	que	vous	 s 	 oyez 	 	en	train	 d' 	 utiliser 	 	internet	 e 	 t 	 	que	vous	 voy 	 iez 	 	un	captcha	,	que	vous	 trouv 	 ez 	 	quelque	peu	bizarre	,	comme	ce	captcha	.
+ce	que	vous	êtes	alors	censé	faire	,	c'est	une	capture	 d' 	 écran 	 	.
+bien	sûr	,	 en 	 suite 	 	,	vous	 rempli 	 ssez 	 	le	captcha	car	vous	nous	aidez	à	 numér 	 iser 	 	un	livre	.
+ mai 	 s 	 	 en 	 suite 	 	,	 d' 	 abord 	 	vous	faites	une	capture	 d' 	 écran 	 	,	 e 	 t 	 	 en 	 suite 	 	vous	 dessin 	 ez 	 	quelque	chose	qui	ait	un	rapport	.
+ voil 	 à 	 	comment	ça	marche	.
+il	y	en	a	des	 dizaine 	 s 	 	de	 milli 	 er 	 s 	 	comme	ça	.
+ certain 	 s 	 	 s 	 ont 	 	 vrai 	 ment 	 	 mignon 	 s 	 	.
+ d' 	 autre 	 s 	 	 s 	 ont 	 	plus	 drôle 	 s 	 	.
+ e 	 t 	 	 certain 	 s 	 	,	comme	bidule	 paléonto 	 logique 	 	,	font	 figure 	 r 	 	_UNK_	_UNK_	.
+bon	,	 voil 	 à 	 	mon	nombre	 préfé 	 ré 	 	de	recaptcha	.
+ e 	 t 	 	c'est	le	truc	que	je	préfère	dans	tout	ce	projet	.
+c'est	le	nombre	de	 personne 	 s 	 	 distinct 	 es 	 	qui	ont	 contribu 	 é 	 	à	 numér 	 iser 	 	au	moins	un	mot	avec	recaptcha	:	750	 million 	 s 	 	de	 personne 	 s 	 	,	soit	un	peu	plus	de	10	%	de	la	population	 mondial 	 e 	 	,	nous	ont	 aidé 	 s 	 	à	 numér 	 iser 	 	le	 s 	 avoir 	 	humain	.
+ e 	 t 	 	c'est	ce	 gen 	 re 	 	de	nombre	qui	me	motive	à	continuer	mes	 recherche 	 s 	 	.
+ e 	 t 	 	la	question	qui	motive	mes	 recherche 	 s 	 	est	la	 suiv 	 ante 	 	:	si	vous	 observe 	 z 	 	ce	que	 l' 	 humanité 	 	a	fait	à	 grand 	 e 	 	échelle	,	 ce 	 s 	 	 chose 	 s 	 	 vrai 	 ment 	 	 grand 	 es 	 	,	que	 l' 	 humanité 	 	a	faites	dans	 l' 	 histoire 	 	,	comme	par	exemple	 construi 	 re 	 	les	 pyramid 	 es 	 	_UNK_	,	ou	le	canal	de	panama	,	ou	envoyer	un	homme	sur	la	lune	,	elles	 présent 	 ent 	 	un	fait	 curi 	 eux 	 	,	c'est	 qu' 	 elles 	 	ont	 tout 	 e 	 	été	 réalisé 	 es 	 	par	le	même	nombre	de	 gen 	 s 	 	.
+c'est	étrange	:	elles	ont	 tout 	 es 	 	été	 réalisé 	 es 	 	par	environ	100	000	 personne 	 s 	 	.
+ e 	 t 	 	la	raison	en	est	que	,	avant	internet	,	 coordonne 	 r 	 	plus	de	100	000	 personne 	 s 	 	,	sans	 parle 	 r 	 	de	les	 paye 	 r 	 	,	était	impossible	.
+ mai 	 s 	 	 main 	 tenant 	 	,	avec	internet	,	je	viens	de	vous	 montre 	 r 	 	un	projet	dans	 le 	 quel 	 	j'ai	obtenu	que	750	 million 	 s 	 	de	 personne 	 s 	 	nous	 aide 	 nt 	 	à	 numér 	 iser 	 	le	 s 	 avoir 	 	humain	.
+donc	,	la	question	qui	motive	mes	 recherche 	 s 	 	est	,	si	nous	 pouv 	 ons 	 	envoyer	un	homme	sur	la	lune	avec	100	000	 personne 	 s 	 	,	que	 pouv 	 ons 	 	-	nous	faire	avec	100	 million 	 s 	 	de	 personne 	 s 	 	?
+en	 part 	 ant 	 	de	 ce 	 tte 	 	question	,	nous	avons	travaillé	sur	de	 nombre 	 ux 	 	 projet 	 s 	 	 différent 	 s 	 	.
+laissez	-	moi	vous	 parle 	 r 	 	de	celui	qui	 m' 	 enthousiasme 	 	le	plus	.
+nous	 travail 	 lons 	 	là	-	dessus	sans	en	 parle 	 r 	 	trop	 de 	 puis 	 	environ	un	an	 e 	 t 	 	demi	.
+on	ne	l'a	pas	encore	lancé	.	ça	 s' 	 appelle 	 	duolingo	.
+comme	on	ne	l'a	pas	encore	lancé	,	chut	!
+oui	,	je	peux	vous	faire	 confi 	 ance 	 	pour	ça	.
+voici	donc	ce	projet	.	 voil 	 à 	 	comment	il	a	 commenc 	 é 	 	.
+il	a	 commenc 	 é 	 	quand	j'ai	posé	une	question	à	mon	étudiant	en	doctorat	,	severin	hacker	.
+voici	severin	hacker	.
+je	lui	ai	donc	posé	la	question	.
+au	fait	,	vous	 m' 	 avez 	 	bien	entendu	;	son	nom	de	famille	est	hacker	.
+je	lui	ai	donc	posé	 ce 	 tte 	 	question	:	comment	faire	pour	que	100	 million 	 s 	 	de	 personne 	 s 	 	 traduis 	 ent 	 	 gratuit 	 ement 	 	le	web	dans	 tout 	 es 	 	les	 langue 	 s 	 	 principal 	 es 	 	?
+bon	,	il	y	a	beaucoup	à	dire	là	dessus	.
+ d' 	 abord 	 	,	 tradui 	 re 	 	le	web	.
+pour	le	moment	,	le	web	est	_UNK_	en	de	 multi 	 ple 	 s 	 	 langue 	 s 	 	.
+une	 grand 	 e 	 	 parti 	 e 	 	est	en	anglais	.
+si	vous	ne	 connaisse 	 z 	 	pas	du	tout	 l' 	 anglais 	 	,	vous	ne	 pouv 	 ez 	 	pas	y	 accéd 	 er 	 	.
+ mai 	 s 	 	il	y	en	a	de	 grand 	 es 	 	 parti 	 es 	 	dans	 d' 	 autre 	 s 	 	 langue 	 s 	 	 différent 	 es 	 	,	 e 	 t 	 	si	vous	ne	 connaisse 	 z 	 	pas	 ce 	 s 	 	 langue 	 s 	 	,	vous	ne	 pouv 	 ez 	 	pas	y	 accéd 	 er 	 	.
+alors	 j' 	 aimerais 	 	 tradui 	 re 	 	tout	 l' 	 internet 	 	,	ou	tout	du	moins	la	plus	 grand 	 e 	 	 parti 	 e 	 	du	web	,	dans	 tout 	 es 	 	les	 langue 	 s 	 	 principal 	 es 	 	.
+c'est	ce	que	 j' 	 aimerais 	 	faire	.
+ certain 	 s 	 	 d' 	 entre 	 	vous	me	 di 	 ront 	 	,	pourquoi	ne	 pouv 	 ons 	 	-	nous	pas	utiliser	les	 ordinateur 	 s 	 	pour	faire	 ce 	 tte 	 	 traduc 	 tion 	 	?
+pourquoi	ne	 pouv 	 ons 	 	-	nous	pas	utiliser	la	 traduc 	 tion 	 	 informat 	 isée 	 	?
+de	 no 	 s 	 	 jour 	 s 	 	,	on	a	 commenc 	 é 	 	à	 tradui 	 re 	 	des	 phrase 	 s 	 	ici	 e 	 t 	 	là	avec	la	 traduc 	 tion 	 	 informat 	 isée 	 	.
+pourquoi	ne	 pouv 	 ons 	 	-	nous	pas	 l' 	 utiliser 	 	pour	 tradui 	 re 	 	tout	le	web	?
+ e 	 t 	 	bien	,	le	problème	est	que	ce	n'est	pas	encore	assez	bon	 e 	 t 	 	que	ça	ne	le	 s 	 era 	 	pas	avant	les	15	à	20	 prochain 	 es 	 	 année 	 s 	 	.
+il	y	a	beaucoup	 d' 	 erreur 	 s 	 	.
+même	quand	il	 n' 	 y 	 	a	pas	 d' 	 erreur 	 	,	elles	 s 	 ont 	 	 t 	 ellement 	 	 fréquent 	 es 	 	que	vous	ne	 s 	 avez 	 	pas	si	vous	 pouv 	 ez 	 	vous	y	fier	ou	pas	.
+ permette 	 z 	 	-	moi	de	vous	 montre 	 r 	 	un	exemple	de	 traduc 	 tion 	 	 fait 	 e 	 	par	ordinateur	.
+en	fait	,	c'est	un	 bille 	 t 	 	sur	un	forum	.
+c'est	 quel 	 qu'un 	 	qui	 essay 	 ait 	 	de	poser	une	question	à	propos	de	javascript	.
+ça	a	été	traduit	du	japonais	à	 l' 	 anglais 	 	.
+je	vais	vous	le	laisser	 li 	 re 	 	.
+ ce 	 tte 	 	personne	commence	par	 s' 	 excuse 	 r 	 	pour	le	fait	que	c'est	une	 traduc 	 tion 	 	 fait 	 e 	 	par	ordinateur	.
+la	phrase	 suiv 	 ante 	 	 s 	 era 	 	le	 pré 	 ambule 	 	à	la	question	.
+il	ne	fait	donc	 qu' 	 expliquer 	 	quelque	chose	.
+ sou 	 venez 	 	-	vous	,	c'est	une	question	à	propos	de	javascript	.
+ en 	 suite 	 	vient	la	première	 parti 	 e 	 	de	la	question	.
+ en 	 suite 	 	vient	la	 parti 	 e 	 	de	la	question	que	je	préfère	.
+ e 	 t 	 	puis	vient	la	fin	,	qui	est	ce	que	je	préfère	dans	tout	ça	.
+bon	,	donc	,	la	 traduc 	 tion 	 	par	ordinateur	,	pas	encore	assez	bonne	.
+ re 	 venons 	 	à	la	question	de	 dé 	 part 	 	.
+nous	avons	donc	besoin	de	 gen 	 s 	 	pour	 tradui 	 re 	 	tout	le	web	.
+ main 	 tenant 	 	,	la	question	 suiv 	 ante 	 	que	vous	vous	posez	peut	-	être	,	c'est	pourquoi	ne	 pouv 	 ons 	 	-	nous	pas	 simple 	 ment 	 	 paye 	 r 	 	des	 gen 	 s 	 	pour	le	faire	?
+nous	 pourri 	 ons 	 	 paye 	 r 	 	des	 traduc 	 teurs 	 	 professionnel 	 s 	 	pour	 tradui 	 re 	 	tout	le	web	.
+nous	 pourri 	 ons 	 	le	faire	.
+ mal 	 heureuse 	 ment 	 	,	ce	 s 	 e 	 rait 	 	 extrême 	 ment 	 	cher	.
+par	exemple	,	 tradui 	 re 	 	une	minuscule	fraction	de	tout	le	web	,	 wiki 	 pedia 	 	,	dans	une	 seul 	 e 	 	autre	langue	,	 l' 	 espagnol 	 	,	 wiki 	 pedia 	 	existe	en	espagnol	,	 mai 	 s 	 	c'est	très	petit	 compa 	 ré 	 	à	la	 t 	 aille 	 	de	 l' 	 anglais 	 	.
+ça	 représent 	 e 	 	environ	20	%	de	la	 t 	 aille 	 	de	 l' 	 anglais 	 	.
+si	nous	 voul 	 ions 	 	 tradui 	 re 	 	les	80	 autre 	 s 	 	pour	cent	en	espagnol	,	ça	 coûte 	 rait 	 	au	moins	50	 million 	 s 	 	de	 dollar 	 s 	 	,	même	en	_UNK_	dans	le	pays	le	plus	exploité	qui	soit	.
+ce	 s 	 e 	 rait 	 	donc	très	cher	.
+alors	ce	que	nous	 voul 	 ons 	 	faire	,	c'est	trouver	100	 million 	 s 	 	de	 personne 	 s 	 	pour	 tradui 	 re 	 	le	web	dans	 tout 	 es 	 	les	 langue 	 s 	 	 principal 	 es 	 	 gratuit 	 ement 	 	.
+ e 	 t 	 	si	c'est	ce	que	vous	voulez	faire	,	vous	vous	 rend 	 ez 	 	très	vite	compte	que	vous	allez	 tombe 	 r 	 	sur	deux	gros	 o 	 s 	 	,	deux	gros	 obstacle 	 s 	 	.
+le	premier	c'est	le	manque	de	 personne 	 s 	 	 bilingue 	 s 	 	.
+je	ne	 s 	 ais 	 	même	pas	 s' 	 il 	 	existe	100	 million 	 s 	 	de	 gen 	 s 	 	qui	 utilise 	 nt 	 	le	web	 e 	 t 	 	qui	 s 	 ont 	 	 suffi 	 samment 	 	 bilingue 	 s 	 	pour	nous	aider	à	 tradui 	 re 	 	.
+c'est	un	gros	problème	.
+ l' 	 autre 	 	problème	que	vous	allez	 rencontre 	 r 	 	,	c'est	le	manque	de	 motiva 	 tion 	 	.
+comment	allons	-	nous	 motive 	 r 	 	les	 gen 	 s 	 	à	 tradui 	 re 	 	le	web	 gratuit 	 ement 	 	?
+ normal 	 ement 	 	,	on	doit	 paye 	 r 	 	les	 gen 	 s 	 	pour	ça	.
+alors	,	comment	allons	-	nous	les	 motive 	 r 	 	à	le	faire	 gratuit 	 ement 	 	?
+quand	nous	avons	 commenc 	 é 	 	à	y	 ré 	 fléchir 	 	,	nous	étions	 bloqué 	 s 	 	par	 ce 	 s 	 	deux	 chose 	 s 	 	.
+ mai 	 s 	 	 en 	 suite 	 	nous	nous	 somme 	 s 	 	 rendu 	 s 	 	compte	 qu' 	 en 	 	fait	il	y	a	un	moyen	de	 résoud 	 re 	 	 ce 	 s 	 	deux	 problème 	 s 	 	avec	une	solution	unique	.
+une	 man 	 ière 	 	de	faire	 d' 	 une 	 	pierre	deux	 coup 	 s 	 	.
+il	 s 	 'agit 	 	de	 transforme 	 r 	 	la	 traduc 	 tion 	 	en	quelque	chose	que	des	 million 	 s 	 	de	 gen 	 s 	 	veulent	faire	,	tout	en	 contribu 	 ant 	 	à	 résoud 	 re 	 	le	problème	du	manque	de	 personne 	 s 	 	 bilingue 	 s 	 	:	c'est	 l' 	 apprentissage 	 	des	 langue 	 s 	 	.
+il	s'avère	 qu' 	 aujourd'hui 	 	,	il	y	a	plus	de	1,2	milliard	de	 gen 	 s 	 	qui	 apprenn 	 ent 	 	une	langue	 étrang 	 ère 	 	.
+les	 gen 	 s 	 	veulent	 vrai 	 ment 	 	apprendre	une	langue	 étrang 	 ère 	 	.
+ e 	 t 	 	ce	n'est	pas	 seul 	 ement 	 	parce	 qu' 	 on 	 	les	y	oblige	à	 l' 	 école 	 	.
+par	exemple	,	rien	 qu' 	 aux 	 	 état 	 s 	 	-	 uni 	 s 	 	,	il	y	a	plus	de	5	 million 	 s 	 	de	 gen 	 s 	 	qui	ont	payé	au	moins	500	$	des	 log 	 iciel 	 s 	 	pour	apprendre	une	nouvelle	langue	.
+les	 gen 	 s 	 	veulent	donc	 vrai 	 ment 	 	apprendre	une	nouvelle	langue	.
+ce	sur	quoi	nous	 travail 	 lons 	 	 de 	 puis 	 	un	an	 e 	 t 	 	demi	,	c'est	un	nouveau	site	web	,	qui	 s' 	 appelle 	 	duolingo	,	où	 l' 	 idée 	 	de	 dé 	 part 	 	est	que	les	 gen 	 s 	 	 apprenn 	 ent 	 	une	nouvelle	langue	 gratuit 	 ement 	 	tout	en	 traduis 	 ant 	 	le	web	.
+ e 	 t 	 	donc	en	gros	ils	 apprenn 	 ent 	 	en	 fais 	 ant 	 	.
+ voil 	 à 	 	comment	ça	marche	:	quand	vous	 n' 	 êtes 	 	que	 début 	 ant 	 	,	nous	vous	donnons	des	 phrase 	 s 	 	très	,	très	 simple 	 s 	 	.
+il	y	a	,	bien	sûr	,	beaucoup	de	 phrase 	 s 	 	très	 simple 	 s 	 	sur	le	web	.
+nous	vous	donnons	des	 phrase 	 s 	 	très	,	très	 simple 	 s 	 	en	même	temps	que	la	 significa 	 tion 	 	de	 cha 	 que 	 	mot	.
+ e 	 t 	 	en	les	 traduis 	 ant 	 	,	 e 	 t 	 	en	voyant	comment	 d' 	 autre 	 s 	 	les	 traduis 	 ent 	 	,	vous	 commence 	 z 	 	à	apprendre	la	langue	.
+ e 	 t 	 	au	fur	 e 	 t 	 	à	mesure	de	 vot 	 re 	 	 pro 	 gression 	 	,	nous	vous	donnons	des	 phrase 	 s 	 	de	plus	en	plus	 complex 	 es 	 	à	 tradui 	 re 	 	.
+ mai 	 s 	 	à	tout	moment	,	vous	apprenez	en	 fais 	 ant 	 	.
+ce	qui	est	 din 	 gue 	 	,	avec	 ce 	 tte 	 	 méthod 	 e 	 	,	c'est	que	ça	marche	 vrai 	 ment 	 	.
+ d' 	 abord 	 	,	les	 gen 	 s 	 	 apprenn 	 ent 	 	 vrai 	 ment 	 	une	langue	.
+nous	avons	 pres 	 que 	 	fini	de	le	 construi 	 re 	 	,	 e 	 t 	 	nous	 somme 	 s 	 	en	train	de	le	 test 	 er 	 	.
+les	 gen 	 s 	 	peuvent	 vrai 	 ment 	 	apprendre	une	langue	avec	ça	.
+ e 	 t 	 	ils	 apprenn 	 ent 	 	aussi	bien	 qu' 	 avec 	 	le	meilleur	 log 	 iciel 	 	 d' 	 apprentissage 	 	de	langue	.
+les	 gen 	 s 	 	 apprenn 	 ent 	 	 vrai 	 ment 	 	une	langue	.
+ e 	 t 	 	non	 seul 	 ement 	 	ils	 l'ap 	 prennent 	 	,	 mai 	 s 	 	en	fait	c'est	bien	plus	intéressant	.
+parce	que	vous	voyez	,	avec	duolingo	,	les	 gen 	 s 	 	 apprenn 	 ent 	 	avec	du	contenu	authentique	.
+ con 	 traire 	 ment 	 	à	 l' 	 apprentissage 	 	avec	les	 phrase 	 s 	 	_UNK_	,	les	 gen 	 s 	 	 apprenn 	 ent 	 	avec	du	contenu	authentique	,	qui	est	intéressant	par	essence	.
+les	 gen 	 s 	 	 apprenn 	 ent 	 	donc	 vrai 	 ment 	 	une	langue	.
+ mai 	 s 	 	ce	qui	est	peut	-	être	plus	 sur 	 prenant 	 	,	c'est	que	les	 traduc 	 tion 	 s 	 	que	nous	 obten 	 ons 	 	des	 gen 	 s 	 	qui	 utilise 	 nt 	 	ce	site	,	même	si	ce	ne	 s 	 ont 	 	que	des	 début 	 ant 	 s 	 	,	les	 traduc 	 tion 	 s 	 	que	nous	 obten 	 ons 	 	 s 	 ont 	 	aussi	 exacte 	 s 	 	que	 celle 	 s 	 	des	 traduc 	 teurs 	 	 professionnel 	 s 	 	,	ce	qui	est	très	 sur 	 prenant 	 	.
+ permette 	 z 	 	-	moi	de	vous	 montre 	 r 	 	un	exemple	.
+voici	une	phrase	qui	a	été	 traduit 	 e 	 	de	 l' 	 allemand 	 	à	 l' 	 anglais 	 	.
+ l' 	 allemand 	 	est	en	haut	.
+au	 mi 	 lieu 	 	,	c'est	la	 traduc 	 tion 	 	 anglais 	 e 	 	 fait 	 e 	 	par	un	 traduc 	 teur 	 	professionnel	que	nous	avons	payé	20	 cent 	 s 	 	le	mot	pour	 s 	 a 	 	 traduc 	 tion 	 	.
+ e 	 t 	 	en	bas	,	la	 traduc 	 tion 	 	des	 utilisateur 	 s 	 	de	duolingo	,	alors	 qu' 	 aucun 	 	 d' 	 eux 	 	ne	 connais 	 s 	 ait 	 	un	mot	_UNK_	avant	de	 commence 	 r 	 	à	utiliser	le	site	.
+vous	voyez	,	c'est	 par 	 fait 	 	.
+bien	sûr	,	nous	avons	 tri 	 ché 	 	ici	pour	que	les	 traduc 	 tion 	 s 	 	soient	aussi	 bonne 	 s 	 	que	 celle 	 s 	 	des	 professionnel 	 s 	 	.
+nous	avons	combiné	les	 traduc 	 tion 	 s 	 	de	 nombre 	 ux 	 	 début 	 ant 	 s 	 	pour	obtenir	la	 qualit 	 é 	 	 d' 	 un 	 	seul	 traduc 	 teur 	 	professionnel	.
+même	si	nous	 combi 	 nons 	 	les	 traduc 	 tion 	 s 	 	,	le	site	peut	en	fait	 tradui 	 re 	 	assez	vite	.
+laissez	-	moi	vous	 montre 	 r 	 	,	voici	 no 	 s 	 	 estimation 	 s 	 	quant	à	la	vitesse	à	 la 	 quelle 	 	nous	 pourri 	 ons 	 	 tradui 	 re 	 	 wiki 	 pedia 	 	 d' 	 anglais 	 	en	espagnol	.
+ r 	 appelez 	 	-	vous	,	ça	 représent 	 e 	 	une	 val 	 eur 	 	de	50	 million 	 s 	 	de	 dollar 	 s 	 	.
+alors	si	vous	voulez	 tradui 	 re 	 	 wiki 	 pedia 	 	en	espagnol	,	cela	peut	être	fait	en	5	 semaine 	 s 	 	,	avec	100	000	 utilisateur 	 s 	 	 actif 	 s 	 	.
+ e 	 t 	 	nous	 pourri 	 ons 	 	le	faire	en	80	heures	avec	un	million	 d' 	 utilisateur 	 s 	 	 actif 	 s 	 	.
+ puisqu 	 e 	 	tous	les	 projet 	 s 	 	sur	 les 	 quel 	 s 	 	mon	groupe	a	travaillé	 jus 	 qu' 	 à 	 	présent	ont	eu	des	 million 	 s 	 	 d' 	 utilisateur 	 s 	 	,	nous	 espé 	 rons 	 	que	nous	serons	en	mesure	de	 tradui 	 re 	 	très	vite	avec	ce	projet	-	ci	.
+ce	qui	 m' 	 enthousiasme 	 	le	plus	avec	duolingo	c'est	que	je	pense	qu'il	apporte	un	modèle	économique	équitable	pour	 l' 	 apprentissage 	 	des	 langue 	 s 	 	.
+ voil 	 à 	 	ce	qu'il	en	est	:	le	modèle	économique	actuel	pour	 l' 	 apprentissage 	 	des	 langue 	 s 	 	,	c'est	que	 l' 	 élève 	 	paie	,	 e 	 t 	 	en	particulier	,	 l' 	 élève 	 	paie	à	_UNK_	stone	500	 dollar 	 s 	 	.
+c'est	le	modèle	économique	actuel	.
+le	problème	avec	ce	modèle	économique	,	c'est	que	95	%	de	la	population	 mondial 	 e 	 	n'a	pas	500	 dollar 	 s 	 	.
+c'est	donc	 extrême 	 ment 	 	injuste	 en 	 vers 	 	les	 pauvre 	 s 	 	.
+c'est	 total 	 ement 	 	en	faveur	des	riches	.
+vous	voyez	,	dans	duolingo	,	 lors 	 que 	 	vous	apprenez	,	en	fait	vous	 cré 	 ez 	 	de	la	 val 	 eur 	 	,	vous	 traduis 	 ez 	 	des	 truc 	 s 	 	,	que	par	exemple	nous	 pourri 	 ons 	 	 factu 	 rer 	 	à	 quel 	 qu'un 	 	.
+c'est	ainsi	que	nous	 pourri 	 ons 	 	le	 rent 	 abi 	 liser 	 	.
+ puisqu 	 e 	 	les	 gen 	 s 	 	 cré 	 ent 	 	de	la	 val 	 eur 	 	en	 ap 	 prenant 	 	,	ils	 n' 	 ont 	 	pas	à	 paye 	 r 	 	avec	leur	argent	,	ils	 p 	 aient 	 	avec	leur	temps	.
+ mai 	 s 	 	ce	qui	est	magique	ici	,	c'est	 qu'il 	 s 	 	 p 	 aient 	 	avec	leur	temps	,	 mai 	 s 	 	que	c'est	du	temps	 qu'il 	 s 	 	auraient	passé	de	 tout 	 e 	 	façon	à	apprendre	la	langue	.
+ce	qui	est	bien	avec	duolingo	c'est	que	je	crois	que	ça	apporte	un	modèle	économique	équitable	,	qui	ne	_UNK_	pas	les	 pauvre 	 s 	 	.
+voici	donc	le	site	.	merci	donc	voici	le	site	.
+nous	 n' 	 avons 	 	pas	encore	fait	le	 lance 	 ment 	 	,	 mai 	 s 	 	si	vous	allez	voir	,	vous	 pouv 	 ez 	 	vous	inscrire	pour	 particip 	 er 	 	à	la	version	bêta	 privé 	 e 	 	,	qui	 dev 	 rait 	 	 normal 	 ement 	 	 commence 	 r 	 	dans	3	ou	4	 semaine 	 s 	 	.
+nous	 n' 	 avons 	 	pas	encore	lancé	duolingo	.
+au	fait	,	c'est	moi	qui	parle	ici	,	 mai 	 s 	 	duolingo	est	le	travail	 d' 	 une 	 	équipe	 génial 	 e 	 	,	 do 	 nt 	 	voici	 certain 	 s 	 	.
+merci	.
+

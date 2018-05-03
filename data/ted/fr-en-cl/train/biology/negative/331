@@ -1,0 +1,176 @@
+les gens débattent vigoureusement sur la définition de la vie .
+ils se demandent si on devrait parler de reproduction , de métabolisme ou d'évolution .
+je ne saurais y répondre , je ne vous parlerai donc pas de cela .
+je dirai plutôt que la vie implique des procédés calculatoires et logiques .
+voici donc un programme informatique .
+lancé dans une cellule le programme va _UNK_ et il pourrait en _UNK_ cette personne ou , avec un petit changement , cette personne , ou , avec un autre petit changement , cette personne , ou , avec un changement plus important , ce chien ou cet arbre ou cette baleine donc , si maintenant vous acceptez cette métaphore du génome en tant que programme , vous devez admettre que chris anderson est un objet fabriqué par ordinateur , tout comme jim watson , craig venter , ainsi que nous tous .
+et pour vous convaincre que cette métaphore est vraie , il y a des tas de ressemblances entre les programmes génétiques et les programmes informatiques qui pourraient vous y aider .
+mais celle qui est pour moi la plus convaincante c'est la curieuse sensibilité aux petits changements qui peuvent entraîner de grands changements dans le développement du résultat .
+une petite mutation peut transformer une mouche avec deux ailes en une mouche à quatre ailes .
+elle pourrait aussi faire pousser des pattes là où devraient se trouver ses antennes .
+ou si vous connaissez " le mariage de la princesse au bouton d'or " , elle pourrait être à l'origine d'un homme à six doigts .
+or l'une des caractéristiques des programmes informatiques est justement cette sensibilité aux petits changements .
+si votre compte en banque contient un dollar et que vous inversez un seul bit vous pourriez finir avec mille dollars .
+ainsi je pense que ces petits changements sont les choses qui nous permettent de comprendre que les grandes modifications de l'évolution sont issues de processus calculatoires complexes .
+donc , tout ceci nous indique que des programmes moléculaires sont sous - jacents à la biologie et cela montre la puissance de ces programmes que la biologie crée .
+et ce que j'aimerais faire c'est écrire des programmes moléculaires pour potentiellement aboutir à un objet technologique et il y a beaucoup de gens qui travaillent sur ce sujet , beaucoup de biologistes spécialisés dans la synthèse y travaillent , comme craig venter , et ils se concentrent sur l'utilisation des cellules .
+ils se basent sur les cellules .
+parallèlement , mes amis , des programmeurs moléculaires , et moi même avons une approche centrée sur les bio - molécules .
+nous sommes intéressés par l'utilisation de l'adn , l'arn et des protéines et nous créons de nouveaux langages pour construire en partant de la base , en utilisant les molécules bio - molécules , des objets n'ayant potentiellement rien à voir avec la biologie .
+donc , voici toute la machinerie qui se trouve dans la cellule .
+il y a une camera .
+il y a les panneaux solaires de la cellule , des interrupteurs pour activer ou non les gènes , les étais de la cellule , les moteurs qui bougent vos muscles .
+mon petit groupe de programmeurs moléculaires essaye de refaçonner toutes ces parties à partir de l'adn .
+nous ne sommes pas de fanatiques de l'adn , mais l'adn est le meilleur matériau pour faire ça , il est bon marché , facile à comprendre et à programmer .
+et comme d'autres choses qui sont devenues plus faciles à utiliser , comme les protéines , nous travaillerons aussi avec .
+si nous réussissons , à quoi ressemblera la programmation moléculaire ?
+vous allez vous asseoir en face de votre ordinateur .
+vous allez créer quelque chose comme un téléphone portable , et dans un langage haut niveau , vous décririez ce qu'est un téléphone portable .
+puis vous allez avoir un compilateur qui va prendre cette description et la transformer en de véritables molécules qui peuvent être envoyées à un synthétiseur et ce synthétiseur _UNK_ ces molécules dans une graine .
+ce qu'il se passera si vous _UNK_ et nourrissez cette graine correctement , c'est que cela entrainera un processus de croissance , un processus moléculaire , et cela créera un ordinateur électronique .
+et même si je n'ai pas encore mis en avant mes idées , je pense que la vie est faite d'ordinateurs moléculaires qui construisent des ordinateurs électrochimiques qui eux - mêmes construisent des ordinateurs électroniques qui associés aux ordinateurs électrochimiques construiront de nouveaux ordinateurs moléculaires qui construiront de nouveaux ordinateurs électroniques et ainsi de suite .
+si vous adhérez à cette idée et que vous pensez que la vie est _UNK_ à la programmation , comme je le crois , alors vous appréhendez les questions importantes comme le ferait un informaticien .
+et l'une des grandes questions est : comment un bébé sait - il quand il doit s'arrêter de grandir ?
+pour la programmation moléculaire la question est : comment votre téléphone cellulaire sait - il quand il faut s'arrêter de grandir ?
+ou comment un programme sait - il quand il faut s'arrêter de tourner ?
+ou plus précisément , comment sait - on si un programme s'arrêtera un jour ?
+il y a d'autres questions comme celles - ci .
+l'une d'entre elle nous vient de craig venter .
+je pense qu'il se révèle être au final un informaticien .
+il se demandait qu'elle est la taille minimale d'un génome qui me donnerait un micro - organisme fonctionnel ?
+quelle est le nombre minimal de gènes que je pourrais utiliser ?
+c'est exactement la même question que : quelle est le plus petit programme que je puisse écrire qui marcherait exactement comme microsoft word ?
+et de la même manière qu'il écrit une bactérie plus petite , qu'il écrit un génome fonctionnel , nous pourrions écrire des programmes plus petits qui feraient ce que fait microsoft word .
+mais pour la programmation moléculaire , notre question est : combien de molécules devons - nous mettre dans la graine pour obtenir un téléphone cellulaire ?
+quelle est la plus petite quantité pour y arriver ?
+bon , ce sont les grandes questions du domaine informatique .
+ce sont des questions en lien avec la complexité , et l'informatique nous dis que ce sont des questions très difficiles .
+presque -- beaucoup d'entre elles sont impossibles à résoudre .
+mais pour certaines tâches , on peut commencer à y répondre .
+donc , je vais commencer par poser ces questions pour la structure de l'adn dont je vais vous parler .
+bon , voici de l'adn normal , ce que vous pensez être de l'adn normal .
+il est a deux brins , c'est une double hélice , qui possèdent _UNK_ , la _UNK_ , la _UNK_ et la _UNK_ qui s'associent pour maintenir les deux brins ensemble .
+et je vais les représenter comme ça , de sorte à ce que je ne vous effraie pas .
+on se concentre uniquement sur un seul brin et non la double hélice .
+quand nous _UNK_ de l'adn nous n'obtenons qu'un brin , on peut donc avoir le brin bleu dans un tube et le brin orange dans un autre tube et ils sont tout mous quand il n'y a qu'un brin .
+vous les mélangez et ils forment une double hélice rigide .
+durant les 25 dernières années , _UNK_ _UNK_ et plusieurs de ces disciples ont travaillé très dur et ont fait de très belles structures tri - dimensionnelles utilisant la capacité des brins d'adn à s'associer .
+mais beaucoup de leurs approches , bien _UNK_ , prennent du temps .
+elles pouvaient prendre des années ou être compliquées à concevoir .
+j'ai donc eu l'idée d'une nouvelle méthode il y a quelques années de cela , je l'appelle l'adn origami c'est si simple que vous pourriez le faire chez vous dans votre cuisine et concevoir la chose sur votre ordinateur portable .
+mais pour cela , vous avez besoin d'un long brin d'adn , qui est techniquement très difficile à obtenir .
+vous pouvez aller le chercher dans une source naturelle .
+vous pouvez regarder dans cet objet conçu par ordinateur , il possède un génome en double hélice qui ne correspond pas .
+en regardant dans ses intestins . il y a des milliards de bactéries .
+elles ne sont pas bonnes non plus .
+toujours double brin , mais à l'intérieur , elles sont infectées par un virus qui possède un génome en brin suffisamment long .
+que l'on peut plier comme une feuille de papier , et voici comment nous faisons .
+voici une partie du génome .
+nous ajoutons quelques brins d'adn synthétiques que j'appelle " agrafes " .
+chacune d'entre elles a une moitié gauche qui se lie au grand brin à un endroit et une moitié droite qui se lie à un autre endroit et rassemble le long brin de cette manière .
+l'effet cumulé de plusieurs de ces pliages sur le long brin est de le plier comme un rectangle .
+on ne peut pas filmer le procédés mais shawn douglas de _UNK_ en a fait une bonne visualisation pour nous qui commence avec un brin long et des plus petits .
+et ce qui se passe est que nous mélangeons les brins .
+on les réchauffe , on ajoute un peu de sel , on les réchauffe presque jusqu'à ébullition puis on les refroidi et pendant le refroidissement , les brins courts se lient au brin long et commencent à former une structure et vous pouvez voir un petit bout de la double hélice se former .
+lorsque vous regardez l'adn origami vous pouvez voir ce que c'est réellement , même si vous trouvez cela compliqué , ce sont plusieurs doubles hélices parallèles qui sont attachées pour les endroits où les brins courts sont liés à une hélice et saute vers une autre .
+le brin qui est ici se lie le long de cette hélice et saute vers une autre hélice puis revient , c'est comme ainsi que l'on maintient le long brin .
+maintenant , pour montrer que nous pourrions faire les formes ou les motifs que nous voulons , j'ai essayé de faire cette forme .
+je voulais plier l'adn de manière à ce qu'il monte au dessus de l'œil , descende en dessous du nez , remonte au dessus du nez , fasse le tour du front , _UNK_ et finisse par une petite boucle , comme ceci .
+bien sur , je pensais que si cela pouvait marcher tout pouvait marcher .
+j'ai donc demandé au programme de créer les agrafes qui donneraient ce résultat .
+je les ai commandées et elles sont arrivées par fedex .
+je les ai mélangés , chauffés , _UNK_ , et j'ai obtenu 50 milliards de petits smileys flottants dans une simple goutte d'eau .
+chacun d'entre eux fait à peine un millième de la taille d'un cheveu humain , d'accord ?
+bon , ils flottent dans une solution , pour les observer vous devez les mettre sur une surface à laquelle ils adhèrent .
+alors , on les met sur cette surface à laquelle ils commencent à coller , puis on les prend en photo avec un microscope à force atomique .
+il est muni d'une aiguille , comme celle d'un tourne - disque , qui va et vient sur la surface , monte et descend et évalue la hauteur de la première surface .
+l'aiguille détecte l'adn origami .
+là on voit le microscope à force atomique à l'œuvre et vous pouvez voir que le résultat est grossier .
+si on y regarde de plus près , certains ont la mâchoire _UNK_ qui flotte au dessus de leur tête .
+et d'autres ont le nez écrasé , mais le résultat est plutôt bon .
+si on zoom encore on peut même voir la petite boucle , ce petit " nano - _UNK_ " .
+ce qui est génial c'est que n'importe qui peut le faire .
+un an après mes travaux , j'ai reçu ceci sans en avoir fait la demande .
+quelqu'un sait ce que c'est ? qu'est ce que c'est ?
+c'est la chine , non ?
+en fait , une étudiante diplômée d'une université chinoise , _UNK_ _UNK_ , a fait un travail incroyable .
+elle a écrit son propre programme pour concevoir et construire cet adn origami , une belle représentation de la chine , il y a même taïwan , tenu par la plus petite laisse du monde .
+bon , ça marche vraiment bien et on peut aussi bien faire des motifs que des formes , ok ?
+vous pouvez aussi créer une carte de l'amérique et écrire adn avec de l'adn .
+et vous savez en quoi c'est merveilleux ?
+certes tout ceci ressemble à de l'art nanoscopique , mais il semble que l'art nanoscopique puisse être la base des nano - circuits .
+on peut donc introduire des composants électriques sur les agrafes , une ampoule et un interrupteur par exemple .
+les éléments se mettent en place d'eux même et forment un circuit .
+par la suite on peut enlever l'adn pour ne garder que le circuit .
+c'est ce qu'on fait certains de mes collègues de caltech .
+ils ont pris de l'adn origami , fabriqué des nanotubes de carbone , créé un petit interrupteur , qu'on voit ici , ils ont relié le tout , et les tests ont montré que c'est bien un interrupteur .
+bon , ce n'est qu'un simple interrupteur et pour un ordinateur il en faudrait un demi milliard , il y a encore du chemin à faire .
+mais tout ceci est très prometteur car l'adn origami peut assembler des éléments 10 fois plus petits que ceux d'un ordinateur actuel .
+c'est donc très encourageant pour la fabrication de petits ordinateurs .
+je voudrais maintenant revenir à ce compilateur .
+l'adn origami montre que ce compilateur fonctionne vraiment .
+on commence donc avec quelque chose d'informatique .
+vous obtenez un programme dans un langage haut niveau , une description compréhensible du pliage .
+vous pouvez le compiler pour obtenir des molécules et les envoyer au synthétiseur et tout cela fonctionne .
+et il s'avère qu'une entreprise a fait un programme bien meilleur que mon code , qui n'était pas très propre , qui nous permet d'utiliser une interface graphique de création assistée par ordinateur .
+on est en droit de se demander pour quelle raison l'adn origami n'est pas suffisant .
+vous avez votre compilateur de molécules , vous pouvez faire ce que vous voulez .
+toujours est - il que l'on a un problème d'échelle .
+le problème est que si vous voulez construire un humain à partir d'origami d'adn vous avez besoin d'un brin long qui contient 10 trillion de trillion de bases .
+cela équivaut à 3 années lumière d'adn , donc on ne vas pas faire ça .
+on va se tourner vers une autre technologie appelée auto assemblage algorithmique de tuiles .
+le premier à l'avoir utilisé est erik _UNK_ , ce que fait cette technologie c'est qu'elle utilise des tuiles 100 fois plus grands que l'adn origami .
+si on zoome ce ne sont que quatre brins d'adn qui possèdent des portions simple brin qui peuvent se lier à d'autres tuiles si elles correspondent .
+et on aime bien dessiner ces tuiles en forme de petits carrés .
+si vous regardez leurs extrémités , ces petites portions d'adn , vous pouvez voir que les tuiles forment un motif de damier .
+ces tuiles vont donc former un damier complexe qui s'assemble tout seul .
+et l'intérêt , si vous ne l'aviez par encore remarqué , est que ces tuiles sont comme des programmes moléculaires qui permettent d'obtenir des motifs .
+ce qui est vraiment incroyable c'est que l'on peut retranscrire tout programme informatique à l'aide de ces tuiles programmable et en particulier pour compter on peut donc créer des tuiles qui une fois assemblées forment un compteur binaire plutôt qu'un damier .
+on peut obtenir les nombres _UNK_ et 7 en binaires .
+afin de lancer de tels calculs on a besoin d'une base , une sorte de graine .
+et pour cela on peut utiliser l'adn origami .
+on peut encoder le nombre 32 dans la partie gauche de l'adn origami et lorsque l'on ajoute les tuiles qui permettent de compter , elles vont commencer à compter en lisant ce nombre .
+et elles vont s'arrêter à 32 .
+ce que nous avons donc réussi à trouver c'est un moyen d'avoir un programme moléculaire qui sait quand il doit s'arrêter d'évoluer .
+il sait quand s'arrêter parce qu'il est capable de compter .
+il connait sa taille .
+donc cela répond à la première question que j'ai évoqué .
+en revanche cela ne nous dit pas comment les bébés font .
+on peut donc utiliser ce compteur pour obtenir des choses plus grandes que nous n'aurions pas pu faire avec de l'adn origami .
+voici l'adn origami et si on écrit 32 sur deux des côtés de l'origami et que l'on utilise notre _UNK_ rempli de tuiles on peut faire pousser des tuiles pour créer un carré .
+le compteur est utilisé comme modèle pour remplir le carré du milieu .
+nous avons donc réussi à construire quelque chose de plus grand que l'adn origami en le combinant avec des tuiles .
+et ce qui est super avec ça c'est que l'on peut aussi le reprogrammer .
+il suffit de changer quelques brins d'adn dans la représentation binaire pour obtenir 96 au lieu de 32 .
+en faisant cela l'origami a la même taille mais le carré que l'on obtient est 3 fois plus grand .
+d'une certaine manière cela _UNK_ ce que je vous disait sur l'évolution .
+on obtient un programme très sensible à la moindre modification - de simples mutations minuscules peuvent transformer un petit carré en quelque chose de beaucoup plus grand .
+utiliser un compteur pour créer et construire ce genre de choses avec ce type de processus de croissance est quelque chose qui est aussi lié à la question de craig venter .
+on peut donc se demander combien de brin d'adn sont nécessaires pour construire un carré d'une taille donnée .
+si on voulait faire un carré de taille 10 , 100 ou 1000 , on n'utilisant que de l'adn origami , il nous faudrait un nombre de brins d'adn qui est le carré de la taille de ce carré , on aurait donc besoin de 100 , 10 000 ou 1 000 000 de brins d'adn .
+mais on ne peut pas se le permettre .
+mais en utilisant le calcul , on utilise l'origami et quelques tuiles qui comptent , on s'en sort en utilisant 100 , 200 ou 300 brins d'adn .
+on peut donc réduire de manière exponentielle le nombre de brin d'adn que l'on consomme si on utilise les compteurs et un peu de calcul .
+ainsi le calcul est une manière très efficace de réduire le nombre de molécules requises pour construire quelque chose ainsi que la taille du génome que vous construisez .
+et pour finir je vais revenir sur cette idée un peu folle de construire des ordinateurs à l'aide d'ordinateurs .
+si on regarde de plus près le carré que l'on construit avec l'origami et quelques compteurs qui y poussent , le schéma que l'on obtient est identique au schéma nécessaire pour fabriquer une mémoire d'ordinateur .
+donc si on ajoute quelques fils et interrupteurs à ces tuiles , plutôt qu'aux agrafes , on les attache aux tuiles , ils vont ensuite assembler un circuit complexe : le _UNK_ nécessaire pour adresser une mémoire .
+on peut donc obtenir un circuit complexe avec de simples calculs .
+c'est un ordinateur moléculaire qui construit un ordinateur électronique .
+maintenant vous me demandez jusqu'où nous avons suivi cette voix .
+c'est ce que nous avons fait pendant un an de manière expérimentale .
+nous avons içi un rectangle d'adn origami et là des tuiles qui ont poussé à partir du rectangle .
+et on peut voir de quelle manière ils comptent .
+un , deux , trois , quatre , cinq , six , neuf , dix , onze , douze , dix - sept.
+il y a des erreurs mais au moins ça compte .
+il s'avère que nous avons eu cette idée il y a neuf ans de cela , c'est à peu près le temps qu'il nous a fallu pour faire ce genre de chose , et je pense que nous avons fait beaucoup de progrès .
+nous avons plusieurs idées pour corriger ces erreurs .
+et je pense que d'ici cinq ou dix ans nous arriverons à fabriquer le type de circuits que je vous ai présenté et peut être même obtenir des circuits qui s'assemblent d'eux - même .
+qu'est - ce que j'aimerais que vous reteniez de cette présentation ?
+je voudrais que vous reteniez que pour créer des formes de vies complexes et variées la vie utilise des procédés calculatoires .
+et les procédés utilisés sont des procédés moléculaires .
+et pour réussir à mieux comprendre et maîtriser cela , comme le disait feynman , nous avons besoin de construire quelque chose pour le comprendre .
+nous allons donc utiliser des molécules et refaçonner ces procédés , tout reconstruire en partant de la base , en utilisant l'adn d'une manière qui n'était pas prévue par la nature , en utilisant l'adn origami , et l'adn origami comme base pour cette algorithmique d'auto assemblage .
+vous voyez tout cela est quand même très cool , mais ce que j'aimerais que vous reteniez , surtout pour quelques une de ces grandes questions , c'est que la programmation moléculaire ce n'est pas juste pour fabriquer des gadgets .
+ce n'est pas juste fabriquer -- pas seulement faire des téléphones et circuits qui s'auto - assemblent .
+c'est surtout utiliser l'informatique pour regarder ces grandes questions sous un autre angle , se poser des nouvelles versions de ces grandes questions et essayer de comprendre de quelle manière la biologie arrive à faire des choses si extraordinaire . merci .

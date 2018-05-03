@@ -1,0 +1,154 @@
+je	 m' 	 appelle 	 	seth	priebatsch	.	je	suis	le	chef	 nin 	 ja 	 	de	scvngr	.
+je	suis	un	fier	étudiant	ayant	 quitt 	 é 	 	princeton	.
+fier	 égale 	 ment 	 	 d' 	 avoir 	 	 déména 	 gé 	 	ici	à	boston	,	où	j'ai	en	fait	grandi	.
+oui	,	boston	.
+trop	facile	.	je	 pour 	 rais 	 	vous	citer	tous	les	 cant 	 ons 	 	du	coin	.
+je	suis	donc	motivé	à	essayer	de	 construi 	 re 	 	une	couche	de	jeu	au	dessus	du	monde	.
+c'est	une	 sort 	 e 	 	de	nouveau	concept	,	 e 	 t 	 	c'est	 vrai 	 ment 	 	important	.
+alors	que	la	 der 	 nière 	 	décennie	a	été	la	décennie	du	social	 e 	 t 	 	la	décennie	où	 l' 	 architecture 	 	dans	 la 	 quelle 	 	nous	nous	 connect 	 ons 	 	aux	 autre 	 s 	 	a	été	 construit 	 e 	 	,	la	 prochain 	 e 	 	décennie	 s 	 era 	 	la	décennie	où	nous	 construi 	 rons 	 	une	architecture	de	jeu	,	où	les	 motiva 	 tion 	 s 	 	que	nous	utilisons	pour	 influence 	 r 	 	le	 comporte 	 ment 	 	,	 e 	 t 	 	la	structure	dans	 la 	 quelle 	 	elles	 s 	 ont 	 	 construit 	 es 	 	,	 s 	 e 	 	 décid 	 ent 	 	,	 e 	 t 	 	c'est	 vrai 	 ment 	 	important	.
+je	dis	donc	que	je	veux	 construi 	 re 	 	une	couche	de	jeu	au	dessus	du	monde	,	 mai 	 s 	 	ce	n'est	pas	tout	à	fait	vrai	parce	que	elle	est	 dé 	 jà 	 	en	construction	;	c'est	 dé 	 jà 	 	en	train	 d' 	 arrive 	 r 	 	.
+ e 	 t 	 	ça	ressemble	à	peu	près	à	ça	en	ce	moment	.
+ça	ressemble	un	peu	à	ce	 qu' 	 a 	 	fait	le	web	en	1997	,	pas	vrai	?
+ce	n'est	pas	très	bien	.	c'est	bien	chargé	.
+c'est	plein	de	 chose 	 s 	 	 tout 	 es 	 	 différent 	 es 	 	qui	,	en	bref	,	ne	 s 	 ont 	 	pas	très	 amusant 	 es 	 	.
+il	y	a	des	 programme 	 s 	 	de	 carte 	 s 	 	 banc 	 aires 	 	 e 	 t 	 	de	 mile 	 s 	 	 aérien 	 s 	 	 e 	 t 	 	des	 système 	 s 	 	de	 coupon 	 s 	 	,	tous	 ce 	 s 	 	 programme 	 s 	 	de	fidélité	qui	en	fait	 utilise 	 nt 	 	des	 dynamique 	 s 	 	de	jeu	 e 	 t 	 	 construis 	 ent 	 	en	fait	la	couche	de	jeu	,	ils	 s 	 ont 	 	juste	 nul 	 s 	 	.
+ils	ne	 s 	 ont 	 	pas	très	bien	 conçu 	 s 	 	,	pas	vrai	?
+donc	,	pas	de	chance	.
+ mai 	 s 	 	 heureuse 	 ment 	 	,	comme	dit	mon	héro	 d' 	 action 	 	 préfé 	 ré 	 	,	bob	the	_UNK_	,	``	on	peut	faire	 mi 	 eux 	 	.	on	peut	 mi 	 eux 	 	le	 construi 	 re 	 	.	``	 e 	 t 	 	les	 instrument 	 s 	 	,	les	 re 	 s 	 source 	 s 	 	que	nous	utilisons	pour	 construi 	 re 	 	une	couche	de	jeu	 s 	 ont 	 	les	 dynamique 	 s 	 	de	jeu	elles	-	mêmes	.
+ e 	 t 	 	donc	 l' 	 essentiel 	 	de	 ce 	 tte 	 	 présent 	 ation 	 	est	de	passer	en	revue	quatre	 important 	 es 	 	 dynamique 	 s 	 	de	jeu	,	très	 intéressant 	 es 	 	,	qui	,	 utilisée 	 s 	 	avec	 con 	 science 	 	,	peuvent	être	utilisé	pour	 influence 	 r 	 	le	 comporte 	 ment 	 	,	pour	le	bien	,	pour	le	mal	,	 e 	 t 	 	entre	les	deux	.
+ espé 	 rons 	 	pour	le	bien	.
+ mai 	 s 	 	cela	 représent 	 e 	 	les	 étape 	 s 	 	 important 	 es 	 	dans	 les 	 quelle 	 s 	 	 ce 	 tte 	 	structure	va	 s 	 e 	 	 construi 	 re 	 	,	on	veut	donc	tous	y	penser	consciemment	dès	 main 	 tenant 	 	.
+juste	avant	de	nous	y	 plonge 	 r 	 	,	une	question	:	pourquoi	est	-	ce	important	?
+je	suis	quelque	part	en	train	 d' 	 affirme 	 r 	 	qu'il	y	a	une	couche	de	jeu	au	-	dessus	du	monde	,	 e 	 t 	 	qu'il	est	très	important	de	la	 con 	 truire 	 	 correct 	 ement 	 	.
+la	raison	pour	 la 	 quelle 	 	c'est	si	important	est	que	,	dans	la	 der 	 nière 	 	décennie	nous	avons	vu	la	construction	 d' 	 une 	 	couche	 social 	 e 	 	,	 d' 	 une 	 	architecture	pour	les	 connexion 	 s 	 	,	 e 	 t 	 	la	construction	de	 ce 	 tte 	 	couche	est	 termin 	 ée 	 	,	c'est	fini	.
+il	y	a	encore	beaucoup	de	chose	à	 explore 	 r 	 	.
+il	y	a	encore	beaucoup	de	 gen 	 s 	 	qui	 essaye 	 nt 	 	de	 comprend 	 re 	 	le	social	 e 	 t 	 	comment	en	tirer	profit	 e 	 t 	 	comment	 l' 	 utiliser 	 	,	 mai 	 s 	 	 l' 	 architecture 	 	en	elle	-	même	est	 fait 	 e 	 	,	 e 	 t 	 	ça	 s' 	 appelle 	 	 face 	 book 	 	.
+ e 	 t 	 	ce	n'est	pas	mal	,	pas	vrai	?	beaucoup	de	 gen 	 s 	 	 s 	 ont 	 	 content 	 s 	 	de	 face 	 book 	 	.
+je	 l' 	 aime 	 	bien	aussi	.
+ils	ont	créé	 ce 	 tte 	 	chose	qui	 s' 	 appelle 	 	open	graph	,	 e 	 t 	 	ils	 possède 	 nt 	 	 tout 	 es 	 	 no 	 s 	 	 connexion 	 s 	 	.
+ils	 possède 	 nt 	 	un	demi	-	milliard	de	 personne 	 s 	 	.
+donc	quand	vous	voulez	 construi 	 re 	 	sur	la	couche	 social 	 e 	 	,	 l' 	 architecture 	 	a	été	 décid 	 ée 	 	:	c'est	l'api	open	graph	.
+ e 	 t 	 	si	ça	vous	 plai 	 t 	 	,	c'est	super	.
+ autre 	 ment 	 	,	tant	 pi 	 s 	 	pour	vous	.	vous	ne	 pouv 	 ez 	 	rien	y	faire	.
+ mai 	 s 	 	la	 prochain 	 e 	 	décennie	--	 e 	 t 	 	c'est	vrai	.
+je	veux	dire	,	nous	 voul 	 ons 	 	 construi 	 re 	 	des	 architecture 	 s 	 	qui	fasse	en	 sort 	 e 	 	que	ça	soit	acceptable	 e 	 t 	 	les	 rend 	 re 	 	,	vous	 s 	 avez 	 	,	 efficace 	 s 	 	sur	la	route	.
+donc	la	couche	 social 	 e 	 	 s' 	 intéresse 	 	à	 tout 	 es 	 	 ce 	 s 	 	 connexion 	 s 	 	.
+la	couche	de	jeu	 s' 	 intéresse 	 	à	 l' 	 influence 	 	.
+il	ne	 s 	 'agit 	 	pas	 d' 	 ajoute 	 r 	 	un	tissu	social	au	web	 e 	 t 	 	de	vous	 connecte 	 r 	 	à	 d' 	 autre 	 s 	 	 gen 	 s 	 	 par 	 tout 	 	où	vous	êtes	 e 	 t 	 	 par 	 tout 	 	où	vous	allez	.
+en	fait	il	 s 	 'agit 	 	 l' 	 utilisation 	 	de	 dynamique 	 s 	 	,	de	 force 	 s 	 	,	pour	 influence 	 r 	 	le	 comporte 	 ment 	 	là	où	vous	êtes	,	ce	que	vous	y	faites	,	 e 	 t 	 	comment	vous	le	faites	.
+ ce 	 ci 	 	est	 vrai 	 ment 	 	très	,	très	puissant	,	 e 	 t 	 	ça	va	être	même	plus	important	que	la	couche	 social 	 e 	 	.
+ça	va	 influence 	 r 	 	 no 	 s 	 	 vie 	 s 	 	plus	 profond 	 é 	 ment 	 	 e 	 t 	 	 prob 	 able 	 ment 	 	de	 man 	 ière 	 	 in 	 visible 	 	.
+c'est	donc	 t 	 ellement 	 	critique	 qu' 	 en 	 	ce	moment	même	,	pendant	que	ça	 s 	 e 	 	construit	,	pendant	que	des	 structure 	 s 	 	comme	 face 	 book 	 	,	comme	open	graph	,	 s 	 e 	 	 cré 	 ent 	 	pour	 l' 	 équivalent 	 	de	la	couche	de	jeu	,	que	nous	y	 pension 	 s 	 	très	consciemment	,	 e 	 t 	 	que	nous	le	 fa 	 ssions 	 	de	 man 	 ière 	 	 ouvert 	 e 	 	,	 dispon 	 ible 	 	,	pour	pouvoir	 l' 	 utiliser 	 	de	la	bonne	façon	.
+voila	ce	 do 	 nt 	 	je	veux	 parle 	 r 	 	pour	les	 dynamique 	 s 	 	de	jeu	,	parce	que	la	construction	a	 commenc 	 é 	 	,	 e 	 t 	 	plus	nous	y	 pens 	 ons 	 	consciemment	,	 mi 	 eux 	 	nous	 pour 	 rons 	 	 l' 	 utiliser 	 	pour	ce	que	nous	 voul 	 ons 	 	.
+donc	,	comme	je	vous	 dis 	 ais 	 	,	le	moyen	pour	 construi 	 re 	 	la	couche	de	jeu	n'est	pas	avec	du	 ver 	 re 	 	,	de	 l' 	 acier 	 	 e 	 t 	 	du	 ci 	 ment 	 	.
+ e 	 t 	 	les	 re 	 s 	 source 	 s 	 	que	nous	utilisons	ce	ne	 s 	 ont 	 	pas	des	 étendue 	 s 	 	de	 terre 	 s 	 	a	deux	 dimension 	 s 	 	que	nous	avons	.
+les	 re 	 s 	 source 	 s 	 	 s 	 ont 	 	le	partage	des	 intelligence 	 s 	 	 e 	 t 	 	les	 matière 	 s 	 	 première 	 s 	 	 s 	 ont 	 	les	 dynamique 	 s 	 	de	jeu	.
+avec	ça	,	vous	voyez	,	 quelque 	 s 	 	 dynamique 	 s 	 	de	jeu	à	 envisage 	 r 	 	.
+quatre	.	a	scvngr	,	on	aime	 s 	 e 	 	 moque 	 r 	 	en	disant	 qu' 	 avec 	 	sept	 dynamique 	 s 	 	de	jeu	,	vous	 pouv 	 ez 	 	faire	faire	 n' 	 importe 	 	quoi	à	 n' 	 importe 	 	qui	.
+donc	aujourd'hui	je	vais	vous	 parle 	 r 	 	de	quatre	 d' 	 entre 	 	elles	,	parce	que	 j' 	 espère 	 	avoir	encore	un	avantage	 compéti 	 tif 	 	à	la	fin	de	ce	 dis 	 cours 	 	.
+donc	le	premier	,	c'est	une	dynamique	de	jeu	très	simple	.
+ça	 s' 	 appelle 	 	la	dynamique	du	 rend 	 ez 	 	-	vous	.
+ e 	 t 	 	c'est	une	dynamique	dans	 la 	 quelle 	 	,	pour	 réussi 	 r 	 	,	les	 joueur 	 s 	 	 doive 	 nt 	 	faire	quelque	chose	à	un	moment	déterminé	,	 général 	 ement 	 	dans	un	lieu	déterminé	.
+ e 	 t 	 	 ce 	 s 	 	 dynamique 	 s 	 	 s 	 ont 	 	 par 	 fois 	 	 effrayant 	 es 	 	parce	que	vous	vous	dites	que	 d' 	 autre 	 s 	 	 personne 	 s 	 	peuvent	utiliser	des	 force 	 s 	 	pour	 manipul 	 er 	 	mon	interaction	,	ce	que	je	fais	,	où	je	le	fais	,	quand	je	le	fais	.
+ ce 	 tte 	 	 sort 	 e 	 	de	 per 	 te 	 	du	libre	arbitre	qui	arrive	dans	les	jeux	peut	être	_UNK_	,	donc	pour	 cha 	 que 	 	dynamique	,	je	vais	vous	donner	trois	 exemple 	 s 	 	--	un	qui	montre	comment	on	s'en	sert	 dé 	 jà 	 	dans	le	monde	réel	,	pour	que	vous	 puis 	 s 	 iez 	 	 ration 	 aliser 	 	un	petit	peu	,	un	qui	 dé 	 montre 	 	son	utilisation	dans	les	jeux	 conventionnel 	 s 	 	--	je	crois	que	tout	est	un	jeu	,	ici	c'est	 plu 	 tôt 	 	ce	que	vous	 pourri 	 ez 	 	penser	 d' 	 un 	 	jeu	joué	sur	une	table	ou	sur	un	écran	,	un	sur	comment	elle	peut	être	utilisé	pour	le	bien	,	pour	 qu' 	 on 	 	 puis 	 s 	 e 	 	voir	que	 ce 	 s 	 	 force 	 s 	 	peuvent	être	 vrai 	 ment 	 	 puissant 	 es 	 	.
+donc	le	premier	--	la	plus	célèbre	dynamique	de	 rend 	 ez 	 	-	vous	au	monde	--	est	ce	 qu' 	 on 	 	appelle	les	``	 hap 	 py 	 	 hou 	 r 	 	``	.
+j'ai	donc	 quitt 	 é 	 	très	 réc 	 emment 	 	princeton	 e 	 t 	 	je	me	suis	 re 	 trouvé 	 	pour	la	première	fois	dans	un	bar	,	 e 	 t 	 	j'ai	 remarqu 	 é 	 	 ce 	 s 	 	``	 hap 	 py 	 	 hou 	 r 	 	``	 par 	 tout 	 	,	 d' 	 accord 	 	.
+ e 	 t 	 	c'est	 simple 	 ment 	 	une	dynamique	de	 rend 	 ez 	 	-	vous	.
+viens	à	une	 certain 	 e 	 	heure	,	on	 s 	 e 	 	paye	un	 ver 	 re 	 	à	moitié	 pri 	 x 	 	.
+pour	 gagne 	 r 	 	,	tout	ce	que	vous	avez	à	faire	c'est	vous	 présent 	 er 	 	au	bon	endroit	à	la	bonne	heure	.
+ ce 	 tte 	 	dynamique	de	jeu	est	 t 	 ellement 	 	 puissant 	 e 	 	,	 qu' 	 elle 	 	_UNK_	non	 seul 	 ement 	 	 not 	 re 	 	 comporte 	 ment 	 	,	 mai 	 s 	 	aussi	la	culture	 tout 	 e 	 	entière	.
+c'est	 vrai 	 ment 	 	une	pensée	 effrayant 	 e 	 	,	 qu'un 	 e 	 	 seul 	 e 	 	dynamique	de	jeu	peut	 change 	 r 	 	 complète 	 ment 	 	les	 chose 	 s 	 	.
+elle	existe	aussi	dans	des	formes	de	jeu	plus	 conventionnel 	 s 	 	.
+je	suis	sûr	que	vous	avez	tous	entendu	 parle 	 r 	 	de	farmville	.
+ s 	 in 	 on 	 	,	je	vous	 re 	 commande 	 	 d' 	 y 	 	 joue 	 r 	 	.
+vous	ne	 fer 	 ez 	 	rien	 d' 	 autre 	 	du	reste	de	la	journée	.
+farmville	a	plus	 d' 	 utilisateur 	 s 	 	 actif 	 s 	 	que	 twitt 	 er 	 	.
+c'est	 incroyable 	 ment 	 	puissant	,	 e 	 t 	 	il	a	 ce 	 tte 	 	dynamique	dans	 la 	 quelle 	 	vous	êtes	obligé	de	 re 	 venir 	 	à	une	 certain 	 e 	 	heure	pour	 arro 	 s 	 er 	 	 vo 	 s 	 	 culture 	 s 	 	--	fausse	culture	--	 autre 	 ment 	 	elles	_UNK_	.
+ e 	 t 	 	c'est	 t 	 ellement 	 	puissant	que	,	 lorsqu' 	 ils 	 	 change 	 nt 	 	 leur 	 s 	 	 statistique 	 s 	 	,	quand	ils	vous	 dis 	 ent 	 	que	 vo 	 s 	 	 culture 	 s 	 	 s 	 ont 	 	 mort 	 es 	 	huit	heures	après	,	ou	six	heures	après	,	ou	24	heures	après	,	ça	change	le	cycle	de	vie	de	70	 million 	 s 	 	 e 	 t 	 	quelque	 personne 	 s 	 	pendant	la	journée	.
+les	 gen 	 s 	 	 re 	 viennent 	 	comme	des	 horloge 	 s 	 	à	 différent 	 s 	 	 moment 	 s 	 	.
+donc	,	 s' 	 ils 	 	 voul 	 aient 	 	en	 fini 	 r 	 	avec	le	monde	,	ou	 arrête 	 r 	 	la	 produc 	 tivité 	 	,	ils	 pour 	 raient 	 	en	faire	un	cycle	de	30	 minute 	 s 	 	,	 e 	 t 	 	on	ne	pourrait	rien	faire	 d' 	 autre 	 	.
+ça	fait	peur	.
+ mai 	 s 	 	on	pourrait	aussi	 l' 	 utiliser 	 	pour	le	bien	.
+voici	une	 socié 	 té 	 	 local 	 e 	 	qui	 s' 	 appelle 	 	_UNK_	,	 e 	 t 	 	ils	ont	créé	ce	produit	pour	aider	les	 gen 	 s 	 	à	prendre	 leur 	 s 	 	 médicament 	 s 	 	à	 l' 	 heure 	 	.
+c'est	un	 rend 	 ez 	 	-	vous	.
+c'est	quelque	chose	que	les	 gen 	 s 	 	ne	font	pas	très	bien	.
+ e 	 t 	 	ils	ont	 ce 	 s 	 	``	_UNK_	``	qui	s'illuminent	 e 	 t 	 	vous	 envoie 	 nt 	 	des	 courriel 	 s 	 	 e 	 t 	 	font	 tout 	 es 	 	 sort 	 es 	 	de	 chose 	 s 	 	 amusant 	 es 	 	pour	vous	 r 	 appeler 	 	de	prendre	 vot 	 re 	 	médicament	.
+celui	la	n'est	pas	encore	un	jeu	,	 mai 	 s 	 	il	 dev 	 rait 	 	 l' 	 être 	 	.
+vous	 dev 	 riez 	 	obtenir	des	 point 	 s 	 	pour	faire	ça	à	temps	.
+vous	 dev 	 riez 	 	en	 perd 	 re 	 	quand	vous	ne	le	faites	pas	.
+ils	 dev 	 raient 	 	être	 conscient 	 s 	 	du	fait	 qu'il 	 s 	 	ont	construit	une	dynamique	de	 rend 	 ez 	 	-	vous	 e 	 t 	 	tirer	profit	du	jeu	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	 vrai 	 ment 	 	obtenir	de	 bon 	 s 	 	 résultat 	 s 	 	de	 man 	 ière 	 	très	 intéressant 	 e 	 	.
+on	va	passer	à	la	 suiv 	 ante 	 	,	peut	-	être	.	oui	.
+influence	 e 	 t 	 	 statu 	 t 	 	.
+donc	voici	une	des	plus	 célèbre 	 s 	 	 dynamique 	 s 	 	de	jeu	.
+on	 l' 	 utilise 	 	 par 	 tout 	 	.
+c'est	utilisé	dans	 vot 	 re 	 	 porte 	 feuille 	 	,	en	ce	moment	même	.
+tout	le	monde	veut	 ce 	 tte 	 	carte	 banc 	 aire 	 	tout	à	gauche	parce	 qu' 	 elle 	 	est	 noir 	 e 	 	.
+ e 	 t 	 	vous	voyez	 quel 	 qu'un 	 	chez	cvs	ou	--	pas	cvs	--	chez	christian	_UNK_	ou	par	là	,	 e 	 t 	 	après	...	je	ne	 s 	 ais 	 	pas	.	je	n'ai	pas	de	carte	 noir 	 e 	 	:	j'ai	une	carte	de	débit	.
+donc	ils	la	 sort 	 ent 	 	.	 e 	 t 	 	vous	voyez	des	 homme 	 s 	 	,	ils	ont	 ce 	 tte 	 	carte	.
+je	la	veux	parce	que	ça	veut	dire	 qu'il 	 s 	 	 s 	 ont 	 	plus	cool	que	moi	,	 e 	 t 	 	j'en	ai	besoin	.
+ e 	 t 	 	ça	 s' 	 utilise 	 	dans	les	jeux	 égale 	 ment 	 	.
+``	modern	_UNK_	``	,	un	des	jeux	les	plus	 vendu 	 s 	 	de	tous	les	temps	.
+je	suis	un	niveau	4	,	 mai 	 s 	 	je	veux	 désespéré 	 ment 	 	être	un	niveau	10	,	parce	 qu'il 	 s 	 	ont	ce	 super 	 be 	 	badge	rouge	,	 e 	 t 	 	ça	signifie	en	quelque	 sort 	 e 	 	que	je	suis	meilleur	que	tous	les	 autre 	 s 	 	.
+ e 	 t 	 	ça	a	beaucoup	_UNK_	sur	moi	.	le	 statu 	 t 	 	est	un	vrai	_UNK_	.
+on	 l' 	 utilise 	 	 égale 	 ment 	 	dans	des	 cadre 	 s 	 	plus	 conventionnel 	 s 	 	 e 	 t 	 	peut	être	utilisé	plus	consciemment	dans	des	 cadre 	 s 	 	 conventionnel 	 s 	 	.
+ l' 	 école 	 	--	 e 	 t 	 	 sou 	 venez 	 	-	vous	,	 j' 	 y 	 	suis	passé	pendant	un	an	,	je	suis	donc	qualifié	pour	 parle 	 r 	 	 d' 	 école 	 	--	est	un	jeu	,	juste	un	jeu	pas	très	bien	conçu	,	 d' 	 accord 	 	.
+il	y	a	des	 niveau 	 x 	 	.	il	y	a	les	c.	il	y	a	les	b.	il	y	a	les	a	.
+il	ya	des	 statu 	 t 	 s 	 	.	je	veux	dire	,	 qu' 	 est 	 	ce	qu'un	major	si	ce	n'est	pas	un	 statu 	 t 	 	?
+si	on	appelle	major	un	``	 cheval 	 ier 	 	blanc	 pala 	 din 	 	niveau	20	``	,	je	pense	que	les	 gen 	 s 	 	 travaille 	 raient 	 	beaucoup	plus	.
+donc	 l' 	 école 	 	est	un	jeu	.	 e 	 t 	 	il	y	a	eu	plein	 d' 	 expérience 	 s 	 	sur	comment	faire	ça	 correct 	 ement 	 	.
+ mai 	 s 	 	utilisons	-	la	consciemment	.	comme	,	pourquoi	avoir	des	jeux	où	on	peut	 perd 	 re 	 	?
+pourquoi	passer	de	a	à	f	ou	de	b	à	c	?
+c'est	bête	.	pourquoi	ne	pas	 mont 	 er 	 	en	niveau	?
+ e 	 t 	 	à	princeton	ils	ont	en	fait	testé	cela	,	avec	des	 question 	 naires 	 	où	vous	 gagne 	 z 	 	des	 point 	 s 	 	 expérience 	 s 	 	,	 e 	 t 	 	vous	 passe 	 z 	 	du	niveau	b	au	niveau	a	.
+ e 	 t 	 	c'est	très	puissant	.
+il	peut	être	utilisé	de	façon	 intéressant 	 e 	 	.
+la	troisième	donc	je	veux	vous	 parle 	 r 	 	 rapide 	 ment 	 	c'est	la	dynamique	de	 pro 	 gression 	 	,	ou	en	quelque	 sort 	 e 	 	vous	 dev 	 ez 	 	faire	des	 pro 	 grès 	 	,	vous	 dev 	 ez 	 	passer	à	travers	 différent 	 es 	 	 étape 	 s 	 	de	 man 	 ière 	 	_UNK_	.
+on	 l' 	 utilise 	 	 par 	 tout 	 	,	linkedin	 inclu 	 s 	 	,	où	je	suis	un	individu	pas	tout	à	fait	complet	.
+je	suis	 seul 	 ement 	 	complet	à	85	%	sur	linkedin	,	 e 	 t 	 	ça	 m' 	 embête 	 	.
+ e 	 t 	 	c'est	 t 	 ellement 	 	incrusté	dans	 vot 	 re 	 	tête	que	,	 lors 	 que 	 	nous	avons	une	barre	de	 pro 	 gression 	 	 présent 	 ée 	 	avec	des	 étape 	 s 	 	 facile 	 s 	 	,	bien	 défini 	 es 	 	à	passer	pour	essayer	de	 compléte 	 r 	 	 ce 	 tte 	 	barre	,	nous	allons	le	faire	.
+on	 trouver 	 a 	 	un	moyen	de	faire	 bouge 	 r 	 	 ce 	 tte 	 	barre	 bleu 	 e 	 	.
+ jus 	 qu'au 	 	bout	à	droite	de	 l' 	 écran 	 	.
+on	 l' 	 utilise 	 	 égale 	 ment 	 	dans	les	jeux	 conventionnel 	 s 	 	.
+je	veux	dire	,	 ce 	 ci 	 	est	un	 pala 	 din 	 	niveau	10	,	 e 	 t 	 	celui	est	un	 pala 	 din 	 	niveau	20	,	 e 	 t 	 	si	vous	 dev 	 iez 	 	 combat 	 tre 	 	,	par	exemple	,	des	 or 	 ques 	 	sur	les	 terre 	 s 	 	de	_UNK_	contre	le	 ra 	 z 	 	al	_UNK_	,	vous	 voud 	 rez 	 	 prob 	 able 	 ment 	 	être	le	plus	grand	,	pas	vrai	.
+moi	oui	.
+donc	les	 gen 	 s 	 	 travaille 	 nt 	 	 dure 	 ment 	 	pour	 mont 	 er 	 	en	niveau	.
+``	world	of	warcraft	``	est	un	des	jeux	les	plus	 réussi 	 s 	 	de	tous	les	temps	.
+le	joueur	moyen	passe	à	peu	près	six	à	six	heures	 e 	 t 	 	demi	par	jour	dessus	.
+pour	les	 joueur 	 s 	 	les	plus	 dé 	 voué 	 s 	 	,	c'est	un	travail	plein	-	temps	.
+c'est	 din 	 gue 	 	.	 e 	 t 	 	ils	ont	 ce 	 s 	 	 système 	 s 	 	où	vous	 pouv 	 ez 	 	 mont 	 er 	 	en	niveau	.
+ e 	 t 	 	c'est	 vrai 	 ment 	 	très	puissant	.	la	 pro 	 gression 	 	a	un	effet	puissant	.
+elle	peut	être	utilisée	de	 man 	 ière 	 	très	 convainc 	 ante 	 	pour	le	bien	.
+une	des	 chose 	 s 	 	sur	 les 	 quelle 	 s 	 	on	travaille	à	scvngr	est	 l' 	 utilisation 	 	des	jeux	pour	 pilote 	 r 	 	les	flux	 e 	 t 	 	 pousse 	 r 	 	les	 commerce 	 s 	 	aux	 affaire 	 s 	 	 local 	 es 	 	,	vers	quelque	chose	qui	est	 vrai 	 ment 	 	important	pour	 l' 	 économie 	 	.
+ e 	 t 	 	ici	vous	avez	un	jeu	que	les	 gen 	 s 	 	 joue 	 nt 	 	.
+ils	vont	dans	des	 endroit 	 s 	 	,	ils	 accepte 	 nt 	 	des	 défi 	 s 	 	,	ils	 gagne 	 nt 	 	des	 point 	 s 	 	.
+ e 	 t 	 	on	a	introduit	une	dynamique	de	 pro 	 gression 	 	,	où	,	en	 all 	 ant 	 	 régul 	 ière 	 ment 	 	à	un	endroit	,	en	 accept 	 ant 	 	des	 défi 	 s 	 	,	en	 s'engage 	 ant 	 	dans	les	 affaire 	 s 	 	,	vous	 avance 	 z 	 	sur	une	barre	 vert 	 e 	 	de	gauche	à	droite	de	 l' 	 écran 	 	,	 e 	 t 	 	vous	 fini 	 ssez 	 	par	 dé 	 bloque 	 r 	 	des	 récompense 	 s 	 	.
+ e 	 t 	 	c'est	assez	puissant	pour	que	 l' 	 on 	 	voit	que	ça	accroche	les	 gen 	 s 	 	à	 ce 	 s 	 	 dynamique 	 s 	 	,	ça	les	tire	à	nouveau	vers	les	 affaire 	 s 	 	 local 	 es 	 	,	ça	 cré 	 e 	 	une	 fort 	 e 	 	loyauté	,	ça	 cré 	 e 	 	de	 l' 	 engagement 	 	,	 e 	 t 	 	c'est	capable	de	générer	du	profit	de	 l' 	 amuse 	 ment 	 	 e 	 t 	 	de	 l' 	 engagement 	 	par	rapport	aux	 affaire 	 s 	 	.
+ ce 	 s 	 	 dynamique 	 s 	 	de	 pro 	 gression 	 	 s 	 ont 	 	 puissant 	 es 	 	 e 	 t 	 	peuvent	être	 utilisée 	 s 	 	dans	le	monde	réel	.
+la	 der 	 nière 	 	donc	je	veux	vous	 parle 	 r 	 	--	une	 remarqu 	 able 	 	pour	 termine 	 r 	 	--	c'est	le	concept	de	 dé 	 couvert 	 e 	 	 collect 	 ive 	 	,	une	dynamique	dans	 la 	 quelle 	 	tout	le	monde	travaille	ensemble	pour	atteindre	quelque	chose	.
+une	 dé 	 couvert 	 e 	 	 collect 	 ive 	 	est	 puissant 	 e 	 	parce	 qu' 	 elle 	 	pousse	le	réseau	,	la	 socié 	 té 	 	à	 résoud 	 re 	 	des	 problème 	 s 	 	.
+on	 l' 	 utilise 	 	dans	 certain 	 es 	 	 histoire 	 s 	 	 célèbre 	 s 	 	du	web	qui	viennent	des	 consomm 	 ateurs 	 	,	comme	digg	,	 do 	 nt 	 	je	suis	sûr	que	vous	en	avez	entendu	 parle 	 r 	 	.
+digg	est	une	dynamique	 collect 	 ive 	 	pour	essayer	de	trouver	les	 meilleur 	 es 	 	 informat 	 ions 	 	,	les	 histoire 	 s 	 	les	plus	 intéressant 	 es 	 	.
+ e 	 t 	 	ils	en	avaient	fait	un	jeu	,	au	début	.
+ils	avaient	un	 classe 	 ment 	 	où	,	si	vous	_UNK_	les	 meilleur 	 es 	 	 histoire 	 s 	 	,	vous	 obten 	 iez 	 	des	 point 	 s 	 	.
+ e 	 t 	 	ça	 motiva 	 it 	 	 vrai 	 ment 	 	les	 gen 	 s 	 	à	 cherche 	 r 	 	les	 meilleur 	 es 	 	 histoire 	 s 	 	.
+ mai 	 s 	 	c'est	devenu	 t 	 ellement 	 	puissant	,	qu'il	y	a	eu	en	fait	un	 carte 	 l 	 	,	un	groupe	de	 personne 	 s 	 	,	les	sept	 premier 	 s 	 	du	 classe 	 ment 	 	,	qui	ont	travaillé	ensemble	pour	être	sûr	de	 main 	 tenir 	 	 leur 	 s 	 	 position 	 s 	 	.
+ e 	 t 	 	ils	 re 	 command 	 aient 	 	les	 histoire 	 s 	 	 d' 	 autre 	 s 	 	 gen 	 s 	 	.
+ e 	 t 	 	le	jeu	est	devenu	plus	puissant	que	 l' 	 objectif 	 	.
+ e 	 t 	 	ils	ont	donc	dû	 fini 	 r 	 	par	 ferme 	 r 	 	le	 classe 	 ment 	 	parce	que	,	pendant	qu'il	était	actif	,	 c' 	 était 	 	 t 	 ellement 	 	puissant	 qu' 	 on 	 	avait	plus	 vrai 	 ment 	 	les	 meilleur 	 es 	 	 histoire 	 s 	 	 e 	 t 	 	qu'il	y	avait	des	 gen 	 s 	 	qui	 travail 	 laient 	 	pour	 main 	 tenir 	 	 leur 	 s 	 	 position 	 s 	 	.
+on	doit	donc	 l' 	 utiliser 	 	avec	 pré 	 caution 	 	.
+elle	est	utilisée	 égale 	 ment 	 	dans	des	 chose 	 s 	 	comme	le	monopoly	mcdonald	's	,	où	le	jeu	n'est	pas	le	jeu	du	monopoly	habituel	,	 mai 	 s 	 	une	espèce	de	 petite 	 s 	 	 industrie 	 s 	 	qui	 s 	 e 	 	 forme 	 nt 	 	pour	essayer	de	trouver	boardwalk	.
+ e 	 t 	 	 main 	 tenant 	 	ils	 s 	 ont 	 	en	train	de	 cherche 	 r 	 	un	 auto 	 collant 	 	qui	dit	``	boardwalk	``	.
+ mai 	 s 	 	il	peut	être	 égale 	 ment 	 	utilisé	pour	trouver	des	 chose 	 s 	 	 ré 	 elles 	 	.
+ ce 	 ci 	 	est	le	défi	des	 ballon 	 s 	 	de	la	darpa	,	où	ils	ont	 dissimulé 	 s 	 	un	certain	nombre	de	 ballon 	 s 	 	aux	etats	-	 uni 	 s 	 	 e 	 t 	 	ils	ont	dit	,	``	utilisez	les	 ré 	 s 	 eaux 	 	.
+essayez	de	trouver	 ce 	 s 	 	 ballon 	 s 	 	le	plus	vite	possible	,	 e 	 t 	 	le	vainqueur	 gagne 	 ra 	 	40	000	$	``	.
+ e 	 t 	 	le	gagnant	a	été	en	fait	un	groupe	du	mit	,	qui	avaient	créé	une	 sort 	 e 	 	de	schéma	en	 pyramid 	 e 	 	,	un	réseau	,	où	la	première	personne	qui	donne	un	conseil	sur	 l' 	 emplacement 	 	du	ballon	gagne	2	000	$	 e 	 t 	 	 n' 	 importe 	 	qui	 soutien 	 t 	 	ce	conseil	en	gagne	 égale 	 ment 	 	une	 parti 	 e 	 	.
+ e 	 t 	 	en	12	heures	,	ils	ont	été	 capable 	 s 	 	de	trouver	tous	 ce 	 s 	 	 ballon 	 s 	 	,	dans	tout	le	pays	.
+une	dynamique	très	 puissant 	 e 	 	.
+il	me	reste	donc	20	 seconde 	 s 	 	,	donc	si	je	dois	vous	 quitte 	 r 	 	avec	quelque	chose	,	la	 der 	 nière 	 	décennie	a	été	la	décennie	du	social	.
+la	 prochain 	 e 	 	décennie	va	être	celle	des	jeux	.
+on	utilise	les	 dynamique 	 s 	 	de	jeu	pour	 construi 	 re 	 	dessus	.	on	construit	avec	le	partage	des	 idée 	 s 	 	.
+on	peut	 influence 	 r 	 	le	 comporte 	 ment 	 	.
+c'est	très	puissant	.	c'est	très	excitant	.
+ construis 	 ons 	 	-	le	ensemble	,	faisons	-	le	bien	 e 	 t 	 	 amu 	 s 	 ons 	 	-	nous	.
+

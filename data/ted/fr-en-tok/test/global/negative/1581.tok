@@ -1,0 +1,35 @@
+pour	comprendre	le	monde	dans	lequel	nous	vivons	,	nous	racontons	des	histoires	.
+alors	que	le	remixage	et	le	partage	ont	été	amenés	à	façonner	le	web	tel	que	nous	le	connaissons	aujourd'hui	,	nous	pouvons	tous	faire	partie	de	cette	histoire	par	de	simples	outils	qui	nous	permettent	de	faire	des	choses	en	ligne	.
+mais	la	vidéo	a	été	oubliée	.	elle	est	arrivée	sur	le	web	dans	une	petite	boîte	,	et	elle	y	est	restée	,	complètement	déconnectée	des	données	et	contenus	_UNK_	.
+en	effet	,	en	un	peu	plus	d'une	décennie	,	la	seule	chose	qui	ait	changé	pour	la	vidéo	est	la	taille	de	la	boîte	et	la	qualité	de	l'image	.
+popcorn	change	tout	cela	.
+il	s'agit	d'un	outil	en	ligne	qui	permet	à	toute	personne	de	combiner	de	la	vidéo	avec	du	contenu	tiré	en	temps	réel	directement	du	web	.
+les	vidéos	créées	avec	popcorn	sont	comme	le	web	lui	-	même	:	dynamiques	,	pleines	de	liens	,	et	complètement	remixables	,	et	pouvant	enfin	de	se	libérer	du	cadre	.
+je	voudrais	vous	faire	la	démonstration	d'un	prototype	sur	lequel	nous	travaillons	et	que	nous	_UNK_	cet	automne	.
+cette	version	sera	complètement	gratuite	,	et	marchera	sous	tous	les	navigateurs	.
+toute	production	popcorn	commence	avec	la	vidéo	,	et	donc	j'ai	fait	un	petit	clip	de	20	secondes	en	utilisant	un	modèle	pour	présentateur	de	journal	que	nous	utilisons	en	atelier	.
+regardons	-	le	.	on	y	reviendra	,	et	je	vous	montrerai	comment	on	l'a	fait	.
+bonjour	,	et	bienvenue	à	mon	journal	télévisé	.
+j'ai	ajouté	ma	localisation	à	travers	google	maps	,	et	elle	est	actualisée	en	temps	réel	,	donc	essayez	de	bouger	.
+vous	pouvez	ajouter	des	pop	-	up	avec	les	liens	actifs	et	des	icônes	_UNK_	,	ou	importer	du	contenu	de	tout	service	en	ligne	,	tel	que	flickr	,	ou	ajouter	des	articles	et	des	billets	avec	des	liens	vers	le	contenu	complet	.
+bon	,	revenons	-	y	et	je	vous	montrerai	ce	que	vous	avez	vu	.	il	y	avait	beaucoup	de	choses	.
+ceci	est	la	timeline	,	et	si	vous	avez	déjà	édité	de	la	vidéo	,	ceci	vous	est	familier	,	mais	au	lieu	d'avoir	des	clips	dans	la	timeline	,	nous	avons	des	éléments	du	web	qui	sont	importés	dans	la	vidéo	.
+dans	cette	production	popcorn	,	nous	avons	_UNK_	,	une	carte	google	maps	qui	apparaît	dans	l'image	,	puis	popcorn	la	laisse	sortir	du	cadre	et	occuper	tout	l'écran	.
+deux	pop	-	up	vous	apportent	d'autres	informations	,	et	un	dernier	article	avec	un	lien	vers	l'article	original	.
+voyons	cette	carte	google	,	et	nous	verrons	comment	nous	pouvons	l'éditer	.
+il	suffit	d'aller	dans	la	timeline	,	de	double	-	cliquer	sur	l'élément	,	et	je	l'ai	paramétré	sur	toronto	,	puisque	je	viens	de	là	.
+mettons	-	le	autre	chose	.
+popcorn	va	immédiatement	sur	le	web	,	parle	à	google	,	saisit	la	carte	,	et	la	met	dans	la	zone	d'affichage	.
+et	c'est	exactement	la	même	chose	pour	les	personnes	qui	regardent	votre	production	.
+c'est	en	direct	.	ce	n'est	pas	une	image	.	vous	cliquez	dessus	,	vous	zoomez	,	même	en	street	_UNK_	si	vous	le	souhaitez	.
+dans	la	vidéo	,	j'ai	évoqué	l'ajout	d'un	flux	,	ce	que	nous	allons	faire	,	donc	ajoutons	un	flux	de	flickr	.	allez	à	droite	,	choisissez	flickr	de	la	liste	d'options	,	glissez	-	le	dans	la	timeline	,	mettez	-	le	où	vous	le	souhaitez	,	et	il	va	immédiatement	sur	flickr	et	commence	à	importer	les	images	basées	sur	les	tags	.	mes	développeurs	aiment	beaucoup	les	poneys	,	et	donc	ils	ont	mis	cela	comme	tag	par	défaut	.
+essayons	autre	chose	,	peut	-	être	quelque	chose	en	rapport	à	aujourd'hui	.
+voici	les	images	_UNK_	en	direct	du	flux	.
+si	vous	revenez	voir	ceci	dans	une	semaine	,	ça	sera	complètement	différent	,	dynamique	,	tout	comme	le	web	,	et	tout	comme	le	web	,	tout	a	une	source	,	donc	cliquez	sur	le	lien	,	et	vous	allez	directement	sur	flickr	voir	l'image	d'origine	.
+tout	ce	que	vous	voyez	aujourd'hui	est	fait	avec	les	bases	de	construction	du	web	:	du	html	,	_UNK_	et	javascript	.
+ce	qui	veut	dire	que	c'est	complètement	_UNK_	.
+et	qu'il	n'y	a	pas	de	logiciel	propriétaire	.	vous	n'avez	besoin	que	d'un	navigateur	web	.
+imaginez	si	toutes	les	vidéos	que	nous	regardions	sur	le	web	marchaient	comme	le	web	,	seraient	complètement	remixables	,	liées	au	contenu	d'origine	,	et	interactives	pour	toute	personne	qui	les	regarderait	.
+je	pense	que	popcorn	pourrait	changer	la	façon	dont	nous	racontons	les	histoires	sur	le	web	,	et	la	façon	dont	nous	comprenons	le	monde	dans	lequel	nous	vivons	.
+merci	.
+

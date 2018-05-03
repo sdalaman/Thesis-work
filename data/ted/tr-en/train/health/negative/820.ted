@@ -1,0 +1,202 @@
+anlatacağım_tr ilk_tr robotun_tr adı_tr :_tr strider_tr ._tr
+uzun_tr yazılışı_tr :_tr _UNK__tr ü_tr ç_tr ayaklı_tr dinamik_tr deneysel_tr robot_tr ._tr
+o_tr ü_tr ç_tr ayaklı_tr bir_tr robot_tr ve_tr doğadan_tr esinlenildi_tr ._tr
+ama_tr siz_tr hiç_tr doğada_tr ü_tr ç_tr ayaklı_tr bir_tr hayvan_tr gördünüz_tr mü_tr ?_tr
+muhtemelen_tr hayır_tr ._tr peki_tr neden_tr buna_tr biyolojiden_tr esinlenilmiş_tr robot_tr diyorum_tr ?_tr nasıl_tr çalışır_tr ?_tr
+ama_tr bundan_tr önce_tr ,_tr popüler_tr kültüre_tr bakalım_tr ._tr
+_UNK__tr wells'in_tr "_tr dünyaların_tr savaşı_tr "_tr kitabını_tr ve_tr filmini_tr bilirsiniz_tr ._tr
+ve_tr burada_tr gördüğünüz_tr çok_tr popüler_tr bir_tr video_tr oyunu_tr ._tr kurguda_tr bu_tr uzaylı_tr yaratıkları_tr ,_tr dünyayı_tr tehdit_tr eden_tr ü_tr ç_tr ayaklı_tr robotlar_tr olarak_tr tanımlıyorlar_tr ._tr
+ama_tr benim_tr robotum_tr ,_tr strider_tr ,_tr böyle_tr hareket_tr etmiyor_tr ._tr
+bu_tr bir_tr gerçek_tr dinamik_tr simülasyon_tr animasyonu_tr ._tr
+size_tr robotun_tr nasıl_tr çalıştığını_tr göstereceğim_tr ._tr
+vücudunu_tr 180_tr derece_tr döndürüyor_tr ._tr bir_tr ayağını_tr iki_tr ayağının_tr arasından_tr sallayıp_tr ,_tr düşüşü_tr yakalıyor_tr ._tr
+i̇şte_tr böyle_tr yürüyor_tr ._tr fakat_tr kendimize_tr baktığımızda_tr insan_tr ,_tr iki_tr ayaklı_tr yürüme_tr ,_tr yaptığınız_tr böyle_tr kas_tr kullanarak_tr ayağınızı_tr kaldırıp_tr ,_tr robot_tr gibi_tr yürüme_tr değil_tr ._tr değil_tr mi_tr ?_tr
+yaptığınız_tr aslında_tr ayağınızı_tr sallamak_tr ve_tr düşüşü_tr yakalamak_tr ,_tr tekrar_tr _UNK__tr ,_tr salla_tr ayağını_tr ve_tr düşüşü_tr yakala_tr ._tr
+var_tr olan_tr _UNK__tr kullanarak_tr ,_tr vücudunuzun_tr fiziğini_tr ,_tr aynen_tr bir_tr sarkaç_tr gibi_tr ._tr
+biz_tr buna_tr pasif_tr dinamik_tr hareket_tr konsepti_tr diyoruz_tr ._tr
+_UNK__tr yaptığınız_tr ,_tr potansiyel_tr enerjiden_tr kinetik_tr enerjiye_tr ,_tr potansiyel_tr enerjiden_tr kinetik_tr enerjiye_tr ._tr
+daimi_tr bir_tr düşüş_tr işlemi_tr ._tr
+her_tr ne_tr kadar_tr doğada_tr buna_tr benzeyen_tr bir_tr şey_tr yoksa_tr da_tr ,_tr biz_tr gerçekten_tr biyolojiden_tr esinlendik_tr ve_tr bu_tr robota_tr yürümenin_tr prensiplerini_tr uyguladık_tr ,_tr bu_tr yüzden_tr o_tr biyolojiden_tr esinlenilmiş_tr bir_tr robot_tr ._tr
+burada_tr gördüğünüz_tr ,_tr bizim_tr bir_tr sonra_tr yapmak_tr istediğimiz_tr ._tr
+bacakları_tr bükmek_tr ve_tr uzun_tr mesafe_tr hareketi_tr için_tr fırlatmak_tr istiyoruz_tr ._tr
+ayaklarını_tr yere_tr basıyor_tr ,_tr yıldız_tr _UNK__tr benziyor_tr ._tr yere_tr indiğinde_tr ,_tr sarsıntıyı_tr emiyor_tr ve_tr yürümeye_tr başlıyor_tr ._tr
+burada_tr gördüğünüz_tr ,_tr bu_tr sarı_tr şey_tr ,_tr ölüm_tr ışını_tr değil_tr ._tr
+bu_tr sadece_tr size_tr ,_tr eğer_tr _UNK__tr veya_tr farklı_tr türde_tr sensörleriniz_tr olsa_tr çünkü_tr o_tr uzun_tr ,_tr 1.8_tr metre_tr uzunluğunda_tr ,_tr çalı_tr gibi_tr şeylerin_tr ötesini_tr görebildiğinizi_tr gösterebilmek_tr için_tr ._tr
+i̇ki_tr tane_tr modelimiz_tr var_tr ._tr
+i̇lk_tr model_tr ,_tr arkadaki_tr ,_tr o_tr strider_tr i._tr
+öndeki_tr ,_tr küçük_tr olan_tr ise_tr strider_tr ii_tr ._tr
+strider_tr _UNK__tr yaşadığımız_tr problem_tr vücudunun_tr çok_tr ağır_tr olmasıydı_tr ._tr çok_tr fazla_tr motor_tr vardı_tr ,_tr bilirsiniz_tr ,_tr eklemleri_tr _UNK__tr ve_tr o_tr tür_tr şeyler_tr ._tr
+bu_tr yüzden_tr mekanik_tr bir_tr işleyiş_tr sentezlemeye_tr kadar_tr verdik_tr ,_tr bu_tr sayede_tr tüm_tr motorlardan_tr _UNK__tr ve_tr bir_tr motorla_tr tüm_tr hareketleri_tr koordine_tr edecektik_tr ._tr
+bu_tr ,_tr mekatronik_tr kullanmak_tr yerine_tr problemin_tr mekanik_tr bir_tr çözümü_tr ._tr
+artık_tr üst_tr vücut_tr ,_tr robotun_tr laboratuvarda_tr _UNK__tr kadar_tr hafif_tr ._tr bu_tr ilk_tr başarılı_tr adımdı_tr ._tr
+halen_tr mükemmel_tr değil_tr ._tr kahvesi_tr yere_tr dökülüyor_tr ,_tr daha_tr yapacak_tr çok_tr işimiz_tr var_tr ._tr
+tanıtmak_tr istediğim_tr ikinci_tr robotun_tr adı_tr impass_tr ._tr
+uzun_tr yazılışı_tr :_tr _UNK__tr tekerlek_tr sistemli_tr akıllı_tr hareketlilik_tr platformu_tr ._tr
+o_tr ,_tr tekerlek_tr -_tr bacaklı_tr melez_tr bir_tr robot_tr ._tr
+dışı_tr olmayan_tr bir_tr tekerlek_tr düşünün_tr ,_tr veya_tr bir_tr jant_tr teli_tr ._tr fakat_tr teller_tr _UNK__tr ayrı_tr ayrı_tr girip_tr çıkıyorlar_tr ._tr i̇şte_tr o_tr tekerlek_tr -_tr bacaklı_tr bir_tr melez_tr ._tr
+kelimenin_tr tam_tr anlamıyla_tr tekerleği_tr yeniden_tr
+icat_tr ediyoruz_tr ._tr nasıl_tr çalıştığını_tr göstereyim_tr ._tr
+bu_tr videoda_tr duyarlı_tr yaklaşma_tr dediğimiz_tr bir_tr yaklaşımı_tr kullanıyoruz_tr ._tr
+sadece_tr _UNK__tr dokunsal_tr sensörleri_tr kullanarak_tr ,_tr değişken_tr bir_tr arazide_tr yürümeye_tr çalışıyor_tr ,_tr _UNK__tr değişen_tr yumuşak_tr bir_tr arazi_tr ._tr
+sadece_tr dokunsal_tr bilgiyle_tr bu_tr tür_tr arazilerden_tr başarıyla_tr geçiyor_tr ._tr
+ama_tr ,_tr çok_tr zorlu_tr bir_tr araziyle_tr karşılaştığında_tr ,_tr bu_tr durumda_tr ,_tr bu_tr engel_tr robotun_tr boyunun_tr ü_tr ç_tr katı_tr yükseklikte_tr ,_tr lazer_tr _UNK__tr ve_tr kamera_tr sistemleri_tr kullanarak_tr ,_tr engeli_tr ve_tr boyunu_tr belirlemek_tr için_tr önceden_tr planlanmış_tr bir_tr moda_tr geçiyor_tr ,_tr ve_tr bu_tr çok_tr çok_tr etkileyici_tr hareketliliği_tr göstermek_tr için_tr ayakların_tr hareketini_tr dikkatlice_tr planlıyor_tr ve_tr koordine_tr ediyor_tr ._tr
+muhtemelen_tr hiç_tr böyle_tr bir_tr şey_tr görmemişsinizdir_tr ._tr
+impass_tr adını_tr verdiğimiz_tr son_tr derece_tr hareketli_tr bir_tr robot_tr ._tr
+ah_tr ,_tr harika_tr değil_tr mi_tr ?_tr
+arabanızı_tr sürerken_tr ,_tr direksiyondayken_tr ,_tr _UNK__tr adı_tr verilen_tr direksiyon_tr sistemini_tr kullanırsınız_tr ._tr
+ön_tr tekerlekler_tr böyle_tr döner_tr ._tr
+bu_tr gibi_tr küçük_tr tekerlekli_tr robotların_tr çoğunda_tr diferansiyel_tr yönlendirme_tr denilen_tr ,_tr sağ_tr ve_tr sol_tr tekerleklerin_tr ters_tr yöne_tr döndüğü_tr bir_tr metot_tr kullanılır_tr ._tr
+impass_tr için_tr çok_tr çok_tr farklı_tr hareketler_tr yapabiliriz_tr ._tr
+örneğin_tr ,_tr bu_tr durumda_tr ,_tr her_tr ne_tr kadar_tr sağ_tr ve_tr sol_tr tekerlek_tr tek_tr _UNK__tr birbirine_tr bağlıysa_tr da_tr ,_tr aynı_tr hız_tr açısıyla_tr dönüyorlar_tr ._tr
+biz_tr basitçe_tr bacağın_tr yüksekliğini_tr değiştiriyoruz_tr ._tr
+bu_tr da_tr çapı_tr etkiliyor_tr ,_tr ve_tr o_tr sola_tr dönüyor_tr ,_tr sağa_tr dönüyor_tr ._tr
+i̇şte_tr bunlar_tr impass_tr ile_tr yapabildiğimiz_tr zarif_tr şeylere_tr birkaç_tr örnek_tr ._tr
+bu_tr robotun_tr adı_tr climber_tr ,_tr kablolu_tr bacaklı_tr akıllı_tr eşleştirme_tr _UNK__tr robot_tr
+birçok_tr nasa_tr jpl_tr bilim_tr insanıyla_tr konuşuyorum_tr ,_tr jpl'de_tr mars_tr _UNK__tr meşhurlar_tr ._tr bilim_tr insanları_tr ve_tr jeologlar_tr her_tr daim_tr bana_tr gerçekten_tr ilginç_tr bilimin_tr ,_tr _UNK__tr -_tr zengin_tr yerlerin_tr hep_tr kayalıklarda_tr olduğunu_tr söylüyorlar_tr ._tr
+fakat_tr mevcut_tr gezginler_tr oralara_tr gidemiyor_tr ._tr
+bundan_tr esinlenerek_tr ,_tr yapısal_tr kayalıklara_tr tırmanabilen_tr bir_tr robot_tr yapmak_tr istedik_tr ._tr
+i̇şte_tr bu_tr climber_tr ._tr
+peki_tr ne_tr yapıyor_tr ,_tr ü_tr ç_tr ayağı_tr var_tr ._tr muhtemelen_tr görmek_tr zordur_tr ,_tr ama_tr tepesinde_tr bir_tr vinç_tr ve_tr kablo_tr var_tr ._tr ve_tr ayağını_tr koyacağı_tr en_tr uygun_tr yeri_tr bulmaya_tr çalışıyor_tr ._tr
+ve_tr onu_tr bulur_tr bulmaz_tr ,_tr eş_tr zamanlı_tr olarak_tr ,_tr güç_tr dağılımını_tr hesaplıyor_tr ._tr yüzeye_tr ne_tr kadar_tr güç_tr uygulamalı_tr ki_tr _UNK__tr ve_tr _UNK__tr ._tr
+onu_tr _UNK__tr an_tr ,_tr ayağını_tr kaldırır_tr ,_tr ve_tr _UNK__tr birlikte_tr bu_tr tür_tr şeylere_tr _UNK__tr ._tr
+ayrıca_tr arama_tr kurtarma_tr uygulamaları_tr için_tr ._tr
+beş_tr sene_tr önce_tr yazın_tr gerçekten_tr nasa_tr jpl'de_tr fakülte_tr üyesi_tr olarak_tr çalıştım_tr ._tr
+_UNK__tr adı_tr verilen_tr altı_tr ayaklı_tr bir_tr robotları_tr vardı_tr ._tr
+bu_tr aslında_tr ona_tr dayalı_tr ._tr bu_tr robotun_tr adı_tr mars_tr ,_tr çok_tr _UNK__tr robotik_tr sistem_tr ._tr o_tr altı_tr ayaklı_tr bir_tr robot_tr ._tr
+_UNK__tr yürüyüş_tr _UNK__tr geliştirdik_tr ._tr
+orada_tr aslında_tr çok_tr ilginç_tr bir_tr yük_tr dağılımı_tr var_tr ._tr
+öğrenciler_tr eğlenmeyi_tr sever_tr ._tr ve_tr burada_tr yapısal_tr olmayan_tr bir_tr arazide_tr yürürken_tr görüyorsunuz_tr ._tr
+biçimsiz_tr bir_tr arazide_tr yürümeye_tr çalışıyor_tr ,_tr kumlu_tr bölge_tr ,_tr fakat_tr nem_tr miktarı_tr ve_tr kum_tr _UNK__tr büyüklüğüne_tr göre_tr _UNK__tr toprağa_tr batma_tr modeli_tr değişir_tr ._tr
+bu_tr tür_tr şeylerin_tr üzerinden_tr başarıyla_tr geçmek_tr için_tr _UNK__tr ayarlamaya_tr çalışıyor_tr ._tr
+ayrıca_tr ,_tr eğlenceli_tr şeyler_tr de_tr yapıyor_tr ,_tr tahmin_tr edersiniz_tr ._tr
+laboratuvarımıza_tr çok_tr ziyaretçi_tr geliyor_tr ._tr
+ziyaretçiler_tr gelince_tr mars_tr ,_tr bilgisayarın_tr başına_tr geçip_tr yazmaya_tr başlıyor_tr :_tr "_tr merhaba_tr ,_tr benim_tr adım_tr mars_tr ._tr "_tr
+virginia_tr _UNK__tr romela_tr ,_tr robotik_tr mekanizmalar_tr _UNK__tr hoşgeldiniz_tr ._tr
+bu_tr robot_tr bir_tr amip_tr robotu_tr ._tr
+bunun_tr teknik_tr detaylarına_tr girecek_tr zamanımız_tr yok_tr ,_tr size_tr sadece_tr birkaç_tr deney_tr göstereceğim_tr ._tr
+bunlar_tr ,_tr ilk_tr yapılabilirlik_tr deneylerinden_tr bazıları_tr ._tr
+hareket_tr etmesi_tr için_tr esnek_tr deride_tr potansiyel_tr enerji_tr saklıyoruz_tr ._tr
+veya_tr ileri_tr ve_tr geri_tr gitmesi_tr için_tr ,_tr aktif_tr gerilim_tr kabloları_tr kullanıyoruz_tr ._tr onun_tr adı_tr _UNK__tr ._tr
+ayrıca_tr ,_tr _UNK__tr bazı_tr bilim_tr insanlarıyla_tr ve_tr mühendislerle_tr bu_tr amip_tr robotun_tr kimyasal_tr yolla_tr harekete_tr geçen_tr bir_tr versiyonu_tr üzerinde_tr çalışıyoruz_tr ._tr
+bir_tr şeye_tr bir_tr şey_tr yapıyoruz_tr ,_tr ve_tr tıpkı_tr sihir_tr gibi_tr ,_tr o_tr hareket_tr ediyor_tr ._tr damla_tr ._tr
+bu_tr robot_tr yeni_tr projelerden_tr biri_tr ._tr adı_tr raphael_tr ._tr
+havayla_tr çalışan_tr esnek_tr bağlı_tr robotik_tr el_tr ._tr
+piyasada_tr bir_tr sürü_tr zarif_tr ,_tr çok_tr iyi_tr robotik_tr eller_tr var_tr ._tr
+sorun_tr ise_tr onların_tr çok_tr pahalı_tr olması_tr ,_tr onbinlerce_tr dolar_tr ._tr
+protez_tr uygulamaları_tr için_tr muhtemelen_tr çok_tr pratik_tr değiller_tr ,_tr çünkü_tr satın_tr alınabilir_tr değiller_tr ._tr
+çok_tr farklı_tr bir_tr yönden_tr bu_tr sorunun_tr üstesinden_tr geleceğiz_tr ._tr
+elektrikli_tr motorlar_tr ,_tr elektromekanik_tr çalıştırıcılar_tr yerine_tr sıkıştırılmış_tr hava_tr kullanıyoruz_tr ._tr
+bu_tr acayip_tr _UNK__tr _UNK__tr için_tr geliştirdik_tr ._tr
+uyumludur_tr ._tr sadece_tr hava_tr basıncını_tr değiştirerek_tr gerçekten_tr gücü_tr değiştirebilirsiniz_tr ._tr
+ve_tr gerçekten_tr boş_tr bir_tr teneke_tr kutuyu_tr _UNK__tr ._tr
+bu_tr _UNK__tr yumurta_tr gibi_tr çok_tr hassas_tr objeleri_tr tutabilir_tr veya_tr bu_tr durumda_tr bir_tr ampülü_tr ._tr
+en_tr güzel_tr tarafı_tr ise_tr ,_tr bu_tr ilk_tr modeli_tr yapmak_tr sadece_tr 200_tr dolar_tr tuttu_tr ._tr
+bu_tr robot_tr aslında_tr yılan_tr robotlar_tr ailesinden_tr ,_tr adı_tr _UNK__tr ._tr yüksek_tr serbestlik_tr dereceli_tr robotik_tr eklemli_tr _UNK__tr ._tr
+bu_tr ,_tr yapılara_tr tırmanabilen_tr bir_tr robot_tr ._tr
+bu_tr _UNK__tr kolu_tr ._tr
+o_tr ,_tr 12_tr serbestlik_tr dereceli_tr robotik_tr bir_tr kol_tr ._tr
+ama_tr harika_tr tarafı_tr kullanıcı_tr arayüzüdür_tr ._tr
+şurdaki_tr kablo_tr ,_tr optik_tr fiber_tr bir_tr _UNK__tr ._tr
+bu_tr öğrenci_tr ,_tr muhtemelen_tr ilk_tr kez_tr kullanıyor_tr ,_tr ama_tr onu_tr çok_tr farklı_tr şekillerde_tr hareket_tr ettirebiliyor_tr ._tr
+örneğin_tr irak'ta_tr ,_tr bilirsiniz_tr ,_tr savaş_tr bölgesi_tr ,_tr yol_tr kenarı_tr bombaları_tr var_tr ._tr şu_tr anda_tr kolu_tr olan_tr uzaktan_tr kumandalı_tr araçları_tr yolluyorsunuz_tr ._tr
+öyle_tr karmaşık_tr bir_tr kolu_tr çalıştırmak_tr için_tr ,_tr birini_tr eğitmek_tr çok_tr zaman_tr alıyor_tr ve_tr çok_tr pahalı_tr ._tr
+bu_tr durumda_tr ise_tr çok_tr sezgisel_tr ._tr bu_tr öğrenci_tr ,_tr muhtemelen_tr ilk_tr kez_tr kullanıyor_tr ,_tr çok_tr karmaşık_tr yönlendirmeler_tr yapıyor_tr ,_tr nesneleri_tr kaldırıyor_tr ,_tr hareket_tr ettiriyor_tr ,_tr aynen_tr böyle_tr ,_tr çok_tr sezgisel_tr ._tr
+bu_tr robot_tr şu_tr anda_tr bizim_tr _UNK__tr ._tr
+bu_tr robot_tr için_tr bir_tr fan_tr _UNK__tr var_tr ,_tr adı_tr darwin_tr ,_tr dinamik_tr _UNK__tr akıllı_tr robot_tr ._tr
+bildiğiniz_tr üzere_tr ,_tr biz_tr insansı_tr robot_tr ve_tr insansı_tr _UNK__tr çok_tr ilgileniyoruz_tr ,_tr bu_tr yüzden_tr küçük_tr bir_tr insansı_tr robot_tr yapmaya_tr karar_tr verdik_tr ._tr
+bu_tr _UNK__tr ,_tr o_tr zamanlar_tr bu_tr çok_tr çok_tr devrimsel_tr bir_tr gelişmeydi_tr ._tr
+bu_tr daha_tr çok_tr bir_tr yapılabilirlik_tr çalışmasıydı_tr ,_tr ne_tr tür_tr motorlar_tr kullanmalıyız_tr ?_tr
+hatta_tr mümkün_tr mü_tr ?_tr ne_tr tür_tr kontroller_tr yapmalıyız_tr ?_tr
+bunun_tr hiç_tr sensörleri_tr yok_tr ._tr
+açık_tr döngülü_tr bir_tr denetim_tr ._tr
+muhtemelen_tr bilenleriniz_tr vardır_tr ,_tr eğer_tr hiç_tr sensörleriniz_tr yoksa_tr ve_tr bozukluklar_tr varsa_tr ,_tr ne_tr olacağını_tr tahmin_tr edersiniz_tr ._tr
+bu_tr başarının_tr üstüne_tr ,_tr ertesi_tr sene_tr _UNK__tr başlayarak_tr uygun_tr bir_tr mekanik_tr tasarım_tr yaptık_tr ._tr
+ve_tr böylece_tr ,_tr 2005'te_tr darwin_tr doğdu_tr ._tr
+ayağa_tr kalkıyor_tr ._tr yürüyor_tr ,_tr çok_tr etkileyici_tr ._tr
+fakat_tr yine_tr de_tr ,_tr gördüğünüz_tr gibi_tr ,_tr bir_tr kablosu_tr var_tr ,_tr göbek_tr bağı_tr ._tr bu_tr yüzden_tr ,_tr halen_tr harici_tr güç_tr kaynağı_tr ve_tr harici_tr iletişim_tr kullanıyoruz_tr ._tr
+2006'da_tr artık_tr gerçekten_tr eğlenme_tr zamanı_tr ._tr
+biraz_tr zeka_tr verelim_tr ._tr i̇htiyacı_tr olan_tr tüm_tr işlemci_tr gücünü_tr verelim_tr ,_tr 1.5_tr _UNK__tr _UNK__tr m_tr çip_tr ,_tr iki_tr _UNK__tr kamera_tr ,_tr sekiz_tr _UNK__tr ,_tr _UNK__tr ,_tr ayakta_tr dört_tr dönme_tr _UNK__tr sensörü_tr ,_tr lityum_tr bataryalar_tr ._tr
+ve_tr artık_tr darwin_tr ii_tr tamamen_tr özerk_tr ._tr
+uzaktan_tr kumandalı_tr değil_tr ._tr
+_UNK__tr yok_tr ._tr etrafına_tr bakıyor_tr ,_tr topu_tr arıyor_tr ,_tr etrafına_tr bakıyor_tr ,_tr topu_tr arıyor_tr ,_tr futbol_tr oynamaya_tr çalışıyor_tr ,_tr özerk_tr olarak_tr ,_tr yapay_tr zeka_tr ._tr
+nasıl_tr yaptığına_tr bakalım_tr ._tr bu_tr bizim_tr ilk_tr denememiz_tr ,_tr ve_tr ..._tr video_tr :_tr _UNK__tr !_tr
+gerçekten_tr _UNK__tr denilen_tr bir_tr yarışma_tr var_tr ._tr
+kaçınız_tr _UNK__tr duydu_tr bilmiyorum_tr ._tr
+uluslararası_tr bir_tr özerk_tr robot_tr futbol_tr yarışması_tr ._tr
+ve_tr _UNK__tr hedefi_tr ,_tr gerçek_tr hedefi_tr ,_tr 2050_tr yılında_tr ,_tr istiyoruz_tr ki_tr tam_tr boyutlu_tr ,_tr özerk_tr insansı_tr robotlar_tr ,_tr gerçek_tr dünya_tr kupası_tr _UNK__tr karşı_tr futbol_tr oynasın_tr ve_tr _UNK__tr ._tr
+bu_tr gerçek_tr bir_tr hedef_tr ,_tr çok_tr tutkulu_tr bir_tr hedef_tr ,_tr fakat_tr biz_tr gerçekten_tr yapabileceğimize_tr inanıyoruz_tr ._tr
+bu_tr ,_tr çin'de_tr geçen_tr sene_tr ._tr
+biz_tr birleşik_tr devletler'de_tr insansı_tr robot_tr yarışmasında_tr kalifiye_tr olan_tr ilk_tr _UNK__tr ._tr
+bu_tr bu_tr sene_tr ,_tr avusturya'daydı_tr ._tr
+birazdan_tr _UNK__tr göreceksiniz_tr ,_tr üçe_tr karşı_tr ü_tr ç_tr ,_tr tümüyle_tr özerk_tr ._tr
+i̇şte_tr böyle_tr ._tr evet_tr !_tr
+robotlar_tr izliyor_tr ve_tr oynuyorlar_tr ,_tr takımlar_tr kendi_tr aralarında_tr oynuyorlar_tr ._tr
+çok_tr etkileyici_tr ._tr bu_tr gerçekten_tr bir_tr araştırma_tr olayının_tr ,_tr daha_tr heyecan_tr verici_tr bir_tr yarışmaya_tr dönüştürülmesidir_tr ._tr
+burada_tr gördüğünüz_tr ,_tr bu_tr çok_tr güzel_tr louis_tr _UNK__tr kupası_tr ödülü_tr ._tr
+bu_tr en_tr iyi_tr insansı_tr robot_tr için_tr ve_tr biz_tr önümüzdeki_tr sene_tr bunu_tr ilk_tr kez_tr birleşik_tr devletler'e_tr getirmeyi_tr istiyoruz_tr ,_tr o_tr yüzden_tr bize_tr şans_tr dileyin_tr ._tr
+teşekkürler_tr ._tr
+darwin'in_tr daha_tr çok_tr yetenekleri_tr var_tr ._tr
+o_tr ,_tr geçen_tr sene_tr gerçekten_tr _UNK__tr senfoni_tr _UNK__tr tatil_tr _UNK__tr yönetti_tr ._tr
+bu_tr gelecek_tr nesil_tr robot_tr ,_tr darwin_tr iv_tr ,_tr daha_tr akıllı_tr ,_tr daha_tr hızlı_tr ,_tr daha_tr güçlü_tr ._tr
+ve_tr yeteneklerini_tr göstermeye_tr çalışıyor_tr ._tr "_tr _UNK__tr ,_tr güçlüyüm_tr ._tr "_tr
+bazı_tr jackie_tr chan_tr hareketleri_tr de_tr yapabiliyor_tr ._tr dövüş_tr sanatları_tr hareketleri_tr ._tr
+ve_tr yürüyüp_tr gidiyor_tr ._tr i̇şte_tr bu_tr darwin_tr iv_tr ,_tr
+tekrar_tr ,_tr onu_tr lobide_tr görebileceksiniz_tr ._tr
+biz_tr bunun_tr birleşik_tr devletler'de_tr koşan_tr ilk_tr insansı_tr robot_tr olacağına_tr gerçekten_tr inanıyoruz_tr ._tr o_tr yüzden_tr ,_tr bekleyin_tr ._tr
+pekala_tr ,_tr size_tr heyecan_tr verici_tr robotlarımızı_tr _UNK__tr gösterdim_tr ._tr
+peki_tr ,_tr başarımızın_tr sırrı_tr nedir_tr ?_tr
+nereden_tr buluyoruz_tr bu_tr fikirleri_tr ?_tr
+bu_tr fikirleri_tr nasıl_tr geliştiriyoruz_tr ?_tr
+şehir_tr ortamında_tr _UNK__tr tamamen_tr özerk_tr bir_tr aracımız_tr var_tr ._tr darpa_tr şehir_tr _UNK__tr yarım_tr milyon_tr dolar_tr kazandık_tr ._tr
+ayrıca_tr körler_tr tarafından_tr sürülebilen_tr dünyanın_tr ilk_tr aracını_tr ürettik_tr ._tr
+biz_tr ona_tr kör_tr sürüş_tr düellosu_tr diyoruz_tr ,_tr çok_tr heyecan_tr verici_tr
+ve_tr hakkında_tr konuşmak_tr istediğim_tr diğer_tr birçok_tr robotik_tr projesi_tr ._tr
+bunlar_tr sadece_tr 2007_tr _UNK__tr robotik_tr _UNK__tr ve_tr o_tr tür_tr şeylerden_tr kazandığımız_tr ödüller_tr ._tr
+bizim_tr gerçekten_tr beş_tr _UNK__tr var_tr ._tr
+i̇lki_tr ,_tr biz_tr bu_tr ilhamı_tr nereden_tr buluyoruz_tr ,_tr
+bu_tr hayalgücü_tr kıvılcımını_tr nereden_tr alıyoruz_tr ?_tr
+bu_tr gerçek_tr bir_tr hikaye_tr ,_tr benim_tr kişisel_tr hikayem_tr ._tr
+geceleri_tr ,_tr uyumaya_tr gittiğimde_tr ,_tr sabahın_tr 3_tr veya_tr 4'ü_tr ,_tr _UNK__tr ,_tr gözlerimi_tr kaparım_tr ve_tr bu_tr çizgileri_tr ,_tr daireleri_tr ve_tr etrafta_tr dolanıp_tr duran_tr farklı_tr şekilleri_tr görürüm_tr
+ve_tr bunlar_tr bir_tr araya_tr gelir_tr ,_tr bu_tr tür_tr mekanizmaları_tr oluştururlar_tr ._tr
+ve_tr ,_tr "_tr aha_tr ,_tr işte_tr bu_tr harika_tr ._tr "_tr diye_tr düşünürüm_tr
+yatağımın_tr hemen_tr yanında_tr bir_tr not_tr defteri_tr tutarım_tr ,_tr bir_tr günlük_tr ,_tr üzerinde_tr ışık_tr ,_tr led_tr ışık_tr olan_tr ,_tr bir_tr kalemle_tr birlikte_tr ,_tr çünkü_tr ı_tr ş_tr ı_tr ğ_tr ı_tr açıp_tr eşimi_tr uyandırmak_tr istemem_tr ._tr
+gördüğüm_tr her_tr şeyi_tr _UNK__tr ,_tr bir_tr şeyler_tr çiziyorum_tr ,_tr ve_tr uyuyorum_tr ._tr
+her_tr gün_tr sabahları_tr ,_tr günün_tr ilk_tr _UNK__tr _UNK__tr önce_tr ,_tr daha_tr dişlerimi_tr fırçalamadan_tr ,_tr defterimi_tr _UNK__tr ._tr
+çoğu_tr zaman_tr boştur_tr ,_tr bazen_tr bir_tr şeyler_tr vardır_tr ,_tr bazen_tr işe_tr yaramaz_tr ,_tr fakat_tr çoğu_tr zaman_tr kendi_tr el_tr yazımı_tr bile_tr okuyamam_tr ._tr
+sabahın_tr 4'ü_tr ,_tr ne_tr _UNK__tr yani_tr ,_tr değil_tr mi_tr ?_tr
+yazdığımı_tr deşifre_tr etmem_tr gerekiyor_tr ._tr
+fakat_tr bazen_tr orada_tr o_tr dahice_tr fikri_tr görürüm_tr ,_tr ve_tr o_tr "_tr buldum_tr "_tr anını_tr yaşarım_tr ._tr
+doğruca_tr ofisime_tr gider_tr ,_tr bilgisayarımın_tr başına_tr oturur_tr ,_tr bu_tr fikirleri_tr yazarım_tr ,_tr bir_tr şeyler_tr çizerim_tr ve_tr bir_tr fikirler_tr listesi_tr tutarım_tr ._tr
+önermeler_tr için_tr çağrılar_tr olduğunda_tr potansiyel_tr fikirlerim_tr ile_tr problem_tr arasında_tr bir_tr eşleşme_tr bulmaya_tr çalışırım_tr ,_tr eğer_tr eşleşme_tr varsa_tr bir_tr araştırma_tr önerisi_tr yazarız_tr ,_tr araştırma_tr _UNK__tr alırız_tr ,_tr işte_tr araştırma_tr programlarımızı_tr böyle_tr _UNK__tr ._tr
+fakat_tr sadece_tr bir_tr hayal_tr gücü_tr kıvılcımı_tr yetersizdir_tr ._tr
+bu_tr tür_tr fikirleri_tr nasıl_tr geliştiriyoruz_tr ?_tr
+romela_tr ,_tr robotik_tr mekanizmalar_tr _UNK__tr bu_tr fantastik_tr beyin_tr fırtınası_tr _UNK__tr vardır_tr ._tr
+bir_tr araya_tr geliriz_tr ,_tr problemler_tr ve_tr sosyal_tr sorunlar_tr hakkında_tr tartışırız_tr ve_tr konuşuruz_tr ._tr
+fakat_tr başlamadan_tr önce_tr şu_tr altın_tr kuralı_tr koyarız_tr ._tr
+kural_tr şudur_tr :_tr kimse_tr kimsenin_tr fikirlerini_tr eleştirmeyecek_tr ._tr
+hiç_tr kimse_tr hiçbir_tr fikri_tr eleştirmeyecek_tr ._tr
+bu_tr önemlidir_tr ,_tr çünkü_tr çoğu_tr zaman_tr ,_tr öğrenciler_tr ,_tr başkalarının_tr kendi_tr düşünceleri_tr ve_tr fikirleri_tr hakkında_tr ne_tr _UNK__tr _UNK__tr ._tr
+bir_tr kez_tr bunu_tr yaptığınızda_tr ,_tr öğrenciler_tr inanılmaz_tr bir_tr şekilde_tr açılırlar_tr ._tr
+o_tr kaçık_tr ,_tr harika_tr ,_tr delice_tr parlak_tr fikirleri_tr bulurlar_tr ,_tr bütün_tr oda_tr yaratıcı_tr enerjiyle_tr dolup_tr taşar_tr ._tr
+ve_tr işte_tr biz_tr fikirlerimizi_tr böyle_tr geliştiririz_tr ._tr
+vaktimiz_tr azalıyor_tr ,_tr bahsetmek_tr istediğim_tr bir_tr şey_tr daha_tr var_tr ._tr bilirsiniz_tr ,_tr sadece_tr bir_tr parlak_tr fikir_tr ve_tr onu_tr geliştirme_tr yeterli_tr değildir_tr ._tr
+çok_tr güzel_tr bir_tr ted_tr anısı_tr vardı_tr ,_tr sanırım_tr sir_tr ken_tr robinson_tr olmalı_tr ,_tr değil_tr mi_tr ?_tr
+eğitim_tr ve_tr okulun_tr yaratıcılığı_tr nasıl_tr öldürdüğü_tr hakkında_tr konuştu_tr ._tr
+aslında_tr ,_tr hikayenin_tr iki_tr yüzü_tr var_tr ._tr
+dahice_tr fikirler_tr ,_tr yaratıcılık_tr ve_tr iyi_tr bir_tr mühendislik_tr sezgisi_tr ile_tr yapabilecekleriniz_tr sınırlıdır_tr ._tr
+_UNK__tr ötesine_tr gitmek_tr isterseniz_tr ,_tr robotik_tr _UNK__tr ötesine_tr gitmek_tr isterseniz_tr ve_tr robotik_tr biliminin_tr esas_tr _UNK__tr özenli_tr araştırmalarla_tr ele_tr almak_tr için_tr bundan_tr daha_tr fazlasına_tr ihtiyacımız_tr var_tr ._tr burada_tr okul_tr devreye_tr girer_tr ._tr
+batman_tr ,_tr kötü_tr adamlara_tr karşı_tr ,_tr onun_tr alet_tr kemeri_tr var_tr ,_tr kancası_tr var_tr ,_tr farklı_tr türde_tr çeşit_tr çeşit_tr aleti_tr var_tr ._tr
+biz_tr _UNK__tr ,_tr mühendisler_tr ve_tr bilim_tr insanları_tr için_tr bu_tr aletler_tr ,_tr bunlar_tr aldığınız_tr dersler_tr ve_tr _UNK__tr ._tr
+matematik_tr ,_tr diferansiyel_tr denklemler_tr ._tr
+doğrusal_tr cebir_tr ,_tr fen_tr bilimleri_tr ,_tr fizik_tr ,_tr hatta_tr bugünlerde_tr ,_tr kimya_tr ve_tr biyoloji_tr ,_tr gördüğünüz_tr gibi_tr ._tr
+tüm_tr bunlar_tr ihtiyacımız_tr olan_tr aletler_tr ._tr
+ne_tr kadar_tr çok_tr alet_tr varsa_tr ,_tr batman_tr için_tr _UNK__tr karşı_tr o_tr kadar_tr etkili_tr _UNK__tr ,_tr bizim_tr için_tr ,_tr büyük_tr problemleri_tr çözmek_tr için_tr daha_tr fazla_tr araç_tr demektir_tr ._tr
+bu_tr yüzden_tr eğitim_tr çok_tr önemlidir_tr ._tr
+dahası_tr ,_tr bu_tr kadar_tr değil_tr ,_tr sadece_tr bu_tr değil_tr ,_tr ayrıca_tr gerçekten_tr çok_tr ,_tr çok_tr çalışmalısınız_tr ._tr
+hep_tr öğrencilerime_tr söylerim_tr ,_tr akıllıca_tr çalışın_tr ,_tr sonra_tr çok_tr çalışın_tr ._tr
+arkadaki_tr bu_tr resim_tr ,_tr bu_tr sabahın_tr ü_tr ç_tr ü_tr ._tr
+garanti_tr veriyorum_tr ,_tr laboratuvarımıza_tr sabah_tr 3'te_tr 4'te_tr gelseniz_tr ,_tr orada_tr çalışan_tr öğrencilerimiz_tr vardır_tr ,_tr ben_tr onlara_tr söylediğim_tr için_tr değil_tr ,_tr çok_tr eğlenceli_tr olduğu_tr için_tr ._tr
+ki_tr bu_tr da_tr son_tr konuya_tr geliyor_tr ._tr eğlenmeyi_tr unutmayın_tr ._tr
+başarımızın_tr sırrı_tr gerçekten_tr budur_tr ,_tr biz_tr çok_tr eğleniyoruz_tr ._tr
+i̇nanıyorum_tr ki_tr en_tr fazla_tr verimlilik_tr ,_tr eğlendiğimiz_tr zaman_tr gerçekleşir_tr ._tr ve_tr bizim_tr de_tr yaptığımız_tr bu_tr ._tr
+i̇şte_tr böyle_tr ._tr çok_tr teşekkür_tr ediyorum_tr ._tr

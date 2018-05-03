@@ -1,0 +1,298 @@
+we_en all_en make_en decisions_en every_en day_en ;_en we_en want_en to_en know_en what_en the_en right_en thing_en is_en to_en do_en --_en in_en domains_en from_en the_en financial_en to_en the_en gastronomic_en to_en the_en professional_en to_en the_en romantic_en ._en
+and_en surely_en ,_en if_en somebody_en could_en really_en tell_en us_en how_en to_en do_en exactly_en the_en right_en thing_en at_en all_en possible_en times_en ,_en that_en would_en be_en a_en tremendous_en gift_en ._en
+it_en turns_en out_en that_en ,_en in_en fact_en ,_en the_en world_en was_en given_en this_en gift_en in_en 1738_en by_en a_en dutch_en polymath_en named_en daniel_en bernoulli_en ._en
+and_en what_en i_en want_en to_en talk_en to_en you_en about_en today_en is_en what_en that_en gift_en is_en ,_en and_en i_en also_en want_en to_en explain_en to_en you_en why_en it_en is_en that_en it_en has_en n't_en made_en a_en damn_en bit_en of_en difference_en ._en
+now_en ,_en this_en is_en bernoulli_en 's_en gift_en ._en this_en is_en a_en direct_en quote_en ._en
+and_en if_en it_en looks_en like_en greek_en to_en you_en ,_en it_en 's_en because_en ,_en well_en ,_en it_en 's_en greek_en ._en
+but_en the_en simple_en english_en translation_en --_en much_en less_en precise_en ,_en but_en it_en captures_en the_en gist_en of_en what_en bernoulli_en had_en to_en say_en --_en was_en this_en :_en the_en expected_en value_en of_en any_en of_en our_en actions_en --_en that_en is_en ,_en the_en goodness_en that_en we_en can_en count_en on_en getting_en --_en is_en the_en product_en of_en two_en simple_en things_en :_en the_en odds_en that_en this_en action_en will_en allow_en us_en to_en gain_en something_en ,_en and_en the_en value_en of_en that_en gain_en to_en us_en ._en
+in_en a_en sense_en ,_en what_en bernoulli_en was_en saying_en is_en ,_en if_en we_en can_en estimate_en and_en multiply_en these_en two_en things_en ,_en we_en will_en always_en know_en precisely_en how_en we_en should_en behave_en ._en
+now_en ,_en this_en simple_en equation_en ,_en even_en for_en those_en of_en you_en who_en do_en n't_en like_en equations_en ,_en is_en something_en that_en you_en 're_en quite_en used_en to_en ._en
+here_en 's_en an_en example_en :_en if_en i_en were_en to_en tell_en you_en ,_en let_en 's_en play_en a_en little_en coin_en toss_en game_en ,_en and_en i_en 'm_en going_en to_en flip_en a_en coin_en ,_en and_en if_en it_en comes_en up_en heads_en ,_en i_en 'm_en going_en to_en pay_en you_en 10_en dollars_en ,_en but_en you_en have_en to_en pay_en four_en dollars_en for_en the_en privilege_en of_en playing_en with_en me_en ,_en most_en of_en you_en would_en say_en ,_en sure_en ,_en i_en 'll_en take_en that_en bet_en ._en because_en you_en know_en that_en the_en odds_en of_en you_en winning_en are_en one_en half_en ,_en the_en gain_en if_en you_en do_en is_en 10_en dollars_en ,_en that_en multiplies_en to_en five_en ,_en and_en that_en 's_en more_en than_en i_en 'm_en charging_en you_en to_en play_en ._en so_en ,_en the_en answer_en is_en ,_en yes_en ._en
+this_en is_en what_en statisticians_en technically_en call_en a_en damn_en fine_en bet_en ._en
+now_en ,_en the_en idea_en is_en simple_en when_en we_en 're_en applying_en it_en to_en coin_en tosses_en ,_en but_en in_en fact_en ,_en it_en 's_en not_en very_en simple_en in_en everyday_en life_en ._en
+people_en are_en horrible_en at_en estimating_en both_en of_en these_en things_en ,_en and_en that_en 's_en what_en i_en want_en to_en talk_en to_en you_en about_en today_en ._en
+there_en are_en two_en kinds_en of_en errors_en people_en make_en when_en trying_en to_en decide_en what_en the_en right_en thing_en is_en to_en do_en ,_en and_en those_en are_en errors_en in_en estimating_en the_en odds_en that_en they_en 're_en going_en to_en succeed_en ,_en and_en errors_en in_en estimating_en the_en value_en of_en their_en own_en success_en ._en
+now_en ,_en let_en me_en talk_en about_en the_en first_en one_en first_en ._en
+calculating_en odds_en would_en seem_en to_en be_en something_en rather_en easy_en :_en there_en are_en six_en sides_en to_en a_en die_en ,_en two_en sides_en to_en a_en coin_en ,_en 52_en cards_en in_en a_en deck_en ._en
+you_en all_en know_en what_en the_en likelihood_en is_en of_en pulling_en the_en ace_en of_en spades_en or_en of_en flipping_en a_en heads_en ._en
+but_en as_en it_en turns_en out_en ,_en this_en is_en not_en a_en very_en easy_en idea_en to_en apply_en
+in_en everyday_en life_en ._en that_en 's_en why_en americans_en spend_en more_en --_en i_en should_en say_en ,_en lose_en more_en --_en gambling_en than_en on_en all_en other_en forms_en of_en entertainment_en combined_en ._en
+the_en reason_en is_en ,_en this_en is_en n't_en how_en people_en do_en odds_en ._en
+the_en way_en people_en figure_en odds_en requires_en that_en we_en first_en talk_en a_en bit_en about_en pigs_en ._en
+now_en ,_en the_en question_en i_en 'm_en going_en to_en put_en to_en you_en is_en whether_en you_en think_en there_en are_en more_en dogs_en or_en pigs_en on_en leashes_en observed_en in_en any_en particular_en day_en in_en oxford_en ._en
+and_en of_en course_en ,_en you_en all_en know_en that_en the_en answer_en is_en dogs_en ._en
+and_en the_en way_en that_en you_en know_en that_en the_en answer_en is_en dogs_en is_en you_en quickly_en reviewed_en in_en memory_en the_en times_en you_en 've_en seen_en dogs_en and_en pigs_en on_en leashes_en ._en
+it_en was_en very_en easy_en to_en remember_en seeing_en dogs_en ,_en not_en so_en easy_en to_en remember_en pigs_en ._en and_en each_en one_en of_en you_en assumed_en that_en if_en dogs_en on_en leashes_en came_en more_en quickly_en to_en your_en mind_en ,_en then_en dogs_en on_en leashes_en are_en more_en probable_en ._en
+that_en 's_en not_en a_en bad_en rule_en of_en thumb_en ,_en except_en when_en it_en is_en ._en
+so_en ,_en for_en example_en ,_en here_en 's_en a_en word_en puzzle_en ._en
+are_en there_en more_en four_en -_en letter_en english_en words_en with_en r_en in_en the_en third_en place_en or_en r_en in_en the_en first_en place_en ?_en
+well_en ,_en you_en check_en memory_en very_en briefly_en ,_en make_en a_en quick_en scan_en ,_en and_en it_en 's_en awfully_en easy_en to_en say_en to_en yourself_en ,_en ring_en ,_en rang_en ,_en rung_en ,_en and_en very_en hard_en to_en say_en to_en yourself_en ,_en pare_en ,_en park_en :_en they_en come_en more_en slowly_en ._en
+but_en in_en fact_en ,_en there_en are_en many_en more_en words_en in_en the_en english_en language_en with_en r_en in_en the_en third_en than_en the_en first_en place_en ._en
+the_en reason_en words_en with_en r_en in_en the_en third_en place_en come_en slowly_en to_en your_en mind_en is_en n't_en because_en they_en 're_en improbable_en ,_en unlikely_en or_en infrequent_en ._en
+it_en 's_en because_en the_en mind_en recalls_en words_en by_en their_en first_en letter_en ._en
+you_en kind_en of_en shout_en out_en the_en sound_en ,_en s_en --_en and_en the_en word_en comes_en ._en
+it_en 's_en like_en the_en dictionary_en ;_en it_en 's_en hard_en to_en look_en things_en up_en by_en the_en third_en letter_en ._en
+so_en ,_en this_en is_en an_en example_en of_en how_en this_en idea_en that_en the_en quickness_en with_en which_en things_en come_en to_en mind_en can_en give_en you_en a_en sense_en of_en their_en probability_en --_en how_en this_en idea_en could_en lead_en you_en astray_en ._en it_en 's_en not_en just_en puzzles_en ,_en though_en ._en
+for_en example_en ,_en when_en americans_en are_en asked_en to_en estimate_en the_en odds_en that_en they_en will_en die_en in_en a_en variety_en of_en interesting_en ways_en --_en these_en are_en estimates_en of_en number_en of_en deaths_en per_en year_en per_en 200_en million_en u.s._en citizens_en ._en
+and_en these_en are_en just_en ordinary_en people_en like_en yourselves_en who_en are_en asked_en to_en guess_en how_en many_en people_en die_en from_en tornado_en ,_en fireworks_en ,_en asthma_en ,_en drowning_en ,_en etc._en
+compare_en these_en to_en the_en actual_en numbers_en ._en
+now_en ,_en you_en see_en a_en very_en interesting_en pattern_en here_en ,_en which_en is_en first_en of_en all_en ,_en two_en things_en are_en vastly_en over_en -_en estimated_en ,_en namely_en tornadoes_en and_en fireworks_en ._en two_en things_en are_en vastly_en underestimated_en :_en dying_en by_en drowning_en and_en dying_en by_en asthma_en ._en why_en ?_en
+when_en was_en the_en last_en time_en that_en you_en picked_en up_en a_en newspaper_en and_en the_en headline_en was_en ,_en "_en boy_en dies_en of_en asthma_en ?_en "_en
+it_en 's_en not_en interesting_en because_en it_en 's_en so_en common_en ._en
+it_en 's_en very_en easy_en for_en all_en of_en us_en to_en bring_en to_en mind_en instances_en of_en news_en stories_en or_en newsreels_en where_en we_en 've_en seen_en tornadoes_en devastating_en cities_en ,_en or_en some_en poor_en schmuck_en who_en 's_en blown_en his_en hands_en off_en with_en a_en firework_en on_en the_en fourth_en of_en july_en ._en
+drownings_en and_en asthma_en deaths_en do_en n't_en get_en much_en coverage_en ._en
+they_en do_en n't_en come_en quickly_en to_en mind_en ,_en and_en as_en a_en result_en ,_en we_en vastly_en underestimate_en them_en ._en
+indeed_en ,_en this_en is_en kind_en of_en like_en the_en sesame_en street_en game_en of_en "_en which_en thing_en does_en n't_en belong_en ?_en "_en and_en you_en 're_en right_en to_en say_en it_en 's_en the_en swimming_en pool_en that_en does_en n't_en belong_en ,_en because_en the_en swimming_en pool_en is_en the_en only_en thing_en on_en this_en slide_en that_en 's_en actually_en very_en dangerous_en ._en
+the_en way_en that_en more_en of_en you_en are_en likely_en to_en die_en than_en the_en combination_en the_en lottery_en is_en an_en excellent_en example_en ,_en of_en course_en --_en an_en excellent_en test_en -_en case_en of_en people_en 's_en ability_en to_en compute_en probabilities_en ._en
+and_en economists_en --_en forgive_en me_en ,_en for_en those_en of_en you_en who_en play_en the_en lottery_en --_en but_en economists_en ,_en at_en least_en among_en themselves_en ,_en refer_en to_en the_en lottery_en as_en a_en stupidity_en tax_en ,_en because_en the_en odds_en of_en getting_en any_en payoff_en by_en investing_en your_en money_en in_en a_en lottery_en ticket_en are_en approximately_en equivalent_en to_en flushing_en the_en money_en
+directly_en down_en the_en toilet_en --_en which_en ,_en by_en the_en way_en ,_en does_en n't_en require_en that_en you_en actually_en go_en to_en the_en store_en and_en buy_en anything_en ._en why_en in_en the_en world_en would_en anybody_en ever_en play_en the_en lottery_en ?_en
+well_en ,_en there_en are_en many_en answers_en ,_en but_en one_en answer_en surely_en is_en ,_en we_en see_en a_en lot_en of_en winners_en ._en right_en ?_en when_en this_en couple_en wins_en the_en lottery_en ,_en or_en ed_en mcmahon_en shows_en up_en at_en your_en door_en with_en this_en giant_en check_en --_en how_en the_en hell_en do_en you_en cash_en things_en that_en size_en ,_en i_en do_en n't_en know_en ._en
+we_en see_en this_en on_en tv_en ;_en we_en read_en about_en it_en in_en the_en paper_en ._en
+when_en was_en the_en last_en time_en that_en you_en saw_en extensive_en interviews_en with_en everybody_en who_en lost_en ?_en
+indeed_en ,_en if_en we_en required_en that_en television_en stations_en run_en a_en 30_en -_en second_en interview_en with_en each_en loser_en every_en time_en they_en interview_en a_en winner_en ,_en the_en 100_en million_en losers_en in_en the_en last_en lottery_en would_en require_en nine_en -_en and_en -_en a_en -_en half_en years_en of_en your_en undivided_en attention_en just_en to_en watch_en them_en say_en ,_en "_en me_en ?_en i_en lost_en ._en "_en "_en me_en ?_en i_en lost_en ._en "_en
+now_en ,_en if_en you_en watch_en nine_en -_en and_en -_en a_en -_en half_en years_en of_en television_en --_en no_en sleep_en ,_en no_en potty_en breaks_en --_en and_en you_en saw_en loss_en after_en loss_en after_en loss_en ,_en and_en then_en at_en the_en end_en there_en 's_en 30_en seconds_en of_en ,_en "_en and_en i_en won_en ,_en "_en
+the_en likelihood_en that_en you_en would_en play_en the_en lottery_en is_en very_en small_en ._en
+look_en ,_en i_en can_en prove_en this_en to_en you_en :_en here_en 's_en a_en little_en lottery_en ._en
+there_en 's_en 10_en tickets_en in_en this_en lottery_en ._en
+nine_en of_en them_en have_en been_en sold_en to_en these_en individuals_en ._en
+it_en costs_en you_en a_en dollar_en to_en buy_en the_en ticket_en and_en ,_en if_en you_en win_en ,_en you_en get_en 20_en bucks_en ._en is_en this_en a_en good_en bet_en ?_en
+well_en ,_en bernoulli_en tells_en us_en it_en is_en ._en the_en expected_en value_en of_en this_en lottery_en is_en two_en dollars_en ;_en this_en is_en a_en lottery_en in_en which_en you_en should_en invest_en your_en money_en ._en
+and_en most_en people_en say_en ,_en "_en ok_en ,_en i_en 'll_en play_en ._en "_en
+now_en ,_en a_en slightly_en different_en version_en of_en this_en lottery_en :_en imagine_en that_en the_en nine_en tickets_en are_en all_en owned_en by_en one_en fat_en guy_en named_en leroy_en ._en
+leroy_en has_en nine_en tickets_en ;_en there_en 's_en one_en left_en ._en do_en you_en want_en it_en ?_en most_en people_en wo_en n't_en play_en this_en lottery_en ._en
+now_en ,_en you_en can_en see_en the_en odds_en of_en winning_en have_en n't_en changed_en ,_en but_en it_en 's_en now_en fantastically_en easy_en to_en imagine_en who_en 's_en going_en to_en win_en ._en
+it_en 's_en easy_en to_en see_en leroy_en getting_en the_en check_en ,_en right_en ?_en
+you_en ca_en n't_en say_en to_en yourself_en ,_en "_en i_en 'm_en as_en likely_en to_en win_en as_en anybody_en ,_en "_en because_en you_en 're_en not_en as_en likely_en to_en win_en as_en leroy_en ._en
+the_en fact_en that_en all_en those_en tickets_en are_en owned_en by_en one_en guy_en changes_en your_en decision_en to_en play_en ,_en even_en though_en it_en does_en nothing_en whatsoever_en to_en the_en odds_en ._en
+now_en ,_en estimating_en odds_en ,_en as_en difficult_en as_en it_en may_en seem_en ,_en is_en a_en piece_en of_en cake_en compared_en to_en trying_en to_en estimate_en value_en :_en trying_en to_en say_en what_en something_en is_en worth_en ,_en how_en much_en we_en 'll_en enjoy_en it_en ,_en how_en much_en pleasure_en it_en will_en give_en us_en ._en
+i_en want_en to_en talk_en now_en about_en errors_en in_en value_en ._en
+how_en much_en is_en this_en big_en mac_en worth_en ?_en is_en it_en worth_en 25_en dollars_en ?_en
+most_en of_en you_en have_en the_en intuition_en that_en it_en 's_en not_en --_en you_en would_en n't_en pay_en that_en for_en it_en ._en
+but_en in_en fact_en ,_en to_en decide_en whether_en a_en big_en mac_en is_en worth_en 25_en dollars_en requires_en that_en you_en ask_en one_en ,_en and_en only_en one_en question_en ,_en which_en is_en :_en what_en else_en can_en i_en do_en with_en 25_en dollars_en ?_en
+if_en you_en 've_en ever_en gotten_en on_en one_en of_en those_en long_en -_en haul_en flights_en to_en australia_en and_en realized_en that_en they_en 're_en not_en going_en to_en serve_en you_en any_en food_en ,_en but_en somebody_en in_en the_en row_en in_en front_en of_en you_en has_en just_en opened_en the_en mcdonald_en 's_en bag_en ,_en and_en the_en smell_en of_en golden_en arches_en is_en wafting_en over_en the_en seat_en ,_en you_en think_en ,_en i_en ca_en n't_en do_en anything_en else_en with_en this_en 25_en dollars_en for_en 16_en hours_en ._en
+i_en ca_en n't_en even_en set_en it_en on_en fire_en --_en they_en took_en my_en cigarette_en lighter_en !_en
+suddenly_en ,_en 25_en dollars_en for_en a_en big_en mac_en might_en be_en a_en good_en deal_en ._en
+on_en the_en other_en hand_en ,_en if_en you_en 're_en visiting_en an_en underdeveloped_en country_en ,_en and_en 25_en dollars_en buys_en you_en a_en gourmet_en meal_en ,_en it_en 's_en exorbitant_en for_en a_en big_en mac_en ._en
+why_en were_en you_en all_en sure_en that_en the_en answer_en to_en the_en question_en was_en no_en ,_en before_en i_en 'd_en even_en told_en you_en anything_en about_en the_en context_en ?_en
+because_en most_en of_en you_en compared_en the_en price_en of_en this_en big_en mac_en to_en the_en price_en you_en 're_en used_en to_en paying_en ._en rather_en than_en asking_en ,_en "_en what_en else_en can_en i_en do_en with_en my_en money_en ,_en "_en comparing_en this_en investment_en to_en other_en possible_en investments_en ,_en you_en compared_en to_en the_en past_en ._en
+and_en this_en is_en a_en systematic_en error_en people_en make_en ._en
+what_en you_en knew_en is_en ,_en you_en paid_en three_en dollars_en in_en the_en past_en ;_en 25_en is_en outrageous_en ._en
+this_en is_en an_en error_en ,_en and_en i_en can_en prove_en it_en to_en you_en by_en showing_en the_en kinds_en of_en irrationalities_en to_en which_en it_en leads_en ._en
+for_en example_en ,_en this_en is_en ,_en of_en course_en ,_en one_en of_en the_en most_en delicious_en tricks_en in_en marketing_en ,_en is_en to_en say_en something_en used_en to_en be_en higher_en ,_en and_en suddenly_en it_en seems_en like_en a_en very_en good_en deal_en ._en
+when_en people_en are_en asked_en about_en these_en two_en different_en jobs_en :_en a_en job_en where_en you_en make_en 60k_en ,_en then_en 50k_en ,_en then_en 40k_en ,_en a_en job_en where_en you_en 're_en getting_en a_en salary_en cut_en each_en year_en ,_en and_en one_en in_en which_en you_en 're_en getting_en a_en salary_en increase_en ,_en people_en like_en the_en second_en job_en better_en than_en the_en first_en ,_en despite_en the_en fact_en they_en 're_en all_en told_en they_en make_en much_en less_en money_en ._en why_en ?_en
+because_en they_en had_en the_en sense_en that_en declining_en wages_en are_en worse_en than_en rising_en wages_en ,_en even_en when_en the_en total_en amount_en of_en wages_en is_en higher_en in_en the_en declining_en period_en ._en here_en 's_en another_en nice_en example_en ._en
+here_en 's_en a_en $_en 2,000_en hawaiian_en vacation_en package_en ;_en it_en 's_en now_en on_en sale_en for_en 1,600_en ._en assuming_en you_en wanted_en to_en go_en to_en hawaii_en ,_en would_en you_en buy_en this_en package_en ?_en
+most_en people_en say_en they_en would_en ._en here_en 's_en a_en slightly_en different_en story_en :_en $_en 2,000_en hawaiian_en vacation_en package_en is_en now_en on_en sale_en for_en 700_en dollars_en ,_en so_en you_en decide_en to_en mull_en it_en over_en for_en a_en week_en ._en
+by_en the_en time_en you_en get_en to_en the_en ticket_en agency_en ,_en the_en best_en fares_en are_en gone_en --_en the_en package_en now_en costs_en 1,500_en ._en would_en you_en buy_en it_en ?_en most_en people_en say_en ,_en no._en
+why_en ?_en because_en it_en used_en to_en cost_en 700_en ,_en and_en there_en 's_en no_en way_en i_en 'm_en paying_en 1,500_en for_en something_en that_en was_en 700_en last_en week_en ._en
+this_en tendency_en to_en compare_en to_en the_en past_en is_en causing_en people_en to_en pass_en up_en the_en better_en deal_en ._en in_en other_en words_en ,_en
+a_en good_en deal_en that_en used_en to_en be_en a_en great_en deal_en is_en not_en nearly_en as_en good_en as_en an_en awful_en deal_en that_en was_en once_en a_en horrible_en deal_en ._en
+here_en 's_en another_en example_en of_en how_en comparing_en to_en the_en past_en can_en befuddle_en our_en decisions_en ._en
+imagine_en that_en you_en 're_en going_en to_en the_en theater_en ._en
+you_en 're_en on_en your_en way_en to_en the_en theater_en ._en
+in_en your_en wallet_en you_en have_en a_en ticket_en ,_en for_en which_en you_en paid_en 20_en dollars_en ._en you_en also_en have_en a_en 20_en -_en dollar_en bill_en ._en
+when_en you_en arrive_en at_en the_en theater_en ,_en you_en discover_en that_en somewhere_en along_en the_en way_en you_en 've_en lost_en the_en ticket_en ._en
+would_en you_en spend_en your_en remaining_en money_en on_en replacing_en it_en ?_en
+most_en people_en answer_en ,_en no._en
+now_en ,_en let_en 's_en just_en change_en one_en thing_en in_en this_en scenario_en ._en
+you_en 're_en on_en your_en way_en to_en the_en theater_en ,_en and_en in_en your_en wallet_en you_en have_en two_en 20_en -_en dollar_en bills_en ._en
+when_en you_en arrive_en you_en discover_en you_en 've_en lost_en one_en of_en them_en ._en
+would_en you_en spend_en your_en remaining_en 20_en dollars_en on_en a_en ticket_en ?_en
+well_en ,_en of_en course_en ,_en i_en went_en to_en the_en theater_en to_en see_en the_en play_en ._en what_en does_en the_en loss_en of_en 20_en dollars_en along_en the_en way_en have_en to_en do_en ?_en
+now_en ,_en just_en in_en case_en you_en 're_en not_en getting_en it_en ,_en here_en 's_en a_en schematic_en of_en what_en happened_en ,_en ok_en ?_en
+along_en the_en way_en ,_en you_en lost_en something_en ._en
+in_en both_en cases_en ,_en it_en was_en a_en piece_en of_en paper_en ._en
+in_en one_en case_en ,_en it_en had_en a_en u.s._en president_en on_en it_en ;_en in_en the_en other_en case_en it_en did_en n't_en ._en
+what_en the_en hell_en difference_en should_en it_en make_en ?_en
+the_en difference_en is_en that_en when_en you_en lost_en the_en ticket_en you_en say_en to_en yourself_en ,_en i_en 'm_en not_en paying_en twice_en for_en the_en same_en thing_en ._en
+you_en compare_en the_en cost_en of_en the_en play_en now_en --_en 40_en dollars_en --_en to_en the_en cost_en that_en it_en used_en to_en have_en --_en 20_en dollars_en --_en and_en you_en say_en it_en 's_en a_en bad_en deal_en ._en
+comparing_en with_en the_en past_en causes_en many_en of_en the_en problems_en that_en behavioral_en economists_en and_en psychologists_en identify_en in_en people_en 's_en attempts_en to_en assign_en value_en ._en
+but_en even_en when_en we_en compare_en with_en the_en possible_en ,_en instead_en of_en the_en past_en ,_en we_en still_en make_en certain_en kinds_en of_en mistakes_en ._en
+and_en i_en 'm_en going_en to_en show_en you_en one_en or_en two_en of_en them_en ._en
+one_en of_en the_en things_en we_en know_en about_en comparison_en :_en that_en when_en we_en compare_en one_en thing_en to_en the_en other_en ,_en it_en changes_en its_en value_en ._en
+so_en in_en 1992_en ,_en this_en fellow_en ,_en george_en bush_en ,_en for_en those_en of_en us_en who_en were_en kind_en of_en on_en the_en liberal_en side_en of_en the_en political_en spectrum_en ,_en did_en n't_en seem_en like_en such_en a_en great_en guy_en ._en
+suddenly_en ,_en we_en 're_en almost_en longing_en for_en him_en to_en return_en ._en
+the_en comparison_en changes_en how_en we_en evaluate_en him_en ._en
+now_en ,_en retailers_en knew_en this_en long_en before_en anybody_en else_en did_en ,_en of_en course_en ,_en and_en they_en use_en this_en wisdom_en to_en help_en you_en --_en spare_en you_en the_en undue_en burden_en of_en money_en ._en
+and_en so_en a_en retailer_en ,_en if_en you_en were_en to_en go_en into_en a_en wine_en shop_en and_en you_en had_en to_en buy_en a_en bottle_en of_en wine_en ,_en and_en you_en see_en them_en here_en for_en eight_en ,_en 27_en and_en 33_en dollars_en ,_en what_en would_en you_en do_en ?_en
+most_en people_en do_en n't_en want_en the_en most_en expensive_en ,_en they_en do_en n't_en want_en the_en least_en expensive_en ._en
+so_en ,_en they_en will_en opt_en for_en the_en item_en in_en the_en middle_en ._en
+if_en you_en 're_en a_en smart_en retailer_en ,_en then_en ,_en you_en will_en put_en a_en very_en expensive_en item_en that_en nobody_en will_en ever_en buy_en on_en the_en shelf_en ,_en because_en suddenly_en the_en $_en 33_en wine_en does_en n't_en look_en as_en expensive_en in_en comparison_en ._en
+so_en i_en 'm_en telling_en you_en something_en you_en already_en knew_en :_en namely_en ,_en that_en comparison_en changes_en the_en value_en of_en things_en ._en
+here_en 's_en why_en that_en 's_en a_en problem_en :_en the_en problem_en is_en that_en when_en you_en get_en that_en $_en 33_en bottle_en of_en wine_en home_en ,_en it_en wo_en n't_en matter_en what_en it_en used_en to_en be_en sitting_en on_en the_en shelf_en next_en to_en ._en
+the_en comparisons_en we_en make_en when_en we_en are_en appraising_en value_en ,_en where_en we_en 're_en trying_en to_en estimate_en how_en much_en we_en 'll_en like_en things_en ,_en are_en not_en the_en same_en comparisons_en we_en 'll_en be_en making_en when_en we_en consume_en them_en ._en
+this_en problem_en of_en shifting_en comparisons_en can_en bedevil_en our_en attempts_en to_en make_en rational_en decisions_en ._en let_en me_en just_en give_en you_en an_en example_en ._en
+i_en have_en to_en show_en you_en something_en from_en my_en own_en lab_en ,_en so_en let_en me_en sneak_en this_en in_en ._en
+these_en are_en subjects_en coming_en to_en an_en experiment_en to_en be_en asked_en the_en simplest_en of_en all_en questions_en :_en how_en much_en will_en you_en enjoy_en eating_en potato_en chips_en one_en minute_en from_en now_en ?_en
+they_en 're_en sitting_en in_en a_en room_en with_en potato_en chips_en in_en front_en of_en them_en ._en
+for_en some_en of_en the_en subjects_en ,_en sitting_en in_en the_en far_en corner_en of_en a_en room_en is_en a_en box_en of_en godiva_en chocolates_en ,_en and_en for_en others_en is_en a_en can_en of_en spam_en ._en
+in_en fact_en ,_en these_en items_en that_en are_en sitting_en in_en the_en room_en change_en how_en much_en the_en subjects_en think_en they_en 're_en going_en to_en enjoy_en the_en potato_en chips_en ._en
+namely_en ,_en those_en who_en are_en looking_en at_en spam_en think_en potato_en chips_en are_en going_en to_en be_en quite_en tasty_en ;_en those_en who_en are_en looking_en at_en godiva_en chocolate_en think_en they_en wo_en n't_en be_en nearly_en so_en tasty_en ._en
+of_en course_en ,_en what_en happens_en when_en they_en eat_en the_en potato_en chips_en ?_en
+well_en ,_en look_en ,_en you_en did_en n't_en need_en a_en psychologist_en to_en tell_en you_en that_en when_en you_en have_en a_en mouthful_en of_en greasy_en ,_en salty_en ,_en crispy_en ,_en delicious_en snacks_en ,_en what_en 's_en sitting_en in_en the_en corner_en of_en the_en room_en makes_en not_en a_en damn_en bit_en of_en difference_en to_en your_en gustatory_en experience_en ._en
+nonetheless_en ,_en their_en predictions_en are_en perverted_en by_en a_en comparison_en that_en then_en does_en not_en carry_en through_en and_en change_en their_en experience_en ._en
+you_en 've_en all_en experienced_en this_en yourself_en ,_en even_en if_en you_en 've_en never_en come_en into_en our_en lab_en to_en eat_en potato_en chips_en ._en so_en here_en 's_en a_en question_en :_en you_en want_en to_en buy_en a_en car_en stereo_en ._en
+the_en dealer_en near_en your_en house_en sells_en this_en particular_en stereo_en for_en 200_en dollars_en ,_en but_en if_en you_en drive_en across_en town_en ,_en you_en can_en get_en it_en for_en 100_en bucks_en ._en
+so_en would_en you_en drive_en to_en get_en 50_en percent_en off_en ,_en saving_en 100_en dollars_en ?_en
+most_en people_en say_en they_en would_en ._en
+they_en ca_en n't_en imagine_en buying_en it_en for_en twice_en the_en price_en when_en ,_en with_en one_en trip_en across_en town_en ,_en they_en can_en get_en it_en for_en half_en off_en ._en
+now_en ,_en let_en 's_en imagine_en instead_en you_en wanted_en to_en buy_en a_en car_en that_en had_en a_en stereo_en ,_en and_en the_en dealer_en near_en your_en house_en had_en it_en for_en 31,000_en ._en
+but_en if_en you_en drove_en across_en town_en ,_en you_en could_en get_en it_en for_en 30,900_en ._en
+would_en you_en drive_en to_en get_en it_en ?_en at_en this_en point_en ,_en 0.003_en savings_en --_en the_en 100_en dollars_en ._en
+most_en people_en say_en ,_en no_en ,_en i_en 'm_en going_en to_en schlep_en across_en town_en to_en save_en 100_en bucks_en on_en the_en purchase_en of_en a_en car_en ?_en
+this_en kind_en of_en thinking_en drives_en economists_en crazy_en ,_en and_en it_en should_en ._en
+because_en this_en 100_en dollars_en that_en you_en save_en --_en hello_en !_en --_en does_en n't_en know_en where_en it_en came_en from_en ._en
+it_en does_en n't_en know_en what_en you_en saved_en it_en on_en ._en
+when_en you_en go_en to_en buy_en groceries_en with_en it_en ,_en it_en does_en n't_en go_en ,_en i_en 'm_en the_en money_en saved_en on_en the_en car_en stereo_en ,_en or_en ,_en i_en 'm_en the_en dumb_en money_en saved_en on_en the_en car_en ._en it_en 's_en money_en ._en
+and_en if_en a_en drive_en across_en town_en is_en worth_en 100_en bucks_en ,_en it_en 's_en worth_en 100_en bucks_en no_en matter_en what_en you_en 're_en saving_en it_en on_en ._en people_en do_en n't_en think_en that_en way_en ._en
+that_en 's_en why_en they_en do_en n't_en know_en whether_en their_en mutual_en fund_en manager_en is_en taking_en 0.1_en percent_en or_en 0.15_en percent_en of_en their_en investment_en ,_en but_en they_en clip_en coupons_en to_en save_en one_en dollar_en off_en of_en toothpaste_en ._en
+now_en ,_en you_en can_en see_en ,_en this_en is_en the_en problem_en of_en shifting_en comparisons_en ,_en because_en what_en you_en 're_en doing_en is_en ,_en you_en 're_en comparing_en the_en 100_en bucks_en to_en the_en purchase_en that_en you_en 're_en making_en ,_en but_en when_en you_en go_en to_en spend_en that_en money_en you_en wo_en n't_en be_en making_en that_en comparison_en ._en
+you_en 've_en all_en had_en this_en experience_en ._en
+if_en you_en 're_en an_en american_en ,_en for_en example_en ,_en you_en 've_en probably_en traveled_en in_en france_en ._en
+and_en at_en some_en point_en you_en may_en have_en met_en a_en couple_en from_en your_en own_en hometown_en ,_en and_en you_en thought_en ,_en "_en oh_en ,_en my_en god_en ,_en these_en people_en are_en so_en warm_en ._en they_en 're_en so_en nice_en to_en me_en ._en
+i_en mean_en ,_en compared_en to_en all_en these_en people_en who_en hate_en me_en when_en i_en try_en to_en speak_en their_en language_en and_en hate_en me_en more_en when_en i_en do_en n't_en ,_en these_en people_en are_en just_en wonderful_en ._en "_en and_en so_en you_en tour_en france_en with_en them_en ,_en and_en then_en you_en get_en home_en and_en you_en invite_en them_en over_en for_en dinner_en ,_en and_en what_en do_en you_en find_en ?_en
+compared_en to_en your_en regular_en friends_en ,_en they_en are_en boring_en and_en dull_en ,_en right_en ?_en because_en in_en this_en new_en context_en ,_en the_en comparison_en is_en very_en ,_en very_en different_en ._en in_en fact_en ,_en you_en find_en yourself_en disliking_en them_en enough_en almost_en to_en qualify_en for_en french_en citizenship_en ._en
+now_en ,_en you_en have_en exactly_en the_en same_en problem_en when_en you_en shop_en for_en a_en stereo_en ._en you_en go_en to_en the_en stereo_en store_en ,_en you_en see_en two_en sets_en of_en speakers_en --_en these_en big_en ,_en boxy_en ,_en monoliths_en ,_en and_en these_en little_en ,_en sleek_en speakers_en ,_en and_en you_en play_en them_en ,_en and_en you_en go_en ,_en you_en know_en ,_en i_en do_en hear_en a_en difference_en :_en the_en big_en ones_en sound_en a_en little_en better_en ._en
+and_en so_en you_en buy_en them_en ,_en and_en you_en bring_en them_en home_en ,_en and_en you_en entirely_en violate_en the_en décor_en of_en your_en house_en ._en
+and_en the_en problem_en ,_en of_en course_en ,_en is_en that_en this_en comparison_en you_en made_en in_en the_en store_en is_en a_en comparison_en you_en 'll_en never_en make_en again_en ._en
+what_en are_en the_en odds_en that_en years_en later_en you_en 'll_en turn_en on_en the_en stereo_en and_en go_en ,_en "_en sounds_en so_en much_en better_en than_en those_en little_en ones_en ,_en "_en which_en you_en ca_en n't_en even_en remember_en hearing_en ._en
+the_en problem_en of_en shifting_en comparisons_en is_en even_en more_en difficult_en when_en these_en choices_en are_en arrayed_en over_en time_en ._en
+people_en have_en a_en lot_en of_en trouble_en making_en decisions_en about_en things_en that_en will_en happen_en at_en different_en points_en in_en time_en ._en
+and_en what_en psychologists_en and_en behavioral_en economists_en have_en discovered_en is_en that_en by_en and_en large_en people_en use_en two_en simple_en rules_en ._en
+so_en let_en me_en give_en you_en one_en very_en easy_en problem_en ,_en a_en second_en very_en easy_en problem_en and_en then_en a_en third_en ,_en hard_en ,_en problem_en ._en
+here_en 's_en the_en first_en easy_en problem_en :_en
+you_en can_en have_en 60_en dollars_en now_en or_en 50_en dollars_en now_en ._en which_en would_en you_en prefer_en ?_en
+this_en is_en what_en we_en call_en a_en one_en -_en item_en iq_en test_en ,_en ok_en ?_en
+all_en of_en us_en ,_en i_en hope_en ,_en prefer_en more_en money_en ,_en and_en the_en reason_en is_en ,_en we_en believe_en more_en is_en better_en than_en less_en ._en
+here_en 's_en the_en second_en problem_en :_en you_en can_en have_en 60_en dollars_en today_en or_en 60_en dollars_en in_en a_en month_en ._en which_en would_en you_en prefer_en ?_en
+again_en ,_en an_en easy_en decision_en ,_en because_en we_en all_en know_en that_en now_en is_en better_en than_en later_en ._en
+what_en 's_en hard_en in_en our_en decision_en -_en making_en is_en when_en these_en two_en rules_en conflict_en ._en for_en example_en ,_en when_en you_en 're_en offered_en 50_en dollars_en now_en or_en 60_en dollars_en in_en a_en month_en ._en
+this_en typifies_en a_en lot_en of_en situations_en in_en life_en in_en which_en you_en will_en gain_en by_en waiting_en ,_en but_en you_en have_en to_en be_en patient_en ._en
+what_en do_en we_en know_en ?_en what_en do_en people_en do_en in_en these_en kinds_en of_en situations_en ?_en
+well_en ,_en by_en and_en large_en people_en are_en enormously_en impatient_en ._en
+that_en is_en ,_en they_en require_en interest_en rates_en in_en the_en hundred_en or_en thousands_en of_en percents_en in_en order_en to_en delay_en gratification_en and_en wait_en until_en next_en month_en for_en the_en extra_en 10_en dollars_en ._en
+maybe_en that_en is_en n't_en so_en remarkable_en ,_en but_en what_en is_en remarkable_en is_en how_en easy_en it_en is_en to_en make_en this_en impatience_en go_en away_en by_en simply_en changing_en when_en the_en delivery_en of_en these_en monetary_en units_en will_en happen_en ._en
+imagine_en that_en you_en can_en have_en 50_en dollars_en in_en a_en year_en --_en that_en 's_en 12_en months_en --_en or_en 60_en dollars_en in_en 13_en months_en ._en
+what_en do_en we_en find_en now_en ?_en
+people_en are_en gladly_en willing_en to_en wait_en :_en as_en long_en as_en they_en 're_en waiting_en 12_en ,_en they_en might_en as_en well_en wait_en 13_en ._en
+what_en makes_en this_en dynamic_en inconsistency_en happen_en ?_en
+comparison_en ._en troubling_en comparison_en ._en let_en me_en show_en you_en ._en
+this_en is_en just_en a_en graph_en showing_en the_en results_en that_en i_en just_en suggested_en you_en would_en show_en if_en i_en gave_en you_en time_en to_en respond_en ,_en which_en is_en ,_en people_en find_en that_en the_en subjective_en value_en of_en 50_en is_en higher_en than_en the_en subjective_en value_en of_en 60_en when_en they_en 'll_en be_en delivered_en in_en now_en or_en one_en month_en ,_en respectively_en --_en a_en 30_en -_en day_en delay_en --_en but_en they_en show_en the_en reverse_en pattern_en when_en you_en push_en the_en entire_en decision_en off_en into_en the_en future_en a_en year_en ._en
+now_en ,_en why_en in_en the_en world_en do_en you_en get_en this_en pattern_en of_en results_en ?_en
+these_en guys_en can_en tell_en us_en ._en
+what_en you_en see_en here_en are_en two_en lads_en ,_en one_en of_en them_en larger_en than_en the_en other_en :_en the_en fireman_en and_en the_en fiddler_en ._en
+they_en are_en going_en to_en recede_en towards_en the_en vanishing_en point_en in_en the_en horizon_en ,_en and_en i_en want_en you_en to_en notice_en two_en things_en ._en
+at_en no_en point_en will_en the_en fireman_en look_en taller_en than_en the_en fiddler_en ._en no_en point_en ._en
+however_en ,_en the_en difference_en between_en them_en seems_en to_en be_en getting_en smaller_en ._en
+first_en it_en 's_en an_en inch_en in_en your_en view_en ,_en then_en it_en 's_en a_en quarter_en -_en inch_en ,_en then_en a_en half_en -_en inch_en ,_en and_en then_en finally_en they_en go_en off_en the_en edge_en of_en the_en earth_en ._en
+here_en are_en the_en results_en of_en what_en i_en just_en showed_en you_en ._en
+this_en is_en the_en subjective_en height_en --_en the_en height_en you_en saw_en of_en these_en guys_en at_en various_en points_en ._en
+and_en i_en want_en you_en to_en see_en that_en two_en things_en are_en true_en ._en one_en ,_en the_en farther_en away_en they_en are_en ,_en the_en smaller_en they_en look_en ;_en and_en two_en ,_en the_en fireman_en is_en always_en bigger_en than_en the_en fiddler_en ._en
+but_en watch_en what_en happens_en when_en we_en make_en some_en of_en them_en disappear_en ._en right_en ._en
+at_en a_en very_en close_en distance_en ,_en the_en fiddler_en looks_en taller_en than_en the_en fireman_en ,_en but_en at_en a_en far_en distance_en their_en normal_en ,_en their_en true_en ,_en relations_en are_en preserved_en ._en
+as_en plato_en said_en ,_en what_en space_en is_en to_en size_en ,_en time_en is_en to_en value_en ._en
+these_en are_en the_en results_en of_en the_en hard_en problem_en i_en gave_en you_en :_en 60_en now_en or_en 50_en in_en a_en month_en ?_en
+and_en these_en are_en subjective_en values_en ,_en and_en what_en you_en can_en see_en is_en ,_en our_en two_en rules_en are_en preserved_en ._en
+people_en always_en think_en more_en is_en better_en than_en less_en :_en 60_en is_en always_en better_en than_en 50_en ,_en and_en they_en always_en think_en now_en is_en better_en than_en later_en :_en
+the_en bars_en on_en this_en side_en are_en higher_en than_en the_en bars_en on_en this_en side_en ._en
+watch_en what_en happens_en when_en we_en drop_en some_en out_en ._en
+suddenly_en we_en have_en the_en dynamic_en inconsistency_en that_en puzzled_en us_en ._en
+we_en have_en the_en tendency_en for_en people_en to_en go_en for_en 50_en dollars_en now_en over_en waiting_en a_en month_en ,_en but_en not_en if_en that_en decision_en is_en far_en in_en the_en future_en ._en
+notice_en something_en interesting_en that_en this_en implies_en --_en namely_en ,_en that_en when_en people_en get_en to_en the_en future_en ,_en they_en will_en change_en their_en minds_en ._en
+that_en is_en ,_en as_en that_en month_en 12_en approaches_en ,_en you_en will_en say_en ,_en what_en was_en i_en thinking_en ,_en waiting_en an_en extra_en month_en for_en 60_en dollars_en ?_en
+i_en 'll_en take_en the_en 50_en dollars_en now_en ._en
+well_en ,_en the_en question_en with_en which_en i_en 'd_en like_en to_en end_en is_en this_en :_en if_en we_en 're_en so_en damn_en stupid_en ,_en how_en did_en we_en get_en to_en the_en moon_en ?_en
+because_en i_en could_en go_en on_en for_en about_en two_en hours_en with_en evidence_en of_en people_en 's_en inability_en to_en estimate_en odds_en and_en inability_en to_en estimate_en value_en ._en
+the_en answer_en to_en this_en question_en ,_en i_en think_en ,_en is_en an_en answer_en you_en 've_en already_en heard_en in_en some_en of_en the_en talks_en ,_en and_en i_en dare_en say_en you_en will_en hear_en again_en :_en
+namely_en ,_en that_en our_en brains_en were_en evolved_en for_en a_en very_en different_en world_en than_en the_en one_en in_en which_en we_en are_en living_en ._en they_en were_en evolved_en for_en a_en world_en in_en which_en people_en lived_en in_en very_en small_en groups_en ,_en rarely_en met_en anybody_en who_en was_en terribly_en different_en from_en themselves_en ,_en had_en rather_en short_en lives_en in_en which_en there_en were_en few_en choices_en and_en the_en highest_en priority_en was_en to_en eat_en and_en mate_en today_en ._en
+bernoulli_en 's_en gift_en ,_en bernoulli_en 's_en little_en formula_en ,_en allows_en us_en ,_en it_en tells_en us_en how_en we_en should_en think_en in_en a_en world_en for_en which_en nature_en never_en designed_en us_en ._en
+that_en explains_en why_en we_en are_en so_en bad_en at_en using_en it_en ,_en but_en it_en also_en explains_en why_en it_en is_en so_en terribly_en important_en that_en we_en become_en good_en ,_en fast_en ._en
+we_en are_en the_en only_en species_en on_en this_en planet_en that_en has_en ever_en held_en its_en own_en fate_en in_en its_en hands_en ._en
+we_en have_en no_en significant_en predators_en ,_en we_en 're_en the_en masters_en of_en our_en physical_en environment_en ;_en the_en things_en that_en normally_en cause_en species_en to_en become_en extinct_en are_en no_en longer_en any_en threat_en to_en us_en ._en
+the_en only_en thing_en --_en the_en only_en thing_en --_en that_en can_en destroy_en us_en and_en doom_en us_en are_en our_en own_en decisions_en ._en
+if_en we_en 're_en not_en here_en in_en 10,000_en years_en ,_en it_en 's_en going_en to_en be_en because_en we_en could_en not_en take_en advantage_en of_en the_en gift_en given_en to_en us_en by_en a_en young_en dutch_en fellow_en in_en 1738_en ,_en because_en we_en underestimated_en the_en odds_en of_en our_en future_en pains_en and_en overestimated_en the_en value_en of_en our_en present_en pleasures_en ._en
+thank_en you_en ._en
+chris_en anderson_en :_en that_en was_en remarkable_en ._en
+we_en have_en time_en for_en some_en questions_en for_en dan_en gilbert_en ._en one_en and_en two_en ._en
+bill_en lyell_en :_en would_en you_en say_en that_en this_en mechanism_en is_en in_en part_en how_en terrorism_en actually_en works_en to_en frighten_en us_en ,_en and_en is_en there_en some_en way_en that_en we_en could_en counteract_en that_en ?_en
+dan_en gilbert_en :_en i_en actually_en was_en consulting_en recently_en with_en the_en department_en of_en homeland_en security_en ,_en which_en generally_en believes_en that_en american_en security_en dollars_en should_en go_en to_en making_en borders_en safer_en ._en
+i_en tried_en to_en point_en out_en to_en them_en that_en terrorism_en was_en a_en name_en based_en on_en people_en 's_en psychological_en reaction_en to_en a_en set_en of_en events_en ,_en and_en that_en if_en they_en were_en concerned_en about_en terrorism_en they_en might_en ask_en what_en causes_en terror_en and_en how_en can_en we_en stop_en people_en from_en being_en terrified_en ,_en rather_en than_en --_en not_en rather_en than_en ,_en but_en in_en addition_en to_en stopping_en the_en atrocities_en that_en we_en 're_en all_en concerned_en about_en ._en
+surely_en the_en kinds_en of_en play_en that_en at_en least_en american_en media_en give_en to_en --_en and_en forgive_en me_en ,_en but_en in_en raw_en numbers_en these_en are_en very_en tiny_en accidents_en ._en
+we_en already_en know_en ,_en for_en example_en ,_en in_en the_en united_en states_en ,_en more_en people_en have_en died_en as_en a_en result_en of_en not_en taking_en airplanes_en --_en because_en they_en were_en scared_en --_en and_en driving_en on_en highways_en ,_en than_en were_en killed_en in_en 9/11_en ._en ok_en ?_en
+if_en i_en told_en you_en that_en there_en was_en a_en plague_en that_en was_en going_en to_en kill_en 15,000_en americans_en next_en year_en ,_en you_en might_en be_en alarmed_en if_en you_en did_en n't_en find_en out_en it_en was_en the_en flu_en ._en
+these_en are_en small_en -_en scale_en accidents_en ,_en and_en we_en should_en be_en wondering_en whether_en they_en should_en get_en the_en kind_en of_en play_en ,_en the_en kind_en of_en coverage_en ,_en that_en they_en do_en ._en
+surely_en that_en causes_en people_en to_en overestimate_en the_en likelihood_en that_en they_en 'll_en be_en hurt_en in_en these_en various_en ways_en ,_en and_en gives_en power_en to_en the_en very_en people_en who_en want_en to_en frighten_en us_en ._en
+ca_en :_en dan_en ,_en i_en 'd_en like_en to_en hear_en more_en on_en this_en ._en so_en ,_en you_en 're_en saying_en that_en our_en response_en to_en terror_en is_en ,_en i_en mean_en ,_en it_en 's_en a_en form_en of_en mental_en bug_en ?_en
+talk_en more_en about_en it_en ._en
+dg_en :_en it_en 's_en out_en -_en sized_en ._en i_en mean_en ,_en look_en ._en
+if_en australia_en disappears_en tomorrow_en ,_en terror_en is_en probably_en the_en right_en response_en ._en
+that_en 's_en an_en awful_en large_en lot_en of_en very_en nice_en people_en ._en on_en the_en other_en hand_en ,_en when_en a_en bus_en blows_en up_en and_en 30_en people_en are_en killed_en ,_en more_en people_en than_en that_en were_en killed_en by_en not_en using_en their_en seatbelts_en in_en the_en same_en country_en ._en
+is_en terror_en the_en right_en response_en ?_en
+ca_en :_en what_en causes_en the_en bug_en ?_en is_en it_en the_en drama_en of_en the_en event_en --_en that_en it_en 's_en so_en spectacular_en ?_en
+is_en it_en the_en fact_en that_en it_en 's_en an_en intentional_en attack_en by_en ,_en quote_en ,_en outsiders_en ?_en
+what_en is_en it_en ?_en
+dg_en :_en yes_en ._en it_en 's_en a_en number_en of_en things_en ,_en and_en you_en hit_en on_en several_en of_en them_en ._en
+first_en ,_en it_en 's_en a_en human_en agent_en trying_en to_en kill_en us_en --_en it_en 's_en not_en a_en tree_en falling_en on_en us_en by_en accident_en ._en
+second_en ,_en these_en are_en enemies_en who_en may_en want_en to_en strike_en and_en hurt_en us_en again_en ._en
+people_en are_en being_en killed_en for_en no_en reason_en instead_en of_en good_en reason_en --_en as_en if_en there_en 's_en good_en reason_en ,_en but_en sometimes_en people_en think_en there_en are_en ._en
+so_en there_en are_en a_en number_en of_en things_en that_en together_en make_en this_en seem_en like_en a_en fantastic_en event_en ,_en but_en let_en 's_en not_en play_en down_en the_en fact_en that_en newspapers_en sell_en when_en people_en see_en something_en in_en it_en they_en want_en to_en read_en ._en so_en there_en 's_en a_en large_en role_en here_en played_en by_en the_en media_en ,_en who_en want_en these_en things_en to_en be_en as_en spectacular_en as_en they_en possibly_en can_en ._en
+ca_en :_en i_en mean_en ,_en what_en would_en it_en take_en to_en persuade_en our_en culture_en to_en downplay_en it_en ?_en
+dg_en :_en well_en ,_en go_en to_en israel_en ._en you_en know_en ,_en
+go_en to_en israel_en ._en and_en a_en mall_en blows_en up_en ,_en and_en then_en everybody_en 's_en unhappy_en about_en it_en ,_en and_en an_en hour_en -_en and_en -_en a_en -_en half_en later_en --_en at_en least_en when_en i_en was_en there_en ,_en and_en i_en was_en 150_en feet_en from_en the_en mall_en when_en it_en blew_en up_en --_en i_en went_en back_en to_en my_en hotel_en and_en the_en wedding_en that_en was_en planned_en was_en still_en going_en on_en ._en
+and_en as_en the_en israeli_en mother_en said_en ,_en she_en said_en ,_en "_en we_en never_en let_en them_en win_en by_en stopping_en weddings_en ._en "_en
+i_en mean_en ,_en this_en is_en a_en society_en that_en has_en learned_en --_en and_en there_en are_en others_en too_en --_en that_en has_en learned_en to_en live_en with_en a_en certain_en amount_en of_en terrorism_en and_en not_en be_en quite_en as_en upset_en by_en it_en ,_en shall_en i_en say_en ,_en as_en those_en of_en us_en who_en have_en not_en had_en many_en terror_en attacks_en ._en
+ca_en :_en but_en is_en there_en a_en rational_en fear_en that_en actually_en ,_en the_en reason_en we_en 're_en frightened_en about_en this_en is_en because_en we_en think_en that_en the_en big_en one_en is_en to_en come_en ?_en
+dg_en :_en yes_en ,_en of_en course_en ._en so_en ,_en if_en we_en knew_en that_en this_en was_en the_en worst_en attack_en there_en would_en ever_en be_en ,_en there_en might_en be_en more_en and_en more_en buses_en of_en 30_en people_en --_en we_en would_en probably_en not_en be_en nearly_en so_en frightened_en ._en
+i_en do_en n't_en want_en to_en say_en --_en please_en ,_en i_en 'm_en going_en to_en get_en quoted_en somewhere_en as_en saying_en ,_en "_en terrorism_en is_en fine_en and_en we_en should_en n't_en be_en so_en distressed_en ._en "_en
+that_en 's_en not_en my_en point_en at_en all_en ._en
+what_en i_en 'm_en saying_en is_en that_en ,_en surely_en ,_en rationally_en ,_en our_en distress_en about_en things_en that_en happen_en ,_en about_en threats_en ,_en should_en be_en roughly_en proportional_en to_en the_en size_en of_en those_en threats_en and_en threats_en to_en come_en ._en
+i_en think_en in_en the_en case_en of_en terrorism_en ,_en it_en is_en n't_en ._en
+and_en many_en of_en the_en things_en we_en 've_en heard_en about_en from_en our_en speakers_en today_en --_en how_en many_en people_en do_en you_en know_en got_en up_en and_en said_en ,_en poverty_en !_en i_en ca_en n't_en believe_en what_en poverty_en is_en doing_en to_en us_en ._en
+people_en get_en up_en in_en the_en morning_en ;_en they_en do_en n't_en care_en about_en poverty_en ._en
+it_en 's_en not_en making_en headlines_en ,_en it_en 's_en not_en making_en news_en ,_en it_en 's_en not_en flashy_en ._en
+there_en are_en no_en guns_en going_en off_en ._en
+i_en mean_en ,_en if_en you_en had_en to_en solve_en one_en of_en these_en problems_en ,_en chris_en ,_en which_en would_en you_en solve_en ?_en terrorism_en or_en poverty_en ?_en
+that_en 's_en a_en tough_en one_en ._en
+ca_en :_en there_en 's_en no_en question_en ._en
+poverty_en ,_en by_en an_en order_en of_en magnitude_en ,_en a_en huge_en order_en of_en magnitude_en ,_en unless_en someone_en can_en show_en that_en there_en 's_en ,_en you_en know_en ,_en terrorists_en with_en a_en nuke_en are_en really_en likely_en to_en come_en ._en
+the_en latest_en i_en 've_en read_en ,_en seen_en ,_en thought_en is_en that_en it_en 's_en incredibly_en hard_en for_en them_en to_en do_en that_en ._en
+if_en that_en turns_en out_en to_en be_en wrong_en ,_en we_en all_en look_en silly_en ,_en but_en with_en poverty_en it_en 's_en a_en bit_en --_en dg_en :_en even_en if_en that_en were_en true_en ,_en still_en more_en people_en die_en from_en poverty_en ._en
+ca_en :_en we_en 've_en evolved_en to_en get_en all_en excited_en about_en these_en dramatic_en attacks_en ._en is_en that_en because_en in_en the_en past_en ,_en in_en the_en ancient_en past_en ,_en we_en just_en did_en n't_en understand_en things_en like_en disease_en and_en systems_en that_en cause_en poverty_en and_en so_en forth_en ,_en
+and_en so_en it_en made_en no_en sense_en for_en us_en as_en a_en species_en to_en put_en any_en energy_en into_en worrying_en about_en those_en things_en ?_en
+people_en died_en ;_en so_en be_en it_en ._en
+but_en if_en you_en got_en attacked_en ,_en that_en was_en something_en you_en could_en do_en something_en about_en ._en
+and_en so_en we_en evolved_en these_en responses_en ._en
+is_en that_en what_en happened_en ?_en
+dg_en :_en well_en ,_en you_en know_en ,_en the_en people_en who_en are_en most_en skeptical_en about_en leaping_en to_en evolutionary_en explanations_en for_en everything_en are_en the_en evolutionary_en psychologists_en themselves_en ._en
+my_en guess_en is_en that_en there_en 's_en nothing_en quite_en that_en specific_en in_en our_en evolutionary_en past_en ._en but_en rather_en ,_en if_en you_en 're_en looking_en for_en an_en evolutionary_en explanation_en ,_en you_en might_en say_en that_en most_en organisms_en are_en neo_en -_en phobic_en --_en that_en is_en ,_en they_en 're_en a_en little_en scared_en of_en stuff_en that_en 's_en new_en and_en different_en ._en
+and_en there_en 's_en a_en good_en reason_en to_en be_en ,_en because_en old_en stuff_en did_en n't_en eat_en you_en ._en right_en ?_en
+any_en animal_en you_en see_en that_en you_en 've_en seen_en before_en is_en less_en likely_en to_en be_en a_en predator_en than_en one_en that_en you_en 've_en never_en seen_en before_en ._en
+so_en ,_en you_en know_en ,_en when_en a_en school_en bus_en is_en blown_en up_en and_en we_en 've_en never_en seen_en this_en before_en ,_en our_en general_en tendency_en is_en to_en orient_en towards_en that_en which_en is_en new_en and_en novel_en is_en activated_en ._en
+i_en do_en n't_en think_en it_en 's_en quite_en as_en specific_en a_en mechanism_en as_en the_en one_en you_en alluded_en to_en ,_en but_en maybe_en a_en more_en fundamental_en one_en underlying_en it_en ._en jay_en walker_en :_en you_en know_en ,_en economists_en love_en to_en talk_en about_en the_en stupidity_en of_en people_en who_en buy_en lottery_en tickets_en ._en but_en i_en suspect_en you_en 're_en making_en the_en exact_en same_en error_en you_en 're_en accusing_en those_en people_en of_en ,_en which_en is_en the_en error_en of_en value_en ._en
+i_en know_en ,_en because_en i_en 've_en interviewed_en about_en 1,000_en lottery_en buyers_en over_en the_en years_en ._en it_en turns_en out_en that_en the_en value_en of_en buying_en a_en lottery_en ticket_en is_en not_en winning_en ._en
+that_en 's_en what_en you_en think_en it_en is_en ._en all_en right_en ?_en
+the_en average_en lottery_en buyer_en buys_en about_en 150_en tickets_en a_en year_en ,_en so_en the_en buyer_en knows_en full_en well_en that_en he_en or_en she_en is_en going_en to_en lose_en ,_en and_en yet_en she_en buys_en 150_en tickets_en a_en year_en ._en why_en is_en that_en ?_en
+it_en 's_en not_en because_en she_en is_en stupid_en or_en he_en is_en stupid_en ._en
+it_en 's_en because_en the_en anticipation_en of_en possibly_en winning_en releases_en serotonin_en in_en the_en brain_en ,_en and_en actually_en provides_en a_en good_en feeling_en until_en the_en drawing_en indicates_en you_en 've_en lost_en ._en
+or_en ,_en to_en put_en it_en another_en way_en ,_en for_en the_en dollar_en investment_en ,_en you_en can_en have_en a_en much_en better_en feeling_en than_en flushing_en the_en money_en down_en the_en toilet_en ,_en which_en you_en cannot_en have_en a_en good_en feeling_en from_en ._en
+now_en ,_en economists_en tend_en to_en --_en --_en economists_en tend_en to_en view_en the_en world_en through_en their_en own_en lenses_en ,_en which_en is_en :_en this_en is_en just_en a_en bunch_en of_en stupid_en people_en ._en
+and_en as_en a_en result_en ,_en many_en people_en look_en at_en economists_en as_en stupid_en people_en ._en
+and_en so_en fundamentally_en ,_en the_en reason_en we_en got_en to_en the_en moon_en is_en ,_en we_en did_en n't_en listen_en to_en the_en economists_en ._en thank_en you_en very_en much_en ._en
+dg_en :_en well_en ,_en no_en ,_en it_en 's_en a_en great_en point_en ._en it_en remains_en to_en be_en seen_en whether_en the_en joy_en of_en anticipation_en is_en exactly_en equaled_en by_en the_en amount_en of_en disappointment_en after_en the_en lottery_en ._en because_en remember_en ,_en people_en who_en did_en n't_en buy_en tickets_en do_en n't_en feel_en awful_en the_en next_en day_en either_en ,_en even_en though_en they_en do_en n't_en feel_en great_en during_en the_en drawing_en ._en
+i_en would_en disagree_en that_en people_en know_en they_en 're_en not_en going_en to_en win_en ._en i_en think_en they_en think_en it_en 's_en unlikely_en ,_en but_en it_en could_en happen_en ,_en
+which_en is_en why_en they_en prefer_en that_en to_en the_en flushing_en ._en
+but_en certainly_en i_en see_en your_en point_en :_en that_en there_en can_en be_en some_en utility_en to_en buying_en a_en lottery_en ticket_en other_en than_en winning_en ._en
+now_en ,_en i_en think_en there_en 's_en many_en good_en reasons_en not_en to_en listen_en to_en economists_en ._en that_en is_en n't_en one_en of_en them_en ,_en for_en me_en ,_en but_en there_en 's_en many_en others_en ._en
+ca_en :_en last_en question_en ._en
+aubrey_en de_en grey_en :_en my_en name_en 's_en aubrey_en de_en grey_en ,_en from_en cambridge_en ._en
+i_en work_en on_en the_en thing_en that_en kills_en more_en people_en than_en anything_en else_en kills_en --_en i_en work_en on_en aging_en --_en and_en i_en 'm_en interested_en in_en doing_en something_en about_en it_en ,_en as_en we_en 'll_en all_en hear_en tomorrow_en ._en
+i_en very_en much_en resonate_en with_en what_en you_en 're_en saying_en ,_en because_en it_en seems_en to_en me_en that_en the_en problem_en with_en getting_en people_en interested_en in_en doing_en anything_en about_en aging_en is_en that_en by_en the_en time_en aging_en is_en about_en to_en kill_en you_en it_en looks_en like_en cancer_en or_en heart_en disease_en or_en whatever_en ._en do_en you_en have_en any_en advice_en ?_en
+dg_en :_en for_en you_en or_en for_en them_en ?_en
+adg_en :_en in_en persuading_en them_en ._en
+dg_en :_en ah_en ,_en for_en you_en in_en persuading_en them_en ._en
+well_en ,_en it_en 's_en notoriously_en difficult_en to_en get_en people_en to_en be_en farsighted_en ._en but_en one_en thing_en that_en psychologists_en have_en tried_en that_en seems_en to_en work_en is_en to_en get_en people_en to_en imagine_en the_en future_en more_en vividly_en ._en
+one_en of_en the_en problems_en with_en making_en decisions_en about_en the_en far_en future_en and_en the_en near_en future_en is_en that_en we_en imagine_en the_en near_en future_en much_en more_en vividly_en than_en the_en far_en future_en ._en
+to_en the_en extent_en that_en you_en can_en equalize_en the_en amount_en of_en detail_en that_en people_en put_en into_en the_en mental_en representations_en of_en near_en and_en far_en future_en ,_en people_en begin_en to_en make_en decisions_en about_en the_en two_en in_en the_en same_en way_en ._en
+so_en ,_en would_en you_en like_en to_en have_en an_en extra_en 100,000_en dollars_en when_en you_en 're_en 65_en is_en a_en question_en that_en 's_en very_en different_en than_en ,_en imagine_en who_en you_en 'll_en be_en when_en you_en 're_en 65_en :_en will_en you_en be_en living_en ,_en what_en will_en you_en look_en like_en ,_en how_en much_en hair_en will_en you_en have_en ,_en who_en will_en you_en be_en living_en with_en ._en
+once_en we_en have_en all_en the_en details_en of_en that_en imaginary_en scenario_en ,_en suddenly_en we_en feel_en like_en it_en might_en be_en important_en to_en save_en so_en that_en that_en guy_en has_en a_en little_en retirement_en money_en ._en
+but_en these_en are_en tricks_en around_en the_en margins_en ._en i_en think_en in_en general_en you_en 're_en battling_en a_en very_en fundamental_en human_en tendency_en ,_en which_en is_en to_en say_en ,_en "_en i_en 'm_en here_en today_en ,_en and_en so_en now_en is_en more_en important_en than_en later_en ._en "_en ca_en :_en dan_en ,_en thank_en you_en ._en members_en of_en the_en audience_en ,_en that_en was_en a_en fantastic_en session_en ._en thank_en you_en ._en

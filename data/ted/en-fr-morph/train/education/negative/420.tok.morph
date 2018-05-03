@@ -1,0 +1,299 @@
+we	all	make	 decision 	 s 	 	every	day	;	we	want	to	know	what	the	right	thing	is	to	do	--	in	 domain 	 s 	 	from	the	financial	to	the	gastronomic	to	the	professional	to	the	romantic	.
+and	 s 	 ure 	 ly 	 	,	if	 some 	 body 	 	could	 re 	 ally 	 	tell	us	how	to	do	 exact 	 ly 	 	the	right	thing	at	all	possible	 time 	 s 	 	,	that	would	be	a	tremendous	gift	.
+it	 turn 	 s 	 	out	that	,	in	fact	,	the	world	was	 give 	 n 	 	 th 	 is 	 	gift	in	1738	by	a	dutch	 poly 	 math 	 	named	daniel	bernoulli	.
+and	what	i	want	to	talk	to	you	about	 to 	 day 	 	is	what	that	gift	is	,	and	i	 al 	 so 	 	want	to	explain	to	you	why	it	is	that	it	 ha 	 s 	 	n't	made	a	damn	bit	of	 differ 	 ence 	 	.
+now	,	 th 	 is 	 	is	bernoulli	's	gift	.	 th 	 is 	 	is	a	direct	quote	.
+and	if	it	 look 	 s 	 	like	greek	to	you	,	it	's	 be 	 cause 	 	,	well	,	it	's	greek	.
+but	the	simple	english	 transl 	 ation 	 	--	much	less	precise	,	but	it	 capture 	 s 	 	the	 g 	 ist 	 	of	what	bernoulli	had	to	say	--	was	 th 	 is 	 	:	the	 expect 	 ed 	 	value	of	any	of	our	 action 	 s 	 	--	that	is	,	the	 good 	 ness 	 	that	we	can	count	on	 get 	 ting 	 	--	is	the	product	of	two	simple	 thing 	 s 	 	:	the	 odd 	 s 	 	that	 th 	 is 	 	action	will	allow	us	to	gain	 some 	 thing 	 	,	and	the	value	of	that	gain	to	us	.
+in	a	sense	,	what	bernoulli	was	 say 	 ing 	 	is	,	if	we	can	estimate	and	 multi 	 ply 	 	these	two	 thing 	 s 	 	,	we	will	 al 	 ways 	 	know	 precise 	 ly 	 	how	we	should	 behav 	 e 	 	.
+now	,	 th 	 is 	 	simple	 equ 	 ation 	 	,	even	for	 t 	 hose 	 	of	you	who	do	n't	like	 equ 	 ations 	 	,	is	 some 	 thing 	 	that	you	're	 quit 	 e 	 	used	to	.
+here	's	an	 ex 	 ample 	 	:	if	i	 we 	 re 	 	to	tell	you	,	let	's	play	a	little	 co 	 in 	 	 to 	 s 	 s 	 	game	,	and	i	'm	going	to	flip	a	 co 	 in 	 	,	and	if	it	 come 	 s 	 	up	 head 	 s 	 	,	i	'm	going	to	pay	you	10	 dollar 	 s 	 	,	but	you	have	to	pay	four	 dollar 	 s 	 	for	the	privilege	of	 play 	 ing 	 	with	me	,	most	of	you	would	say	,	 s 	 ure 	 	,	i	'll	take	that	bet	.	 be 	 cause 	 	you	know	that	the	 odd 	 s 	 	of	you	winning	are	one	half	,	the	gain	if	you	do	is	10	 dollar 	 s 	 	,	that	multiplies	to	five	,	and	that	's	more	than	i	'm	charging	you	to	play	.	so	,	the	answer	is	,	 y 	 es 	 	.
+ th 	 is 	 	is	what	 statistic 	 ians 	 	 technical 	 ly 	 	call	a	damn	fine	bet	.
+now	,	the	idea	is	simple	when	we	're	 app 	 ly 	 ing 	 	it	to	 co 	 in 	 	 to 	 s 	 s 	 es 	 	,	but	in	fact	,	it	's	not	 ver 	 y 	 	simple	in	 every 	 day 	 	life	.
+people	are	 horr 	 ible 	 	at	estimating	both	of	these	 thing 	 s 	 	,	and	that	's	what	i	want	to	talk	to	you	about	 to 	 day 	 	.
+there	are	two	 kind 	 s 	 	of	 error 	 s 	 	people	make	when	 try 	 ing 	 	to	decide	what	the	right	thing	is	to	do	,	and	 t 	 hose 	 	are	 error 	 s 	 	in	estimating	the	 odd 	 s 	 	that	they	're	going	to	succeed	,	and	 error 	 s 	 	in	estimating	the	value	of	 the 	 ir 	 	own	success	.
+now	,	let	me	talk	about	the	first	one	first	.
+ calcul 	 ating 	 	 odd 	 s 	 	would	seem	to	be	 some 	 thing 	 	 ra 	 ther 	 	easy	:	there	are	six	 side 	 s 	 	to	a	die	,	two	 side 	 s 	 	to	a	 co 	 in 	 	,	52	 card 	 s 	 	in	a	deck	.
+you	all	know	what	the	 like 	 li 	 hood 	 	is	of	 pull 	 ing 	 	the	ace	of	 s 	 pad 	 es 	 	or	of	 flip 	 ping 	 	a	 head 	 s 	 	.
+but	 a 	 s 	 	it	 turn 	 s 	 	out	,	 th 	 is 	 	is	not	a	 ver 	 y 	 	easy	idea	to	 app 	 ly 	 
+in	 every 	 day 	 	life	.	that	's	why	americans	 s 	 pend 	 	more	--	i	should	say	,	lose	more	--	 gam 	 bling 	 	than	on	all	other	 form 	 s 	 	of	 entertain 	 ment 	 	 combine 	 d 	 	.
+the	reason	is	,	 th 	 is 	 	is	n't	how	people	do	 odd 	 s 	 	.
+the	way	people	figure	 odd 	 s 	 	 requir 	 es 	 	that	we	first	talk	a	bit	about	 pig 	 s 	 	.
+now	,	the	question	i	'm	going	to	put	to	you	is	 whet 	 her 	 	you	think	there	are	more	 dog 	 s 	 	or	 pig 	 s 	 	on	 leash 	 es 	 	 observ 	 ed 	 	in	any	 part 	 icular 	 	day	in	oxford	.
+and	of	course	,	you	all	know	that	the	answer	is	 dog 	 s 	 	.
+and	the	way	that	you	know	that	the	answer	is	 dog 	 s 	 	is	you	 quick 	 ly 	 	 review 	 ed 	 	in	 memor 	 y 	 	the	 time 	 s 	 	you	've	 s 	 een 	 	 dog 	 s 	 	and	 pig 	 s 	 	on	 leash 	 es 	 	.
+it	was	 ver 	 y 	 	easy	to	remember	 see 	 ing 	 	 dog 	 s 	 	,	not	so	easy	to	remember	 pig 	 s 	 	.	and	each	one	of	you	 assum 	 ed 	 	that	if	 dog 	 s 	 	on	 leash 	 es 	 	came	more	 quick 	 ly 	 	to	your	mind	,	then	 dog 	 s 	 	on	 leash 	 es 	 	are	more	 prob 	 able 	 	.
+that	's	not	a	bad	rule	of	thumb	,	 ex 	 cept 	 	when	it	is	.
+so	,	for	 ex 	 ample 	 	,	here	's	a	word	 puzzl 	 e 	 	.
+are	there	more	four	-	letter	english	 word 	 s 	 	with	r	in	the	third	place	or	r	in	the	first	place	?
+well	,	you	check	 memor 	 y 	 	 ver 	 y 	 	 brief 	 ly 	 	,	make	a	quick	 s 	 can 	 	,	and	it	's	 awful 	 ly 	 	easy	to	say	to	 your 	 self 	 	,	ring	,	rang	,	rung	,	and	 ver 	 y 	 	hard	to	say	to	 your 	 self 	 	,	pare	,	park	:	they	come	more	 s 	 low 	 ly 	 	.
+but	in	fact	,	there	are	 man 	 y 	 	more	 word 	 s 	 	in	the	english	language	with	r	in	the	third	than	the	first	place	.
+the	reason	 word 	 s 	 	with	r	in	the	third	place	come	 s 	 low 	 ly 	 	to	your	mind	is	n't	 be 	 cause 	 	they	're	 im 	 prob 	 able 	 	,	 un 	 like 	 ly 	 	or	 in 	 frequent 	 	.
+it	's	 be 	 cause 	 	the	mind	 recall 	 s 	 	 word 	 s 	 	by	 the 	 ir 	 	first	letter	.
+you	kind	of	shout	out	the	sound	,	s	--	and	the	word	 come 	 s 	 	.
+it	's	like	the	 dict 	 ion 	 ary 	 	;	it	's	hard	to	look	 thing 	 s 	 	up	by	the	third	letter	.
+so	,	 th 	 is 	 	is	an	 ex 	 ample 	 	of	how	 th 	 is 	 	idea	that	the	 quick 	 ness 	 	with	which	 thing 	 s 	 	come	to	mind	can	give	you	a	sense	of	 the 	 ir 	 	 prob 	 ability 	 	--	how	 th 	 is 	 	idea	could	lead	you	 ast 	 ray 	 	.	it	's	not	just	 puzzl 	 es 	 	,	 th 	 ough 	 	.
+for	 ex 	 ample 	 	,	when	americans	are	 ask 	 ed 	 	to	estimate	the	 odd 	 s 	 	that	they	will	die	in	a	 varie 	 ty 	 	of	 interest 	 ing 	 	ways	--	these	are	 estimate 	 s 	 	of	number	of	 death 	 s 	 	per	year	per	200	million	u.s.	 citizen 	 s 	 	.
+and	these	are	just	 ordin 	 ary 	 	people	like	 your 	 s 	 elves 	 	who	are	 ask 	 ed 	 	to	guess	how	 man 	 y 	 	people	die	from	tornado	,	 fire 	 work 	 s 	 	,	asthma	,	 drown 	 ing 	 	,	etc	.
+ compar 	 e 	 	these	to	the	actual	 number 	 s 	 	.
+now	,	you	see	a	 ver 	 y 	 	 interest 	 ing 	 	pattern	here	,	which	is	first	of	all	,	two	 thing 	 s 	 	are	 vast 	 ly 	 	over	-	 estimate 	 d 	 	,	 name 	 ly 	 	 tornado 	 es 	 	and	 fire 	 work 	 s 	 	.	two	 thing 	 s 	 	are	 vast 	 ly 	 	 under 	 estimate 	 d 	 	:	 dy 	 ing 	 	by	 drown 	 ing 	 	and	 dy 	 ing 	 	by	asthma	.	why	?
+when	was	the	last	time	that	you	 pick 	 ed 	 	up	a	 news 	 paper 	 	and	the	 head 	 line 	 	was	,	``	boy	dies	of	asthma	?	``
+it	's	not	 interest 	 ing 	 	 be 	 cause 	 	it	's	so	common	.
+it	's	 ver 	 y 	 	easy	for	all	of	us	to	 br 	 ing 	 	to	mind	 in 	 stance 	 s 	 	of	news	 st 	 ories 	 	or	 news 	 reel 	 s 	 	where	we	've	 s 	 een 	 	 tornado 	 es 	 	 deva 	 stat 	 ing 	 	cities	,	or	some	poor	 sch 	 muck 	 	who	's	blown	his	 hand 	 s 	 	off	with	a	 fire 	 work 	 	on	the	fourth	of	july	.
+drownings	and	asthma	 death 	 s 	 	do	n't	get	much	 cover 	 age 	 	.
+they	do	n't	come	 quick 	 ly 	 	to	mind	,	and	 a 	 s 	 	a	result	,	we	 vast 	 ly 	 	 under 	 estimate 	 	them	.
+ in 	 de 	 ed 	 	,	 th 	 is 	 	is	kind	of	like	the	 s 	 e 	 same 	 	street	game	of	``	which	thing	 do 	 es 	 	n't	belong	?	``	and	you	're	right	to	say	it	's	the	 swimm 	 ing 	 	pool	that	 do 	 es 	 	n't	belong	,	 be 	 cause 	 	the	 swimm 	 ing 	 	pool	is	the	 on 	 ly 	 	thing	on	 th 	 is 	 	slide	that	's	 actual 	 ly 	 	 ver 	 y 	 	 danger 	 ous 	 	.
+the	way	that	more	of	you	are	 like 	 ly 	 	to	die	than	the	combination	the	 lot 	 ter 	 y 	 	is	an	 excel 	 lent 	 	 ex 	 ample 	 	,	of	course	--	an	 excel 	 lent 	 	test	-	case	of	people	's	ability	to	compute	 prob 	 abilities 	 	.
+and	 economist 	 s 	 	--	forgive	me	,	for	 t 	 hose 	 	of	you	who	play	the	 lot 	 ter 	 y 	 	--	but	 economist 	 s 	 	,	at	 l 	 east 	 	among	 them 	 s 	 elves 	 	,	refer	to	the	 lot 	 ter 	 y 	 	 a 	 s 	 	a	 stupid 	 ity 	 	tax	,	 be 	 cause 	 	the	 odd 	 s 	 	of	 get 	 ting 	 	any	 pay 	 off 	 	by	 invest 	 ing 	 	your	money	in	a	 lot 	 ter 	 y 	 	ticket	are	 approximate 	 ly 	 	 equi 	 valent 	 	to	 flush 	 ing 	 	the	money
+ direct 	 ly 	 	down	the	toilet	--	which	,	by	the	way	,	 do 	 es 	 	n't	 requir 	 e 	 	that	you	 actual 	 ly 	 	go	to	the	store	and	buy	 any 	 thing 	 	.	why	in	the	world	would	 any 	 body 	 	ever	play	the	 lot 	 ter 	 y 	 	?
+well	,	there	are	 man 	 y 	 	 answer 	 s 	 	,	but	one	answer	 s 	 ure 	 ly 	 	is	,	we	see	a	lot	of	 winner 	 s 	 	.	right	?	when	 th 	 is 	 	couple	 win 	 s 	 	the	 lot 	 ter 	 y 	 	,	or	ed	mcmahon	 show 	 s 	 	up	at	your	door	with	 th 	 is 	 	giant	check	--	how	the	hell	do	you	cash	 thing 	 s 	 	that	 s 	 ize 	 	,	i	do	n't	know	.
+we	see	 th 	 is 	 	on	tv	;	we	read	about	it	in	the	paper	.
+when	was	the	last	time	that	you	saw	 extens 	 ive 	 	 interview 	 s 	 	with	 every 	 body 	 	who	lost	?
+ in 	 de 	 ed 	 	,	if	we	 requir 	 ed 	 	that	 tele 	 vision 	 	 station 	 s 	 	run	a	30	-	second	interview	with	each	 lose 	 r 	 	every	time	they	interview	a	winner	,	the	100	million	 lose 	 rs 	 	in	the	last	 lot 	 ter 	 y 	 	would	 requir 	 e 	 	nine	-	and	-	a	-	half	 year 	 s 	 	of	your	 un 	 divid 	 ed 	 	attention	just	to	watch	them	say	,	``	me	?	i	lost	.	``	``	me	?	i	lost	.	``
+now	,	if	you	watch	nine	-	and	-	a	-	half	 year 	 s 	 	of	 tele 	 vision 	 	--	no	sleep	,	no	 pot 	 ty 	 	 break 	 s 	 	--	and	you	saw	loss	after	loss	after	loss	,	and	then	at	the	end	there	's	30	 second 	 s 	 	of	,	``	and	i	won	,	``
+the	 like 	 li 	 hood 	 	that	you	would	play	the	 lot 	 ter 	 y 	 	is	 ver 	 y 	 	small	.
+look	,	i	can	prove	 th 	 is 	 	to	you	:	here	's	a	little	 lot 	 ter 	 y 	 	.
+there	's	10	 ticket 	 s 	 	in	 th 	 is 	 	 lot 	 ter 	 y 	 	.
+nine	of	them	have	 be 	 en 	 	 s 	 old 	 	to	these	 individual 	 s 	 	.
+it	 cost 	 s 	 	you	a	dollar	to	buy	the	ticket	and	,	if	you	win	,	you	get	20	 buck 	 s 	 	.	is	 th 	 is 	 	a	good	bet	?
+well	,	bernoulli	 tell 	 s 	 	us	it	is	.	the	 expect 	 ed 	 	value	of	 th 	 is 	 	 lot 	 ter 	 y 	 	is	two	 dollar 	 s 	 	;	 th 	 is 	 	is	a	 lot 	 ter 	 y 	 	in	which	you	should	invest	your	money	.
+and	most	people	say	,	``	ok	,	i	'll	play	.	``
+now	,	a	 s 	 light 	 ly 	 	different	version	of	 th 	 is 	 	 lot 	 ter 	 y 	 	:	imagine	that	the	nine	 ticket 	 s 	 	are	all	owned	by	one	fat	guy	named	leroy	.
+leroy	 ha 	 s 	 	nine	 ticket 	 s 	 	;	there	's	one	left	.	do	you	want	it	?	most	people	wo	n't	play	 th 	 is 	 	 lot 	 ter 	 y 	 	.
+now	,	you	can	see	the	 odd 	 s 	 	of	winning	have	n't	 change 	 d 	 	,	but	it	's	now	 fantastic 	 ally 	 	easy	to	imagine	who	's	going	to	win	.
+it	's	easy	to	see	leroy	 get 	 ting 	 	the	check	,	right	?
+you	ca	n't	say	to	 your 	 self 	 	,	``	i	'm	 a 	 s 	 	 like 	 ly 	 	to	win	 a 	 s 	 	 any 	 body 	 	,	``	 be 	 cause 	 	you	're	not	 a 	 s 	 	 like 	 ly 	 	to	win	 a 	 s 	 	leroy	.
+the	fact	that	all	 t 	 hose 	 	 ticket 	 s 	 	are	owned	by	one	guy	 change 	 s 	 	your	decision	to	play	,	even	 th 	 ough 	 	it	 do 	 es 	 	 noth 	 ing 	 	 what 	 so 	 ever 	 	to	the	 odd 	 s 	 	.
+now	,	estimating	 odd 	 s 	 	,	 a 	 s 	 	difficult	 a 	 s 	 	it	may	seem	,	is	a	piece	of	cake	 compar 	 ed 	 	to	 try 	 ing 	 	to	estimate	value	:	 try 	 ing 	 	to	say	what	 some 	 thing 	 	is	worth	,	how	much	we	'll	enjoy	it	,	how	much	pleasure	it	will	give	us	.
+i	want	to	talk	now	about	 error 	 s 	 	in	value	.
+how	much	is	 th 	 is 	 	big	mac	worth	?	is	it	worth	25	 dollar 	 s 	 	?
+most	of	you	have	the	 intuit 	 ion 	 	that	it	's	not	--	you	would	n't	pay	that	for	it	.
+but	in	fact	,	to	decide	 whet 	 her 	 	a	big	mac	is	worth	25	 dollar 	 s 	 	 requir 	 es 	 	that	you	ask	one	,	and	 on 	 ly 	 	one	question	,	which	is	:	what	else	can	i	do	with	25	 dollar 	 s 	 	?
+if	you	've	ever	gotten	on	one	of	 t 	 hose 	 	long	-	haul	 flight 	 s 	 	to	australia	and	 real 	 ized 	 	that	they	're	not	going	to	serve	you	any	food	,	but	 some 	 body 	 	in	the	row	in	front	of	you	 ha 	 s 	 	just	 open 	 ed 	 	the	mcdonald	's	bag	,	and	the	smell	of	 gold 	 en 	 	 arche 	 s 	 	is	 waft 	 ing 	 	over	the	seat	,	you	think	,	i	ca	n't	do	 any 	 thing 	 	else	with	 th 	 is 	 	25	 dollar 	 s 	 	for	16	 hour 	 s 	 	.
+i	ca	n't	even	set	it	on	fire	--	they	took	my	 cigar 	 ette 	 	 light 	 er 	 	!
+ sudden 	 ly 	 	,	25	 dollar 	 s 	 	for	a	big	mac	might	be	a	good	deal	.
+on	the	other	hand	,	if	you	're	 visit 	 ing 	 	an	 under 	 develop 	 ed 	 	country	,	and	25	 dollar 	 s 	 	 buy 	 s 	 	you	a	gourmet	meal	,	it	's	 ex 	 orbit 	 ant 	 	for	a	big	mac	.
+why	 we 	 re 	 	you	all	 s 	 ure 	 	that	the	answer	to	the	question	was	no	,	before	i	'd	even	told	you	 any 	 thing 	 	about	the	 con 	 text 	 	?
+ be 	 cause 	 	most	of	you	 compar 	 ed 	 	the	price	of	 th 	 is 	 	big	mac	to	the	price	you	're	used	to	 pay 	 ing 	 	.	 ra 	 ther 	 	than	 ask 	 ing 	 	,	``	what	else	can	i	do	with	my	money	,	``	 compar 	 ing 	 	 th 	 is 	 	 invest 	 ment 	 	to	other	possible	 invest 	 ments 	 	,	you	 compar 	 ed 	 	to	the	past	.
+and	 th 	 is 	 	is	a	 system 	 atic 	 	error	people	make	.
+what	you	 k 	 new 	 	is	,	you	paid	three	 dollar 	 s 	 	in	the	past	;	25	is	 out 	 rage 	 ous 	 	.
+ th 	 is 	 	is	an	error	,	and	i	can	prove	it	to	you	by	 show 	 ing 	 	the	 kind 	 s 	 	of	 irrational 	 ities 	 	to	which	it	 lead 	 s 	 	.
+for	 ex 	 ample 	 	,	 th 	 is 	 	is	,	of	course	,	one	of	the	most	 delic 	 ious 	 	 trick 	 s 	 	in	 market 	 ing 	 	,	is	to	say	 some 	 thing 	 	used	to	be	 high 	 er 	 	,	and	 sudden 	 ly 	 	it	 seem 	 s 	 	like	a	 ver 	 y 	 	good	deal	.
+when	people	are	 ask 	 ed 	 	about	these	two	different	 job 	 s 	 	:	a	job	where	you	make	60k	,	then	50k	,	then	40k	,	a	job	where	you	're	 get 	 ting 	 	a	 s 	 al 	 ary 	 	cut	each	year	,	and	one	in	which	you	're	 get 	 ting 	 	a	 s 	 al 	 ary 	 	 in 	 crease 	 	,	people	like	the	second	job	better	than	the	first	,	 de 	 spite 	 	the	fact	they	're	all	told	they	make	much	less	money	.	why	?
+ be 	 cause 	 	they	had	the	sense	that	 dec 	 lining 	 	 wage 	 s 	 	are	 wo 	 rse 	 	than	 ris 	 ing 	 	 wage 	 s 	 	,	even	when	the	total	amount	of	 wage 	 s 	 	is	 high 	 er 	 	in	the	 dec 	 lining 	 	period	.	here	's	 an 	 other 	 	nice	 ex 	 ample 	 	.
+here	's	a	$	2,000	hawaiian	 vac 	 ation 	 	package	;	it	's	now	on	sale	for	1,600	.	 assum 	 ing 	 	you	 want 	 ed 	 	to	go	to	hawaii	,	would	you	buy	 th 	 is 	 	package	?
+most	people	say	they	would	.	here	's	a	 s 	 light 	 ly 	 	different	story	:	$	2,000	hawaiian	 vac 	 ation 	 	package	is	now	on	sale	for	700	 dollar 	 s 	 	,	so	you	decide	to	mull	it	over	for	a	week	.
+by	the	time	you	get	to	the	ticket	 age 	 ncy 	 	,	the	best	 fare 	 s 	 	are	gone	--	the	package	now	 cost 	 s 	 	1,500	.	would	you	buy	it	?	most	people	say	,	no	.
+why	?	 be 	 cause 	 	it	used	to	cost	700	,	and	there	's	no	way	i	'm	 pay 	 ing 	 	1,500	for	 some 	 thing 	 	that	was	700	last	week	.
+ th 	 is 	 	 tend 	 ency 	 	to	 compar 	 e 	 	to	the	past	is	 caus 	 ing 	 	people	to	pass	up	the	better	deal	.	in	other	 word 	 s 	 	,
+a	good	deal	that	used	to	be	a	great	deal	is	not	 near 	 ly 	 	 a 	 s 	 	good	 a 	 s 	 	an	awful	deal	that	was	once	a	 horr 	 ible 	 	deal	.
+here	's	 an 	 other 	 	 ex 	 ample 	 	of	how	 compar 	 ing 	 	to	the	past	can	befuddle	our	 decision 	 s 	 	.
+imagine	that	you	're	going	to	the	theater	.
+you	're	on	your	way	to	the	theater	.
+in	your	wallet	you	have	a	ticket	,	for	which	you	paid	20	 dollar 	 s 	 	.	you	 al 	 so 	 	have	a	20	-	dollar	bill	.
+when	you	 arriv 	 e 	 	at	the	theater	,	you	discover	that	 some 	 where 	 	 a 	 long 	 	the	way	you	've	lost	the	ticket	.
+would	you	 s 	 pend 	 	your	 remain 	 ing 	 	money	on	 re 	 placing 	 	it	?
+most	people	answer	,	no	.
+now	,	let	's	just	change	one	thing	in	 th 	 is 	 	scenario	.
+you	're	on	your	way	to	the	theater	,	and	in	your	wallet	you	have	two	20	-	dollar	 bill 	 s 	 	.
+when	you	 arriv 	 e 	 	you	discover	you	've	lost	one	of	them	.
+would	you	 s 	 pend 	 	your	 remain 	 ing 	 	20	 dollar 	 s 	 	on	a	ticket	?
+well	,	of	course	,	i	went	to	the	theater	to	see	the	play	.	what	 do 	 es 	 	the	loss	of	20	 dollar 	 s 	 	 a 	 long 	 	the	way	have	to	do	?
+now	,	just	in	case	you	're	not	 get 	 ting 	 	it	,	here	's	a	schematic	of	what	 happen 	 ed 	 	,	ok	?
+ a 	 long 	 	the	way	,	you	lost	 some 	 thing 	 	.
+in	both	 case 	 s 	 	,	it	was	a	piece	of	paper	.
+in	one	case	,	it	had	a	u.s.	 p 	 resident 	 	on	it	;	in	the	other	case	it	did	n't	.
+what	the	hell	 differ 	 ence 	 	should	it	make	?
+the	 differ 	 ence 	 	is	that	when	you	lost	the	ticket	you	say	to	 your 	 self 	 	,	i	'm	not	 pay 	 ing 	 	twice	for	the	same	thing	.
+you	 compar 	 e 	 	the	cost	of	the	play	now	--	40	 dollar 	 s 	 	--	to	the	cost	that	it	used	to	have	--	20	 dollar 	 s 	 	--	and	you	say	it	's	a	bad	deal	.
+ compar 	 ing 	 	with	the	past	 cause 	 s 	 	 man 	 y 	 	of	the	 problem 	 s 	 	that	 behavior 	 al 	 	 economist 	 s 	 	and	 psycho 	 logists 	 	identify	in	people	's	 attempt 	 s 	 	to	assign	value	.
+but	even	when	we	 compar 	 e 	 	with	the	possible	,	 in 	 stead 	 	of	the	past	,	we	still	make	certain	 kind 	 s 	 	of	 mistak 	 es 	 	.
+and	i	'm	going	to	show	you	one	or	two	of	them	.
+one	of	the	 thing 	 s 	 	we	know	about	 compar 	 ison 	 	:	that	when	we	 compar 	 e 	 	one	thing	to	the	other	,	it	 change 	 s 	 	 it 	 s 	 	value	.
+so	in	1992	,	 th 	 is 	 	fellow	,	george	bush	,	for	 t 	 hose 	 	of	us	who	 we 	 re 	 	kind	of	on	the	liberal	side	of	the	 politic 	 al 	 	spectrum	,	did	n't	seem	like	 s 	 uch 	 	a	great	guy	.
+ sudden 	 ly 	 	,	we	're	 al 	 most 	 	 long 	 ing 	 	for	him	to	return	.
+the	 compar 	 ison 	 	 change 	 s 	 	how	we	evaluate	him	.
+now	,	 re 	 tail 	 ers 	 	 k 	 new 	 	 th 	 is 	 	long	before	 any 	 body 	 	else	did	,	of	course	,	and	they	use	 th 	 is 	 	 wis 	 dom 	 	to	help	you	--	spare	you	the	 un 	 due 	 	burden	of	money	.
+and	so	a	 re 	 tail 	 er 	 	,	if	you	 we 	 re 	 	to	go	 in 	 to 	 	a	wine	shop	and	you	had	to	buy	a	bottle	of	wine	,	and	you	see	them	here	for	eight	,	27	and	33	 dollar 	 s 	 	,	what	would	you	do	?
+most	people	do	n't	want	the	most	expensive	,	they	do	n't	want	the	 l 	 east 	 	expensive	.
+so	,	they	will	opt	for	the	item	in	the	middle	.
+if	you	're	a	smart	 re 	 tail 	 er 	 	,	then	,	you	will	put	a	 ver 	 y 	 	expensive	item	that	 no 	 body 	 	will	ever	buy	on	the	shelf	,	 be 	 cause 	 	 sudden 	 ly 	 	the	$	33	wine	 do 	 es 	 	n't	look	 a 	 s 	 	expensive	in	 compar 	 ison 	 	.
+so	i	'm	 tell 	 ing 	 	you	 some 	 thing 	 	you	 al 	 ready 	 	 k 	 new 	 	:	 name 	 ly 	 	,	that	 compar 	 ison 	 	 change 	 s 	 	the	value	of	 thing 	 s 	 	.
+here	's	why	that	's	a	problem	:	the	problem	is	that	when	you	get	that	$	33	bottle	of	wine	home	,	it	wo	n't	matter	what	it	used	to	be	 s 	 itt 	 ing 	 	on	the	shelf	next	to	.
+the	 compar 	 ison 	 s 	 	we	make	when	we	are	 app 	 raising 	 	value	,	where	we	're	 try 	 ing 	 	to	estimate	how	much	we	'll	like	 thing 	 s 	 	,	are	not	the	same	 compar 	 ison 	 s 	 	we	'll	be	making	when	we	 consum 	 e 	 	them	.
+ th 	 is 	 	problem	of	shifting	 compar 	 ison 	 s 	 	can	 be 	 devil 	 	our	 attempt 	 s 	 	to	make	rational	 decision 	 s 	 	.	let	me	just	give	you	an	 ex 	 ample 	 	.
+i	have	to	show	you	 some 	 thing 	 	from	my	own	lab	,	so	let	me	sneak	 th 	 is 	 	in	.
+these	are	 subject 	 s 	 	coming	to	an	experiment	to	be	 ask 	 ed 	 	the	 simpl 	 est 	 	of	all	 question 	 s 	 	:	how	much	will	you	enjoy	eating	potato	 chip 	 s 	 	one	minute	from	now	?
+they	're	 s 	 itt 	 ing 	 	in	a	room	with	potato	 chip 	 s 	 	in	front	of	them	.
+for	some	of	the	 subject 	 s 	 	,	 s 	 itt 	 ing 	 	in	the	far	corner	of	a	room	is	a	box	of	godiva	 chocolate 	 s 	 	,	and	for	 other 	 s 	 	is	a	can	of	spam	.
+in	fact	,	these	 item 	 s 	 	that	are	 s 	 itt 	 ing 	 	in	the	room	change	how	much	the	 subject 	 s 	 	think	they	're	going	to	enjoy	the	potato	 chip 	 s 	 	.
+ name 	 ly 	 	,	 t 	 hose 	 	who	are	looking	at	spam	think	potato	 chip 	 s 	 	are	going	to	be	 quit 	 e 	 	tasty	;	 t 	 hose 	 	who	are	looking	at	godiva	chocolate	think	they	wo	n't	be	 near 	 ly 	 	so	tasty	.
+of	course	,	what	 happen 	 s 	 	when	they	eat	the	potato	 chip 	 s 	 	?
+well	,	look	,	you	did	n't	need	a	 psycho 	 logist 	 	to	tell	you	that	when	you	have	a	 mouth 	 ful 	 	of	 gr 	 easy 	 	,	 salt 	 y 	 	,	 crisp 	 y 	 	,	 delic 	 ious 	 	 snack 	 s 	 	,	what	's	 s 	 itt 	 ing 	 	in	the	corner	of	the	room	 make 	 s 	 	not	a	damn	bit	of	 differ 	 ence 	 	to	your	 gust 	 atory 	 	experience	.
+ non 	 e 	 the 	 less 	 	,	 the 	 ir 	 	 predict 	 ions 	 	are	 per 	 vert 	 ed 	 	by	a	 compar 	 ison 	 	that	then	 do 	 es 	 	not	carry	through	and	change	 the 	 ir 	 	experience	.
+you	've	all	 experience 	 d 	 	 th 	 is 	 	 your 	 self 	 	,	even	if	you	've	never	come	 in 	 to 	 	our	lab	to	eat	potato	 chip 	 s 	 	.	so	here	's	a	question	:	you	want	to	buy	a	car	stereo	.
+the	 deal 	 er 	 	near	your	house	 sell 	 s 	 	 th 	 is 	 	 part 	 icular 	 	stereo	for	200	 dollar 	 s 	 	,	but	if	you	drive	 a 	 cross 	 	town	,	you	can	get	it	for	100	 buck 	 s 	 	.
+so	would	you	drive	to	get	50	percent	off	,	saving	100	 dollar 	 s 	 	?
+most	people	say	they	would	.
+they	ca	n't	imagine	 buy 	 ing 	 	it	for	twice	the	price	when	,	with	one	trip	 a 	 cross 	 	town	,	they	can	get	it	for	half	off	.
+now	,	let	's	imagine	 in 	 stead 	 	you	 want 	 ed 	 	to	buy	a	car	that	had	a	stereo	,	and	the	 deal 	 er 	 	near	your	house	had	it	for	31,000	.
+but	if	you	drove	 a 	 cross 	 	town	,	you	could	get	it	for	30,900	.
+would	you	drive	to	get	it	?	at	 th 	 is 	 	point	,	0.003	 saving 	 s 	 	--	the	100	 dollar 	 s 	 	.
+most	people	say	,	no	,	i	'm	going	to	schlep	 a 	 cross 	 	town	to	 s 	 ave 	 	100	 buck 	 s 	 	on	the	purchase	of	a	car	?
+ th 	 is 	 	kind	of	 think 	 ing 	 	 drive 	 s 	 	 economist 	 s 	 	crazy	,	and	it	should	.
+ be 	 cause 	 	 th 	 is 	 	100	 dollar 	 s 	 	that	you	 s 	 ave 	 	--	 hell 	 o 	 	!	--	 do 	 es 	 	n't	know	where	it	came	from	.
+it	 do 	 es 	 	n't	know	what	you	 s 	 av 	 ed 	 	it	on	.
+when	you	go	to	buy	 grocer 	 ies 	 	with	it	,	it	 do 	 es 	 	n't	go	,	i	'm	the	money	 s 	 av 	 ed 	 	on	the	car	stereo	,	or	,	i	'm	the	dumb	money	 s 	 av 	 ed 	 	on	the	car	.	it	's	money	.
+and	if	a	drive	 a 	 cross 	 	town	is	worth	100	 buck 	 s 	 	,	it	's	worth	100	 buck 	 s 	 	no	matter	what	you	're	saving	it	on	.	people	do	n't	think	that	way	.
+that	's	why	they	do	n't	know	 whet 	 her 	 	 the 	 ir 	 	mutual	fund	 manage 	 r 	 	is	taking	0.1	percent	or	0.15	percent	of	 the 	 ir 	 	 invest 	 ment 	 	,	but	they	clip	 coup 	 on 	 s 	 	to	 s 	 ave 	 	one	dollar	off	of	 tooth 	 paste 	 	.
+now	,	you	can	see	,	 th 	 is 	 	is	the	problem	of	shifting	 compar 	 ison 	 s 	 	,	 be 	 cause 	 	what	you	're	 do 	 ing 	 	is	,	you	're	 compar 	 ing 	 	the	100	 buck 	 s 	 	to	the	purchase	that	you	're	making	,	but	when	you	go	to	 s 	 pend 	 	that	money	you	wo	n't	be	making	that	 compar 	 ison 	 	.
+you	've	all	had	 th 	 is 	 	experience	.
+if	you	're	an	american	,	for	 ex 	 ample 	 	,	you	've	 prob 	 ably 	 	 travel 	 ed 	 	in	france	.
+and	at	some	point	you	may	have	met	a	couple	from	your	own	 home 	 town 	 	,	and	you	thought	,	``	oh	,	my	god	,	these	people	are	so	warm	.	they	're	so	nice	to	me	.
+i	mean	,	 compar 	 ed 	 	to	all	these	people	who	hate	me	when	i	try	to	speak	 the 	 ir 	 	language	and	hate	me	more	when	i	do	n't	,	these	people	are	just	 wonder 	 ful 	 	.	``	and	so	you	tour	france	with	them	,	and	then	you	get	home	and	you	 invit 	 e 	 	them	over	for	 d 	 inner 	 	,	and	what	do	you	find	?
+ compar 	 ed 	 	to	your	regular	 friend 	 s 	 	,	they	are	 bor 	 ing 	 	and	dull	,	right	?	 be 	 cause 	 	in	 th 	 is 	 	new	 con 	 text 	 	,	the	 compar 	 ison 	 	is	 ver 	 y 	 	,	 ver 	 y 	 	different	.	in	fact	,	you	find	 your 	 self 	 	 dis 	 lik 	 ing 	 	them	 en 	 ough 	 	 al 	 most 	 	to	 qual 	 ify 	 	for	french	 citizen 	 ship 	 	.
+now	,	you	have	 exact 	 ly 	 	the	same	problem	when	you	shop	for	a	stereo	.	you	go	to	the	stereo	store	,	you	see	two	 set 	 s 	 	of	 speaker 	 s 	 	--	these	big	,	 box 	 y 	 	,	 monolith 	 s 	 	,	and	these	little	,	sleek	 speaker 	 s 	 	,	and	you	play	them	,	and	you	go	,	you	know	,	i	do	hear	a	 differ 	 ence 	 	:	the	big	 one 	 s 	 	sound	a	little	better	.
+and	so	you	buy	them	,	and	you	 br 	 ing 	 	them	home	,	and	you	 entire 	 ly 	 	 viol 	 ate 	 	the	décor	of	your	house	.
+and	the	problem	,	of	course	,	is	that	 th 	 is 	 	 compar 	 ison 	 	you	made	in	the	store	is	a	 compar 	 ison 	 	you	'll	never	make	 aga 	 in 	 	.
+what	are	the	 odd 	 s 	 	that	 year 	 s 	 	 lat 	 er 	 	you	'll	turn	on	the	stereo	and	go	,	``	 sound 	 s 	 	so	much	better	than	 t 	 hose 	 	little	 one 	 s 	 	,	``	which	you	ca	n't	even	remember	 hear 	 ing 	 	.
+the	problem	of	shifting	 compar 	 ison 	 s 	 	is	even	more	difficult	when	these	 choice 	 s 	 	are	 array 	 ed 	 	over	time	.
+people	have	a	lot	of	trouble	making	 decision 	 s 	 	about	 thing 	 s 	 	that	will	happen	at	different	 point 	 s 	 	in	time	.
+and	what	 psycho 	 logists 	 	and	 behavior 	 al 	 	 economist 	 s 	 	have	 discover 	 ed 	 	is	that	by	and	large	people	use	two	simple	 rule 	 s 	 	.
+so	let	me	give	you	one	 ver 	 y 	 	easy	problem	,	a	second	 ver 	 y 	 	easy	problem	and	then	a	third	,	hard	,	problem	.
+here	's	the	first	easy	problem	:
+you	can	have	60	 dollar 	 s 	 	now	or	50	 dollar 	 s 	 	now	.	which	would	you	prefer	?
+ th 	 is 	 	is	what	we	call	a	one	-	item	iq	test	,	ok	?
+all	of	us	,	i	hope	,	prefer	more	money	,	and	the	reason	is	,	we	 believ 	 e 	 	more	is	better	than	less	.
+here	's	the	second	problem	:	you	can	have	60	 dollar 	 s 	 	 to 	 day 	 	or	60	 dollar 	 s 	 	in	a	month	.	which	would	you	prefer	?
+ aga 	 in 	 	,	an	easy	decision	,	 be 	 cause 	 	we	all	know	that	now	is	better	than	 lat 	 er 	 	.
+what	's	hard	in	our	decision	-	making	is	when	these	two	 rule 	 s 	 	conflict	.	for	 ex 	 ample 	 	,	when	you	're	 off 	 er 	 ed 	 	50	 dollar 	 s 	 	now	or	60	 dollar 	 s 	 	in	a	month	.
+ th 	 is 	 	 ty 	 p 	 ifies 	 	a	lot	of	 situ 	 ations 	 	in	life	in	which	you	will	gain	by	 wait 	 ing 	 	,	but	you	have	to	be	patient	.
+what	do	we	know	?	what	do	people	do	in	these	 kind 	 s 	 	of	 situ 	 ations 	 	?
+well	,	by	and	large	people	are	 enormous 	 ly 	 	 im 	 patient 	 	.
+that	is	,	they	 requir 	 e 	 	interest	rates	in	the	hundred	or	 thousand 	 s 	 	of	 percent 	 s 	 	in	order	to	delay	 grat 	 ification 	 	and	wait	 un 	 til 	 	next	month	for	the	extra	10	 dollar 	 s 	 	.
+ may 	 be 	 	that	is	n't	so	 remark 	 able 	 	,	but	what	is	 remark 	 able 	 	is	how	easy	it	is	to	make	 th 	 is 	 	 im 	 patience 	 	go	away	by	 simpl 	 y 	 	changing	when	the	 deliver 	 y 	 	of	these	 mon 	 et 	 ary 	 	 unit 	 s 	 	will	happen	.
+imagine	that	you	can	have	50	 dollar 	 s 	 	in	a	year	--	that	's	12	 month 	 s 	 	--	or	60	 dollar 	 s 	 	in	13	 month 	 s 	 	.
+what	do	we	find	now	?
+people	are	 glad 	 ly 	 	 will 	 ing 	 	to	wait	:	 a 	 s 	 	long	 a 	 s 	 	they	're	 wait 	 ing 	 	12	,	they	might	 a 	 s 	 	well	wait	13	.
+what	 make 	 s 	 	 th 	 is 	 	dynamic	 in 	 consist 	 ency 	 	happen	?
+ compar 	 ison 	 	.	 trou 	 bling 	 	 compar 	 ison 	 	.	let	me	show	you	.
+ th 	 is 	 	is	just	a	graph	 show 	 ing 	 	the	 result 	 s 	 	that	i	just	 suggest 	 ed 	 	you	would	show	if	i	 g 	 ave 	 	you	time	to	respond	,	which	is	,	people	find	that	the	 subject 	 ive 	 	value	of	50	is	 high 	 er 	 	than	the	 subject 	 ive 	 	value	of	60	when	they	'll	be	 deliver 	 ed 	 	in	now	or	one	month	,	 respect 	 ively 	 	--	a	30	-	day	delay	--	but	they	show	the	reverse	pattern	when	you	push	the	entire	decision	off	 in 	 to 	 	the	future	a	year	.
+now	,	why	in	the	world	do	you	get	 th 	 is 	 	pattern	of	 result 	 s 	 	?
+these	 guy 	 s 	 	can	tell	us	.
+what	you	see	here	are	two	 lad 	 s 	 	,	one	of	them	 large 	 r 	 	than	the	other	:	the	 fire 	 man 	 	and	the	 fiddl 	 er 	 	.
+they	are	going	to	 re 	 cede 	 	 to 	 ward 	 s 	 	the	 vanish 	 ing 	 	point	in	the	horizon	,	and	i	want	you	to	notice	two	 thing 	 s 	 	.
+at	no	point	will	the	 fire 	 man 	 	look	 tall 	 er 	 	than	the	 fiddl 	 er 	 	.	no	point	.
+ how 	 ever 	 	,	the	 differ 	 ence 	 	between	them	 seem 	 s 	 	to	be	 get 	 ting 	 	 small 	 er 	 	.
+first	it	's	an	inch	in	your	view	,	then	it	's	a	quarter	-	inch	,	then	a	half	-	inch	,	and	then	 final 	 ly 	 	they	go	off	the	edge	of	the	earth	.
+here	are	the	 result 	 s 	 	of	what	i	just	 show 	 ed 	 	you	.
+ th 	 is 	 	is	the	 subject 	 ive 	 	height	--	the	height	you	saw	of	these	 guy 	 s 	 	at	 vari 	 ous 	 	 point 	 s 	 	.
+and	i	want	you	to	see	that	two	 thing 	 s 	 	are	true	.	one	,	the	 far 	 ther 	 	away	they	are	,	the	 small 	 er 	 	they	look	;	and	two	,	the	 fire 	 man 	 	is	 al 	 ways 	 	 big 	 ger 	 	than	the	 fiddl 	 er 	 	.
+but	watch	what	 happen 	 s 	 	when	we	make	some	of	them	disappear	.	right	.
+at	a	 ver 	 y 	 	close	distance	,	the	 fiddl 	 er 	 	 look 	 s 	 	 tall 	 er 	 	than	the	 fire 	 man 	 	,	but	at	a	far	distance	 the 	 ir 	 	normal	,	 the 	 ir 	 	true	,	 relation 	 s 	 	are	 preserve 	 d 	 	.
+ a 	 s 	 	plato	 s 	 aid 	 	,	what	space	is	to	 s 	 ize 	 	,	time	is	to	value	.
+these	are	the	 result 	 s 	 	of	the	hard	problem	i	 g 	 ave 	 	you	:	60	now	or	50	in	a	month	?
+and	these	are	 subject 	 ive 	 	 value 	 s 	 	,	and	what	you	can	see	is	,	our	two	 rule 	 s 	 	are	 preserve 	 d 	 	.
+people	 al 	 ways 	 	think	more	is	better	than	less	:	60	is	 al 	 ways 	 	better	than	50	,	and	they	 al 	 ways 	 	think	now	is	better	than	 lat 	 er 	 	:
+the	 bar 	 s 	 	on	 th 	 is 	 	side	are	 high 	 er 	 	than	the	 bar 	 s 	 	on	 th 	 is 	 	side	.
+watch	what	 happen 	 s 	 	when	we	drop	some	out	.
+ sudden 	 ly 	 	we	have	the	dynamic	 in 	 consist 	 ency 	 	that	 puzzl 	 ed 	 	us	.
+we	have	the	 tend 	 ency 	 	for	people	to	go	for	50	 dollar 	 s 	 	now	over	 wait 	 ing 	 	a	month	,	but	not	if	that	decision	is	far	in	the	future	.
+notice	 some 	 thing 	 	 interest 	 ing 	 	that	 th 	 is 	 	 im 	 plies 	 	--	 name 	 ly 	 	,	that	when	people	get	to	the	future	,	they	will	change	 the 	 ir 	 	 mind 	 s 	 	.
+that	is	,	 a 	 s 	 	that	month	12	 approach 	 es 	 	,	you	will	say	,	what	was	i	 think 	 ing 	 	,	 wait 	 ing 	 	an	extra	month	for	60	 dollar 	 s 	 	?
+i	'll	take	the	50	 dollar 	 s 	 	now	.
+well	,	the	question	with	which	i	'd	like	to	end	is	 th 	 is 	 	:	if	we	're	so	damn	stupid	,	how	did	we	get	to	the	moon	?
+ be 	 cause 	 	i	could	go	on	for	about	two	 hour 	 s 	 	with	evidence	of	people	's	 in 	 ability 	 	to	estimate	 odd 	 s 	 	and	 in 	 ability 	 	to	estimate	value	.
+the	answer	to	 th 	 is 	 	question	,	i	think	,	is	an	answer	you	've	 al 	 ready 	 	heard	in	some	of	the	 talk 	 s 	 	,	and	i	 da 	 re 	 	say	you	will	hear	 aga 	 in 	 	:
+ name 	 ly 	 	,	that	our	 brain 	 s 	 	 we 	 re 	 	 evolv 	 ed 	 	for	a	 ver 	 y 	 	different	world	than	the	one	in	which	we	are	living	.	they	 we 	 re 	 	 evolv 	 ed 	 	for	a	world	in	which	people	lived	in	 ver 	 y 	 	small	 group 	 s 	 	,	 rare 	 ly 	 	met	 any 	 body 	 	who	was	 terr 	 ibly 	 	different	from	 them 	 s 	 elves 	 	,	had	 ra 	 ther 	 	short	 live 	 s 	 	in	which	there	 we 	 re 	 	few	 choice 	 s 	 	and	the	highest	 prior 	 ity 	 	was	to	eat	and	mate	 to 	 day 	 	.
+bernoulli	's	gift	,	bernoulli	's	little	formula	,	 allow 	 s 	 	us	,	it	 tell 	 s 	 	us	how	we	should	think	in	a	world	for	which	nature	never	designed	us	.
+that	 explain 	 s 	 	why	we	are	so	bad	at	using	it	,	but	it	 al 	 so 	 	 explain 	 s 	 	why	it	is	so	 terr 	 ibly 	 	 import 	 ant 	 	that	we	 be 	 come 	 	good	,	fast	.
+we	are	the	 on 	 ly 	 	species	on	 th 	 is 	 	planet	that	 ha 	 s 	 	ever	held	 it 	 s 	 	own	fate	in	 it 	 s 	 	 hand 	 s 	 	.
+we	have	no	significant	 predator 	 s 	 	,	we	're	the	 master 	 s 	 	of	our	physical	environment	;	the	 thing 	 s 	 	that	 normal 	 ly 	 	cause	species	to	 be 	 come 	 	extinct	are	no	 long 	 er 	 	any	threat	to	us	.
+the	 on 	 ly 	 	thing	--	the	 on 	 ly 	 	thing	--	that	can	destroy	us	and	doom	us	are	our	own	 decision 	 s 	 	.
+if	we	're	not	here	in	10,000	 year 	 s 	 	,	it	's	going	to	be	 be 	 cause 	 	we	could	not	take	advantage	of	the	gift	 give 	 n 	 	to	us	by	a	young	dutch	fellow	in	1738	,	 be 	 cause 	 	we	 under 	 estimate 	 d 	 	the	 odd 	 s 	 	of	our	future	 pain 	 s 	 	and	 over 	 estimate 	 d 	 	the	value	of	our	present	 pleasure 	 s 	 	.
+thank	you	.
+chris	anderson	:	that	was	 remark 	 able 	 	.
+we	have	time	for	some	 question 	 s 	 	for	dan	gilbert	.	one	and	two	.
+bill	lyell	:	would	you	say	that	 th 	 is 	 	 mechan 	 ism 	 	is	in	part	how	 terror 	 ism 	 	 actual 	 ly 	 	 work 	 s 	 	to	frighten	us	,	and	is	there	some	way	that	we	could	 counter 	 act 	 	that	?
+dan	gilbert	:	i	 actual 	 ly 	 	was	 consult 	 ing 	 	 re 	 cent 	 ly 	 	with	the	 depart 	 ment 	 	of	 home 	 land 	 	security	,	which	 general 	 ly 	 	 believ 	 es 	 	that	american	security	 dollar 	 s 	 	should	go	to	making	 border 	 s 	 	 safe 	 r 	 	.
+i	 tri 	 ed 	 	to	point	out	to	them	that	 terror 	 ism 	 	was	a	name	based	on	people	's	 psycho 	 logical 	 	 re 	 action 	 	to	a	set	of	 event 	 s 	 	,	and	that	if	they	 we 	 re 	 	 concern 	 ed 	 	about	 terror 	 ism 	 	they	might	ask	what	 cause 	 s 	 	terror	and	how	can	we	stop	people	from	 be 	 ing 	 	 terr 	 ified 	 	,	 ra 	 ther 	 	than	--	not	 ra 	 ther 	 	than	,	but	in	 add 	 ition 	 	to	 stop 	 ping 	 	the	 atro 	 cities 	 	that	we	're	all	 concern 	 ed 	 	about	.
+ s 	 ure 	 ly 	 	the	 kind 	 s 	 	of	play	that	at	 l 	 east 	 	american	media	give	to	--	and	forgive	me	,	but	in	raw	 number 	 s 	 	these	are	 ver 	 y 	 	 tin 	 y 	 	 accident 	 s 	 	.
+we	 al 	 ready 	 	know	,	for	 ex 	 ample 	 	,	in	the	 unit 	 ed 	 	 state 	 s 	 	,	more	people	have	 di 	 ed 	 	 a 	 s 	 	a	result	of	not	taking	 air 	 plane 	 s 	 	--	 be 	 cause 	 	they	 we 	 re 	 	 scar 	 ed 	 	--	and	 driv 	 ing 	 	on	 high 	 ways 	 	,	than	 we 	 re 	 	 kill 	 ed 	 	in	9/11	.	ok	?
+if	i	told	you	that	there	was	a	plague	that	was	going	to	kill	15,000	americans	next	year	,	you	might	be	 alarm 	 ed 	 	if	you	did	n't	find	out	it	was	the	flu	.
+these	are	small	-	scale	 accident 	 s 	 	,	and	we	should	be	 wonder 	 ing 	 	 whet 	 her 	 	they	should	get	the	kind	of	play	,	the	kind	of	 cover 	 age 	 	,	that	they	do	.
+ s 	 ure 	 ly 	 	that	 cause 	 s 	 	people	to	 over 	 estimate 	 	the	 like 	 li 	 hood 	 	that	they	'll	be	hurt	in	these	 vari 	 ous 	 	ways	,	and	 give 	 s 	 	power	to	the	 ver 	 y 	 	people	who	want	to	frighten	us	.
+ca	:	dan	,	i	'd	like	to	hear	more	on	 th 	 is 	 	.	so	,	you	're	 say 	 ing 	 	that	our	 respons 	 e 	 	to	terror	is	,	i	mean	,	it	's	a	form	of	mental	bug	?
+talk	more	about	it	.
+dg	:	it	's	out	-	sized	.	i	mean	,	look	.
+if	australia	 disappear 	 s 	 	 to 	 mor 	 row 	 	,	terror	is	 prob 	 ably 	 	the	right	 respons 	 e 	 	.
+that	's	an	awful	large	lot	of	 ver 	 y 	 	nice	people	.	on	the	other	hand	,	when	a	bus	 blow 	 s 	 	up	and	30	people	are	 kill 	 ed 	 	,	more	people	than	that	 we 	 re 	 	 kill 	 ed 	 	by	not	using	 the 	 ir 	 	 seat 	 belt 	 s 	 	in	the	same	country	.
+is	terror	the	right	 respons 	 e 	 	?
+ca	:	what	 cause 	 s 	 	the	bug	?	is	it	the	drama	of	the	event	--	that	it	's	so	spectacular	?
+is	it	the	fact	that	it	's	an	intentional	attack	by	,	quote	,	 out 	 sider 	 s 	 	?
+what	is	it	?
+dg	:	 y 	 es 	 	.	it	's	a	number	of	 thing 	 s 	 	,	and	you	hit	on	 s 	 ever 	 al 	 	of	them	.
+first	,	it	's	a	human	agent	 try 	 ing 	 	to	kill	us	--	it	's	not	a	tree	 fall 	 ing 	 	on	us	by	accident	.
+second	,	these	are	 ene 	 mies 	 	who	may	want	to	strike	and	hurt	us	 aga 	 in 	 	.
+people	are	 be 	 ing 	 	 kill 	 ed 	 	for	no	reason	 in 	 stead 	 	of	good	reason	--	 a 	 s 	 	if	there	's	good	reason	,	but	 some 	 time 	 s 	 	people	think	there	are	.
+so	there	are	a	number	of	 thing 	 s 	 	that	together	make	 th 	 is 	 	seem	like	a	fantastic	event	,	but	let	's	not	play	down	the	fact	that	 news 	 paper 	 s 	 	sell	when	people	see	 some 	 thing 	 	in	it	they	want	to	read	.	so	there	's	a	large	role	here	 play 	 ed 	 	by	the	media	,	who	want	these	 thing 	 s 	 	to	be	 a 	 s 	 	spectacular	 a 	 s 	 	they	possibly	can	.
+ca	:	i	mean	,	what	would	it	take	to	 persuad 	 e 	 	our	culture	to	 down 	 play 	 	it	?
+dg	:	well	,	go	to	israel	.	you	know	,
+go	to	israel	.	and	a	mall	 blow 	 s 	 	up	,	and	then	 every 	 body 	 	's	 un 	 happy 	 	about	it	,	and	an	hour	-	and	-	a	-	half	 lat 	 er 	 	--	at	 l 	 east 	 	when	i	was	there	,	and	i	was	150	feet	from	the	mall	when	it	 ble 	 w 	 	up	--	i	went	back	to	my	hotel	and	the	 wed 	 d 	 ing 	 	that	was	 plan 	 ned 	 	was	still	going	on	.
+and	 a 	 s 	 	the	israeli	mother	 s 	 aid 	 	,	she	 s 	 aid 	 	,	``	we	never	let	them	win	by	 stop 	 ping 	 	 wed 	 d 	 ing 	 s 	 	.	``
+i	mean	,	 th 	 is 	 	is	a	 socie 	 ty 	 	that	 ha 	 s 	 	 learn 	 ed 	 	--	and	there	are	 other 	 s 	 	too	--	that	 ha 	 s 	 	 learn 	 ed 	 	to	live	with	a	certain	amount	of	 terror 	 ism 	 	and	not	be	 quit 	 e 	 	 a 	 s 	 	 up 	 set 	 	by	it	,	 s 	 hall 	 	i	say	,	 a 	 s 	 	 t 	 hose 	 	of	us	who	have	not	had	 man 	 y 	 	terror	 attack 	 s 	 	.
+ca	:	but	is	there	a	rational	fear	that	 actual 	 ly 	 	,	the	reason	we	're	 frighten 	 ed 	 	about	 th 	 is 	 	is	 be 	 cause 	 	we	think	that	the	big	one	is	to	come	?
+dg	:	 y 	 es 	 	,	of	course	.	so	,	if	we	 k 	 new 	 	that	 th 	 is 	 	was	the	worst	attack	there	would	ever	be	,	there	might	be	more	and	more	 bus 	 es 	 	of	30	people	--	we	would	 prob 	 ably 	 	not	be	 near 	 ly 	 	so	 frighten 	 ed 	 	.
+i	do	n't	want	to	say	--	 pleas 	 e 	 	,	i	'm	going	to	get	 quote 	 d 	 	 some 	 where 	 	 a 	 s 	 	 say 	 ing 	 	,	``	 terror 	 ism 	 	is	fine	and	we	should	n't	be	so	 di 	 stress 	 ed 	 	.	``
+that	's	not	my	point	at	all	.
+what	i	'm	 say 	 ing 	 	is	that	,	 s 	 ure 	 ly 	 	,	 ration 	 ally 	 	,	our	 di 	 stress 	 	about	 thing 	 s 	 	that	happen	,	about	 threat 	 s 	 	,	should	be	 rough 	 ly 	 	 proportion 	 al 	 	to	the	 s 	 ize 	 	of	 t 	 hose 	 	 threat 	 s 	 	and	 threat 	 s 	 	to	come	.
+i	think	in	the	case	of	 terror 	 ism 	 	,	it	is	n't	.
+and	 man 	 y 	 	of	the	 thing 	 s 	 	we	've	heard	about	from	our	 speaker 	 s 	 	 to 	 day 	 	--	how	 man 	 y 	 	people	do	you	know	got	up	and	 s 	 aid 	 	,	poverty	!	i	ca	n't	 believ 	 e 	 	what	poverty	is	 do 	 ing 	 	to	us	.
+people	get	up	in	the	 morn 	 ing 	 	;	they	do	n't	care	about	poverty	.
+it	's	not	making	 head 	 lines 	 	,	it	's	not	making	news	,	it	's	not	 flash 	 y 	 	.
+there	are	no	 gun 	 s 	 	going	off	.
+i	mean	,	if	you	had	to	solve	one	of	these	 problem 	 s 	 	,	chris	,	which	would	you	solve	?	 terror 	 ism 	 	or	poverty	?
+that	's	a	tough	one	.
+ca	:	there	's	no	question	.
+poverty	,	by	an	order	of	 magn 	 itude 	 	,	a	huge	order	of	 magn 	 itude 	 	,	 un 	 less 	 	 some 	 one 	 	can	show	that	there	's	,	you	know	,	 terrorist 	 s 	 	with	a	nuke	are	 re 	 ally 	 	 like 	 ly 	 	to	come	.
+the	 lat 	 est 	 	i	've	read	,	 s 	 een 	 	,	thought	is	that	it	's	 inc 	 red 	 ibly 	 	hard	for	them	to	do	that	.
+if	that	 turn 	 s 	 	out	to	be	wrong	,	we	all	look	 s 	 il 	 ly 	 	,	but	with	poverty	it	's	a	bit	--	dg	:	even	if	that	 we 	 re 	 	true	,	still	more	people	die	from	poverty	.
+ca	:	we	've	 evolv 	 ed 	 	to	get	all	 excit 	 ed 	 	about	these	 dramat 	 ic 	 	 attack 	 s 	 	.	is	that	 be 	 cause 	 	in	the	past	,	in	the	ancient	past	,	we	just	did	n't	understand	 thing 	 s 	 	like	disease	and	 system 	 s 	 	that	cause	poverty	and	so	forth	,
+and	so	it	made	no	sense	for	us	 a 	 s 	 	a	species	to	put	any	energy	 in 	 to 	 	 worry 	 ing 	 	about	 t 	 hose 	 	 thing 	 s 	 	?
+people	 di 	 ed 	 	;	so	be	it	.
+but	if	you	got	 attack 	 ed 	 	,	that	was	 some 	 thing 	 	you	could	do	 some 	 thing 	 	about	.
+and	so	we	 evolv 	 ed 	 	these	 respons 	 es 	 	.
+is	that	what	 happen 	 ed 	 	?
+dg	:	well	,	you	know	,	the	people	who	are	most	 skeptic 	 al 	 	about	 leap 	 ing 	 	to	 evolution 	 ary 	 	 explan 	 ations 	 	for	 every 	 thing 	 	are	the	 evolution 	 ary 	 	 psycho 	 logists 	 	 them 	 s 	 elves 	 	.
+my	guess	is	that	there	's	 noth 	 ing 	 	 quit 	 e 	 	that	specific	in	our	 evolution 	 ary 	 	past	.	but	 ra 	 ther 	 	,	if	you	're	looking	for	an	 evolution 	 ary 	 	 explan 	 ation 	 	,	you	might	say	that	most	 organism 	 s 	 	are	neo	-	phobic	--	that	is	,	they	're	a	little	 scar 	 ed 	 	of	stuff	that	's	new	and	different	.
+and	there	's	a	good	reason	to	be	,	 be 	 cause 	 	old	stuff	did	n't	eat	you	.	right	?
+any	animal	you	see	that	you	've	 s 	 een 	 	before	is	less	 like 	 ly 	 	to	be	a	predator	than	one	that	you	've	never	 s 	 een 	 	before	.
+so	,	you	know	,	when	a	school	bus	is	blown	up	and	we	've	never	 s 	 een 	 	 th 	 is 	 	before	,	our	general	 tend 	 ency 	 	is	to	orient	 to 	 ward 	 s 	 	that	which	is	new	and	novel	is	 activate 	 d 	 	.
+i	do	n't	think	it	's	 quit 	 e 	 	 a 	 s 	 	specific	a	 mechan 	 ism 	 	 a 	 s 	 	the	one	you	 allud 	 ed 	 	to	,	but	 may 	 be 	 	a	more	fundamental	one	 under 	 ly 	 ing 	 	it	.	jay	 walk 	 er 	 	:	you	know	,	 economist 	 s 	 	love	to	talk	about	the	 stupid 	 ity 	 	of	people	who	buy	 lot 	 ter 	 y 	 	 ticket 	 s 	 	.	but	i	suspect	you	're	making	the	exact	same	error	you	're	 accus 	 ing 	 	 t 	 hose 	 	people	of	,	which	is	the	error	of	value	.
+i	know	,	 be 	 cause 	 	i	've	 interview 	 ed 	 	about	1,000	 lot 	 ter 	 y 	 	 buy 	 ers 	 	over	the	 year 	 s 	 	.	it	 turn 	 s 	 	out	that	the	value	of	 buy 	 ing 	 	a	 lot 	 ter 	 y 	 	ticket	is	not	winning	.
+that	's	what	you	think	it	is	.	all	right	?
+the	average	 lot 	 ter 	 y 	 	 buy 	 er 	 	 buy 	 s 	 	about	150	 ticket 	 s 	 	a	year	,	so	the	 buy 	 er 	 	 know 	 s 	 	full	well	that	he	or	she	is	going	to	lose	,	and	yet	she	 buy 	 s 	 	150	 ticket 	 s 	 	a	year	.	why	is	that	?
+it	's	not	 be 	 cause 	 	she	is	stupid	or	he	is	stupid	.
+it	's	 be 	 cause 	 	the	 anticip 	 ation 	 	of	possibly	winning	 re 	 lease 	 s 	 	serotonin	in	the	brain	,	and	 actual 	 ly 	 	 provide 	 s 	 	a	good	 feel 	 ing 	 	 un 	 til 	 	the	 draw 	 ing 	 	 indic 	 ates 	 	you	've	lost	.
+or	,	to	put	it	 an 	 other 	 	way	,	for	the	dollar	 invest 	 ment 	 	,	you	can	have	a	much	better	 feel 	 ing 	 	than	 flush 	 ing 	 	the	money	down	the	toilet	,	which	you	can	not	have	a	good	 feel 	 ing 	 	from	.
+now	,	 economist 	 s 	 	tend	to	--	--	 economist 	 s 	 	tend	to	view	the	world	through	 the 	 ir 	 	own	 lens 	 es 	 	,	which	is	:	 th 	 is 	 	is	just	a	bunch	of	stupid	people	.
+and	 a 	 s 	 	a	result	,	 man 	 y 	 	people	look	at	 economist 	 s 	 	 a 	 s 	 	stupid	people	.
+and	so	 fundamental 	 ly 	 	,	the	reason	we	got	to	the	moon	is	,	we	did	n't	listen	to	the	 economist 	 s 	 	.	thank	you	 ver 	 y 	 	much	.
+dg	:	well	,	no	,	it	's	a	great	point	.	it	 remain 	 s 	 	to	be	 s 	 een 	 	 whet 	 her 	 	the	joy	of	 anticip 	 ation 	 	is	 exact 	 ly 	 	 equal 	 ed 	 	by	the	amount	of	 disappoint 	 ment 	 	after	the	 lot 	 ter 	 y 	 	.	 be 	 cause 	 	remember	,	people	who	did	n't	buy	 ticket 	 s 	 	do	n't	feel	awful	the	next	day	either	,	even	 th 	 ough 	 	they	do	n't	feel	great	 dur 	 ing 	 	the	 draw 	 ing 	 	.
+i	would	disagree	that	people	know	they	're	not	going	to	win	.	i	think	they	think	it	's	 un 	 like 	 ly 	 	,	but	it	could	happen	,
+which	is	why	they	prefer	that	to	the	 flush 	 ing 	 	.
+but	 certain 	 ly 	 	i	see	your	point	:	that	there	can	be	some	 util 	 ity 	 	to	 buy 	 ing 	 	a	 lot 	 ter 	 y 	 	ticket	other	than	winning	.
+now	,	i	think	there	's	 man 	 y 	 	good	 reason 	 s 	 	not	to	listen	to	 economist 	 s 	 	.	that	is	n't	one	of	them	,	for	me	,	but	there	's	 man 	 y 	 	 other 	 s 	 	.
+ca	:	last	question	.
+aubrey	de	 gr 	 ey 	 	:	my	name	's	aubrey	de	 gr 	 ey 	 	,	from	cambridge	.
+i	work	on	the	thing	that	 kill 	 s 	 	more	people	than	 any 	 thing 	 	else	 kill 	 s 	 	--	i	work	on	aging	--	and	i	'm	 interest 	 ed 	 	in	 do 	 ing 	 	 some 	 thing 	 	about	it	,	 a 	 s 	 	we	'll	all	hear	 to 	 mor 	 row 	 	.
+i	 ver 	 y 	 	much	 reson 	 ate 	 	with	what	you	're	 say 	 ing 	 	,	 be 	 cause 	 	it	 seem 	 s 	 	to	me	that	the	problem	with	 get 	 ting 	 	people	 interest 	 ed 	 	in	 do 	 ing 	 	 any 	 thing 	 	about	aging	is	that	by	the	time	aging	is	about	to	kill	you	it	 look 	 s 	 	like	cancer	or	heart	disease	or	 what 	 ever 	 	.	do	you	have	any	 ad 	 vice 	 	?
+dg	:	for	you	or	for	them	?
+adg	:	in	 persuad 	 ing 	 	them	.
+dg	:	ah	,	for	you	in	 persuad 	 ing 	 	them	.
+well	,	it	's	 notorious 	 ly 	 	difficult	to	get	people	to	be	 far 	 sight 	 ed 	 	.	but	one	thing	that	 psycho 	 logists 	 	have	 tri 	 ed 	 	that	 seem 	 s 	 	to	work	is	to	get	people	to	imagine	the	future	more	 vivi 	 d 	 ly 	 	.
+one	of	the	 problem 	 s 	 	with	making	 decision 	 s 	 	about	the	far	future	and	the	near	future	is	that	we	imagine	the	near	future	much	more	 vivi 	 d 	 ly 	 	than	the	far	future	.
+to	the	 ex 	 tent 	 	that	you	can	 equal 	 ize 	 	the	amount	of	detail	that	people	put	 in 	 to 	 	the	mental	 represent 	 ations 	 	of	near	and	far	future	,	people	begin	to	make	 decision 	 s 	 	about	the	two	in	the	same	way	.
+so	,	would	you	like	to	have	an	extra	100,000	 dollar 	 s 	 	when	you	're	65	is	a	question	that	's	 ver 	 y 	 	different	than	,	imagine	who	you	'll	be	when	you	're	65	:	will	you	be	living	,	what	will	you	look	like	,	how	much	hair	will	you	have	,	who	will	you	be	living	with	.
+once	we	have	all	the	 detail 	 s 	 	of	that	 imagin 	 ary 	 	scenario	,	 sudden 	 ly 	 	we	feel	like	it	might	be	 import 	 ant 	 	to	 s 	 ave 	 	so	that	that	guy	 ha 	 s 	 	a	little	 retire 	 ment 	 	money	.
+but	these	are	 trick 	 s 	 	around	the	 margin 	 s 	 	.	i	think	in	general	you	're	 batt 	 ling 	 	a	 ver 	 y 	 	fundamental	human	 tend 	 ency 	 	,	which	is	to	say	,	``	i	'm	here	 to 	 day 	 	,	and	so	now	is	more	 import 	 ant 	 	than	 lat 	 er 	 	.	``	ca	:	dan	,	thank	you	.	 member 	 s 	 	of	the	audience	,	that	was	a	fantastic	session	.	thank	you	.
+

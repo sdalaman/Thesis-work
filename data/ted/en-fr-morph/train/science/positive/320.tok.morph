@@ -1,0 +1,154 @@
+i	got	my	first	computer	when	i	was	a	teenager	growing	up	in	accra	,	and	it	was	a	 re 	 ally 	 	cool	 de 	 vice 	 	.
+you	could	play	 game 	 s 	 	with	it	.	you	could	program	it	in	 bas 	 ic 	 	.	and	i	was	 fascinate 	 d 	 	.
+so	i	went	 in 	 to 	 	the	library	to	figure	out	how	did	 th 	 is 	 	thing	work	.
+i	read	about	how	the	cpu	is	 constant 	 ly 	 	 shuffl 	 ing 	 	data	back	and	forth	between	the	 memor 	 y 	 	,	the	ram	and	the	alu	,	the	arithmetic	and	logic	unit	.
+and	i	thought	to	 my 	 self 	 	,	 th 	 is 	 	cpu	 re 	 ally 	 	 ha 	 s 	 	to	work	like	crazy	just	to	keep	all	 th 	 is 	 	data	moving	through	the	system	.
+but	 no 	 body 	 	was	 re 	 ally 	 	 worri 	 ed 	 	about	 th 	 is 	 	.
+when	 computer 	 s 	 	 we 	 re 	 	first	 introduc 	 ed 	 	,	they	 we 	 re 	 	 s 	 aid 	 	to	be	a	million	 time 	 s 	 	 fast 	 er 	 	than	 neuro 	 ns 	 	.
+people	 we 	 re 	 	 re 	 ally 	 	 excit 	 ed 	 	.	they	thought	they	would	soon	 out 	 strip 	 	the	 cap 	 a 	 city 	 	of	the	brain	.
+ th 	 is 	 	is	a	quote	,	 actual 	 ly 	 	,	from	alan	turing	:	``	in	30	 year 	 s 	 	,	it	will	be	 a 	 s 	 	easy	to	ask	a	computer	a	question	 a 	 s 	 	to	ask	a	person	.	``
+ th 	 is 	 	was	in	1946	.	and	now	,	in	2007	,	it	's	still	not	true	.
+and	so	,	the	question	is	,	why	are	n't	we	 re 	 ally 	 	 see 	 ing 	 	 th 	 is 	 	kind	of	power	in	 computer 	 s 	 	that	we	see	in	the	brain	?
+what	people	did	n't	 real 	 ize 	 	,	and	i	'm	just	 begin 	 ning 	 	to	 real 	 ize 	 	right	now	,	is	that	we	pay	a	huge	price	for	the	speed	that	we	claim	is	a	big	advantage	of	these	 computer 	 s 	 	.
+let	's	take	a	look	at	some	 number 	 s 	 	.
+ th 	 is 	 	is	blue	gene	,	the	 fast 	 est 	 	computer	in	the	world	.
+it	's	got	120,000	 processor 	 s 	 	;	they	can	 bas 	 ically 	 	process	10	 quad 	 r 	 ill 	 ion 	 	bits	of	information	per	second	.
+that	's	10	to	the	sixteenth	.	and	they	 consum 	 e 	 	one	and	a	half	 megawatt 	 s 	 	of	power	.
+so	that	would	be	 re 	 ally 	 	great	,	if	you	could	add	that	to	the	production	 cap 	 a 	 city 	 	in	tanzania	.
+it	would	 re 	 ally 	 	boost	the	 eco 	 nomy 	 	.
+just	to	go	back	to	the	 state 	 s 	 	,	if	you	 transl 	 ate 	 	the	amount	of	power	or	 electric 	 ity 	 	 th 	 is 	 	computer	uses	to	the	amount	of	 house 	 hold 	 s 	 	in	the	 state 	 s 	 	,	you	get	1,200	 house 	 hold 	 s 	 	in	the	u.s.	that	's	how	much	power	 th 	 is 	 	computer	uses	.
+now	,	let	's	 compar 	 e 	 	 th 	 is 	 	with	the	brain	.
+ th 	 is 	 	is	a	picture	of	,	 actual 	 ly 	 	rory	sayres	'	girlfriend	's	brain	.
+rory	is	a	graduate	student	at	stanford	.
+he	 stud 	 ies 	 	the	brain	using	mri	,	and	he	 claim 	 s 	 	that	 th 	 is 	 	is	the	most	 beaut 	 iful 	 	brain	that	he	 ha 	 s 	 	ever	 s 	 can 	 ned 	 	.
+so	that	's	true	love	,	right	there	.
+now	,	how	much	computation	 do 	 es 	 	the	brain	do	?
+i	estimate	10	to	the	16	bits	per	second	,	which	is	 actual 	 ly 	 	about	 ver 	 y 	 	similar	to	what	blue	gene	 do 	 es 	 	.
+so	that	's	the	question	.	the	question	is	,	how	much	--	they	are	 do 	 ing 	 	a	similar	amount	of	 process 	 ing 	 	,	similar	amount	of	data	--	the	question	is	how	much	energy	or	 electric 	 ity 	 	 do 	 es 	 	the	brain	use	?
+and	it	's	 actual 	 ly 	 	 a 	 s 	 	much	 a 	 s 	 	your	 lap 	 top 	 	computer	:	it	's	just	10	 watt 	 s 	 	.
+so	what	we	are	 do 	 ing 	 	right	now	with	 computer 	 s 	 	with	the	energy	 consum 	 ed 	 	by	1,200	 house 	 s 	 	,	the	brain	is	 do 	 ing 	 	with	the	energy	 consum 	 ed 	 	by	your	 lap 	 top 	 	.
+so	the	question	is	,	how	is	the	brain	able	to	 achiev 	 e 	 	 th 	 is 	 	kind	of	efficiency	?
+and	let	me	just	summarize	.	so	the	bottom	line	:	the	brain	 process 	 es 	 	information	using	100,000	 time 	 s 	 	less	energy	than	we	do	right	now	with	 th 	 is 	 	computer	technology	that	we	have	.
+how	is	the	brain	able	to	do	 th 	 is 	 	?
+let	's	just	take	a	look	about	how	the	brain	 work 	 s 	 	,	and	then	i	'll	 compar 	 e 	 	that	with	how	 computer 	 s 	 	work	.
+so	,	 th 	 is 	 	clip	is	from	the	pbs	 s 	 eries 	 	,	``	the	secret	life	of	the	brain	.	``
+it	 show 	 s 	 	you	these	 cell 	 s 	 	that	process	information	.
+they	are	 call 	 ed 	 	 neuro 	 ns 	 	.
+they	 s 	 end 	 	little	 puls 	 es 	 	of	 electric 	 ity 	 	down	 the 	 ir 	 	 process 	 es 	 	to	each	other	,	and	where	they	contact	each	other	,	 t 	 hose 	 	little	 puls 	 es 	 	of	 electric 	 ity 	 	can	jump	from	one	 neuro 	 n 	 	to	the	other	.
+that	process	is	 call 	 ed 	 	a	synapse	.
+you	've	got	 th 	 is 	 	huge	network	of	 cell 	 s 	 	 interact 	 ing 	 	with	each	other	--	about	100	million	of	them	,	 s 	 end 	 ing 	 	about	10	 quad 	 r 	 ill 	 ion 	 	of	these	 puls 	 es 	 	around	every	second	.
+and	that	's	 bas 	 ically 	 	what	's	going	on	in	your	brain	right	now	 a 	 s 	 	you	're	 watch 	 ing 	 	 th 	 is 	 	.
+how	 do 	 es 	 	that	 compar 	 e 	 	with	the	way	 computer 	 s 	 	work	?
+in	the	computer	,	you	have	all	the	data	going	through	the	central	 process 	 ing 	 	unit	,	and	any	piece	of	data	 bas 	 ically 	 	 ha 	 s 	 	to	go	through	that	 bottle 	 neck 	 	,	 where 	 a 	 s 	 	in	the	brain	,	what	you	have	is	these	 neuro 	 ns 	 	,	and	the	data	just	 re 	 ally 	 	 flow 	 s 	 	through	a	network	of	 connect 	 ions 	 	among	the	 neuro 	 ns 	 	.	there	's	no	 bottle 	 neck 	 	here	.
+it	's	 re 	 ally 	 	a	network	in	the	 liter 	 al 	 	sense	of	the	word	.
+the	net	is	 do 	 ing 	 	the	work	in	the	brain	.
+if	you	just	look	at	these	two	 picture 	 s 	 	,	these	kind	of	 word 	 s 	 	pop	 in 	 to 	 	your	mind	.
+ th 	 is 	 	is	 s 	 erial 	 	and	it	's	rigid	--	it	's	like	 car 	 s 	 	on	a	 free 	 way 	 	,	 every 	 thing 	 	 ha 	 s 	 	to	happen	in	 lock 	 step 	 	--
+ where 	 a 	 s 	 	 th 	 is 	 	is	parallel	and	it	's	fluid	.
+information	 process 	 ing 	 	is	 ver 	 y 	 	dynamic	and	 adapt 	 ive 	 	.
+so	i	'm	not	the	first	to	figure	 th 	 is 	 	out	.	 th 	 is 	 	is	a	quote	from	brian	eno	:	``	the	problem	with	 computer 	 s 	 	is	that	there	is	not	 en 	 ough 	 	africa	in	them	.	``
+brian	 actual 	 ly 	 	 s 	 aid 	 	 th 	 is 	 	in	1995	.
+and	 no 	 body 	 	was	 listen 	 ing 	 	then	,	but	now	people	are	 begin 	 ning 	 	to	listen	 be 	 cause 	 	there	's	a	 press 	 ing 	 	,	 techno 	 logical 	 	problem	that	we	face	.
+and	i	'll	just	take	you	through	that	a	little	bit	in	the	next	few	 slide 	 s 	 	.
+ th 	 is 	 	is	--	it	's	 actual 	 ly 	 	 re 	 ally 	 	 th 	 is 	 	 remark 	 able 	 	 converg 	 ence 	 	between	the	 de 	 vice 	 s 	 	that	we	use	to	compute	in	 computer 	 s 	 	,	and	the	 de 	 vice 	 s 	 	that	our	 brain 	 s 	 	use	to	compute	.
+the	 de 	 vice 	 s 	 	that	 computer 	 s 	 	use	are	what	's	 call 	 ed 	 	a	transistor	.
+ th 	 is 	 	 electro 	 de 	 	here	,	 call 	 ed 	 	the	gate	,	 control 	 s 	 	the	flow	of	current	from	the	source	to	the	drain	--	these	two	 electro 	 de 	 s 	 	.
+and	that	current	,	 electric 	 al 	 	current	,	is	carried	by	 electron 	 s 	 	,	just	like	in	your	house	and	so	on	.
+and	what	you	have	here	is	,	when	you	 actual 	 ly 	 	turn	on	the	gate	,	you	get	an	 in 	 crease 	 	in	the	amount	of	current	,	and	you	get	a	 stead 	 y 	 	flow	of	current	.
+and	when	you	turn	off	the	gate	,	there	's	no	current	 flow 	 ing 	 	through	the	 de 	 vice 	 	.
+your	computer	uses	 th 	 is 	 	presence	of	current	to	represent	a	one	,	and	the	 ab 	 s 	 ence 	 	of	current	to	represent	a	zero	.
+now	,	what	's	 happen 	 ing 	 	is	that	 a 	 s 	 	 transistor 	 s 	 	are	 get 	 ting 	 	 small 	 er 	 	and	 small 	 er 	 	and	 small 	 er 	 	,
+they	no	 long 	 er 	 	 behav 	 e 	 	like	 th 	 is 	 	.
+in	fact	,	they	are	 start 	 ing 	 	to	 behav 	 e 	 	like	the	 de 	 vice 	 	that	 neuro 	 ns 	 	use	to	compute	,	which	is	 call 	 ed 	 	an	ion	channel	.
+and	 th 	 is 	 	is	a	little	protein	molecule	.
+i	mean	,	 neuro 	 ns 	 	have	 thousand 	 s 	 	of	these	.
+and	it	 s 	 it 	 s 	 	in	the	membrane	of	the	cell	and	it	's	got	a	pore	in	it	.
+and	these	are	individual	 pot 	 ass 	 ium 	 	ions	that	are	 flow 	 ing 	 	through	that	pore	.
+now	,	 th 	 is 	 	pore	can	open	and	close	.
+but	,	when	it	's	open	,	 be 	 cause 	 	these	ions	have	to	line	up	and	flow	through	,	one	at	a	time	,	you	get	a	kind	of	sporadic	,	not	 stead 	 y 	 	--	it	's	a	sporadic	flow	of	current	.
+and	even	when	you	close	the	pore	--	which	 neuro 	 ns 	 	can	do	,	they	can	open	and	close	these	 pore 	 s 	 	to	generate	 electric 	 al 	 	activity	--	even	when	it	's	closed	,	 be 	 cause 	 	these	ions	are	so	small	,	they	can	 actual 	 ly 	 	sneak	through	,	a	few	can	sneak	through	at	a	time	.
+so	,	what	you	have	is	that	when	the	pore	is	open	,	you	get	some	current	 some 	 time 	 s 	 	.
+these	are	your	 one 	 s 	 	,	but	you	've	got	a	few	 zero 	 s 	 	 throw 	 n 	 	in	.
+and	when	it	's	closed	,	you	have	a	zero	,	but	you	have	a	few	 one 	 s 	 	 throw 	 n 	 	in	.
+now	,	 th 	 is 	 	is	 start 	 ing 	 	to	happen	in	 transistor 	 s 	 	.
+and	the	reason	why	that	's	 happen 	 ing 	 	is	that	,	right	now	,	in	2007	--	the	technology	that	we	are	using	--	a	transistor	is	big	 en 	 ough 	 	that	 s 	 ever 	 al 	 	 electron 	 s 	 	can	flow	through	the	channel	 simultaneous 	 ly 	 	,	side	by	side	.
+in	fact	,	there	's	about	12	 electron 	 s 	 	can	all	be	 flow 	 ing 	 	 th 	 is 	 	way	.
+and	that	 mean 	 s 	 	that	a	transistor	 correspond 	 s 	 	to	about	12	ion	 channel 	 s 	 	in	parallel	.
+now	,	in	a	few	 year 	 s 	 	time	,	by	2015	,	we	will	shrink	 transistor 	 s 	 	so	much	.
+ th 	 is 	 	is	what	 in 	 tel 	 	 do 	 es 	 	to	keep	 add 	 ing 	 	more	 core 	 s 	 	onto	the	chip	.	or	your	 memor 	 y 	 	 stick 	 s 	 	that	you	have	now	can	carry	one	gigabyte	of	stuff	on	them	--	before	,	it	was	256	.
+ transistor 	 s 	 	are	 get 	 ting 	 	 small 	 er 	 	to	allow	 th 	 is 	 	to	happen	,	and	technology	 ha 	 s 	 	 re 	 ally 	 	 benefit 	 ted 	 	from	that	.
+but	what	's	 happen 	 ing 	 	now	is	that	in	2015	,	the	transistor	is	going	to	 be 	 come 	 	so	small	,	that	it	 correspond 	 s 	 	to	 on 	 ly 	 	one	electron	at	a	time	can	flow	through	that	channel	,	and	that	 correspond 	 s 	 	to	a	single	ion	channel	.
+and	you	start	 hav 	 ing 	 	the	same	kind	of	traffic	 jam 	 s 	 	that	you	have	in	the	ion	channel	.	the	current	will	turn	on	and	off	at	random	,	even	when	it	's	 suppose 	 d 	 	to	be	on	.
+and	that	 mean 	 s 	 	your	computer	is	going	to	get	 it 	 s 	 	 one 	 s 	 	and	 zero 	 s 	 	 mix 	 ed 	 	up	,	and	that	's	going	to	crash	your	machine	.
+so	,	we	are	at	the	stage	where	we
+do	n't	 re 	 ally 	 	know	how	to	compute	with	these	 kind 	 s 	 	of	 de 	 vice 	 s 	 	.
+and	the	 on 	 ly 	 	kind	of	thing	--	the	 on 	 ly 	 	thing	we	know	right	now	that	can	compute	with	these	 kind 	 s 	 	of	 de 	 vice 	 s 	 	are	the	brain	.
+ok	,	so	a	computer	 pick 	 s 	 	a	specific	item	of	data	from	 memor 	 y 	 	,	it	 s 	 end 	 s 	 	it	 in 	 to 	 	the	processor	or	the	alu	,	and	then	it	 put 	 s 	 	the	result	back	 in 	 to 	 	 memor 	 y 	 	.
+that	's	the	red	path	that	's	 high 	 light 	 ed 	 	.
+the	way	 brain 	 s 	 	work	,	i	told	you	all	,	you	have	got	all	these	 neuro 	 ns 	 	.
+and	the	way	they	represent	information	is	they	break	up	that	data	 in 	 to 	 	little	 piece 	 s 	 	that	are	 represent 	 ed 	 	by	 puls 	 es 	 	and	different	 neuro 	 ns 	 	.
+so	you	have	all	these	 piece 	 s 	 	of	data	 distribut 	 ed 	 	 through 	 out 	 	the	network	.
+and	then	the	way	that	you	process	that	data	to	get	a	result	is	that	you	 transl 	 ate 	 	 th 	 is 	 	pattern	of	activity	 in 	 to 	 	a	new	pattern	of	activity	,	just	by	it	 flow 	 ing 	 	through	the	network	.
+so	you	set	up	these	 connect 	 ions 	 	 s 	 uch 	 	that	the	 in 	 put 	 	pattern	just	 flow 	 s 	 	and	 generate 	 s 	 	the	 out 	 put 	 	pattern	.
+what	you	see	here	is	that	there	's	these	 red 	 un 	 d 	 ant 	 	 connect 	 ions 	 	.
+so	if	 th 	 is 	 	piece	of	data	or	 th 	 is 	 	piece	of	the	data	 get 	 s 	 	 clobber 	 ed 	 	,	it	 do 	 es 	 	n't	show	up	over	here	,	these	two	 piece 	 s 	 	can	activate	the	 mis 	 s 	 ing 	 	part	with	these	 red 	 un 	 d 	 ant 	 	 connect 	 ions 	 	.
+so	even	when	you	go	to	these	 crap 	 py 	 	 de 	 vice 	 s 	 	where	 some 	 time 	 s 	 	you	want	a	one	and	you	get	a	zero	,	and	it	 do 	 es 	 	n't	show	up	,	there	's	 red 	 un 	 d 	 ancy 	 	in	the	network	that	can	 actual 	 ly 	 	 re 	 cover 	 	the	 mis 	 s 	 ing 	 	information	.
+it	 make 	 s 	 	the	brain	 inherent 	 ly 	 	 ro 	 bust 	 	.
+what	you	have	here	is	a	system	where	you	store	data	 local 	 ly 	 	.
+and	it	's	brittle	,	 be 	 cause 	 	each	of	these	 step 	 s 	 	 ha 	 s 	 	to	be	 flaw 	 less 	 	,	 other 	 wise 	 	you	lose	that	data	,	 where 	 a 	 s 	 	in	the	brain	,	you	have	a	system	that	 store 	 s 	 	data	in	a	 distribut 	 ed 	 	way	,	and	it	's	 ro 	 bust 	 	.
+what	i	want	to	 bas 	 ically 	 	talk	about	is	my	dream	,	which	is	to	build	a	computer	that	 work 	 s 	 	like	the	brain	.
+ th 	 is 	 	is	 some 	 thing 	 	that	we	've	 be 	 en 	 	 work 	 ing 	 	on	for	the	last	couple	of	 year 	 s 	 	.
+and	i	'm	going	to	show	you	a	system	that	we	designed	to	model	the	retina	,	which	is	a	piece	of	brain	that	lines	the	 in 	 side 	 	of	your	 eye 	 ball 	 	.
+we	did	n't	do	 th 	 is 	 	by	 actual 	 ly 	 	writing	code	,	like	you	do	in	a	computer	.
+in	fact	,	the	 process 	 ing 	 	that	 happen 	 s 	 	in	that	little	piece	of	brain	is	 ver 	 y 	 	similar	to	the	kind	of	 process 	 ing 	 	that	 computer 	 s 	 	do	when	they	stream	video	over	the	 inter 	 net 	 	.
+they	want	to	compress	the	information	--	they	just	want	to	 s 	 end 	 	the	 change 	 s 	 	,	what	's	new	in	the	image	,	and	so	on	--	and	that	is	how	your	 eye 	 ball 	 	is	able	to	 squeez 	 e 	 	all	that	information	down	to	your	optic	nerve	,	to	 s 	 end 	 	to	the	rest	of	the	brain	.
+ in 	 stead 	 	of	 do 	 ing 	 	 th 	 is 	 	in	 soft 	 ware 	 	,	or	 do 	 ing 	 	 t 	 hose 	 	 kind 	 s 	 	of	 algorithm 	 s 	 	,	we	went	and	 talk 	 ed 	 	to	 neuro 	 biologist 	 s 	 	who	have	 actual 	 ly 	 	reverse	engineered	that	piece	of	brain	that	's	 call 	 ed 	 	the	retina	.
+and	they	 figur 	 ed 	 	out	all	the	different	 cell 	 s 	 	,	and	they	 figur 	 ed 	 	out	the	network	,	and	we	just	took	that	network	and	we	used	it	 a 	 s 	 	the	 blue 	 print 	 	for	the	design	of	a	silicon	chip	.
+so	now	the	 neuro 	 ns 	 	are	 represent 	 ed 	 	by	little	 nod 	 es 	 	or	 circuit 	 s 	 	on	the	chip	,	and	the	 connect 	 ions 	 	among	the	 neuro 	 ns 	 	are	 represent 	 ed 	 	,	 actual 	 ly 	 	 model 	 ed 	 	by	 transistor 	 s 	 	.
+and	these	 transistor 	 s 	 	are	 behav 	 ing 	 	 essential 	 ly 	 	just	like	ion	 channel 	 s 	 	 behav 	 e 	 	in	the	brain	.
+it	will	give	you	the	same	kind	of	 ro 	 bust 	 	 architect 	 ure 	 	that	i	 de 	 scribed 	 	.
+here	is	 actual 	 ly 	 	what	our	artificial	eye	 look 	 s 	 	like	.
+the	retina	chip	that	we	designed	 s 	 it 	 s 	 	 be 	 hind 	 	 th 	 is 	 	lens	here	.
+and	the	chip	--	i	'm	going	to	show	you	a	video	that	the	silicon	retina	put	out	of	 it 	 s 	 	 out 	 put 	 	when	it	was	looking	at	kareem	zaghloul	,	who	's	the	student	who	designed	 th 	 is 	 	chip	.
+let	me	explain	what	you	're	going	to	see	,	ok	,
+ be 	 cause 	 	it	's	 put 	 ting 	 	out	different	 kind 	 s 	 	of	information	,	it	's	not	 a 	 s 	 	 straight 	 forward 	 	 a 	 s 	 	a	camera	.
+the	retina	chip	 ex 	 tract 	 s 	 	four	different	 kind 	 s 	 	of	information	.
+it	 ex 	 tract 	 s 	 	 region 	 s 	 	with	dark	contrast	,	which	will	show	up	on	the	video	 a 	 s 	 	red	.
+and	it	 ex 	 tract 	 s 	 	 region 	 s 	 	with	white	or	light	contrast	,	which	will	show	up	on	the	video	 a 	 s 	 	green	.
+ th 	 is 	 	is	kareem	's	dark	 eye 	 s 	 	and	that	's	the	white	 back 	 ground 	 	that	you	see	here	.
+and	then	it	 al 	 so 	 	 ex 	 tract 	 s 	 	 move 	 ment 	 	.
+when	kareem	 move 	 s 	 	his	head	to	the	right	,	you	will	see	 th 	 is 	 	blue	activity	there	;	it	 represent 	 s 	 	 region 	 s 	 	where	the	contrast	is	increasing	in	the	image	,	that	's	where	it	's	going	from	dark	to	light	.
+and	you	 al 	 so 	 	see	 th 	 is 	 	yellow	activity	,	which	 represent 	 s 	 	 region 	 s 	 	where	contrast	is	 decr 	 eas 	 ing 	 	;	it	's	going	from	light	to	dark	.
+and	these	four	 type 	 s 	 	of	information	--	your	optic	nerve	 ha 	 s 	 	about	a	million	 fiber 	 s 	 	in	it	,	and	900,000	of	 t 	 hose 	 	 fiber 	 s 	 	 s 	 end 	 	these	four	 type 	 s 	 	of	information	.
+so	we	are	 re 	 ally 	 	 duplic 	 ating 	 	the	kind	of	 signal 	 s 	 	that	you	have	on	the	optic	nerve	.
+what	you	notice	here	is	that	these	 snap 	 shot 	 s 	 	taken	from	the	 out 	 put 	 	of	the	retina	chip	are	 ver 	 y 	 	 s 	 parse 	 	,	right	?
+it	 do 	 es 	 	n't	light	up	green	 every 	 where 	 	in	the	 back 	 ground 	 	,	 on 	 ly 	 	on	the	 edge 	 s 	 	,	and	then	in	the	hair	,	and	so	on	.
+and	 th 	 is 	 	is	the	same	thing	you	see	when	people	compress	video	to	 s 	 end 	 	:	they	want	to	make	it	 ver 	 y 	 	 s 	 parse 	 	,	 be 	 cause 	 	that	file	is	 small 	 er 	 	.	and	 th 	 is 	 	is	what	the	retina	is	 do 	 ing 	 	,	and	it	's	 do 	 ing 	 	it	just	with	the	 circuit 	 ry 	 	,	and	how	 th 	 is 	 	network	of	 neuro 	 ns 	 	that	are	 interact 	 ing 	 	in	there	,	which	we	've	 capture 	 d 	 	on	the	chip	.
+but	the	point	that	i	want	to	make	--	i	'll	show	you	up	here	.
+so	 th 	 is 	 	image	here	is	going	to	look	like	these	 one 	 s 	 	,	but	here	i	'll	show	you	that	we	can	 re 	 construct 	 	the	image	,	so	,	you	know	,	you	can	 al 	 most 	 	 recogn 	 ize 	 	kareem	in	that	top	part	there	.
+and	so	,	here	you	go	.
+ y 	 es 	 	,	so	that	's	the	idea	.
+when	you	stand	still	,	you	just	see	the	light	and	dark	 contrast 	 s 	 	.
+but	when	it	's	moving	back	and	forth	,	the	retina	 pick 	 s 	 	up	these	 change 	 s 	 	.
+and	that	's	why	,	you	know	,	when	you	're	 s 	 itt 	 ing 	 	here	and	 some 	 thing 	 	 happen 	 s 	 	in	your	 back 	 ground 	 	,	you	 mere 	 ly 	 	move	your	 eye 	 s 	 	to	it	.
+there	are	these	 cell 	 s 	 	that	detect	change	and	you	move	your	attention	to	it	.
+so	 t 	 hose 	 	are	 ver 	 y 	 	 import 	 ant 	 	for	 catch 	 ing 	 	 some 	 body 	 	who	's	 try 	 ing 	 	to	sneak	up	on	you	.
+let	me	just	end	by	 say 	 ing 	 	that	 th 	 is 	 	is	what	 happen 	 s 	 	when	you	put	africa	in	a	piano	,	ok	.
+ th 	 is 	 	is	a	steel	drum	here	that	 ha 	 s 	 	 be 	 en 	 	 modifi 	 ed 	 	,	and	that	's	what	 happen 	 s 	 	when	you	put	africa	in	a	piano	.
+and	what	i	would	like	us	to	do	is	put	africa	in	the	computer	,	and	come	up	with	a	new	kind	of	computer	that	will	generate	thought	,	 imagin 	 ation 	 	,	be	creative	and	 thing 	 s 	 	like	that	.
+thank	you	.
+chris	anderson	:	question	for	you	,	kwabena	.
+do	you	put	together	in	your	mind	the	work	you	're	 do 	 ing 	 	,	the	future	of	africa	,	 th 	 is 	 	 con 	 ference 	 	--	what	 connect 	 ions 	 	can	we	make	,	if	any	,	between	them	?
+kwabena	boahen	:	 y 	 es 	 	,	like	i	 s 	 aid 	 	at	the	 begin 	 ning 	 	,
+i	got	my	first	computer	when	i	was	a	teenager	,	growing	up	in	accra	.
+and	i	had	 th 	 is 	 	gut	 re 	 action 	 	that	 th 	 is 	 	was	the	wrong	way	to	do	it	.
+it	was	 ver 	 y 	 	brute	force	;	it	was	 ver 	 y 	 	 in 	 elegant 	 	.
+i	do	n't	think	that	i	would	've	had	that	 re 	 action 	 	,	if	i	'd	grown	up	 read 	 ing 	 	all	 th 	 is 	 	science	fiction	,	 hear 	 ing 	 	about	rd	2d2	,	 what 	 ever 	 	it	was	 call 	 ed 	 	,	and	just	--	you	know	,	 buy 	 ing 	 	 in 	 to 	 	 th 	 is 	 	hype	about	 computer 	 s 	 	.
+i	was	coming	at	it	from	a	different	 per 	 spect 	 ive 	 	,	where	i	was	 br 	 ing 	 ing 	 	that	different	 per 	 spect 	 ive 	 	to	bear	on	the	problem	.
+and	i	think	a	lot	of	people	in	africa	have	 th 	 is 	 	different	 per 	 spect 	 ive 	 	,	and	i	think	that	's	going	to	impact	technology	.
+and	that	's	going	to	impact	how	it	's	going	to	evolve	.
+and	i	think	you	're	going	to	be	able	to	see	,	use	that	 in 	 fusion 	 	,	to	come	up	with	new	 thing 	 s 	 	,	 be 	 cause 	 	you	're	coming	from	a	different	 per 	 spect 	 ive 	 	.
+i	think	we	can	 con 	 tribute 	 	.	we	can	dream	like	 every 	 body 	 	else	.
+ca	:	 thank 	 s 	 	kwabena	,	that	was	 re 	 ally 	 	 interest 	 ing 	 	.
+thank	you	.
+

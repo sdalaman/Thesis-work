@@ -1,0 +1,188 @@
+how_en can_en we_en investigate_en this_en flora_en of_en viruses_en that_en surround_en us_en ,_en and_en aid_en medicine_en ?_en
+how_en can_en we_en turn_en our_en cumulative_en knowledge_en of_en virology_en into_en a_en simple_en ,_en hand_en -_en held_en ,_en single_en diagnostic_en assay_en ?_en
+i_en want_en to_en turn_en everything_en we_en know_en right_en now_en about_en detecting_en viruses_en and_en the_en spectrum_en of_en viruses_en that_en are_en out_en there_en into_en ,_en let_en 's_en say_en ,_en a_en small_en chip_en ._en
+when_en we_en started_en thinking_en about_en this_en project_en --_en how_en we_en would_en make_en a_en single_en diagnostic_en assay_en to_en screen_en for_en all_en pathogens_en simultaneously_en --_en well_en ,_en there_en 's_en some_en problems_en with_en this_en idea_en ._en
+first_en of_en all_en ,_en viruses_en are_en pretty_en complex_en ,_en but_en they_en 're_en also_en evolving_en very_en fast_en ._en
+this_en is_en a_en picornavirus_en ._en
+picornaviruses_en --_en these_en are_en things_en that_en include_en the_en common_en cold_en and_en polio_en ,_en things_en like_en this_en ._en
+you_en 're_en looking_en at_en the_en outside_en shell_en of_en the_en virus_en ,_en and_en the_en yellow_en color_en here_en are_en those_en parts_en of_en the_en virus_en that_en are_en evolving_en very_en ,_en very_en fast_en ,_en and_en the_en blue_en parts_en are_en not_en evolving_en very_en fast_en ._en
+when_en people_en think_en about_en making_en pan_en -_en viral_en detection_en reagents_en ,_en usually_en it_en 's_en the_en fast_en -_en evolving_en problem_en that_en 's_en an_en issue_en ,_en because_en how_en can_en we_en detect_en things_en if_en they_en 're_en always_en changing_en ?_en
+but_en evolution_en is_en a_en balance_en :_en where_en you_en have_en fast_en change_en ,_en you_en also_en have_en ultra_en -_en conservation_en --_en things_en that_en almost_en never_en change_en ._en
+and_en so_en we_en looked_en into_en this_en a_en little_en more_en carefully_en ,_en and_en i_en 'm_en going_en to_en show_en you_en data_en now_en ._en
+this_en is_en just_en some_en stuff_en you_en can_en do_en on_en the_en computer_en from_en the_en desktop_en ._en
+i_en took_en a_en bunch_en of_en these_en small_en picornaviruses_en ,_en like_en the_en common_en cold_en ,_en like_en polio_en and_en so_en on_en ,_en and_en i_en just_en broke_en them_en down_en into_en small_en segments_en ._en
+and_en so_en took_en this_en first_en example_en ,_en which_en is_en called_en coxsackievirus_en ,_en and_en just_en break_en it_en into_en small_en windows_en ._en
+and_en i_en 'm_en coloring_en these_en small_en windows_en blue_en if_en another_en virus_en shares_en an_en identical_en sequence_en in_en its_en genome_en to_en that_en virus_en ._en
+these_en sequences_en right_en up_en here_en --_en which_en do_en n't_en even_en code_en for_en protein_en ,_en by_en the_en way_en --_en are_en almost_en absolutely_en identical_en across_en all_en of_en these_en ,_en so_en i_en could_en use_en this_en sequence_en as_en a_en marker_en to_en detect_en a_en wide_en spectrum_en of_en viruses_en ,_en without_en having_en to_en make_en something_en individual_en ._en
+now_en ,_en over_en here_en there_en 's_en great_en diversity_en :_en that_en 's_en where_en things_en are_en evolving_en fast_en ._en
+down_en here_en you_en can_en see_en slower_en evolution_en :_en less_en diversity_en ._en
+now_en ,_en by_en the_en time_en we_en get_en out_en here_en to_en ,_en let_en 's_en say_en ,_en acute_en bee_en paralysis_en virus_en --_en probably_en a_en bad_en one_en to_en have_en if_en you_en 're_en a_en bee_en ---_en this_en virus_en shares_en almost_en no_en similarity_en to_en coxsackievirus_en ,_en but_en i_en can_en guarantee_en you_en that_en the_en sequences_en that_en are_en most_en conserved_en among_en these_en viruses_en on_en the_en right_en -_en hand_en of_en the_en screen_en are_en in_en identical_en regions_en right_en up_en here_en ._en
+and_en so_en we_en can_en encapsulate_en these_en regions_en of_en ultra_en -_en conservation_en through_en evolution_en --_en how_en these_en viruses_en evolved_en --_en by_en just_en choosing_en dna_en elements_en or_en rna_en elements_en in_en these_en regions_en to_en represent_en on_en our_en chip_en as_en detection_en reagents_en ._en
+ok_en ,_en so_en that_en 's_en what_en we_en did_en ,_en but_en how_en are_en we_en going_en to_en do_en that_en ?_en
+well_en ,_en for_en a_en long_en time_en ,_en since_en i_en was_en in_en graduate_en school_en ,_en i_en 've_en been_en messing_en around_en making_en dna_en chips_en --_en that_en is_en ,_en printing_en dna_en on_en glass_en ._en
+and_en that_en 's_en what_en you_en see_en here_en :_en these_en little_en salt_en spots_en are_en just_en dna_en tacked_en onto_en glass_en ,_en and_en so_en i_en can_en put_en thousands_en of_en these_en on_en our_en glass_en chip_en and_en use_en them_en as_en a_en detection_en reagent_en ._en
+we_en took_en our_en chip_en over_en to_en hewlett_en -_en packard_en and_en used_en their_en atomic_en force_en microscope_en on_en one_en of_en these_en spots_en ,_en and_en this_en is_en what_en you_en see_en :_en you_en can_en actually_en see_en the_en strands_en of_en dna_en lying_en flat_en on_en the_en glass_en here_en ._en
+so_en ,_en what_en we_en 're_en doing_en is_en just_en printing_en dna_en on_en glass_en --_en little_en flat_en things_en --_en and_en these_en are_en going_en to_en be_en markers_en for_en pathogens_en ._en
+ok_en ,_en i_en make_en little_en robots_en in_en lab_en to_en make_en these_en chips_en ,_en and_en i_en 'm_en really_en big_en on_en disseminating_en technology_en ._en
+if_en you_en 've_en got_en enough_en money_en to_en buy_en just_en a_en camry_en ,_en you_en can_en build_en one_en of_en these_en too_en ,_en and_en so_en we_en put_en a_en deep_en how_en -_en to_en guide_en on_en the_en web_en ,_en totally_en free_en ,_en with_en basically_en order_en -_en off_en -_en the_en -_en shelf_en parts_en ._en
+you_en can_en build_en a_en dna_en array_en machine_en in_en your_en garage_en ._en
+here_en 's_en the_en section_en on_en the_en all_en -_en important_en emergency_en stop_en switch_en ._en
+every_en important_en machine_en 's_en got_en to_en have_en a_en big_en red_en button_en ._en
+but_en really_en ,_en it_en 's_en pretty_en robust_en ._en
+you_en can_en actually_en be_en making_en dna_en chips_en in_en your_en garage_en and_en decoding_en some_en genetic_en programs_en pretty_en rapidly_en ._en it_en 's_en a_en lot_en of_en fun_en ._en
+and_en so_en what_en we_en did_en --_en and_en this_en is_en a_en really_en cool_en project_en --_en we_en just_en started_en by_en making_en a_en respiratory_en virus_en chip_en ._en
+i_en talked_en about_en that_en --_en you_en know_en ,_en that_en situation_en where_en you_en go_en into_en the_en clinic_en and_en you_en do_en n't_en get_en diagnosed_en ?_en
+well_en ,_en we_en just_en put_en basically_en all_en the_en human_en respiratory_en viruses_en on_en one_en chip_en ,_en and_en we_en threw_en in_en herpes_en virus_en for_en good_en measure_en --_en i_en mean_en ,_en why_en not_en ?_en
+the_en first_en thing_en you_en do_en as_en a_en scientist_en is_en ,_en you_en make_en sure_en stuff_en works_en ._en
+and_en so_en what_en we_en did_en is_en ,_en we_en take_en tissue_en culture_en cells_en and_en infect_en them_en with_en various_en viruses_en ,_en and_en we_en take_en the_en stuff_en and_en fluorescently_en label_en the_en nucleic_en acid_en ,_en the_en genetic_en material_en that_en comes_en out_en of_en these_en tissue_en culture_en cells_en --_en mostly_en viral_en stuff_en --_en and_en stick_en it_en on_en the_en array_en to_en see_en where_en it_en sticks_en ._en
+now_en ,_en if_en the_en dna_en sequences_en match_en ,_en they_en 'll_en stick_en together_en ,_en and_en so_en we_en can_en look_en at_en spots_en ._en
+and_en if_en spots_en light_en up_en ,_en we_en know_en there_en 's_en a_en certain_en virus_en in_en there_en ._en
+that_en 's_en what_en one_en of_en these_en chips_en really_en looks_en like_en ,_en and_en these_en red_en spots_en are_en ,_en in_en fact_en ,_en signals_en coming_en from_en the_en virus_en ._en
+and_en each_en spot_en represents_en a_en different_en family_en of_en virus_en or_en species_en of_en virus_en ._en
+and_en so_en ,_en that_en 's_en a_en hard_en way_en to_en look_en at_en things_en ,_en so_en i_en 'm_en just_en going_en to_en encode_en things_en as_en a_en little_en barcode_en ,_en grouped_en by_en family_en ,_en so_en you_en can_en see_en the_en results_en in_en a_en very_en intuitive_en way_en ._en
+what_en we_en did_en is_en ,_en we_en took_en tissue_en culture_en cells_en and_en infected_en them_en with_en adenovirus_en ,_en and_en you_en can_en see_en this_en little_en yellow_en barcode_en next_en to_en adenovirus_en ._en
+and_en ,_en likewise_en ,_en we_en infected_en them_en with_en parainfluenza_en -_en 3_en --_en that_en 's_en a_en paramyxovirus_en --_en and_en you_en see_en a_en little_en barcode_en here_en ._en
+and_en then_en we_en did_en respiratory_en syncytial_en virus_en ._en
+that_en 's_en the_en scourge_en of_en daycare_en centers_en everywhere_en --_en it_en 's_en like_en boogeremia_en ,_en basically_en ._en
+you_en can_en see_en that_en this_en barcode_en is_en the_en same_en family_en ,_en but_en it_en 's_en distinct_en from_en parainfluenza_en -_en 3_en ,_en which_en gives_en you_en a_en very_en bad_en cold_en ._en
+and_en so_en we_en 're_en getting_en unique_en signatures_en ,_en a_en fingerprint_en for_en each_en virus_en ._en
+polio_en and_en rhino_en :_en they_en 're_en in_en the_en same_en family_en ,_en very_en close_en to_en each_en other_en ._en
+rhino_en 's_en the_en common_en cold_en ,_en and_en you_en all_en know_en what_en polio_en is_en ,_en and_en you_en can_en see_en that_en these_en signatures_en are_en distinct_en ._en
+and_en kaposi_en 's_en sarcoma_en -_en associated_en herpes_en virus_en gives_en a_en nice_en signature_en down_en here_en ._en
+and_en so_en it_en is_en not_en any_en one_en stripe_en or_en something_en that_en tells_en me_en i_en have_en a_en virus_en of_en a_en particular_en type_en here_en ;_en it_en 's_en the_en barcode_en that_en in_en bulk_en represents_en the_en whole_en thing_en ._en
+all_en right_en ,_en i_en can_en see_en a_en rhinovirus_en --_en and_en here_en 's_en the_en blow_en -_en up_en of_en the_en rhinovirus_en 's_en little_en barcode_en --_en but_en what_en about_en different_en rhinoviruses_en ?_en
+how_en do_en i_en know_en which_en rhinovirus_en i_en have_en ?_en
+there_en 're_en 102_en known_en variants_en of_en the_en common_en cold_en ,_en and_en there_en 're_en only_en 102_en because_en people_en got_en bored_en collecting_en them_en :_en there_en are_en just_en new_en ones_en every_en year_en ._en
+and_en so_en ,_en here_en are_en four_en different_en rhinoviruses_en ,_en and_en you_en can_en see_en ,_en even_en with_en your_en eye_en ,_en without_en any_en fancy_en computer_en pattern_en -_en matching_en recognition_en software_en algorithms_en ,_en that_en you_en can_en distinguish_en each_en one_en of_en these_en barcodes_en from_en each_en other_en ._en
+now_en ,_en this_en is_en kind_en of_en a_en cheap_en shot_en ,_en because_en i_en know_en what_en the_en genetic_en sequence_en of_en all_en these_en rhinoviruses_en is_en ,_en and_en i_en in_en fact_en designed_en the_en chip_en expressly_en to_en be_en able_en to_en tell_en them_en apart_en ,_en but_en what_en about_en rhinoviruses_en that_en have_en never_en seen_en a_en genetic_en sequencer_en ?_en
+we_en do_en n't_en know_en what_en the_en sequence_en is_en ;_en just_en pull_en them_en out_en of_en the_en field_en ._en
+so_en ,_en here_en are_en four_en rhinoviruses_en we_en never_en knew_en anything_en about_en --_en no_en one_en 's_en ever_en sequenced_en them_en --_en and_en you_en can_en also_en see_en that_en you_en get_en unique_en and_en distinguishable_en patterns_en ._en
+you_en can_en imagine_en building_en up_en some_en library_en ,_en whether_en real_en or_en virtual_en ,_en of_en fingerprints_en of_en essentially_en every_en virus_en ._en
+but_en that_en 's_en ,_en again_en ,_en shooting_en fish_en in_en a_en barrel_en ,_en you_en know_en ,_en right_en ?_en
+you_en have_en tissue_en culture_en cells_en ._en there_en are_en a_en ton_en of_en viruses_en ._en
+what_en about_en real_en people_en ?_en
+you_en ca_en n't_en control_en real_en people_en ,_en as_en you_en probably_en know_en ._en
+you_en have_en no_en idea_en what_en someone_en 's_en going_en to_en cough_en into_en a_en cup_en ,_en and_en it_en 's_en probably_en really_en complex_en ,_en right_en ?_en
+it_en could_en have_en lots_en of_en bacteria_en ,_en it_en could_en have_en more_en than_en one_en virus_en ,_en and_en it_en certainly_en has_en host_en genetic_en material_en ._en
+so_en how_en do_en we_en deal_en with_en this_en ?_en
+and_en how_en do_en we_en do_en the_en positive_en control_en here_en ?_en
+well_en ,_en it_en 's_en pretty_en simple_en ._en
+that_en 's_en me_en ,_en getting_en a_en nasal_en lavage_en ._en
+and_en the_en idea_en is_en ,_en let_en 's_en experimentally_en inoculate_en people_en with_en virus_en ._en
+this_en is_en all_en irb_en -_en approved_en ,_en by_en the_en way_en ;_en they_en got_en paid_en ._en
+and_en basically_en we_en experimentally_en inoculate_en people_en with_en the_en common_en cold_en virus_en ._en
+or_en ,_en even_en better_en ,_en let_en 's_en just_en take_en people_en right_en out_en of_en the_en emergency_en room_en --_en undefined_en ,_en community_en -_en acquired_en respiratory_en tract_en infections_en ._en
+you_en have_en no_en idea_en what_en walks_en in_en through_en the_en door_en ._en
+so_en ,_en let_en 's_en start_en off_en with_en the_en positive_en control_en first_en ,_en where_en we_en know_en the_en person_en was_en healthy_en ._en
+they_en got_en a_en shot_en of_en virus_en up_en the_en nose_en ,_en let_en 's_en see_en what_en happens_en ._en
+day_en zero_en :_en nothing_en happening_en ._en
+they_en 're_en healthy_en ;_en they_en 're_en clean_en --_en it_en 's_en amazing_en ._en
+actually_en ,_en we_en thought_en the_en nasal_en tract_en might_en be_en full_en of_en viruses_en even_en when_en you_en 're_en walking_en around_en healthy_en ._en
+it_en 's_en pretty_en clean_en ._en if_en you_en 're_en healthy_en ,_en you_en 're_en pretty_en healthy_en ._en
+day_en two_en :_en we_en get_en a_en very_en robust_en rhinovirus_en pattern_en ,_en and_en it_en 's_en very_en similar_en to_en what_en we_en get_en in_en the_en lab_en doing_en our_en tissue_en culture_en experiment_en ._en
+so_en that_en 's_en great_en ,_en but_en again_en ,_en cheap_en shot_en ,_en right_en ?_en
+we_en put_en a_en ton_en of_en virus_en up_en this_en guy_en 's_en nose_en ._en so_en --_en --_en i_en mean_en ,_en we_en wanted_en it_en to_en work_en ._en he_en really_en had_en a_en cold_en ._en
+so_en ,_en how_en about_en the_en people_en who_en walk_en in_en off_en the_en street_en ?_en
+here_en are_en two_en individuals_en represented_en by_en their_en anonymous_en id_en codes_en ._en
+they_en both_en have_en rhinoviruses_en ;_en we_en 've_en never_en seen_en this_en pattern_en in_en lab._en
+we_en sequenced_en part_en of_en their_en viruses_en ;_en they_en 're_en new_en rhinoviruses_en no_en one_en 's_en actually_en even_en seen_en ._en
+remember_en ,_en our_en evolutionary_en -_en conserved_en sequences_en we_en 're_en using_en on_en this_en array_en allow_en us_en to_en detect_en even_en novel_en or_en uncharacterized_en viruses_en ,_en because_en we_en pick_en what_en is_en conserved_en throughout_en evolution_en ._en
+here_en 's_en another_en guy_en ._en you_en can_en play_en the_en diagnosis_en game_en yourself_en here_en ._en
+these_en different_en blocks_en represent_en the_en different_en viruses_en in_en this_en paramyxovirus_en family_en ,_en so_en you_en can_en kind_en of_en go_en down_en the_en blocks_en and_en see_en where_en the_en signal_en is_en ._en
+well_en ,_en does_en n't_en have_en canine_en distemper_en ;_en that_en 's_en probably_en good_en ._en
+but_en by_en the_en time_en you_en get_en to_en block_en nine_en ,_en you_en see_en that_en respiratory_en syncytial_en virus_en ._en
+maybe_en they_en have_en kids_en ._en and_en then_en you_en can_en see_en ,_en also_en ,_en the_en family_en member_en that_en 's_en related_en :_en rsvb_en is_en showing_en up_en here_en ._en
+so_en ,_en that_en 's_en great_en ._en
+here_en 's_en another_en individual_en ,_en sampled_en on_en two_en separate_en days_en --_en repeat_en visits_en to_en the_en clinic_en ._en
+this_en individual_en has_en parainfluenza_en -_en 1_en ,_en and_en you_en can_en see_en that_en there_en 's_en a_en little_en stripe_en over_en here_en for_en sendai_en virus_en :_en that_en 's_en mouse_en parainfluenza_en ._en
+the_en genetic_en relationships_en are_en very_en close_en there_en ._en that_en 's_en a_en lot_en of_en fun_en ._en
+so_en ,_en we_en built_en out_en the_en chip_en ._en
+we_en made_en a_en chip_en that_en has_en every_en known_en virus_en ever_en discovered_en on_en it_en ._en
+why_en not_en ?_en every_en plant_en virus_en ,_en every_en insect_en virus_en ,_en every_en marine_en virus_en ._en
+everything_en that_en we_en could_en get_en out_en of_en genbank_en --_en that_en is_en ,_en the_en national_en repository_en of_en sequences_en ._en
+now_en we_en 're_en using_en this_en chip_en ._en and_en what_en are_en we_en using_en it_en for_en ?_en
+well_en ,_en first_en of_en all_en ,_en when_en you_en have_en a_en big_en chip_en like_en this_en ,_en you_en need_en a_en little_en bit_en more_en informatics_en ,_en so_en we_en designed_en the_en system_en to_en do_en automatic_en diagnosis_en ._en
+and_en the_en idea_en is_en that_en we_en simply_en have_en virtual_en patterns_en ,_en because_en we_en 're_en never_en going_en to_en get_en samples_en of_en every_en virus_en --_en it_en would_en be_en virtually_en impossible_en ._en but_en we_en can_en get_en virtual_en patterns_en ,_en and_en compare_en them_en to_en our_en observed_en result_en --_en which_en is_en a_en very_en complex_en mixture_en --_en and_en come_en up_en with_en some_en sort_en of_en score_en of_en how_en likely_en it_en is_en this_en is_en a_en rhinovirus_en or_en something_en ._en
+and_en this_en is_en what_en this_en looks_en like_en ._en
+if_en ,_en for_en example_en ,_en you_en used_en a_en cell_en culture_en that_en 's_en chronically_en infected_en with_en papilloma_en ,_en you_en get_en a_en little_en computer_en readout_en here_en ,_en and_en our_en algorithm_en says_en it_en 's_en probably_en papilloma_en type_en 18_en ._en
+and_en that_en is_en ,_en in_en fact_en ,_en what_en these_en particular_en cell_en cultures_en are_en chronically_en infected_en with_en ._en
+so_en let_en 's_en do_en something_en a_en little_en bit_en harder_en ._en
+we_en put_en the_en beeper_en in_en the_en clinic_en ._en
+when_en somebody_en shows_en up_en ,_en and_en the_en hospital_en does_en n't_en know_en what_en to_en do_en because_en they_en ca_en n't_en diagnose_en it_en ,_en they_en call_en us_en ._en
+that_en 's_en the_en idea_en ,_en and_en we_en 're_en setting_en this_en up_en in_en the_en bay_en area_en ._en
+and_en so_en ,_en this_en case_en report_en happened_en three_en weeks_en ago_en ._en
+we_en have_en a_en 28_en -_en year_en -_en old_en healthy_en woman_en ,_en no_en travel_en history_en ,_en [_en unclear_en ]_en ,_en does_en n't_en smoke_en ,_en does_en n't_en drink_en ._en
+10_en -_en day_en history_en of_en fevers_en ,_en night_en sweats_en ,_en bloody_en sputum_en --_en she_en 's_en coughing_en up_en blood_en --_en muscle_en pain_en ._en
+she_en went_en to_en the_en clinic_en ,_en and_en they_en gave_en her_en antibiotics_en and_en then_en sent_en her_en home_en ._en
+she_en came_en back_en after_en ten_en days_en of_en fever_en ,_en right_en ?_en still_en has_en the_en fever_en ,_en and_en she_en 's_en hypoxic_en --_en she_en does_en n't_en have_en much_en oxygen_en in_en her_en lungs_en ._en
+they_en did_en a_en ct_en scan_en ._en
+a_en normal_en lung_en is_en all_en sort_en of_en dark_en and_en black_en here_en ._en
+all_en this_en white_en stuff_en --_en it_en 's_en not_en good_en ._en
+this_en sort_en of_en tree_en and_en bud_en formation_en indicates_en there_en 's_en inflammation_en ;_en there_en 's_en likely_en to_en be_en infection_en ._en
+ok_en ._en so_en ,_en the_en patient_en was_en treated_en then_en with_en a_en third_en -_en generation_en cephalosporin_en antibiotic_en and_en doxycycline_en ,_en and_en on_en day_en three_en ,_en it_en did_en n't_en help_en :_en she_en had_en progressed_en to_en acute_en failure_en ._en
+they_en had_en to_en intubate_en her_en ,_en so_en they_en put_en a_en tube_en down_en her_en throat_en and_en they_en began_en to_en mechanically_en ventilate_en her_en ._en
+she_en could_en no_en longer_en breathe_en for_en herself_en ._en
+what_en to_en do_en next_en ?_en do_en n't_en know_en ._en
+switch_en antibiotics_en :_en so_en they_en switched_en to_en another_en antibiotic_en ,_en tamiflu_en ._en
+it_en 's_en not_en clear_en why_en they_en thought_en she_en had_en the_en flu_en ,_en but_en they_en switched_en to_en tamiflu_en ._en
+and_en on_en day_en six_en ,_en they_en basically_en threw_en in_en the_en towel_en ._en
+you_en do_en an_en open_en lung_en biopsy_en when_en you_en 've_en got_en no_en other_en options_en ._en
+there_en 's_en an_en eight_en percent_en mortality_en rate_en with_en just_en doing_en this_en procedure_en ,_en and_en so_en basically_en --_en and_en what_en do_en they_en learn_en from_en it_en ?_en
+you_en 're_en looking_en at_en her_en open_en lung_en biopsy_en ._en
+and_en i_en 'm_en no_en pathologist_en ,_en but_en you_en ca_en n't_en tell_en much_en from_en this_en ._en
+all_en you_en can_en tell_en is_en ,_en there_en 's_en a_en lot_en of_en swelling_en :_en bronchiolitis_en ._en
+it_en was_en "_en unrevealing_en "_en :_en that_en 's_en the_en pathologist_en 's_en report_en ._en
+and_en so_en ,_en what_en did_en they_en test_en her_en for_en ?_en
+they_en have_en their_en own_en tests_en ,_en of_en course_en ,_en and_en so_en they_en tested_en her_en for_en over_en 70_en different_en assays_en ,_en for_en every_en sort_en of_en bacteria_en and_en fungus_en and_en viral_en assay_en you_en can_en buy_en off_en the_en shelf_en :_en sars_en ,_en metapneumovirus_en ,_en hiv_en ,_en rsv_en --_en all_en these_en ._en
+everything_en came_en back_en negative_en ,_en over_en 100,000_en dollars_en worth_en of_en tests_en ._en
+i_en mean_en ,_en they_en went_en to_en the_en max_en for_en this_en woman_en ._en
+and_en basically_en on_en hospital_en day_en eight_en ,_en that_en 's_en when_en they_en called_en us_en ._en
+they_en gave_en us_en endotracheal_en aspirate_en --_en you_en know_en ,_en a_en little_en fluid_en from_en the_en throat_en ,_en from_en this_en tube_en that_en they_en got_en down_en there_en --_en and_en they_en gave_en us_en this_en ._en
+we_en put_en it_en on_en the_en chip_en ;_en what_en do_en we_en see_en ?_en well_en ,_en we_en saw_en parainfluenza_en -_en 4_en ._en
+well_en ,_en what_en the_en hell_en 's_en parainfluenza_en -_en 4_en ?_en
+no_en one_en tests_en for_en parainfluenza_en -_en 4_en ._en no_en one_en cares_en about_en it_en ._en
+in_en fact_en ,_en it_en 's_en not_en even_en really_en sequenced_en that_en much_en ._en
+there_en 's_en just_en a_en little_en bit_en of_en it_en sequenced_en ._en
+there_en 's_en almost_en no_en epidemiology_en or_en studies_en on_en it_en ._en
+no_en one_en would_en even_en consider_en it_en ,_en because_en no_en one_en had_en a_en clue_en that_en it_en could_en cause_en respiratory_en failure_en ._en
+and_en why_en is_en that_en ?_en just_en lore_en ._en there_en 's_en no_en data_en --_en no_en data_en to_en support_en whether_en it_en causes_en severe_en or_en mild_en disease_en ._en
+clearly_en ,_en we_en have_en a_en case_en of_en a_en healthy_en person_en that_en 's_en going_en down_en ._en
+ok_en ,_en that_en 's_en one_en case_en report_en ._en
+i_en 'm_en going_en to_en tell_en you_en one_en last_en thing_en in_en the_en last_en two_en minutes_en that_en 's_en unpublished_en --_en it_en 's_en going_en to_en come_en out_en tomorrow_en --_en and_en it_en 's_en an_en interesting_en case_en of_en how_en you_en might_en use_en this_en chip_en to_en find_en something_en new_en and_en open_en a_en new_en door_en ._en
+prostate_en cancer_en ._en i_en do_en n't_en need_en to_en give_en you_en many_en statistics_en about_en prostate_en cancer_en ._en most_en of_en you_en already_en know_en it_en :_en third_en leading_en cause_en of_en cancer_en deaths_en in_en the_en u.s._en
+lots_en of_en risk_en factors_en ,_en but_en there_en is_en a_en genetic_en predisposition_en to_en prostate_en cancer_en ._en
+for_en maybe_en about_en 10_en percent_en of_en prostate_en cancer_en ,_en there_en are_en folks_en that_en are_en predisposed_en to_en it_en ._en
+and_en the_en first_en gene_en that_en was_en mapped_en in_en association_en studies_en for_en this_en ,_en early_en -_en onset_en prostate_en cancer_en ,_en was_en this_en gene_en called_en rnasel_en ._en
+what_en is_en that_en ?_en it_en 's_en an_en antiviral_en defense_en enzyme_en ._en
+so_en ,_en we_en 're_en sitting_en around_en and_en thinking_en ,_en "_en why_en would_en men_en who_en have_en the_en mutation_en --_en a_en defect_en in_en an_en antiviral_en defense_en system_en --_en get_en prostate_en cancer_en ?_en
+it_en does_en n't_en make_en sense_en --_en unless_en ,_en maybe_en ,_en there_en 's_en a_en virus_en ?_en "_en
+so_en ,_en we_en put_en tumors_en ---_en and_en now_en we_en have_en over_en 100_en tumors_en --_en on_en our_en array_en ._en
+and_en we_en know_en who_en 's_en got_en defects_en in_en rnasel_en and_en who_en does_en n't_en ._en
+and_en i_en 'm_en showing_en you_en the_en signal_en from_en the_en chip_en here_en ,_en and_en i_en 'm_en showing_en you_en for_en the_en block_en of_en retroviral_en oligos_en ._en
+and_en what_en i_en 'm_en telling_en you_en here_en from_en the_en signal_en ,_en is_en that_en men_en who_en have_en a_en mutation_en in_en this_en antiviral_en defense_en enzyme_en ,_en and_en have_en a_en tumor_en ,_en often_en have_en --_en 40_en percent_en of_en the_en time_en --_en a_en signature_en which_en reveals_en a_en new_en retrovirus_en ._en
+ok_en ,_en that_en 's_en pretty_en wild_en ._en what_en is_en it_en ?_en
+so_en ,_en we_en clone_en the_en whole_en virus_en ._en
+first_en of_en all_en ,_en i_en 'll_en tell_en you_en that_en a_en little_en automated_en prediction_en told_en us_en it_en was_en very_en similar_en to_en a_en mouse_en virus_en ._en
+but_en that_en does_en n't_en tell_en us_en too_en much_en ,_en so_en we_en actually_en clone_en the_en whole_en thing_en ._en
+and_en the_en viral_en genome_en i_en 'm_en showing_en you_en right_en here_en ?_en
+it_en 's_en a_en classic_en gamma_en retrovirus_en ,_en but_en it_en 's_en totally_en new_en ;_en no_en one_en 's_en ever_en seen_en it_en before_en ._en
+its_en closest_en relative_en is_en ,_en in_en fact_en ,_en from_en mice_en ,_en and_en so_en we_en would_en call_en this_en a_en xenotropic_en retrovirus_en ,_en because_en it_en 's_en infecting_en a_en species_en other_en than_en mice_en ._en
+and_en this_en is_en a_en little_en phylogenetic_en tree_en to_en see_en how_en it_en 's_en related_en to_en other_en viruses_en ._en
+we_en 've_en done_en it_en for_en many_en patients_en now_en ,_en and_en we_en can_en say_en that_en they_en 're_en all_en independent_en infections_en ._en
+they_en all_en have_en the_en same_en virus_en ,_en but_en they_en 're_en different_en enough_en that_en there_en 's_en reason_en to_en believe_en that_en they_en 've_en been_en independently_en acquired_en ._en
+is_en it_en really_en in_en the_en tissue_en ?_en and_en i_en 'll_en end_en up_en with_en this_en :_en yes_en ._en
+we_en take_en slices_en of_en these_en biopsies_en of_en tumor_en tissue_en and_en use_en material_en to_en actually_en locate_en the_en virus_en ,_en and_en we_en find_en cells_en here_en with_en viral_en particles_en in_en them_en ._en
+these_en guys_en really_en do_en have_en this_en virus_en ._en
+does_en this_en virus_en cause_en prostate_en cancer_en ?_en
+nothing_en i_en 'm_en saying_en here_en implies_en causality_en ._en i_en do_en n't_en know_en ._en
+is_en it_en a_en link_en to_en oncogenesis_en ?_en i_en do_en n't_en know_en ._en
+is_en it_en the_en case_en that_en these_en guys_en are_en just_en more_en susceptible_en to_en viruses_en ?_en
+could_en be_en ._en and_en it_en might_en have_en nothing_en to_en do_en with_en cancer_en ._en
+but_en now_en it_en 's_en a_en door_en ._en
+we_en have_en a_en strong_en association_en between_en the_en presence_en of_en this_en virus_en and_en a_en genetic_en mutation_en that_en 's_en been_en linked_en to_en cancer_en ._en
+that_en 's_en where_en we_en 're_en at_en ._en
+so_en ,_en it_en opens_en up_en more_en questions_en than_en it_en answers_en ,_en i_en 'm_en afraid_en ,_en but_en that_en 's_en what_en ,_en you_en know_en ,_en science_en is_en really_en good_en at_en ._en
+this_en was_en all_en done_en by_en folks_en in_en the_en lab_en --_en i_en cannot_en take_en credit_en for_en most_en of_en this_en ._en
+this_en is_en a_en collaboration_en between_en myself_en and_en don_en ._en
+this_en is_en the_en guy_en who_en started_en the_en project_en in_en my_en lab_en ,_en and_en this_en is_en the_en guy_en who_en 's_en been_en doing_en prostate_en stuff_en ._en
+thank_en you_en very_en much_en ._en

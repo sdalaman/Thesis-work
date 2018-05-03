@@ -1,0 +1,228 @@
+right when i was 15 was when i first got interested in solar energy .
+my family had moved from fort lee , new jersey to california , and we moved from the snow to lots of heat , and gas lines .
+there was gas rationing in 1973 .
+the energy crisis was in full bore . i started reading popular science magazine , and i got really excited about the potential of solar energy to try and solve that crisis .
+i had just taken trigonometry in high school , i learned about the parabola and how it could concentrate rays of light to a single focus .
+that got me very excited .
+and i really felt that there would be potential to build some kind of thing that could concentrate light .
+so , i started this company called solar devices .
+and this was a company where i built parabolas , i took metal shop , and i remember walking into metal shop building parabolas and stirling engines .
+and i was building this stirling engine over on the lathe , and all the biker guys -- motorcycle guys -- came over and said , " you 're building a bong , are n't you ? "
+and i said , " no , it 's a stirling engine . it really is . "
+but they did n't believe me .
+i sold the plans for this engine and for this dish in the back of popular science magazine , for four dollars each .
+and i earned enough money to pay for my first year of caltech .
+it was a really big excitement for me to get into caltech .
+and my first year at caltech , i continued the business .
+but then , in the second year of caltech , they started grading .
+the whole first year was pass / fail , but the second year was graded .
+i was n't able to keep up with the business , and i ended up with a 25 - year detour .
+my dream had been to convert solar energy at a very practical cost , but then i had this big detour .
+first , the coursework at caltech .
+then , when i graduated from caltech , the ibm p.c. came out , and i got addicted to the ibm p.c. in 1981 .
+and then in 1983 , lotus 1-2-3 came out , and i was completely blown away by lotus 1-2-3 .
+i began operating my business with 1-2-3 , began writing add - ins for 1-2-3 , wrote a natural language interface to 1-2-3 .
+i started an educational software company after i joined lotus , and then i started idealab so i could have a roof under which i could build multiple companies in succession
+then , much much later -- in 2000 , very recently -- the new california energy crisis -- or what was purported to be a big energy crisis -- was coming .
+and i was trying to figure if there was some way we could build something that would capitalize on that and try and get people back - up energy , in case the crisis really came .
+and i started looking at how we could build battery back - up systems that could give people five hours , 10 hours , maybe even a full day , or three days ' worth of back - up power .
+i 'm glad you heard earlier today , batteries are unbelievably energy -- lack of density compared to fuel .
+so much more energy can be stored with fuel than with batteries .
+you 'd have to fill your entire parking space of one garage space just to give yourself four hours of battery back - up .
+and i concluded , after researching every other technology that we could deploy for storing energy -- flywheels , different formulations of batteries -- it just was n't practical to store energy .
+so what about making energy ?
+maybe we could make energy .
+i tried to figure out -- maybe solar 's become attractive .
+it 's been 25 years since i was doing this , let me go back and look at what 's been happening with solar cells .
+and the price had gone down from 10 dollars a watt to about four or five dollars a watt , but it stabilized .
+and it really needed to get much lower than that to be cost effective .
+i studied all the new things that had happened in solar cells , and was trying to look for ways we could innovate and make solar cells more inexpensively .
+there are a lot of new things that are happening to do that , but fundamentally the process requires a tremendous amount of energy .
+some people even say it takes more energy to make a solar cell than it will give out in its entire life .
+hopefully , if we can reduce the amount of energy it takes to make the cells , that will become more practical .
+but right now , you pretty much have to take silicon , put it in an oven at 1600 degrees fahrenheit for 17 hours , to make the cells .
+a lot of people are working on things to try and reduce that , but i did n't have anything to contribute in that area .
+so i tried to figure out what other way could we try and make cost - effective solar electricity .
+so i thought of an idea -- what if we collect the sun with a large reflector --
+like i had been thinking about way back when , when i was in high school --
+but maybe with modern technology we could make a cheaper , large collector , concentrate it to a small converter , and then the conversion device would n't have to be as expensive , because it 's much smaller , rather than solar cells , which have to be covering the entire surface area that you want to gather sun from .
+this seemed practical now , because a lot of new technologies had come in the 25 years since i had last looked at it .
+first of all , there was a lot of new manufacturing techniques , not to mention really cheap miniature motors -- brushless motors , servo motors , stepper motors , that are used in printers and scanners and things like that .
+so , that 's a breakthrough .
+of course , inexpensive microprocessors and then a very important breakthrough -- genetic algorithms .
+i 'll be very short on genetic algorithms .
+it 's a powerful way of solving intractable problems using natural selection .
+you take a problem that you ca n't solve with a pure mathematical answer , you build an evolutionary system to try multiple tries at guessing , you add sex -- where you take half of one solution and half of another and then make new mutations -- and you use natural selection to kill off not as good solutions .
+usually , with a genetic algorithm on a computer today , with a three gigahertz processor you can solve many , many formerly intractable problems in just a matter of minutes .
+we tried to come up with a way to use genetic algorithms to create a new type of concentrator .
+and i 'll show you what we came up with .
+traditionally , concentrators look like this .
+those shapes are parabolas .
+they take all the parallel incoming rays and focus it to a single spot .
+they have to track the sun , because they have to be pointing directly at the sun.
+they usually have about a one degree acceptance angle ,
+meaning once they 're more than about a degree off , none of the sunlight rays will hit the focus .
+so we tried to come up with a way of making a non - tracking collector , a collector that would gather much more than one degree of light , with no moving parts .
+so we created this genetic algorithm to try this out , we made a model in xl of a multi - surface reflector , and an amazing thing evolved , literally evolved , from trying a billion cycles , a billion different attempts , with a fitness function that defined how can you collect the most light , from the most angles , over a day , from the sun.
+and this is the shape that evolved .
+it 's this non - tracking collector with these six tuba - like horns , and each of them collect light in the following way -- if the sunlight strikes right here , it might bounce right to the center , the hot spot , directly , but if the sun is off - axis and comes from the side , it might hit two places and take two bounces .
+so for direct light , it takes only one bounce , for off - axis light it might take two , and for extreme off - axis , it might take three .
+your efficiency goes down with more bounces , because you lose about 10 percent with each bounce ,
+but this allowed us to collect light from a plus or minus 25 degree angle .
+so , about two and a half hours of the day we could collect with a stationary component .
+solar cells collect light for four and a half hours though .
+on an average adjusted day , a solar cell --
+because the sun 's moving across the sky , the solar cell is going down with a sine wave function of performance at the off - axis angles .
+it collects about four and a half average hours of sunlight a day .
+so , even this , although it was great with no moving parts -- we could achieve high temperatures -- was n't enough .
+we needed to beat solar cells .
+so we took a look at another idea .
+we looked at a way to break up a parabola into individual petals that would track .
+so what you see here is 12 separate petals , that each could be controlled with individual microprocessors that would only cost a dollar .
+you can buy a two megahertz microprocessor for a dollar now .
+and you can buy stepper motors that pretty much never wear out because they have no brushes , for a dollar .
+we can control all 12 of these petals for under 50 dollars and what this would allow us to do is not have to move the focus any more , but only move the petals .
+the whole system would have a much lower profile , but also we could gather sunlight for six and a half to seven hours a day .
+now that we have concentrated sunlight , what are we going to put at the center to convert sunlight to electricity ?
+so we tried to look at all the different heat engines that have been used in history to try and convert sunlight to electricity , or heat to electricity .
+and one of the great ones of all time , james watt 's steam engine of 1788 was a major , major breakthrough .
+james watt did n't actually invent the steam engine , he just refined it .
+but , his refinements were incredible .
+he added new linear motion guides to the pistons , he added a condenser to cool the steam outside the cylinder , he made the engine double - acting so it had double the power .
+those were major breakthroughs .
+i mean , all of the improvements he made --
+and it 's justifiable that our measure of energy , the watt , today is named after him .
+so we looked at this engine , and this had some potential .
+steam engines are dangerous , and they had tremendous impact on the world , as you know -- industrial revolution and ships and locomotives .
+but they 're usually good to be large , so they 're not good for distributed power generation .
+but they 're also very high pressure , so they 're dangerous .
+another type of engine is the hot air engine .
+and the hot air engine also was not invented by robert stirling , but robert stirling came along in 1816 and radically improved it .
+this engine , because it was so interesting -- it only worked on air , no steam -- has led to hundreds of creative designs over the years that use the stirling engine principle .
+but after the stirling engine , otto came along , and also , he did n't invent the internal combustion engine , he just refined it .
+he showed it in paris in 1867 , and it was a major achievement because it brought the power density of the engine way up .
+you could now get a lot more power in a lot smaller space , and that allowed the engine to be used for mobile applications .
+so , once you have mobility , now you 're making a lot of engines because you 've got lots of units , as opposed to steam ships or big factories where you 're not making as many units , so this was the engine that ended up benefiting from mass production where all the other engines did n't benefit .
+so , because it went into mass production , costs were reduced , 100 years of refinement , emissions were reduced , tremendous production value .
+there have been hundreds of millions of internal combustion engines built , compared to thousands of stirling engines built .
+and not nearly as many small steam engines being built anymore , only large ones for big operations .
+so after looking at these three , and 47 others , we concluded that the stirling engine would be the best one to use .
+i want to give you a brief explanation of how we looked at it and how it works .
+so we tried to look at the stirling engine in a new way , because it was practical -- weight no longer mattered for our application
+the internal combustion engine took off because weight mattered because you were moving around .
+but if you 're trying to generate solar energy in a static place the weight does n't matter so much .
+the other thing we discovered is that efficiency does n't matter so much if your energy source is free .
+normally , efficiency is crucial because the fuel cost of your engine over its life dwarfs the cost of the engine .
+but if your fuel source is free , then the only thing that matters is the up - front capital cost of the engine .
+so you do n't want to optimize for efficiency , you want to optimize for power per dollar .
+so using that new twist , with the new criteria , we thought we could re - look at the stirling engine , and also bring genetic algorithms in .
+basically , robert stirling did n't have gordon moore before him to get us three gigahertz of processor power .
+so we took the same genetic algorithm that we used earlier to make that concentrator , which did n't work out for us , to optimize the stirling engine , and make its design sizes and all of its dimensions the exact optimum to get the most power per dollar , irrespective of weight , irrespective of size , to get the most conversion of solar energy , because the sun is free .
+and that 's the process we took -- let me show you how the engine works .
+the simplest heat engine , or hot air engine , of all time would be this -- take a box , a steel canister , with a piston .
+put a flame under it , the piston moves up .
+take it off the flame and pour water on it , or let it cool down , the piston moves down .
+that 's a heat engine .
+that 's basically the most fundamental heat engine you could possibly have .
+the problem is the efficiency is one hundredth of one percent , because you 're heating all the metal of the chamber and then cooling all the metal of the chamber each time .
+and you 're only getting power from the air that 's heating at the same time , but you 're wasting all the energy heating the metal and cooling the metal .
+so someone came up with a very clever idea ,
+to -- instead of heating the whole cylinder and cooling the whole cylinder , what about if you put a displacer inside -- a little thing that shuttles the air back and forth .
+you move that up and down with a little bit of energy but now you 're only shifting the air down to the hot end and up to the cold end , down to the hot end and up to the cold end .
+so , now you 're not alternately heating and cooling the metal , you 're just alternately heating and cooling the air .
+that allows you to get the efficiency up from a hundredth of a percent to about two percent .
+and then robert stirling came along with this genius idea , which was , well i 'm still not heating the metal now , with this kind of engine , but i 'm still reheating all the air .
+i 'm still heating the air every time and cooling the air every time .
+what about if i put a thermal sponge in the middle , in the passageway between where the air has to move between hot and cold ?
+so he made fine wires , and cracked glass , and all different kinds of materials to be a heat sponge .
+so when the air pushes up to go from the hot end to the cold end , it puts some heat into the sponge .
+and then when the air comes back after it 's been cooled it picks up that heat again .
+so you 're reusing your energy five or six times , and that brings the efficiency up between 30 and 40 percent
+it 's a little known , but brilliant , genius invention of robert stirling that takes the hot air engine from being somewhat impractical -- like i found out when i made the real simple version in high school -- to very potentially possible , once you get the efficiency up , if you can design this to be low enough cost .
+so we really set out on a path to try and make the lowest cost possible .
+we built a huge mathematical model of how a stirling engine works .
+we applied the genetic algorithm .
+we got the results from that for the optimal engine .
+we built engines -- so we built 100 different engines over the last two years .
+we measured each one , we readjusted the model to what we measured , and then we led that to the current prototype .
+it led to a very compact , inexpensive engine , and this is what the engine looks like .
+let me show you what it looks like in real life .
+so this is the engine .
+it 's just a small cylinder down here which holds the generator inside and all the linkage and it 's the hot cap -- the hot cylinder on the top -- this part gets hot , this part is cool , and electricity comes out .
+the exact converse is also true .
+if you put electricity in , this will get hot and this will get cold , you get refrigeration .
+so it 's a complete reversible cycle , a very efficient cycle , and quite a simple thing to make .
+so now you put the two things together .
+so you have the engine , now what if you combine the petals and the engine in the center ?
+the petals track and the engine gets the concentrated sunlight , take that heat and turn it into electricity .
+this is what the first prototype of our system looked like together with the petals and the engine in the center .
+this is being run out in the sun , and now i want to show you what the actual thing looks like .
+thank you .
+so this is a unit with the 12 petals
+these petals cost about a dollar each -- they 're lightweight , injection molded plastic , aluminized .
+the mechanism to control each petal is below there with a microprocessor on each one .
+there are thermocouples on the engine -- little sensors that detect the heat when the sunlight strikes them .
+each petal adjusts itself separately to keep the highest temperature on it .
+when the sun comes out in the morning , the petals will seek the sun , find it by searching for the highest temperature
+about a minute and a half or two minutes after the rays are striking the hot cap the engine will be warm enough to start and then the engine will generate electricity for about six and a half hours a day -- six and a half to seven hours as the sun moves across the sky
+a critical part that we can take advantage of is that we have these inexpensive microprocessors and each one of these petals are autonomous , and each one of these petals figures out where the sun is with no user set - up .
+so you do n't have to tell what latitude , longitude you 're at , you do n't have to tell what your roof slope angle is , you do n't have to tell what orientation .
+it does n't really care .
+what it does is it searches to find the hottest spot , it searches again a half an hour later , it searches again a day later , it searches again a month later .
+it basically figures out where on earth you are by watching the direction the sun moves , so you do n't have to actually enter anything about that .
+the way the unit works is , when the sun comes out the engine will start and you get power out here .
+we have a.c. and d.c. , get 12 volts d.c. , so that could be used for certain applications .
+we have an inverter in there , so you get 117 volts a.c. and you also get hot water .
+the hot water 's optional .
+you do n't have to use the hot water , it will cool itself .
+but you can use it to optionally heat hot water and that brings the efficiency up even higher because some of the heat that you would normally be rejecting , you can now use as useful energy , whether it 's for a pool or hot water .
+let me show you a quick movie of what this looks like running .
+so this is the first test where we took it outside and each of the petals were individually seeking .
+and what they do is step , very coarsely at first , and then very finely afterward .
+once they get a temperature reading on the thermocouple indicating they found the sun , then they slow down and do a fine search , then all the petals will move into position , and then the engine will start .
+so , we 've been working on this for the last two years .
+we 're very excited about the progress , we do have a very long way to go though still , and let me tell you a little bit more about that .
+this is how we envision it would be in a residential installation : you 'd probably have more than one unit on your roof .
+it could be on your roof , or in your backyard , or somewhere else .
+you do n't have to have enough units to power your entire house , you just save money with each incremental one you add .
+so you 're still using the grid potentially , in this type of application , to be your back - up supply -- of course , you ca n't use these at night , and you ca n't use these on cloudy days .
+but by reducing your energy use , pretty much at the peak times -- usually when you have you air conditioning on , or other times like that -- this generates the peak power at the peak usage time , so it 's very complementary in that sense .
+this is how we would envision a residential application .
+we also think there 's very big potential for energy farms , especially in remote land where there happens to be a lot of sun.
+it 's a really good combination of those two factors .
+it turns out there 's a lot of powerful sun all around the world , obviously , but in special places where it happens to be relatively inexpensive to place these and also in many more places where there is high wind power .
+so an example of that is , here 's the map of the united states .
+pretty much everywhere that 's not green or blue is a really ideal place , but even the green or blue areas are good , just not as good as the places that are red , orange and yellow .
+but the hot sport right around las vegas and death valley and that area is very , very good .
+and all this does is affect the payback period , it does n't mean that you could n't use solar energy ; you could use solar energy anywhere on earth .
+it just affects the payback period if you 're comparing to grid - supplied electricity .
+but if you do n't have grid - supplied electricity , then the whole question of payback is a different one entirely .
+it 's just how many watts do you get per dollar , and how could you benefit from that using that power to change your life in some way .
+this is the map of the united states .
+this is the map of the whole earth
+and again , you can see a huge swathe in the middle of pretty much where a large part of the population is , there 's tremendous chances for solar energy .
+and of course , look at africa .
+it 's just unbelievable what the potential is to take advantage of solar energy there , and i 'm really excited to talk more about finding ways we can help with that .
+so , in conclusion , i would say my journey has shown me that you can revisit old ideas in a new light , and sometimes ideas that have been discarded in the past can be practical now if you apply some new technology or new twists .
+we believe we 're getting very close to something practical and affordable .
+our short - term goal for this is to be half the price of solar cells and our longer - term goal is to be less than a five - year payback .
+and at less than a five - year payback , all of a sudden this becomes very economic
+so you do n't have to just want to have a feel - good attitude about energy to want to have one of these .
+it just makes economic sense .
+right now , solar paybacks are between 30 and 50 years .
+if you get it down below five years then it becomes almost a no - brainer because the interest to own it -- someone else will finance it for you and you can just make money , basically from day one .
+so that 's our real powerful goal that we 're really shooting for in the company .
+two other things that i learned that were very surprising to me -- one was how casual we are about energy .
+i was walking from the elevator over here , and even just looking at the stage right now -- so there 's probably 20 500 watt lights right now .
+there 's 10,000 watts of light pouring on the stage , one horsepower is 756 watts , at full power .
+so there 's basically 15 horses running at full speed just to keep the stage lit .
+not to mention the 200 horses that are probably running right now to keep the airconditioning going .
+and it 's just amazing , walk in the elevator and there 's lights on in the elevator .
+of course , now i 'm very sensitive at home when we leave the lights on by mistake .
+but , everywhere around us we have insatiable use for energy because it 's so cheap .
+and it 's cheap because we 've been subsidized by energy that 's been concentrated by the sun.
+basically , oil is solar energy concentrate .
+it 's been pounded for a billion years with a lot of energy to make it have all that energy contained in it .
+and we do n't have a birthright to just use that up as fast as we are , i think .
+and it would be great if we could find a way to make our energy usage renewable , where as we 're using the energy we 're creating it at the same pace , and i really hope we can get there .
+thank you very much , you 've been a great audience .

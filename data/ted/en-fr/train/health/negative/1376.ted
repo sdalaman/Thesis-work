@@ -1,0 +1,151 @@
+good_en morning_en ._en i_en 'm_en here_en today_en to_en talk_en about_en autonomous_en ,_en flying_en beach_en balls_en ._en
+no_en ,_en agile_en aerial_en robots_en like_en this_en one_en ._en
+i_en 'd_en like_en to_en tell_en you_en a_en little_en bit_en about_en the_en challenges_en in_en building_en these_en and_en some_en of_en the_en terrific_en opportunities_en for_en applying_en this_en technology_en ._en
+so_en these_en robots_en are_en related_en to_en unmanned_en aerial_en vehicles_en ._en
+however_en ,_en the_en vehicles_en you_en see_en here_en are_en big_en ._en
+they_en weigh_en thousands_en of_en pounds_en ,_en are_en not_en by_en any_en means_en agile_en ._en
+they_en 're_en not_en even_en autonomous_en ._en
+in_en fact_en ,_en many_en of_en these_en vehicles_en are_en operated_en by_en flight_en crews_en that_en can_en include_en multiple_en pilots_en ,_en operators_en of_en sensors_en and_en mission_en coordinators_en ._en
+what_en we_en 're_en interested_en in_en is_en developing_en robots_en like_en this_en --_en and_en here_en are_en two_en other_en pictures_en --_en of_en robots_en that_en you_en can_en buy_en off_en the_en shelf_en ._en
+so_en these_en are_en helicopters_en with_en four_en rotors_en and_en they_en 're_en roughly_en a_en meter_en or_en so_en in_en scale_en and_en weigh_en several_en pounds_en ._en
+and_en so_en we_en retrofit_en these_en with_en sensors_en and_en processors_en ,_en and_en these_en robots_en can_en fly_en indoors_en without_en gps_en ._en
+the_en robot_en i_en 'm_en holding_en in_en my_en hand_en is_en this_en one_en ,_en and_en it_en 's_en been_en created_en by_en two_en students_en ,_en alex_en and_en daniel_en ._en
+so_en this_en weighs_en a_en little_en more_en than_en a_en tenth_en of_en a_en pound_en ._en
+it_en consumes_en about_en 15_en watts_en of_en power_en ._en
+and_en as_en you_en can_en see_en ,_en it_en 's_en about_en eight_en inches_en in_en diameter_en ._en
+so_en let_en me_en give_en you_en just_en a_en very_en quick_en tutorial_en on_en how_en these_en robots_en work_en ._en
+so_en it_en has_en four_en rotors_en ._en
+if_en you_en spin_en these_en rotors_en at_en the_en same_en speed_en ,_en the_en robot_en hovers_en ._en
+if_en you_en increase_en the_en speed_en of_en each_en of_en these_en rotors_en ,_en then_en the_en robot_en flies_en up_en ,_en it_en accelerates_en up_en ._en
+of_en course_en ,_en if_en the_en robot_en were_en tilted_en ,_en inclined_en to_en the_en horizontal_en ,_en then_en it_en would_en accelerate_en in_en this_en direction_en ._en
+so_en to_en get_en it_en to_en tilt_en ,_en there_en 's_en one_en of_en two_en ways_en of_en doing_en it_en ._en
+so_en in_en this_en picture_en you_en see_en that_en rotor_en four_en is_en spinning_en faster_en and_en rotor_en two_en is_en spinning_en slower_en ._en
+and_en when_en that_en happens_en there_en 's_en moment_en that_en causes_en this_en robot_en to_en roll_en ._en
+and_en the_en other_en way_en around_en ,_en if_en you_en increase_en the_en speed_en of_en rotor_en three_en and_en decrease_en the_en speed_en of_en rotor_en one_en ,_en then_en the_en robot_en pitches_en forward_en ._en
+and_en then_en finally_en ,_en if_en you_en spin_en opposite_en pairs_en of_en rotors_en faster_en than_en the_en other_en pair_en ,_en then_en the_en robot_en yaws_en about_en the_en vertical_en axis_en ._en
+so_en an_en on_en -_en board_en processor_en essentially_en looks_en at_en what_en motions_en need_en to_en be_en executed_en and_en combines_en these_en motions_en and_en figures_en out_en what_en commands_en to_en send_en to_en the_en motors_en 600_en times_en a_en second_en ._en
+that_en 's_en basically_en how_en this_en thing_en operates_en ._en
+so_en one_en of_en the_en advantages_en of_en this_en design_en is_en ,_en when_en you_en scale_en things_en down_en ,_en the_en robot_en naturally_en becomes_en agile_en ._en
+so_en here_en r_en is_en the_en characteristic_en length_en of_en the_en robot_en ._en
+it_en 's_en actually_en half_en the_en diameter_en ._en
+and_en there_en are_en lots_en of_en physical_en parameters_en that_en change_en as_en you_en reduce_en r._en
+the_en one_en that_en 's_en the_en most_en important_en is_en the_en inertia_en or_en the_en resistance_en to_en motion_en ._en
+so_en it_en turns_en out_en ,_en the_en inertia_en ,_en which_en governs_en angular_en motion_en ,_en scales_en as_en a_en fifth_en power_en of_en r._en
+so_en the_en smaller_en you_en make_en r_en ,_en the_en more_en dramatically_en the_en inertia_en reduces_en ._en
+so_en as_en a_en result_en ,_en the_en angular_en acceleration_en ,_en denoted_en by_en greek_en letter_en alpha_en here_en ,_en goes_en as_en one_en over_en r._en
+it_en 's_en inversely_en proportional_en to_en r._en
+the_en smaller_en you_en make_en it_en the_en more_en quickly_en you_en can_en turn_en ._en
+so_en this_en should_en be_en clear_en in_en these_en videos_en ._en
+at_en the_en bottom_en right_en you_en see_en a_en robot_en performing_en a_en 360_en degree_en flip_en in_en less_en than_en half_en a_en second_en ._en
+multiple_en flips_en ,_en a_en little_en more_en time_en ._en
+so_en here_en the_en processes_en on_en board_en are_en getting_en feedback_en from_en accelerometers_en and_en gyros_en on_en board_en and_en calculating_en ,_en like_en i_en said_en before_en ,_en commands_en at_en 600_en times_en a_en second_en to_en stabilize_en this_en robot_en ._en
+so_en on_en the_en left_en ,_en you_en see_en daniel_en throwing_en this_en robot_en up_en into_en the_en air_en ._en
+and_en it_en shows_en you_en how_en robust_en the_en control_en is_en ._en
+no_en matter_en how_en you_en throw_en it_en ,_en the_en robot_en recovers_en and_en comes_en back_en to_en him_en ._en
+so_en why_en build_en robots_en like_en this_en ?_en
+well_en robots_en like_en this_en have_en many_en applications_en ._en
+you_en can_en send_en them_en inside_en buildings_en like_en this_en as_en first_en responders_en to_en look_en for_en intruders_en ,_en maybe_en look_en for_en biochemical_en leaks_en ,_en gaseous_en leaks_en ._en
+you_en can_en also_en use_en them_en for_en applications_en like_en construction_en ._en
+so_en here_en are_en robots_en carrying_en beams_en ,_en columns_en and_en assembling_en cube_en -_en like_en structures_en ._en
+i_en 'll_en tell_en you_en a_en little_en bit_en more_en about_en this_en ._en
+the_en robots_en can_en be_en used_en for_en transporting_en cargo_en ._en
+so_en one_en of_en the_en problems_en with_en these_en small_en robots_en is_en their_en payload_en carrying_en capacity_en ._en so_en you_en might_en want_en to_en have_en multiple_en robots_en carry_en payloads_en ._en
+this_en is_en a_en picture_en of_en a_en recent_en experiment_en we_en did_en --_en actually_en not_en so_en recent_en anymore_en --_en in_en sendai_en shortly_en after_en the_en earthquake_en ._en
+so_en robots_en like_en this_en could_en be_en sent_en into_en collapsed_en buildings_en to_en assess_en the_en damage_en after_en natural_en disasters_en ,_en or_en sent_en into_en reactor_en buildings_en to_en map_en radiation_en levels_en ._en
+so_en one_en fundamental_en problem_en that_en the_en robots_en have_en to_en solve_en if_en they_en 're_en to_en be_en autonomous_en is_en essentially_en figuring_en out_en how_en to_en get_en from_en point_en a_en to_en point_en b._en
+so_en this_en gets_en a_en little_en challenging_en because_en the_en dynamics_en of_en this_en robot_en are_en quite_en complicated_en ._en
+in_en fact_en ,_en they_en live_en in_en a_en 12_en -_en dimensional_en space_en ._en
+so_en we_en use_en a_en little_en trick_en ._en
+we_en take_en this_en curved_en 12_en -_en dimensional_en space_en and_en transform_en it_en into_en a_en flat_en four_en -_en dimensional_en space_en ._en
+and_en that_en four_en -_en dimensional_en space_en consists_en of_en x_en ,_en y_en ,_en z_en and_en then_en the_en yaw_en angle_en ._en
+and_en so_en what_en the_en robot_en does_en is_en it_en plans_en what_en we_en call_en a_en minimum_en snap_en trajectory_en ._en
+so_en to_en remind_en you_en of_en physics_en ,_en you_en have_en position_en ,_en derivative_en ,_en velocity_en ,_en then_en acceleration_en ,_en and_en then_en comes_en jerk_en and_en then_en comes_en snap_en ._en so_en this_en robot_en minimizes_en snap_en ._en
+so_en what_en that_en effectively_en does_en is_en produces_en a_en smooth_en and_en graceful_en motion_en ._en
+and_en it_en does_en that_en avoiding_en obstacles_en ._en
+so_en these_en minimum_en snap_en trajectories_en in_en this_en flat_en space_en are_en then_en transformed_en back_en into_en this_en complicated_en 12_en -_en dimensional_en space_en ,_en which_en the_en robot_en must_en do_en for_en control_en and_en then_en execution_en ._en
+so_en let_en me_en show_en you_en some_en examples_en of_en what_en these_en minimum_en snap_en trajectories_en look_en like_en ._en
+and_en in_en the_en first_en video_en ,_en you_en 'll_en see_en the_en robot_en going_en from_en point_en a_en to_en point_en b_en through_en an_en intermediate_en point_en ._en
+so_en the_en robot_en is_en obviously_en capable_en of_en executing_en any_en curve_en trajectory_en ._en
+so_en these_en are_en circular_en trajectories_en where_en the_en robot_en pulls_en about_en two_en g_en 's_en ._en
+here_en you_en have_en overhead_en motion_en capture_en cameras_en on_en the_en top_en that_en tell_en the_en robot_en where_en it_en is_en 100_en times_en a_en second_en ._en
+it_en also_en tells_en the_en robot_en where_en these_en obstacles_en are_en ._en
+and_en the_en obstacles_en can_en be_en moving_en ._en
+and_en here_en you_en 'll_en see_en daniel_en throw_en this_en hoop_en into_en the_en air_en ,_en while_en the_en robot_en is_en calculating_en the_en position_en of_en the_en hoop_en and_en trying_en to_en figure_en out_en how_en to_en best_en go_en through_en the_en hoop_en ._en
+so_en as_en an_en academic_en ,_en we_en 're_en always_en trained_en to_en be_en able_en to_en jump_en through_en hoops_en to_en raise_en funding_en for_en our_en labs_en ,_en and_en we_en get_en our_en robots_en to_en do_en that_en ._en
+so_en another_en thing_en the_en robot_en can_en do_en is_en it_en remembers_en pieces_en of_en trajectory_en that_en it_en learns_en or_en is_en pre_en -_en programmed_en ._en
+so_en here_en you_en see_en the_en robot_en combining_en a_en motion_en that_en builds_en up_en momentum_en and_en then_en changes_en its_en orientation_en and_en then_en recovers_en ._en
+so_en it_en has_en to_en do_en this_en because_en this_en gap_en in_en the_en window_en is_en only_en slightly_en larger_en than_en the_en width_en of_en the_en robot_en ._en
+so_en just_en like_en a_en diver_en stands_en on_en a_en springboard_en and_en then_en jumps_en off_en it_en to_en gain_en momentum_en ,_en and_en then_en does_en this_en pirouette_en ,_en this_en two_en and_en a_en half_en somersault_en through_en and_en then_en gracefully_en recovers_en ,_en this_en robot_en is_en basically_en doing_en that_en ._en
+so_en it_en knows_en how_en to_en combine_en little_en bits_en and_en pieces_en of_en trajectories_en to_en do_en these_en fairly_en difficult_en tasks_en ._en
+so_en i_en want_en change_en gears_en ._en
+so_en one_en of_en the_en disadvantages_en of_en these_en small_en robots_en is_en its_en size_en ._en
+and_en i_en told_en you_en earlier_en that_en we_en may_en want_en to_en employ_en lots_en and_en lots_en of_en robots_en to_en overcome_en the_en limitations_en of_en size_en ._en
+so_en one_en difficulty_en is_en how_en do_en you_en coordinate_en lots_en of_en these_en robots_en ?_en
+and_en so_en here_en we_en looked_en to_en nature_en ._en
+so_en i_en want_en to_en show_en you_en a_en clip_en of_en aphaenogaster_en desert_en ants_en in_en professor_en stephen_en pratt_en 's_en lab_en carrying_en an_en object_en ._en
+so_en this_en is_en actually_en a_en piece_en of_en fig_en ._en
+actually_en you_en take_en any_en object_en coated_en with_en fig_en juice_en and_en the_en ants_en will_en carry_en them_en back_en to_en the_en nest_en ._en
+so_en these_en ants_en do_en n't_en have_en any_en central_en coordinator_en ._en
+they_en sense_en their_en neighbors_en ._en
+there_en 's_en no_en explicit_en communication_en ._en
+but_en because_en they_en sense_en the_en neighbors_en and_en because_en they_en sense_en the_en object_en ,_en they_en have_en implicit_en coordination_en across_en the_en group_en ._en
+so_en this_en is_en the_en kind_en of_en coordination_en we_en want_en our_en robots_en to_en have_en ._en
+so_en when_en we_en have_en a_en robot_en which_en is_en surrounded_en by_en neighbors_en --_en and_en let_en 's_en look_en at_en robot_en i_en and_en robot_en j_en --_en what_en we_en want_en the_en robots_en to_en do_en is_en to_en monitor_en the_en separation_en between_en them_en as_en they_en fly_en in_en formation_en ._en
+and_en then_en you_en want_en to_en make_en sure_en that_en this_en separation_en is_en within_en acceptable_en levels_en ._en
+so_en again_en the_en robots_en monitor_en this_en error_en and_en calculate_en the_en control_en commands_en 100_en times_en a_en second_en ,_en which_en then_en translates_en to_en the_en motor_en commands_en 600_en times_en a_en second_en ._en
+so_en this_en also_en has_en to_en be_en done_en in_en a_en decentralized_en way_en ._en
+again_en ,_en if_en you_en have_en lots_en and_en lots_en of_en robots_en ,_en it_en 's_en impossible_en to_en coordinate_en all_en this_en information_en centrally_en fast_en enough_en in_en order_en for_en the_en robots_en to_en accomplish_en the_en task_en ._en
+plus_en the_en robots_en have_en to_en base_en their_en actions_en only_en on_en local_en information_en ,_en what_en they_en sense_en from_en their_en neighbors_en ._en
+and_en then_en finally_en ,_en we_en insist_en that_en the_en robots_en be_en agnostic_en to_en who_en their_en neighbors_en are_en ._en
+so_en this_en is_en what_en we_en call_en anonymity_en ._en
+so_en what_en i_en want_en to_en show_en you_en next_en is_en a_en video_en of_en 20_en of_en these_en little_en robots_en flying_en in_en formation_en ._en
+they_en 're_en monitoring_en their_en neighbors_en '_en position_en ._en
+they_en 're_en maintaining_en formation_en ._en
+the_en formations_en can_en change_en ._en
+they_en can_en be_en planar_en formations_en ,_en they_en can_en be_en three_en -_en dimensional_en formations_en ._en
+as_en you_en can_en see_en here_en ,_en they_en collapse_en from_en a_en three_en -_en dimensional_en formation_en into_en planar_en formation_en ._en
+and_en to_en fly_en through_en obstacles_en they_en can_en adapt_en the_en formations_en on_en the_en fly_en ._en
+so_en again_en ,_en these_en robots_en come_en really_en close_en together_en ._en
+as_en you_en can_en see_en in_en this_en figure_en -_en eight_en flight_en ,_en they_en come_en within_en inches_en of_en each_en other_en ._en
+and_en despite_en the_en aerodynamic_en interactions_en of_en these_en propeller_en blades_en ,_en they_en 're_en able_en to_en maintain_en stable_en flight_en ._en
+so_en once_en you_en know_en how_en to_en fly_en in_en formation_en ,_en you_en can_en actually_en pick_en up_en objects_en cooperatively_en ._en
+so_en this_en just_en shows_en that_en we_en can_en double_en ,_en triple_en ,_en quadruple_en the_en robot_en strength_en by_en just_en getting_en them_en to_en team_en with_en neighbors_en ,_en as_en you_en can_en see_en here_en ._en
+one_en of_en the_en disadvantages_en of_en doing_en that_en is_en ,_en as_en you_en scale_en things_en up_en --_en so_en if_en you_en have_en lots_en of_en robots_en carrying_en the_en same_en thing_en ,_en you_en 're_en essentially_en effectively_en increasing_en the_en inertia_en ,_en and_en therefore_en you_en pay_en a_en price_en ;_en they_en 're_en not_en as_en agile_en ._en
+but_en you_en do_en gain_en in_en terms_en of_en payload_en carrying_en capacity_en ._en
+another_en application_en i_en want_en to_en show_en you_en --_en again_en ,_en this_en is_en in_en our_en lab._en
+this_en is_en work_en done_en by_en quentin_en lindsey_en who_en 's_en a_en graduate_en student_en ._en
+so_en his_en algorithm_en essentially_en tells_en these_en robots_en how_en to_en autonomously_en build_en cubic_en structures_en from_en truss_en -_en like_en elements_en ._en
+so_en his_en algorithm_en tells_en the_en robot_en what_en part_en to_en pick_en up_en ,_en when_en and_en where_en to_en place_en it_en ._en
+so_en in_en this_en video_en you_en see_en --_en and_en it_en 's_en sped_en up_en 10_en ,_en 14_en times_en --_en you_en see_en three_en different_en structures_en being_en built_en by_en these_en robots_en ._en
+and_en again_en ,_en everything_en is_en autonomous_en ,_en and_en all_en quentin_en has_en to_en do_en is_en to_en get_en them_en a_en blueprint_en of_en the_en design_en that_en he_en wants_en to_en build_en ._en
+so_en all_en these_en experiments_en you_en 've_en seen_en thus_en far_en ,_en all_en these_en demonstrations_en ,_en have_en been_en done_en with_en the_en help_en of_en motion_en capture_en systems_en ._en
+so_en what_en happens_en when_en you_en leave_en your_en lab_en and_en you_en go_en outside_en into_en the_en real_en world_en ?_en
+and_en what_en if_en there_en 's_en no_en gps_en ?_en
+so_en this_en robot_en is_en actually_en equipped_en with_en a_en camera_en and_en a_en laser_en rangefinder_en ,_en laser_en scanner_en ._en
+and_en it_en uses_en these_en sensors_en to_en build_en a_en map_en of_en the_en environment_en ._en
+what_en that_en map_en consists_en of_en are_en features_en --_en like_en doorways_en ,_en windows_en ,_en people_en ,_en furniture_en --_en and_en it_en then_en figures_en out_en where_en its_en position_en is_en with_en respect_en to_en the_en features_en ._en
+so_en there_en is_en no_en global_en coordinate_en system_en ._en
+the_en coordinate_en system_en is_en defined_en based_en on_en the_en robot_en ,_en where_en it_en is_en and_en what_en it_en 's_en looking_en at_en ._en
+and_en it_en navigates_en with_en respect_en to_en those_en features_en ._en
+so_en i_en want_en to_en show_en you_en a_en clip_en of_en algorithms_en developed_en by_en frank_en shen_en and_en professor_en nathan_en michael_en that_en shows_en this_en robot_en entering_en a_en building_en for_en the_en very_en first_en time_en and_en creating_en this_en map_en on_en the_en fly_en ._en
+so_en the_en robot_en then_en figures_en out_en what_en the_en features_en are_en ._en
+it_en builds_en the_en map_en ._en
+it_en figures_en out_en where_en it_en is_en with_en respect_en to_en the_en features_en and_en then_en estimates_en its_en position_en 100_en times_en a_en second_en allowing_en us_en to_en use_en the_en control_en algorithms_en that_en i_en described_en to_en you_en earlier_en ._en
+so_en this_en robot_en is_en actually_en being_en commanded_en remotely_en by_en frank_en ._en
+but_en the_en robot_en can_en also_en figure_en out_en where_en to_en go_en on_en its_en own_en ._en
+so_en suppose_en i_en were_en to_en send_en this_en into_en a_en building_en and_en i_en had_en no_en idea_en what_en this_en building_en looked_en like_en ,_en i_en can_en ask_en this_en robot_en to_en go_en in_en ,_en create_en a_en map_en and_en then_en come_en back_en and_en tell_en me_en what_en the_en building_en looks_en like_en ._en
+so_en here_en ,_en the_en robot_en is_en not_en only_en solving_en the_en problem_en ,_en how_en to_en go_en from_en point_en a_en to_en point_en b_en in_en this_en map_en ,_en but_en it_en 's_en figuring_en out_en what_en the_en best_en point_en b_en is_en at_en every_en time_en ._en
+so_en essentially_en it_en knows_en where_en to_en go_en to_en look_en for_en places_en that_en have_en the_en least_en information_en ._en
+and_en that_en 's_en how_en it_en populates_en this_en map_en ._en
+so_en i_en want_en to_en leave_en you_en with_en one_en last_en application_en ._en
+and_en there_en are_en many_en applications_en of_en this_en technology_en ._en
+i_en 'm_en a_en professor_en ,_en and_en we_en 're_en passionate_en about_en education_en ._en
+robots_en like_en this_en can_en really_en change_en the_en way_en we_en do_en k_en through_en 12_en education_en ._en
+but_en we_en 're_en in_en southern_en california_en ,_en close_en to_en los_en angeles_en ,_en so_en i_en have_en to_en conclude_en with_en something_en focused_en on_en entertainment_en ._en
+i_en want_en to_en conclude_en with_en a_en music_en video_en ._en
+i_en want_en to_en introduce_en the_en creators_en ,_en alex_en and_en daniel_en ,_en who_en created_en this_en video_en ._en
+so_en before_en i_en play_en this_en video_en ,_en i_en want_en to_en tell_en you_en that_en they_en created_en it_en in_en the_en last_en three_en days_en after_en getting_en a_en call_en from_en chris_en ._en
+and_en the_en robots_en that_en play_en the_en video_en are_en completely_en autonomous_en ._en
+you_en will_en see_en nine_en robots_en play_en six_en different_en instruments_en ._en
+and_en of_en course_en ,_en it_en 's_en made_en exclusively_en for_en ted_en 2012_en ._en
+let_en 's_en watch_en ._en

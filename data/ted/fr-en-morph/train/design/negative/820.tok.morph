@@ -1,0 +1,206 @@
+alors	,	le	premier	robot	que	je	vous	 présent 	 e 	 	 s 	 e 	 	nomme	strider	.
+cela	signifie	robot	 expéri 	 mental 	 	...
+...	_UNK_	dynamique	auto	-	 stimul 	 é 	 	il	a	trois	 patte 	 s 	 	,	concept	inspiré	de	la	nature	.
+ mai 	 s 	 	avez	-	vous	 dé 	 jà 	 	 rencontr 	 é 	 	quelque	chose	dans	la	nature	...
+qui	ait	trois	 patte 	 s 	 	?
+ prob 	 able 	 ment 	 	que	non	.	donc	pourquoi	est	-	ce	que	je	dis	que	c'est	un	robot	inspiré	de	la	nature	?	comment	 fonctionne 	 rait 	 	-	il	?
+ mai 	 s 	 	avant	tout	cela	,	 jet 	 tons 	 	un	oeil	à	la	culture	-	pop	.
+vous	 connaisse 	 z 	 	h.g	.	wells	 e 	 t 	 	son	roman	``	la	guerre	des	 monde 	 s 	 	``	.
+ce	que	vous	voyez	ici	est	un	jeu	vidéo	très	populaire	.
+dans	le	roman	,	on	y	 dé 	 crit 	 	les	 créa 	 ture 	 s 	 	extra	-	 terrestre 	 s 	 	_UNK_	la	planète	comme	des	 robot 	 s 	 	 doté 	 s 	 	de	trois	 patte 	 s 	 	.
+ mai 	 s 	 	mon	robot	,	strider	,	ne	 s 	 e 	 	déplace	pas	de	 ce 	 tte 	 	façon	.
+voici	une	animation	de	la	 simul 	 ation 	 	dynamique	 ré 	 elle 	 	.
+je	vais	vous	 montre 	 r 	 	comment	ce	robot	fonctionne	.
+il	fait	 pivot 	 er 	 	son	corps	de	180	 de 	 gré 	 s 	 	.
+il	balance	la	jambe	 central 	 e 	 	entre	les	deux	 autre 	 s 	 	pour	 r 	 attrape 	 r 	 	la	chute	.
+c'est	donc	de	 ce 	 tte 	 	façon	qu'il	marche	.	 mai 	 s 	 	quand	vous	nous	regardez	 marche 	 r 	 	,	nous	les	 être 	 s 	 	 humain 	 s 	 	,	avec	deux	 jambe 	 s 	 	,	nous	 n' 	 utilisons 	 	pas	 vrai 	 ment 	 	de	muscle	pour	lever	une	jambe	 e 	 t 	 	 marche 	 r 	 	comme	un	robot	.	pas	vrai	?
+ce	que	nous	faisons	 vrai 	 ment 	 	c'est	 lance 	 r 	 	une	jambe	 dev 	 ant 	 	 e 	 t 	 	 arrête 	 r 	 	la	chute	,	 s 	 e 	 	 re 	 lever 	 	,	 lance 	 r 	 	 l' 	 autre 	 	_UNK_	 e 	 t 	 	 r 	 attrape 	 r 	 	la	chute	encore	une	fois	.
+le	tout	,	en	 utilis 	 ant 	 	 not 	 re 	 	dynamique	 inter 	 ne 	 	,	la	physique	de	 not 	 re 	 	corps	,	à	la	 man 	 ière 	 	 d' 	 un 	 	 pendu 	 le 	 	.
+nous	 appel 	 ons 	 	cela	le	concept	de	_UNK_	dynamique	passive	.
+ce	que	vous	faites	 lors 	 que 	 	vous	vous	levez	,	c'est	de	 transforme 	 r 	 	de	 l' 	 énergie 	 	 potentiel 	 le 	 	en	énergie	 ciné 	 tique 	 	...
+ potentiel 	 le 	 	à	 ciné 	 tique 	 	...
+c'est	un	 process 	 us 	 	continu	de	 chute 	 s 	 	.
+donc	même	 s' 	 il 	 	 n' 	 y 	 	a	rien	dans	la	nature	qui	ressemble	à	cela	,	nous	avons	 vrai 	 ment 	 	été	 inspiré 	 s 	 	par	la	biologie	 e 	 t 	 	nous	avons	appliqué	les	 principe 	 s 	 	de	la	marche	à	ce	robot	,	 d' 	 où 	 	 l' 	 inspiration 	 	 bio 	 logique 	 	.
+ce	que	vous	voyez	ici	est	ce	que	nous	 souhait 	 ons 	 	faire	par	la	suite	.
+nous	 aimer 	 ions 	 	 pli 	 er 	 	les	 jambe 	 s 	 	 e 	 t 	 	 propulse 	 r 	 	le	tout	en	 l' 	 air 	 	pour	des	 déplace 	 ment 	 s 	 	à	longue	 porté 	 e 	 	.
+and	il	 pour 	 ra 	 	 déploy 	 er 	 	 s 	 es 	 	 jambe 	 s 	 	,	comme	dans	la	guerre	des	 étoile 	 s 	 	.
+à	 l' 	 atterrissage 	 	,	le	choc	est	 absorb 	 é 	 	 e 	 t 	 	il	recommence	à	 marche 	 r 	 	.
+ce	que	vous	voyez	ici	,	la	chose	jaune	,	n'est	pas	un	rayon	de	mort	.
+c'est	 simple 	 ment 	 	pour	vous	 montre 	 r 	 	que	si	vous	avez	des	 caméra 	 s 	 	ou	 d' 	 autre 	 s 	 	 sort 	 es 	 	de	 senseur 	 s 	 	,	grâce	à	 s 	 a 	 	 t 	 aille 	 	,	1,80	mètre	,	vous	 pouv 	 ez 	 	voir	au	dessus	 d' 	 obstacle 	 s 	 	comme	des	 buisson 	 s 	 	 e 	 t 	 	 d' 	 autre 	 s 	 	 chose 	 s 	 	du	 gen 	 re 	 	.
+nous	avons	donc	deux	 prototype 	 s 	 	.
+la	première	version	,	en	arrière	,	c'est	strider	i	.
+en	avant	,	la	plus	petite	,	c'est	strider	ii	.
+le	problème	que	nous	avons	 rencontr 	 é 	 	avec	strider	i	est	que	son	corps	était	trop	lourd	.	nous	avions	tant	de	 moteur 	 s 	 	,	vous	 s 	 avez 	 	,	pour	 aligne 	 r 	 	les	 joint 	 s 	 	 e 	 t 	 	ce	 gen 	 re 	 	de	 chose 	 s 	 	.
+alors	nous	avons	 décid 	 é 	 	de	créer	un	 mécan 	 isme 	 	mécanique	pour	 élimin 	 er 	 	tous	les	 moteur 	 s 	 	 e 	 t 	 	donc	à	 l' 	 aide 	 	 d' 	 un 	 	seul	pouvoir	 coordonne 	 r 	 	tous	les	 mouvement 	 s 	 	.
+c'est	une	solution	mécanique	à	un	problème	,	à	la	place	 d' 	 utiliser 	 	la	 mécatro 	 nique 	 	.
+avec	ce	 change 	 ment 	 	,	le	corps	du	haut	est	 suffi 	 samment 	 	léger	pour	 marche 	 r 	 	dans	un	 labo 	 ratoire 	 	.
+ce	fut	la	première	étape	 véri 	 table 	 ment 	 	 réussi 	 e 	 	.
+ce	n'est	pas	encore	 par 	 fait 	 	.
+nous	avons	encore	bien	du	pain	sur	la	planche	.
+le	deuxième	robot	 do 	 nt 	 	je	veux	vous	 parle 	 r 	 	 s' 	 appelle 	 	impass	.
+ça	signifie	_UNK_	de	mobilité	 intelligent 	 e 	 	avec	un	système	de	 tige 	 s 	 	 ré 	 active 	 s 	 	.
+c'est	donc	un	robot	hybride	patte	-	roue	.
+pensez	à	une	roue	sans	 con 	 tour 	 	,	 seul 	 ement 	 	avec	les	 rayon 	 s 	 	.
+par	contre	,	les	 rayon 	 s 	 	 bouge 	 nt 	 	 individu 	 ellement 	 	par	rapport	au	moyeu	central	.
+c'est	donc	un	hybride	roue	-	jambe	.
+dans	les	 fait 	 s 	 	,	nous	_UNK_	la	roue	ici	!
+laissez	-	moi	vous	 montre 	 r 	 	comment	il	fonctionne	.
+dans	ce	vidéo	nous	utilisons	une	approche	 appelé 	 e 	 	approche	 ré 	 active 	 	.
+en	 utilis 	 ant 	 	 unique 	 ment 	 	les	 capte 	 urs 	 	 tactile 	 s 	 	sur	les	 pied 	 s 	 	,	il	tente	de	 s 	 e 	 	 déplace 	 r 	 	sur	un	terrain	 change 	 ant 	 	,	un	terrain	flexible	qui	est	 modifi 	 é 	 	 lorsqu' 	 il 	 	 s' 	 appuie 	 	dessus	.
+ e 	 t 	 	 simple 	 ment 	 	par	 l'in 	 formation 	 	tactile	,	il	 par 	 vient 	 	à	 traverse 	 r 	 	ce	 gen 	 re 	 	de	terrain	avec	succès	.
+par	contre	,	 lorsqu' 	 il 	 	rencontre	un	obstacle	majeur	,	dans	ce	cas	-	ci	c'est	trois	fois	 s 	 a 	 	propre	 haut 	 eur 	 	qu'il	rencontre	,	alors	il	 s 	 e 	 	met	en	mode	 dé 	 libéré 	 	où	il	utilise	une	 s 	 onde 	 	de	 distanc 	 e 	 	au	laser	 e 	 t 	 	des	 caméra 	 s 	 	pour	 identifie 	 r 	 	 l' 	 obstacle 	 	 e 	 t 	 	 s 	 a 	 	 t 	 aille 	 	,	 af 	 in 	 	de	 planifie 	 r 	 	 précis 	 é 	 ment 	 	le	 déplace 	 ment 	 	de	 s 	 es 	 	 tige 	 s 	 	 e 	 t 	 	 coordonne 	 r 	 	le	tout	pour	 par 	 venir 	 	à	ce	 gen 	 re 	 	de	mobilité	 impression 	 nante 	 	.
+vous	 n' 	 avez 	 	 prob 	 able 	 ment 	 	rien	vu	de	ce	 gen 	 re 	 	dans	le	monde	réel	.
+il	 s 	 'agit 	 	 d' 	 un 	 	robot	à	mobilité	très	 élevé 	 e 	 	que	nous	avons	conçu	 e 	 t 	 	qui	 s 	 e 	 	nomme	impass	.
+n'est	-	ce	pas	génial	?
+ lors 	 que 	 	vous	 conduis 	 ez 	 	 vot 	 re 	 	 véhicul 	 e 	 	,	 lors 	 que 	 	vous	 effectue 	 z 	 	un	 vir 	 age 	 	,	vous	utilisez	une	 méthod 	 e 	 	 appelé 	 e 	 	 vir 	 age 	 	_UNK_	.
+les	 roue 	 s 	 	avant	 s 	 e 	 	 déplace 	 nt 	 	ainsi	.
+pour	la	 plu 	 part 	 	des	petits	 robot 	 s 	 	 doté 	 s 	 	de	 roue 	 s 	 	,	la	 méthod 	 e 	 	utilisée	est	 plu 	 tôt 	 	celle	de	 vir 	 age 	 	 différent 	 iel 	 	où	les	 roue 	 s 	 	droite	 e 	 t 	 	gauche	 tourne 	 nt 	 	dans	des	 direction 	 s 	 	 opposé 	 es 	 	.
+pour	impass	,	nous	 pouv 	 ons 	 	 effectue 	 r 	 	plusieurs	 type 	 s 	 	de	 déplace 	 ment 	 	.
+dans	 ce 	 t 	 	exemple	,	même	si	les	 roue 	 s 	 	droite	 e 	 t 	 	gauche	 s 	 ont 	 	 connecté 	 es 	 	par	un	moyeu	unique	,	 tourna 	 nt 	 	à	la	même	vitesse	angulaire	,	en	 modifi 	 ant 	 	 seul 	 ement 	 	la	 longue 	 ur 	 	des	 tige 	 s 	 	,	on	en	 modifi 	 e 	 	le	 dia 	 mètre 	 	 e 	 t 	 	donc	il	tourne	à	gauche	,	tourne	à	droite	...
+ voil 	 à 	 	donc	 quelque 	 s 	 	 exemple 	 s 	 	des	 jolie 	 s 	 	 chose 	 s 	 	que	nous	 pouv 	 ons 	 	 effectue 	 r 	 	avec	impass	.
+ce	robot	est	nommé	climber	,	pour	robot	_UNK_	suspendu	à	 comporte 	 ment 	 	 mim 	 étique 	 	intelligent	nous	avons	parlé	à	plusieurs	 scientifique 	 s 	 	du	jpl	de	la	nasa	;	où	ils	 s 	 ont 	 	très	 connu 	 s 	 	pour	avoir	conçu	les	 véhicul 	 es 	 	 d' 	 exploration 	 	de	 mar 	 s 	 	.
+ e 	 t 	 	 ce 	 s 	 	 scientifique 	 s 	 	,	 gé 	 ologues 	 	,	me	 dis 	 ent 	 	 tou 	 jour 	 s 	 	que	le	vrai	côté	intéressant	de	la	science	,	les	 site 	 s 	 	riches	en	 informat 	 ions 	 	 géo 	 logique 	 s 	 	 s 	 ont 	 	 tou 	 jour 	 s 	 	les	 falaise 	 s 	 	.
+ mai 	 s 	 	les	 véhicul 	 es 	 	 d' 	 exploration 	 	 actuel 	 s 	 	ne	peuvent	 s' 	 y 	 	 rend 	 re 	 	.
+donc	,	en	nous	 bas 	 ant 	 	là	dessus	,	nous	avons	 souhait 	 é 	 	concevoir	un	robot	capable	de	 grimpe 	 r 	 	un	environnement	structuré	en	falaise	.
+voici	donc	climber	.
+alors	ce	qu'il	fait	:	il	a	trois	 jambe 	 s 	 	.	c'est	 prob 	 able 	 ment 	 	difficile	à	voir	,	 mai 	 s 	 	il	a	aussi	un	treuil	 e 	 t 	 	un	 câbl 	 e 	 	sur	le	dessus	.
+il	tente	alors	de	trouver	le	meilleur	appui	où	 place 	 r 	 	son	pied	 e 	 t 	 	 lorsqu' 	 il 	 	a	trouvé	,	il	 calcul 	 e 	 	en	temps	réel	la	 distribu 	 tion 	 	des	 force 	 s 	 	.
+quelle	force	il	doit	 exerce 	 r 	 	sur	la	surface	pour	ne	pas	 glisse 	 r 	 	ni	 perd 	 re 	 	 l' 	 équilibre 	 	.
+une	fois	stabilisé	,	il	lève	un	autre	pied	 e 	 t 	 	alors	,	grâce	au	treuil	,	il	peut	 grimpe 	 r 	 	ce	 gen 	 re 	 	de	paroi	.
+aussi	utile	pour	des	 mission 	 s 	 	de	recherche	 e 	 t 	 	 sauve 	 tage 	 	.
+il	y	a	cinq	 an 	 s 	 	j'ai	en	fait	travaillé	au	jpl	de	la	nasa	 dur 	 ant 	 	 l' 	 été 	 	comme	membre	de	la	faculté	.
+ e 	 t 	 	ils	avaient	 dé 	 jà 	 	un	robot	à	6	 patte 	 s 	 	nommé	_UNK_	.
+donc	 ce 	 ci 	 	s'en	inspire	.	il	 s' 	 appelle 	 	 mar 	 s 	 	,	pour	système	 robot 	 ique 	 	multi	-	 patte 	 s 	 	.	il	 s 	 'agit 	 	donc	 d' 	 un 	 	 hexa 	 pode 	 	.
+nous	avons	conçu	une	 plan 	 ification 	 	de	 dé 	 marche 	 	 adapt 	 ative 	 	.
+vous	voyez	ici	une	charge	utile	fort	 intéressant 	 e 	 	.
+les	 étudiant 	 s 	 	aiment	bien	avoir	 s' 	 amuser 	 	.	 e 	 t 	 	vous	voyez	ici	qu'il	marche	sur	un	terrain	non	-	structuré	.
+il	tente	de	 marche 	 r 	 	sur	un	terrain	 grossi 	 er 	 	,	une	surface	_UNK_	,	 mai 	 s 	 	 s 	 e 	 lon 	 	 l' 	 humidité 	 	du	terrain	 e 	 t 	 	la	 t 	 aille 	 	des	 gra 	 in 	 s 	 	de	 s 	 able 	 	,	le	modèle	_UNK_	du	pied	 vari 	 e 	 	.
+donc	il	tente	 d' 	 adapter 	 	 s 	 a 	 	 dé 	 marche 	 	pour	 traverse 	 r 	 	 efficace 	 ment 	 	ce	 gen 	 re 	 	de	 chose 	 s 	 	.
+il	peut	aussi	faire	des	 truc 	 s 	 	 rigo 	 los 	 	,	comme	vous	 pouv 	 ez 	 	 l' 	 imaginer 	 	.
+nous	 recev 	 ons 	 	tant	de	 visite 	 urs 	 	au	labo	,	que	 lorsqu' 	 ils 	 	 arrive 	 nt 	 	,	 mar 	 s 	 	 s 	 e 	 	déplace	 jus 	 qu' 	 à 	 	 l' 	 ordinateur 	 	,	 e 	 t 	 	commence	à	écrire	``	 bon 	 jour 	 	,	mon	nom	est	 mar 	 s 	 	.
+ bien 	 venue 	 	à	romela	,	le	 labo 	 ratoire 	 	des	 mécan 	 isme 	 s 	 	_UNK_	à	virginia	tech	.	``
+ ce 	 ci 	 	est	un	robot	-	amibe	.
+nous	 n' 	 avons 	 	pas	assez	de	temps	pour	entrer	dans	les	 détail 	 s 	 	 technique 	 s 	 	,	je	vais	 simple 	 ment 	 	vous	 montre 	 r 	 	 quelque 	 s 	 	 expérience 	 s 	 	.
+donc	voici	 quelque 	 s 	 	 un 	 s 	 	des	 test 	 s 	 	de	 fais 	 abilité 	 	.
+nous	_UNK_	de	 l' 	 énergie 	 	 potentiel 	 le 	 	dans	la	peau	 élas 	 tique 	 	pour	le	faire	 bouge 	 r 	 	.
+ou	bien	on	utilise	un	cordon	à	tension	active	pour	le	faire	 s 	 e 	 	 déplace 	 r 	 	 d' 	 avant 	 	en	arrière	.	son	nom	est	_UNK_	.
+nous	avons	 égale 	 ment 	 	travaillé	avec	 quelque 	 s 	 	 cherche 	 urs 	 	 e 	 t 	 	 ingénieur 	 s 	 	de	_UNK_	pour	 abouti 	 r 	 	avec	une	version	 réagi 	 ssant 	 	 chimique 	 ment 	 	de	ce	robot	-	amibe	.
+nous	faisons	quelque	chose	à	quelque	chose	 e 	 t 	 	,	comme	par	 magi 	 e 	 	,	il	bouge	!	le	_UNK_	!
+ce	robot	est	un	très	 ré 	 cent 	 	projet	.	il	 s 	 e 	 	nomme	raphael	.
+main	 robot 	 ique 	 	à	 liga 	 ment 	 s 	 	 élas 	 tiques 	 	alimenté	à	 l' 	 air 	 	.
+il	existe	plusieurs	 main 	 s 	 	 robotisé 	 es 	 	très	 intéressant 	 es 	 	sur	le	marché	.
+le	problème	c'est	 qu' 	 elles 	 	 s 	 ont 	 	trop	 chère 	 s 	 	,	dans	les	 dizaine 	 s 	 	de	 milli 	 er 	 s 	 	de	 dollar 	 s 	 	.
+donc	,	pour	des	 pro 	 thèse 	 s 	 	,	ce	n'est	 prob 	 able 	 ment 	 	pas	 vrai 	 ment 	 	pratique	,	car	ce	n'est	pas	 abord 	 able 	 	.
+nous	 voul 	 ions 	 	attaquer	ce	problème	 d' 	 un 	 	angle	différent	.
+à	la	place	 d' 	 utiliser 	 	des	 moteur 	 s 	 	 électrique 	 s 	 	,	 déclenche 	 urs 	 	 électro 	 mécanique 	 s 	 	nous	utilisons	de	 l' 	 air 	 	comprimé	.
+nous	avons	développé	 ce 	 s 	 	 nouveau 	 x 	 	 déclenche 	 urs 	 	pour	les	_UNK_	.
+c'est	flexible	,	vous	 pouv 	 ez 	 	 change 	 r 	 	la	force	 e 	 t 	 	 modifi 	 ant 	 	 simple 	 ment 	 	la	pression	 d' 	 air 	 	.
+donc	vous	 pouv 	 ez 	 	écraser	une	 can 	 ette 	 	 d' 	 aluminium 	 	vide	.
+vous	 pouv 	 ez 	 	 égale 	 ment 	 	 saisi 	 r 	 	des	 objet 	 s 	 	 délicat 	 s 	 	tel	un	oeuf	cru	,	ou	dans	ce	cas	une	ampoule	électrique	.
+le	plus	beau	:	le	prototype	a	 coût 	 é 	 	 seul 	 ement 	 	200	 dollar 	 s 	 	à	fabriquer	.
+ce	robot	fait	 parti 	 e 	 	 d' 	 une 	 	famille	de	 robot 	 s 	 	serpent	que	 l' 	 on 	 	appelle	hydras	,	pour	_UNK_	 robot 	 ique 	 	articulé	à	hyper	_UNK_	de	 liber 	 té 	 	c'est	un	robot	qui	peut	 grimpe 	 r 	 	des	 structure 	 s 	 	.
+c'est	un	des	bras	de	hydras	.
+ce	bras	 robot 	 ique 	 	a	12	 de 	 gré 	 s 	 	de	 liber 	 té 	 	.
+ mai 	 s 	 	la	 parti 	 e 	 	super	c'est	 l' 	 interface 	 	utilisateur	.
+le	 câbl 	 e 	 	que	vous	voyez	est	une	fibre	optique	.
+ e 	 t 	 	 ce 	 tte 	 	 étudiant 	 e 	 	,	 prob 	 able 	 ment 	 	à	 s 	 a 	 	première	 tent 	 ative 	 	,	peut	_UNK_	de	plusieurs	 mani 	 ères 	 	.
+alors	par	exemple	en	iraq	,	vous	 s 	 avez 	 	,	en	zone	de	guerre	,	il	y	a	des	 bombe 	 s 	 	de	bord	de	route	.	 présent 	 ement 	 	on	envoie	un	robot	 télé 	 commandé 	 	armé	.
+cela	requiert	 énormé 	 ment 	 	de	temps	 e 	 t 	 	 d' 	 argent 	 	pour	 entraîne 	 r 	 	un	opérateur	pour	ce	bras	 complex 	 e 	 	.
+dans	ce	cas	,	c'est	très	intuitif	.
+ ce 	 t 	 	étudiant	,	aussi	à	 ce 	 s 	 	 premier 	 s 	 	 essai 	 s 	 	,	peut	 effectue 	 r 	 	des	 manipul 	 ations 	 	 complex 	 es 	 	,	 saisi 	 r 	 	des	 objet 	 s 	 	 e 	 t 	 	 manoeuvr 	 er 	 	juste	comme	ça	,	de	façon	 naturel 	 le 	 	.
+voici	 main 	 tenant 	 	 not 	 re 	 	robot	star	.
+il	existe	même	un	fan	club	pour	ce	robot	:	darwin	,	robot	 anthropo 	 morph 	 ique 	 	dynamique	avec	intelligence	.
+comme	vous	le	 s 	 avez 	 	,	nous	 somme 	 s 	 	très	 intéressé 	 s 	 	à	créer	un	robot	 human 	 oïde 	 	,	capable	de	 marche 	 r 	 	comme	nous	,	donc	nous	avons	 décid 	 é 	 	de	 construi 	 re 	 	un	petit	robot	 human 	 oïde 	 	.
+ ce 	 ci 	 	était	en	2004	,	à	 ce 	 tte 	 	époque	 c' 	 était 	 	quelque	chose	de	 vrai 	 ment 	 	 r 	 évolution 	 naire 	 	.
+il	 s' 	 agissait 	 	 d 	 avantage 	 	 d' 	 une 	 	étude	de	 fais 	 abilité 	 	:	 quel 	 s 	 	 gen 	 re 	 s 	 	de	 moteur 	 s 	 	 dev 	 rions 	 	-	nous	utiliser	?
+est	-	ce	 seul 	 ement 	 	possible	?	quel	type	de	 contrô 	 les 	 	intégrer	?
+donc	,	celui	-	ci	n'a	pas	beaucoup	de	 capte 	 urs 	 	.
+c'est	un	 contrô 	 le 	 	en	boucle	 ouvert 	 e 	 	.
+pour	ceux	 d' 	 entre 	 	vous	qui	le	 s 	 avez 	 	,	si	vous	 n' 	 avez 	 	pas	de	 capte 	 urs 	 	,	 e 	 t 	 	qu'il	y	a	une	 quel 	 con 	 que 	 	 perturba 	 tion 	 	,	vous	 s 	 avez 	 	ce	qu'il	arrive	...
+donc	 d' 	 après 	 	 ce 	 tte 	 	 réussi 	 te 	 	,	 l' 	 année 	 	 suiv 	 ante 	 	nous	avons	conçu	le	bon	design	mécanique	à	 parti 	 r 	 	de	la	_UNK_	.
+ e 	 t 	 	donc	,	darwin	i	est	né	en	2005	.
+il	peut	 s 	 e 	 	lever	.	il	marche	,	très	 impression 	 nant 	 	.
+par	contre	,	comme	vous	le	voyez	,	il	a	un	 câbl 	 e 	 	,	un	cordon	 omb 	 il 	 ical 	 	.	donc	on	utilise	 tou 	 jour 	 s 	 	une	source	de	puissance	 extern 	 e 	 	,	 e 	 t 	 	de	la	 commun 	 ication 	 	de	 l' 	 extérieur 	 	.
+donc	,	en	2006	,	nous	avons	 commenc 	 é 	 	à	nous	amuser	.
+donnons	-	lui	 l' 	 intelligence 	 	.	nous	 l' 	 avons 	 	doté	de	 tout 	 e 	 	la	puissance	informatique	nécessaire	,	un	processeur	pentium	m	de	1,5	_UNK_	,	deux	 caméra 	 s 	 	firewire	,	8	 gy 	 ro 	 scope 	 s 	 	,	des	 accélér 	 omètre 	 s 	 	4	 capte 	 urs 	 	de	 moment 	 s 	 	,	des	 batt 	 eries 	 	au	 lith 	 ium 	 	.
+ e 	 t 	 	 de 	 puis 	 	,	darwin	ii	est	 complète 	 ment 	 	autonome	.
+il	n'est	plus	 télé 	 commandé 	 	.
+il	 n' 	 y 	 	a	plus	de	 câbl 	 e 	 	.	il	regarde	 auto 	 ur 	 	,	cherche	le	ballon	,	regarde	encore	,	cherche	le	ballon	 e 	 t 	 	tente	de	 joue 	 r 	 	au	foot	de	façon	autonome	,	avec	 l' 	 intelligence 	 	 artificiel 	 le 	 	.
+voyons	comment	il	 s 	 e 	 	 dé 	 brouille 	 	.	 ce 	 ci 	 	est	 not 	 re 	 	tout	premier	essai	,	 e 	 t 	 	...	vidéo	:	_UNK_	!
+ sache 	 z 	 	qu'il	existe	une	 compéti 	 tion 	 	 nommé 	 e 	 	robocup	.
+je	ne	 s 	 ais 	 	pas	si	plusieurs	 d' 	 entre 	 	vous	la	 connaisse 	 z 	 	.
+c'est	une	 compéti 	 tion 	 	 inter 	 national 	 e 	 	de	 robot 	 s 	 	 autonome 	 s 	 	 joua 	 nt 	 	au	football	.
+ l' 	 objectif 	 	de	la	robocup	,	le	 véri 	 table 	 	objectif	,	consiste	à	,	 d' 	 ici 	 	 l' 	 an 	 	2050	,	avoir	des	 robot 	 s 	 	 human 	 oïde 	 s 	 	 plein 	 e 	 	 grand 	 eur 	 	,	 complète 	 ment 	 	 autonome 	 s 	 	,	qui	 disput 	 e 	 ront 	 	un	match	contre	les	 gagnant 	 s 	 	 humain 	 s 	 	de	la	coupe	du	monde	...
+ e 	 t 	 	 gagne 	 ront 	 	!
+c'est	 véri 	 table 	 ment 	 	le	but	.	 c' 	 en 	 	est	un	très	 ambiti 	 eux 	 	 mai 	 s 	 	nous	 croy 	 ons 	 	 vrai 	 ment 	 	pouvoir	y	 arrive 	 r 	 	.
+donc	nous	voici	 l' 	 année 	 	 der 	 nière 	 	en	 chi 	 ne 	 	.
+nous	avons	été	la	 tout 	 e 	 	première	équipe	américaine	à	 s 	 e 	 	 qualifie 	 r 	 	dans	la	 compéti 	 tion 	 	de	robot	 human 	 oïde 	 	.
+ici	c'est	 ce 	 tte 	 	année	,	en	autriche	.
+vous	allez	voir	 l' 	 action 	 	,	3	contre	3	,	de	façon	 complète 	 ment 	 	autonome	.
+ voil 	 à 	 	.	oui	!
+les	 robot 	 s 	 	 suiv 	 ent 	 	le	ballon	 e 	 t 	 	 joue 	 nt 	 	en	équipe	entre	eux	.
+c'est	très	 impression 	 nant 	 	.	c'est	 vrai 	 ment 	 	un	événement	de	recherche	 enrob 	 é 	 	par	une	 compéti 	 tion 	 	plus	 excitant 	 e 	 	.
+ce	que	vous	voyez	ici	,	c'est	la	magnifique	coupe	louis	_UNK_	.
+elle	est	_UNK_	au	meilleur	 human 	 oïde 	 	,	 e 	 t 	 	nous	 aimer 	 ions 	 	bien	la	 r 	 apporter 	 	pour	la	 tout 	 e 	 	première	fois	aux	 état 	 s 	 	-	 uni 	 s 	 	 l' 	 année 	 	 prochain 	 e 	 	,	donc	 souhait 	 ez 	 	-	nous	bonne	chance	!
+darwin	a	aussi	 be 	 a 	 coup 	 	 d' 	 autre 	 s 	 	 talent 	 s 	 	.
+ l' 	 an 	 	passé	il	a	dirigé	 l' 	 orchestre 	 	 sym 	 phon 	 ique 	 	de	_UNK_	pour	le	concert	des	 fête 	 s 	 	.
+voici	la	 prochain 	 e 	 	génération	,	le	darwin	iv	,	plus	intelligent	,	rapide	 e 	 t 	 	fort	.
+ e 	 t 	 	il	tente	de	vous	 montre 	 r 	 	son	_UNK_	.
+``	je	suis	macho	,	je	suis	fort	.
+je	peux	aussi	faire	des	 mouvement 	 s 	 	 d' 	 art 	 s 	 	 mart 	 iaux 	 	à	la	jackie	chan	``	 e 	 t 	 	il	quitte	.	donc	 c' 	 était 	 	darwin	iv	,	encore	une	fois	,	vous	 pour 	 rez 	 	le	voir	dans	le	lobby	.
+nous	 croy 	 ons 	 	 vrai 	 ment 	 	qu'il	 s' 	 agir 	 a 	 	du	premier	robot	 human 	 oïde 	 	capable	de	courir	des	 état 	 s 	 	-	 uni 	 s 	 	.	donc	,	à	 suiv 	 re 	 	!
+très	bien	,	donc	je	vous	ai	montré	 quelque 	 s 	 	 un 	 s 	 	de	 no 	 s 	 	plus	 excitant 	 s 	 	 robot 	 s 	 	au	travail	.
+ mai 	 s 	 	quel	est	le	secret	de	 not 	 re 	 	succès	?
+ d' 	 où 	 	viennent	 ce 	 s 	 	 idée 	 s 	 	?
+comment	 arriv 	 ons 	 	-	nous	à	 développe 	 r 	 	ce	 gen 	 re 	 	 d' 	 idée 	 s 	 	?
+nous	avons	un	 véhicul 	 e 	 	 complète 	 ment 	 	autonome	qui	peut	 s 	 e 	 	 déplace 	 r 	 	dans	un	environnement	urbain	.	nous	avons	 gag 	 né 	 	un	demi	-	million	de	 dollar 	 s 	 	à	la	 compéti 	 tion 	 	darpa	urban	challenge	.
+nous	avons	 égale 	 ment 	 	le	tout	premier	 véhicul 	 e 	 	de	la	planète	qui	 puis 	 s 	 e 	 	être	conduit	par	un	aveugle	.
+nous	 l'appel 	 ons 	 	le	défi	du	conducteur	aveugle	,	c'est	très	excitant	 e 	 t 	 	plusieurs	 autre 	 s 	 	 projet 	 s 	 	de	 robot 	 ique 	 	 do 	 nt 	 	 j' 	 aimerais 	 	vous	entretenir	.
+voici	les	 pri 	 x 	 	que	nous	avons	 gag 	 né 	 	à	 l' 	 automne 	 	2007	 seul 	 ement 	 	,	lors	de	 compéti 	 tion 	 s 	 	de	 robot 	 ique 	 	 e 	 t 	 	ce	 gen 	 re 	 	de	 chose 	 s 	 	.
+dans	les	 fait 	 s 	 	,	nous	avons	5	 secret 	 s 	 	.
+ première 	 ment 	 	,	comment	trouver	 ce 	 tte 	 	inspiration	,	où	aller	pour	avoir	 ce 	 t 	 	éclair	de	 géni 	 e 	 	?
+voici	une	histoire	 vrai 	 e 	 	,	mon	histoire	.
+le	soir	 lors 	 que 	 	je	me	couche	,	vers	3	ou	4	heures	du	matin	,	je	 m' 	 étend 	 s 	 	,	je	ferme	mes	yeux	 e 	 t 	 	je	vois	 ce 	 s 	 	 ligne 	 s 	 	 e 	 t 	 	 cercle 	 s 	 	 e 	 t 	 	 ce 	 s 	 	 différent 	 es 	 	formes	qui	 flotte 	 nt 	 	 auto 	 ur 	 	de	moi	,	elles	 s' 	 assemble 	 nt 	 	 e 	 t 	 	 compose 	 nt 	 	ce	 gen 	 re 	 	de	 mécan 	 isme 	 s 	 	.
+ e 	 t 	 	alors	je	pense	:	``	ah	!	 ce 	 ci 	 	,	c'est	super	!	``
+donc	,	juste	à	côté	de	mon	lit	,	je	garde	un	 ca 	 hier 	 	de	 note 	 s 	 	,	un	journal	,	avec	un	 styl 	 o 	 	spécial	doté	 d' 	 une 	 	lumière	,	une	del	,	pour	éviter	 d' 	 allume 	 r 	 	la	lumière	 e 	 t 	 	 réveille 	 r 	 	ma	femme	.
+donc	je	vois	cela	,	 gribou 	 ille 	 	le	tout	par	écrit	,	ajoute	 quelque 	 s 	 	 schéma 	 s 	 	,	 e 	 t 	 	je	retourne	au	lit	.
+ cha 	 que 	 	matin	,	la	 tout 	 e 	 	première	chose	que	je	fais	avant	la	première	 ta 	 sse 	 	de	café	,	avant	de	me	 brosse 	 r 	 	les	 dent 	 s 	 	,	c'est	 d' 	 ouvrir 	 	ce	 cale 	 pin 	 	.
+ sou 	 vent 	 	il	est	vide	,	 par 	 fois 	 	il	 s' 	 y 	 	 trouv 	 e 	 	quelque	chose	 d' 	 inutile 	 	,	 mai 	 s 	 	la	 plu 	 part 	 	du	temps	je	ne	peux	 simple 	 ment 	 	pas	me	 reli 	 re 	 	.
+ e 	 t 	 	donc	...	4	heures	du	matin	,	à	quoi	vous	 attend 	 ez 	 	-	vous	?
+donc	je	dois	 déchiff 	 rer 	 	ce	que	j'ai	écrit	.
+ mai 	 s 	 	 quelque 	 s 	 	fois	je	vois	 ce 	 tte 	 	 brillant 	 e 	 	idée	là	 de 	 dans 	 	,	 e 	 t 	 	j'ai	 ce 	 tte 	 	épiphanie	.
+je	cours	à	mon	ordinateur	,	dans	mon	bureau	à	la	maison	,	je	tape	 ce 	 s 	 	 idée 	 s 	 	avec	les	 schéma 	 s 	 	,	 e 	 t 	 	je	 maintien 	 s 	 	un	base	de	 donné 	 es 	 	 d' 	 idée 	 s 	 	.
+alors	quand	nous	 recev 	 ons 	 	un	appel	pour	une	 sou 	 mission 	 	,	je	tente	de	trouver	une	solution	possible	entre	mes	 idée 	 s 	 	 possible 	 s 	 	 e 	 t 	 	le	problème	.	 s' 	 il 	 	y	a	 correspond 	 ance 	 	nous	 prépa 	 rons 	 	une	 sou 	 mission 	 	,	 obten 	 ons 	 	les	 fond 	 s 	 	de	recherche	 e 	 t 	 	c'est	comme	ça	que	 no 	 s 	 	 programme 	 s 	 	de	recherche	 naisse 	 nt 	 	.
+ mai 	 s 	 	une	simple	étincelle	 d' 	 imagination 	 	n'est	pas	 suffisant 	 e 	 	.
+comment	 arriv 	 ons 	 	-	nous	à	 développe 	 r 	 	ce	 gen 	 re 	 	 d' 	 idée 	 s 	 	?
+à	 not 	 re 	 	labo	,	romela	,	nous	tenons	de	 fantastique 	 s 	 	 séance 	 s 	 	de	 tempête 	 s 	 	 d' 	 idée 	 s 	 	.
+donc	nous	nous	 r 	 assemblons 	 	 e 	 t 	 	 discut 	 ons 	 	de	 problème 	 s 	 	,	même	des	 problème 	 s 	 	sociaux	 e 	 t 	 	nous	en	 parl 	 ons 	 	.
+ mai 	 s 	 	avant	de	 commence 	 r 	 	,	nous	 inst 	 aurons 	 	 ce 	 tte 	 	règle	 sacré 	 e 	 	:	la	voici	:	personne	ne	critique	les	 idée 	 s 	 	de	 l' 	 autre 	 	.
+personne	ne	 s' 	 oppose 	 	à	une	opinion	.
+c'est	important	car	 sou 	 vent 	 	les	 étudiant 	 s 	 	 craign 	 ent 	 	ou	 s 	 e 	 	 s 	 ent 	 ent 	 	mal	à	 l' 	 aide 	 	face	aux	avis	des	 autre 	 s 	 	quant	à	 leur 	 s 	 	 idée 	 s 	 	 e 	 t 	 	 pensée 	 s 	 	.
+par	contre	,	une	fois	 ce 	 tte 	 	règle	 établi 	 e 	 	,	c'est	_UNK_	de	voir	à	quel	point	les	 étudiant 	 s 	 	 s 	 e 	 	 laisse 	 nt 	 	aller	.
+ils	ont	 ce 	 s 	 	 folle 	 s 	 	 e 	 t 	 	 brillant 	 es 	 	 idée 	 s 	 	,	 tout 	 e 	 	la	 s 	 alle 	 	est	_UNK_	 d' 	 énergie 	 	créative	.
+ e 	 t 	 	c'est	de	 ce 	 tte 	 	façon	que	 l' 	 on 	 	obtient	 no 	 s 	 	 idée 	 s 	 	.
+bien	,	nous	 arriv 	 ons 	 	à	la	fin	 mai 	 s 	 	il	y	a	une	chose	encore	 do 	 nt 	 	je	veux	vous	 parle 	 r 	 	.
+donc	,	 simple 	 ment 	 	une	étincelle	 d' 	 idée 	 	 e 	 t 	 	du	 développe 	 ment 	 	ne	 s 	 ont 	 	pas	 suffisant 	 s 	 	.
+il	y	a	eu	un	grand	moment	à	ted	,	je	crois	que	 c' 	 était 	 	sir	ken	robinson	,	n'est	-	ce	pas	?
+il	a	donné	une	conférence	à	propos	de	 l' 	 éducation 	 	 e 	 t 	 	 dis 	 ait 	 	que	 l' 	 école 	 	 tu 	 e 	 	la	 créa 	 tivité 	 	.
+alors	,	dans	les	 fait 	 s 	 	il	y	a	deux	 côté 	 s 	 	à	 ce 	 tte 	 	histoire	.
+on	ne	peut	 réalise 	 r 	 	 ce 	 s 	 	 merveille 	 uses 	 	 idée 	 s 	 	avec	la	 créa 	 tivité 	 	 e 	 t 	 	 l' 	 intuition 	 	 d' 	 ingénierie 	 	 seul 	 ement 	 	.
+si	vous	 souhait 	 ez 	 	aller	plus	loin	que	la	surface	,	si	vous	voulez	 dépasse 	 z 	 	le	stade	du	hobby	en	 robot 	 ique 	 	 e 	 t 	 	aborder	les	 grand 	 s 	 	 challenge 	 s 	 	de	la	 robot 	 ique 	 	à	travers	de	la	recherche	rigoureuse	,	nous	avons	besoin	de	plus	que	cela	.	c'est	là	que	 l' 	 école 	 	entre	en	compte	.
+batman	,	qui	 s 	 e 	 	bat	contre	les	 force 	 s 	 	du	mal	,	il	a	 s 	 a 	 	 ceintu 	 re 	 	 d' 	 outil 	 s 	 	,	il	a	son	grappin	,	 e 	 t 	 	 tout 	 es 	 	 sort 	 es 	 	de	 gadget 	 s 	 	.
+pour	nous	,	_UNK_	,	 ingénieur 	 s 	 	 e 	 t 	 	 cherche 	 urs 	 	,	 ce 	 s 	 	 outil 	 s 	 	ce	 s 	 ont 	 	les	 leçon 	 s 	 	que	nous	 ap 	 prenons 	 	en	classe	.
+en	 ma 	 thématique 	 s 	 	,	les	 équation 	 s 	 	_UNK_	,	j'ai	 l' 	 algèbre 	 	linéaire	,	la	science	,	la	physique	,	 e 	 t 	 	même	de	 no 	 s 	 	 jour 	 s 	 	,	la	chimie	 e 	 t 	 	la	biologie	,	comme	vous	 l' 	 avez 	 	 constat 	 é 	 	.
+ce	 s 	 ont 	 	tous	des	 outil 	 s 	 	 do 	 nt 	 	nous	avons	besoin	.
+donc	,	le	plus	 d' 	 outil 	 s 	 	nous	avons	,	pour	batman	le	plus	efficace	il	est	à	 combat 	 tre 	 	les	 méchant 	 s 	 	,	pour	nous	,	le	 mi 	 eux 	 	 équipé 	 s 	 	nous	 somme 	 s 	 	à	attaquer	 ce 	 s 	 	gros	 problème 	 s 	 	.
+alors	 l' 	 éducation 	 	est	très	 important 	 e 	 	.
+ e 	 t 	 	il	ne	 s 	 'agit 	 	pas	 seul 	 ement 	 	de	cela	 seul 	 ement 	 	,	vous	 dev 	 ez 	 	 travaille 	 r 	 	 extrême 	 ment 	 	dur	.
+alors	je	dis	 tou 	 jour 	 s 	 	à	mes	 étudiant 	 s 	 	:	``	 travaille 	 z 	 	 in 	 tellig 	 emment 	 	,	 en 	 suite 	 	 travaille 	 z 	 	dur	``	.
+ ce 	 tte 	 	photo	a	été	prise	à	3:00	du	matin	.
+je	vous	garantis	que	si	vous	venez	au	labo	à	3:00	,	_UNK_	des	 étudiant 	 s 	 	 travaille 	 nt 	 	là	,	pas	parce	que	je	le	leur	demande	,	 mai 	 s 	 	parce	 qu'il 	 s 	 	 s' 	 amuse 	 nt 	 	trop	!
+ce	qui	 m' 	 amène 	 	au	dernier	point	:	 n' 	 oublie 	 z 	 	pas	de	vous	amuser	.
+c'est	 ré 	 ellement 	 	là	le	secret	de	 not 	 re 	 	 réussi 	 te 	 	.	nous	avons	beaucoup	trop	de	plaisir	.
+je	crois	 ré 	 ellement 	 	que	la	plus	 grand 	 e 	 	 produc 	 tivité 	 	est	 atteint 	 e 	 	 lorsqu' 	 on 	 	 s' 	 amuse 	 	.
+ e 	 t 	 	c'est	 précis 	 é 	 ment 	 	ce	que	 l' 	 on 	 	fait	.
+ e 	 t 	 	 voil 	 à 	 	.	merci	 infini 	 ment 	 	.
+

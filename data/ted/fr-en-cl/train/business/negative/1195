@@ -1,0 +1,41 @@
+c'est un rêve de l'humanité , de voler comme un oiseau .
+les oiseaux sont très agiles .
+ils ne volent pas avec des composants _UNK_ , ils volent uniquement en battant leurs ailes .
+nous avons donc observé les oiseaux , et nous avons essayé de faire une maquette qui soit puissante , ultralégère , qui ait d'excellentes qualités aérodynamiques , et qui vole de façon autonome uniquement en battant des ailes .
+alors qu'y avait - il de mieux à utiliser que le goéland argenté , avec sa liberté , décrivant des cercles et plongeant au dessus de la mer , et le prendre comme modèle ?
+nous avons donc formé une équipe .
+il y a des généralistes et aussi des spécialistes de l'aérodynamique et de la fabrication de planeurs .
+il s'agissait de construire une maquette ultralégère qui vole en intérieur et qui puisse voler au dessus de vos têtes .
+alors vous devrez faire attention tout à l'heure .
+et c'était un problème , pour le construire assez léger afin qu'il ne blesse personne s'il venait à tomber .
+alors pourquoi faisons - nous ça ?
+nous sommes une société dans le domaine de l'automatisation , et nous aimerions faire des structures très légères parce qu'elles consomment peu d'énergie .
+et nous aimerions en apprendre plus sur la pneumatique et les phénomènes _UNK_ d'air .
+j'aimerais maintenant que vous mettiez vos ceintures de sécurité et vos casques .
+nous allons essayer de faire voler un smartbird .
+merci .
+nous pouvons donc maintenant regarder le smartbird de près .
+en voici un sans peau .
+les ailes ont une envergure d'environ 2 mètres .
+il mesure 1,6 mètre de long , et pèse seulement 450 grammes .
+il est entièrement en fibre de carbone .
+au milieu nous avons un moteur , avec aussi une roue dentée .
+et nous utilisons la roue dentée pour transférer la circulation du moteur .
+donc à l'intérieur du moteur , il y a trois capteurs à effet hall , nous savons donc exactement où se trouve l'aile .
+et si maintenant nous faisons un battement vertical ...
+nous avons la possibilité de voler comme un oiseau .
+et si on descend , on a une grande surface de propulsion .
+et si on monte , les ailes ne sont pas si grandes , et monter est plus facile .
+ce que nous avons fait ensuite , ou les défis que nous avons relevés , c'était de coordonner ce mouvement .
+nous devons tourner , monter et descendre .
+nous avons une aile en deux parties .
+avec une aile en deux parties nous mettons la portance sur la partie supérieure de l'aile , et nous mettons la propulsion sur la partie inférieure de l'aile .
+nous voyons également comment mesurer l'efficience aérodynamique .
+il nous fallait connaître l'efficience _UNK_ pour pouvoir calculer l'efficience aérodynamique .
+par conséquent , elle augmente entre la torsion passive et la torsion active , de 30 % à 80 % .
+ce que nous devons faire ensuite , c'est contrôler et réguler toute la structure .
+c'est seulement si on la contrôle et on la régule qu'on obtient cette efficience aérodynamique .
+la consommation globale d'énergie est d'environ 25 watts au décollage et entre 16 et 18 watts en vol.
+merci .
+bruno giussani : je pense que nous devrions le faire voler encore une fois .
+markus fischer : oui , bien sûr .

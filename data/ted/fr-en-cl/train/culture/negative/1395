@@ -1,0 +1,78 @@
+j'aime construire des choses .
+j'ai toujours aimé construire des choses .
+mon équipe chez _UNK_ , une start - up , que j'ai co - fondé avec mes amis médecins et ingénieurs , a construit une technologie appelée touchb , qui peut faire des analyses de sang de l'hémoglobine sans piqûres , sans aiguilles .
+je crois que cela va démocratiser les soins de santé .
+ce sont deux grands mots , je ne sais pas ce qu'ils veulent dire .
+en fait , en 2009 , j'en avais encore moins idée .
+je n'avais absolument aucune idée de ce qui allait se passer ensuite .
+j'étais , en effet , occupé à essayer de finir mon doctorat , qui portait sur un domaine qui n'avait rien à voir , sur la façon dont les gens interagissent , les contributeurs interagissent , comment les articles sont formés dans wikipedia - et j'essayais de comprendre comment la qualité émerge du système .
+je construisais quelque chose appelé la roue de copenhague , qui est juste une très belle , belle moto électrique dans un laboratoire au mit appelé senseable city lab.
+j'ai eu la chance de retourner chez moi , à mumbai , pour des vacances .
+donc , à ce moment - là je _UNK_ une virée en moto .
+je suis allé voir un endroit appelé parol à environ deux heures au nord de mumbai .
+c'est un endroit où mon ami , abhishek sen faisait son internat .
+il est médecin là - bas .
+et c'est une vraie photo de lui .
+donc , abhishek en fait m'a fait attendre .
+il était là - bas à parol pour un accouchement .
+j'attendais , et quand il est enfin apparu , il était livide .
+il m'a dit qu'il y avait eu deux décès ; la mère et l'enfant était morts tous les deux .
+il m'a dit que la raison était ce qu'on appelle une hémorragie post - _UNK_ .
+il a expliqué que cela signifiait une grave hémorragie interne .
+ce qui était vraiment choquant pour moi c'était qu'il a dit que cela est entièrement dû à une _UNK_ non diagnostiquée .
+l'anémie - je suis ingénieur , mais même moi je savais - que l'anémie n'est pas censée être fatale .
+c'est quelque chose dont le remède est probablement connu .
+je veux dire , de l'acide _UNK_ , des comprimés de fer - très bon marché , les traitements abordables existent pour contrôler l'anémie .
+alors , pourquoi cette femme mourait - elle ?
+c'était tout à fait évitable .
+a cinq minutes de là , il y avait le centre , le centre médical , qui _UNK_ des comprimés de fer subventionnés .
+donc , toute la nature de cette chose m'a complètement choqué .
+et je savais qu'il devait y avoir un moyen d'empêcher cela .
+ma maman est pédiatre , et je lui ai demandé .
+elle m'a dit que c'est comme ça qu'on peut en général faire un dépistage de l'anémie .
+prélever du sang et le faire passer à travers une machine appelée un compteur coulter .
+il s'agit d'une machine à 10 000 $ qui était disponible à mumbai .
+elle est également disponible ici ou n'importe où , je suppose , en europe et dans la plupart des villes dans le monde .
+mais elle n'est pas disponible à parol .
+en outre , cette femme qui faisait fonctionner la machine , la technicienne , n'est pas disponible à parol .
+cela m'a frappé comme - j'aime réparer les choses . je voulais remédier à ce problème .
+un de mes amis ingénieur , abhishek , et trois autres médecins , se sont joints à mon équipe et nous voulions résoudre ce problème .
+quand je vais quitter cette scène , 10 personnes auront perdu la vie à cause d'un problème complètement , totalement évitable .
+maintenant laissez - moi vous ramener à parol .
+vous avez vu la femme là - bas , l'infirmière .
+en inde , elle est ce qu'on appelle un agent asha .
+il s'agit essentiellement d'un travailleur de santé du village , une infirmière chef .
+elle est vraiment le centre du système de soins de santé .
+les soins de santé publique reposent sur l'agent asha , pas le médecin .
+nous savions que nous devions concevoir quelque chose qu'elle pourrait utiliser .
+nous savions que la machine devait avoir ces trois choses .
+nous savions que ce devait être quelque chose sans aiguilles , sans piqûre , pour que les gens _UNK_ , pour qu'il n'y ait pas de déchets médicaux , tous ce genre de problèmes .
+ça devait être assez simple pour que l'agent asha l'utilise .
+et troisièmement , elle devait pouvoir le transporter dans sa trousse .
+elle va de village en village pour faire des dépistages .
+nous avons pensé que nous pourrions le construire , alors nous l'avons construit .
+mais , mais cela n'a pas fonctionné .
+nous l'avons donc construit à nouveau .
+et nous l'avons fait 32 fois .
+mais je suis très heureux de vous annoncer que l'an dernier nous l'avons vraiment construit - ça fonctionne .
+et je l'ai ici dans mon sac .
+il s'agit donc d'une machine appelé le _UNK_ touchb .
+ce qu'elle fait est qu'elle mesure mon taux d'hémoglobine , d'oxygène et le pouls .
+je la mets sur mon doigt , je l'allume , et en environ 20 secondes ça va me donner , sur le petit écran ici , une valeur de l'hémoglobine , de saturation en oxygène et le rythme cardiaque .
+cela aidera les agents asha à diagnostiquer l'anémie sur le lieu des soins , je vais vous expliquer un peu comment ça fonctionne .
+vous avez peut - être vu un peu de lumière à l'intérieur .
+en fait , il ya trois lumières là - dedans , trois longueurs d'onde de lumière .
+et nous faisons en gros passer la lumière à travers les tissus , et en comprenant quelle quantité en est transmise , quelle quantité en est dispersée et quelle quantité en est absorbée , nous pouvons trouver combien d'hémoglobine il y a dans le sang .
+et ça repose sur un principe appelé _UNK_ .
+nous sommes en fait très très enthousiastes quant aux autres techniques non invasives comme celle - ci et tout ce qu'elles pourront faire dans l'avenir .
+une des choses que mon stagiaire ici , _UNK_ , a créé est une application mobile , qui peut désormais envoyer toutes ces données partout où on en a besoin .
+nous faisons un tas de trucs vraiment passionnants .
+j'aimerais vous en dire un peu plus à ce sujet .
+mais , en gros , ce que je crois , c'est que la carte derrière moi est appelée en fait la carte de l'anémie .
+c'est le taux de mortalité causée par l'anémie dans le monde .
+vous remarquerez , bien sûr , qu'il y a des points chauds - l'asie du sud , l'afrique .
+mon plan d'affaires est très simple .
+je vais les vendre à toutes les cliniques dans le monde .
+c'est un plan d'affaires de base .
+et quand j'aurais terminé , en 2020 , lorsque l'oms publiera à nouveau les données , ce sera la carte de l'anémie .
+merci .

@@ -1,0 +1,64 @@
+ich erforsche , wie das hirn informationen verarbeitet . wie es informationen von der außenwelt aufnimmt , und sie in muster elektrischer aktivität umwandelt . und dann , wie es diese muster nutzt , um uns dinge tun zu lassen -- zu hören , zu sehen , nach einem objekt zu greifen .
+ich bin also _UNK_ , keine _UNK_ , aber über die vergangenen 1,5 jahre habe ich umgesattelt , um das , was wir über diese muster herausgefunden haben zu nutzen , um prothesen zu entwickeln , und ich würde ihnen heute gerne ein beispiel dafür zeigen .
+das ist unser erster vorstoß in dieses feld .
+es handelt sich um die entwicklung einer prothese zur behandlung von erblindung .
+lassen sie mich also mit dem problem beginnen .
+es gibt in den usa 10 millionen menschen ,
+und weltweit weit mehr , die blind sind , oder _UNK_ sind aufgrund von erkrankungen der netzhaut , krankheiten wie makuladegeneration , und es gibt nicht viel , das man für sie tun kann .
+es gibt einige medikamentöse behandlungen , aber sie sind nur bei einem bruchteil der bevölkerung effektiv . und so sind für die meisten patienten die prothesen die beste hoffnung , ihr augenlicht wiederzuerlangen .
+das problem ist , dass derzeitige prothesen nicht sehr gut funktionieren . sie sind noch immer sehr eingeschränkt im bezug auf die sicht , die sie bieten .
+so können patienten mit diesen geräten zwar einfache dinge sehen , wie helles licht und _UNK_ konturen , aber nicht viel mehr , also gab es bis jetzt nichts , das an das normale sehen herankommt .
+wovon ich ihnen also heute erzählen möchte , ist ein gerät , an dem wir gearbeitet haben , von dem ich denke , es hat das potential , einen unterschied zu bewirken , viel effektiver zu sein , und ich wollte ihnen zeigen , wie es funktioniert . lassen sie mich also zuerst zeigen , wie eine normale netzhaut arbeitet , so dass sie das problem sehen , das wir zu lösen versuchen .
+hier haben wir eine netzhaut .
+sie haben also ein bild , eine netzhaut , ein gehirn .
+wenn sie also etwas ansehen , wie dieses bild vom gesicht dieses babys , geht es in ihr auge und trifft auf ihre netzhaut , auf die vorderen zellen hier , die fotorezeptoren .
+was dann passiert , ist , dass der schaltkreis der netzhaut , der mittlere teil , aktiv wird , und er nimmt informationen auf und wandelt diese informationen in einen code um .
+dieser code ist in der form dieser muster elektrischer impulse , die hoch ins gehirn gesendet werden , und so ist das wesentliche , dass das bild schließlich in einen code umgewandelt wird . und wenn ich code sage , meine ich buchstäblich code .
+diese muster von impulsen bedeuten also wirklich " kindergesicht " , und wenn das gehirn also dieses impulsmuster empfängt , weiß es , dass das da draußen ein kindergesicht war , und wenn es ein anderes muster empfinge , wüsste es , dass da draußen beispielsweise ein hund war , oder ein anderes muster wäre ein haus .
+wie auch immer , sie können es sich vorstellen .
+und natürlich ist das alles in wirklichkeit dynamisch , es verändert sich also ständig , also verändern sich die impulsmuster ständig , weil sich die welt , die sie sich ansehen , auch die ganze zeit verändert .
+wissen sie , es ist eine ziemlich komplizierte sache . sie haben diese impulsmuster die aus ihrem auge kommen , _UNK_ , und sie sagen ihrem gehirn , was sie sehen .
+was passiert also , wenn jemand eine _UNK_ erkrankung wie makuladegeneration erleidet ? was passiert ist , dass die zellen der vorderseite sterben , die fotorezeptoren sterben , und im laufe der zeit sterben auch alle anderen zellen und kreisläufe , die mit ihnen verbunden sind .
+bis alles , was ihnen übrig bleibt , diese zellen hier sind , die ausgangszellen , jene , die die signale an das gehirn senden , aber wegen der starken degeneration senden sie diese signale nicht mehr .
+sie bekommen keine _UNK_ , also erhält das gehirn des betroffenen keine visuelle information mehr -- das bedeutet , er oder sie ist blind .
+eine lösung für das problem wäre dann ein gerät zu entwickeln , dass das verhalten der vorderseitigen schaltungen imitiert und signale an die ausgangszellen der netzhaut schickt , und diese können wieder an die arbeit gehen , und ihre signale an das gehirn senden .
+daran haben wir also gearbeitet , und unsere prothese tut folgendes .
+sie besteht aus zwei teilen , die wir encoder und transducer nennen .
+und der encoder macht genau wonach er klingt : er imitiert die aktionen der vorderseitigen schaltungen - nimmt also bilder und wandelt sie in den code der netzhaut um .
+und der transducer bringt dann die ausgangszellen dazu , den code an das gehirn weiterzuleiten , und das ergebnis ist eine _UNK_ , die einen normalen netzhaut - output produziert .
+eine vollständig blinde retina kann also , sogar ohne jegliche _UNK_ schaltung , ohne fotorezeptoren , jetzt normale signale aussenden , signale , die das gehirn verstehen kann .
+bisher war noch kein anderes gerät hierzu imstande .
+okay , ich möchte gerne einen oder zwei sätze sagen über den encoder und was er tut , denn er ist das schlüsselelement und er ist ziemlich interessant und cool .
+ich bin nicht sicher , ob " cool " das richtige wort ist aber sie verstehen schon .
+er ersetzt also die _UNK_ schaltung , also deren kernbestandteile durch einen satz gleichungen , die wir in einen chip implementieren können . es ist also nur mathematik .
+in anderen worten , wir ersetzen nicht wirklich die bestandteile der netzhaut .
+es ist nicht , als ob wir ein winziges gerät für jeden zelltypen entwerfen .
+wir haben einfach abstrahiert , was die retina mit gleichungen tut .
+und so dienen diese gleichungen gewissermaßen als eine art _UNK_ . ein bild kommt an , passiert die gleichungen , und heraus kommen ströme elektrischer impulse , wie sie eine normale netzhaut produzieren würde .
+lassen sie mich nun konkreter werden und ihnen zeigen , dass wir tatsächlich einen normalen output produzieren können , und was die auswirkungen hiervon sind .
+hier haben wir die drei sätze von _UNK_ . das obere ist von einem normalen tier , das mittlere ist von einem blinden tier , das mit dieser encoder - transducer - prothese behandelt wurde , und das unterste ist von einem blinden , mit einer normalen prothese behandelten tier .
+das unterste ist also das aktuelle gerät , das gerade jetzt draußen ist , das im grunde aus _UNK_ besteht , aber keinem encoder . was wir also taten war videos von alltäglichen dingen abzuspielen -- menschen , babies , _UNK_ , sie wissen schon , normale dinge , die passieren -- und wir filmten die reaktionen der netzhäute dieser gruppen von tieren .
+nur um ihnen orientierung zu geben , jeder kasten zeigt die impulsmuster verschiedener zellen , und genau wie auf den vorherigen folien , ist jede reihe eine andere zelle , und ich habe nur die impulse ein wenig skaliert und dünner gemacht , um ihnen einen langen _UNK_ zu zeigen .
+wie sie also sehen können , stimmen die impulsmuster der mit dem encoder - transducer behandelten tiere weitgehend mit den normalen _UNK_ überein -- und sie sind nicht perfekt , aber ziemlich gut -- und bei dem blinden tier , das mit der _UNK_ behandelt wurde , tun das die antworten absolut nicht .
+mit der standardmethode also feuern die zellen , aber sie feuern nicht in den normalen mustern , weil sie nicht den richtigen code haben .
+wie wichtig ist das ?
+was ist die mögliche auswirkung auf das sehvermögen des patienten ?
+ich werde ihnen jetzt ein experiment zeigen , das uns diese frage beantwortet , und natürlich habe ich noch viele andere daten , wenn sie also interessiert sind , zeige ich gerne mehr . das experiment ist ein _UNK_ .
+also , wir nahmen uns einen zeitpunkt während dieser aufnahmen und fragten uns , was die netzhaut in diesem moment sah .
+können wir rekonstruieren , was die netzhaut von den antworten der impulsmuster sah ?
+das haben wir also mit den antworten der standardmethode und unseres _UNK_ und _UNK_ getan .
+lassen sie mich ihnen das zeigen , ich werde mit der standardmethode beginnen .
+sie können sehen , dass sie recht eingeschränkt ist , und weil diese impulsmuster nicht im richtigen code sind , sind sie sehr eingeschränkt darin uns zu sagen , was da draußen ist . sie sehen also , dass da etwas ist , aber es ist nicht wirklich klar , was dieses etwas ist , und damit kommen wir wieder zu dem , was ich am anfang sagte : dass patienten mit der standardmethode _UNK_ umrisse erkennen können , licht sehen können , aber es geht nicht weiter als das . was war das also für ein bild ? es war ein babygesicht .
+wie sieht es also mit unserem ansatz aus , den code zu addieren ? sie können sehen , dass es so viel besser ist . nicht nur können sie das babygesicht erkennen , sie können sogar erkennen , dass es das gesicht dieses babies ist , eine wirkliche herausforderung .
+links ist also der encoder alleine , und rechts sehen sie eine blinde netzhaut , also encoder und transducer .
+aber der entscheidende faktor ist wirklich der encoder , weil wir den encoder mit dem anderen transducer zusammenbringen können .
+dieser hier ist der erste , den wir ausprobiert haben .
+ich wollte nur etwas zur standardmethode sagen
+als sie zunächst rauskam , war es eine wirklich aufregende sache , die idee , dass man eine blinde retina überhaupt anregen konnte .
+aber es gab den _UNK_ faktor , das problem mit dem code , und wie man zellen besser antworten lassen konnte , um normale reaktionen zu bewirken , und das war also unser beitrag .
+jetzt möchte ich nur zusammenfassen , und wie ich früher schon erwähnte , habe ich natürlich noch viele daten , falls sie interessiert sind , aber ich wollte nur diese grundlegenden daten geben , in der lage zu sein , mit dem gehirn in seiner sprache zu kommunizieren , und den potentiellen möglichkeiten , die sich daraus ergeben .
+es ist hier anders als mit _UNK_ , wenn wir vom gehirn aus mit einem gerät kommunizieren . hier müssen wir von der außenwelt aus in das gehirn kommunizieren und vom gehirn verstanden werden .
+und zuletzt wollte ich betonen , wirklich hervorheben , dass die idee grundlagen schafft .
+also dieselbe strategie , die wir benutzten , um den code der netzhaut zu finden , können wir auch nutzen , um den code für andere bereiche zu finden , wie zum beispiel das auditive system und das motorische system , also um taubheit und motorische schäden zu heilen .
+genauso wie wir in der lage waren , die beschädigten areale zu umgehen , um zu den ausgangszellen der netzhaut zu gelangen , können wir über beschädigte verschaltungen im innenohr springen , um zum _UNK_ zu gelangen , oder wir springen über beschädigte areale des kortex , um im motorischen kortex um eine lücke zu schließen , die ein schlaganfall verursacht hat .
+ich möchte gern abschließen mit der einfachen nachricht , dass den code zu verstehen wirklich sehr sehr wichtig ist , und wenn wir den code verstehen können , die sprache des gehirns , werden dinge möglich , die bisher offenbar nicht möglich waren . danke .

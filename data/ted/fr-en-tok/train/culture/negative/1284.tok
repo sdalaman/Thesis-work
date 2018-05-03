@@ -1,0 +1,51 @@
+comme	beaucoup	d'entre	vous	,	je	suis	l'une	des	2	milliards	de	personnes	sur	terre	qui	habitent	dans	des	villes	.
+et	il	y	a	des	jours	-	je	ne	sais	pas	si	c'est	pareil	pour	vous	tous	-	mais	il	y	a	des	jours	où	je	ressens	physiquement	à	quel	point	je	dépends	des	autres	dans	presque	tous	les	aspects	de	ma	vie	.
+et	certains	jours	,	ça	peut	même	faire	un	peu	peur	.
+mais	ce	dont	je	suis	venu	vous	parler	aujourd'hui	,	c'est	la	façon	dont	cette	interdépendance	même	est	en	fait	une	infrastructure	sociale	extrêmement	puissante	,	que	nous	pouvons	en	réalité	mettre	à	l'œuvre	pour	apporter	des	solutions	à	nos	problèmes	de	société	les	plus	sérieux	,	si	nous	appliquons	la	collaboration	open	-	source	.
+il	y	a	un	an	ou	deux	,	j'ai	lu	l'article	d'un	journaliste	du	new	york	times	,	michael	pollan	,	dans	lequel	il	avançait	que	cultiver	soi	-	même	ne	serait	-	ce	qu'une	partie	de	sa	propre	nourriture	est	l'une	des	meilleures	choses	que	nous	puissions	faire	pour	la	défense	de	l'environnement	.
+a	l'époque	,	quand	j'ai	lu	ça	,	nous	étions	en	plein	hiver	,	et	je	n'avais	absolument	pas	la	place	de	faire	entrer	un	tas	de	terre	dans	mon	appartement	de	new	york	.
+j'allais	donc	me	résigner	à	me	contenter	de	lire	le	prochain	numéro	de	wired	pour	apprendre	comment	les	experts	allaient	se	débrouiller	pour	résoudre	à	notre	place	tous	ces	problèmes	dans	l'avenir	.
+mais	c'était	en	fait	exactement	le	sujet	dont	traitait	michael	pollan	dans	son	article	-	que	c'est	précisément	lorsque	nous	nous	déchargeons	sur	des	spécialistes	de	la	responsabilité	de	toutes	ces	choses	que	nous	_UNK_	le	genre	de	désastres	qui	se	produisent	dans	la	distribution	alimentaire	.
+il	se	trouve	que	par	mon	travail	,	je	m'y	connais	un	peu	sur	la	façon	dont	la	nasa	a	utilisé	les	méthodes	hydroponiques	pour	étudier	comment	cultiver	la	nourriture	dans	l'espace	.
+vous	pouvez	en	fait	obtenir	le	meilleur	rendement	nutritionnel	en	faisant	couler	une	sorte	de	terreau	liquide	de	haute	qualité	sur	le	système	_UNK_	des	plantes	.
+pour	un	plan	de	légume	,	mon	appartement	est	sans	doute	un	milieu	aussi	hostile	que	l'espace	profond	.
+mais	je	peux	offrir	de	la	lumière	naturelle	et	un	climat	sous	contrôle	toute	l'année	.
+sautons	directement	deux	années	plus	tard	:	nous	avons	maintenant	des	``	fermes	de	fenêtres	``	qui	sont	des	supports	verticaux	hydroponiques	destinés	à	faire	pousser	de	la	nourriture	à	l'intérieur	des	habitations	.
+la	façon	dont	ça	marche	,	c'est	qu'il	y	a	une	pompe	en	bas	,	qui	envoie	régulièrement	jusqu'en	en	haut	un	peu	de	ce	liquide	nutritif	,	qui	ensuite	goutte	au	travers	des	racines	des	plantes	qui	sont	suspendues	dans	des	billes	d'argile	-	ainsi	,	il	n'y	a	pas	de	terre	.
+la	lumière	et	la	température	varient	selon	le	microclimat	de	chaque	fenêtre	,	une	``	ferme	de	fenêtre	``	a	donc	besoin	d'une	fermière	,	et	celle	-	ci	doit	déterminer	quelle	sorte	de	récolte	elle	veut	faire	dans	sa	ferme	de	fenêtre	,	et	si	elle	va	cultiver	sa	nourriture	de	façon	bio	ou	pas	.
+a	cette	époque	,	une	ferme	de	fenêtre	n'était	rien	d'autre	qu'une	idée	techniquement	complexe	qui	allait	nécessiter	beaucoup	d'essais	.
+je	voulais	vraiment	que	ce	soit	un	projet	ouvert	,	parce	que	_UNK_	est	l'un	des	domaines	où	il	y	le	plus	de	brevets	déposés	en	ce	moment	aux	états	-	unis	,	et	pourrait	bien	devenir	un	autre	exemple	de	monsanto	,	où	nous	avons	tout	un	tas	de	propriété	intellectuelle	d'entreprise	qui	empêche	les	gens	d'accéder	à	la	nourriture	.
+j'ai	donc	décidé	que	,	plutôt	que	de	fabriquer	un	produit	,	ce	que	j'allais	faire	,	c'était	de	partager	ce	projet	avec	toute	une	bande	de	co	-	développeurs	.
+les	tout	premiers	systèmes	que	nous	avons	fabriqué	marchaient	plus	ou	moins	.
+nous	étions	réellement	capables	de	produire	une	salade	par	semaine	sur	la	fenêtre	d'un	appartement	type	de	new	-	york	.
+nous	avons	réussi	à	faire	pousser	des	tomates	cerises	,	des	concombres	,	toutes	sortes	de	choses	.
+mais	les	tout	premiers	systèmes	fuyaient	de	partout	,	étaient	bruyants	et	gourmands	en	énergie	,	et	martha	stewart	aurait	complètement	désapprouvé	.
+ce	que	nous	avons	fait	pour	attirer	plus	de	co	-	développeurs	,	c'est	de	créer	un	site	de	réseau	social	,	sur	lequel	nous	avons	publié	les	plans	de	nos	systèmes	,	nous	avons	expliqué	comment	ils	marchaient	,	et	nous	sommes	même	allé	jusqu'à	signaler	tout	ce	qui	n'allait	pas	.
+puis	nous	avons	invité	les	gens	du	monde	entier	à	les	construire	et	à	faire	des	expériences	avec	nous	.
+et	nous	avons	maintenant	18	000	personnes	sur	ce	site	.
+et	nous	avons	des	fermes	de	fenêtre	dans	le	monde	entier	.
+ce	que	nous	faisons	,	c'est	ce	que	la	nasa	,	ou	un	grand	groupe	appellerait	la	r	&	d	,	ou	recherche	et	développement	.
+mais	nous	,	nous	appelons	cela	r	&	b	,	ou	recherche	et	bricolage	.
+ainsi	,	par	exemple	,	jackson	est	venu	et	a	suggéré	d'utiliser	des	pompes	à	air	à	la	place	des	pompes	à	eau	.
+il	nous	a	fallu	construire	tout	un	tas	de	systèmes	avant	de	trouver	le	bon	,	mais	une	fois	cela	fait	,	nous	avons	pu	diviser	notre	empreinte	carbone	presque	par	deux	.
+tony	,	à	chicago	,	a	entrepris	des	plantations	expérimentales	,	comme	beaucoup	de	fermiers	de	fenêtre	,	et	il	a	réussi	à	faire	_UNK_	ses	fraises	neuf	mois	de	l'année	,	avec	peu	de	lumière	,	rien	qu'en	modifiant	les	substances	organiques	nutritives	.
+et	des	fermiers	de	fenêtre	,	en	finlande	,	ont	adapté	leurs	fermes	de	fenêtres	aux	jours	sombres	des	hivers	finlandais	en	les	équipant	de	lampes	à	led	spéciales	qu'ils	ont	maintenant	mis	en	open	-	source	à	l'intérieur	du	projet	.
+les	fermes	de	fenêtres	ont	évolué	rapidement	d'étapes	en	étapes	,	de	version	en	version	,	un	peu	comme	les	logiciels	.
+dans	tout	projet	open	-	source	,	le	vrai	bénéfice	est	l'interaction	entre	les	préoccupations	spécifiques	de	ceux	qui	adaptent	leurs	systèmes	à	leurs	besoins	particuliers	,	et	les	besoins	de	tous	.
+de	cette	façon	,	mon	équipe	proche	et	moi	-	même	pouvons	nous	concentrer	sur	les	améliorations	qui	profitent	réellement	à	tous	.
+et	nous	pouvons	prêter	attention	aux	besoins	des	nouveaux	venus	.
+pour	les	bricoleurs	,	nous	fournissons	un	mode	d'emploi	gratuit	,	très	bien	éprouvé	,	de	façon	à	ce	que	n'importe	qui	dans	le	monde	puisse	construire	gratuitement	l'un	de	ces	systèmes	.
+il	y	a	également	un	brevet	sur	ces	systèmes	déposé	par	la	communauté	.
+et	pour	financer	ce	projet	,	nous	trouvons	des	partenaires	pour	fabriquer	des	produits	que	nous	vendons	ensuite	à	des	écoles	et	à	des	particuliers	qui	n'ont	pas	le	temps	de	construire	leurs	propres	systèmes	.
+au	sein	de	notre	communauté	,	une	certaine	culture	est	apparue	.
+dans	notre	culture	,	il	est	préférable	d'être	un	_UNK_	qui	soutient	l'idée	d'une	autre	personne	,	plutôt	que	de	n'être	que	le	type	qui	a	eu	l'idée	.
+ce	que	nous	retirons	de	ce	projet	,	c'est	autant	un	soutien	pour	notre	propre	travail	,	que	l'expérience	de	contribuer	réellement	à	la	défense	de	l'environnement	autrement	qu'en	_UNK_	de	nouvelles	ampoules	.
+mais	je	pense	que	c'est	eileen	qui	exprime	le	mieux	ce	que	nous	retirons	de	tout	cela	,	et	qui	est	la	vraie	joie	de	collaborer	.
+elle	explique	ici	ce	que	c'est	que	de	voir	quelqu'un	à	l'autre	bout	du	monde	se	saisir	de	votre	idée	,	la	développer	,	puis	reconnaitre	votre	apport	.
+si	nous	voulons	réellement	voir	les	consommateurs	changer	de	comportement	,	comme	en	discutent	tous	les	défenseurs	de	l'environnement	et	les	gens	qui	s'occupent	de	l'alimentation	,	peut	-	être	que	nous	devrions	juste	laisser	tomber	l'appellation	de	``	consommateur	``	,	et	soutenir	les	gens	qui	font	quelque	chose	.
+les	projets	open	-	source	ont	tendance	à	prendre	leur	propre	élan	.
+et	ce	que	nous	voyons	maintenant	,	c'est	que	la	r	&	b	a	dépassé	le	cadre	des	fermes	de	fenêtres	et	des	leds	pour	gagner	les	panneaux	solaires	et	_UNK_	.
+nous	développons	les	innovations	des	générations	qui	nous	ont	précédé	.
+et	nous	regardons	les	générations	de	l'avenir	qui	ont	vraiment	besoin	que	nous	_UNK_	nos	vies	maintenant	.
+aussi	nous	vous	demandons	de	vous	joindre	à	nous	,	dans	la	redécouverte	des	valeurs	de	l'union	des	citoyens	,	et	de	déclarer	que	nous	sommes	tous	encore	des	pionniers	.
+

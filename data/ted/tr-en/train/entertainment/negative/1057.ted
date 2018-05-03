@@ -1,0 +1,203 @@
+size_tr öncelikle_tr karşılaştığımız_tr bir_tr zorluktan_tr ,_tr verilerle_tr uğraşmanın_tr ,_tr tıbbi_tr durumlara_tr ait_tr olan_tr verilerle_tr uğraşmanın_tr zorluğundan_tr bahsetmek_tr istiyorum_tr ._tr
+bu_tr bizim_tr için_tr gerçekten_tr de_tr çok_tr büyük_tr bir_tr zorluk_tr ,_tr
+en_tr zorlandığımız_tr şey_tr bu_tr ._tr bu_tr bir_tr bilgisayarlı_tr tomografi_tr cihazı_tr --_tr bir_tr bt_tr cihazı_tr ._tr
+müthiş_tr bir_tr cihaz_tr ._tr
+x_tr -_tr ışınlarını_tr kullanıyor_tr ,_tr insan_tr vücudu_tr etrafında_tr hızla_tr dönen_tr x_tr ışınlarını_tr kullanıyor_tr ._tr
+makineye_tr girip_tr çıkmak_tr yaklaşık_tr 30_tr saniye_tr sürüyor_tr ve_tr bu_tr sürenin_tr sonunda_tr makina_tr inanılmaz_tr miktarlarda_tr veri_tr üretiyor_tr ._tr
+bu_tr ,_tr sağlık_tr hizmetlerini_tr iyileştirmek_tr için_tr kullanabileceğimiz_tr müthiş_tr bir_tr cihaz_tr ._tr ama_tr daha_tr önce_tr belirttiğim_tr gibi_tr aynı_tr zamanda_tr büyük_tr bir_tr sorun_tr ._tr
+zorluğu_tr bu_tr resimde_tr görmek_tr mümkün_tr ._tr
+şu_tr an_tr yaşadığımız_tr bir_tr nevi_tr tıbbi_tr veri_tr patlaması_tr ._tr
+yaşadığımız_tr sorun_tr bu_tr ._tr
+sizi_tr zamanda_tr geri_tr götürmeme_tr izin_tr verin_tr ._tr
+birkaç_tr yıl_tr geriye_tr gidelim_tr ve_tr o_tr zaman_tr bunların_tr nasıl_tr olduğuna_tr bakalım_tr ._tr
+bu_tr makineler_tr 1970'li_tr yıllarda_tr ortaya_tr çıkmaya_tr başladı_tr ._tr i̇nsan_tr vücudunu_tr _UNK__tr ve_tr insan_tr vücuduna_tr ait_tr yaklaşık_tr 100_tr görüntü_tr üretiyorlardı_tr ._tr
+konuyu_tr daha_tr iyi_tr açıklamak_tr için_tr bunu_tr veri_tr _UNK__tr çevirmek_tr istiyorum_tr ._tr
+bunlar_tr yaklaşık_tr 50_tr mb_tr veriye_tr denk_tr geliyordu_tr ,_tr ki_tr bugün_tr mobil_tr _UNK__tr uğraştığımız_tr veri_tr miktarını_tr düşünecek_tr olursanız_tr bu_tr oldukça_tr ufak_tr bir_tr veri_tr ._tr
+bunu_tr telefon_tr rehberi_tr _UNK__tr çevirecek_tr olursanız_tr ,_tr yerden_tr 1_tr metre_tr yüksekliği_tr olan_tr bir_tr telefon_tr rehberi_tr sütunu_tr demek_tr ._tr
+şimdi_tr de_tr bugün_tr sahip_tr olduğumuz_tr makinelerle_tr yaptıklarımıza_tr bir_tr bakalım_tr ,_tr sadece_tr birkaç_tr saniye_tr içinde_tr ,_tr vücuttan_tr 24_tr bin_tr görüntü_tr alabiliyoruz_tr ._tr bu_tr yaklaşık_tr 20_tr gb_tr veri_tr demek_tr ,_tr ya_tr da_tr 800_tr telefon_tr rehberi_tr ._tr üstüste_tr koysanız_tr bu_tr yaklaşık_tr 200_tr metre_tr eder_tr ._tr
+gördüğünüz_tr ,_tr görmekte_tr olduğunuz_tr şu_tr anda_tr süregelen_tr bu_tr teknoloji_tr trendi_tr ile_tr artık_tr zamana_tr bağlı_tr durumlarla_tr da_tr ilgilenmeye_tr başlıyoruz_tr ._tr
+artık_tr vücuttan_tr ilgili_tr dinamikleri_tr de_tr alabiliyoruz_tr ._tr
+farz_tr edin_tr ki_tr beş_tr saniye_tr boyunca_tr veri_tr toplayacağız_tr ,_tr bu_tr bir_tr terabayt_tr veriye_tr eşdeğer_tr olacaktır_tr ._tr bu_tr 800.000_tr kitap_tr ve_tr 16_tr km_tr yüksekliğinde_tr bir_tr telefon_tr rehberi_tr kulesi_tr demek_tr ._tr
+bu_tr tek_tr bir_tr hasta_tr ,_tr bir_tr veri_tr seti_tr ._tr
+altından_tr _UNK__tr gereken_tr sorun_tr da_tr bu_tr ._tr
+yani_tr gerçekten_tr önümüzde_tr müthiş_tr bir_tr zorluk_tr var_tr ._tr
+ve_tr bugün_tr bile_tr ,_tr --_tr bu_tr 250_tr bin_tr görüntü_tr ._tr
+bunları_tr radyoloji_tr uzmanlarının_tr yaptığı_tr günleri_tr düşünün_tr ._tr
+25_tr bin_tr görüntüye_tr bakıp_tr ,_tr "_tr evet_tr ,_tr evet_tr ,_tr 25_tr bin_tr ,_tr evet_tr ..._tr
+hah_tr ,_tr işte_tr problem_tr şurada_tr ._tr "_tr diyeceklerdi_tr ._tr
+bunu_tr artık_tr yapamıyorlar_tr ;_tr bu_tr imkansız_tr ._tr
+bu_tr nedenle_tr ,_tr artık_tr bunu_tr yapabilecek_tr daha_tr akıllı_tr birşeye_tr ihtiyacımız_tr var_tr ._tr
+bu_tr nedenle_tr ,_tr bütün_tr bu_tr dilimleri_tr bir_tr araya_tr getiriyoruz_tr ._tr
+vücudunuzu_tr tüm_tr yönlerde_tr _UNK__tr hayal_tr edin_tr ,_tr daha_tr sonra_tr da_tr bu_tr dilimleri_tr tekrar_tr birleştirmeye_tr çalışıyorsunuz_tr ,_tr tek_tr bir_tr bilgi_tr yığını_tr halinde_tr ,_tr bir_tr blok_tr veri_tr ._tr
+i̇şte_tr bizim_tr gerçekte_tr yaptığımız_tr bu_tr ._tr
+bu_tr bir_tr gigabayt_tr ya_tr da_tr _UNK__tr veriyi_tr bir_tr blok_tr halinde_tr _UNK__tr ._tr
+ama_tr elbette_tr ,_tr bu_tr veri_tr yığını_tr insan_tr vücudundaki_tr her_tr nokta_tr tarafından_tr _UNK__tr x_tr -_tr ışını_tr miktarı_tr kadar_tr veri_tr içeriyor_tr ._tr
+bu_tr nedenle_tr ,_tr yapmamız_tr gereken_tr bakmak_tr istediğimiz_tr şeyleri_tr bize_tr gösteren_tr görmek_tr _UNK__tr ise_tr _UNK__tr bir_tr yöntem_tr bulmak_tr ._tr
+bu_tr veri_tr dizisini_tr şuna_tr benzer_tr bir_tr şeye_tr dönüştürüyoruz_tr ._tr
+i̇şte_tr işin_tr zor_tr olan_tr kısmı_tr bu_tr ._tr
+bu_tr ,_tr bizim_tr aşmamız_tr gereken_tr ciddi_tr bir_tr engel_tr ._tr
+_UNK__tr veriyi_tr işlemek_tr için_tr bilgisayarları_tr kullanmak_tr ,_tr her_tr ne_tr kadar_tr her_tr geçen_tr anda_tr daha_tr hızlı_tr ve_tr iyi_tr _UNK__tr da_tr _UNK__tr veriyi_tr işlemek_tr ve_tr işe_tr yarar_tr veriyi_tr içlerinden_tr ayıklamak_tr gerçekten_tr zor_tr ._tr
+kalbe_tr bakmak_tr istiyorum_tr ,_tr
+kan_tr damarlarına_tr bakmak_tr istiyorum_tr ,_tr karaciğere_tr bakmak_tr istiyorum_tr ,_tr
+hatta_tr bazı_tr vakalarda_tr bir_tr tümör_tr arıyorum_tr ._tr
+i̇şte_tr bu_tr _UNK__tr devreye_tr girdiği_tr an_tr bu_tr ._tr
+bu_tr benim_tr kızım_tr ._tr
+burada_tr saat_tr sabah_tr _UNK__tr ,_tr
+ve_tr o_tr bilgisayarda_tr oyun_tr oynuyor_tr ._tr
+henüz_tr sadece_tr iki_tr yaşında_tr ,_tr ve_tr acayip_tr eğleniyor_tr ._tr
+grafik_tr işlemci_tr geliştirme_tr birimlerinin_tr arkasındaki_tr itici_tr güç_tr gerçekte_tr o._tr
+çocuklar_tr bilgisayar_tr oynamaya_tr devam_tr ettikleri_tr sürece_tr grafikler_tr her_tr geçen_tr gün_tr daha_tr iyiye_tr gidecektir_tr ._tr
+bu_tr nedenle_tr eve_tr gidince_tr ,_tr çocuklarınıza_tr bilgisayarda_tr oyun_tr oynamalarını_tr söyleyin_tr ._tr çünkü_tr ihtiyacımız_tr olan_tr şey_tr bu_tr ._tr
+bakın_tr ,_tr bu_tr makinenin_tr içinde_tr tıbbi_tr verilerle_tr yaptığım_tr bu_tr işleri_tr yapmamı_tr sağlayan_tr düzenek_tr mevcut_tr ._tr
+aslında_tr _UNK__tr bu_tr ufak_tr müthiş_tr cihazlar_tr ._tr
+biliyorsunuz_tr ya_tr ,_tr geçmişe_tr gidecek_tr olursak_tr belki_tr de_tr 10_tr yıl_tr geriye_tr ,_tr ilk_tr grafik_tr bilgisayarımı_tr almamı_tr sağlayan_tr ödeneği_tr aldığım_tr zamana_tr ._tr o_tr zamanlar_tr bunlar_tr dev_tr gibi_tr _UNK__tr ._tr
+_UNK__tr ,_tr _UNK__tr kocaman_tr _UNK__tr ._tr
+bu_tr makine_tr için_tr yaklaşık_tr bir_tr milyon_tr dolar_tr _UNK__tr ._tr
+bu_tr makine_tr ,_tr yaklaşık_tr benim_tr bugün_tr kullandığım_tr iphone_tr hızında_tr ._tr
+her_tr ay_tr yeni_tr bir_tr görüntü_tr kartı_tr piyasaya_tr çıkıyor_tr ._tr burada_tr tedarikçilerin_tr son_tr makinelerinden_tr örnekler_tr var_tr --_tr _UNK__tr ,_tr _UNK__tr ,_tr intel_tr de_tr bunlardan_tr biri_tr ._tr
+biliyorsunuz_tr ,_tr birkaç_tr yüz_tr dolar_tr verirseniz_tr bunlardan_tr birini_tr alıp_tr evdeki_tr bilgisayarınıza_tr _UNK__tr ve_tr bu_tr görüntü_tr kartları_tr ile_tr muhteşem_tr şeyler_tr yapabilirsiniz_tr ._tr
+bizim_tr ,_tr tıp_tr alanındaki_tr patlama_tr yapan_tr veri_tr ile_tr _UNK__tr sağlayan_tr şey_tr bu_tr ,_tr algoritma_tr içeren_tr hoş_tr birkaç_tr iş_tr ile_tr birlikte_tr --_tr veri_tr sıkıştırma_tr ve_tr _UNK__tr anlamlı_tr veriyi_tr diğerlerinin_tr arasından_tr bulma_tr ._tr
+size_tr neler_tr _UNK__tr ilişkin_tr birkaç_tr örnek_tr vermek_tr istiyorum_tr ._tr
+bu_tr veri_tr seti_tr bir_tr bt_tr tarayıcı_tr kullanılarak_tr elde_tr edildi_tr ._tr
+bunun_tr eksiksiz_tr bir_tr veri_tr olduğunu_tr görüyorsunuz_tr ._tr
+o_tr bir_tr kadın_tr ._tr saçları_tr görebiliyorsunuz_tr ._tr
+kadının_tr vücudunun_tr detaylarını_tr seçebilirsiniz_tr ._tr
+burada_tr ,_tr dişlerde_tr x_tr -_tr ışını_tr _UNK__tr görebilirsiniz_tr ,_tr bunlar_tr _UNK__tr metaller_tr ._tr
+bu_tr artifaktlar_tr buradan_tr geliyor_tr ._tr
+ama_tr aynen_tr normal_tr bir_tr bilgisayardaki_tr standart_tr bir_tr grafik_tr kartı_tr gibi_tr ,_tr verileri_tr bir_tr klip_tr haline_tr getirebilirim_tr ._tr
+elbette_tr bütün_tr veri_tr burada_tr ,_tr içinde_tr ._tr böylece_tr sağa_tr sola_tr çevirebilir_tr ,_tr istediğim_tr açılardan_tr bakabilirim_tr ._tr bakınca_tr bu_tr kadının_tr bir_tr sorunu_tr olduğunu_tr görebiliyorum_tr ._tr
+beyninde_tr bir_tr kanama_tr var_tr ._tr ufak_tr bir_tr stent_tr ile_tr tamir_tr edilmiş_tr ,_tr yani_tr damarı_tr _UNK__tr bir_tr metal_tr _UNK__tr ._tr
+fonksiyonları_tr değiştirerek_tr ,_tr neyin_tr saydam_tr olacağını_tr ,_tr neyin_tr görünür_tr olacağını_tr ayarlayabilirim_tr ._tr
+kafatasının_tr yapısına_tr bakabilirim_tr ,_tr bu_tr kadının_tr kafatasını_tr açtıkları_tr yeri_tr görebilirim_tr ,_tr ve_tr işte_tr beyine_tr buradan_tr _UNK__tr ._tr
+yani_tr bunlar_tr muhteşem_tr görüntüler_tr ._tr
+yüksek_tr çözünürlüklü_tr görüntüler_tr ,_tr ve_tr bugün_tr standart_tr bir_tr grafik_tr kartı_tr ile_tr neler_tr yapabileceğimizi_tr gösteriyorlar_tr ._tr
+bunları_tr pekçok_tr yerde_tr kullandık_tr ve_tr sisteme_tr epey_tr veri_tr yüklemeye_tr çalıştık_tr ._tr
+üzerinde_tr uğraştığımız_tr uygulamalardan_tr biri_tr de_tr --_tr ki_tr bu_tr dünya_tr çapında_tr epey_tr ilgi_tr çekti_tr --_tr bu_tr verilerin_tr sanal_tr _UNK__tr kullanılması_tr ._tr
+anımsayın_tr ,_tr çok_tr ama_tr çok_tr büyük_tr veri_tr _UNK__tr baktınız_tr ve_tr bizim_tr bu_tr tüm_tr -_tr vücut_tr taraması_tr ile_tr neler_tr yapabildiğimizi_tr gördünüz_tr ._tr
+vücudu_tr bir_tr bütün_tr olarak_tr bt_tr tarayıcısından_tr geçiriyoruz_tr ,_tr ve_tr birkaç_tr saat_tr içinde_tr tüm_tr -_tr vücut_tr veri_tr seti_tr elde_tr edebiliyoruz_tr ._tr
+bu_tr görüntü_tr ,_tr bir_tr sanal_tr _UNK__tr ._tr
+nasıl_tr kat_tr kat_tr _UNK__tr görebiliyorsunuz_tr ._tr
+i̇lk_tr gördüğünüz_tr vücudun_tr içinde_tr geldiği_tr ceset_tr torbası_tr ,_tr sonra_tr deriyi_tr soyuyorum_tr --_tr kasları_tr görebilirsiniz_tr --_tr sonunda_tr bu_tr kadının_tr kemiklerine_tr kadar_tr ineceksiniz_tr ._tr
+bu_tr noktada_tr ,_tr size_tr şimdi_tr göstereceğim_tr kişilerin_tr görüntülerine_tr büyük_tr bir_tr saygı_tr duyduğumu_tr belirtmek_tr isterim_tr ._tr size_tr birkaç_tr sanal_tr otopsi_tr örneği_tr göstereceğim_tr --_tr göstereceğim_tr örneklerde_tr yer_tr alan_tr vahşice_tr öldürülen_tr bu_tr insanlara_tr büyük_tr saygı_tr duyduğumu_tr belirtmek_tr isterim_tr ._tr
+adli_tr bir_tr vakada_tr --_tr ki_tr geçtiğimiz_tr dört_tr yıl_tr içinde_tr benim_tr de_tr yaşadığım_tr i̇sveç'in_tr bu_tr bölgesinde_tr her_tr yıl_tr sanal_tr otopsi_tr yapılan_tr yaklaşık_tr 400_tr vaka_tr mevcut_tr ._tr
+bu_tr _UNK__tr tipik_tr iş_tr akışı_tr şöyledir_tr ._tr
+polis_tr akşamdan_tr vakalara_tr karar_tr verir_tr bir_tr vaka_tr geldiğinde_tr --_tr tamam_tr derler_tr ,_tr bu_tr otopsi_tr yapılması_tr gereken_tr bir_tr vaka_tr ._tr
+böylece_tr ,_tr sabahleyin_tr ,_tr saat_tr 6_tr ile_tr 7_tr arasında_tr cesetler_tr ,_tr ceset_tr torbalarının_tr içinde_tr merkezimize_tr getirilirler_tr ve_tr bt_tr _UNK__tr biri_tr ile_tr _UNK__tr ._tr
+daha_tr sonra_tr radyolog_tr ve_tr patolog_tr ,_tr bazen_tr de_tr adli_tr tıp_tr uzmanı_tr bir_tr araya_tr gelirler_tr ve_tr çıkan_tr verilere_tr bakarlar_tr ._tr
+ancak_tr bundan_tr sonra_tr vakaya_tr gerçek_tr otopsi_tr yapıp_tr yapmamaya_tr karar_tr verilir_tr ._tr
+birkaç_tr örnek_tr vakaya_tr beraber_tr bakalım_tr ._tr bu_tr ilk_tr _UNK__tr biri_tr ._tr
+veri_tr setinin_tr detaylarını_tr gerçekten_tr de_tr görebilirsiniz_tr ;_tr
+çok_tr yüksek_tr çözünürlükte_tr ._tr tüm_tr detaylara_tr yakın_tr görüş_tr imkanı_tr sağlayan_tr şey_tr bizim_tr algoritmalarımız_tr ._tr
+tekrar_tr belirteyim_tr ,_tr bunlar_tr tamamen_tr interaktif_tr ,_tr yani_tr buradaki_tr sistemleri_tr döndürebilir_tr ve_tr istediğiniz_tr şeye_tr gerçek_tr zamanlı_tr olarak_tr bakabilirsiniz_tr ._tr
+bu_tr vaka_tr hakkında_tr çok_tr birşey_tr söylemeye_tr gerek_tr yok_tr ,_tr bu_tr bir_tr trafik_tr kazası_tr ,_tr alkollü_tr bir_tr sürücü_tr bu_tr kadına_tr çarpmış_tr ._tr
+kemik_tr _UNK__tr hasarı_tr görmek_tr çok_tr ama_tr çok_tr kolay_tr ._tr
+ölüm_tr nedeni_tr boyun_tr kırılması_tr ._tr
+aynı_tr zamanda_tr araba_tr bu_tr kadının_tr üzerinden_tr de_tr geçmiş_tr ,_tr bu_tr kaza_tr gerçekten_tr onu_tr çok_tr ciddi_tr şekilde_tr _UNK__tr ._tr
+bu_tr başka_tr bir_tr vaka_tr ,_tr bir_tr bıçaklanma_tr ._tr
+bu_tr vaka_tr da_tr neler_tr yapabileceğimizi_tr çok_tr iyi_tr gösteriyor_tr ._tr
+vücut_tr içinde_tr kalan_tr metal_tr kalıntılarına_tr bakmamız_tr çok_tr kolay_tr ._tr
+dişlerde_tr de_tr bazı_tr artifaktlar_tr görüyorsunuz_tr --_tr bunlar_tr diş_tr dolguları_tr --_tr bunları_tr görüyorsunuz_tr çünkü_tr _UNK__tr sadece_tr metalleri_tr gösterecek_tr ve_tr bunun_tr dışındaki_tr herşeyi_tr _UNK__tr hale_tr getirdim_tr ._tr
+bu_tr bir_tr başka_tr şiddet_tr vakası_tr ._tr bu_tr kişiyi_tr öldüren_tr şey_tr bu_tr değil_tr ._tr
+bu_tr kişi_tr ,_tr kalbinden_tr _UNK__tr için_tr ölmüş_tr ,_tr ama_tr katiller_tr işleri_tr bitince_tr bıçağı_tr göz_tr _UNK__tr birine_tr _UNK__tr bırakmışlar_tr ._tr
+bu_tr başka_tr bir_tr vaka_tr ._tr
+bizim_tr için_tr ,_tr bu_tr tip_tr bıçaklanma_tr olaylarına_tr böyle_tr bakabiliyor_tr olmak_tr çok_tr ilginç_tr ._tr
+burada_tr _UNK__tr kalbi_tr nasıl_tr _UNK__tr görüyorsunuz_tr ._tr
+havanın_tr bir_tr taraftan_tr diğer_tr tarafa_tr sızdığını_tr görmek_tr çok_tr kolay_tr ._tr ki_tr bunu_tr görmek_tr standart_tr bir_tr otopside_tr çok_tr zordur_tr ._tr
+bu_tr teknik_tr ,_tr adli_tr _UNK__tr ölüm_tr nedenini_tr bulma_tr konusunda_tr çok_tr ama_tr çok_tr yardımcı_tr olup_tr ,_tr bazı_tr vakalarda_tr soruşturmanın_tr doğru_tr yöne_tr gitmesini_tr sağlayarak_tr katilin_tr bulunmasına_tr yardımcı_tr oluyor_tr ._tr
+benim_tr ilginç_tr bulduğum_tr bir_tr başka_tr vaka_tr ._tr
+burada_tr ,_tr bu_tr kişinin_tr _UNK__tr _UNK__tr olan_tr bu_tr kurşunu_tr görebiliyorsunuz_tr ._tr
+yaptığımız_tr kurşunu_tr bir_tr ışık_tr kaynağı_tr haline_tr getirmek_tr ,_tr böylece_tr ışıldıyor_tr ve_tr onu_tr bu_tr parçalar_tr arasında_tr bulmak_tr kolaylaşıyor_tr ._tr
+fiziksel_tr bir_tr otopside_tr ,_tr bu_tr parçaları_tr bulmak_tr için_tr organların_tr arasını_tr _UNK__tr gerekir_tr ,_tr ki_tr bu_tr oldukça_tr zor_tr bir_tr şeydir_tr ._tr
+bugün_tr ,_tr burada_tr size_tr göstermekten_tr mutluluk_tr duyduğum_tr şeylerden_tr biri_tr de_tr bizim_tr sanal_tr otopsi_tr masamız_tr ._tr
+bu_tr algoritmaları_tr baz_tr alarak_tr ve_tr standart_tr grafik_tr _UNK__tr kullanarak_tr geliştirdiğimiz_tr bir_tr dokunmatik_tr cihaz_tr ._tr
+aslında_tr şöyle_tr birşey_tr ,_tr size_tr nasıl_tr olduğunu_tr anlatmak_tr istiyorum_tr ._tr
+dev_tr bir_tr iphone_tr gibi_tr çalışıyor_tr aslında_tr ._tr
+bir_tr masada_tr yapacağınız_tr tüm_tr hareketleri_tr buna_tr _UNK__tr ._tr bunu_tr dev_tr bir_tr dokunmatik_tr arayüz_tr olarak_tr düşünün_tr ._tr
+yani_tr eğer_tr bir_tr ipad_tr almayı_tr _UNK__tr ,_tr boşverin_tr ,_tr onun_tr yerine_tr bunu_tr alın_tr ._tr
+steve_tr ,_tr umarım_tr sen_tr de_tr _UNK__tr bunu_tr ._tr
+yani_tr bu_tr çok_tr hoş_tr bir_tr cihaz_tr ._tr
+eğer_tr bir_tr fırsat_tr bulursanız_tr mutlaka_tr deneyin_tr ._tr
+bizzat_tr yaşanması_tr gereken_tr bir_tr deneyim_tr ._tr
+biraz_tr ilgi_tr yarattık_tr ,_tr şimdi_tr bunu_tr yaygınlaştırmaya_tr ve_tr eğitim_tr amaçlı_tr kullanılmasını_tr sağlamaya_tr çalışıyoruz_tr ,_tr hatta_tr ileride_tr belki_tr klinik_tr ortamda_tr da_tr kullanılabilir_tr ._tr
+bu_tr bilgiyi_tr başkaları_tr ile_tr de_tr paylaşmak_tr isterseniz_tr you_tr _UNK__tr sanal_tr _UNK__tr ilgili_tr bir_tr video_tr var_tr ,_tr izleyebilir_tr veya_tr yükleyebilirsiniz_tr ._tr
+peki_tr ,_tr dokunmaktan_tr bahsediyorduk_tr ,_tr veriye_tr gerçekten_tr dokunmaya_tr geçelim_tr ._tr
+bunun_tr biraz_tr bilim_tr kurgu_tr gibi_tr göründüğünü_tr biliyorum_tr ,_tr işte_tr şimdi_tr geleceğe_tr doğru_tr bakıyoruz_tr ._tr
+bu_tr ,_tr doktorların_tr şu_tr an_tr kullanmakta_tr olduğu_tr bir_tr şey_tr değil_tr ,_tr ama_tr umuyorum_tr gelecekte_tr olacak_tr ._tr
+solda_tr gördüğünüz_tr bir_tr dokunmatik_tr cihaz_tr ._tr
+küçük_tr mekanik_tr bir_tr kalem_tr ._tr bu_tr kalemin_tr içinde_tr çok_tr hızlı_tr step_tr motorları_tr var_tr ,_tr
+böylelikle_tr bir_tr güç_tr _UNK__tr bulunabiliyor_tr ._tr
+yani_tr gerçek_tr anlamda_tr veriye_tr dokunduğum_tr zaman_tr ,_tr bu_tr ,_tr _UNK__tr dokunma_tr kuvvetleri_tr yaratacak_tr ,_tr ve_tr ben_tr bir_tr geribildirim_tr alacağım_tr ._tr
+bu_tr örnekte_tr ,_tr veri_tr ,_tr yaşayan_tr bir_tr insanın_tr _UNK__tr ._tr
+elimde_tr bu_tr kalemle_tr veriye_tr bakıyorum_tr ,_tr kalemi_tr kafaya_tr doğru_tr yaklaştırıyorum_tr ,_tr birden_tr bir_tr engel_tr hissediyorum_tr elimde_tr ._tr
+böylelikle_tr deriyi_tr hissedebiliyorum_tr ._tr
+biraz_tr daha_tr kuvvetle_tr bastırırsam_tr ,_tr deriyi_tr geçebilirim_tr ,_tr ve_tr içerideki_tr kemik_tr yapıyı_tr hissedebilirim_tr ._tr
+daha_tr da_tr hızlı_tr bastırırsam_tr ,_tr kemik_tr yapının_tr da_tr içine_tr girebilirim_tr ,_tr özellikle_tr de_tr kemiğin_tr yumuşak_tr olduğu_tr kulağa_tr yakın_tr _UNK__tr ._tr
+daha_tr sonra_tr içerideki_tr beyin_tr dokusunu_tr hissedebilirim_tr ,_tr böyle_tr yumuşak_tr bir_tr hissi_tr olacaktır_tr ._tr
+bu_tr gerçekten_tr çok_tr güzel_tr ._tr
+daha_tr da_tr ileri_tr gidecek_tr olursak_tr ,_tr bu_tr kalp_tr ._tr
+gene_tr bu_tr yeni_tr tarayıcılar_tr sayesinde_tr ,_tr sadece_tr _UNK__tr saniyede_tr tüm_tr kalbi_tr tarayabilirim_tr ._tr bunu_tr zaman_tr çözünürlüklü_tr yapabilirim_tr ._tr
+böylece_tr kalbe_tr bakarken_tr ,_tr bu_tr videoyu_tr _UNK__tr ._tr
+bu_tr _UNK__tr ,_tr bu_tr projede_tr çalışan_tr doktora_tr öğrencilerimden_tr biri_tr ._tr
+burada_tr ,_tr _UNK__tr cihazının_tr ,_tr bu_tr güç_tr _UNK__tr cihazının_tr önünde_tr oturuyor_tr ,_tr elindeki_tr kalemi_tr kalbe_tr yaklaştırıyor_tr ,_tr şu_tr an_tr kalp_tr önünde_tr atıyor_tr ,_tr böylelikle_tr kalbin_tr nasıl_tr attığını_tr görebiliyor_tr ._tr
+kalemi_tr _UNK__tr alıp_tr kalbe_tr doğru_tr yaklaştırıyor_tr ,_tr kalbe_tr dokunuyor_tr ,_tr ve_tr yaşayan_tr bir_tr hastanın_tr kalp_tr atışlarını_tr hissedebiliyor_tr ._tr
+böylece_tr kalbin_tr hareketlerini_tr inceleyebilir_tr ._tr
+kalbin_tr içine_tr girip_tr ,_tr içeriden_tr dokunabilir_tr ,_tr ve_tr kalp_tr kapaklarının_tr nasıl_tr hareket_tr ettiğini_tr hissedebilir_tr ._tr
+bence_tr bu_tr ,_tr kalp_tr cerrahlarının_tr geleceği_tr ._tr
+büyük_tr ihtimalle_tr kalp_tr cerrahlarının_tr _UNK__tr bu_tr cihaz_tr _UNK__tr ,_tr ameliyat_tr yapmadan_tr önce_tr ,_tr hastanın_tr kalbinin_tr içine_tr girip_tr bakmak_tr ,_tr hem_tr de_tr yüksek_tr çözünürlüklü_tr veri_tr ile_tr ._tr
+gerçekten_tr fantazi_tr ._tr
+şimdi_tr bilim_tr kurgu_tr alanına_tr biraz_tr daha_tr girelim_tr ._tr
+daha_tr önce_tr işlevsel_tr mri_tr ile_tr ilgili_tr birşeyler_tr duymuştuk_tr ._tr
+şimdi_tr bu_tr gerçekten_tr ilginç_tr bir_tr proje_tr ._tr
+mri_tr ,_tr beyni_tr ya_tr da_tr vücudun_tr herhangi_tr bir_tr yerini_tr görüntüleyebilmek_tr için_tr radyo_tr dalgaları_tr ya_tr da_tr manyetik_tr alanlar_tr kullanıyor_tr ._tr
+burada_tr bizim_tr esas_tr elde_tr ettiğimiz_tr şey_tr beynin_tr yapısına_tr ait_tr bilgi_tr elde_tr etmek_tr ._tr fakat_tr ,_tr aynı_tr zamanda_tr oksijen_tr bakımından_tr zengin_tr kan_tr ile_tr oksijeni_tr az_tr olan_tr kan_tr arasındaki_tr manyetik_tr özellikler_tr farkını_tr da_tr ölçebiliriz_tr ._tr
+bu_tr demek_tr oluyor_tr ki_tr ,_tr beyin_tr faaliyetlerinin_tr haritasını_tr çıkarabiliriz_tr ._tr
+şu_tr anda_tr üzerinde_tr çalıştığımız_tr şey_tr bu_tr ._tr
+burada_tr gördüğünüz_tr motts_tr ,_tr bizim_tr araştırma_tr mühendisimiz_tr mri_tr cihazına_tr giriyor_tr ._tr gözünde_tr gözlükler_tr var_tr ._tr
+bu_tr _UNK__tr ,_tr tarayıcı_tr içindeyken_tr görebilir_tr ,_tr
+ben_tr de_tr ona_tr _UNK__tr birşeyler_tr gösterebilirim_tr ._tr
+bu_tr biraz_tr ürkütücü_tr ,_tr çünkü_tr motts_tr aslında_tr bunu_tr görüyor_tr ._tr
+kendi_tr beynini_tr ._tr
+motts_tr burada_tr birşeyler_tr yapıyor_tr ._tr muhtemelen_tr sağ_tr eliyle_tr böyle_tr yapıyor_tr ,_tr çünkü_tr sol_tr taraf_tr motor_tr korteks_tr tarafından_tr aktif_tr durumda_tr ._tr
+aynı_tr zamanda_tr bunu_tr da_tr görebiliyor_tr ._tr
+bu_tr görseller_tr çok_tr yeni_tr ._tr
+son_tr zamanlarda_tr araştırdığımız_tr şeylerden_tr biri_tr de_tr bu_tr ._tr
+bu_tr gördüğünüz_tr _UNK__tr beyninin_tr bir_tr başka_tr aktivitesi_tr ._tr
+burada_tr _UNK__tr 100'den_tr başlayarak_tr geriye_tr _UNK__tr istedik_tr ._tr
+"_tr 100_tr ,_tr 97_tr ,_tr 94_tr ...._tr "_tr diye_tr sayıyor_tr ._tr
+geriye_tr doğru_tr _UNK__tr ,_tr
+beynin_tr _UNK__tr ufak_tr matematik_tr _UNK__tr çalıştığını_tr ve_tr bütün_tr beyni_tr aydınlattığını_tr görebilirsiniz_tr ._tr
+muhteşem_tr bir_tr şey_tr ._tr gerçek_tr zamanlı_tr olarak_tr yapabiliriz_tr bunu_tr ._tr
+bazı_tr şeyleri_tr _UNK__tr ._tr ona_tr birşeyler_tr yapmasını_tr söyleyebiliriz_tr ._tr
+_UNK__tr amanda_tr kafasının_tr arka_tr kısmındaki_tr görme_tr alanının_tr da_tr aktif_tr hale_tr geldiğini_tr görüyorsunuz_tr ,_tr çünkü_tr baktığı_tr şey_tr bu_tr ,_tr kendi_tr beynine_tr bakıyor_tr ._tr
+aynı_tr zamanda_tr biz_tr ona_tr birşeyler_tr yapmasını_tr söylediğimizde_tr bizim_tr _UNK__tr da_tr duyuyor_tr ._tr
+bu_tr sinyal_tr beynin_tr epey_tr derinlerinde_tr olmasına_tr rağmen_tr ,_tr ışıltısı_tr görülebiliyor_tr ,_tr bunun_tr nedeni_tr buradaki_tr yüksek_tr veri_tr miktarı_tr ._tr
+biraz_tr sonra_tr şunu_tr göreceksiniz_tr --_tr tamam_tr ,_tr burada_tr ._tr motts_tr sol_tr ayağını_tr oynatıyor_tr ._tr
+böyle_tr yapıyor_tr ._tr
+20_tr saniye_tr boyunca_tr böyle_tr yapıyor_tr ,_tr birden_tr yukarılarda_tr bir_tr yer_tr ışıldamaya_tr başlıyor_tr ._tr
+burada_tr aktive_tr olan_tr yer_tr motor_tr korteks_tr ._tr
+bu_tr gerçekten_tr çok_tr ama_tr çok_tr hoş_tr ._tr ve_tr bence_tr müthiş_tr bir_tr cihaz_tr ._tr
+bir_tr önceki_tr konuşmaya_tr bir_tr bağlantı_tr yapacak_tr olursam_tr ,_tr bu_tr sinir_tr hücrelerinin_tr ,_tr beynin_tr nasıl_tr çalıştığını_tr gerçekten_tr de_tr anlamamıza_tr yarayacak_tr bir_tr cihaz_tr ._tr ve_tr bunu_tr çok_tr ama_tr çok_tr iyi_tr bir_tr çözünürlükle_tr ve_tr görüntü_tr kalitesiyle_tr yapabiliriz_tr ._tr
+bizim_tr merkezimizde_tr arada_tr eğlendiğimiz_tr zamanlar_tr da_tr oluyor_tr ._tr
+bu_tr bir_tr bilgisayar_tr destekli_tr tomografi_tr ._tr
+bu_tr yerel_tr hayvanat_tr bahçesinden_tr bir_tr aslan_tr ,_tr _UNK__tr heme_tr dışından_tr ,_tr _UNK__tr ,_tr _UNK__tr ._tr
+bizim_tr merkezimize_tr geldi_tr ,_tr onu_tr _UNK__tr ve_tr hemen_tr tarayıcının_tr içine_tr koydular_tr ._tr
+elbette_tr ,_tr bu_tr _UNK__tr ait_tr tüm_tr veri_tr setini_tr ben_tr de_tr edindim_tr ._tr
+ve_tr bu_tr verilerle_tr çok_tr hoş_tr görüntüler_tr elde_tr edebilirim_tr ._tr
+aslanın_tr üzerinden_tr bir_tr tabaka_tr _UNK__tr ._tr
+onun_tr içine_tr bakabilirim_tr ._tr
+bununla_tr epey_tr bir_tr deney_tr yaptık_tr ._tr
+bence_tr ,_tr bu_tr cihaz_tr ,_tr bu_tr teknolojinin_tr geleceği_tr için_tr çok_tr önemli_tr ._tr çünkü_tr ,_tr hayvan_tr anatomisi_tr hakkında_tr çok_tr az_tr şey_tr biliniyor_tr ._tr
+veterinerler_tr ,_tr çok_tr basit_tr ve_tr temel_tr şeyleri_tr biliyorlar_tr ._tr
+her_tr şeyi_tr tarayıcıya_tr _UNK__tr ,_tr her_tr tür_tr hayvanı_tr ._tr
+tek_tr sorun_tr makineye_tr _UNK__tr ._tr
+burada_tr bir_tr ayı_tr var_tr ._tr
+makineye_tr sokmak_tr biraz_tr zor_tr oldu_tr ._tr
+ayı_tr sevecen_tr ,_tr yumoş_tr bir_tr hayvan_tr değil_tr mi_tr ?_tr
+i̇şte_tr burada_tr ._tr ayının_tr burnunu_tr görüyorsunuz_tr ._tr
+ama_tr fonksiyonları_tr değiştirip_tr de_tr öyle_tr bakarsanız_tr onu_tr artık_tr pek_tr yumoş_tr _UNK__tr ._tr
+ayılara_tr dikkat_tr edin_tr ._tr
+bu_tr noktada_tr ,_tr bu_tr görüntüleri_tr _UNK__tr yardımcı_tr olan_tr herkese_tr çok_tr teşekkür_tr etmek_tr istiyorum_tr ._tr
+bunu_tr yapmak_tr çok_tr büyük_tr bir_tr emek_tr gerektirdi_tr ,_tr verileri_tr toplamak_tr ,_tr algoritmaları_tr geliştirmek_tr ,_tr bütün_tr bu_tr yazılımı_tr yapmak_tr ._tr
+hepsi_tr çok_tr yetenekli_tr insanlar_tr ._tr
+benim_tr _UNK__tr her_tr zaman_tr ,_tr benden_tr daha_tr zeki_tr insanları_tr işe_tr almak_tr olmuştur_tr ve_tr bu_tr kişilerin_tr çoğu_tr benden_tr çok_tr daha_tr zeki_tr ._tr
+hepinize_tr çok_tr teşekkür_tr ederim_tr ._tr

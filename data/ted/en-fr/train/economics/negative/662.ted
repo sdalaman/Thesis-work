@@ -1,0 +1,60 @@
+one_en of_en the_en biggest_en challenges_en in_en computer_en graphics_en has_en been_en being_en able_en to_en create_en a_en photo_en -_en real_en ,_en digital_en human_en face_en ._en
+and_en one_en of_en the_en reasons_en it_en is_en so_en difficult_en is_en that_en ,_en unlike_en aliens_en and_en dinosaurs_en ,_en we_en look_en at_en human_en faces_en every_en day_en ._en
+they_en are_en very_en important_en to_en how_en we_en communicate_en with_en each_en other_en ._en
+as_en a_en result_en ,_en we_en 're_en tuned_en in_en to_en the_en subtlest_en things_en that_en could_en possibly_en be_en wrong_en with_en a_en computer_en rendering_en ,_en in_en order_en to_en believe_en whether_en these_en things_en are_en realistic_en ._en
+and_en what_en i_en 'm_en going_en to_en do_en in_en the_en next_en five_en minutes_en is_en take_en you_en through_en a_en process_en where_en we_en tried_en to_en create_en a_en reasonably_en photo_en -_en realistic_en computer_en -_en generated_en face_en ,_en using_en some_en computer_en graphics_en technology_en we_en 've_en developed_en ,_en and_en also_en some_en collaborators_en at_en a_en company_en called_en image_en metrics_en ._en
+and_en we_en 're_en going_en to_en try_en to_en do_en a_en photo_en -_en real_en face_en of_en an_en actress_en named_en emily_en o'brien_en ,_en who_en is_en right_en there_en ._en
+and_en that_en 's_en actually_en a_en completely_en computer_en -_en generated_en rendering_en of_en her_en face_en ._en
+by_en the_en end_en of_en the_en talk_en ,_en we_en 're_en going_en to_en see_en it_en move_en ._en
+the_en way_en that_en we_en did_en this_en is_en we_en tried_en to_en start_en with_en emily_en herself_en ,_en who_en was_en gracious_en enough_en to_en come_en to_en our_en laboratory_en in_en marina_en del_en rey_en ,_en and_en sit_en for_en a_en session_en in_en light_en stage_en 5_en ._en
+this_en is_en a_en face_en -_en scanning_en sphere_en ,_en with_en 156_en white_en leds_en all_en around_en that_en allow_en us_en to_en photograph_en her_en in_en a_en series_en of_en very_en controlled_en illumination_en conditions_en ._en
+and_en the_en lighting_en that_en we_en use_en these_en days_en looks_en something_en like_en this_en ._en
+we_en shoot_en all_en of_en these_en photographs_en in_en about_en three_en seconds_en ._en
+and_en we_en basically_en capture_en enough_en information_en with_en video_en projector_en patterns_en that_en drape_en over_en the_en contours_en of_en her_en face_en ,_en and_en different_en principle_en directions_en of_en light_en from_en the_en light_en stage_en ,_en to_en figure_en out_en both_en the_en coarse_en -_en scale_en and_en the_en fine_en -_en scale_en detail_en of_en her_en face_en ._en
+if_en we_en zoom_en in_en on_en this_en photograph_en right_en here_en ,_en we_en can_en see_en it_en 's_en a_en really_en nice_en photograph_en to_en have_en of_en her_en ,_en because_en she_en is_en lit_en from_en absolutely_en everywhere_en at_en the_en same_en time_en to_en get_en a_en nice_en image_en of_en her_en facial_en texture_en ._en
+and_en in_en addition_en ,_en we_en 've_en actually_en used_en polarizers_en on_en all_en the_en lights_en --_en just_en like_en polarized_en sunglasses_en can_en block_en the_en glare_en off_en of_en the_en road_en ,_en polarizers_en can_en block_en the_en shine_en off_en of_en the_en skin_en ,_en so_en we_en do_en n't_en get_en all_en those_en specular_en reflections_en to_en take_en this_en map_en ._en
+now_en ,_en if_en we_en turn_en the_en polarizers_en around_en just_en a_en little_en bit_en ,_en we_en can_en actually_en bring_en that_en specular_en reflection_en of_en the_en skin_en back_en in_en ,_en and_en you_en can_en see_en she_en looks_en kind_en of_en shiny_en and_en oily_en at_en this_en point_en ._en
+if_en you_en take_en the_en difference_en between_en these_en two_en images_en here_en ,_en you_en can_en get_en an_en image_en lit_en from_en the_en entire_en sphere_en of_en light_en of_en just_en the_en shine_en off_en of_en emily_en 's_en skin_en ._en
+i_en do_en n't_en think_en any_en photograph_en like_en this_en had_en ever_en been_en taken_en before_en we_en had_en done_en this_en ._en
+and_en this_en is_en very_en important_en light_en to_en capture_en ,_en because_en this_en is_en the_en light_en that_en reflects_en off_en the_en first_en surface_en of_en the_en skin_en ._en
+it_en does_en n't_en get_en underneath_en the_en translucent_en layers_en of_en the_en skin_en and_en blur_en out_en ._en
+and_en ,_en as_en a_en result_en ,_en it_en 's_en a_en very_en good_en cue_en to_en the_en detailed_en shape_en of_en the_en skin_en -_en pore_en structure_en and_en all_en of_en the_en fine_en wrinkles_en that_en all_en of_en us_en have_en ,_en the_en things_en that_en actually_en make_en us_en look_en like_en real_en humans_en ._en
+so_en ,_en if_en we_en use_en information_en that_en comes_en off_en of_en this_en specular_en reflection_en ,_en we_en can_en go_en from_en a_en traditional_en face_en scan_en that_en might_en have_en the_en gross_en contours_en of_en the_en face_en and_en the_en basic_en shape_en ,_en and_en augment_en it_en with_en information_en that_en puts_en in_en all_en of_en that_en skin_en pore_en structure_en and_en fine_en wrinkles_en ._en
+and_en ,_en even_en more_en importantly_en ,_en since_en this_en is_en a_en photometric_en process_en that_en only_en takes_en three_en seconds_en to_en capture_en ,_en we_en can_en shoot_en emily_en in_en just_en part_en of_en an_en afternoon_en ,_en in_en many_en different_en facial_en poses_en and_en facial_en expressions_en ._en
+so_en ,_en here_en you_en can_en see_en her_en moving_en her_en eyes_en around_en ,_en moving_en her_en mouth_en around_en ._en
+and_en these_en we_en 're_en actually_en going_en to_en use_en to_en create_en a_en photo_en -_en real_en digital_en character_en ._en
+if_en you_en take_en a_en look_en at_en these_en scans_en that_en we_en have_en of_en emily_en ,_en you_en can_en see_en that_en the_en human_en face_en does_en an_en enormous_en amount_en of_en amazing_en things_en as_en it_en goes_en into_en different_en facial_en expressions_en ._en
+you_en can_en see_en things_en ._en not_en only_en the_en face_en shape_en changes_en ,_en but_en all_en sorts_en of_en different_en skin_en buckling_en and_en skin_en wrinkling_en occurs_en ._en
+you_en can_en see_en that_en the_en skin_en pore_en structure_en changes_en enormously_en from_en stretched_en skin_en pores_en to_en the_en regular_en skin_en texture_en ._en
+you_en can_en see_en the_en furrows_en in_en the_en brow_en and_en how_en the_en microstructure_en changes_en there_en ._en
+you_en can_en see_en muscles_en pulling_en down_en at_en flesh_en to_en bring_en her_en eyebrows_en down_en ._en
+her_en muscles_en bulging_en in_en her_en forehead_en when_en she_en winces_en like_en that_en ._en
+in_en addition_en to_en this_en kind_en of_en high_en -_en resolution_en geometry_en ,_en since_en it_en 's_en all_en captured_en with_en cameras_en ,_en we_en 've_en got_en a_en great_en texture_en map_en to_en use_en for_en the_en face_en ._en
+and_en by_en looking_en at_en how_en the_en different_en color_en channels_en of_en the_en illumination_en ,_en the_en red_en and_en the_en green_en and_en the_en blue_en ,_en diffuse_en the_en light_en differently_en ,_en we_en can_en come_en up_en with_en a_en way_en of_en shading_en the_en skin_en on_en the_en computer_en ._en
+then_en ,_en instead_en of_en looking_en like_en a_en plaster_en mannequin_en ,_en it_en actually_en looks_en like_en it_en 's_en made_en out_en of_en living_en human_en flesh_en ._en
+and_en this_en is_en what_en we_en used_en to_en give_en to_en the_en company_en image_en metrics_en to_en create_en a_en rigged_en ,_en digital_en version_en of_en emily_en ._en
+we_en 're_en just_en seeing_en the_en coarse_en -_en scale_en geometry_en here_en ._en
+but_en they_en basically_en created_en a_en digital_en puppet_en of_en her_en ,_en where_en you_en can_en pull_en on_en these_en various_en strings_en ,_en and_en it_en actually_en moves_en her_en face_en in_en ways_en that_en are_en completely_en consistent_en with_en the_en scans_en that_en we_en took_en ._en
+and_en ,_en in_en addition_en to_en the_en coarse_en -_en scale_en geometry_en ,_en they_en also_en used_en all_en of_en that_en detail_en to_en create_en a_en set_en of_en what_en are_en called_en "_en displacement_en maps_en "_en that_en animate_en as_en well_en ._en
+these_en are_en the_en displacement_en maps_en here_en ._en
+and_en you_en can_en see_en those_en different_en wrinkles_en actually_en show_en up_en as_en she_en animates_en ._en
+so_en the_en next_en process_en was_en then_en to_en animate_en her_en ._en
+we_en actually_en used_en one_en of_en her_en own_en performances_en to_en provide_en the_en source_en data_en ._en
+so_en ,_en by_en analyzing_en this_en video_en with_en computer_en vision_en techniques_en ,_en they_en were_en able_en to_en drive_en the_en facial_en rig_en with_en the_en computer_en -_en generated_en performance_en ._en
+so_en what_en you_en 're_en going_en to_en see_en now_en ,_en after_en this_en ,_en is_en a_en completely_en photo_en -_en real_en digital_en face_en ._en
+we_en can_en turn_en the_en volume_en up_en a_en little_en bit_en if_en that_en 's_en available_en ._en
+emily_en :_en image_en metrics_en is_en a_en markerless_en ,_en performance_en -_en driven_en animation_en company_en ._en
+we_en specialize_en in_en high_en -_en quality_en facial_en animation_en for_en video_en games_en and_en films_en ._en
+image_en metrics_en is_en a_en markerless_en ,_en performance_en -_en driven_en animation_en company_en ._en
+we_en specialize_en in_en high_en quality_en facial_en animation_en for_en video_en games_en and_en films_en ._en
+paul_en debevec_en :_en so_en ,_en if_en we_en break_en that_en down_en into_en layers_en ,_en here_en 's_en that_en diffuse_en component_en we_en saw_en in_en the_en first_en slide_en ._en
+here_en is_en the_en specular_en component_en animating_en ._en
+you_en can_en see_en all_en the_en wrinkles_en happening_en there_en ._en
+and_en there_en is_en the_en underlying_en wireframe_en mesh_en ._en
+and_en that_en is_en emily_en herself_en ._en
+now_en ,_en where_en are_en we_en going_en with_en this_en here_en ?_en
+we_en 've_en gone_en a_en little_en bit_en beyond_en light_en stage_en 5._en this_en is_en light_en stage_en 6_en ,_en
+and_en we_en 're_en looking_en at_en taking_en this_en technology_en and_en applying_en it_en to_en whole_en human_en bodies_en ._en
+this_en is_en bruce_en lawmen_en ,_en one_en of_en our_en researchers_en in_en the_en group_en ,_en who_en graciously_en agreed_en to_en get_en captured_en running_en in_en the_en light_en stage_en ._en
+and_en let_en 's_en take_en a_en look_en at_en a_en computer_en -_en generated_en version_en of_en bruce_en ,_en running_en in_en a_en new_en environment_en ._en
+and_en thank_en you_en very_en much_en ._en

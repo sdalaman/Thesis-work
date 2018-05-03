@@ -1,0 +1,220 @@
+combien	d'entre	vous	ont	déjà	eu	à	remplir	un	formulaire	en	ligne	dans	lequel	on	vous	demande	de	lire	une	séquence	déformée	de	caractères	telle	que	ceux	-	là	?
+combien	d'entre	vous	ont	trouvé	ça	vraiment	,	vraiment	_UNK_	?
+ok	,	c'est	clair	.	et	c'est	moi	qui	l'ai	inventé	.
+enfin	,	j'ai	participé	à	son	invention	.
+cette	chose	s'appelle	un	captcha	.
+et	sa	raison	d'être	est	de	vérifier	que	vous	,	_UNK_	qui	remplit	le	formulaire	,	êtes	bien	un	humain	et	pas	un	quelconque	programme	informatique	,	créé	pour	soumettre	le	formulaire	des	millions	et	des	millions	de	fois	.
+la	raison	pour	laquelle	ça	marche	est	que	les	humains	en	tous	cas	les	humains	qui	ne	sont	pas	mal	voyants	,	n'ont	pas	de	problème	pour	lire	des	caractères	_UNK_	et	déformés	,	alors	que	les	programmes	informatiques	ne	peuvent	pas	encore	le	faire	aussi	bien	.
+par	exemple	,	dans	le	cas	de	``	ticketmaster	``	,	la	raison	pour	laquelle	vous	devez	taper	ces	caractères	est	d'empêcher	des	revendeurs	au	marché	noir	d'écrire	un	programme	qui	pourrait	acheter	des	millions	de	tickets	,	deux	par	deux	.
+les	captcha	sont	utilisés	partout	sur	internet	.
+et	comme	on	les	utilise	aussi	souvent	,	de	nombreuses	fois	,	la	séquence	de	caractères	aléatoires	qui	est	montrée	à	l'utilisateur	n'est	pas	très	heureuse	.
+voici	un	exemple	tiré	de	la	page	d'inscription	de	yahoo	.
+les	caractères	aléatoires	montrés	à	l'utilisateur	étaient	a	,	t	,	t	,	e	,	n	,	d	,	r	,	e	,	qui	,	bien	sûr	,	forment	un	mot	.
+mais	le	plus	drôle	c'est	le	message	que	l'aide	en	ligne	de	yahoo	a	reçu	environ	20	min	plus	tard	.
+texte	:	``	aidez	-	moi	!	j'attends	depuis	plus	de	20	min	,	et	il	ne	se	passe	rien	.	``
+la	personne	pensait	devoir	attendre	.
+bien	sûr	,	ce	n'est	pas	aussi	terrible	que	ce	qui	est	arrivé	à	cette	pauvre	personne	.
+nous	avons	lancé	le	projet	captcha	il	y	a	plus	de	10	ans	,	ici	,	à	carnegie	mellon	,	et	il	est	maintenant	utilisé	partout	.
+laissez	-	moi	maintenant	vous	parler	d'un	projet	que	nous	avons	lancé	quelques	années	plus	tard	,	qui	est	,	en	quelque	sorte	,	l'étape	suivante	du	captcha	.
+il	s'agit	du	projet	que	nous	avons	appelé	recaptcha	,	que	nous	avons	commencé	ici	à	carnegie	mellon	,	puis	que	nous	avons	transformé	en	start	-	up	.
+et	il	y	environ	un	an	et	demi	,	google	l'a	en	fait	_UNK_	.
+laissez	-	moi	vous	raconter	les	débuts	de	ce	projet	.
+ce	projet	est	né	du	constat	suivant	:	il	s'avère	_UNK_	200	millions	de	captcha	sont	tapés	par	des	gens	tous	les	jours	dans	le	monde	.
+la	première	fois	que	j'ai	entendu	ça	,	j'étais	assez	fier	de	moi	.
+je	me	suis	dit	``	regarde	l'influence	que	ma	recherche	a	eue	``	.
+mais	ensuite	,	j'ai	commencé	à	me	sentir	mal	.
+en	effet	,	à	chaque	fois	que	vous	tapez	un	captcha	,	vous	perdez	en	gros	10	secondes	de	votre	temps	.
+et	si	vous	multipliez	ça	par	200	millions	,	vous	vous	rendez	compte	que	l'humanité	perd	environ	500	000	heures	chaque	jours	en	tapant	ces	ennuyeux	captcha	.
+alors	,	j'ai	commencé	à	me	sentir	mal	.
+et	puis	j'ai	commencé	à	me	demander	,	bon	,	bien	sûr	,	on	ne	peut	pas	simplement	se	débarrasser	des	captcha	,	car	la	sécurité	du	web	en	dépend	un	peu	.
+mais	alors	j'ai	commencé	à	me	demander	s'il	y	avait	moyen	d'utiliser	cet	effort	pour	quelque	chose	de	bénéfique	pour	l'humanité	?
+pendant	que	vous	tapez	un	captcha	,	pendant	ces	10	secondes	,	votre	cerveau	fait	quelque	chose	d'incroyable	.
+votre	cerveau	fait	quelque	chose	que	les	ordinateurs	ne	savent	pas	encore	faire	.
+pouvons	-	nous	alors	vous	amener	à	faire	un	travail	utile	pendant	ces	10	secondes	?
+y	a	-	t	-	il	un	énorme	problème	que	nous	ne	sachions	pas	encore	résoudre	à	l'aide	d'ordinateurs	,	mais	que	nous	puissions	découper	en	petits	bouts	de	10	secondes	de	façon	à	ce	que	chaque	fois	que	quelqu'un	résout	un	captcha	,	il	résout	un	petit	bout	de	ce	problème	?
+et	la	réponse	est	``	oui	``	,	et	c'est	ce	que	nous	faisons	maintenant	.
+ce	que	vous	ne	savez	peut	-	être	pas	,	c'est	que	maintenant	,	quand	vous	tapez	un	captcha	,	non	seulement	vous	vous	_UNK_	en	tant	qu'humain	,	mais	en	plus	vous	contribuez	à	la	numérisation	de	livres	.
+laissez	-	moi	vous	expliquer	comment	ça	marche	.
+il	y	a	plein	de	projets	dont	le	but	est	de	numériser	des	livres	.
+google	en	a	un	.	internet	archive	en	a	un	.
+amazon	,	maintenant	avec	kindle	,	essaye	de	numériser	des	livres	.
+voilà	en	gros	comment	ça	marche	:	vous	prenez	un	vieux	livre	.
+vous	voyez	de	quoi	je	parle	,	n'est	-	ce	pas	?	genre	,	un	livre	?
+donc	,	vous	prenez	un	livre	et	vous	le	_UNK_	.
+scanner	un	livre	,	c'est	comme	prendre	une	photo	numérique	de	chaque	page	du	livre	.
+vous	avez	alors	une	image	de	chaque	page	du	livre	.
+une	image	avec	du	texte	pour	chaque	page	du	livre	.
+l'étape	suivante	du	processus	implique	que	l'ordinateur	sache	décrypter	tous	les	mots	de	l'image	.
+on	utilise	une	technologie	appelée	roc	,	pour	reconnaissance	optique	de	caractères	,	qui	prend	une	image	du	texte	et	essaie	d'identifier	le	texte	qui	s'y	trouve	.
+le	problème	est	que	la	roc	n'est	pas	parfaite	.
+surtout	avec	les	vieux	livres	,	dont	l'encre	est	passée	,	et	les	pages	_UNK_	,	la	roc	ne	reconnait	pas	beaucoup	mots	.
+par	exemple	,	pour	des	trucs	écrits	il	y	a	plus	de	50	ans	,	l'ordinateur	ne	reconnait	pas	environ	30	%	des	mots	.
+nous	prenons	tous	les	mots	que	l'ordinateur	ne	reconnait	pas	et	des	gens	les	lisent	pour	nous	quand	ils	tapent	un	captcha	sur	internet	.
+alors	,	la	prochaine	fois	que	vous	tapez	un	captcha	,	ces	mots	que	vous	_UNK_	seront	en	fait	des	mots	venant	de	livres	en	cours	de	numérisation	que	l'ordinateur	n'a	pas	su	reconnaitre	.
+et	la	raison	pour	laquelle	nous	avons	deux	mots	,	et	non	pas	un	seul	,	est	qu'un	de	ces	mots	est	un	mot	que	le	système	a	tiré	d'un	livre	,	sans	savoir	ce	que	c'est	,	et	il	va	vous	le	montrer	.
+mais	comme	il	ne	connait	pas	la	bonne	réponse	,	il	ne	peut	pas	évaluer	la	vôtre	.
+donc	nous	vous	en	donnons	un	autre	,	un	pour	lequel	le	système	connait	la	réponse	.
+nous	ne	vous	disons	pas	lequel	est	lequel	,	et	nous	vous	demandons	de	taper	les	deux	.
+et	si	vous	tapez	le	bon	mot	pour	celui	pour	lequel	le	système	connait	déjà	la	réponse	,	il	suppose	que	vous	êtes	humain	,	et	il	vous	fait	confiante	pour	taper	l'autre	mot	correctement	.
+et	si	nous	répétons	ce	processus	avec	environ	10	personnes	différentes	,	et	que	toutes	tombent	d'accord	sur	le	nouveau	mot	,	alors	nous	obtenons	un	mot	de	plus	numérisé	correctement	.
+voila	comment	fonctionne	le	système	.
+et	en	gros	,	depuis	que	nous	l'avons	lancé	,	il	y	a	3	ou	4	ans	,	beaucoup	de	sites	web	ont	commencé	à	passer	du	vieux	captcha	avec	lequel	les	gens	perdaient	leur	temps	au	nouveau	captcha	avec	lequel	les	gens	contribuent	à	numériser	des	livres	.
+par	exemple	,	ticketmaster	.
+alors	chaque	fois	que	vous	achetez	un	billet	sur	ticketmaster	,	vous	contribuez	à	numériser	un	livre	.
+facebook	:	chaque	fois	que	vous	ajoutez	quelqu'un	,	ou	lui	envoyez	un	_UNK_	vous	contribuez	à	numériser	un	livre	.
+twitter	et	environ	350	000	autres	sites	utilisent	recaptcha	.
+et	en	fait	,	le	nombre	de	sites	utilisant	recaptcha	est	si	grand	que	le	nombre	de	mots	que	nous	numérisons	par	jour	est	très	très	grand	.
+c'est	environ	100	millions	par	jour	,	soit	l'équivalent	d'à	peu	près	2,5	millions	de	livres	par	an	.
+et	tout	est	fait	un	mot	après	l'autre	,	uniquement	par	des	gens	qui	tapent	des	captcha	sur	internet	.
+bien	sûr	,	puisque	nous	faisons	tellement	de	mots	par	jour	,	il	peut	se	produire	de	drôles	de	choses	.
+et	c'est	particulièrement	vrai	car	nous	proposons	aux	gens	deux	mots	pris	au	hasard	dans	la	langue	anglaise	,	l'un	à	côté	de	l'autre	.
+et	donc	de	drôles	de	choses	se	produisent	.
+par	exemple	,	nous	avons	proposé	ce	mot	.
+il	s'agit	du	mot	``	chrétiens	``	;	il	n'y	a	rien	de	mal	à	ça	.
+mais	si	vous	le	présentez	à	côté	d'un	autre	mot	pris	au	hasard	,	de	mauvaises	choses	peuvent	se	produire	.
+ainsi	,	nous	avons	obtenu	ça	.
+et	c'est	bien	pire	,	car	il	se	trouve	que	le	site	web	où	cela	s'est	affiché	était	en	fait	appelé	ambassade	du	royaume	de	dieu	.
+oh	la	gaffe	!
+voici	encore	un	vraiment	mauvais	coup	.
+_UNK_	ainsi	,	nous	_UNK_	sans	cesse	des	gens	ici	et	là	,	tous	les	jours	.
+bien	sûr	,	nous	ne	nous	contentons	pas	de	les	insulter	.
+vous	voyez	,	le	truc	c'est	que	,	puisque	nous	présentons	deux	mots	pris	au	hasard	,	il	peut	se	passer	des	choses	intéressantes	.
+et	ça	a	donné	lieu	à	un	immense	mème	sur	internet	,	auquel	des	dizaines	de	milliers	de	personnes	ont	participé	,	et	qui	s'appelle	le	captcha	art	.
+je	suis	sûr	que	certains	d'entre	en	ont	déjà	entendu	parler	.
+voici	comment	ça	marche	.
+imaginez	que	vous	soyez	en	train	d'utiliser	internet	et	que	vous	voyiez	un	captcha	,	que	vous	trouvez	quelque	peu	bizarre	,	comme	ce	captcha	.
+ce	que	vous	êtes	alors	censé	faire	,	c'est	une	capture	d'écran	.
+bien	sûr	,	ensuite	,	vous	remplissez	le	captcha	car	vous	nous	aidez	à	numériser	un	livre	.
+mais	ensuite	,	d'abord	vous	faites	une	capture	d'écran	,	et	ensuite	vous	dessinez	quelque	chose	qui	ait	un	rapport	.
+voilà	comment	ça	marche	.
+il	y	en	a	des	dizaines	de	milliers	comme	ça	.
+certains	sont	vraiment	mignons	.
+d'autres	sont	plus	drôles	.
+et	certains	,	comme	bidule	paléontologique	,	font	figurer	_UNK_	_UNK_	.
+bon	,	voilà	mon	nombre	préféré	de	recaptcha	.
+et	c'est	le	truc	que	je	préfère	dans	tout	ce	projet	.
+c'est	le	nombre	de	personnes	distinctes	qui	ont	contribué	à	numériser	au	moins	un	mot	avec	recaptcha	:	750	millions	de	personnes	,	soit	un	peu	plus	de	10	%	de	la	population	mondiale	,	nous	ont	aidés	à	numériser	le	savoir	humain	.
+et	c'est	ce	genre	de	nombre	qui	me	motive	à	continuer	mes	recherches	.
+et	la	question	qui	motive	mes	recherches	est	la	suivante	:	si	vous	observez	ce	que	l'humanité	a	fait	à	grande	échelle	,	ces	choses	vraiment	grandes	,	que	l'humanité	a	faites	dans	l'histoire	,	comme	par	exemple	construire	les	pyramides	_UNK_	,	ou	le	canal	de	panama	,	ou	envoyer	un	homme	sur	la	lune	,	elles	présentent	un	fait	curieux	,	c'est	qu'elles	ont	toute	été	réalisées	par	le	même	nombre	de	gens	.
+c'est	étrange	:	elles	ont	toutes	été	réalisées	par	environ	100	000	personnes	.
+et	la	raison	en	est	que	,	avant	internet	,	coordonner	plus	de	100	000	personnes	,	sans	parler	de	les	payer	,	était	impossible	.
+mais	maintenant	,	avec	internet	,	je	viens	de	vous	montrer	un	projet	dans	lequel	j'ai	obtenu	que	750	millions	de	personnes	nous	aident	à	numériser	le	savoir	humain	.
+donc	,	la	question	qui	motive	mes	recherches	est	,	si	nous	pouvons	envoyer	un	homme	sur	la	lune	avec	100	000	personnes	,	que	pouvons	-	nous	faire	avec	100	millions	de	personnes	?
+en	partant	de	cette	question	,	nous	avons	travaillé	sur	de	nombreux	projets	différents	.
+laissez	-	moi	vous	parler	de	celui	qui	m'enthousiasme	le	plus	.
+nous	travaillons	là	-	dessus	sans	en	parler	trop	depuis	environ	un	an	et	demi	.
+on	ne	l'a	pas	encore	lancé	.	ça	s'appelle	duolingo	.
+comme	on	ne	l'a	pas	encore	lancé	,	chut	!
+oui	,	je	peux	vous	faire	confiance	pour	ça	.
+voici	donc	ce	projet	.	voilà	comment	il	a	commencé	.
+il	a	commencé	quand	j'ai	posé	une	question	à	mon	étudiant	en	doctorat	,	severin	hacker	.
+voici	severin	hacker	.
+je	lui	ai	donc	posé	la	question	.
+au	fait	,	vous	m'avez	bien	entendu	;	son	nom	de	famille	est	hacker	.
+je	lui	ai	donc	posé	cette	question	:	comment	faire	pour	que	100	millions	de	personnes	traduisent	gratuitement	le	web	dans	toutes	les	langues	principales	?
+bon	,	il	y	a	beaucoup	à	dire	là	dessus	.
+d'abord	,	traduire	le	web	.
+pour	le	moment	,	le	web	est	_UNK_	en	de	multiples	langues	.
+une	grande	partie	est	en	anglais	.
+si	vous	ne	connaissez	pas	du	tout	l'anglais	,	vous	ne	pouvez	pas	y	accéder	.
+mais	il	y	en	a	de	grandes	parties	dans	d'autres	langues	différentes	,	et	si	vous	ne	connaissez	pas	ces	langues	,	vous	ne	pouvez	pas	y	accéder	.
+alors	j'aimerais	traduire	tout	l'internet	,	ou	tout	du	moins	la	plus	grande	partie	du	web	,	dans	toutes	les	langues	principales	.
+c'est	ce	que	j'aimerais	faire	.
+certains	d'entre	vous	me	diront	,	pourquoi	ne	pouvons	-	nous	pas	utiliser	les	ordinateurs	pour	faire	cette	traduction	?
+pourquoi	ne	pouvons	-	nous	pas	utiliser	la	traduction	informatisée	?
+de	nos	jours	,	on	a	commencé	à	traduire	des	phrases	ici	et	là	avec	la	traduction	informatisée	.
+pourquoi	ne	pouvons	-	nous	pas	l'utiliser	pour	traduire	tout	le	web	?
+et	bien	,	le	problème	est	que	ce	n'est	pas	encore	assez	bon	et	que	ça	ne	le	sera	pas	avant	les	15	à	20	prochaines	années	.
+il	y	a	beaucoup	d'erreurs	.
+même	quand	il	n'y	a	pas	d'erreur	,	elles	sont	tellement	fréquentes	que	vous	ne	savez	pas	si	vous	pouvez	vous	y	fier	ou	pas	.
+permettez	-	moi	de	vous	montrer	un	exemple	de	traduction	faite	par	ordinateur	.
+en	fait	,	c'est	un	billet	sur	un	forum	.
+c'est	quelqu'un	qui	essayait	de	poser	une	question	à	propos	de	javascript	.
+ça	a	été	traduit	du	japonais	à	l'anglais	.
+je	vais	vous	le	laisser	lire	.
+cette	personne	commence	par	s'excuser	pour	le	fait	que	c'est	une	traduction	faite	par	ordinateur	.
+la	phrase	suivante	sera	le	préambule	à	la	question	.
+il	ne	fait	donc	qu'expliquer	quelque	chose	.
+souvenez	-	vous	,	c'est	une	question	à	propos	de	javascript	.
+ensuite	vient	la	première	partie	de	la	question	.
+ensuite	vient	la	partie	de	la	question	que	je	préfère	.
+et	puis	vient	la	fin	,	qui	est	ce	que	je	préfère	dans	tout	ça	.
+bon	,	donc	,	la	traduction	par	ordinateur	,	pas	encore	assez	bonne	.
+revenons	à	la	question	de	départ	.
+nous	avons	donc	besoin	de	gens	pour	traduire	tout	le	web	.
+maintenant	,	la	question	suivante	que	vous	vous	posez	peut	-	être	,	c'est	pourquoi	ne	pouvons	-	nous	pas	simplement	payer	des	gens	pour	le	faire	?
+nous	pourrions	payer	des	traducteurs	professionnels	pour	traduire	tout	le	web	.
+nous	pourrions	le	faire	.
+malheureusement	,	ce	serait	extrêmement	cher	.
+par	exemple	,	traduire	une	minuscule	fraction	de	tout	le	web	,	wikipedia	,	dans	une	seule	autre	langue	,	l'espagnol	,	wikipedia	existe	en	espagnol	,	mais	c'est	très	petit	comparé	à	la	taille	de	l'anglais	.
+ça	représente	environ	20	%	de	la	taille	de	l'anglais	.
+si	nous	voulions	traduire	les	80	autres	pour	cent	en	espagnol	,	ça	coûterait	au	moins	50	millions	de	dollars	,	même	en	_UNK_	dans	le	pays	le	plus	exploité	qui	soit	.
+ce	serait	donc	très	cher	.
+alors	ce	que	nous	voulons	faire	,	c'est	trouver	100	millions	de	personnes	pour	traduire	le	web	dans	toutes	les	langues	principales	gratuitement	.
+et	si	c'est	ce	que	vous	voulez	faire	,	vous	vous	rendez	très	vite	compte	que	vous	allez	tomber	sur	deux	gros	os	,	deux	gros	obstacles	.
+le	premier	c'est	le	manque	de	personnes	bilingues	.
+je	ne	sais	même	pas	s'il	existe	100	millions	de	gens	qui	utilisent	le	web	et	qui	sont	suffisamment	bilingues	pour	nous	aider	à	traduire	.
+c'est	un	gros	problème	.
+l'autre	problème	que	vous	allez	rencontrer	,	c'est	le	manque	de	motivation	.
+comment	allons	-	nous	motiver	les	gens	à	traduire	le	web	gratuitement	?
+normalement	,	on	doit	payer	les	gens	pour	ça	.
+alors	,	comment	allons	-	nous	les	motiver	à	le	faire	gratuitement	?
+quand	nous	avons	commencé	à	y	réfléchir	,	nous	étions	bloqués	par	ces	deux	choses	.
+mais	ensuite	nous	nous	sommes	rendus	compte	qu'en	fait	il	y	a	un	moyen	de	résoudre	ces	deux	problèmes	avec	une	solution	unique	.
+une	manière	de	faire	d'une	pierre	deux	coups	.
+il	s'agit	de	transformer	la	traduction	en	quelque	chose	que	des	millions	de	gens	veulent	faire	,	tout	en	contribuant	à	résoudre	le	problème	du	manque	de	personnes	bilingues	:	c'est	l'apprentissage	des	langues	.
+il	s'avère	qu'aujourd'hui	,	il	y	a	plus	de	1,2	milliard	de	gens	qui	apprennent	une	langue	étrangère	.
+les	gens	veulent	vraiment	apprendre	une	langue	étrangère	.
+et	ce	n'est	pas	seulement	parce	qu'on	les	y	oblige	à	l'école	.
+par	exemple	,	rien	qu'aux	états	-	unis	,	il	y	a	plus	de	5	millions	de	gens	qui	ont	payé	au	moins	500	$	des	logiciels	pour	apprendre	une	nouvelle	langue	.
+les	gens	veulent	donc	vraiment	apprendre	une	nouvelle	langue	.
+ce	sur	quoi	nous	travaillons	depuis	un	an	et	demi	,	c'est	un	nouveau	site	web	,	qui	s'appelle	duolingo	,	où	l'idée	de	départ	est	que	les	gens	apprennent	une	nouvelle	langue	gratuitement	tout	en	traduisant	le	web	.
+et	donc	en	gros	ils	apprennent	en	faisant	.
+voilà	comment	ça	marche	:	quand	vous	n'êtes	que	débutant	,	nous	vous	donnons	des	phrases	très	,	très	simples	.
+il	y	a	,	bien	sûr	,	beaucoup	de	phrases	très	simples	sur	le	web	.
+nous	vous	donnons	des	phrases	très	,	très	simples	en	même	temps	que	la	signification	de	chaque	mot	.
+et	en	les	traduisant	,	et	en	voyant	comment	d'autres	les	traduisent	,	vous	commencez	à	apprendre	la	langue	.
+et	au	fur	et	à	mesure	de	votre	progression	,	nous	vous	donnons	des	phrases	de	plus	en	plus	complexes	à	traduire	.
+mais	à	tout	moment	,	vous	apprenez	en	faisant	.
+ce	qui	est	dingue	,	avec	cette	méthode	,	c'est	que	ça	marche	vraiment	.
+d'abord	,	les	gens	apprennent	vraiment	une	langue	.
+nous	avons	presque	fini	de	le	construire	,	et	nous	sommes	en	train	de	le	tester	.
+les	gens	peuvent	vraiment	apprendre	une	langue	avec	ça	.
+et	ils	apprennent	aussi	bien	qu'avec	le	meilleur	logiciel	d'apprentissage	de	langue	.
+les	gens	apprennent	vraiment	une	langue	.
+et	non	seulement	ils	l'apprennent	,	mais	en	fait	c'est	bien	plus	intéressant	.
+parce	que	vous	voyez	,	avec	duolingo	,	les	gens	apprennent	avec	du	contenu	authentique	.
+contrairement	à	l'apprentissage	avec	les	phrases	_UNK_	,	les	gens	apprennent	avec	du	contenu	authentique	,	qui	est	intéressant	par	essence	.
+les	gens	apprennent	donc	vraiment	une	langue	.
+mais	ce	qui	est	peut	-	être	plus	surprenant	,	c'est	que	les	traductions	que	nous	obtenons	des	gens	qui	utilisent	ce	site	,	même	si	ce	ne	sont	que	des	débutants	,	les	traductions	que	nous	obtenons	sont	aussi	exactes	que	celles	des	traducteurs	professionnels	,	ce	qui	est	très	surprenant	.
+permettez	-	moi	de	vous	montrer	un	exemple	.
+voici	une	phrase	qui	a	été	traduite	de	l'allemand	à	l'anglais	.
+l'allemand	est	en	haut	.
+au	milieu	,	c'est	la	traduction	anglaise	faite	par	un	traducteur	professionnel	que	nous	avons	payé	20	cents	le	mot	pour	sa	traduction	.
+et	en	bas	,	la	traduction	des	utilisateurs	de	duolingo	,	alors	qu'aucun	d'eux	ne	connaissait	un	mot	_UNK_	avant	de	commencer	à	utiliser	le	site	.
+vous	voyez	,	c'est	parfait	.
+bien	sûr	,	nous	avons	triché	ici	pour	que	les	traductions	soient	aussi	bonnes	que	celles	des	professionnels	.
+nous	avons	combiné	les	traductions	de	nombreux	débutants	pour	obtenir	la	qualité	d'un	seul	traducteur	professionnel	.
+même	si	nous	combinons	les	traductions	,	le	site	peut	en	fait	traduire	assez	vite	.
+laissez	-	moi	vous	montrer	,	voici	nos	estimations	quant	à	la	vitesse	à	laquelle	nous	pourrions	traduire	wikipedia	d'anglais	en	espagnol	.
+rappelez	-	vous	,	ça	représente	une	valeur	de	50	millions	de	dollars	.
+alors	si	vous	voulez	traduire	wikipedia	en	espagnol	,	cela	peut	être	fait	en	5	semaines	,	avec	100	000	utilisateurs	actifs	.
+et	nous	pourrions	le	faire	en	80	heures	avec	un	million	d'utilisateurs	actifs	.
+puisque	tous	les	projets	sur	lesquels	mon	groupe	a	travaillé	jusqu'à	présent	ont	eu	des	millions	d'utilisateurs	,	nous	espérons	que	nous	serons	en	mesure	de	traduire	très	vite	avec	ce	projet	-	ci	.
+ce	qui	m'enthousiasme	le	plus	avec	duolingo	c'est	que	je	pense	qu'il	apporte	un	modèle	économique	équitable	pour	l'apprentissage	des	langues	.
+voilà	ce	qu'il	en	est	:	le	modèle	économique	actuel	pour	l'apprentissage	des	langues	,	c'est	que	l'élève	paie	,	et	en	particulier	,	l'élève	paie	à	_UNK_	stone	500	dollars	.
+c'est	le	modèle	économique	actuel	.
+le	problème	avec	ce	modèle	économique	,	c'est	que	95	%	de	la	population	mondiale	n'a	pas	500	dollars	.
+c'est	donc	extrêmement	injuste	envers	les	pauvres	.
+c'est	totalement	en	faveur	des	riches	.
+vous	voyez	,	dans	duolingo	,	lorsque	vous	apprenez	,	en	fait	vous	créez	de	la	valeur	,	vous	traduisez	des	trucs	,	que	par	exemple	nous	pourrions	facturer	à	quelqu'un	.
+c'est	ainsi	que	nous	pourrions	le	rentabiliser	.
+puisque	les	gens	créent	de	la	valeur	en	apprenant	,	ils	n'ont	pas	à	payer	avec	leur	argent	,	ils	paient	avec	leur	temps	.
+mais	ce	qui	est	magique	ici	,	c'est	qu'ils	paient	avec	leur	temps	,	mais	que	c'est	du	temps	qu'ils	auraient	passé	de	toute	façon	à	apprendre	la	langue	.
+ce	qui	est	bien	avec	duolingo	c'est	que	je	crois	que	ça	apporte	un	modèle	économique	équitable	,	qui	ne	_UNK_	pas	les	pauvres	.
+voici	donc	le	site	.	merci	donc	voici	le	site	.
+nous	n'avons	pas	encore	fait	le	lancement	,	mais	si	vous	allez	voir	,	vous	pouvez	vous	inscrire	pour	participer	à	la	version	bêta	privée	,	qui	devrait	normalement	commencer	dans	3	ou	4	semaines	.
+nous	n'avons	pas	encore	lancé	duolingo	.
+au	fait	,	c'est	moi	qui	parle	ici	,	mais	duolingo	est	le	travail	d'une	équipe	géniale	,	dont	voici	certains	.
+merci	.
+

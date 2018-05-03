@@ -1,0 +1,120 @@
+the_en electricity_en powering_en the_en lights_en in_en this_en theater_en was_en generated_en just_en moments_en ago_en ._en
+because_en the_en way_en things_en stand_en today_en ,_en electricity_en demand_en must_en be_en in_en constant_en balance_en with_en electricity_en supply_en ._en
+if_en in_en the_en time_en that_en it_en took_en me_en to_en walk_en out_en here_en on_en this_en stage_en ,_en some_en tens_en of_en megawatts_en of_en wind_en power_en stopped_en pouring_en into_en the_en grid_en ,_en the_en difference_en would_en have_en to_en be_en made_en up_en from_en other_en generators_en immediately_en ._en
+but_en coal_en plants_en ,_en nuclear_en plants_en ca_en n't_en respond_en fast_en enough_en ._en
+a_en giant_en battery_en could_en ._en
+with_en a_en giant_en battery_en ,_en we_en 'd_en be_en able_en to_en address_en the_en problem_en of_en intermittency_en that_en prevents_en wind_en and_en solar_en from_en contributing_en to_en the_en grid_en in_en the_en same_en way_en that_en coal_en ,_en gas_en and_en nuclear_en do_en today_en ._en
+you_en see_en ,_en the_en battery_en is_en the_en key_en enabling_en device_en here_en ._en
+with_en it_en ,_en we_en could_en draw_en electricity_en from_en the_en sun_en even_en when_en the_en sun_en does_en n't_en shine_en ._en
+and_en that_en changes_en everything_en ._en
+because_en then_en renewables_en such_en as_en wind_en and_en solar_en come_en out_en from_en the_en wings_en ,_en here_en to_en center_en stage_en ._en
+today_en i_en want_en to_en tell_en you_en about_en such_en a_en device_en ._en
+it_en 's_en called_en the_en liquid_en metal_en battery_en ._en
+it_en 's_en a_en new_en form_en of_en energy_en storage_en that_en i_en invented_en at_en mit_en along_en with_en a_en team_en of_en my_en students_en and_en post_en -_en docs_en ._en
+now_en the_en theme_en of_en this_en year_en 's_en ted_en conference_en is_en full_en spectrum_en ._en
+the_en oed_en defines_en spectrum_en as_en "_en the_en entire_en range_en of_en wavelengths_en of_en electromagnetic_en radiation_en ,_en from_en the_en longest_en radio_en waves_en to_en the_en shortest_en gamma_en rays_en of_en which_en the_en range_en of_en visible_en light_en is_en only_en a_en small_en part_en ._en "_en so_en i_en 'm_en not_en here_en today_en only_en to_en tell_en you_en how_en my_en team_en at_en mit_en has_en drawn_en out_en of_en nature_en a_en solution_en to_en one_en of_en the_en world_en 's_en great_en problems_en ._en
+i_en want_en to_en go_en full_en spectrum_en and_en tell_en you_en how_en ,_en in_en the_en process_en of_en developing_en this_en new_en technology_en ,_en we_en 've_en uncovered_en some_en surprising_en heterodoxies_en that_en can_en serve_en as_en lessons_en for_en innovation_en ,_en ideas_en worth_en spreading_en ._en
+and_en you_en know_en ,_en if_en we_en 're_en going_en to_en get_en this_en country_en out_en of_en its_en current_en energy_en situation_en ,_en we_en ca_en n't_en just_en conserve_en our_en way_en out_en ;_en we_en ca_en n't_en just_en drill_en our_en way_en out_en ;_en we_en ca_en n't_en bomb_en our_en way_en out_en ._en
+we_en 're_en going_en to_en do_en it_en the_en old_en -_en fashioned_en american_en way_en ,_en we_en 're_en going_en to_en invent_en our_en way_en out_en ,_en working_en together_en ._en
+now_en let_en 's_en get_en started_en ._en
+the_en battery_en was_en invented_en about_en 200_en years_en ago_en by_en a_en professor_en ,_en alessandro_en volta_en ,_en at_en the_en university_en of_en padua_en in_en italy_en ._en
+his_en invention_en gave_en birth_en to_en a_en new_en field_en of_en science_en ,_en electrochemistry_en ,_en and_en new_en technologies_en such_en as_en electroplating_en ._en
+perhaps_en overlooked_en ,_en volta_en 's_en invention_en of_en the_en battery_en for_en the_en first_en time_en also_en demonstrated_en the_en utility_en of_en a_en professor_en ._en
+until_en volta_en ,_en nobody_en could_en imagine_en a_en professor_en could_en be_en of_en any_en use_en ._en
+here_en 's_en the_en first_en battery_en --_en a_en stack_en of_en coins_en ,_en zinc_en and_en silver_en ,_en separated_en by_en cardboard_en soaked_en in_en brine_en ._en
+this_en is_en the_en starting_en point_en for_en designing_en a_en battery_en --_en two_en electrodes_en ,_en in_en this_en case_en metals_en of_en different_en composition_en ,_en and_en an_en electrolyte_en ,_en in_en this_en case_en salt_en dissolved_en in_en water_en ._en
+the_en science_en is_en that_en simple_en ._en
+admittedly_en ,_en i_en 've_en left_en out_en a_en few_en details_en ._en
+now_en i_en 've_en taught_en you_en that_en battery_en science_en is_en straightforward_en and_en the_en need_en for_en grid_en -_en level_en storage_en is_en compelling_en ,_en but_en the_en fact_en is_en that_en today_en there_en is_en simply_en no_en battery_en technology_en capable_en of_en meeting_en the_en demanding_en performance_en requirements_en of_en the_en grid_en --_en namely_en uncommonly_en high_en power_en ,_en long_en service_en lifetime_en and_en super_en -_en low_en cost_en ._en
+we_en need_en to_en think_en about_en the_en problem_en differently_en ._en
+we_en need_en to_en think_en big_en ,_en we_en need_en to_en think_en cheap_en ._en
+so_en let_en 's_en abandon_en the_en paradigm_en of_en let_en 's_en search_en for_en the_en coolest_en chemistry_en and_en then_en hopefully_en we_en 'll_en chase_en down_en the_en cost_en curve_en by_en just_en making_en lots_en and_en lots_en of_en product_en ._en
+instead_en ,_en let_en 's_en invent_en to_en the_en price_en point_en of_en the_en electricity_en market_en ._en
+so_en that_en means_en that_en certain_en parts_en of_en the_en periodic_en table_en are_en axiomatically_en off_en -_en limits_en ._en
+this_en battery_en needs_en to_en be_en made_en out_en of_en earth_en -_en abundant_en elements_en ._en
+i_en say_en ,_en if_en you_en want_en to_en make_en something_en dirt_en cheap_en ,_en make_en it_en out_en of_en dirt_en --_en preferably_en dirt_en that_en 's_en locally_en sourced_en ._en
+and_en we_en need_en to_en be_en able_en to_en build_en this_en thing_en using_en simple_en manufacturing_en techniques_en and_en factories_en that_en do_en n't_en cost_en us_en a_en fortune_en ._en
+so_en about_en six_en years_en ago_en ,_en i_en started_en thinking_en about_en this_en problem_en ._en
+and_en in_en order_en to_en adopt_en a_en fresh_en perspective_en ,_en i_en sought_en inspiration_en from_en beyond_en the_en field_en of_en electricity_en storage_en ._en
+in_en fact_en ,_en i_en looked_en to_en a_en technology_en that_en neither_en stores_en nor_en generates_en electricity_en ,_en but_en instead_en consumes_en electricity_en ,_en huge_en amounts_en of_en it_en ._en
+i_en 'm_en talking_en about_en the_en production_en of_en aluminum_en ._en
+the_en process_en was_en invented_en in_en 1886_en by_en a_en couple_en of_en 22_en -_en year_en -_en olds_en --_en hall_en in_en the_en united_en states_en and_en heroult_en in_en france_en ._en
+and_en just_en a_en few_en short_en years_en following_en their_en discovery_en ,_en aluminum_en changed_en from_en a_en precious_en metal_en costing_en as_en much_en as_en silver_en to_en a_en common_en structural_en material_en ._en
+you_en 're_en looking_en at_en the_en cell_en house_en of_en a_en modern_en aluminum_en smelter_en ._en
+it_en 's_en about_en 50_en feet_en wide_en and_en recedes_en about_en half_en a_en mile_en --_en row_en after_en row_en of_en cells_en that_en ,_en inside_en ,_en resemble_en volta_en 's_en battery_en ,_en with_en three_en important_en differences_en ._en
+volta_en 's_en battery_en works_en at_en room_en temperature_en ._en
+it_en 's_en fitted_en with_en solid_en electrodes_en and_en an_en electrolyte_en that_en 's_en a_en solution_en of_en salt_en and_en water_en ._en
+the_en hall_en -_en heroult_en cell_en operates_en at_en high_en temperature_en ,_en a_en temperature_en high_en enough_en that_en the_en aluminum_en metal_en product_en is_en liquid_en ._en
+the_en electrolyte_en is_en not_en a_en solution_en of_en salt_en and_en water_en ,_en but_en rather_en salt_en that_en 's_en melted_en ._en
+it_en 's_en this_en combination_en of_en liquid_en metal_en ,_en molten_en salt_en and_en high_en temperature_en that_en allows_en us_en to_en send_en high_en current_en through_en this_en thing_en ._en
+today_en ,_en we_en can_en produce_en virgin_en metal_en from_en ore_en at_en a_en cost_en of_en less_en than_en 50_en cents_en a_en pound_en ._en
+that_en 's_en the_en economic_en miracle_en of_en modern_en electrometallurgy_en ._en
+it_en is_en this_en that_en caught_en and_en held_en my_en attention_en to_en the_en point_en that_en i_en became_en obsessed_en with_en inventing_en a_en battery_en that_en could_en capture_en this_en gigantic_en economy_en of_en scale_en ._en
+and_en i_en did_en ._en
+i_en made_en the_en battery_en all_en liquid_en --_en liquid_en metals_en for_en both_en electrodes_en and_en a_en molten_en salt_en for_en the_en electrolyte_en ._en
+i_en 'll_en show_en you_en how_en ._en
+so_en i_en put_en low_en -_en density_en liquid_en metal_en at_en the_en top_en ,_en put_en a_en high_en -_en density_en liquid_en metal_en at_en the_en bottom_en ,_en and_en molten_en salt_en in_en between_en ._en
+so_en now_en ,_en how_en to_en choose_en the_en metals_en ?_en
+for_en me_en ,_en the_en design_en exercise_en always_en begins_en here_en with_en the_en periodic_en table_en ,_en enunciated_en by_en another_en professor_en ,_en dimitri_en mendeleyev_en ._en
+everything_en we_en know_en is_en made_en of_en some_en combination_en of_en what_en you_en see_en depicted_en here_en ._en
+and_en that_en includes_en our_en own_en bodies_en ._en
+i_en recall_en the_en very_en moment_en one_en day_en when_en i_en was_en searching_en for_en a_en pair_en of_en metals_en that_en would_en meet_en the_en constraints_en of_en earth_en abundance_en ,_en different_en ,_en opposite_en density_en and_en high_en mutual_en reactivity_en ._en
+i_en felt_en the_en thrill_en of_en realization_en when_en i_en knew_en i_en 'd_en come_en upon_en the_en answer_en ._en
+magnesium_en for_en the_en top_en layer_en ._en
+and_en antimony_en for_en the_en bottom_en layer_en ._en
+you_en know_en ,_en i_en 've_en got_en to_en tell_en you_en ,_en one_en of_en the_en greatest_en benefits_en of_en being_en a_en professor_en :_en colored_en chalk_en ._en
+so_en to_en produce_en current_en ,_en magnesium_en loses_en two_en electrons_en to_en become_en magnesium_en ion_en ,_en which_en then_en migrates_en across_en the_en electrolyte_en ,_en accepts_en two_en electrons_en from_en the_en antimony_en ,_en and_en then_en mixes_en with_en it_en to_en form_en an_en alloy_en ._en
+the_en electrons_en go_en to_en work_en in_en the_en real_en world_en out_en here_en ,_en powering_en our_en devices_en ._en
+now_en to_en charge_en the_en battery_en ,_en we_en connect_en a_en source_en of_en electricity_en ._en
+it_en could_en be_en something_en like_en a_en wind_en farm_en ._en
+and_en then_en we_en reverse_en the_en current_en ._en
+and_en this_en forces_en magnesium_en to_en de_en -_en alloy_en and_en return_en to_en the_en upper_en electrode_en ,_en restoring_en the_en initial_en constitution_en of_en the_en battery_en ._en
+and_en the_en current_en passing_en between_en the_en electrodes_en generates_en enough_en heat_en to_en keep_en it_en at_en temperature_en ._en
+it_en 's_en pretty_en cool_en ,_en at_en least_en in_en theory_en ._en
+but_en does_en it_en really_en work_en ?_en
+so_en what_en to_en do_en next_en ?_en
+we_en go_en to_en the_en laboratory_en ._en
+now_en do_en i_en hire_en seasoned_en professionals_en ?_en
+no_en ,_en i_en hire_en a_en student_en and_en mentor_en him_en ,_en teach_en him_en how_en to_en think_en about_en the_en problem_en ,_en to_en see_en it_en from_en my_en perspective_en and_en then_en turn_en him_en loose_en ._en
+this_en is_en that_en student_en ,_en david_en bradwell_en ,_en who_en ,_en in_en this_en image_en ,_en appears_en to_en be_en wondering_en if_en this_en thing_en will_en ever_en work_en ._en
+what_en i_en did_en n't_en tell_en david_en at_en the_en time_en was_en i_en myself_en was_en n't_en convinced_en it_en would_en work_en ._en
+but_en david_en 's_en young_en and_en he_en 's_en smart_en and_en he_en wants_en a_en ph.d._en ,_en and_en he_en proceeds_en to_en build_en --_en he_en proceeds_en to_en build_en the_en first_en ever_en liquid_en metal_en battery_en of_en this_en chemistry_en ._en
+and_en based_en on_en david_en 's_en initial_en promising_en results_en ,_en which_en were_en paid_en with_en seed_en funds_en at_en mit_en ,_en i_en was_en able_en to_en attract_en major_en research_en funding_en from_en the_en private_en sector_en and_en the_en federal_en government_en ._en
+and_en that_en allowed_en me_en to_en expand_en my_en group_en to_en 20_en people_en ,_en a_en mix_en of_en graduate_en students_en ,_en post_en -_en docs_en and_en even_en some_en undergraduates_en ._en
+and_en i_en was_en able_en to_en attract_en really_en ,_en really_en good_en people_en ,_en people_en who_en share_en my_en passion_en for_en science_en and_en service_en to_en society_en ,_en not_en science_en and_en service_en for_en career_en building_en ._en
+and_en if_en you_en ask_en these_en people_en why_en they_en work_en on_en liquid_en metal_en battery_en ,_en their_en answer_en would_en hearken_en back_en to_en president_en kennedy_en 's_en remarks_en at_en rice_en university_en in_en 1962_en when_en he_en said_en --_en and_en i_en 'm_en taking_en liberties_en here_en --_en "_en we_en choose_en to_en work_en on_en grid_en -_en level_en storage_en ,_en not_en because_en it_en is_en easy_en ,_en but_en because_en it_en is_en hard_en ._en "_en so_en this_en is_en the_en evolution_en of_en the_en liquid_en metal_en battery_en ._en
+we_en start_en here_en with_en our_en workhorse_en one_en watt_en -_en hour_en cell_en ._en
+i_en called_en it_en the_en shotglass_en ._en
+we_en 've_en operated_en over_en 400_en of_en these_en ,_en perfecting_en their_en performance_en with_en a_en plurality_en of_en chemistries_en --_en not_en just_en magnesium_en and_en antimony_en ._en
+along_en the_en way_en we_en scaled_en up_en to_en the_en 20_en watt_en -_en hour_en cell_en ._en
+i_en call_en it_en the_en hockey_en puck_en ._en
+and_en we_en got_en the_en same_en remarkable_en results_en ._en
+and_en then_en it_en was_en onto_en the_en saucer_en ._en
+that_en 's_en 200_en watt_en -_en hours_en ._en
+the_en technology_en was_en proving_en itself_en to_en be_en robust_en and_en scalable_en ._en
+but_en the_en pace_en was_en n't_en fast_en enough_en for_en us_en ._en
+so_en a_en year_en and_en a_en half_en ago_en ,_en david_en and_en i_en ,_en along_en with_en another_en research_en staff_en -_en member_en ,_en formed_en a_en company_en to_en accelerate_en the_en rate_en of_en progress_en and_en the_en race_en to_en manufacture_en product_en ._en
+so_en today_en at_en lmbc_en ,_en we_en 're_en building_en cells_en 16_en inches_en in_en diameter_en with_en a_en capacity_en of_en one_en kilowatt_en -_en hour_en --_en 1,000_en times_en the_en capacity_en of_en that_en initial_en shotglass_en cell_en ._en
+we_en call_en that_en the_en pizza_en ._en
+and_en then_en we_en 've_en got_en a_en four_en kilowatt_en -_en hour_en cell_en on_en the_en horizon_en ._en
+it_en 's_en going_en to_en be_en 36_en inches_en in_en diameter_en ._en
+we_en call_en that_en the_en bistro_en table_en ,_en but_en it_en 's_en not_en ready_en yet_en for_en prime_en -_en time_en viewing_en ._en
+and_en one_en variant_en of_en the_en technology_en has_en us_en stacking_en these_en bistro_en tabletops_en into_en modules_en ,_en aggregating_en the_en modules_en into_en a_en giant_en battery_en that_en fits_en in_en a_en 40_en -_en foot_en shipping_en container_en for_en placement_en in_en the_en field_en ._en
+and_en this_en has_en a_en nameplate_en capacity_en of_en two_en megawatt_en -_en hours_en --_en two_en million_en watt_en -_en hours_en ._en
+that_en 's_en enough_en energy_en to_en meet_en the_en daily_en electrical_en needs_en of_en 200_en american_en households_en ._en
+so_en here_en you_en have_en it_en ,_en grid_en -_en level_en storage_en :_en silent_en ,_en emissions_en -_en free_en ,_en no_en moving_en parts_en ,_en remotely_en controlled_en ,_en designed_en to_en the_en market_en price_en point_en without_en subsidy_en ._en
+so_en what_en have_en we_en learned_en from_en all_en this_en ?_en
+so_en what_en have_en we_en learned_en from_en all_en this_en ?_en
+let_en me_en share_en with_en you_en some_en of_en the_en surprises_en ,_en the_en heterodoxies_en ._en
+they_en lie_en beyond_en the_en visible_en ._en
+temperature_en :_en conventional_en wisdom_en says_en set_en it_en low_en ,_en
+at_en or_en near_en room_en temperature_en ,_en and_en then_en install_en a_en control_en system_en to_en keep_en it_en there_en ._en
+avoid_en thermal_en runaway_en ._en
+liquid_en metal_en battery_en is_en designed_en to_en operate_en at_en elevated_en temperature_en with_en minimum_en regulation_en ._en
+our_en battery_en can_en handle_en the_en very_en high_en temperature_en rises_en that_en come_en from_en current_en surges_en ._en
+scaling_en :_en conventional_en wisdom_en says_en reduce_en cost_en by_en producing_en many_en ._en
+liquid_en metal_en battery_en is_en designed_en to_en reduce_en cost_en by_en producing_en fewer_en ,_en but_en they_en 'll_en be_en larger_en ._en
+and_en finally_en ,_en human_en resources_en :_en conventional_en wisdom_en says_en hire_en battery_en experts_en ,_en seasoned_en professionals_en ,_en who_en can_en draw_en upon_en their_en vast_en experience_en and_en knowledge_en ._en
+to_en develop_en liquid_en metal_en battery_en ,_en i_en hired_en students_en and_en post_en -_en docs_en and_en mentored_en them_en ._en
+in_en a_en battery_en ,_en i_en strive_en to_en maximize_en electrical_en potential_en ;_en when_en mentoring_en ,_en i_en strive_en to_en maximize_en human_en potential_en ._en
+so_en you_en see_en ,_en the_en liquid_en metal_en battery_en story_en is_en more_en than_en an_en account_en of_en inventing_en technology_en ,_en it_en 's_en a_en blueprint_en for_en inventing_en inventors_en ,_en full_en -_en spectrum_en ._en

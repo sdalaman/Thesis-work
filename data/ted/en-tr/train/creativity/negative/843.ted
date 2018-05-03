@@ -1,0 +1,180 @@
+so_en i_en want_en to_en talk_en today_en about_en an_en idea_en ._en it_en 's_en a_en big_en idea_en ._en
+actually_en ,_en i_en think_en it_en 'll_en eventually_en be_en seen_en as_en probably_en the_en single_en biggest_en idea_en that_en 's_en emerged_en in_en the_en past_en century_en ._en
+it_en 's_en the_en idea_en of_en computation_en ._en
+now_en ,_en of_en course_en ,_en that_en idea_en has_en brought_en us_en all_en of_en the_en computer_en technology_en we_en have_en today_en and_en so_en on_en ._en
+but_en there_en 's_en actually_en a_en lot_en more_en to_en computation_en than_en that_en ._en
+it_en 's_en really_en a_en very_en deep_en ,_en very_en powerful_en ,_en very_en fundamental_en idea_en ,_en whose_en effects_en we_en 've_en only_en just_en begun_en to_en see_en ._en
+well_en ,_en i_en myself_en have_en spent_en the_en past_en 30_en years_en of_en my_en life_en working_en on_en three_en large_en projects_en that_en really_en try_en to_en take_en the_en idea_en of_en computation_en seriously_en ._en
+so_en i_en started_en off_en at_en a_en young_en age_en as_en a_en physicist_en using_en computers_en as_en tools_en ._en
+then_en ,_en i_en started_en drilling_en down_en ,_en thinking_en about_en the_en computations_en i_en might_en want_en to_en do_en ,_en trying_en to_en figure_en out_en what_en primitives_en they_en could_en be_en built_en up_en from_en and_en how_en they_en could_en be_en automated_en as_en much_en as_en possible_en ._en
+eventually_en ,_en i_en created_en a_en whole_en structure_en based_en on_en symbolic_en programming_en and_en so_en on_en that_en let_en me_en build_en mathematica_en ._en
+and_en for_en the_en past_en 23_en years_en ,_en at_en an_en increasing_en rate_en ,_en we_en 've_en been_en pouring_en more_en and_en more_en ideas_en and_en capabilities_en and_en so_en on_en into_en mathematica_en ,_en and_en i_en 'm_en happy_en to_en say_en that_en that_en 's_en led_en to_en many_en good_en things_en in_en r_en &_en d_en and_en education_en ,_en lots_en of_en other_en areas_en ._en
+well_en ,_en i_en have_en to_en admit_en ,_en actually_en ,_en that_en i_en also_en had_en a_en very_en selfish_en reason_en for_en building_en mathematica_en :_en i_en wanted_en to_en use_en it_en myself_en ,_en a_en bit_en like_en galileo_en got_en to_en use_en his_en telescope_en 400_en years_en ago_en ._en
+but_en i_en wanted_en to_en look_en not_en at_en the_en astronomical_en universe_en ,_en but_en at_en the_en computational_en universe_en ._en
+so_en we_en normally_en think_en of_en programs_en as_en being_en complicated_en things_en that_en we_en build_en for_en very_en specific_en purposes_en ._en
+but_en what_en about_en the_en space_en of_en all_en possible_en programs_en ?_en
+here_en 's_en a_en representation_en of_en a_en really_en simple_en program_en ._en
+so_en ,_en if_en we_en run_en this_en program_en ,_en this_en is_en what_en we_en get_en ._en
+very_en simple_en ._en
+so_en let_en 's_en try_en changing_en the_en rule_en for_en this_en program_en a_en little_en bit_en ._en
+now_en we_en get_en another_en result_en ,_en still_en very_en simple_en ._en
+try_en changing_en it_en again_en ._en
+you_en get_en something_en a_en little_en bit_en more_en complicated_en ._en
+but_en if_en we_en keep_en running_en this_en for_en a_en while_en ,_en we_en find_en out_en that_en although_en the_en pattern_en we_en get_en is_en very_en intricate_en ,_en it_en has_en a_en very_en regular_en structure_en ._en
+so_en the_en question_en is_en :_en can_en anything_en else_en happen_en ?_en
+well_en ,_en we_en can_en do_en a_en little_en experiment_en ._en
+let_en 's_en just_en do_en a_en little_en mathematical_en experiment_en ,_en try_en and_en find_en out_en ._en
+let_en 's_en just_en run_en all_en possible_en programs_en of_en the_en particular_en type_en that_en we_en 're_en looking_en at_en ._en
+they_en 're_en called_en cellular_en automata_en ._en
+you_en can_en see_en a_en lot_en of_en diversity_en in_en the_en behavior_en here_en ._en
+most_en of_en them_en do_en very_en simple_en things_en ,_en but_en if_en you_en look_en along_en all_en these_en different_en pictures_en ,_en at_en rule_en number_en 30_en ,_en you_en start_en to_en see_en something_en interesting_en going_en on_en ._en
+so_en let_en 's_en take_en a_en closer_en look_en at_en rule_en number_en 30_en here_en ._en
+so_en here_en it_en is_en ._en
+we_en 're_en just_en following_en this_en very_en simple_en rule_en at_en the_en bottom_en here_en ,_en but_en we_en 're_en getting_en all_en this_en amazing_en stuff_en ._en
+it_en 's_en not_en at_en all_en what_en we_en 're_en used_en to_en ,_en and_en i_en must_en say_en that_en ,_en when_en i_en first_en saw_en this_en ,_en it_en came_en as_en a_en huge_en shock_en to_en my_en intuition_en ._en
+and_en ,_en in_en fact_en ,_en to_en understand_en it_en ,_en i_en eventually_en had_en to_en create_en a_en whole_en new_en kind_en of_en science_en ._en
+this_en science_en is_en different_en ,_en more_en general_en ,_en than_en the_en mathematics_en -_en based_en science_en that_en we_en 've_en had_en for_en the_en past_en 300_en or_en so_en years_en ._en
+you_en know_en ,_en it_en 's_en always_en seemed_en like_en a_en big_en mystery_en :_en how_en nature_en ,_en seemingly_en so_en effortlessly_en ,_en manages_en to_en produce_en so_en much_en that_en seems_en to_en us_en so_en complex_en ._en
+well_en ,_en i_en think_en we_en 've_en found_en its_en secret_en :_en it_en 's_en just_en sampling_en what_en 's_en out_en there_en in_en the_en computational_en universe_en and_en quite_en often_en getting_en things_en like_en rule_en 30_en or_en like_en this_en ._en
+and_en knowing_en that_en starts_en to_en explain_en a_en lot_en of_en long_en -_en standing_en mysteries_en in_en science_en ._en
+it_en also_en brings_en up_en new_en issues_en ,_en though_en ,_en like_en computational_en irreducibility_en ._en
+i_en mean_en ,_en we_en 're_en used_en to_en having_en science_en let_en us_en predict_en things_en ,_en but_en something_en like_en this_en is_en fundamentally_en irreducible_en ._en
+the_en only_en way_en to_en find_en its_en outcome_en is_en ,_en effectively_en ,_en just_en to_en watch_en it_en evolve_en ._en
+it_en 's_en connected_en to_en ,_en what_en i_en call_en ,_en the_en principle_en of_en computational_en equivalence_en ,_en which_en tells_en us_en that_en even_en incredibly_en simple_en systems_en can_en do_en computations_en as_en sophisticated_en as_en anything_en ._en
+it_en does_en n't_en take_en lots_en of_en technology_en or_en biological_en evolution_en to_en be_en able_en to_en do_en arbitrary_en computation_en ;_en just_en something_en that_en happens_en ,_en naturally_en ,_en all_en over_en the_en place_en ._en
+things_en with_en rules_en as_en simple_en as_en these_en can_en do_en it_en ._en
+well_en ,_en this_en has_en deep_en implications_en about_en the_en limits_en of_en science_en ,_en about_en predictability_en and_en controllability_en of_en things_en like_en biological_en processes_en or_en economies_en ,_en about_en intelligence_en in_en the_en universe_en ,_en about_en questions_en like_en free_en will_en and_en about_en creating_en technology_en ._en
+you_en know_en ,_en in_en working_en on_en this_en science_en for_en many_en years_en ,_en i_en kept_en wondering_en ,_en "_en what_en will_en be_en its_en first_en killer_en app_en ?_en "_en
+well_en ,_en ever_en since_en i_en was_en a_en kid_en ,_en i_en 'd_en been_en thinking_en about_en systematizing_en knowledge_en and_en somehow_en making_en it_en computable_en ._en
+people_en like_en leibniz_en had_en wondered_en about_en that_en too_en 300_en years_en earlier_en ._en
+but_en i_en 'd_en always_en assumed_en that_en to_en make_en progress_en ,_en i_en 'd_en essentially_en have_en to_en replicate_en a_en whole_en brain_en ._en
+well_en ,_en then_en i_en got_en to_en thinking_en :_en this_en scientific_en paradigm_en of_en mine_en suggests_en something_en different_en --_en and_en ,_en by_en the_en way_en ,_en i_en 've_en now_en got_en huge_en computation_en capabilities_en in_en mathematica_en ,_en and_en i_en 'm_en a_en ceo_en with_en some_en worldly_en resources_en to_en do_en large_en ,_en seemingly_en crazy_en ,_en projects_en --_en so_en i_en decided_en to_en just_en try_en to_en see_en how_en much_en of_en the_en systematic_en knowledge_en that_en 's_en out_en there_en in_en the_en world_en we_en could_en make_en computable_en ._en
+so_en ,_en it_en 's_en been_en a_en big_en ,_en very_en complex_en project_en ,_en which_en i_en was_en not_en sure_en was_en going_en to_en work_en at_en all_en ._en
+but_en i_en 'm_en happy_en to_en say_en it_en 's_en actually_en going_en really_en well_en ._en
+and_en last_en year_en we_en were_en able_en to_en release_en the_en first_en website_en version_en of_en wolfram_en alpha_en ._en
+its_en purpose_en is_en to_en be_en a_en serious_en knowledge_en engine_en that_en computes_en answers_en to_en questions_en ._en
+so_en let_en 's_en give_en it_en a_en try_en ._en
+let_en 's_en start_en off_en with_en something_en really_en easy_en ._en
+hope_en for_en the_en best_en ._en
+very_en good_en ._en okay_en ._en
+so_en far_en so_en good_en ._en
+let_en 's_en try_en something_en a_en little_en bit_en harder_en ._en
+let_en 's_en do_en some_en mathy_en thing_en ,_en and_en with_en luck_en it_en 'll_en work_en out_en the_en answer_en and_en try_en and_en tell_en us_en some_en interesting_en things_en things_en about_en related_en math_en ._en
+we_en could_en ask_en it_en something_en about_en the_en real_en world_en ._en
+let_en 's_en say_en --_en i_en do_en n't_en know_en --_en what_en 's_en the_en gdp_en of_en spain_en ?_en
+and_en it_en should_en be_en able_en to_en tell_en us_en that_en ._en
+now_en we_en could_en compute_en something_en related_en to_en this_en ,_en let_en 's_en say_en ..._en the_en gdp_en of_en spain_en divided_en by_en ,_en i_en do_en n't_en know_en ,_en the_en --_en hmmm_en ..._en
+let_en 's_en say_en the_en revenue_en of_en microsoft_en ._en
+the_en idea_en is_en that_en we_en can_en just_en type_en this_en in_en ,_en this_en kind_en of_en question_en in_en ,_en however_en we_en think_en of_en it_en ._en
+so_en let_en 's_en try_en asking_en a_en question_en ,_en like_en a_en health_en related_en question_en ._en
+so_en let_en 's_en say_en we_en have_en a_en lab_en finding_en that_en ..._en
+you_en know_en ,_en we_en have_en an_en ldl_en level_en of_en 140_en for_en a_en male_en aged_en 50_en ._en
+so_en let_en 's_en type_en that_en in_en ,_en and_en now_en wolfram_en alpha_en will_en go_en and_en use_en available_en public_en health_en data_en and_en try_en and_en figure_en out_en what_en part_en of_en the_en population_en that_en corresponds_en to_en and_en so_en on_en ._en
+or_en let_en 's_en try_en asking_en about_en ,_en i_en do_en n't_en know_en ,_en the_en international_en space_en station_en ._en
+and_en what_en 's_en happening_en here_en is_en that_en wolfram_en alpha_en is_en not_en just_en looking_en up_en something_en ;_en it_en 's_en computing_en ,_en in_en real_en time_en ,_en where_en the_en international_en space_en station_en is_en right_en now_en at_en this_en moment_en ,_en how_en fast_en it_en 's_en going_en ,_en and_en so_en on_en ._en
+so_en wolfram_en alpha_en knows_en about_en lots_en and_en lots_en of_en kinds_en of_en things_en ._en
+it_en 's_en got_en ,_en by_en now_en ,_en pretty_en good_en coverage_en of_en everything_en you_en might_en find_en in_en a_en standard_en reference_en library_en ._en
+but_en the_en goal_en is_en to_en go_en much_en further_en and_en ,_en very_en broadly_en ,_en to_en democratize_en all_en of_en this_en knowledge_en ,_en and_en to_en try_en and_en be_en an_en authoritative_en source_en in_en all_en areas_en ._en
+to_en be_en able_en to_en compute_en answers_en to_en specific_en questions_en that_en people_en have_en ,_en not_en by_en searching_en what_en other_en people_en may_en have_en written_en down_en before_en ,_en but_en by_en using_en built_en in_en knowledge_en to_en compute_en fresh_en new_en answers_en to_en specific_en questions_en ._en
+now_en ,_en of_en course_en ,_en wolfram_en alpha_en is_en a_en monumentally_en huge_en ,_en long_en -_en term_en project_en with_en lots_en and_en lots_en of_en challenges_en ._en
+for_en a_en start_en ,_en one_en has_en to_en curate_en a_en zillion_en different_en sources_en of_en facts_en and_en data_en ,_en and_en we_en built_en quite_en a_en pipeline_en of_en mathematica_en automation_en and_en human_en domain_en experts_en for_en doing_en this_en ._en
+but_en that_en 's_en just_en the_en beginning_en ._en
+given_en raw_en facts_en or_en data_en to_en actually_en answer_en questions_en ,_en one_en has_en to_en compute_en :_en one_en has_en to_en implement_en all_en those_en methods_en and_en models_en and_en algorithms_en and_en so_en on_en that_en science_en and_en other_en areas_en have_en built_en up_en over_en the_en centuries_en ._en
+well_en ,_en even_en starting_en from_en mathematica_en ,_en this_en is_en still_en a_en huge_en amount_en of_en work_en ._en
+so_en far_en ,_en there_en are_en about_en 8_en million_en lines_en of_en mathematica_en code_en in_en wolfram_en alpha_en built_en by_en experts_en from_en many_en ,_en many_en different_en fields_en ._en
+well_en ,_en a_en crucial_en idea_en of_en wolfram_en alpha_en is_en that_en you_en can_en just_en ask_en it_en questions_en using_en ordinary_en human_en language_en ,_en which_en means_en that_en we_en 've_en got_en to_en be_en able_en to_en take_en all_en those_en strange_en utterances_en that_en people_en type_en into_en the_en input_en field_en and_en understand_en them_en ._en
+and_en i_en must_en say_en that_en i_en thought_en that_en step_en might_en just_en be_en plain_en impossible_en ._en
+two_en big_en things_en happened_en :_en first_en ,_en a_en bunch_en of_en new_en ideas_en about_en linguistics_en that_en came_en from_en studying_en the_en computational_en universe_en ;_en and_en second_en ,_en the_en realization_en that_en having_en actual_en computable_en knowledge_en completely_en changes_en how_en one_en can_en set_en about_en understanding_en language_en ._en
+and_en ,_en of_en course_en ,_en now_en with_en wolfram_en alpha_en actually_en out_en in_en the_en wild_en ,_en we_en can_en learn_en from_en its_en actual_en usage_en ._en
+and_en ,_en in_en fact_en ,_en there_en 's_en been_en an_en interesting_en coevolution_en that_en 's_en been_en going_en on_en between_en wolfram_en alpha_en and_en its_en human_en users_en ,_en and_en it_en 's_en really_en encouraging_en ._en
+right_en now_en ,_en if_en we_en look_en at_en web_en queries_en ,_en more_en than_en 80_en percent_en of_en them_en get_en handled_en successfully_en the_en first_en time_en ._en
+and_en if_en you_en look_en at_en things_en like_en the_en iphone_en app_en ,_en the_en fraction_en is_en considerably_en larger_en ._en
+so_en ,_en i_en 'm_en pretty_en pleased_en with_en it_en all_en ._en
+but_en ,_en in_en many_en ways_en ,_en we_en 're_en still_en at_en the_en very_en beginning_en with_en wolfram_en alpha_en ._en
+i_en mean_en ,_en everything_en is_en scaling_en up_en very_en nicely_en and_en we_en 're_en getting_en more_en confident_en ._en
+you_en can_en expect_en to_en see_en wolfram_en alpha_en technology_en showing_en up_en in_en more_en and_en more_en places_en ,_en working_en both_en with_en this_en kind_en of_en public_en data_en ,_en like_en on_en the_en website_en ,_en and_en with_en private_en knowledge_en for_en people_en and_en companies_en and_en so_en on_en ._en
+you_en know_en ,_en i_en 've_en realized_en that_en wolfram_en alpha_en actually_en gives_en one_en a_en whole_en new_en kind_en of_en computing_en that_en one_en can_en call_en knowledge_en -_en based_en computing_en ,_en in_en which_en one_en 's_en starting_en not_en just_en from_en raw_en computation_en ,_en but_en from_en a_en vast_en amount_en of_en built_en -_en in_en knowledge_en ._en
+and_en when_en one_en does_en that_en ,_en one_en really_en changes_en the_en economics_en of_en delivering_en computational_en things_en ,_en whether_en it_en 's_en on_en the_en web_en or_en elsewhere_en ._en
+you_en know_en ,_en we_en have_en a_en fairly_en interesting_en situation_en right_en now_en ._en
+on_en the_en one_en hand_en ,_en we_en have_en mathematica_en ,_en with_en its_en sort_en of_en precise_en ,_en formal_en language_en and_en a_en huge_en network_en of_en carefully_en designed_en capabilities_en able_en to_en get_en a_en lot_en done_en in_en just_en a_en few_en lines_en ._en
+let_en me_en show_en you_en a_en couple_en of_en examples_en here_en ._en
+so_en here_en 's_en a_en trivial_en piece_en of_en mathematica_en programming_en ._en
+here_en 's_en something_en where_en we_en 're_en sort_en of_en integrating_en a_en bunch_en of_en different_en capabilities_en here_en ._en
+here_en we_en 'll_en just_en create_en ,_en in_en this_en line_en ,_en a_en little_en user_en interface_en that_en allows_en us_en to_en do_en something_en fun_en there_en ._en
+if_en you_en go_en on_en ,_en that_en 's_en a_en slightly_en more_en complicated_en program_en that_en 's_en now_en doing_en all_en sorts_en of_en algorithmic_en things_en and_en creating_en user_en interface_en and_en so_en on_en ._en
+but_en it_en 's_en something_en that_en is_en very_en precise_en stuff_en ._en
+it_en 's_en a_en precise_en specification_en with_en a_en precise_en formal_en language_en that_en causes_en mathematica_en to_en know_en what_en to_en do_en here_en ._en
+then_en on_en the_en other_en hand_en ,_en we_en have_en wolfram_en alpha_en ,_en with_en all_en the_en messiness_en of_en the_en world_en and_en human_en language_en and_en so_en on_en built_en into_en it_en ._en
+so_en what_en happens_en when_en you_en put_en these_en things_en together_en ?_en
+i_en think_en it_en 's_en actually_en rather_en wonderful_en ._en
+with_en wolfram_en alpha_en inside_en mathematica_en ,_en you_en can_en ,_en for_en example_en ,_en make_en precise_en programs_en that_en call_en on_en real_en world_en data_en ._en
+here_en 's_en a_en real_en simple_en example_en ._en
+you_en can_en also_en just_en sort_en of_en give_en vague_en input_en and_en then_en try_en and_en have_en wolfram_en alpha_en figure_en out_en what_en you_en 're_en talking_en about_en ._en
+let_en 's_en try_en this_en here_en ._en
+but_en actually_en i_en think_en the_en most_en exciting_en thing_en about_en this_en is_en that_en it_en really_en gives_en one_en the_en chance_en to_en democratize_en programming_en ._en
+i_en mean_en ,_en anyone_en will_en be_en able_en to_en say_en what_en they_en want_en in_en plain_en language_en ._en
+then_en ,_en the_en idea_en is_en that_en wolfram_en alpha_en will_en be_en able_en to_en figure_en out_en what_en precise_en pieces_en of_en code_en can_en do_en what_en they_en 're_en asking_en for_en and_en then_en show_en them_en examples_en that_en will_en let_en them_en pick_en what_en they_en need_en to_en build_en up_en bigger_en and_en bigger_en ,_en precise_en programs_en ._en
+so_en ,_en sometimes_en ,_en wolfram_en alpha_en will_en be_en able_en to_en do_en the_en whole_en thing_en immediately_en and_en just_en give_en back_en a_en whole_en big_en program_en that_en you_en can_en then_en compute_en with_en ._en
+here_en 's_en a_en big_en website_en where_en we_en 've_en been_en collecting_en lots_en of_en educational_en and_en other_en demonstrations_en about_en lots_en of_en kinds_en of_en things_en ._en
+i_en 'll_en show_en you_en one_en example_en here_en ._en
+this_en is_en just_en an_en example_en of_en one_en of_en these_en computable_en documents_en ._en
+this_en is_en probably_en a_en fairly_en small_en piece_en of_en mathematica_en code_en that_en 's_en able_en to_en be_en run_en here_en ._en
+okay_en ._en let_en 's_en zoom_en out_en again_en ._en
+so_en ,_en given_en our_en new_en kind_en of_en science_en ,_en is_en there_en a_en general_en way_en to_en use_en it_en to_en make_en technology_en ?_en
+so_en ,_en with_en physical_en materials_en ,_en we_en 're_en used_en to_en going_en around_en the_en world_en and_en discovering_en that_en particular_en materials_en are_en useful_en for_en particular_en technological_en purposes_en ._en
+well_en ,_en it_en turns_en out_en we_en can_en do_en very_en much_en the_en same_en kind_en of_en thing_en in_en the_en computational_en universe_en ._en
+there_en 's_en an_en inexhaustible_en supply_en of_en programs_en out_en there_en ._en
+the_en challenge_en is_en to_en see_en how_en to_en harness_en them_en for_en human_en purposes_en ._en
+something_en like_en rule_en 30_en ,_en for_en example_en ,_en turns_en out_en to_en be_en a_en really_en good_en randomness_en generator_en ._en
+other_en simple_en programs_en are_en good_en models_en for_en processes_en in_en the_en natural_en or_en social_en world_en ._en
+and_en ,_en for_en example_en ,_en wolfram_en alpha_en and_en mathematica_en are_en actually_en now_en full_en of_en algorithms_en that_en we_en discovered_en by_en searching_en the_en computational_en universe_en ._en
+and_en ,_en for_en example_en ,_en this_en --_en if_en we_en go_en back_en here_en --_en this_en has_en become_en surprisingly_en popular_en among_en composers_en finding_en musical_en forms_en by_en searching_en the_en computational_en universe_en ._en
+in_en a_en sense_en ,_en we_en can_en use_en the_en computational_en universe_en to_en get_en mass_en customized_en creativity_en ._en
+i_en 'm_en hoping_en we_en can_en ,_en for_en example_en ,_en use_en that_en even_en to_en get_en wolfram_en alpha_en to_en routinely_en do_en invention_en and_en discovery_en on_en the_en fly_en ,_en and_en to_en find_en all_en sorts_en of_en wonderful_en stuff_en that_en no_en engineer_en and_en no_en process_en of_en incremental_en evolution_en would_en ever_en come_en up_en with_en ._en
+well_en ,_en so_en ,_en that_en leads_en to_en kind_en of_en an_en ultimate_en question_en :_en could_en it_en be_en that_en someplace_en out_en there_en in_en the_en computational_en universe_en we_en might_en find_en our_en physical_en universe_en ?_en
+perhaps_en there_en 's_en even_en some_en quite_en simple_en rule_en ,_en some_en simple_en program_en for_en our_en universe_en ._en
+well_en ,_en the_en history_en of_en physics_en would_en have_en us_en believe_en that_en the_en rule_en for_en the_en universe_en must_en be_en pretty_en complicated_en ._en
+but_en in_en the_en computational_en universe_en ,_en we_en 've_en now_en seen_en how_en rules_en that_en are_en incredibly_en simple_en can_en produce_en incredibly_en rich_en and_en complex_en behavior_en ._en
+so_en could_en that_en be_en what_en 's_en going_en on_en with_en our_en whole_en universe_en ?_en
+if_en the_en rules_en for_en the_en universe_en are_en simple_en ,_en it_en 's_en kind_en of_en inevitable_en that_en they_en have_en to_en be_en very_en abstract_en and_en very_en low_en level_en ;_en operating_en ,_en for_en example_en ,_en far_en below_en the_en level_en of_en space_en or_en time_en ,_en which_en makes_en it_en hard_en to_en represent_en things_en ._en
+but_en in_en at_en least_en a_en large_en class_en of_en cases_en ,_en one_en can_en think_en of_en the_en universe_en as_en being_en like_en some_en kind_en of_en network_en ,_en which_en ,_en when_en it_en gets_en big_en enough_en ,_en behaves_en like_en continuous_en space_en in_en much_en the_en same_en way_en as_en having_en lots_en of_en molecules_en can_en behave_en like_en a_en continuous_en fluid_en ._en
+well_en ,_en then_en the_en universe_en has_en to_en evolve_en by_en applying_en little_en rules_en that_en progressively_en update_en this_en network_en ._en
+and_en each_en possible_en rule_en ,_en in_en a_en sense_en ,_en corresponds_en to_en a_en candidate_en universe_en ._en
+actually_en ,_en i_en have_en n't_en shown_en these_en before_en ,_en but_en here_en are_en a_en few_en of_en the_en candidate_en universes_en that_en i_en 've_en looked_en at_en ._en
+some_en of_en these_en are_en hopeless_en universes_en ,_en completely_en sterile_en ,_en with_en other_en kinds_en of_en pathologies_en like_en no_en notion_en of_en space_en ,_en no_en notion_en of_en time_en ,_en no_en matter_en ,_en other_en problems_en like_en that_en ._en
+but_en the_en exciting_en thing_en that_en i_en 've_en found_en in_en the_en last_en few_en years_en is_en that_en you_en actually_en do_en n't_en have_en to_en go_en very_en far_en in_en the_en computational_en universe_en before_en you_en start_en finding_en candidate_en universes_en that_en are_en n't_en obviously_en not_en our_en universe_en ._en
+here_en 's_en the_en problem_en :_en any_en serious_en candidate_en for_en our_en universe_en is_en inevitably_en full_en of_en computational_en irreducibility_en ._en
+which_en means_en that_en it_en is_en irreducibly_en difficult_en to_en find_en out_en how_en it_en will_en really_en behave_en ,_en and_en whether_en it_en matches_en our_en physical_en universe_en ._en
+a_en few_en years_en ago_en ,_en i_en was_en pretty_en excited_en to_en discover_en that_en there_en are_en candidate_en universes_en with_en incredibly_en simple_en rules_en that_en successfully_en reproduce_en special_en relativity_en ,_en and_en even_en general_en relativity_en and_en gravitation_en ,_en and_en at_en least_en give_en hints_en of_en quantum_en mechanics_en ._en
+so_en ,_en will_en we_en find_en the_en whole_en of_en physics_en ?_en
+i_en do_en n't_en know_en for_en sure_en ,_en but_en i_en think_en at_en this_en point_en it_en 's_en sort_en of_en almost_en embarrassing_en not_en to_en at_en least_en try_en ._en
+not_en an_en easy_en project_en ._en
+one_en 's_en got_en to_en build_en a_en lot_en of_en technology_en ._en
+one_en 's_en got_en to_en build_en a_en structure_en that_en 's_en probably_en at_en least_en as_en deep_en as_en existing_en physics_en ._en
+and_en i_en 'm_en not_en sure_en what_en the_en best_en way_en to_en organize_en the_en whole_en thing_en is_en ._en
+build_en a_en team_en ,_en open_en it_en up_en ,_en offer_en prizes_en and_en so_en on_en ._en
+but_en i_en 'll_en tell_en you_en ,_en here_en today_en ,_en that_en i_en 'm_en committed_en to_en seeing_en this_en project_en done_en ,_en to_en see_en if_en ,_en within_en this_en decade_en ,_en we_en can_en finally_en hold_en in_en our_en hands_en the_en rule_en for_en our_en universe_en and_en know_en where_en our_en universe_en lies_en in_en the_en space_en of_en all_en possible_en universes_en ..._en
+and_en be_en able_en to_en type_en into_en wolfram_en alpha_en ,_en "_en the_en theory_en of_en the_en universe_en ,_en "_en and_en have_en it_en tell_en us_en ._en
+so_en i_en 've_en been_en working_en on_en the_en idea_en of_en computation_en now_en for_en more_en than_en 30_en years_en ,_en building_en tools_en and_en methods_en and_en turning_en intellectual_en ideas_en into_en millions_en of_en lines_en of_en code_en and_en grist_en for_en server_en farms_en and_en so_en on_en ._en
+with_en every_en passing_en year_en ,_en i_en realize_en how_en much_en more_en powerful_en the_en idea_en of_en computation_en really_en is_en ._en
+it_en 's_en taken_en us_en a_en long_en way_en already_en ,_en but_en there_en 's_en so_en much_en more_en to_en come_en ._en
+from_en the_en foundations_en of_en science_en to_en the_en limits_en of_en technology_en to_en the_en very_en definition_en of_en the_en human_en condition_en ,_en i_en think_en computation_en is_en destined_en to_en be_en the_en defining_en idea_en of_en our_en future_en ._en
+thank_en you_en ._en
+chris_en anderson_en :_en that_en was_en astonishing_en ._en
+stay_en here_en ._en i_en 've_en got_en a_en question_en ._en
+so_en ,_en that_en was_en ,_en fair_en to_en say_en ,_en an_en astonishing_en talk_en ._en
+are_en you_en able_en to_en say_en in_en a_en sentence_en or_en two_en how_en this_en type_en of_en thinking_en could_en integrate_en at_en some_en point_en to_en things_en like_en string_en theory_en or_en the_en kind_en of_en things_en that_en people_en think_en of_en as_en the_en fundamental_en explanations_en of_en the_en universe_en ?_en
+stephen_en wolfram_en :_en well_en ,_en the_en parts_en of_en physics_en that_en we_en kind_en of_en know_en to_en be_en true_en ,_en things_en like_en the_en standard_en model_en of_en physics_en :_en what_en i_en 'm_en trying_en to_en do_en better_en reproduce_en the_en standard_en model_en of_en physics_en or_en it_en 's_en simply_en wrong_en ._en
+the_en things_en that_en people_en have_en tried_en to_en do_en in_en the_en last_en 25_en years_en or_en so_en with_en string_en theory_en and_en so_en on_en have_en been_en an_en interesting_en exploration_en that_en has_en tried_en to_en get_en back_en to_en the_en standard_en model_en ,_en but_en has_en n't_en quite_en gotten_en there_en ._en
+my_en guess_en is_en that_en some_en great_en simplifications_en of_en what_en i_en 'm_en doing_en may_en actually_en have_en considerable_en resonance_en with_en what_en 's_en been_en done_en in_en string_en theory_en ,_en but_en that_en 's_en a_en complicated_en math_en thing_en that_en i_en do_en n't_en yet_en know_en how_en it_en 's_en going_en to_en work_en out_en ._en
+ca_en :_en benoit_en mandelbrot_en is_en in_en the_en audience_en ._en
+he_en also_en has_en shown_en how_en complexity_en can_en arise_en out_en of_en a_en simple_en start_en ._en
+does_en your_en work_en relate_en to_en his_en ?_en
+sw_en :_en i_en think_en so_en ._en
+i_en view_en benoit_en mandelbrot_en 's_en work_en as_en one_en of_en the_en founding_en contributions_en to_en this_en kind_en of_en area_en ._en
+benoit_en has_en been_en particularly_en interested_en in_en nested_en patterns_en ,_en in_en fractals_en and_en so_en on_en ,_en where_en the_en structure_en is_en something_en that_en 's_en kind_en of_en tree_en -_en like_en ,_en and_en where_en there_en 's_en sort_en of_en a_en big_en branch_en that_en makes_en little_en branches_en and_en even_en smaller_en branches_en and_en so_en on_en ._en
+that_en 's_en one_en of_en the_en ways_en that_en you_en get_en towards_en true_en complexity_en ._en
+i_en think_en things_en like_en the_en rule_en 30_en cellular_en automaton_en get_en us_en to_en a_en different_en level_en ._en
+in_en fact_en ,_en in_en a_en very_en precise_en way_en ,_en they_en get_en us_en to_en a_en different_en level_en because_en they_en seem_en to_en be_en things_en that_en are_en capable_en of_en complexity_en that_en 's_en sort_en of_en as_en great_en as_en complexity_en can_en ever_en get_en ..._en
+i_en could_en go_en on_en about_en this_en at_en great_en length_en ,_en but_en i_en wo_en n't_en ._en
+ca_en :_en stephen_en wolfram_en ,_en thank_en you_en ._en

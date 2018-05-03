@@ -1,0 +1,73 @@
+i	'm	 re 	 ally 	 	,	 re 	 ally 	 	 excit 	 ed 	 	to	be	here	 to 	 day 	 	,	 be 	 cause 	 	i	'm	about	to	show	you	some	stuff	that	's	just	ready	to	come	out	of	the	lab	,	 liter 	 ally 	 	,	and	i	'm	 re 	 ally 	 	glad	that	you	 guy 	 s 	 	are	going	to	be	 among 	 st 	 	the	first	to	be	able	to	see	it	in	person	,	 be 	 cause 	 	i	 re 	 ally 	 	,	 re 	 ally 	 	think	 th 	 is 	 	is	going	to	change	--	 re 	 ally 	 	change	--	the	way	we	interact	with	 machine 	 s 	 	from	 th 	 is 	 	point	on	.
+now	,	 th 	 is 	 	is	a	rear	-	 project 	 ed 	 	 draft 	 ing 	 	table	.	it	's	about	36	 inch 	 es 	 	wide	and	it	's	 equi 	 pped 	 	with	a	multi	-	touch	sensor	.	now	,	normal	touch	 sensor 	 s 	 	that	you	see	,	like	on	a	kiosk	or	 inter 	 active 	 	 white 	 board 	 s 	 	,	can	 on 	 ly 	 	register	one	point	of	contact	at	a	time	.
+ th 	 is 	 	thing	 allow 	 s 	 	you	to	have	 multi 	 ple 	 	 point 	 s 	 	at	the	same	time	.
+they	can	use	both	my	 hand 	 s 	 	;	i	can	use	 chor 	 d 	 ing 	 	 action 	 s 	 	;	i	can	just	go	right	up	and	use	all	10	 finger 	 s 	 	if	i	 want 	 ed 	 	to	.
+you	know	,	like	that	.
+now	,	multi	-	touch	 sens 	 ing 	 	is	n't	 complete 	 ly 	 	new	.
+i	mean	,	people	like	bill	buxton	have	 be 	 en 	 	 play 	 ing 	 	around	with	it	in	the	'80s	.
+ how 	 ever 	 	,	the	approach	i	built	here	is	 actual 	 ly 	 	high	-	 re 	 solution 	 	,	low	-	cost	,	and	 prob 	 ably 	 	most	 import 	 ant 	 ly 	 	,	 ver 	 y 	 	 scal 	 able 	 	.
+so	,	the	technology	,	you	know	,	is	n't	the	most	 excit 	 ing 	 	thing	here	right	now	,	other	than	 prob 	 ably 	 	 it 	 s 	 	 new 	 found 	 	 access 	 ibility 	 	.
+what	's	 re 	 ally 	 	 interest 	 ing 	 	here	is	what	you	can	do	with	it	and	the	kind	of	 inter 	 face 	 s 	 	you	can	build	on	top	of	it	.	so	let	's	see	.
+so	,	for	 in 	 stance 	 	,	we	have	a	lava	lamp	application	here	.	now	,	you	can	see	,	i	can	use	both	of	my	 hand 	 s 	 	to	kind	of	 squeez 	 e 	 	together	and	put	the	 blob 	 s 	 	together	.	i	can	inject	heat	 in 	 to 	 	the	system	here	,	or	i	can	pull	it	 a 	 part 	 	with	two	of	my	 finger 	 s 	 	.
+it	's	 complete 	 ly 	 	intuitive	;	there	's	no	 instruct 	 ion 	 	manual	.
+the	 inter 	 face 	 	just	kind	of	 disappear 	 s 	 	.
+ th 	 is 	 	 start 	 ed 	 	out	 a 	 s 	 	kind	of	a	 screen 	 saver 	 	app	that	one	of	the	ph.d.	 student 	 s 	 	in	our	lab	,	ilya	rosenberg	,	made	.	but	i	think	 it 	 s 	 	true	 ident 	 ity 	 	 come 	 s 	 	out	here	.
+now	what	's	great	about	a	multi	-	touch	sensor	is	that	,	you	know	,	i	could	be	 do 	 ing 	 	 th 	 is 	 	with	 a 	 s 	 	 man 	 y 	 	 finger 	 s 	 	here	,	but	of	course	multi	-	touch	 al 	 so 	 	 inherent 	 ly 	 	 mean 	 s 	 	multi	-	user	.
+so	chris	could	be	out	here	 interact 	 ing 	 	with	 an 	 other 	 	part	of	lava	,	while	i	kind	of	play	around	with	it	here	.	you	can	imagine	a	new	kind	of	 sculpt 	 ing 	 	tool	,	where	i	'm	kind	of	 warm 	 ing 	 	 some 	 thing 	 	up	,	making	it	 malle 	 able 	 	,	and	then	 lett 	 ing 	 	it	cool	down	and	 solid 	 ifying 	 	in	a	certain	state	.
+google	should	have	 some 	 thing 	 	like	 th 	 is 	 	in	 the 	 ir 	 	lobby	.
+i	'll	show	you	 some 	 thing 	 	--	a	little	more	of	a	 con 	 cre 	 te 	 	 ex 	 ample 	 	here	,	 a 	 s 	 	 th 	 is 	 	thing	 load 	 s 	 	.
+ th 	 is 	 	is	a	 photograph 	 er 	 	's	light	box	application	.
+ aga 	 in 	 	,	i	can	use	both	of	my	 hand 	 s 	 	to	interact	and	move	 photo 	 s 	 	around	.
+but	what	's	even	 cool 	 er 	 	is	that	if	i	have	two	 finger 	 s 	 	,	i	can	 actual 	 ly 	 	grab	a	photo	and	then	stretch	it	out	like	that	 re 	 ally 	 	 eas 	 ily 	 	.
+i	can	pan	,	zoom	and	 rot 	 ate 	 	it	 effort 	 lessly 	 	.
+i	can	do	that	 gross 	 ly 	 	with	both	of	my	 hand 	 s 	 	,	or	i	can	do	it	just	with	two	 finger 	 s 	 	on	each	of	my	 hand 	 s 	 	together	.
+if	i	grab	the	canvas	,	i	can	kind	of	do	the	same	thing	--	stretch	it	out	.
+i	can	do	it	 simultaneous 	 ly 	 	,	where	i	'm	 hold 	 ing 	 	 th 	 is 	 	down	,	and	 grip 	 ping 	 	on	 an 	 other 	 	one	,	 stretch 	 ing 	 	 th 	 is 	 	out	like	 th 	 is 	 	.
+ aga 	 in 	 	,	the	 inter 	 face 	 	just	 disappear 	 s 	 	here	.
+there	's	no	manual	.	 th 	 is 	 	is	 exact 	 ly 	 	what	you	expect	,	 e 	 special 	 ly 	 	if	you	have	n't	 interact 	 ed 	 	with	a	computer	before	.
+now	,	when	you	have	 initi 	 ative 	 s 	 	like	the	$	100	 lap 	 top 	 	,	i	kind	of	 cr 	 ing 	 e 	 	at	the	idea	that	we	're	going	to	 introduc 	 e 	 	a	whole	new	generation	of	people	to	computing	with	 th 	 is 	 	standard	mouse	-	and	-	 window 	 s 	 	-	 point 	 er 	 	 inter 	 face 	 	.
+ th 	 is 	 	is	 some 	 thing 	 	that	i	think	is	 re 	 ally 	 	the	way	we	should	be	 interact 	 ing 	 	with	 machine 	 s 	 	from	 th 	 is 	 	point	on	.
+now	,	of	course	,	i	can	 br 	 ing 	 	up	a	 key 	 board 	 	.
+and	i	can	 br 	 ing 	 	that	around	,	put	that	up	there	.
+now	,	 obvious 	 ly 	 	,	 th 	 is 	 	is	kind	of	a	standard	 key 	 board 	 	,	but	of	course	i	can	 re 	 scale 	 	it	to	make	it	work	well	for	my	 hand 	 s 	 	.
+and	that	's	 re 	 ally 	 	 import 	 ant 	 	,	 be 	 cause 	 	there	's	no	reason	in	 th 	 is 	 	day	and	age	that	we	should	be	 conform 	 ing 	 	to	a	physical	 de 	 vice 	 	.
+that	 lead 	 s 	 	to	bad	 thing 	 s 	 	,	like	rsi	.
+we	have	so	much	technology	 now 	 a 	 day 	 s 	 	that	these	 inter 	 face 	 s 	 	should	start	 conform 	 ing 	 	to	us	.
+there	's	so	little	 appli 	 ed 	 	now	to	 actual 	 ly 	 	 improv 	 ing 	 	the	way	we	interact	with	 inter 	 face 	 s 	 	from	 th 	 is 	 	point	on	.
+ th 	 is 	 	 key 	 board 	 	is	 prob 	 ably 	 	 actual 	 ly 	 	the	 re 	 ally 	 	wrong	direction	to	go	.
+you	can	imagine	,	in	the	future	,	 a 	 s 	 	we	develop	 th 	 is 	 	kind	of	technology	,	a	 key 	 board 	 	that	kind	of	 autom 	 at 	 ically 	 	 drift 	 s 	 	 a 	 s 	 	your	hand	 move 	 s 	 	away	,	and	 re 	 ally 	 	 intelligent 	 ly 	 	 anticip 	 ates 	 	which	key	you	're	 try 	 ing 	 	to	stroke	with	your	 hand 	 s 	 	.
+so	--	 aga 	 in 	 	,	is	n't	 th 	 is 	 	great	?
+audience	:	where	's	your	lab	?
+jeff	han	:	i	'm	a	research	scientist	at	nyu	in	new	york	.
+here	's	an	 ex 	 ample 	 	of	 an 	 other 	 	kind	of	app	.	i	can	make	these	little	fuzz	 ball 	 s 	 	.
+it	'll	remember	the	 stroke 	 s 	 	i	'm	making	.	of	course	i	can	do	it	with	all	my	 hand 	 s 	 	.
+it	's	pressure	-	sensitive	,	you	can	notice	.
+but	what	's	neat	about	that	is	,	 aga 	 in 	 	,	i	 show 	 ed 	 	you	that	two	-	finger	 gest 	 ure 	 	that	 allow 	 s 	 	you	to	zoom	in	 re 	 ally 	 	 quick 	 ly 	 	.	 be 	 cause 	 	you	do	n't	have	to	 s 	 witch 	 	to	a	hand	tool	or	the	 magn 	 ifying 	 	glass	tool	,	you	can	just	 continu 	 ously 	 	make	 thing 	 s 	 	in	real	 multi 	 ple 	 	 scale 	 s 	 	,	all	at	the	same	time	.
+i	can	create	big	 thing 	 s 	 	out	here	,	but	i	can	go	back	and	 re 	 ally 	 	 quick 	 ly 	 	go	back	to	where	i	 start 	 ed 	 	,	and	make	even	 small 	 er 	 	 thing 	 s 	 	here	.
+now	 th 	 is 	 	is	going	to	be	 re 	 ally 	 	 import 	 ant 	 	 a 	 s 	 	we	start	 get 	 ting 	 	to	 thing 	 s 	 	like	data	 visual 	 ization 	 	.	for	 in 	 stance 	 	,	i	think	we	all	 re 	 ally 	 	 enjoy 	 ed 	 	hans	rosling	's	talk	,	and	he	 re 	 ally 	 	 emphas 	 ized 	 	the	fact	that	i	've	 be 	 en 	 	 think 	 ing 	 	about	for	a	long	time	too	:	we	have	all	 th 	 is 	 	great	data	,	but	for	some	reason	,	it	's	just	 s 	 itt 	 ing 	 	there	.
+we	're	not	 re 	 ally 	 	 access 	 ing 	 	it	.	and	one	of	the	 reason 	 s 	 	why	i	think	that	is	,	is	 be 	 cause 	 	--	we	'll	be	 help 	 ed 	 	by	 thing 	 s 	 	like	 graphic 	 s 	 	and	 visual 	 ization 	 	and	 in 	 ference 	 	 tool 	 s 	 	,	but	i	 al 	 so 	 	think	a	big	part	of	it	is	going	to	be	 start 	 ing 	 	to	be	able	to	have	better	 inter 	 face 	 s 	 	,	to	be	able	to	drill	down	 in 	 to 	 	 th 	 is 	 	kind	of	data	,	while	still	 think 	 ing 	 	about	the	big	picture	here	.
+let	me	show	you	 an 	 other 	 	app	here	.	 th 	 is 	 	is	 some 	 thing 	 	 call 	 ed 	 	worldwind	.
+it	's	 d 	 one 	 	by	nasa	.	it	's	a	kind	of	--	we	've	all	 s 	 een 	 	google	earth	;	 th 	 is 	 	is	an	open	-	source	version	of	that	.	there	are	plug	-	 in 	 s 	 	to	be	able	to	load	in	different	data	 set 	 s 	 	that	nasa	's	 collect 	 ed 	 	over	the	 year 	 s 	 	.
+but	 a 	 s 	 	you	can	see	,	i	can	use	the	same	two	-	fingered	 gest 	 ures 	 	to	go	down	and	go	in	 re 	 ally 	 	 seam 	 lessly 	 	.	there	's	no	 inter 	 face 	 	,	 aga 	 in 	 	.
+it	 re 	 ally 	 	 allow 	 s 	 	 any 	 body 	 	to	kind	of	go	in	--	and	,	it	just	 do 	 es 	 	what	you	'd	expect	,	you	know	?	 aga 	 in 	 	,	there	's	just	no	 inter 	 face 	 	here	.	the	 inter 	 face 	 	just	 disappear 	 s 	 	.
+i	can	 s 	 witch 	 	to	different	data	 view 	 s 	 	.	that	's	what	's	neat	about	 th 	 is 	 	app	here	.
+there	you	go	.	nasa	's	 re 	 ally 	 	cool	.	they	have	these	hyper	-	spectral	 image 	 s 	 	that	are	false	-	 color 	 ed 	 	so	you	can	--	it	's	 re 	 ally 	 	good	for	 determi 	 ning 	 	 veget 	 ative 	 	use	.	well	,	let	's	go	back	to	 th 	 is 	 	.
+now	,	the	great	thing	about	mapping	 application 	 s 	 	--	it	's	not	 re 	 ally 	 	2d	,	it	's	kind	of	3d	.	so	,	 aga 	 in 	 	,	with	a	multi	-	point	 inter 	 face 	 	,	you	can	do	a	 gest 	 ure 	 	like	 th 	 is 	 	--	so	you	can	be	able	to	tilt	around	like	that	,	you	know	.	it	's	not	just	 simpl 	 y 	 	 relegate 	 d 	 	to	a	kind	of	2d	 pan 	 ning 	 	and	motion	.
+now	,	 th 	 is 	 	 gest 	 ure 	 	that	we	've	 develop 	 ed 	 	,	 aga 	 in 	 	,	is	just	 put 	 ting 	 	two	 finger 	 s 	 	down	--	it	's	 defi 	 ning 	 	an	axis	of	tilt	--	and	i	can	tilt	up	and	down	that	way	.
+that	's	 some 	 thing 	 	we	just	came	up	with	on	the	spot	,	you	know	;	it	's	 prob 	 ably 	 	not	the	right	thing	to	do	,	but	there	's	 s 	 uch 	 	 interest 	 ing 	 	 thing 	 s 	 	you	can	do	with	 th 	 is 	 	kind	of	 inter 	 face 	 	.
+it	's	just	so	much	 f 	 un 	 	 play 	 ing 	 	around	with	too	.
+and	so	the	last	thing	i	want	to	show	you	is	--	you	know	,	i	'm	 s 	 ure 	 	we	can	all	think	of	a	lot	of	 entertain 	 ment 	 	 app 	 s 	 	that	you	can	do	with	 th 	 is 	 	thing	.
+i	'm	a	little	more	 interest 	 ed 	 	in	the	kind	of	creative	 application 	 s 	 	we	can	do	with	 th 	 is 	 	.
+now	,	here	's	a	simple	application	here	--	i	can	draw	out	a	 curv 	 e 	 	.
+and	when	i	close	it	,	it	 be 	 come 	 s 	 	a	character	.
+but	the	neat	thing	about	it	is	i	can	add	control	 point 	 s 	 	.
+and	then	what	i	can	do	is	 manipul 	 ate 	 	them	with	both	of	my	 finger 	 s 	 	at	the	same	time	.
+and	you	notice	what	it	 do 	 es 	 	.
+it	's	kind	of	a	 puppet 	 eer 	 ing 	 	thing	,	where	i	can	use	 a 	 s 	 	 man 	 y 	 	 finger 	 s 	 	 a 	 s 	 	i	have	to	draw	and	make	--	now	,	there	's	a	lot	of	actual	math	going	on	under	here	for	 th 	 is 	 	to	control	 th 	 is 	 	mesh	and	do	the	right	thing	.
+i	mean	,	 th 	 is 	 	 techni 	 que 	 	of	 be 	 ing 	 	able	to	 manipul 	 ate 	 	a	mesh	here	,	with	 multi 	 ple 	 	control	 point 	 s 	 	,	is	 actual 	 ly 	 	 some 	 thing 	 	that	's	state	of	the	art	.
+it	was	just	released	at	siggraph	last	year	,	but	it	's	a	great	 ex 	 ample 	 	of	the	kind	of	research	i	 re 	 ally 	 	love	:	all	 th 	 is 	 	compute	power	to	 app 	 ly 	 	to	make	 thing 	 s 	 	do	the	right	 thing 	 s 	 	,	intuitive	 thing 	 s 	 	,	to	do	 exact 	 ly 	 	what	you	expect	.
+so	,	multi	-	touch	 interact 	 ion 	 	research	is	a	 ver 	 y 	 	active	field	right	now	in	hci	.
+i	'm	not	the	 on 	 ly 	 	one	 do 	 ing 	 	it	;	there	are	a	lot	of	other	people	 get 	 ting 	 	 in 	 to 	 	it	.
+ th 	 is 	 	kind	of	technology	is	going	to	let	even	more	people	get	 in 	 to 	 	it	,	and	i	'm	 re 	 ally 	 	looking	forward	to	 interact 	 ing 	 	with	all	you	 guy 	 s 	 	over	the	next	few	 day 	 s 	 	and	 see 	 ing 	 	how	it	can	 app 	 ly 	 	to	your	 respect 	 ive 	 	 field 	 s 	 	.
+thank	you	.
+

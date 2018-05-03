@@ -1,0 +1,69 @@
+today_en i_en 'd_en like_en to_en show_en you_en the_en future_en of_en the_en way_en we_en make_en things_en ._en
+i_en believe_en that_en soon_en our_en buildings_en and_en machines_en will_en be_en self_en -_en assembling_en ,_en replicating_en and_en repairing_en themselves_en ._en
+so_en i_en 'm_en going_en to_en show_en you_en what_en i_en believe_en is_en the_en current_en state_en of_en manufacturing_en ,_en and_en then_en compare_en that_en to_en some_en natural_en systems_en ._en
+so_en in_en the_en current_en state_en of_en manufacturing_en ,_en we_en have_en skyscrapers_en --_en two_en and_en a_en half_en years_en [_en of_en assembly_en time_en ]_en ,_en 500,000_en to_en a_en million_en parts_en ,_en fairly_en complex_en ,_en new_en ,_en exciting_en technologies_en in_en steel_en ,_en concrete_en ,_en glass_en ._en
+we_en have_en exciting_en machines_en that_en can_en take_en us_en into_en space_en --_en five_en years_en [_en of_en assembly_en time_en ]_en ,_en 2.5_en million_en parts_en ._en
+but_en on_en the_en other_en side_en ,_en if_en you_en look_en at_en the_en natural_en systems_en ,_en we_en have_en proteins_en that_en have_en two_en million_en types_en ,_en can_en fold_en in_en 10,000_en nanoseconds_en ,_en or_en dna_en with_en three_en billion_en base_en pairs_en we_en can_en replicate_en in_en roughly_en an_en hour_en ._en
+so_en there_en 's_en all_en of_en this_en complexity_en in_en our_en natural_en systems_en ,_en but_en they_en 're_en extremely_en efficient_en ,_en far_en more_en efficient_en than_en anything_en we_en can_en build_en ,_en far_en more_en complex_en than_en anything_en we_en can_en build_en ._en
+they_en 're_en far_en more_en efficient_en in_en terms_en of_en energy_en ._en
+they_en hardly_en ever_en make_en mistakes_en ._en
+and_en they_en can_en repair_en themselves_en for_en longevity_en ._en
+so_en there_en 's_en something_en super_en interesting_en about_en natural_en systems_en ._en
+and_en if_en we_en can_en translate_en that_en into_en our_en built_en environment_en ,_en then_en there_en 's_en some_en exciting_en potential_en for_en the_en way_en that_en we_en build_en things_en ._en
+and_en i_en think_en the_en key_en to_en that_en is_en self_en -_en assembly_en ._en
+so_en if_en we_en want_en to_en utilize_en self_en -_en assembly_en in_en our_en physical_en environment_en ,_en i_en think_en there_en 's_en four_en key_en factors_en ._en
+the_en first_en is_en that_en we_en need_en to_en decode_en all_en of_en the_en complexity_en of_en what_en we_en want_en to_en build_en --_en so_en our_en buildings_en and_en machines_en ._en
+and_en we_en need_en to_en decode_en that_en into_en simple_en sequences_en --_en basically_en the_en dna_en of_en how_en our_en buildings_en work_en ._en
+then_en we_en need_en programmable_en parts_en that_en can_en take_en that_en sequence_en and_en use_en that_en to_en fold_en up_en ,_en or_en reconfigure_en ._en
+we_en need_en some_en energy_en that_en 's_en going_en to_en allow_en that_en to_en activate_en ,_en allow_en our_en parts_en to_en be_en able_en to_en fold_en up_en from_en the_en program_en ._en
+and_en we_en need_en some_en type_en of_en error_en correction_en redundancy_en to_en guarantee_en that_en we_en have_en successfully_en built_en what_en we_en want_en ._en
+so_en i_en 'm_en going_en to_en show_en you_en a_en number_en of_en projects_en that_en my_en colleagues_en and_en i_en at_en mit_en are_en working_en on_en to_en achieve_en this_en self_en -_en assembling_en future_en ._en
+the_en first_en two_en are_en the_en macrobot_en and_en decibot_en ._en
+so_en these_en projects_en are_en large_en -_en scale_en reconfigurable_en robots_en --_en 8_en ft._en ,_en 12_en ft._en long_en proteins_en ._en
+they_en 're_en embedded_en with_en mechanical_en electrical_en devices_en ,_en sensors_en ._en
+you_en decode_en what_en you_en want_en to_en fold_en up_en into_en ,_en into_en a_en sequence_en of_en angles_en --_en so_en negative_en 120_en ,_en negative_en 120_en ,_en 0_en ,_en 0_en ,_en 120_en ,_en negative_en 120_en --_en something_en like_en that_en ;_en so_en a_en sequence_en of_en angles_en ,_en or_en turns_en ,_en and_en you_en send_en that_en sequence_en through_en the_en string_en ._en
+each_en unit_en takes_en its_en message_en --_en so_en negative_en 120_en --_en it_en rotates_en to_en that_en ,_en checks_en if_en it_en got_en there_en and_en then_en passes_en it_en to_en its_en neighbor_en ._en
+so_en these_en are_en the_en brilliant_en scientists_en ,_en engineers_en ,_en designers_en that_en worked_en on_en this_en project_en ._en
+and_en i_en think_en it_en really_en brings_en to_en light_en :_en is_en this_en really_en scalable_en ?_en
+i_en mean_en ,_en thousands_en of_en dollars_en ,_en lots_en of_en man_en hours_en made_en to_en make_en this_en eight_en -_en foot_en robot_en ._en
+can_en we_en really_en scale_en this_en up_en ?_en can_en we_en really_en embed_en robotics_en into_en every_en part_en ?_en
+the_en next_en one_en questions_en that_en and_en looks_en at_en passive_en nature_en ,_en or_en passively_en trying_en to_en have_en reconfiguration_en programmability_en ._en
+but_en it_en goes_en a_en step_en further_en ,_en and_en it_en tries_en to_en have_en actual_en computation_en ._en
+it_en basically_en embeds_en the_en most_en fundamental_en building_en block_en of_en computing_en ,_en the_en digital_en logic_en gate_en ,_en directly_en into_en your_en parts_en ._en
+so_en this_en is_en a_en nand_en gate_en ._en
+you_en have_en one_en tetrahedron_en which_en is_en the_en gate_en that_en 's_en going_en to_en do_en your_en computing_en ,_en and_en you_en have_en two_en input_en tetrahedrons_en ._en
+one_en of_en them_en is_en the_en input_en from_en the_en user_en ,_en as_en you_en 're_en building_en your_en bricks_en ._en
+the_en other_en one_en is_en from_en the_en previous_en brick_en that_en was_en placed_en ._en
+and_en then_en it_en gives_en you_en an_en output_en in_en 3d_en space_en ._en
+so_en what_en this_en means_en is_en that_en the_en user_en can_en start_en plugging_en in_en what_en they_en want_en the_en bricks_en to_en do_en ._en
+it_en computes_en on_en what_en it_en was_en doing_en before_en and_en what_en you_en said_en you_en wanted_en it_en to_en do_en ._en
+and_en now_en it_en starts_en moving_en in_en three_en -_en dimensional_en space_en --_en so_en up_en or_en down_en ._en
+so_en on_en the_en left_en -_en hand_en side_en ,_en [_en 1,1_en ]_en input_en equals_en 0_en output_en ,_en which_en goes_en down_en ._en
+on_en the_en right_en -_en hand_en side_en ,_en [_en 0,0_en ]_en input_en is_en a_en 1_en output_en ,_en which_en goes_en up_en ._en
+and_en so_en what_en that_en really_en means_en is_en that_en our_en structures_en now_en contain_en the_en blueprints_en of_en what_en we_en want_en to_en build_en ._en
+so_en they_en have_en all_en of_en the_en information_en embedded_en in_en them_en of_en what_en was_en constructed_en ._en
+so_en that_en means_en that_en we_en can_en have_en some_en form_en of_en self_en -_en replication_en ._en
+in_en this_en case_en i_en call_en it_en self_en -_en guided_en replication_en ,_en because_en your_en structure_en contains_en the_en exact_en blueprints_en ._en
+if_en you_en have_en errors_en ,_en you_en can_en replace_en a_en part_en ._en
+all_en the_en local_en information_en is_en embedded_en to_en tell_en you_en how_en to_en fix_en it_en ._en
+so_en you_en could_en have_en something_en that_en climbs_en along_en and_en reads_en it_en and_en can_en output_en at_en one_en to_en one_en ._en
+it_en 's_en directly_en embedded_en ;_en there_en 's_en no_en external_en instructions_en ._en
+so_en the_en last_en project_en i_en 'll_en show_en is_en called_en biased_en chains_en ,_en and_en it_en 's_en probably_en the_en most_en exciting_en example_en that_en we_en have_en right_en now_en of_en passive_en self_en -_en assembly_en systems_en ._en
+so_en it_en takes_en the_en reconfigurability_en and_en programmability_en and_en makes_en it_en a_en completely_en passive_en system_en ._en
+so_en basically_en you_en have_en a_en chain_en of_en elements_en ._en
+each_en element_en is_en completely_en identical_en ,_en and_en they_en 're_en biased_en ._en
+so_en each_en chain_en ,_en or_en each_en element_en ,_en wants_en to_en turn_en right_en or_en left_en ._en
+so_en as_en you_en assemble_en the_en chain_en ,_en you_en 're_en basically_en programming_en it_en ._en
+you_en 're_en telling_en each_en unit_en if_en it_en should_en turn_en right_en or_en left_en ._en
+so_en when_en you_en shake_en the_en chain_en ,_en it_en then_en folds_en up_en into_en any_en configuration_en that_en you_en 've_en programmed_en in_en --_en so_en in_en this_en case_en ,_en a_en spiral_en ,_en or_en in_en this_en case_en ,_en two_en cubes_en next_en to_en each_en other_en ._en
+so_en you_en can_en basically_en program_en any_en three_en -_en dimensional_en shape_en --_en or_en one_en -_en dimensional_en ,_en two_en -_en dimensional_en --_en up_en into_en this_en chain_en completely_en passively_en ._en
+so_en what_en does_en this_en tell_en us_en about_en the_en future_en ?_en
+i_en think_en that_en it_en 's_en telling_en us_en that_en there_en 's_en new_en possibilities_en for_en self_en -_en assembly_en ,_en replication_en ,_en repair_en in_en our_en physical_en structures_en ,_en our_en buildings_en ,_en machines_en ._en
+there_en 's_en new_en programmability_en in_en these_en parts_en ._en
+and_en from_en that_en you_en have_en new_en possibilities_en for_en computing_en ._en
+we_en 'll_en have_en spatial_en computing_en ._en
+imagine_en if_en our_en buildings_en ,_en our_en bridges_en ,_en machines_en ,_en all_en of_en our_en bricks_en could_en actually_en compute_en ._en
+that_en 's_en amazing_en parallel_en and_en distributed_en computing_en power_en ,_en new_en design_en possibilities_en ._en
+so_en it_en 's_en exciting_en potential_en for_en this_en ._en
+so_en i_en think_en these_en projects_en i_en 've_en showed_en here_en are_en just_en a_en tiny_en step_en towards_en this_en future_en ,_en if_en we_en implement_en these_en new_en technologies_en for_en a_en new_en self_en -_en assembling_en world_en ._en
+thank_en you_en ._en

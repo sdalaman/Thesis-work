@@ -1,0 +1,183 @@
+je_fr voudrais_fr parler_fr aujourd'hui_fr d'une_fr idée_fr ._fr c'est_fr une_fr grande_fr idée_fr ._fr
+en_fr fait_fr ,_fr je_fr pense_fr qu'on_fr finira_fr par_fr la_fr considérer_fr comme_fr sans_fr doute_fr la_fr plus_fr grande_fr idée_fr qui_fr ait_fr émergé_fr au_fr cours_fr du_fr siècle_fr passé_fr ._fr
+c'est_fr l'idée_fr de_fr calcul_fr ._fr
+bien_fr sûr_fr ,_fr cette_fr idée_fr nous_fr a_fr apporté_fr toute_fr la_fr technologie_fr computationnelle_fr que_fr nous_fr avons_fr aujourd'hui_fr mais_fr il_fr y_fr a_fr en_fr fait_fr beaucoup_fr plus_fr que_fr ça_fr dans_fr le_fr calcul_fr ._fr
+c'est_fr vraiment_fr une_fr idée_fr vraiment_fr très_fr profonde_fr ,_fr très_fr puissante_fr ,_fr très_fr fondamentale_fr ,_fr dont_fr nous_fr avons_fr à_fr peine_fr commencé_fr à_fr voir_fr les_fr effets_fr ._fr
+eh_fr bien_fr ,_fr j'ai_fr passé_fr les_fr 30_fr dernières_fr années_fr de_fr ma_fr vie_fr à_fr travailler_fr sur_fr trois_fr grands_fr projets_fr qui_fr essayent_fr vraiment_fr de_fr prendre_fr l'idée_fr de_fr calcul_fr au_fr sérieux_fr ._fr
+j'ai_fr donc_fr commencé_fr jeune_fr en_fr tant_fr que_fr physicien_fr à_fr utiliser_fr des_fr ordinateurs_fr comme_fr des_fr outils_fr ._fr
+puis_fr ,_fr j'ai_fr commencé_fr à_fr creuser_fr ,_fr à_fr réfléchir_fr sur_fr les_fr calculs_fr que_fr je_fr pourrais_fr vouloir_fr faire_fr ,_fr à_fr essayer_fr de_fr comprendre_fr à_fr partir_fr de_fr quelles_fr primitives_fr on_fr pouvait_fr les_fr construire_fr et_fr comment_fr ils_fr pourraient_fr être_fr aussi_fr automatisés_fr que_fr possible_fr ._fr
+finalement_fr ,_fr j'ai_fr créé_fr toute_fr une_fr structure_fr basée_fr sur_fr la_fr programmation_fr symbolique_fr qui_fr m'a_fr permis_fr de_fr construire_fr mathematica_fr ._fr
+et_fr pendant_fr ces_fr 23_fr dernières_fr années_fr ,_fr à_fr un_fr rythme_fr croissant_fr ,_fr nous_fr avons_fr été_fr verser_fr de_fr plus_fr en_fr plus_fr d'idées_fr et_fr de_fr capacités_fr dans_fr mathematica_fr ,_fr je_fr suis_fr heureux_fr de_fr dire_fr que_fr cela_fr a_fr conduit_fr à_fr beaucoup_fr de_fr bonnes_fr choses_fr en_fr recherche_fr et_fr développement_fr et_fr en_fr éducation_fr ,_fr dans_fr beaucoup_fr d'autres_fr domaines_fr ._fr
+eh_fr bien_fr ,_fr je_fr dois_fr admettre_fr que_fr ,_fr en_fr fait_fr ,_fr que_fr j'avais_fr aussi_fr une_fr raison_fr très_fr égoïste_fr pour_fr construire_fr mathematica_fr ._fr
+je_fr voulais_fr l'utiliser_fr moi_fr -_fr même_fr ,_fr un_fr peu_fr comme_fr galilée_fr avait_fr utilisé_fr son_fr télescope_fr il_fr y_fr a_fr 400_fr ans_fr ._fr
+mais_fr je_fr voulais_fr regarder_fr ,_fr non_fr pas_fr l'univers_fr astronomique_fr ,_fr mais_fr l'univers_fr computationnel_fr ._fr
+nous_fr considérons_fr habituellement_fr les_fr programmes_fr comme_fr des_fr choses_fr compliquées_fr que_fr nous_fr construisons_fr à_fr des_fr fins_fr très_fr spécifiques_fr ._fr
+mais_fr qu'en_fr est_fr -_fr il_fr de_fr l'espace_fr de_fr tous_fr les_fr programmes_fr possibles_fr ?_fr
+voici_fr une_fr représentation_fr d'un_fr programme_fr très_fr simple_fr ._fr
+si_fr nous_fr exécutons_fr ce_fr programme_fr ,_fr voici_fr ce_fr que_fr nous_fr obtenons_fr ._fr
+très_fr simple_fr ._fr
+essayons_fr donc_fr de_fr modifier_fr un_fr peu_fr la_fr règle_fr pour_fr ce_fr programme_fr ._fr
+nous_fr obtenons_fr maintenant_fr un_fr autre_fr résultat_fr ,_fr toujours_fr très_fr simple_fr ._fr
+essayez_fr de_fr le_fr changer_fr à_fr nouveau_fr ._fr
+vous_fr obtenez_fr quelque_fr chose_fr d'un_fr peu_fr plus_fr compliqué_fr ,_fr mais_fr si_fr nous_fr continuons_fr à_fr le_fr faire_fr tourner_fr pendant_fr un_fr certain_fr temps_fr ,_fr nous_fr constatons_fr que_fr ,_fr bien_fr que_fr le_fr schéma_fr que_fr nous_fr obtenons_fr soit_fr très_fr complexe_fr ,_fr il_fr a_fr une_fr structure_fr très_fr régulière_fr ._fr
+la_fr question_fr est_fr donc_fr :_fr est_fr -_fr ce_fr que_fr qu'autre_fr chose_fr peut_fr se_fr produire_fr ?_fr
+eh_fr bien_fr ,_fr nous_fr pouvons_fr faire_fr une_fr petite_fr expérience_fr ._fr
+faisons_fr simplement_fr une_fr petite_fr expérience_fr mathématique_fr ,_fr et_fr essayons_fr de_fr savoir_fr ._fr
+exécutons_fr tous_fr les_fr programmes_fr possibles_fr du_fr type_fr particulier_fr que_fr nous_fr étudions_fr ._fr
+on_fr les_fr appelle_fr des_fr automates_fr cellulaires_fr ._fr
+vous_fr pouvez_fr voir_fr une_fr grande_fr diversité_fr dans_fr le_fr comportement_fr ici_fr ._fr
+la_fr plupart_fr d'entre_fr eux_fr font_fr des_fr choses_fr très_fr simples_fr ._fr
+mais_fr si_fr vous_fr regardez_fr toutes_fr ces_fr images_fr différentes_fr ,_fr à_fr la_fr règle_fr numéro_fr 30_fr ,_fr vous_fr commencez_fr à_fr voir_fr que_fr quelque_fr chose_fr d'intéressant_fr se_fr passe_fr ._fr
+regardons_fr de_fr plus_fr près_fr la_fr règle_fr numéro_fr 30_fr ici_fr ._fr
+nous_fr ne_fr faisons_fr que_fr suivre_fr cette_fr règle_fr très_fr simple_fr ici_fr ,_fr en_fr bas_fr ,_fr mais_fr nous_fr obtenons_fr toutes_fr des_fr choses_fr incroyables_fr ._fr
+ce_fr n'est_fr pas_fr du_fr tout_fr ce_fr à_fr quoi_fr nous_fr sommes_fr habitués_fr ,_fr et_fr je_fr dois_fr dire_fr que_fr ,_fr quand_fr j'ai_fr vu_fr cela_fr pour_fr la_fr première_fr fois_fr ,_fr ce_fr fut_fr un_fr grand_fr choc_fr pour_fr mon_fr intuition_fr ,_fr et_fr ,_fr en_fr fait_fr ,_fr pour_fr le_fr comprendre_fr ,_fr j'ai_fr finalement_fr dû_fr créer_fr un_fr nouveau_fr type_fr de_fr science_fr ._fr
+cette_fr science_fr est_fr différente_fr ,_fr plus_fr générale_fr ,_fr que_fr la_fr science_fr basée_fr sur_fr les_fr mathématiques_fr de_fr ces_fr 300_fr dernières_fr années_fr ._fr
+il_fr a_fr toujours_fr semblé_fr très_fr mystérieux_fr comment_fr la_fr nature_fr ,_fr apparemment_fr sans_fr effort_fr parvient_fr à_fr produire_fr tant_fr de_fr choses_fr qui_fr nous_fr semblent_fr si_fr complexes_fr ._fr
+eh_fr bien_fr ,_fr je_fr pense_fr que_fr nous_fr avons_fr trouvé_fr son_fr secret_fr ._fr
+c'est_fr juste_fr qu'en_fr _UNK__fr ce_fr qui_fr existe_fr dans_fr l'univers_fr computationnel_fr ,_fr on_fr obtient_fr plutôt_fr fréquemment_fr des_fr choses_fr semblables_fr à_fr la_fr règle_fr 30_fr ou_fr à_fr cela_fr ._fr
+sachant_fr cela_fr ,_fr on_fr commence_fr à_fr expliquer_fr beaucoup_fr de_fr mystères_fr de_fr longue_fr date_fr dans_fr la_fr science_fr ._fr
+cependant_fr ,_fr cela_fr soulève_fr aussi_fr de_fr nouveaux_fr problèmes_fr ,_fr comme_fr _UNK__fr computationnelle_fr ._fr
+nous_fr sommes_fr habitués_fr à_fr ce_fr que_fr la_fr science_fr nous_fr permette_fr de_fr prédire_fr des_fr choses_fr ,_fr mais_fr quelque_fr chose_fr comme_fr ceci_fr est_fr fondamentalement_fr irréductible_fr ._fr
+la_fr seule_fr façon_fr d'en_fr trouver_fr le_fr résultat_fr est_fr ,_fr en_fr fait_fr ,_fr de_fr simplement_fr le_fr regarder_fr évoluer_fr ._fr
+il_fr est_fr connecté_fr à_fr ce_fr que_fr j'appelle_fr le_fr principe_fr de_fr _UNK__fr de_fr calcul_fr ,_fr qui_fr nous_fr dit_fr que_fr même_fr les_fr systèmes_fr incroyablement_fr simples_fr peuvent_fr faire_fr des_fr calculs_fr aussi_fr complexes_fr ._fr
+pas_fr besoin_fr de_fr beaucoup_fr d'évolution_fr technologique_fr ou_fr biologique_fr pour_fr être_fr capable_fr de_fr faire_fr un_fr calcul_fr arbitraire_fr ,_fr juste_fr quelque_fr chose_fr qui_fr se_fr passe_fr ,_fr naturellement_fr ,_fr des_fr choses_fr avec_fr des_fr règles_fr aussi_fr simples_fr que_fr celles_fr -_fr ci_fr peuvent_fr le_fr faire_fr ._fr
+eh_fr bien_fr ,_fr cela_fr a_fr des_fr implications_fr profondes_fr sur_fr les_fr limites_fr de_fr la_fr science_fr ,_fr sur_fr la_fr prévisibilité_fr et_fr la_fr _UNK__fr des_fr processus_fr biologiques_fr ou_fr des_fr économies_fr ,_fr sur_fr l'intelligence_fr dans_fr l'univers_fr ,_fr sur_fr des_fr questions_fr comme_fr le_fr libre_fr -_fr arbitre_fr et_fr sur_fr la_fr création_fr de_fr technologie_fr ._fr
+travaillant_fr sur_fr cette_fr science_fr depuis_fr de_fr nombreuses_fr années_fr ,_fr je_fr me_fr demandais_fr ,_fr "_fr quelle_fr sera_fr sa_fr première_fr application_fr géniale_fr ?_fr "_fr
+eh_fr bien_fr ,_fr depuis_fr que_fr je_fr suis_fr enfant_fr ,_fr je_fr réfléchis_fr à_fr la_fr _UNK__fr des_fr connaissances_fr et_fr en_fr quelque_fr sorte_fr à_fr son_fr _UNK__fr ._fr
+des_fr gens_fr comme_fr leibniz_fr s'étaient_fr également_fr interrogés_fr là_fr -_fr dessus_fr 300_fr ans_fr auparavant_fr ._fr
+mais_fr j'avais_fr toujours_fr pensé_fr que_fr pour_fr faire_fr des_fr progrès_fr ,_fr je_fr devrais_fr principalement_fr répliquer_fr un_fr cerveau_fr entier_fr ._fr
+eh_fr bien_fr ,_fr maintenant_fr j'en_fr suis_fr arrivé_fr à_fr penser_fr que_fr mon_fr paradigme_fr scientifique_fr suggère_fr quelque_fr chose_fr de_fr différent_fr ._fr
+et_fr ,_fr soit_fr dit_fr en_fr passant_fr ,_fr j'ai_fr maintenant_fr obtenu_fr des_fr capacités_fr de_fr calcul_fr énormes_fr dans_fr mathematica_fr ,_fr et_fr je_fr suis_fr pdg_fr avec_fr des_fr ressources_fr matérielles_fr pour_fr faire_fr de_fr grands_fr projets_fr ,_fr apparemment_fr fous_fr ._fr
+ainsi_fr j'ai_fr décidé_fr de_fr simplement_fr essayer_fr de_fr voir_fr quelle_fr quantité_fr de_fr la_fr connaissance_fr systématique_fr dans_fr le_fr monde_fr nous_fr pouvons_fr _UNK__fr ._fr
+donc_fr ,_fr ça_fr a_fr été_fr un_fr grand_fr projet_fr très_fr complexe_fr ,_fr dont_fr je_fr n'étais_fr pas_fr du_fr tout_fr sûr_fr qu'il_fr allait_fr aboutir_fr ._fr
+mais_fr je_fr suis_fr heureux_fr de_fr dire_fr qu'il_fr va_fr vraiment_fr très_fr bien_fr ._fr
+l'année_fr dernière_fr ,_fr nous_fr avons_fr pu_fr lancer_fr la_fr première_fr version_fr en_fr ligne_fr de_fr wolfram_fr alpha_fr ._fr
+il_fr a_fr pour_fr objectif_fr d'être_fr un_fr moteur_fr de_fr connaissances_fr sérieuses_fr qui_fr calcule_fr les_fr réponses_fr aux_fr questions_fr ._fr
+faisons_fr un_fr essai_fr ._fr
+commençons_fr avec_fr quelque_fr chose_fr de_fr très_fr simple_fr ._fr
+espérons_fr que_fr tout_fr aille_fr bien_fr ._fr
+très_fr bien_fr ._fr très_fr bien_fr ._fr
+jusqu'ici_fr tout_fr va_fr bien_fr ._fr
+essayons_fr quelque_fr chose_fr d'un_fr peu_fr plus_fr difficile_fr ._fr
+disons_fr que_fr ..._fr
+faisons_fr quelque_fr chose_fr de_fr mathématique_fr et_fr avec_fr de_fr la_fr chance_fr il_fr trouvera_fr la_fr réponse_fr et_fr essayera_fr de_fr nous_fr dire_fr des_fr choses_fr intéressantes_fr sur_fr les_fr mathématiques_fr en_fr rapport_fr ._fr
+nous_fr pourrions_fr lui_fr demander_fr quelque_fr chose_fr sur_fr le_fr monde_fr réel_fr ._fr
+disons_fr que_fr -_fr je_fr ne_fr sais_fr pas_fr -_fr quel_fr est_fr le_fr pib_fr de_fr l'espagne_fr ?_fr
+il_fr devrait_fr être_fr en_fr mesure_fr de_fr nous_fr le_fr dire_fr ._fr
+maintenant_fr ,_fr nous_fr pourrions_fr calculer_fr quelque_fr chose_fr lié_fr à_fr cela_fr ,_fr disons_fr le_fr pib_fr de_fr l'espagne_fr divisé_fr par_fr ,_fr je_fr ne_fr sais_fr pas_fr ,_fr le_fr -_fr hmmm_fr ..._fr
+disons_fr le_fr chiffre_fr d'affaires_fr de_fr microsoft_fr ._fr
+l'idée_fr est_fr que_fr nous_fr pouvons_fr entrer_fr ceci_fr ,_fr ce_fr genre_fr de_fr question_fr sous_fr quelque_fr forme_fr que_fr nous_fr la_fr concevions_fr ._fr
+essayons_fr donc_fr de_fr poser_fr une_fr question_fr ,_fr comme_fr une_fr question_fr sur_fr la_fr santé_fr ._fr
+alors_fr disons_fr que_fr nous_fr avons_fr un_fr laboratoire_fr de_fr recherche_fr qui_fr -_fr vous_fr savez_fr ,_fr le_fr taux_fr de_fr _UNK__fr d'un_fr homme_fr de_fr 50_fr ans_fr est_fr de_fr 140_fr ._fr
+tapons_fr cela_fr ,_fr et_fr maintenant_fr wolfram_fr alpha_fr va_fr utiliser_fr les_fr données_fr de_fr santé_fr publique_fr disponibles_fr et_fr essayer_fr de_fr trouver_fr à_fr quelle_fr partie_fr de_fr la_fr population_fr cela_fr correspond_fr ,_fr etc._fr
+ou_fr essayons_fr de_fr poser_fr une_fr question_fr sur_fr ,_fr je_fr ne_fr sais_fr pas_fr ,_fr la_fr station_fr spatiale_fr internationale_fr ._fr
+ce_fr qui_fr se_fr passe_fr ici_fr ,_fr c'est_fr que_fr wolfram_fr alpha_fr ne_fr se_fr contente_fr pas_fr de_fr chercher_fr quelque_fr chose_fr ;_fr il_fr calcule_fr ,_fr en_fr temps_fr réel_fr ,_fr où_fr la_fr station_fr spatiale_fr internationale_fr est_fr maintenant_fr ,_fr en_fr ce_fr moment_fr ,_fr à_fr quelle_fr vitesse_fr elle_fr va_fr ,_fr etc._fr
+wolfram_fr alpha_fr connaît_fr donc_fr beaucoup_fr ,_fr beaucoup_fr de_fr choses_fr ._fr
+il_fr couvre_fr assez_fr bien_fr à_fr ce_fr jour_fr ,_fr tout_fr ce_fr que_fr vous_fr pourriez_fr trouver_fr dans_fr une_fr bibliothèque_fr de_fr référence_fr standard_fr ._fr
+mais_fr l'objectif_fr est_fr d'aller_fr beaucoup_fr plus_fr loin_fr et_fr ,_fr de_fr façon_fr très_fr large_fr ,_fr de_fr démocratiser_fr tout_fr ce_fr genre_fr de_fr connaissance_fr ,_fr et_fr d'essayer_fr de_fr constituer_fr une_fr source_fr qualifiée_fr dans_fr tous_fr les_fr domaines_fr ,_fr pour_fr être_fr en_fr mesure_fr de_fr calculer_fr les_fr réponses_fr aux_fr questions_fr spécifiques_fr que_fr les_fr gens_fr ont_fr ,_fr pas_fr en_fr cherchant_fr ce_fr que_fr les_fr autres_fr ont_fr pu_fr écrire_fr avant_fr ,_fr mais_fr en_fr utilisant_fr la_fr connaissance_fr intégrée_fr pour_fr calculer_fr de_fr toutes_fr nouvelles_fr réponses_fr à_fr une_fr question_fr spécifique_fr ._fr
+maintenant_fr ,_fr bien_fr sûr_fr ,_fr wolfram_fr alpha_fr est_fr un_fr projet_fr à_fr long_fr terme_fr ,_fr _UNK__fr énorme_fr ,_fr avec_fr beaucoup_fr ,_fr beaucoup_fr de_fr défis_fr ._fr
+pour_fr commencer_fr ,_fr il_fr faut_fr organiser_fr une_fr quantité_fr astronomique_fr de_fr sources_fr différentes_fr de_fr faits_fr et_fr de_fr données_fr ,_fr nous_fr avons_fr construit_fr tout_fr un_fr pipeline_fr _UNK__fr mathematica_fr et_fr d'experts_fr humains_fr pour_fr ce_fr faire_fr ._fr
+mais_fr ce_fr n'est_fr que_fr le_fr début_fr ._fr
+compte_fr tenu_fr des_fr faits_fr ou_fr des_fr données_fr brutes_fr pour_fr répondre_fr effectivement_fr aux_fr questions_fr ,_fr on_fr doit_fr calculer_fr ,_fr on_fr doit_fr mettre_fr en_fr œuvre_fr toutes_fr les_fr méthodes_fr ,_fr tous_fr les_fr modèles_fr ,_fr tous_fr les_fr algorithmes_fr ,_fr etc._fr
+que_fr la_fr science_fr et_fr d'autres_fr domaines_fr ont_fr construits_fr au_fr fil_fr des_fr siècles_fr ._fr
+eh_fr bien_fr ,_fr même_fr à_fr partir_fr de_fr mathematica_fr ,_fr c'est_fr toujours_fr une_fr énorme_fr quantité_fr de_fr travail_fr ._fr
+jusqu'à_fr présent_fr ,_fr il_fr y_fr a_fr environ_fr 8_fr millions_fr de_fr lignes_fr de_fr code_fr mathematica_fr dans_fr wolfram_fr alpha_fr construit_fr par_fr des_fr experts_fr de_fr très_fr nombreux_fr domaines_fr différents_fr ._fr
+eh_fr bien_fr ,_fr une_fr idée_fr essentielle_fr de_fr wolfram_fr alpha_fr est_fr que_fr vous_fr pouvez_fr juste_fr lui_fr poser_fr des_fr questions_fr en_fr utilisant_fr le_fr langage_fr humain_fr ordinaire_fr ,_fr ce_fr qui_fr signifie_fr que_fr nous_fr devons_fr être_fr en_fr mesure_fr de_fr prendre_fr tous_fr ces_fr énoncés_fr étranges_fr que_fr les_fr gens_fr tapent_fr dans_fr le_fr champ_fr de_fr saisie_fr et_fr de_fr les_fr comprendre_fr ._fr
+je_fr dois_fr dire_fr que_fr je_fr pensais_fr que_fr cette_fr étape_fr pourrait_fr bien_fr être_fr tout_fr bonnement_fr impossible_fr ._fr
+deux_fr événements_fr importants_fr ont_fr eu_fr lieu_fr ._fr
+tout_fr d'abord_fr ,_fr un_fr tas_fr de_fr nouvelles_fr idées_fr sur_fr la_fr linguistique_fr qui_fr venaient_fr de_fr l'étude_fr de_fr l'univers_fr computationnel_fr ._fr
+ensuite_fr ,_fr la_fr réalisation_fr que_fr d'avoir_fr une_fr connaissance_fr réelle_fr calculable_fr change_fr complètement_fr la_fr façon_fr dont_fr on_fr peut_fr aborder_fr la_fr compréhension_fr du_fr langage_fr ._fr
+et_fr ,_fr bien_fr sûr_fr ,_fr maintenant_fr avec_fr wolfram_fr alpha_fr effectivement_fr dans_fr la_fr nature_fr ,_fr nous_fr pouvons_fr tirer_fr des_fr conclusions_fr par_fr son_fr utilisation_fr actuelle_fr ._fr
+et_fr ,_fr en_fr effet_fr ,_fr il_fr y_fr a_fr une_fr _UNK__fr intéressante_fr entre_fr wolfram_fr alpha_fr et_fr ses_fr utilisateurs_fr humains_fr ._fr
+c'est_fr vraiment_fr encourageant_fr ._fr
+à_fr l'heure_fr actuelle_fr ,_fr si_fr l'on_fr regarde_fr les_fr requêtes_fr web_fr ,_fr plus_fr de_fr 80_fr %_fr sont_fr traitées_fr avec_fr succès_fr la_fr première_fr fois_fr ._fr
+si_fr vous_fr regardez_fr l'application_fr iphone_fr ,_fr le_fr pourcentage_fr est_fr beaucoup_fr plus_fr grand_fr ._fr
+donc_fr ,_fr je_fr suis_fr plutôt_fr content_fr de_fr tout_fr cela_fr ._fr
+mais_fr ,_fr à_fr bien_fr des_fr égards_fr ,_fr nous_fr en_fr sommes_fr encore_fr au_fr tout_fr début_fr avec_fr wolfram_fr alpha_fr ._fr
+tout_fr cela_fr progresse_fr très_fr bien_fr nous_fr devenons_fr plus_fr confiants_fr ._fr
+vous_fr pouvez_fr vous_fr attendre_fr à_fr voir_fr la_fr technologie_fr wolfram_fr alpha_fr apparaître_fr à_fr plus_fr en_fr plus_fr d'endroits_fr ,_fr travaillant_fr à_fr la_fr fois_fr avec_fr ce_fr genre_fr de_fr données_fr publiques_fr ,_fr comme_fr sur_fr le_fr site_fr ,_fr et_fr avec_fr la_fr connaissance_fr privée_fr pour_fr des_fr personnes_fr ,_fr des_fr entreprises_fr ,_fr etc._fr
+je_fr me_fr suis_fr rendu_fr compte_fr que_fr wolfram_fr alpha_fr donne_fr à_fr chacun_fr un_fr tout_fr nouveau_fr type_fr de_fr calcul_fr que_fr l'on_fr peut_fr appeler_fr le_fr calcul_fr fondé_fr sur_fr la_fr connaissance_fr ,_fr où_fr l'on_fr ne_fr se_fr base_fr pas_fr seulement_fr sur_fr le_fr calcul_fr brut_fr ,_fr mais_fr sur_fr une_fr grande_fr quantité_fr de_fr connaissance_fr intégrée_fr ._fr
+quand_fr on_fr fait_fr cela_fr ,_fr on_fr change_fr vraiment_fr l'économie_fr de_fr la_fr prestation_fr des_fr choses_fr computationnelles_fr ,_fr que_fr ce_fr soit_fr sur_fr le_fr web_fr ou_fr ailleurs_fr ._fr
+nous_fr vivons_fr une_fr situation_fr assez_fr intéressante_fr en_fr ce_fr moment_fr ._fr
+d'une_fr part_fr ,_fr nous_fr avons_fr mathematica_fr ,_fr avec_fr son_fr genre_fr de_fr langage_fr formel_fr et_fr précis_fr et_fr un_fr vaste_fr réseau_fr de_fr capacités_fr conçues_fr avec_fr soin_fr capables_fr de_fr faire_fr beaucoup_fr de_fr choses_fr en_fr quelques_fr lignes_fr ._fr
+permettez_fr -_fr moi_fr de_fr vous_fr montrer_fr quelques_fr exemples_fr ici_fr ._fr
+voici_fr un_fr morceau_fr trivial_fr de_fr programmation_fr mathematica_fr ._fr
+voici_fr quelque_fr chose_fr où_fr nous_fr intégrons_fr en_fr quelque_fr sorte_fr un_fr tas_fr de_fr capacités_fr différentes_fr ._fr
+ici_fr ,_fr nous_fr allons_fr simplement_fr créer_fr dans_fr cette_fr ligne_fr une_fr petite_fr interface_fr utilisateur_fr qui_fr nous_fr permet_fr de_fr faire_fr quelque_fr chose_fr d'amusant_fr ._fr
+si_fr vous_fr continuez_fr ,_fr c'est_fr un_fr programme_fr un_fr peu_fr plus_fr compliqué_fr qui_fr est_fr en_fr train_fr de_fr faire_fr toutes_fr sortes_fr de_fr choses_fr algorithmiques_fr ,_fr et_fr de_fr créer_fr l'interface_fr utilisateur_fr ._fr
+mais_fr c'est_fr quelque_fr chose_fr de_fr très_fr précis_fr ._fr
+il_fr s'agit_fr d'une_fr description_fr précise_fr d'un_fr langage_fr formel_fr précis_fr qui_fr fait_fr que_fr mathematica_fr sait_fr quoi_fr faire_fr ici_fr ._fr
+eh_fr bien_fr ,_fr d'autre_fr part_fr ,_fr nous_fr avons_fr wolfram_fr alpha_fr ,_fr avec_fr toutes_fr les_fr désordres_fr du_fr monde_fr et_fr le_fr langage_fr humain_fr par_fr -_fr dessus_fr ._fr
+alors_fr ,_fr que_fr se_fr passe_fr -_fr t_fr -_fr il_fr quand_fr vous_fr mettez_fr ces_fr choses_fr ensemble_fr ?_fr
+je_fr pense_fr que_fr c'est_fr en_fr fait_fr assez_fr merveilleux_fr ._fr
+avec_fr wolfram_fr alpha_fr à_fr l'intérieur_fr de_fr mathematica_fr ,_fr vous_fr pouvez_fr ,_fr par_fr exemple_fr ,_fr faire_fr des_fr programmes_fr précis_fr qui_fr font_fr appel_fr à_fr des_fr données_fr du_fr monde_fr réel_fr ._fr
+voici_fr un_fr exemple_fr très_fr simple_fr ._fr
+vous_fr pouvez_fr aussi_fr entrer_fr quelque_fr chose_fr de_fr vague_fr puis_fr essayer_fr que_fr wolfram_fr alpha_fr comprenne_fr ce_fr dont_fr vous_fr parlez_fr ._fr
+essayons_fr de_fr voir_fr ici_fr ._fr
+mais_fr en_fr réalité_fr ,_fr je_fr crois_fr que_fr la_fr chose_fr la_fr plus_fr passionnante_fr à_fr ce_fr sujet_fr est_fr que_fr cela_fr donne_fr vraiment_fr la_fr possibilité_fr de_fr démocratiser_fr la_fr programmation_fr ._fr
+n'importe_fr qui_fr ,_fr capable_fr de_fr dire_fr ce_fr qu'il_fr veut_fr en_fr langage_fr naturel_fr ,_fr eh_fr bien_fr ,_fr l'idée_fr est_fr que_fr wolfram_fr alpha_fr sera_fr capable_fr de_fr comprendre_fr précisément_fr quelles_fr parties_fr de_fr code_fr pourront_fr faire_fr ce_fr qu'on_fr lui_fr demande_fr ,_fr puis_fr montrer_fr les_fr exemples_fr qui_fr permettront_fr de_fr choisir_fr ce_fr dont_fr on_fr a_fr besoin_fr pour_fr construire_fr des_fr programmes_fr précis_fr de_fr plus_fr en_fr plus_fr importants_fr ._fr
+alors_fr ,_fr parfois_fr ,_fr wolfram_fr alpha_fr sera_fr en_fr mesure_fr de_fr faire_fr tout_fr ça_fr tout_fr de_fr suite_fr et_fr juste_fr de_fr redonner_fr un_fr seul_fr programme_fr avec_fr lequel_fr vous_fr pouvez_fr ensuite_fr calculer_fr ._fr
+voici_fr un_fr grand_fr site_fr web_fr où_fr nous_fr avons_fr recueilli_fr beaucoup_fr de_fr démonstrations_fr éducatives_fr sur_fr toutes_fr sortes_fr de_fr choses_fr ._fr
+au_fr hasard_fr ,_fr je_fr vais_fr vous_fr montrer_fr un_fr exemple_fr ,_fr peut_fr -_fr être_fr ici_fr ._fr
+ce_fr n'est_fr qu'un_fr exemple_fr d'un_fr de_fr ces_fr documents_fr _UNK__fr ._fr
+c'est_fr probablement_fr un_fr assez_fr petit_fr morceau_fr de_fr code_fr mathematica_fr qui_fr est_fr capable_fr de_fr fonctionner_fr ici_fr ._fr
+très_fr bien_fr ._fr effectuons_fr un_fr zoom_fr arrière_fr ._fr
+ainsi_fr ,_fr compte_fr tenu_fr de_fr notre_fr nouvelle_fr science_fr ,_fr y_fr a_fr -_fr t_fr -_fr il_fr une_fr manière_fr générale_fr de_fr l'utiliser_fr pour_fr créer_fr de_fr la_fr technologie_fr ?_fr
+ainsi_fr ,_fr avec_fr des_fr matériaux_fr physiques_fr ,_fr nous_fr sommes_fr habitués_fr à_fr faire_fr le_fr tour_fr du_fr monde_fr et_fr découvrir_fr que_fr des_fr matériaux_fr particuliers_fr sont_fr utiles_fr pour_fr des_fr objectifs_fr technologiques_fr particuliers_fr ._fr
+eh_fr bien_fr ,_fr il_fr s'avère_fr que_fr nous_fr pouvons_fr faire_fr quasiment_fr la_fr même_fr chose_fr dans_fr l'univers_fr computationnel_fr ._fr
+il_fr existe_fr une_fr source_fr inépuisable_fr de_fr programmes_fr ._fr
+le_fr défi_fr consiste_fr à_fr voir_fr comment_fr les_fr exploiter_fr à_fr des_fr fins_fr humaines_fr ._fr
+quelque_fr chose_fr comme_fr la_fr règle_fr 30_fr ,_fr par_fr exemple_fr ,_fr s'avère_fr être_fr un_fr vraiment_fr bon_fr générateur_fr aléatoire_fr ._fr
+d'autres_fr programmes_fr simples_fr sont_fr de_fr bons_fr modèles_fr pour_fr les_fr processus_fr dans_fr le_fr monde_fr naturel_fr ou_fr social_fr ._fr
+et_fr ,_fr par_fr exemple_fr ,_fr wolfram_fr alpha_fr et_fr mathematica_fr sont_fr en_fr fait_fr maintenant_fr chargés_fr d'algorithmes_fr que_fr nous_fr avons_fr découverts_fr en_fr fouillant_fr l'univers_fr computationnel_fr ._fr
+et_fr ,_fr par_fr exemple_fr ,_fr -_fr retournons_fr sur_fr -_fr ceci_fr est_fr devenu_fr étonnamment_fr populaire_fr parmi_fr les_fr compositeurs_fr qui_fr trouvent_fr des_fr formes_fr musicales_fr en_fr explorant_fr l'univers_fr computationnel_fr ._fr
+en_fr un_fr sens_fr ,_fr nous_fr pouvons_fr utiliser_fr l'univers_fr computationnel_fr pour_fr obtenir_fr une_fr créativité_fr de_fr masse_fr sur_fr mesure_fr ._fr
+j'espère_fr que_fr nous_fr pourrons_fr ,_fr par_fr exemple_fr ,_fr utiliser_fr cela_fr même_fr pour_fr que_fr wolfram_fr alpha_fr fasse_fr systématiquement_fr des_fr inventions_fr et_fr des_fr découvertes_fr à_fr la_fr volée_fr et_fr trouve_fr toutes_fr sortes_fr de_fr choses_fr merveilleuses_fr qu'aucun_fr ingénieur_fr et_fr aucun_fr processus_fr d'évolution_fr progressive_fr n'auraient_fr jamais_fr trouvé_fr ._fr
+cela_fr mène_fr à_fr une_fr sorte_fr de_fr question_fr ultime_fr ._fr
+est_fr -_fr ce_fr que_fr quelque_fr part_fr dans_fr l'univers_fr computationnel_fr nous_fr pourrions_fr trouver_fr notre_fr univers_fr physique_fr ?_fr
+peut_fr -_fr être_fr qu'il_fr y_fr a_fr même_fr une_fr règle_fr très_fr simple_fr ,_fr un_fr programme_fr simple_fr pour_fr notre_fr univers_fr ._fr
+eh_fr bien_fr ,_fr l'histoire_fr de_fr la_fr physique_fr voudrait_fr nous_fr faire_fr croire_fr que_fr la_fr règle_fr de_fr l'univers_fr doit_fr être_fr assez_fr compliquée_fr ._fr
+mais_fr dans_fr l'univers_fr computationnel_fr nous_fr avons_fr vu_fr comment_fr les_fr règles_fr qui_fr sont_fr incroyablement_fr simples_fr peuvent_fr produire_fr des_fr comportements_fr incroyablement_fr riches_fr et_fr complexes_fr ._fr
+se_fr pourrait_fr -_fr il_fr qu'il_fr en_fr aille_fr de_fr même_fr pour_fr notre_fr univers_fr tout_fr entier_fr ?_fr
+si_fr les_fr règles_fr de_fr l'univers_fr sont_fr simples_fr ,_fr il_fr est_fr en_fr quelque_fr sorte_fr inévitable_fr qu'elles_fr soient_fr très_fr abstraites_fr et_fr de_fr très_fr faible_fr niveau_fr ,_fr opérant_fr ,_fr par_fr exemple_fr ,_fr bien_fr au_fr -_fr dessous_fr du_fr niveau_fr de_fr l'espace_fr ou_fr du_fr temps_fr ,_fr ce_fr qui_fr rend_fr difficile_fr leur_fr représentation_fr ._fr
+mais_fr dans_fr une_fr grande_fr variété_fr de_fr cas_fr ,_fr on_fr peut_fr penser_fr à_fr l'univers_fr comme_fr étant_fr une_fr sorte_fr de_fr réseau_fr ,_fr qui_fr ,_fr quand_fr il_fr est_fr assez_fr grand_fr ,_fr se_fr comporte_fr comme_fr un_fr espace_fr continu_fr un_fr peu_fr comme_fr si_fr plein_fr de_fr molécules_fr se_fr comportaient_fr comme_fr un_fr fluide_fr continu_fr ._fr
+eh_fr bien_fr ,_fr l'univers_fr doit_fr évoluer_fr en_fr appliquant_fr des_fr petites_fr règles_fr qui_fr ,_fr progressivement_fr ,_fr mettent_fr à_fr jour_fr de_fr ce_fr réseau_fr ._fr
+et_fr chaque_fr règle_fr possible_fr ,_fr en_fr un_fr sens_fr ,_fr correspond_fr à_fr un_fr univers_fr candidat_fr ._fr
+en_fr fait_fr ,_fr je_fr n'ai_fr encore_fr jamais_fr montré_fr ceci_fr ,_fr mais_fr voici_fr quelques_fr -_fr uns_fr des_fr univers_fr candidats_fr que_fr j'ai_fr observés_fr ._fr
+certains_fr de_fr ces_fr univers_fr sont_fr sans_fr espoir_fr ,_fr complètement_fr stériles_fr ,_fr avec_fr d'autres_fr types_fr de_fr pathologies_fr comme_fr aucune_fr notion_fr de_fr l'espace_fr ,_fr aucune_fr notion_fr du_fr temps_fr ,_fr pas_fr de_fr matière_fr ,_fr d'autres_fr problèmes_fr comme_fr ça_fr ._fr
+mais_fr la_fr chose_fr passionnante_fr que_fr j'ai_fr trouvée_fr ces_fr dernières_fr années_fr est_fr que_fr vous_fr n'avez_fr pas_fr besoin_fr d'aller_fr très_fr loin_fr dans_fr l'univers_fr computationnel_fr avant_fr de_fr commencer_fr à_fr trouver_fr des_fr univers_fr candidats_fr qui_fr ne_fr sont_fr pas_fr évidemment_fr pas_fr notre_fr univers_fr ._fr
+voici_fr le_fr problème_fr :_fr tout_fr candidat_fr sérieux_fr pour_fr notre_fr univers_fr ,_fr est_fr inévitablement_fr plein_fr _UNK__fr de_fr calcul_fr ,_fr ce_fr qui_fr signifie_fr qu'il_fr est_fr _UNK__fr difficile_fr de_fr savoir_fr comment_fr il_fr va_fr vraiment_fr se_fr comporter_fr ,_fr et_fr s'il_fr correspond_fr à_fr notre_fr univers_fr physique_fr ._fr
+il_fr y_fr a_fr quelques_fr années_fr ,_fr j'étais_fr plutôt_fr enthousiaste_fr à_fr l'idée_fr de_fr découvrir_fr s'il_fr y_fr avait_fr des_fr univers_fr candidats_fr avec_fr des_fr règles_fr extrêmement_fr simples_fr qui_fr réussissent_fr à_fr reproduire_fr la_fr relativité_fr restreinte_fr et_fr même_fr la_fr relativité_fr générale_fr et_fr la_fr gravitation_fr ,_fr et_fr qui_fr au_fr moins_fr donnent_fr des_fr indications_fr de_fr mécanique_fr quantique_fr ._fr
+alors_fr ,_fr allons_fr -_fr nous_fr trouver_fr l'ensemble_fr de_fr la_fr physique_fr ?_fr
+je_fr n'en_fr suis_fr pas_fr sûr_fr ._fr
+mais_fr je_fr pense_fr qu'à_fr ce_fr stade_fr c'est_fr presque_fr gênant_fr de_fr ne_fr pas_fr au_fr moins_fr essayer_fr ._fr
+pas_fr un_fr projet_fr facile_fr ._fr
+on_fr doit_fr construire_fr beaucoup_fr de_fr technologie_fr ._fr
+on_fr doit_fr construire_fr une_fr structure_fr qui_fr est_fr probablement_fr au_fr moins_fr aussi_fr profonde_fr que_fr la_fr physique_fr actuelle_fr ._fr
+et_fr je_fr ne_fr suis_fr pas_fr sûr_fr de_fr savoir_fr quel_fr est_fr le_fr meilleur_fr moyen_fr d'organiser_fr tout_fr cela_fr ._fr
+constituer_fr une_fr équipe_fr ,_fr l'ouvrir_fr ,_fr offrir_fr des_fr prix_fr ,_fr etc._fr
+mais_fr je_fr vous_fr dis_fr ici_fr aujourd'hui_fr que_fr je_fr suis_fr déterminé_fr à_fr voir_fr ce_fr projet_fr se_fr réaliser_fr ,_fr pour_fr voir_fr si_fr ,_fr dans_fr cette_fr décennie_fr ,_fr nous_fr pouvons_fr enfin_fr tenir_fr dans_fr nos_fr mains_fr la_fr règle_fr de_fr notre_fr univers_fr et_fr savoir_fr où_fr se_fr trouve_fr notre_fr univers_fr dans_fr l'espace_fr de_fr tous_fr les_fr univers_fr possibles_fr -_fr et_fr être_fr capable_fr de_fr taper_fr dans_fr wolfram_fr alpha_fr "_fr la_fr théorie_fr de_fr l'univers_fr "_fr ,_fr et_fr qu'il_fr nous_fr le_fr dise_fr ._fr
+j'ai_fr donc_fr travaillé_fr sur_fr l'idée_fr de_fr calcul_fr depuis_fr plus_fr de_fr 30_fr ans_fr ,_fr en_fr construisant_fr des_fr outils_fr et_fr des_fr méthodes_fr et_fr en_fr transformant_fr des_fr idées_fr intellectuelles_fr en_fr millions_fr de_fr lignes_fr de_fr code_fr et_fr en_fr grain_fr à_fr moudre_fr pour_fr les_fr parcs_fr de_fr serveurs_fr ._fr
+année_fr après_fr année_fr ,_fr je_fr me_fr rends_fr compte_fr à_fr quel_fr point_fr l'idée_fr de_fr calcul_fr est_fr vraiment_fr plus_fr puissante_fr ._fr
+nous_fr avons_fr déjà_fr parcouru_fr un_fr long_fr chemin_fr ,_fr mais_fr il_fr y_fr a_fr tellement_fr plus_fr à_fr faire_fr ._fr
+des_fr fondations_fr de_fr la_fr science_fr aux_fr limites_fr de_fr la_fr technologie_fr à_fr la_fr définition_fr même_fr de_fr la_fr condition_fr humaine_fr ,_fr je_fr pense_fr que_fr le_fr calcul_fr est_fr destiné_fr à_fr être_fr l'idée_fr déterminante_fr de_fr notre_fr avenir_fr ._fr
+merci_fr ._fr
+chris_fr anderson_fr :_fr c'était_fr vraiment_fr éblouissant_fr ._fr
+restez_fr ici_fr ._fr j'ai_fr une_fr question_fr ._fr
+alors_fr ,_fr c'était_fr ,_fr pour_fr être_fr honnête_fr ,_fr un_fr exposé_fr éblouissant_fr ._fr
+êtes_fr -_fr vous_fr capable_fr de_fr dire_fr en_fr une_fr phrase_fr ou_fr deux_fr comment_fr ce_fr type_fr de_fr réflexion_fr pourrait_fr s'intégrer_fr à_fr un_fr moment_fr donné_fr à_fr des_fr choses_fr comme_fr la_fr théorie_fr des_fr cordes_fr ou_fr le_fr genre_fr de_fr choses_fr que_fr les_fr gens_fr considèrent_fr comme_fr les_fr explications_fr fondamentales_fr de_fr l'univers_fr ?_fr
+stephen_fr wolfram_fr :_fr eh_fr bien_fr ,_fr les_fr parties_fr de_fr la_fr physique_fr que_fr nous_fr tenons_fr pour_fr vraies_fr ,_fr des_fr choses_fr comme_fr le_fr modèle_fr standard_fr de_fr la_fr physique_fr ._fr
+ce_fr que_fr j'essaie_fr de_fr faire_fr reproduit_fr mieux_fr le_fr modèle_fr standard_fr de_fr la_fr physique_fr ou_fr c'est_fr tout_fr simplement_fr faux_fr ._fr
+les_fr choses_fr que_fr les_fr gens_fr ont_fr essayé_fr de_fr faire_fr au_fr cours_fr des_fr 25_fr dernières_fr années_fr avec_fr la_fr théorie_fr des_fr cordes_fr ,_fr ont_fr été_fr une_fr exploration_fr intéressante_fr qui_fr a_fr essayé_fr de_fr revenir_fr au_fr modèle_fr standard_fr ,_fr mais_fr ils_fr n'y_fr sont_fr pas_fr tout_fr à_fr fait_fr parvenus_fr ._fr
+je_fr pense_fr que_fr certaines_fr _UNK__fr de_fr choses_fr que_fr je_fr fais_fr peuvent_fr en_fr fait_fr avoir_fr une_fr résonance_fr considérable_fr avec_fr ce_fr qui_fr a_fr été_fr fait_fr dans_fr la_fr théorie_fr des_fr cordes_fr ,_fr mais_fr c'est_fr une_fr chose_fr mathématique_fr compliquée_fr dont_fr je_fr ne_fr sais_fr pas_fr encore_fr comment_fr elle_fr va_fr tourner_fr ._fr
+ca_fr :_fr benoit_fr mandelbrot_fr est_fr dans_fr le_fr public_fr ._fr
+il_fr a_fr également_fr montré_fr comment_fr la_fr complexité_fr peut_fr découler_fr d'un_fr début_fr simple_fr ._fr
+votre_fr travail_fr a_fr -_fr t_fr -_fr il_fr un_fr rapport_fr avec_fr le_fr sien_fr ?_fr
+sw_fr :_fr je_fr pense_fr que_fr oui_fr ._fr
+je_fr considère_fr le_fr travail_fr de_fr benoit_fr mandelbrot_fr comme_fr en_fr quelque_fr sorte_fr une_fr des_fr contributions_fr fondatrices_fr dans_fr ce_fr genre_fr de_fr domaine_fr ._fr
+benoit_fr a_fr été_fr particulièrement_fr intéressé_fr par_fr les_fr modèles_fr imbriqués_fr ,_fr les_fr fractales_fr ,_fr etc_fr ,_fr où_fr la_fr structure_fr est_fr quelque_fr chose_fr qui_fr a_fr un_fr peu_fr la_fr forme_fr d'un_fr arbre_fr ,_fr et_fr où_fr il_fr y_fr a_fr une_fr grosse_fr branche_fr qui_fr fait_fr des_fr petites_fr branches_fr ,_fr et_fr des_fr branches_fr encore_fr plus_fr petites_fr ,_fr etc._fr
+c'est_fr l'un_fr des_fr moyens_fr de_fr s'approcher_fr de_fr la_fr véritable_fr complexité_fr ._fr
+je_fr pense_fr que_fr des_fr choses_fr comme_fr _UNK__fr cellulaire_fr de_fr la_fr règle_fr 30_fr nous_fr amène_fr à_fr un_fr niveau_fr différent_fr ._fr
+en_fr fait_fr ,_fr d'une_fr manière_fr très_fr précise_fr ,_fr ils_fr nous_fr amènent_fr à_fr un_fr niveau_fr différent_fr parce_fr qu'ils_fr semblent_fr être_fr des_fr choses_fr qui_fr sont_fr capables_fr de_fr complexité_fr qui_fr est_fr presque_fr aussi_fr grande_fr que_fr la_fr complexité_fr puisse_fr jamais_fr être_fr ..._fr
+je_fr pourrais_fr continuer_fr sur_fr ce_fr sujet_fr indéfiniment_fr ,_fr mais_fr je_fr ne_fr le_fr ferai_fr pas_fr ._fr
+ca_fr :_fr stephen_fr wolfram_fr ,_fr merci_fr ._fr

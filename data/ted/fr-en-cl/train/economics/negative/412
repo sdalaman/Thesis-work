@@ -1,0 +1,35 @@
+en 1952 , buckminster fuller a présenté une proposition particulièrement audacieuse pour le _UNK_ .
+il s'agissait d'une sphère géodésique d'un diamètre de 200 pieds destinée à être suspendue au - dessus de l'east river à new york city , bien à la vue de l'organisation des nations unies .
+c'était une grande idée , bien sûr , et il pensait vraiment qu'il pourrait ainsi vraiment informer et profondément affecter les prises de décision de cet organisme avec des animations de données mondiales , des tendances et d'autres informations concernant le monde , sur cette sphère .
+et aujourd'hui , 45 ans plus tard , il est clair que nous n'avons pas moins besoin de ce genre de clarté et de perspective , mais par contre ce que nous avons , c'est une technologie améliorée .
+aujourd'hui , nous n'avons pas besoin d'un million d'ampoules pour créer un écran sphérique .
+nous pouvons utiliser les leds .
+les leds sont plus petites , elles ont moins chères , elles durent plus longtemps , elles ont plus efficaces et ce qui importe le plus pour cette invention , elles sont plus rapides .
+et cette vitesse , combinée avec les micro - contrôleurs à haute performance d'aujourd'hui nous a permis de simuler , dans cette invention , plus de 17 000 led -- en en utilisant seulement 64 .
+et l'effet est produit grâce au phénomène de la persistance rétinienne .
+mais , alors que cet anneau tourne à 1700 tours / minute environ - soit 28 fois par seconde .
+la vitesse à l'équateur est en fait environ 96 kilomètres / heure .
+il y a quatre micro - contrôleurs embarqués qui , chaque fois que cet anneau tourne et qu'il passe devant la partie arrière de l'affichage , et il reçoit un signal de position à partir duquel les micro - contrôleurs embarqués peuvent extrapoler la position de l'anneau à tous les points de la révolution et afficher des images _UNK_ et des animations arbitraires .
+mais ce n'est que le début .
+en plus des versions de résolution plus élevées de cet affichage , mon père et moi - même travaillons sur une nouvelle conception en instance de brevet pour un affichage complètement volumétrique utilisant le même phénomène .
+on arrive à ce résultat par une rotation des leds autour de deux axes .
+donc , comme vous pouvez le voir ici , il s'agit d'un circuit imprimé de 11 - pouces de diamètre .
+ces blocs représentent des leds .
+et donc vous verriez alors que ce disque est en rotation sur cet axe , il va créer un disque de lumière que nous pouvons contrôler .
+ce n'est rien de nouveau , c'est comme une horloge à hélice .
+c'est comme les _UNK_ que vous pouvez acheter pour votre voiture .
+mais ce qui est nouveau , c'est que lorsque nous faisons tourner ce disque sur cet axe , alors ce disque de lumière devient en fait une sphère de lumière .
+et ainsi nous pouvons contrôler cela par des micro - contrôleurs et créer un affichage volumétrique , en trois dimensions , avec seulement 256 leds .
+maintenant , cet appareil est actuellement en cours de fabrication -- la sortie est prévue pour mai , mais ce que nous avons fait c'est que nous avons mis en place une petite démo , juste pour montrer la traduction géométrique de points en une sphère .
+j'ai une petite vidéo à vous montrer , mais gardez à l'esprit qu'il n'y a pas ici de contrôle électronique , et aussi qu'il y a seulement quatre leds .
+c'est en fait seulement environ 1,5 % de ce que sera l'affichage final en mai .
+alors , jetez un coup d'oeil .
+et ici , vous pouvez le voir , elle tourne autour de l'axe vertical seulement , en créant des cercles .
+et puis , alors que l'autre axe entre en fonction , elles se fondent vraiment en un seul volume .
+et la vitesse _UNK_ de la caméra rend l'effet un peu moins évident dans ce cas précis .
+cet appareil sortira en mai .
+il sera exposé au salon de printemps des télécommunications interactives de greenwich village à new york - c'est ouvert au public , et nous vous invitons tous à venir y assister - c'est un salon fantastique .
+il y a des centaines d'étudiants innovateurs avec de magnifiques projets .
+ce dispositif en fait sera exposé dans l'espace sierra simulcast pendant les pauses entre maintenant et la fin de la séance .
+j'aimerais donc vous parler à tous , et vous inviter à venir regarder de plus près .
+c'est un honneur _UNK_ ici , merci beaucoup .

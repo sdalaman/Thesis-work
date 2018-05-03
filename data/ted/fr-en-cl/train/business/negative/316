@@ -1,0 +1,220 @@
+donc je vais parler aujourd'hui du recueil d'histoires de façon peu conventionnelle .
+voici une photo de moi quand j'étais dans l'âge ingrat .
+vous apprécierez les pyjamas affreusement justes et serrés avec des ballons .
+peu importe . c'était une époque durant laquelle je m'intéressais particulièrement à recueillir des histoires imaginaires .
+donc voici une photo de moi tenant une de mes toutes premières aquarelles .
+et récemment je me suis beaucoup plus intéressé à recueillir des histoires de la réalité -- donc , de vraies histoires .
+et plus exactement , je m'interesse au recueil de mes propres histoires , des histoires tirées d'internet , et plus récemment , des histoires de la vie , ce qui représent un nouvel espace de travail dont je m'occupe depuis peu .
+donc je vais en parler aujourd'hui .
+alors , premièrement -- mes propres histoires . voici deux de mes cahiers de dessin .
+j'en ai beaucoup , et je les conserve depuis ces huit ou neuf dernières années .
+ils m'accompagnent où que j'aille dans la vie , et je les remplis de toute sorte de choses , des archives de mes expériences personnelles .
+des aquarelles , des dessins de ce que je vois , des fleurs séchées , des insectes morts , des tickets collés , des pièces qui _UNK_ , des cartes de visite , des écrits .
+et dans ces cahiers vous pouvez trouver ces petits aperçus des moments et des expériences et des personnes que je rencontre .
+et , vous savez , après avoir gardé ces cahiers pendant un certain nombre d'années , j'ai commencé à m'intéresser au recueil de non seulement mes propres artéfacts , mais aussi ceux des autres .
+alors j'ai commencé à collectionner des objets trouvés .
+voici une photo que j'avais trouvé gisant dans une _UNK_ à new york il y a environs dix ans .
+au recto vous pouvez voir la photo en lambeaux en noir et blanc du visage d'une femme , et au _UNK_ , il est écrit , " a judy , la fille à la voix de bill bailey , profite à fond de ce que tu fais . "
+et j'ai vraiment aimé l'idée d'un aperçu partiel de la vie de quelqu'un d'autre , en opposition à connaître toute l'histoire ; juste connaître un petit bout de l'histoire et laisser son esprit en compléter le reste .
+et cette idée d'un aperçu partiel est quelque chose qui reviendra beaucoup dans le travail dont je vais vous parler dans quelques instants .
+donc à cette époque - là j'étudiais l'informatique à princeton , et j'ai remarqué que , tout à coup , il était possible de recueillir ce genre d'objets personnels , non seulement des coins de rue , mais aussi d'internet .
+et que , tout à coup , des masses de gens laissaient des milliers et des milliers d'empreintes digitales en ligne qui racontaient l'histoire de leur vie .
+des blogs , des photos , des pensées , des sentiments , des opinions , toutes ces choses - là étaient exprimées en ligne par des gens , et laissaient des traces derrière .
+alors j'ai commencé à écrire des logiciels qui étudient des échantillons très très larges de ces empreintes sur le web .
+un de ces projets date d'un an et demi .
+ça s'appelle " we feel fine " .
+c'est un projet qui scanne les articles de blog les plus récents dans le monde toutes les deux ou trois minutes , cherchant les occurrences des locutions " i feel " et " i am _UNK_ " . et quand il trouve une de ces phrases il prend toute la phrase jusqu'à la fin et essaie aussi d'identifier les informations démographiques de l'auteur .
+donc , le sexe , l'âge , et l'emplacement géographique et aussi quel temps il faisait quand l'auteur a écrit cette phrase .
+il recueille près de 20 000 phrases par jour et le logiciel est en marche depuis un an et demi , et a recueilli plus de dix millions et demi de sentiments aujourd'hui .
+voilà comment ils sont ensuite présentés .
+les points ici représentent les sentiments d'une partie du monde anglophone datant de quelques heures .
+chaque point est une phrase unique , exprimée par un seul blogueur .
+et la couleur de chaque point correspond au type de sentiment , alors les couleurs vives représentent la joie , et les couleurs sombres la tristesse .
+et le diamètre de chaque point correspond à la longueur de la phrase .
+donc les petits points sont des phrases courtes , les plus gros des phrases plus longues .
+" je me sens bien dans ma peau , mais c'est difficile d'expliquer pourquoi je me sens toujours aussi mal à l'aise dans l'intimité avec mon copain , " phrase d'une personne de 22 ans au japon .
+" j'ai eu cela d'un commerce local , mais je me sens pas d'humeur à bricoler . "
+quelques - uns de ces sentiments sont _UNK_ par des photos dans les blogs et quand c'est le cas , des montages sont automatiquement créés , qui consistent en la combinaison de la phrase et de l'image .
+et on peut les ouvrir pour en dévoiler le contenu .
+" je me sens bien . "
+" je me sens pas très bien maintenant , j'ai probablement pris 100 000 kilos , mais ça valait le coup . "
+" j'aime comment ils ont pu préserver le plus possible de chaque chose qui fasse qu'on se sente plus proche de la nature -- les papillons , les forêts artificielles , les caves _UNK_ , et devinez quoi , même un énorme python . "
+donc le prochain mouvement s'appelle " mobs " .
+cela donne un point de vue légèrement plus statistique .
+voilà les sentiments les plus communs du monde en ce moment , dominés par " mieux " , puis " mal " , puis " bien " , puis " coupable " , etc.
+la météo donne aux sentiments les traits physiques du temps qu'ils représentent . donc ceux qui sont ensoleillés dansent , les nuageux flottent , les pluvieux tombent , et les _UNK_ tourbillonnent jusqu'au sol .
+on peut aussi arrêter une goutte de pluie et ouvrir le sentiment à l'intérieur .
+finalement , l'emplacement géographique permet aux sentiments de se positionner sur une carte du monde , donnant ainsi une idée de leur répartition géographique .
+donc je vais vous montrer quelques - uns de mes montages préférés de " we feel fine " .
+ce sont des images qui ont été construites automatiquement .
+" je me sens comme _UNK_ en diagonale dans un monde parallèle . "
+" j'ai embrassé beaucoup d'autres gars , et ce n'était pas bien , les baisers étaient brouillons et incorrects , mais embrasser lucas semble beau et presque spirituel . "
+" je sens grandir mon cancer . "
+" je me sens jolie . "
+" je me sens _UNK_ , mais je ne le suis pas . "
+" j'ai 23 ans , et je me remets de ma dépendance aux _UNK_ et à l'héroine , et je me sens bénie d'être en vie . "
+" je suis impatient de les voir concourir pour la première fois à daytona le mois prochain , parce que je ressens un besoin de vitesse . "
+" je me sens classe . "
+" je me sens tellement sexy avec cette nouvelle perruque . "
+comme vous pouvez le voir , " we feel fine " recueille des histoires personnelles à petite échelle .
+parfois des histoires d'à peine deux ou trois mots .
+et ainsi , défiant la notion de ce qu'est une histoire .
+et depuis peu , je m'intéresse plus à explorer plus profondément une seule histoire .
+et cela m'a amené à travailler sur le monde réel , et non sur internet , et à utiliser internet seulement au dernier moment comme un moyen de présentation .
+donc ce sont de nouveaux projets qui n'ont pas encore été lancés publiquement .
+le premier de la sorte s'appelle " the _UNK_ hunt " en mai dernier , j'ai passé neuf jours à barrow , en alaska , le hameau le plus au nord des etats - unis , avec une famille _UNK_ _UNK_ , relatant leur chasse à la baleine annuelle au printemps .
+voici le camp de chasse , à quelques neuf kilomètres du rivage , où nous _UNK_ sur de la glace épaisse de plus d'un mètre cinquante .
+et cette eau que vous voyez est la piste ouverte à travers laquelle les baleines _UNK_ migrent vers le nord au printemps .
+et la communauté _UNK_ _UNK_ au bord de la glace ici , et attend qu'une baleine arrive assez près pour l'attaquer , et il lui lance un _UNK_ , et la hisse à la surface , et la découpe .
+et cela constituera la réserve de nourriture de la communauté pendant un bon bout de temps .
+donc je suis allé tout au nord , et j'ai vécu avec ces gens dans leur camp de chasse , et j'ai photographié toute cette expérience , en commençant par le trajet en taxi jusqu'à l'aéroport de newark à new york , et finissant avec la boucherie de la deuxième baleine , sept jours et demi plus tard .
+j'ai photographié toute cette expérience avec des intervalles de cinq minutes .
+donc toutes les cinq minutes , j'ai pris une photo .
+quand j'étais éveillé , j'avais l'appareil autour du cou ; quand je dormais , c'était avec un trépied et un minuteur .
+et puis dans des moments de grande excitation , quand quelque chose d'important se passait , _UNK_ la fréquence de prise de photo à presque 37 photos en 5 minutes .
+donc ceci a créé des battements de coeur photographiques qui _UNK_ et _UNK_ , plus ou moins en accord avec le changement de mon propre pouls .
+voilà donc le premier concept .
+le second concept était d'utiliser cette expérience pour réfléchir sur les composants de base de toute histoire .
+quelles sont les choses qui font une histoire ?
+les histoires ont des personnalités . les histoires ont des concepts .
+les histoires se passent dans un endroit précis . elles connaissent des contextes .
+elles ont des couleurs . a quoi ressemblent - elles ?
+elles ont un temps . quand ça s'est passé ? des dates , quand est - ce que c'est survenu ?
+et dans le cas d'une chasse à la baleine , nous avons aussi l'idée d'un seuil d'excitation .
+le truc à propos des histoires , c'est qu'à travers la plupart des médias existants auxquels nous sommes habitués -- les romans , la radio , les photos , les films , même les conférences comme celle - ci -- nous sommes habitués à cette idée du point de vue du narrateur , ou de la position de la caméra .
+comme une sorte de corps externe omniscient à travers les yeux duquel on voit l'histoire .
+nous sommes très habitués à cela .
+mais si nous pensons à la vie réelle , ça n'est pas comme ça .
+je veux dire que dans la vie réelle , les choses sont plus complexes et nuancées , et nous avons beaucoup de ces histoires qui se superposent , se croisent et se touchent .
+et donc j'ai pensé que ça serait intéressant de construire une structure pour représenter toutes ces sortes d'histoires . dans le cas de la " chasse à la baleine " , comment pouvions - nous extraire l'histoire de _UNK_ et crawford , incluant les concepts de vie sauvage , d'outils et de sang , tout cela se passant dans l'océan arctique , tout cela dominé par le rouge , et se passant aux alentours de _UNK_ , le 3 mai , avec un seuil d'excitation élevé ?
+donc comment extraire cette ordre narrative de cette histoire plus grande ?
+j'ai construit une interface web pour visualiser " la chasse à la baleine " qui essaie de le faire .
+donc voici les _UNK_ photos prises .
+voici mon _UNK_ à brooklyn . voici l'océan arctique , et la boucherie de la deuxième baleine , sept jours plus tard .
+vous pouvez déjà voir une partie de l'histoire ici , comme démontré par les couleurs .
+cette bande rouge est la couleur du papier peint dans l'appartement au sous - sol où j'habitais .
+et les choses deviennent blanches à mesure que nous bougeons vers l'océan arctique .
+l'introduction du rouge ici , quand les baleines sont découpées .
+vous pouvez voir une ligne temporelle , montrant les moments d'excitation à travers l'histoire .
+et ces photos sont classées de façon chronologique .
+la visualisation en roue en donne une version plus _UNK_ , ce sont aussi toutes les photos classées _UNK_ .
+et on peut cliquer sur chacune d'elles , c'est alors que la narration est introduite .
+ici je suis en train de dormir dans l'avion en direction de l'alaska .
+voici moby dick .
+voici notre nourriture .
+voici le salon de la famille _UNK_ dans leur maison à barrow . le vin qu'ils nous ont servi .
+une pause _UNK_ dehors -- je ne fume pas .
+voici une séquence de moi en train de dormir .
+là on est au camp , sur l'océan arctique .
+le graphique sur lequel je clique représente ici le graphique médical des battements de coeur , montrant les moments de pure adrénaline .
+voici la glace qui commence à geler . la barrière de glace qu'ils ont construite .
+et donc je vais vous montrer maintenant comment extraire des histoires secondaires .
+vous voyez ici le casting . toutes les personnes de la chasse , et les deux baleines qui ont été tuées .
+nous pourrions faire une chose aussi arbitraire que , disons , extraire l'histoire de rony , qui met en scène des concepts de sang et de baleines et d'outils , tout cela se passant dans l'océan arctique , au camp _UNK_ , avec des battements de coeur accélérés .
+et maintenant nous avons réduit toute cette histoire à seulement 29 photos magiques , et nous pouvons entrer dans la trame narrative à cet endroit .
+et vous pouvez voir rony qui découpe la baleine ici .
+les baleines font douze mètres de long , et pèsent plus de quarante tonnes . et elles sont la source de nourriture de la communauté pour une grande partie de l'année .
+si nous avançons un peu , voici rony sur la carcasse de la baleine .
+ils n'utilisent pas de scies , que des lames , et un procédé incroyablement efficace .
+voici les gars qui tirent sur la corde , pour ouvrir la carcasse .
+le _UNK_ , ou le blanc de baleine , aligné pour la distribution à la communauté .
+c'est de la baleine . continuons .
+ce dont je vais vous parler maintenant est une chose très nouvelle . ce n'est pas encore un projet .
+hier encore , j'arrivais de singapour , et avant cela , je passais deux semaines au bhoutan , le petit royaume niché entre le tibet et l'inde .
+et j'y faisais un projet sur le bonheur , j'interviewais beaucoup de natifs .
+le bhoutan a cette pratique incroyable de baser la plupart de leurs plus importantes décisions gouvernementales sur le concept de bonheur national brut à la place du pib , et ils font cela depuis les années 70 .
+et cela amène à un système de valeurs totalement différent .
+c'est une culture incroyablement non - matérialiste où les gens ne possèdent pas beaucoup , mais ils sont incroyablement heureux .
+j'ai parcouru le pays et j'ai parlé aux gens de quelques - unes de ces idées .
+j'ai fait une série de choses . j'ai posé aux gens une série de questions , et j'ai pris des séries de photos , et je les ai interviewés en les enregistrant , et j'ai aussi pris des photos d'eux .
+je commençais par leur demander de noter leur bonheur sur une échelle d'un à dix , ce qui est plutôt absurde .
+et quand ils répondaient , je _UNK_ le nombre de ballons et les leur donnais .
+donc voici des personnes très heureuses qui tiennent dix ballons , et quelque pauvre âme ayant un seul ballon .
+mais vous savez , même tenir un seul ballon est quelque peu _UNK_ .
+et je leur posais alors une série de questions , par exemple , quel était le jour le plus heureux de leur vie , qu'est - ce qui les rend heureux .
+et finalement , je leur demandais de faire un voeu .
+et quand ils faisaient un voeu , je _UNK_ sur un des ballons et je prenais une photo d'eux le tenant .
+je vais maintenant vous montrer quelques brefs moments de quelques interviews que j'ai faites , des quelques personnes avec qui j'ai parlé .
+voici un écolier de onze ans .
+il jouait aux _UNK_ et aux voleurs avec ses amis , courant à travers la ville , et ils avaient des pistolets en plastique .
+son souhait était de devenir gendarme .
+il s'y mettait tôt . voici ses mains .
+j'ai pris des photos des mains de tout le monde , parce que je pense que l'on peut dire beaucoup de quelqu'un rien qu'en regardant ses mains . j'ai pris un portrait de chacun , et j'ai demandé à chacun de faire une grimace .
+une étudiante de 17 ans . son voeu aurait été de naître en garçon .
+elle pense que les femmes n'ont pas la vie facile au bhoutan , et que les choses sont plus faciles si on est un garçon .
+un propriétaire de magasin de téléphones mobiles de 28 ans .
+si vous saviez comment était paro , vous comprendriez à quel point c'était fascinant qu'il y ait un magasin de téléphones mobiles là - bas .
+il voulait aider les pauvres .
+une fermière de 53 ans . elle _UNK_ le blé , et cette pile de blé derrière elle lui a pris près d'une semaine .
+elle voulait continuer à être fermière jusqu'à sa mort .
+vous pouvez vraiment voir les histoires racontées à travers les mains ici .
+elle portait cet anneau en argent qui avait le mot " amour " gravé dessus , et qu'elle avait trouvé sur une route quelconque .
+un travailleur de carrière de 16 ans .
+ce gars brisait les roches avec un marteau en plein soleil , mais il voulait juste passer sa vie à être fermier .
+un moine de 21 ans . il était très heureux .
+il voulait vivre une longue vie au monastère .
+il avait cette touffe incroyable de poils qui poussait d'un grain de beauté sur la partie gauche de son visage , qu'il m'a dit être " porte bonheur " .
+il était trop timide pour faire une grimace .
+une étudiante de 16 ans .
+elle voulait devenir une femme indépendante .
+je l'ai questionnée là - dessus , et elle a dit qu'elle voulait dire qu'elle ne voulait pas se marier , parce que , d'après elle , quand vous vous _UNK_ au bhoutan en tant que femme , vos chances de vivre une vie indépendante s'évaporent plus ou moins , et donc elle n'y voyait aucun intérêt .
+un camionneur de 24 ans .
+voici des camions indiens terriblement énormes qui roulent sur des routes à une voie comme si elles en avaient deux , avec des chutes de 900 mètres juste à côté de la route , et il conduisait un de ces camions .
+mais tout ce qu'il voulait c'était vivre une vie confortable comme les autres .
+une _UNK_ de 24 ans . je l'ai rencontrée pendant sa pause déjeuner .
+elle avait fait un petit feu pour se garder au chaud .
+son voeu était d'épouser quelqu'un qui aurait une voiture .
+elle voulait changer de vie .
+elle vit dans un petit camp de travailleurs à côté de la route , et elle voulait connaître autre chose .
+un fermier nomade de 81 ans .
+j'ai vu cet homme sur le bord de la rue , et il n'a pas de maison .
+il voyage de ferme en ferme chaque jour pour trouver du travail , et il essaie de dormir là où il trouve du travail .
+donc son voeu a été de venir avec moi , comme ça il aurait eu un toit .
+il avait ce magnifique couteau qu'il a retiré de son _UNK_ et qu'il a brandi quand je lui ai demandé de faire une grimace .
+rien de méchant .
+un gosse de 10 ans .
+il voulait aller à l'école et apprendre à lire , mais ses parents n'avaient pas assez d'argent pour l'envoyer à l'école .
+il mangeait cette friandise orange dans laquelle il mettait les doigts , et comme il y avait trop de salive sur ses mains , cette croûte orange a commencé à se former sur ses paumes .
+un travailleur de 37 ans .
+un des sujets les plus sensibles au bhoutan est l'utilisation de main - d'oeuvre indienne bon marché qu'on importe d'inde pour construire les routes , et quand les routes sont faites , on les renvoie chez eux .
+donc ces hommes étaient dans une bande de travailleurs qui mélangeaient _UNK_ un matin au bord de la rue .
+son souhait était de se faire un peu d'argent et d'ouvrir une boutique .
+une fermière de 75 ans . elle vendait des oranges sur la route .
+je lui ai demandé quel est son voeu , et elle a dit , " tu sais , peut - être que je vais vivre , peut - être que je vais mourir , mais je n'ai pas de voeu . "
+elle _UNK_ de la noix de _UNK_ , ce qui rendait ses dents rouges au fil des années .
+finalement , voici une nonne de 26 ans à qui j'ai parlé .
+son voeu était d'aller en pélerinage au tibet .
+je lui ai demandé pendant combien de temps elle pensait vivre au couvent , et elle a dit , " bah , vous savez , bien sûr que ce n'est pas permanent , mais je projette de vivre ici jusqu'à mes trente ans , et ensuite d'entrer à l'ermitage . "
+et j'ai dit , " vous voulez dire , comme une cave ? " et elle a dit , " oui , comme une cave . "
+et j'ai demandé , " wow , et combien de temps pensez - vous vivre dans la cave ? "
+et elle a répondu , " vous savez , je pense que j'aimerais vivre toute ma vie dans une cave . "
+j'ai pensé que c'était magnifique . je veux dire , elle parlait d'une telle façon -- avec un anglais magnifique , un sens de l'humour magnifique , et un rire magnifique -- qui faisait d'elle quelqu'un que j'aurais pu rencontrer dans les rues de new york , ou de vermont , là d'où je viens .
+mais là elle vivait dans un couvent depuis sept ans .
+je lui ai demandé un peu plus sur la cave et ce qu'elle envisageait comme avenir quand elle y serait .
+que se passerait - il si elle voit la vérité après tout juste un an , que ferait - elle pendant les 35 années suivantes de sa vie ?
+et voici ce qu'elle a dit .
+la femme : je pense que je vais y rester pendant 35 ans , peut - être -- peut - être que je mourrai .
+jonathan harris : peut - être que vous mourrez ? la femme : oui .
+jh : dix ans ? la femme : oui , oui . jh : dix ans , c'est beaucoup de temps .
+la femme : oui , mais peut - être pas une ou dix ans , peut - être que je mourrai au bout d'un an , ou quelque chose du genre .
+jh : _UNK_ - vous ?
+la femme : ah , vous savez , ce n'est pas permanent .
+jh : oui , mais -- oui , d'accord . espérez - vous -- préféreriez - vous vivre dans la cave pendant quarante ans , ou vivre pendant un an ?
+la femme : mais je préfère quarante à cinquante ans .
+jh : quarante à cinquante ? ok .
+la femme : oui . de là j'irai au paradis .
+jh : bien , je vous souhaite bonne chance .
+la femme : merci .
+jh : j'espère que ça sera comme vous le souhaitez .
+donc merci encore , merci beaucoup .
+la femme : de rien .
+donc si vous avez bien saisi , elle a dit qu'elle espérait mourir quand elle aurait quarante ans . c'était assez vivre pour elle .
+donc la dernière chose qu'on a faite , très vite , c'était de prendre tous ces ballons avec les voeux -- il y avait eu 117 interviews , 117 voeux -- et je les ai apportés à un endroit appelé _UNK_ , qui est un sentier de montagne au bhoutan à 10 300 pieds d'altitude , un des endroits les plus sacrés au bhoutan .
+et en haut , il y a des milliers de drapeaux de prières que les gens y ont mis au fil du temps .
+et nous avons re - gonflé les ballons , et nous les avons mis sur une ficelle , et les avons attachés parmi les drapeaux de prières .
+et ils y sont toujours aujourd'hui .
+donc si l'un d'entre vous va au bhoutan un de ces jours , allez les voir . en voici quelques images .
+nous avons prononcé une prière bouddhiste pour que tous ces voeux se réalisent .
+vous pouvez voir quelques - uns des ballons qui vous sont familiers ici .
+" se faire un peu d'argent et ouvrir un magasin " du travailleur indien .
+merci beaucoup .

@@ -1,0 +1,131 @@
+i	'm	gon	na	talk	a	little	bit	about	open	-	source	security	,	 be 	 cause 	 	we	've	got	to	get	better	at	security	in	 th 	 is 	 	21st	century	.
+let	me	start	by	 say 	 ing 	 	,	let	's	look	back	to	the	20th	century	,	and	kind	of	get	a	sense	of	how	that	style	of	security	 work 	 ed 	 	for	us	.
+ th 	 is 	 	is	verdun	,	a	 battle 	 field 	 	in	france	just	north	of	the	nato	 head 	 quarter 	 s 	 	in	belgium	.
+at	verdun	,	in	1916	,	over	a	300	-	day	period	,	700,000	people	 we 	 re 	 	 kill 	 ed 	 	,	so	about	2,000	a	day	.
+if	you	roll	it	forward	--	20th	-	century	security	--	 in 	 to 	 	the	second	world	war	,	you	see	the	battle	of	stalingrad	,	300	 day 	 s 	 	,	2	million	people	 kill 	 ed 	 	.
+we	go	 in 	 to 	 	the	cold	war	,	and	we	 continu 	 e 	 	to	try	and	build	 wall 	 s 	 	.
+we	go	from	the	trench	 war 	 fare 	 	of	the	first	world	war	to	the	maginot	line	of	the	second	world	war	,	and	then	we	go	 in 	 to 	 	the	cold	war	,	the	iron	 cur 	 tain 	 	,	the	berlin	wall	.
+ wall 	 s 	 	do	n't	work	.
+my	thesis	for	us	 to 	 day 	 	is	,	 in 	 stead 	 	of	building	 wall 	 s 	 	to	create	security	,	we	need	to	build	 bridge 	 s 	 	.
+ th 	 is 	 	is	a	famous	bridge	in	europe	.
+it	's	in	bosnia	-	herzegovina	.
+it	's	the	bridge	over	the	drina	river	,	the	subject	of	a	novel	by	ivo	andrić	,	and	it	 talk 	 s 	 	about	how	,	in	that	 ver 	 y 	 	 trouble 	 d 	 	part	of	europe	and	the	balkans	,	over	time	there	's	 be 	 en 	 	enormous	building	of	 wall 	 s 	 	.
+more	 re 	 cent 	 ly 	 	,	in	the	last	decade	,	we	begin	to	see	these	 commun 	 ities 	 	start	,	hesitatingly	,	to	come	together	.
+i	would	 argu 	 e 	 	,	 aga 	 in 	 	,	open	-	source	security	is	about	 connect 	 ing 	 	the	 inter 	 national 	 	,	the	interagency	,	the	private	-	public	,	and	 lash 	 ing 	 	it	together	with	 strat 	 egic 	 	communication	,	 large 	 ly 	 	in	social	 network 	 s 	 	.
+so	let	me	talk	a	little	bit	about	why	we	need	to	do	that	,	 be 	 cause 	 	our	global	 common 	 s 	 	is	under	attack	in	a	 varie 	 ty 	 	of	ways	,	and	 non 	 e 	 	of	the	 source 	 s 	 	of	threat	to	the	global	 common 	 s 	 	will	be	 solve 	 d 	 	by	building	 wall 	 s 	 	.
+now	,	i	'm	a	 sail 	 or 	 	,	 obvious 	 ly 	 	.
+ th 	 is 	 	is	a	ship	,	a	liner	,	 clip 	 ping 	 	through	the	indian	ocean	.
+what	's	wrong	with	 th 	 is 	 	picture	?
+it	's	got	 concert 	 ina 	 	wire	 a 	 long 	 	the	 side 	 s 	 	of	it	.
+that	's	to	prevent	 pirate 	 s 	 	from	 attack 	 ing 	 	it	.
+ pi 	 racy 	 	is	a	 ver 	 y 	 	active	threat	 to 	 day 	 	around	the	world	.	 th 	 is 	 	is	in	the	indian	ocean	.
+ pi 	 racy 	 	is	 al 	 so 	 	 ver 	 y 	 	active	in	the	strait	of	malacca	.
+it	's	active	in	the	 gu 	 lf 	 	of	guinea	.
+we	see	it	in	the	caribbean	.
+it	's	a	$	10	-	billion	-	a	-	year	 dis 	 continu 	 ity 	 	in	the	global	transport	system	.
+last	year	,	at	 th 	 is 	 	time	,	there	 we 	 re 	 	20	 vessel 	 s 	 	,	500	 marin 	 ers 	 	held	 host 	 age 	 	.
+ th 	 is 	 	is	an	attack	on	the	global	 common 	 s 	 	.
+we	need	to	think	about	how	to	address	it	.
+let	's	shift	to	a	different	kind	of	sea	,	the	cyber	sea	.
+here	are	 photograph 	 s 	 	of	two	young	men	.
+at	the	moment	,	they	're	 incarce 	 rated 	 	.
+they	 conduct 	 ed 	 	a	credit	card	fraud	that	 nett 	 ed 	 	them	over	10	billion	 dollar 	 s 	 	.
+ th 	 is 	 	is	part	of	 cyber 	 crime 	 	which	is	a	$	2	-	trillion	-	a	-	year	 dis 	 continu 	 ity 	 	in	the	global	 eco 	 nomy 	 	.
+two	trillion	a	year	.
+that	's	just	under	the	gdp	of	great	britain	.
+so	 th 	 is 	 	cyber	sea	,	which	we	know	 end 	 lessly 	 	is	the	fundamental	piece	of	radical	 open 	 ness 	 	,	is	 ver 	 y 	 	much	under	threat	 a 	 s 	 	well	.
+ an 	 other 	 	thing	i	worry	about	in	the	global	 common 	 s 	 	is	the	threat	posed	by	 traffic 	 king 	 	,	by	the	 move 	 ment 	 	of	narcotics	,	 op 	 ium 	 	,	here	coming	out	of	afghanistan	through	europe	over	to	the	 unit 	 ed 	 	 state 	 s 	 	.
+we	worry	about	 coca 	 ine 	 	coming	from	the	andean	ridge	north	.
+we	worry	about	the	 move 	 ment 	 	of	 il 	 legal 	 	 weapon 	 s 	 	and	 traffic 	 king 	 	.	above	all	,	 per 	 hap 	 s 	 	,	we	worry	about	human	 traffic 	 king 	 	,	and	the	awful	cost	of	it	.
+ traffic 	 king 	 	 move 	 s 	 	 large 	 ly 	 	at	sea	but	in	other	 part 	 s 	 	of	the	global	 common 	 s 	 	.
+ th 	 is 	 	is	a	photograph	,	and	i	wish	i	could	tell	you	that	 th 	 is 	 	is	a	 ver 	 y 	 	high	-	tech	piece	of	us	 nav 	 y 	 	gear	that	we	're	using	to	stop	the	 traffic 	 king 	 	.
+the	bad	news	is	,	 th 	 is 	 	is	a	semi	-	submersible	run	by	drug	cartels	.
+it	was	built	in	the	 jungle 	 s 	 	of	south	america	.
+we	caught	it	with	that	low	-	tech	raft	--	--	and	it	was	 carry 	 ing 	 	six	 ton 	 s 	 	of	 coca 	 ine 	 	.
+crew	of	four	.	 sophistic 	 ated 	 	 communication 	 s 	 	 s 	 weep 	 	.
+ th 	 is 	 	kind	of	 traffic 	 king 	 	,	in	narcotics	,	in	 human 	 s 	 	,	in	 weapon 	 s 	 	,	god	forbid	,	in	 weapon 	 s 	 	of	mass	 destruct 	 ion 	 	,	is	part	of	the	threat	to	the	global	 common 	 s 	 	.
+and	let	's	pull	it	together	in	afghanistan	 to 	 day 	 	.
+ th 	 is 	 	is	a	field	of	poppies	in	afghanistan	.
+ eight 	 y 	 	to	90	percent	of	the	world	's	 pop 	 py 	 	,	 op 	 ium 	 	and	 hero 	 in 	 	,	 come 	 s 	 	out	of	afghanistan	.
+we	 al 	 so 	 	see	there	,	of	course	,	 terror 	 ism 	 	.
+ th 	 is 	 	is	where	al	qaeda	is	 stag 	 ed 	 	from	.
+we	 al 	 so 	 	see	a	 ver 	 y 	 	strong	insurgency	 embed 	 d 	 ed 	 	there	.
+so	 th 	 is 	 	 terror 	 ism 	 	concern	is	 al 	 so 	 	part	of	the	global	 common 	 s 	 	,	and	what	we	must	address	.
+so	here	we	are	,	21st	century	.
+we	know	our	20th	-	century	 tool 	 s 	 	are	not	going	to	work	.
+what	should	we	do	?
+i	would	 argu 	 e 	 	that	we	will	not	deliver	security	 sole 	 ly 	 	from	the	barrel	of	a	gun	.
+we	will	not	deliver	security	 sole 	 ly 	 	from	the	barrel	of	a	gun	.
+we	will	need	the	application	of	 militar 	 y 	 	force	.
+when	we	do	it	,	we	must	do	it	well	,	and	 compete 	 nt 	 ly 	 	.
+but	my	thesis	is	,	open	-	source	security	is	about	 inter 	 national 	 	,	interagency	,	private	-	public	 connect 	 ion 	 	 pull 	 ed 	 	together	by	 th 	 is 	 	idea	of	 strat 	 egic 	 	communication	on	the	 inter 	 net 	 	.
+let	me	give	you	a	couple	of	 ex 	 ample 	 s 	 	of	how	 th 	 is 	 	 work 	 s 	 	in	a	positive	way	.
+ th 	 is 	 	is	afghanistan	.	these	are	afghan	 soldier 	 s 	 	.
+they	are	all	 hold 	 ing 	 	 book 	 s 	 	.
+you	should	say	,	``	that	's	odd	.	i	thought	i	read	that	 th 	 is 	 	 demo 	 graphic 	 	,	young	men	and	women	in	 the 	 ir 	 	20s	and	30s	,	is	 large 	 ly 	 	illiterate	in	afghanistan	.	``	you	would	be	correct	.
+ eight 	 y 	 	-	five	percent	can	not	read	when	they	enter	the	security	 force 	 s 	 	of	afghanistan	.
+why	?	 be 	 cause 	 	the	taliban	 with 	 held 	 	education	 dur 	 ing 	 	the	period	of	time	in	which	these	men	and	women	would	have	 learn 	 ed 	 	to	read	.
+so	the	question	is	,	so	,	why	are	they	all	 stand 	 ing 	 	there	 hold 	 ing 	 	 book 	 s 	 	?
+the	answer	is	,	we	are	 teach 	 ing 	 	them	to	read	in	 liter 	 acy 	 	 course 	 s 	 	by	nato	in	 partner 	 ship 	 	with	private	sector	 ent 	 ities 	 	,	in	 partner 	 ship 	 	with	 develop 	 ment 	 	 age 	 ncies 	 	.
+we	've	taught	well	over	200,000	afghan	security	 force 	 s 	 	to	read	and	write	at	a	 bas 	 ic 	 	level	.
+when	you	can	read	and	write	in	afghanistan	,	you	will	 typical 	 ly 	 	put	a	pen	in	your	pocket	.
+at	the	 ceremoni 	 es 	 	,	when	these	young	men	and	women	graduate	,	they	take	that	pen	with	great	 pri 	 de 	 	,	and	put	it	in	 the 	 ir 	 	pocket	.
+ th 	 is 	 	is	 br 	 ing 	 ing 	 	together	 inter 	 national 	 	--	there	are	50	 nation 	 s 	 	 involve 	 d 	 	in	 th 	 is 	 	mission	--	interagency	--	these	 develop 	 ment 	 	 age 	 ncies 	 	--	and	private	-	public	,	to	take	on	 th 	 is 	 	kind	of	security	.
+now	,	we	are	 al 	 so 	 	 teach 	 ing 	 	them	combat	 skill 	 s 	 	,	of	course	,	but	i	would	 argu 	 e 	 	,	open	-	source	security	 mean 	 s 	 	 connect 	 ing 	 	in	ways	that	create	 long 	 er 	 	 last 	 ing 	 	security	effect	.
+here	's	 an 	 other 	 	 ex 	 ample 	 	.
+ th 	 is 	 	is	a	us	 nav 	 y 	 	warship	.
+it	's	 call 	 ed 	 	the	comfort	.
+there	's	a	sister	ship	 call 	 ed 	 	the	 merc 	 y 	 	.	they	are	hospital	 ship 	 s 	 	.
+ th 	 is 	 	one	,	the	comfort	,	 oper 	 ates 	 	 through 	 out 	 	the	caribbean	and	the	coast	of	south	america	 conduct 	 ing 	 	patient	 treat 	 ments 	 	.
+on	a	typical	 cruis 	 e 	 	,	they	'll	do	400,000	patient	 treat 	 ments 	 	.
+it	is	crewed	not	 strict 	 ly 	 	by	 militar 	 y 	 	but	by	a	combination	of	 human 	 itarian 	 	 organ 	 ization 	 s 	 	:	operation	hope	,	project	 s 	 mile 	 	.
+other	 organ 	 ization 	 s 	 	 s 	 end 	 	 volunteer 	 s 	 	.
+interagency	 physician 	 s 	 	come	out	.
+they	're	all	part	of	 th 	 is 	 	.
+to	give	you	one	 ex 	 ample 	 	of	the	impact	 th 	 is 	 	can	have	,	 th 	 is 	 	little	boy	,	eight	 year 	 s 	 	old	,	 walk 	 ed 	 	with	his	mother	two	 day 	 s 	 	to	come	to	the	eye	clinic	put	on	by	the	comfort	.
+when	he	was	fitted	,	over	his	 extrem 	 e 	 ly 	 	myopic	 eye 	 s 	 	,	he	 sudden 	 ly 	 	 look 	 ed 	 	up	and	 s 	 aid 	 	,	``	mama	,	veo	el	mundo	.	``	``	mom	,	i	see	the	world	.	``	 multi 	 ply 	 	 th 	 is 	 	by	400,000	patient	 treat 	 ments 	 	,	 th 	 is 	 	private	-	public	 collabor 	 ation 	 	with	security	 force 	 s 	 	,	and	you	begin	to	see	the	power	of	creating	security	in	a	 ver 	 y 	 	different	way	.
+here	you	see	 base 	 ball 	 	 player 	 s 	 	.
+can	you	pick	out	the	two	us	 arm 	 y 	 	 soldier 	 s 	 	in	 th 	 is 	 	photograph	?
+they	are	the	two	young	men	on	either	side	of	these	young	 boy 	 s 	 	.	 th 	 is 	 	is	part	of	a	 s 	 eries 	 	of	 base 	 ball 	 	 clinic 	 s 	 	,	where	we	have	 explore 	 d 	 	 collabor 	 ation 	 	between	major	league	 base 	 ball 	 	,	the	 depart 	 ment 	 	of	state	,	who	 set 	 s 	 	up	the	 diplomat 	 ic 	 	piece	of	 th 	 is 	 	,	 militar 	 y 	 	 base 	 ball 	 	 player 	 s 	 	,	who	are	real	 soldier 	 s 	 	with	real	 skill 	 s 	 	but	 particip 	 ate 	 	in	 th 	 is 	 	mission	,	and	they	put	on	 clinic 	 s 	 	 through 	 out 	 	latin	america	and	the	caribbean	,	in	honduras	,	in	nicaragua	,	in	all	of	the	central	american	and	caribbean	 nation 	 s 	 	where	 base 	 ball 	 	is	so	popular	,	and	it	 create 	 s 	 	security	.
+it	 show 	 s 	 	role	 model 	 s 	 	to	young	men	and	women	about	 fit 	 ness 	 	and	about	life	that	i	would	 argu 	 e 	 	help	create	security	for	us	.
+ an 	 other 	 	 a 	 spect 	 	of	 th 	 is 	 	 partner 	 ship 	 	is	in	disaster	relief	.
+ th 	 is 	 	is	a	us	air	force	helicopter	 particip 	 ating 	 	after	the	tsunami	in	2004	which	 kill 	 ed 	 	250,000	people	.
+in	each	of	these	major	 disaster 	 s 	 	--	the	tsunami	in	2004	,	250,000	dead	,	the	kashmiri	 earth 	 quake 	 	in	pakistan	,	2005	,	85,000	dead	,	the	haitian	 earth 	 quake 	 	,	about	300,000	dead	,	more	 re 	 cent 	 ly 	 	the	awful	 earth 	 quake 	 	-	tsunami	combination	which	 s 	 truck 	 	japan	and	 it 	 s 	 	nuclear	industry	--	in	all	of	these	 in 	 stance 	 s 	 	,	we	see	 partner 	 ship 	 s 	 	between	 inter 	 national 	 	 act 	 ors 	 	,	interagency	,	private	-	public	 work 	 ing 	 	with	security	 force 	 s 	 	to	respond	to	 th 	 is 	 	kind	of	natural	disaster	.
+so	these	are	 ex 	 ample 	 s 	 	of	 th 	 is 	 	idea	of	open	-	source	security	.
+we	tie	it	together	,	 increasing 	 ly 	 	,	by	 do 	 ing 	 	 thing 	 s 	 	like	 th 	 is 	 	.
+now	,	you	're	looking	at	 th 	 is 	 	 think 	 ing 	 	,	``	ah	,	admiral	,	these	must	be	sea	 lane 	 s 	 	of	communication	,	or	these	might	be	fiber	optic	 cable 	 s 	 	.	``	no	.	 th 	 is 	 	is	a	graphic	of	the	world	 accord 	 ing 	 	to	twitter	.
+ pur 	 ple 	 	are	 tweet 	 s 	 	.	green	are	 geo 	 location 	 	.
+white	is	the	synthesis	.
+it	's	a	perfect	evocation	of	that	great	population	survey	,	the	six	largest	 nation 	 s 	 	in	the	world	in	 descend 	 ing 	 	order	:	 chin 	 a 	 	,	india	,	facebook	,	the	 unit 	 ed 	 	 state 	 s 	 	,	twitter	and	indonesia	.
+why	do	we	want	to	get	in	these	 net 	 s 	 	?
+why	do	we	want	to	be	 involve 	 d 	 	?
+we	 talk 	 ed 	 	 ear 	 lier 	 	about	the	arab	spring	,	and	the	power	of	all	 th 	 is 	 	.
+i	'll	give	you	 an 	 other 	 	 ex 	 ample 	 	,	and	it	's	how	you	move	 th 	 is 	 	 mess 	 age 	 	.
+i	 g 	 ave 	 	a	talk	like	 th 	 is 	 	in	london	a	while	back	about	 th 	 is 	 	point	.	i	 s 	 aid 	 	,	 a 	 s 	 	i	say	to	all	of	you	,	i	'm	on	facebook	.	friend	me	.
+got	a	little	laugh	from	the	audience	.
+there	was	an	article	which	was	run	by	ap	,	on	the	wire	.
+got	 pick 	 ed 	 	up	in	two	 place 	 s 	 	in	the	world	:	finland	and	indonesia	.
+the	 head 	 line 	 	was	:	nato	admiral	 need 	 s 	 	 friend 	 s 	 	.
+thank	you	.
+which	i	do	.
+and	the	story	was	a	catalyst	,	and	the	next	 morn 	 ing 	 	i	had	 hundred 	 s 	 	of	facebook	friend	 request 	 s 	 	from	indonesians	and	finns	,	 most 	 ly 	 	 say 	 ing 	 	,	``	admiral	,	we	heard	you	need	a	friend	,	and	oh	,	by	the	way	,	what	is	nato	?	``	so	...
+ yea 	 h 	 	,	we	laugh	,	but	 th 	 is 	 	is	how	we	move	the	 mess 	 age 	 	,	and	moving	that	 mess 	 age 	 	is	how	we	connect	 inter 	 national 	 	,	interagency	,	private	-	public	,	and	these	social	 net 	 s 	 	to	help	create	security	.
+now	,	let	me	hit	a	 som 	 ber 	 	note	.
+ th 	 is 	 	is	a	photograph	of	a	brave	british	soldier	.
+he	's	in	the	scots	 guard 	 s 	 	.
+he	's	 stand 	 ing 	 	the	watch	in	helmand	,	in	southern	afghanistan	.
+i	put	him	here	to	 re 	 mind 	 	us	,	i	would	not	want	 any 	 one 	 	to	 leav 	 e 	 	the	room	 think 	 ing 	 	that	we	do	not	need	 cap 	 able 	 	,	 compete 	 nt 	 	 militar 	 ies 	 	who	can	create	real	 militar 	 y 	 	effect	.
+that	is	the	core	of	who	we	are	and	what	we	do	,	and	we	do	it	to	protect	 free 	 dom 	 	,	 free 	 dom 	 	of	speech	,	all	the	 thing 	 s 	 	we	 treasu 	 re 	 	in	our	 socie 	 ties 	 	.
+but	,	you	know	,	life	is	not	an	on	-	and	-	off	 s 	 witch 	 	.
+you	do	n't	have	to	have	a	 militar 	 y 	 	that	is	either	in	hard	combat	or	is	in	the	barracks	.
+i	would	 argu 	 e 	 	life	is	a	rheostat	.
+you	have	to	dial	it	in	,	and	 a 	 s 	 	i	think	about	how	we	create	security	in	 th 	 is 	 	21st	century	,	there	will	be	 time 	 s 	 	when	we	will	 app 	 ly 	 	hard	power	in	true	war	and	crisis	,	but	there	will	be	 man 	 y 	 	 in 	 stance 	 s 	 	,	 a 	 s 	 	we	've	 talk 	 ed 	 	about	 to 	 day 	 	,	where	our	 militar 	 ies 	 	can	be	part	of	creating	21st	-	century	security	,	 inter 	 national 	 	,	interagency	,	private	-	public	,	 connect 	 ed 	 	with	 compete 	 nt 	 	communication	.
+i	would	close	by	 say 	 ing 	 	that	we	heard	 ear 	 lier 	 	 to 	 day 	 	about	 wiki 	 pedia 	 	.	i	use	 wiki 	 pedia 	 	all	the	time	to	look	up	 fact 	 s 	 	,	and	 a 	 s 	 	all	of	you	appreciate	,	 wiki 	 pedia 	 	is	not	 create 	 d 	 	by	12	 brilli 	 ant 	 	people	 lock 	 ed 	 	in	a	room	writing	 article 	 s 	 	.
+ wiki 	 pedia 	 	,	every	day	,	is	 ten 	 s 	 	of	 thousand 	 s 	 	of	people	inputting	information	,	and	every	day	 million 	 s 	 	of	people	 withdraw 	 ing 	 	that	information	.
+it	's	a	perfect	image	for	the	fundamental	point	that	no	one	of	us	is	 a 	 s 	 	smart	 a 	 s 	 	all	of	us	 think 	 ing 	 	together	.
+no	one	person	,	no	one	alliance	,	no	one	nation	,	no	one	of	us	is	 a 	 s 	 	smart	 a 	 s 	 	all	of	us	 think 	 ing 	 	together	.
+the	vision	 state 	 ment 	 	of	 wiki 	 pedia 	 	is	 ver 	 y 	 	simple	:	a	world	in	which	every	human	 be 	 ing 	 	can	 free 	 ly 	 	share	in	the	sum	of	all	knowledge	.
+my	thesis	for	you	is	that	by	 comb 	 in 	 ing 	 	 inter 	 national 	 	,	interagency	,	private	-	public	,	 strat 	 egic 	 	communication	,	together	,	in	 th 	 is 	 	21st	century	,	we	can	create	the	sum	of	all	security	.
+thank	you	.
+thank	you	 ver 	 y 	 	much	.	thank	you	.	thank	you	.
+

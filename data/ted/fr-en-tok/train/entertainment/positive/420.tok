@@ -1,0 +1,299 @@
+nous	prenons	tous	des	décisions	tous	les	jours	;	nous	voulons	savoir	quel	est	le	bon	choix	à	faire	--	que	ce	soit	dans	le	domaine	financier	,	gastronomique	,	professionnel	,	ou	amoureux	.
+et	,	si	quelqu'un	pouvait	dire	avec	certitude	les	bons	choix	à	faire	à	chaque	instant	,	cela	serait	un	cadeau	merveilleux	.
+en	fait	,	il	se	trouve	que	le	monde	a	reçu	ce	cadeau	en	1738	,	de	la	part	d'un	polymathe	hollandais	,	daniel	bernoulli	.
+aujourd'hui	j'aimerais	vous	parler	de	ce	cadeau	,	mais	aussi	,	vous	expliquer	pourquoi	il	n'a	absolument	rien	changé	.
+voici	le	cadeau	de	bernoulli	.	je	cite	.
+si	ça	vous	paraît	du	grec	,	eh	bien	,	c'en	est	.
+mais	la	traduction	--	bien	moins	précise	,	mais	qui	englobe	l'essentiel	de	ce	que	bernoulli	avait	à	dire	--	est	:	la	valeur	attendue	de	n'importe	quelle	action	--	à	savoir	,	le	bien	que	l'on	peut	espérer	obtenir	--	est	le	produit	de	deux	choses	:	la	probabilité	que	l'action	nous	apporte	un	gain	,	et	la	valeur	de	ce	gain	à	nos	yeux	.
+d'une	certaine	façon	,	ce	que	bernoulli	explique	est	que	,	si	l'on	peut	estimer	et	multiplier	ces	deux	valeurs	,	on	saura	toujours	exactement	comme	se	comporter	.
+ainsi	,	cette	simple	équation	,	même	pour	ceux	d'entre	vous	qui	n'aiment	pas	les	équations	,	est	quelque	chose	qui	vous	est	familier	.
+voici	un	exemple	:	je	vous	propose	de	jouer	à	pile	ou	face	;	je	vais	lancer	une	pièce	,	et	si	l'on	obtient	face	,	je	vous	donne	10	dollars	,	mais	vous	devez	payer	4	dollars	pour	avoir	le	droit	de	jouer	,	la	plupart	d'entre	vous	diront	,	bien	sûr	,	je	joue	.	parce	que	vous	savez	que	vous	avez	une	chance	sur	deux	de	gagner	,	que	le	gain	est	de	10	dollars	,	ce	qui	fait	un	gain	moyen	de	5	,	et	c'est	plus	que	ce	que	je	vous	demande	pour	jouer	.	la	réponse	est	donc	oui	.
+c'est	ce	que	les	statisticiens	appellent	un	sacré	bon	pari	.
+mais	c'est	facile	quand	on	joue	à	pile	ou	face	,	mais	ce	n'est	pas	aussi	simple	dans	la	vie	de	tous	les	jours	.
+les	gens	sont	très	mauvais	pour	estimer	ces	deux	valeurs	,	et	c'est	de	ça	que	je	vais	vous	parler	aujourd'hui	.
+il	y	a	deux	types	d'erreurs	que	les	gens	font	en	tentant	de	décider	quoi	faire	,	il	s'agit	d'erreurs	en	estimant	les	chances	de	réussite	,	et	d'erreur	d'estimation	de	la	valeur	de	leur	réussite	.
+parlons	de	la	première	erreur	.
+calculer	des	probabilités	semble	assez	simple	:	il	y	a	6	faces	sur	un	dé	,	deux	côtés	sur	une	pièce	,	52	cartes	dans	le	paquet	.
+on	connaît	tous	la	probabilité	de	tomber	sur	l'as	de	pique	,	ou	de	tomber	sur	le	côté	``	face	``	.
+mais	ce	n'est	pas	si	simple	au	quotidien	.
+voila	pourquoi	les	américains	dépensent	davantage	--	ou	,	plutôt	,	perdent	d'avantage	--	sur	des	paris	que	sur	tous	les	autres	loisirs	réunis	.
+la	raison	est	que	ce	n'est	pas	comme	ça	que	les	gens	calculent	des	probabilités	.
+pour	expliquer	la	façon	dont	les	gens	font	des	probabilités	nous	devons	d'abord	parler	de	cochons	.
+la	question	que	je	vais	vous	poser	est	la	suivante	:	pensez	-	vous	qu'il	y	a	davantage	de	chiens	ou	de	cochons	en	laisse	à	oxford	,	un	jour	ordinaire	.
+et	bien	sûr	,	vous	savez	tous	que	la	réponse	est	``	chiens	``	.
+vous	savez	que	la	réponse	est	chiens	,	car	vous	avez	consulté	votre	mémoire	pour	trouver	combien	de	fois	vous	avez	vu	des	chiens	et	des	cochons	en	laisse	.
+il	est	facile	de	se	souvenir	d'avoir	vu	des	chiens	,	pas	si	simple	de	se	souvenir	d'avoir	vu	des	cochons	.	et	vous	en	avez	déduit	que	,	si	les	chiens	en	laisse	vous	viennent	plus	rapidement	à	l'esprit	,	c'est	qu'ils	sont	plus	fréquents	.
+ce	n'est	pas	une	mauvaise	approximation	,	sauf	quand	elle	ne	fonctionne	pas	.
+voici	,	par	exemple	,	un	jeu	de	lettres	.
+en	anglais	,	existe	-	t	-	il	plus	de	mots	de	quatre	lettres	qui	commencent	par	r	,	ou	qui	ont	un	r	en	troisième	position	?
+vous	consultez	votre	mémoire	rapidement	,	et	il	est	très	simple	de	se	dire	:	ring	,	rang	,	_UNK_	,	et	très	dur	de	se	dire	:	_UNK_	...	park	:	ils	vous	viennent	plus	lentement	.
+mais	en	réalité	,	il	y	a	beaucoup	plus	de	mots	anglais	qui	ont	un	r	en	3e	position	qu'en	première	.
+la	raison	pour	laquelle	les	mots	avec	un	r	en	3e	place	vous	viennent	plus	lentement	à	l'esprit	n'est	pas	qu'ils	sont	improbables	,	--	-	ou	peu	fréquents	.
+c'est	parce	que	l'esprit	se	souvient	des	mots	par	leur	première	lettre	.
+en	quelque	sorte	vous	commencez	à	dire	le	son	,	s	--	et	le	mot	arrive	.
+c'est	comme	un	dictionnaire	;	c'est	difficile	de	chercher	des	mots	par	leur	troisième	lettre	.
+cet	exemple	montre	que	l'idée	selon	laquelle	la	vitesse	à	laquelle	les	choses	vous	viennent	à	l'esprit	est	une	indication	de	leur	probabilité	,	est	une	idée	qui	peut	vous	jouer	des	tours	.	mais	il	ne	s'agit	pas	que	de	puzzles	.
+par	exemple	,	quand	on	demande	aux	américains	d'estimer	la	probabilité	de	mourir	d'une	façon	étrange	--	voici	les	estimations	du	nombre	de	morts	par	an	,	pour	200	millions	de	citoyens	américains	.
+on	a	demandé	à	des	gens	normaux	comme	vous	d'estimer	la	probabilité	qu'ils	avaient	de	mourir	dans	une	tornade	,	un	accident	de	feu	d'artifice	,	d'asthme	,	de	noyade	,	etc	.
+comparons	ces	estimations	sur	les	véritables	statistiques	.
+on	aperçoit	tout	de	suite	un	motif	intéressant	,	qui	est	que	deux	choses	sont	très	_UNK_	:	les	tornades	et	les	feux	d'artifice	;	tandis	que	deux	choses	sont	très	sous	-	estimées	:	les	morts	par	noyade	,	et	à	cause	d'asthme	.	pourquoi	?
+pouvez	-	vous	vous	souvenir	avoir	déjà	ouvert	un	journal	avec	comme	gros	titre	``	un	garçon	meurt	d'asthme	``	?
+ce	n'est	pas	intéressant	,	car	c'est	si	commun	.
+on	arrive	facilement	à	se	souvenir	d'avoir	vu	des	reportages	ou	des	articles	qui	parlent	de	tornades	détruisant	des	villes	,	ou	d'un	pauvre	type	qui	a	perdu	ses	mains	avec	un	pétard	le	jour	de	la	fête	nationale	.
+les	_UNK_	et	l'asthme	ne	sont	pas	très	représentés	aux	infos	.
+elles	ne	nous	viennent	pas	rapidement	à	l'esprit	,	et	donc	on	les	sous	-	estime	énormément	.
+c'est	un	peu	comme	ce	jeu	de	``	rue	sésame	``	,	``	cherchez	l'intrus	``	.	et	ici	,	l'intrus	est	la	piscine	,	car	une	piscine	est	la	seule	chose	sur	cette	image	qui	est	vraiment	très	dangereuse	.
+il	est	en	effet	plus	probable	de	mourir	dans	une	piscine	que	dans	ces	le	loto	est	un	bon	exemple	,	bien	sûr	--	un	très	bon	cas	d'étude	de	la	façon	dont	les	gens	calculent	les	probabilités	.
+et	les	économistes	--	pardonnez	-	moi	,	si	vous	jouez	au	loto	--	mais	les	économistes	,	au	moins	entre	eux	,	appellent	le	loto	une	taxe	sur	la	stupidité	,	puisque	les	chances	de	gagner	quoi	que	ce	soit	en	achetant	un	ticket	de	loto	sont	à	peu	près	équivalentes	à	jeter	l'argent	par	la	fenêtre	.
+ce	qui	,	soit	dit	en	passant	,	ne	requiert	pas	que	vous	alliez	au	magasin	pour	acheter	quoi	que	soit	pourquoi	quiconque	voudrait	jouer	au	loto	?
+et	,	il	y	a	de	nombreuses	réponses	,	mais	une	des	réponses	est	,	on	voit	beaucoup	de	gagnants	,	n'est	-	ce	pas	?	quand	ce	couple	gagne	le	gros	lot	,	ou	que	ed	_UNK_	vous	apporte	un	chèque	géant	--	comment	déposer	un	truc	de	cette	taille	à	la	banque	,	je	ne	sais	pas	.
+on	voit	ça	à	la	télé	,	on	le	lit	dans	le	journal	.
+quand	avez	-	vous	vu	pour	la	dernière	fois	des	interviews	complètes	de	tous	ceux	qui	ont	perdu	?
+en	vérité	,	si	on	demandait	aux	chaînes	de	télévision	de	montrer	une	interview	de	30	secondes	de	chaque	perdant	chaque	fois	qu'elles	montrent	un	gagnant	,	les	100	millions	de	perdants	de	la	dernière	loterie	demanderaient	9	ans	et	demi	de	votre	temps	,	simplement	pour	les	entendre	dire	,	``	moi	?	j'ai	perdu	``	.	``	moi	?	j'ai	perdu	``	.
+alors	,	si	vous	regardiez	9	ans	et	demi	de	télévision	--	sans	dormir	,	sans	pause	toilettes	--	et	que	vous	voyez	perdant	après	perdant	,	suivi	d'une	séquence	de	trente	secondes	de	``	moi	,	j'ai	gagné	``	.
+il	est	très	peu	probable	que	vous	alliez	jouer	au	loto	.
+je	peux	vous	le	prouver	:	voici	une	loterie	simple	.
+il	y	a	10	tickets	en	jeu	.
+neuf	tickets	ont	été	vendus	à	ces	personnes	.
+le	dernier	ticket	coute	1	dollar	,	et	,	si	vous	gagnez	,	vous	emportez	20	dollars	.	est	-	ce	un	bon	pari	?
+et	bien	,	bernoulli	nous	dit	que	oui	:	le	gain	moyen	est	de	2	dollars	,	c'est	une	loterie	dans	laquelle	vous	devriez	investir	votre	argent	.
+la	plupart	des	gens	disent	``	ok	,	je	joue	``	.
+voyons	maintenant	une	version	légèrement	différente	de	cette	loterie	:	imaginez	que	les	9	tickets	ont	tous	été	achetés	par	un	seul	gros	type	appelé	leroy	.
+leroy	a	neuf	tickets	;	il	n'en	reste	qu'un	à	vendre	est	-	ce	que	vous	le	prenez	?	la	plupart	des	gens	ne	veulent	pas	jouer	à	cette	loterie	.
+vous	pouvez	voir	que	la	probabilité	de	gagner	n'a	pas	changé	mais	il	est	maintenant	extrêmement	facile	d'imaginer	qui	va	gagner	.
+on	voit	bien	que	leroy	va	gagner	le	lot	,	n'est	-	ce	pas	?
+vous	ne	pouvez	pas	vous	dire	,	``	j'ai	autant	de	chances	que	tout	le	monde	``	,	car	vous	n'avez	pas	autant	de	chances	de	gagner	que	leroy	.
+le	fait	qu'un	seul	type	possède	tous	ces	tickets	change	votre	décision	de	jouer	ou	non	,	alors	que	ça	ne	change	rien	du	tout	aux	probabilités	.
+mais	estimer	des	probabilités	,	aussi	difficile	que	ça	paraisse	,	est	très	facile	comparé	au	problème	d'estimer	des	valeurs	:	déterminer	ce	que	vaut	quelque	chose	,	à	quel	point	on	va	l'apprécier	,	la	quantité	de	plaisir	qu'il	va	nous	rapporter	.
+je	vais	maintenant	vous	parler	d'erreurs	de	valeur	.
+combien	vaut	ce	big	mac	?	est	-	ce	qu'il	vaut	25	dollars	?
+la	plupart	d'entre	vous	se	disent	que	non	--	vous	ne	payeriez	pas	ça	pour	l'avoir	.
+mais	en	vérité	,	pour	savoir	si	un	big	mac	vaut	25	dollars	,	il	faut	vous	poser	une	seule	question	:	qu'est	-	ce	que	je	peux	faire	d'autre	avec	25	dollars	?
+si	vous	êtes	sur	un	de	ces	vols	long	-	courriers	,	en	route	pour	l'australie	,	et	que	vous	vous	rendez	compte	qu'il	n'y	aura	pas	de	repas	,	mais	que	quelqu'un	devant	vous	ouvre	un	sac	de	chez	mac	_UNK_	,	et	que	l'odeur	vous	parvient	,	vous	vous	dites	je	ne	peux	rien	faire	avec	mes	25	dollars	pour	les	prochaines	16	heures	.
+je	ne	peux	même	pas	les	brûler	--	ils	ont	pris	mon	briquet	!
+à	ce	moment	,	25	dollars	pour	un	big	mac	semble	être	une	bonne	affaire	.
+d'un	autre	côté	,	si	vous	êtes	dans	un	pays	en	voie	de	développement	,	où	25	dollars	peuvent	vous	obtenir	un	repas	de	luxe	,	c'est	exorbitant	pour	un	big	mac	.
+pourquoi	étiez	-	vous	si	sûrs	que	la	réponse	était	non	,	avant	même	que	je	vous	aie	expliqué	le	contexte	?
+parce	que	la	plupart	d'entre	vous	comparent	le	prix	de	ce	big	mac	avec	le	prix	que	vous	avez	l'habitude	de	payer	.	au	lieu	de	vous	dire	``	qu'est	ce	que	je	peux	avoir	d'autre	avec	cet	argent	?	``	,	c'est	-	à	-	dire	comparer	cet	investissement	aux	autres	investissements	possibles	,	vous	l'avez	comparé	au	passé	.
+c'est	une	erreur	que	les	gens	font	systématiquement	.
+vous	vous	êtes	dit	,	d'habitude	je	paye	3	dollars	,	25	c'est	beaucoup	trop	.
+c'est	une	erreur	,	et	je	peux	vous	le	prouver	en	vous	montrant	le	genre	de	comportement	irrationnel	que	ça	apporte	.
+voici	par	exemple	une	des	astuces	en	marketing	les	plus	sympathiques	;	il	s'agit	de	dire	que	quelque	chose	était	plus	cher	auparavant	,	et	tout	à	coup	ça	devient	une	affaire	.
+si	on	demande	à	des	gens	de	choisir	entre	ces	deux	métiers	:	dans	l'un	,	on	gagne	60	mille	,	puis	50	,	puis	40	mille	,	un	boulot	où	vous	recevez	une	baisse	de	salaire	chaque	année	,	et	un	autre	où	vous	avez	une	augmentation	,	les	gens	préfèrent	le	second	au	premier	,	bien	qu'on	leur	ait	dit	qu'ils	gagneront	moins	au	final	.	pourquoi	?
+parce	qu'ils	_UNK_	que	des	baisses	de	salaire	sont	pires	que	des	augmentations	,	même	si	le	total	est	plus	élevé	dans	le	premier	cas	.	voici	un	autre	cas	sympathique	.
+voici	un	voyage	organisé	à	hawaii	qui	coûte	2000	dollars	.	il	est	en	solde	pour	1600	imaginons	que	vous	vouliez	partir	à	hawaii	,	achetez	-	vous	ce	voyage	?
+la	plupart	des	gens	disent	que	oui	.	voici	une	version	un	peu	différente	:	le	voyage	a	2000	dollars	est	en	solde	pour	700	dollars	,	vous	y	réfléchissez	pendant	une	semaine	.
+mais	quand	vous	arrivez	à	l'agence	de	voyages	,	les	billets	à	ce	prix	sont	vendus	--	le	voyage	coûte	maintenant	1500	.	est	-	ce	que	vous	l'achetez	?	la	plupart	des	gens	répondent	non	.
+pourquoi	?	parce	que	ça	coûtait	700	,	et	je	ne	vais	pas	payer	1500	un	truc	qui	coûtait	700	la	semaine	dernière	.
+cette	tendance	à	comparer	au	passé	fait	que	les	gens	ne	prennent	pas	le	meilleur	prix	.
+une	bonne	affaire	qui	était	une	superbe	affaire	paraît	moins	bien	qu'une	mauvaise	affaire	qui	était	une	très	mauvaise	affaire	.
+voici	un	autre	exemple	de	la	façon	dont	les	comparaisons	au	passé	peuvent	compliquer	nos	décisions	.
+imaginons	que	vous	allez	au	théâtre	.
+vous	êtes	en	chemin	.
+dans	votre	portefeuille	il	y	a	votre	place	,	que	vous	avez	payée	20	dollars	,	et	un	billet	de	20	dollars	.
+en	arrivant	au	théâtre	,	vous	vous	rendez	compte	qu'en	chemin	vous	avez	perdu	le	ticket	.
+est	-	ce	que	vous	utilisez	le	billet	pour	acheter	une	autre	place	?
+la	plupart	des	gens	répondent	:	non	.
+mais	changeons	un	seul	élément	de	ce	scénario	.
+vous	êtes	en	chemin	vers	le	théâtre	,	et	dans	votre	portefeuille	vous	avez	deux	billets	de	20	dollars	.
+en	arrivant	,	vous	vous	apercevez	que	vous	en	avez	perdu	un	.
+est	-	ce	que	vous	dépensez	les	20	dollars	restants	pour	acheter	une	place	?
+eh	bien	,	bien	sûr	:	je	suis	venu	au	théâtre	pour	voir	la	pièce	,	qu'est	ce	que	la	perte	de	20	dollars	a	à	voir	avec	ça	?
+au	cas	où	vous	ne	vous	rendriez	pas	compte	du	problème	,	voici	un	schéma	.
+en	chemin	,	vous	avez	perdu	quelque	chose	.
+dans	les	deux	cas	,	il	s'agit	d'un	bout	de	papier	.
+dans	un	cas	,	il	y	avait	le	visage	d'un	président	américain	sur	le	papier	,	pas	sur	l'autre	.
+quelle	différence	est	-	ce	que	cela	devrait	faire	?
+la	différence	est	que	quand	vous	perdez	le	ticket	vous	vous	dites	:	je	ne	vais	pas	payer	deux	fois	la	même	chose	.
+vous	comparez	le	prix	de	la	pièce	maintenant	--	40	dollars	--	avec	l'ancien	prix	de	la	place	--	20	dollars	--	et	vous	vous	dites	que	c'est	une	mauvaise	affaire	.
+faire	des	comparaisons	avec	le	passé	est	source	de	beaucoup	de	problèmes	que	les	économistes	du	comportement	et	les	psychologues	identifient	dans	les	tentatives	des	gens	à	assigner	des	valeurs	.
+mais	même	en	comparant	avec	ce	qui	est	possible	,	au	lieu	du	passé	,	on	fait	encore	d'autres	erreurs	.
+je	vais	vous	en	montrer	deux	.
+une	des	choses	que	l'on	sait	sur	les	comparaisons	:	quand	on	compare	une	chose	à	une	autre	,	ça	modifie	sa	valeur	.
+en	92	,	ce	monsieur	,	george	bush	,	pour	ceux	d'entre	nous	qui	sont	plutôt	à	gauche	en	politique	,	ne	paraissait	pas	très	bon	.
+et	tout	à	coup	,	on	en	vient	presque	à	espérer	qu'il	revienne	.
+la	comparaison	change	la	façon	dont	on	l'estime	.
+les	commerçants	savaient	ça	bien	avant	tout	le	monde	,	bien	sûr	,	et	ils	utilisent	cette	sagesse	pour	vous	aider	à	vous	libérer	de	votre	argent	.
+ainsi	si	vous	allez	chez	un	marchand	de	vin	et	que	vous	voulez	prendre	une	bouteille	,	et	que	vous	voyez	ces	dernières	,	à	8	,	27	,	et	33	dollars	,	qu'est	ce	que	vous	feriez	?
+la	plupart	des	gens	ne	veulent	pas	la	plus	chère	,	ils	ne	veulent	pas	le	premier	prix	.
+donc	,	ils	achètent	la	bouteille	du	milieu	.
+si	vous	êtes	un	commerçant	rusé	,	donc	,	vous	allez	mettre	un	objet	très	cher	,	que	personne	_UNK_	,	car	tout	à	coup	la	bouteille	à	33	dollars	ne	semble	pas	si	chère	,	en	comparaison	.
+je	vous	explique	quelque	chose	que	vous	saviez	déjà	:	les	comparaisons	changent	la	valeur	des	choses	.
+voici	pourquoi	c'est	un	problème	:	le	problème	est	que	quand	vous	achetez	la	bouteille	à	33	dollars	,	sa	position	sur	l'étagère	n'a	plus	aucune	importance	.
+les	comparaisons	que	l'on	fait	en	estimant	la	valeur	,	quand	on	essaye	d'estimer	à	quel	point	on	va	apprécier	les	choses	,	ne	sont	pas	les	mêmes	comparaisons	que	l'on	fera	quand	on	les	consommera	.
+ce	problème	de	comparaisons	qui	changent	nous	gêne	dans	nos	tentatives	pour	prendre	des	décisions	rationnelles	laissez	-	moi	vous	donner	un	exemple	.
+il	faut	que	je	vous	présente	quelque	chose	de	mes	propres	recherches	.
+voici	des	sujets	venant	pour	une	expérience	,	à	qui	on	demande	la	plus	simple	des	questions	:	à	quel	point	allez	-	vous	apprécier	manger	des	chips	,	dans	une	minute	?
+ils	sont	dans	une	pièce	,	avec	un	paquet	de	chips	en	face	d'eux	.
+pour	quelques	sujets	,	dans	un	coin	de	la	pièce	se	trouve	une	boite	de	chocolats	de	chez	godiva	,	et	pour	les	autres	il	y	a	une	boite	de	pâté	de	porc	.
+et	on	se	rend	compte	que	les	objets	qui	sont	dans	la	pièce	changent	à	quel	point	les	sujets	pensent	qu'ils	vont	apprécier	les	chips	.
+ceux	qui	regardent	le	pâté	pensent	que	les	chips	vont	être	très	bonnes	;	et	ceux	qui	regardent	les	chocolats	pensent	qu'elles	ne	vont	pas	être	si	bonnes	que	ça	.
+et	,	bien	sûr	,	qu'est	-	ce	qui	se	passe	quand	ils	mangent	les	chips	?
+eh	bien	,	vous	n'avez	pas	besoin	d'un	psychologue	pour	savoir	que	,	quand	vous	avez	une	bouchée	de	chips	_UNK_	,	graisseuses	,	_UNK_	et	délicieuses	,	ce	qu'il	y	avait	dans	un	coin	de	la	pièce	ne	fait	aucune	différence	pour	votre	palais	.
+et	pourtant	,	leurs	attentes	sont	modifiées	par	une	comparaison	qui	ensuite	ne	change	pas	leur	expérience	.
+on	en	a	tous	déjà	fait	l'expérience	,	même	si	vous	n'êtes	jamais	passé	dans	notre	labo	pour	manger	des	chips	.	voici	un	exemple	:	vous	voulez	acheter	un	autoradio	.
+le	vendeur	près	de	chez	vous	les	vend	à	200	dollars	,	mais	si	vous	allez	à	l'autre	bout	de	la	ville	,	vous	pouvez	l'avoir	pour	100	dollars	.
+est	-	ce	que	vous	faites	le	trajet	pour	avoir	une	réduction	de	50	%	,	et	économiser	100	dollars	?
+la	plupart	des	gens	disent	que	oui	.
+ils	ne	peuvent	imaginer	l'acheter	à	deux	fois	le	prix	quand	,	en	traversant	la	ville	,	ils	peuvent	l'avoir	à	moitié	prix	.
+imaginons	à	présent	que	vous	voulez	acheter	une	voiture	avec	un	autoradio	,	et	le	vendeur	près	de	chez	vous	la	vend	à	_UNK_	.
+mais	,	à	l'autre	bout	de	la	ville	,	vous	pouvez	l'avoir	pour	_UNK_	.
+est	-	ce	que	vous	faites	le	trajet	?	pour	économiser	_UNK_	%	--	les	100	dollars	.
+la	plupart	des	gens	répondent	non	,	je	ne	vais	pas	traverser	toute	la	ville	pour	économiser	100	dollars	sur	l'achat	d'une	voiture	.
+ce	genre	de	comportement	rend	les	économistes	fous	,	et	c'est	normal	.
+parce	que	ces	100	dollars	que	vous	économisez	,	ils	ne	savent	pas	d'où	ils	viennent	.
+ils	ne	savent	pas	ce	sur	quoi	vous	les	avez	économisés	.
+quand	vous	faites	des	courses	avec	,	les	billets	ne	se	disent	pas	:	``	je	suis	l'argent	économisé	sur	_UNK_	``	,	ou	,	``	je	suis	l'argent	bêtement	économisé	sur	la	voiture	``	.	c'est	de	l'argent	!
+si	traverser	la	ville	vaut	100	dollars	,	ça	vaut	100	dollars	,	peu	importe	ce	sur	quoi	vous	économisez	.	mais	les	gens	ne	pensent	pas	comme	ça	.
+voilà	pourquoi	ils	ne	savent	pas	si	le	gérant	de	leur	_UNK_	prend	0.1	ou	_UNK_	%	de	commission	,	mais	ils	conservent	les	bons	de	réduction	pour	gagner	un	dollar	sur	le	dentifrice	.
+vous	le	voyez	,	c'est	un	problème	de	comparaisons	changeantes	,	puisque	vous	comparez	les	100	dollars	économisés	à	l'achat	effectué	,	mais	quand	vous	_UNK_	cet	argent	,	vous	ne	ferez	plus	la	comparaison	.
+nous	avons	tous	fait	l'expérience	suivante	.
+si	vous	êtes	américain	,	vous	avez	sans	doute	voyagé	en	france	.
+et	vous	avez	rencontré	un	couple	originaire	de	votre	ville	,	et	vous	vous	êtes	dit	,	``	oh	,	c'est	gens	sont	si	chaleureux	,	si	gentils	.
+surtout	,	comparé	à	tous	ces	gens	qui	me	détestent	quand	j'essaye	de	parler	leur	langue	,	et	plus	encore	quand	je	n'essaye	pas	,	ces	gens	sont	merveilleux	``	.	vous	visitez	donc	la	france	avec	ce	couple	,	et	une	fois	rentrés	vous	les	invitez	à	dîner	,	et	qu'est	-	ce	que	vous	apercevez	?
+par	rapport	à	vos	autres	amis	,	ceux	-	là	sont	ennuyeux	,	n'est	-	ce	pas	?	c'est	parce	que	dans	ce	nouveau	contexte	,	la	comparaison	est	très	,	très	différente	,	en	fait	,	vous	vous	dites	même	que	vous	les	détestez	tellement	qu'ils	pourraient	aussi	bien	être	français	.
+vous	avez	le	même	problème	quand	vous	allez	acheter	une	chaine	hi	-	fi	vous	allez	au	magasin	,	et	on	vous	propose	deux	genres	_UNK_	--	ces	gros	trucs	_UNK_	,	et	ces	toutes	petites	enceintes	,	vous	les	essayez	,	et	vous	vous	dites	,	oui	,	j'entends	une	différence	,	les	plus	gros	rendent	un	meilleur	son	.
+vous	les	achetez	donc	,	les	amenez	à	la	maison	,	et	elles	cassent	complètement	la	déco	de	votre	foyer	.
+le	problème	,	bien	sûr	,	et	que	la	comparaison	que	vous	avez	faite	est	une	comparaison	que	vous	ne	_UNK_	plus	jamais	.
+quel	est	la	probabilité	que	,	plusieurs	années	plus	tard	,	vous	allumiez	la	chaine	et	que	vous	vous	disiez	``	le	son	est	bien	meilleur	que	sur	les	plus	petites	``	,	dont	vous	ne	vous	souvenez	même	plus	.
+le	problème	des	comparaisons	changeantes	est	encore	plus	complexe	quand	ces	choix	sont	étalés	dans	la	durée	.
+les	gens	ont	d'énormes	difficultés	à	comparer	des	choses	qui	surviendront	à	différents	moments	dans	le	temps	.
+et	,	ce	que	les	psychologues	et	les	économistes	du	comportement	ont	découvert	,	est	que	la	plupart	des	gens	suivent	deux	règles	simples	.
+je	vais	donner	un	problème	très	simple	à	résoudre	,	puis	un	second	aussi	simple	,	et	enfin	un	troisième	problème	,	plus	difficile	.
+voici	le	premier	problème	.
+vous	pouvez	avoir	immédiatement	60	ou	50	dollars	.	qu'est	-	ce	qui	vous	ferait	plaisir	?
+disons	que	c'est	un	test	de	qi	à	une	question	,	d'accord	?
+tout	le	monde	,	j'espère	,	préfère	avoir	davantage	d'argent	,	car	nous	pensons	que	plus	est	mieux	que	moins	.
+voici	le	second	problème	:	vous	devez	choisir	entre	60	dollars	tout	de	suite	,	ou	dans	un	mois	.	qu'est	-	ce	que	vous	préférez	?
+encore	une	fois	,	c'est	facile	,	nous	savons	tous	que	maintenant	est	mieux	que	plus	tard	.
+le	choix	devient	difficile	quand	ces	deux	règles	sont	en	conflit	:	si	,	par	exemple	,	on	vous	offre	50	dollars	tout	de	suite	,	ou	60	dans	un	mois	.
+cela	correspond	à	de	nombreuses	situations	réelles	,	où	vous	gagnez	à	attendre	,	en	étant	patient	.
+qu'est	ce	que	l'on	découvre	?	que	font	les	gens	dans	ces	situations	?
+eh	bien	,	en	général	les	gens	sont	très	impatients	.
+c'est	-	à	-	dire	qu'ils	ont	besoin	de	taux	d'intérêt	de	l'ordre	de	la	centaine	de	milliers	de	%	pour	accepter	d'attendre	,	et	d'avoir	10	dollars	supplémentaires	le	mois	suivant	.
+ce	n'est	peut	-	être	pas	si	remarquable	,	mais	ce	qui	l'est	est	à	quel	point	il	est	facile	de	faire	disparaître	cette	impatience	en	changeant	quand	les	dates	où	les	gens	recevront	ces	sommes	d'argent	.
+imaginez	que	vous	avez	le	choix	entre	50	dollars	dans	un	an	--	12	mois	--	ou	60	dollars	dans	13	mois	.
+qu'est	-	ce	qu'on	découvre	?
+les	gens	acceptent	d'attendre	sans	problème	.	puisqu'ils	doivent	attendre	12	mois	,	ils	peuvent	aussi	bien	attendre	13	mois	.
+d'où	vient	cette	_UNK_	dynamique	?
+les	comparaisons	.	les	comparaisons	à	problème	.	laissez	-	moi	vous	le	prouver	.
+voici	un	graphique	montrant	les	comportements	dont	je	vous	ai	parlé	,	et	vous	feriez	pareil	si	je	vous	laissais	le	temps	de	répondre	,	à	savoir	:	les	gens	trouvent	que	la	valeur	subjective	de	50	est	supérieure	à	le	valeur	subjective	de	60	,	quand	ces	sommes	sont	données	immédiatement	ou	dans	un	mois	--	un	délai	de	30	jours	--	mais	les	gens	donnent	la	réponse	inverse	quand	vous	_UNK_	cette	décision	un	an	dans	le	futur	.
+mais	pourquoi	est	-	ce	que	nous	voyons	ce	genre	de	résultat	?
+ces	gars	-	là	peuvent	nous	l'expliquer	.
+vous	pouvez	voir	deux	hommes	,	l'un	est	plus	grand	que	l'autre	:	le	pompier	et	le	violoniste	.
+ils	vont	reculer	jusqu'à	disparaître	à	l'horizon	,	et	vous	allez	voir	deux	choses	.
+à	aucun	moment	,	le	pompier	ne	semble	plus	haut	que	le	violoniste	.	jamais	.
+mais	la	différence	de	taille	entre	eux	semble	être	de	plus	en	plus	petite	.
+c'est	d'abord	quelques	centimètres	,	puis	un	centimètre	,	puis	un	demi	-	centimètre	,	et	enfin	ils	disparaissent	à	l'horizon	.
+voici	les	résultats	que	je	viens	de	vous	montrer	.
+la	taille	subjective	--	la	taille	que	vous	avez	observée	à	différents	moments	.
+et	je	voudrais	que	vous	vous	rendiez	compte	de	deux	choses	:	d'une	,	plus	ils	sont	loin	,	plus	ils	nous	semblent	petits	;	et	de	deux	,	le	pompier	est	toujours	plus	grand	que	le	violoniste	.
+mais	regardez	ce	qui	se	passe	quand	on	cache	certains	résultats	.	voilà	.
+de	très	près	,	le	violoniste	semble	plus	grand	que	le	pompier	,	mais	de	loin	leur	relation	normale	,	véritable	,	est	préservée	.
+comme	platon	disait	,	ce	que	l'espace	est	à	la	taille	,	le	temps	est	à	la	valeur	.
+voici	les	résultats	du	problème	difficile	que	je	vous	ai	donné	:	60	maintenant	ou	50	dans	un	mois	?
+il	s'agit	là	de	valeurs	_UNK_	,	et	on	se	rend	compte	que	nos	deux	règles	sont	respectées	.
+les	gens	pensent	toujours	que	plus	est	mieux	que	moins	,	60	est	toujours	meilleur	que	50	;	et	ils	pensent	toujours	que	maintenant	est	mieux	que	plus	tard	.
+les	barres	de	ce	côté	sont	plus	hautes	que	les	barres	de	ce	côté	.
+regardez	ce	qui	se	passe	quand	on	en	supprime	quelques	-	unes	.
+on	voit	_UNK_	dynamique	qui	nous	a	surpris	.
+nous	avons	la	tendance	de	choisir	les	50	dollars	tout	de	suite	ou	attendre	un	mois	,	mais	pas	si	cette	décision	est	dans	l'avenir	.
+notez	que	cela	implique	quelque	chose	d'intéressant	:	quand	les	gens	arrivent	à	ce	point	dans	l'avenir	,	ils	changent	leur	choix	.
+c'est	-	à	-	dire	que	,	quand	le	_UNK_	mois	approche	,	vous	vous	dites	mais	à	quoi	je	pensais	,	pourquoi	attendre	un	mois	de	plus	pour	60	dollars	?
+je	veux	les	50	dollars	tout	de	suite	.
+la	question	sur	laquelle	j'aimerais	conclure	est	la	suivante	:	si	on	est	si	stupide	que	ça	,	comment	a	-	t	-	on	fait	pour	envoyer	un	homme	sur	la	lune	?
+parce	que	je	pourrais	vous	parler	pendant	deux	heures	,	preuves	à	l'appui	,	de	l'incapacité	des	gens	à	estimer	les	probabilités	et	les	valeurs	.
+la	réponse	à	cette	question	est	,	je	pense	,	quelque	chose	que	vous	avez	déjà	entendu	dans	certaines	autres	présentations	ici	,	et	je	pense	que	vous	_UNK_	encore	.
+à	savoir	,	que	nos	cerveaux	ont	été	conçus	pour	un	monde	bien	différent	de	celui	dans	lequel	nous	vivons	ils	étaient	conçus	pour	un	monde	où	les	gens	vivaient	en	petits	groupes	,	rencontraient	rarement	quelqu'un	de	très	différent	d'eux	-	mêmes	,	avaient	des	vies	assez	courtes	,	sans	beaucoup	de	choix	,	et	où	la	principale	priorité	était	de	manger	et	se	reproduire	le	jour	même	.
+le	cadeau	de	bernoulli	,	sa	petite	formule	,	nous	permet	,	nous	dit	comment	nous	devrions	nous	comporter	dans	un	monde	que	la	nature	n'a	jamais	créé	pour	nous	.
+voici	pourquoi	nous	avons	tant	de	difficultés	à	l'utiliser	,	mais	ça	explique	aussi	pourquoi	il	est	si	important	que	nous	devenions	bons	,	et	vite	.
+nous	sommes	la	seule	espèce	de	cette	planète	qui	ait	jamais	tenu	son	propre	destin	entre	ses	mains	.
+nous	n'avons	pas	de	prédateurs	,	nous	sommes	les	maîtres	de	notre	environnement	,	les	choses	qui	,	habituellement	,	font	disparaître	des	espèces	ne	s'appliquent	plus	à	nous	.
+la	seule	chose	--	la	seule	--	qui	pourrait	nous	détruire	et	nous	condamner	est	nos	propres	décisions	.
+si	nous	ne	sommes	plus	là	dans	10	000	ans	,	ça	sera	parce	que	nous	n'avons	pas	su	utiliser	le	cadeau	qui	nous	a	été	fait	par	un	jeune	hollandais	en	1738	,	car	nous	avons	sous	-	estimé	les	probabilités	de	nos	souffrances	futures	et	surestimé	la	valeur	de	nos	plaisirs	présents	.
+merci	.
+chris	anderson	:	c'était	fascinant	.
+nous	avons	le	temps	pour	quelques	questions	pour	dan	gilbert	.	vous	deux	.
+bill	_UNK_	:	est	-	ce	que	vous	diriez	que	ces	mécanismes	sont	en	partie	la	façon	dont	les	actes	terroristes	nous	effraient	,	et	s'il	existe	un	moyen	de	réduire	cet	effet	?
+dan	gilbert	:	j'ai	effectivement	été	consulté	récemment	par	le	département	de	la	sécurité	intérieure	,	qui	pense	habituellement	que	le	budget	américain	de	la	sûreté	devrait	être	utilisé	pour	rendre	les	frontières	plus	sûres	.
+j'ai	tenté	de	leur	expliquer	que	le	terrorisme	était	ainsi	nommé	sur	la	base	des	réactions	psychologiques	des	gens	à	certains	événements	,	et	que	s'ils	voulaient	s'occuper	du	terrorisme	,	ils	pourraient	se	demander	qu'est	-	ce	qui	cause	la	terreur	,	comment	empêcher	les	gens	d'être	terrifiés	,	plutôt	que	--	non	pas	plutôt	que	,	mais	en	plus	de	chercher	à	empêcher	les	atrocités	qui	nous	_UNK_	tous	.
+sans	aucun	doute	,	la	part	que	les	médias	américains	accordent	à	--	et	pardonnez	-	moi	,	mais	dans	les	chiffres	il	s'agit	de	tout	petits	accidents	.
+nous	savons	,	par	exemple	,	qu'aux	états	-	unis	,	davantage	de	personnes	sont	mortes	de	ne	pas	avoir	pris	l'avion	--	car	elles	avaient	peur	--	et	ont	pris	l'autoroute	,	qu'il	n'y	a	eu	de	morts	le	11	septembre	.	ok	?
+si	je	vous	disais	qu'une	épidémie	allait	tuer	15.000	américains	l'année	prochaine	,	vous	pourriez	être	inquiets	si	vous	n'aviez	pas	compris	qu'il	s'agissait	de	la	grippe	.
+il	s'agit	de	petits	accidents	,	et	on	pourrait	se	demander	s'ils	devraient	avoir	l'importance	,	la	couverture	médiatique	,	qu'ils	ont	.
+cela	engendre	sans	doute	des	_UNK_	de	la	probabilité	que	vous	pourriez	mourir	de	cette	façon	,	et	donne	de	la	force	à	ceux	qui	veulent	nous	effrayer	.
+ca	:	dan	,	j'aimerais	en	entendre	plus	sur	ce	sujet	.	vous	dites	que	notre	réponse	au	terrorisme	est	une	sorte	de	bug	mental	?
+dites	-	nous	en	plus	.
+dg	:	c'est	surestimé	.	regardez	.
+si	l'australie	disparaissait	demain	,	la	terreur	serait	sans	doute	la	bonne	réaction	.
+il	s'agit	d'une	énorme	portion	de	gens	très	sympathiques	.	d'un	autre	côté	,	quand	un	bus	explose	et	tue	30	personnes	,	plus	de	gens	que	ça	sont	morts	dans	ce	même	pays	parce	qu'ils	n'avaient	pas	mis	leur	ceinture	.
+est	-	ce	que	la	terreur	est	la	bonne	réaction	?
+ca	:	qu'est	-	ce	qui	cause	ce	bug	?	est	-	ce	que	c'est	le	choc	de	l'événement	--	le	fait	qu'il	soit	si	spectaculaire	?
+ou	est	-	ce	le	fait	qu'il	s'agit	d'une	attaque	volontaire	par	des	,	entre	guillemets	,	étrangers	?
+qu'est	ce	que	c'est	?
+dg	:	oui	,	il	y	a	plusieurs	éléments	,	et	vous	en	avez	mentionné	plusieurs	.
+tout	d'abord	,	c'est	une	personne	qui	cherche	à	nous	tuer	--	pas	un	arbre	qui	nous	tombe	dessus	par	accident	.
+ensuite	,	il	s'agit	_UNK_	qui	pourraient	vouloir	nous	blesser	à	nouveau	.
+les	gens	qui	se	font	tuer	sans	raison	plutôt	qu'avec	une	bonne	raison	--	comme	s'il	y	avait	de	bonnes	raisons	,	mais	parfois	les	gens	pensent	que	oui	.
+il	y	a	donc	un	grand	nombre	de	choses	qui	,	ensemble	,	font	que	cet	évènement	est	exceptionnel	.	mais	n'oublions	pas	que	les	journaux	se	vendent	quand	les	gens	y	voient	quelque	chose	qu'ils	ont	envie	de	lire	.	il	y	a	donc	un	rôle	important	joué	par	les	médias	qui	cherchent	à	rendre	ces	événements	aussi	spectaculaires	qu'ils	le	peuvent	.
+ca	:	mais	qu'est	ce	qu'il	faudrait	pour	convaincre	notre	culture	de	réduire	l'impact	de	ces	événements	?
+dg	:	eh	bien	,	prenez	l'exemple	d'israël	.
+en	israël	,	un	centre	commercial	explose	,	tout	le	monde	est	triste	,	et	une	heure	et	demie	plus	tard	--	quand	j'y	étais	en	tout	cas	,	et	j'étais	à	50	mètres	du	centre	commercial	quand	il	a	explosé	--	je	suis	retourné	à	mon	hôtel	,	le	mariage	qui	y	était	prévu	continuait	normalement	.
+et	,	comme	me	_UNK_	la	mère	israélienne	,	``	on	ne	les	laissera	pas	gagner	en	_UNK_	les	mariages	``	.
+voila	une	société	qui	a	appris	--	et	il	y	en	a	d'autres	comme	ça	--	ce	que	c'est	que	de	vivre	avec	un	certain	niveau	de	terrorisme	sans	être	aussi	en	colère	,	si	je	puis	dire	,	que	ceux	d'entre	nous	qui	n'ont	pas	vécu	tant	d'attaques	.
+ca	:	mais	est	-	ce	qu'il	n'y	a	pas	un	peu	de	rationalité	dans	cette	peur	,	à	savoir	que	nous	sommes	effrayés	,	car	nous	pensons	qu'une	attaque	ultime	est	à	venir	?
+dg	:	oui	,	bien	sûr	.	si	nous	étions	sûrs	que	c'était	la	pire	attaque	que	nous	aurons	,	il	pourrait	y	avoir	davantage	de	bus	de	30	personnes	--	et	nous	ne	seriez	pas	si	effrayés	.
+je	ne	cherche	pas	à	dire	--	je	vous	en	prie	,	je	vais	être	cité	quelque	part	comme	disant	``	le	terrorisme	ce	n'est	rien	,	nous	ne	devrions	pas	être	si	inquiets	``	.
+ce	n'est	pas	ce	que	j'essaye	de	dire	.
+ce	que	je	cherche	à	dire	est	que	,	de	façon	rationnelle	notre	souffrance	par	rapport	aux	événements	futurs	,	aux	menaces	,	devrait	être	proportionnelle	à	l'importance	de	ces	menaces	et	des	menaces	à	venir	.
+je	pense	que	dans	le	cas	du	terrorisme	,	ce	n'est	pas	le	cas	.
+parmi	les	nombreuses	choses	que	nous	avons	entendues	aujourd'hui	--	combien	de	personnes	se	sont	levées	et	ont	dit	la	pauvreté	!	je	n'arrive	pas	à	croire	ce	que	la	pauvreté	nous	cause	.
+les	gens	se	lèvent	le	matin	;	ils	ne	pensent	pas	à	la	pauvreté	.
+ça	ne	fait	pas	les	gros	titres	;	ça	ne	passe	pas	aux	infos	,	ce	n'est	pas	impressionnant	.
+il	n'y	a	pas	de	coups	de	feu	.
+voyons	,	si	vous	pouviez	résoudre	l'un	de	ces	problèmes	,	chris	,	lequel	est	ce	que	ça	serait	?	le	terrorisme	ou	la	pauvreté	?
+question	difficile	.
+ca	:	sans	aucun	doute	.
+la	pauvreté	,	largement	,	très	largement	,	sauf	si	quelqu'un	peut	prouver	que	des	terroristes	avec	une	arme	nucléaire	ont	de	grandes	chances	d'attaquer	.
+mais	d'après	ce	que	j'ai	lu	,	ils	ne	peuvent	pas	faire	ça	.
+s'ils	y	arrivent	,	on	a	l'air	bête	,	mais	avec	la	pauvreté	c'est	--	dg	:	même	si	c'était	le	cas	,	la	pauvreté	tuerait	davantage	de	personnes	.
+ca	:	nous	avons	évolué	pour	être	impressionnés	par	ces	attaques	dramatiques	.	est	-	ce	parce	qu'auparavant	,	il	y	a	très	longtemps	,	on	ne	comprenait	pas	des	choses	comme	les	maladies	et	les	systèmes	qui	causent	la	pauvreté	,	etc	.
+et	donc	que	nous	ne	voyions	pas	l'intérêt	,	en	tant	qu'espèce	,	de	dépenser	de	l'énergie	à	se	préoccuper	de	ces	problèmes	?
+des	gens	sont	morts	,	soit	.
+mais	si	vous	vous	faites	attaquer	,	vous	pouvez	faire	quelque	chose	.
+nous	avons	donc	évolué	vers	ces	réactions	.
+est	-	ce	ce	qui	s'est	passé	?
+dg	:	eh	bien	,	vous	savez	,	les	gens	qui	_UNK_	le	plus	à	sauter	sur	les	explications	évolutionnistes	pour	toutes	les	questions	,	sont	les	psychologues	évolutionnistes	eux	-	mêmes	.
+à	mon	avis	il	n'y	a	rien	de	si	spécifique	dans	notre	passé	évolutif	.	mais	si	vous	cherchez	une	réponse	évolutionniste	,	vous	pourriez	vous	dire	que	la	plupart	des	organismes	sont	_UNK_	--	c'est	-	à	-	dire	qu'ils	ont	peur	de	ce	qui	est	nouveau	et	différent	.
+et	à	juste	titre	,	car	ce	que	vous	connaissez	ne	va	pas	vous	manger	,	n'est	-	ce	pas	?
+tout	animal	que	vous	avez	déjà	vu	à	moins	de	chances	d'être	un	prédateur	,	contrairement	à	un	animal	que	vous	n'avez	jamais	vu	.
+et	donc	,	quand	un	bus	scolaire	explose	et	qu'on	n'a	jamais	vu	ça	,	notre	mécanisme	naturel	envers	ce	qui	est	nouveau	est	activé	.
+je	ne	pense	pas	que	ça	soit	aussi	spécifique	que	le	mécanisme	que	vous	avez	mentionné	,	mais	peut	-	être	un	autre	,	plus	fondamental	,	sous	-	jacent	jay	walker	:	vous	savez	,	les	économistes	adorent	nous	parler	de	la	bêtise	de	ceux	qui	jouent	au	loto	.	mais	je	pense	que	vous	faites	la	même	erreur	que	ce	que	vous	leur	_UNK_	,	à	savoir	une	erreur	de	valeur	.
+vous	savez	,	j'ai	interviewé	près	de	1000	joueurs	de	loto	au	cours	des	années	,	il	se	trouve	que	la	valeur	d'acheter	un	ticket	n'est	pas	de	gagner	.
+c'est	ce	que	vous	croyez	.
+le	joueur	moyen	achète	environ	150	tickets	par	an	,	il	sait	donc	très	bien	qu'il	ou	elle	va	perdre	,	et	pourtant	,	elle	achète	150	tickets	par	an	.	pourquoi	?
+ce	n'est	pas	parce	qu'il	ou	elle	est	stupide	.
+c'est	parce	que	l'anticipation	du	gain	relâche	de	la	sérotonine	dans	le	cerveau	,	ce	qui	donne	un	sentiment	de	bien	-	être	jusqu'au	tirage	qui	indique	que	vous	avez	perdu	.
+pour	dire	les	choses	autrement	,	en	terme	de	dépense	,	vous	vous	sentez	mieux	qu'en	jetant	simplement	l'argent	par	les	fenêtres	,	ce	qui	ne	vous	procure	pas	de	joie	.
+les	économistes	ont	tendance	à	ils	ont	tendance	à	voir	le	monde	à	travers	leurs	yeux	,	à	savoir	que	les	joueurs	ne	sont	que	des	idiots	.
+c'est	pourquoi	beaucoup	voient	les	économistes	comme	des	idiots	.
+en	gros	,	la	raison	pour	laquelle	nous	avons	atteint	la	lune	est	que	nous	n'avons	pas	écouté	les	économistes	.	merci	.
+dg	:	eh	bien	,	c'est	une	bonne	remarque	.	il	reste	à	prouver	si	la	joie	d'anticipation	est	strictement	égale	à	la	quantité	de	déception	après	le	tirage	.	car	rappelez	-	vous	les	gens	qui	ne	jouent	pas	ne	se	sentent	pas	mal	le	lendemain	non	plus	,	même	s'ils	ne	se	sentent	pas	super	pendant	le	tirage	.
+je	ne	pense	pas	que	les	joueurs	savent	qu'ils	vont	perdre	je	pense	qu'ils	se	disent	que	c'est	peu	probable	,	mais	ça	pourrait	arriver	.
+voilà	pourquoi	ils	préfèrent	ça	à	jeter	l'argent	par	les	fenêtres	.
+mais	je	vois	ce	que	vous	voulez	dire	:	il	peut	y	avoir	un	gain	à	jouer	au	loto	,	autre	que	gagner	.
+en	tout	cas	,	il	y	a	de	nombreuses	raisons	de	ne	pas	écouter	les	économistes	mais	je	ne	pense	pas	que	cela	en	soit	une	.
+ca	:	une	dernière	question	.
+aubrey	de	grey	:	je	suis	aubrey	de	grey	,	de	cambridge	.
+je	travaille	sur	ce	qui	tue	plus	que	n'importe	quoi	d'autre	--	je	travaille	sur	le	vieillissement	,	et	sur	ce	qu'on	peut	y	faire	,	j'en	parlerai	demain	.
+j'apprécie	beaucoup	ce	que	vous	dites	,	car	il	me	semble	que	le	problème	d'intéresser	les	gens	à	travailler	sur	le	vieillissement	est	que	,	au	moment	où	la	vieillesse	vous	prend	,	ça	ressemble	à	un	cancer	ou	un	arrêt	cardiaque	ou	autre	.	pouvez	-	vous	me	conseiller	?
+dg	:	pour	eux	ou	pour	vous	?
+_UNK_	:	pour	les	convaincre	.
+dg	:	ah	,	pour	vous	aider	à	les	convaincre	.
+il	est	terriblement	difficile	de	faire	en	sorte	que	les	gens	voient	le	long	terme	,	mais	une	astuce	que	les	psychologues	utilisent	et	qui	semble	marcher	est	de	demander	aux	gens	d'imaginer	leur	futur	plus	précisément	.
+une	des	difficultés	dans	la	prise	de	décisions	d'un	futur	lointain	et	d'un	futur	proche	,	est	que	nous	imaginions	le	futur	proche	de	façon	beaucoup	plus	nette	que	le	futur	lointain	.
+si	on	pouvait	égaler	la	quantité	de	détail	que	les	gens	ont	dans	leurs	images	mentales	du	futur	proche	et	éloigné	,	alors	les	gens	prennent	des	décisions	à	propos	des	deux	de	la	même	façon	.
+ainsi	,	voudriez	-	vous	avoir	100.000	dollars	de	plus	à	65	ans	,	est	une	question	très	différente	de	:	imaginez	qui	vous	serez	à	65	ans	,	serez	-	vous	en	vie	,	quelle	sera	votre	apparence	,	aurez	-	vous	encore	des	cheveux	,	avec	qui	vivrez	-	vous	.
+une	fois	qu'on	pense	à	tous	les	détails	de	ce	scénario	,	tout	à	coup	on	réalise	qu'il	pourrait	être	important	d'économiser	pour	que	cette	personne	ait	de	l'argent	pour	sa	retraite	.
+mais	ces	astuces	sont	anecdotiques	je	pense	qu'en	règle	générale	vous	combattez	une	tendance	humaine	fondamentale	à	savoir	,	``	je	suis	là	aujourd'hui	,	et	aujourd'hui	est	plus	important	que	demain	``	ca	:	dan	,	merci	.	mesdames	et	messieurs	,	c'était	une	session	fantastique	.	merci	.
+

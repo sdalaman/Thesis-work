@@ -1,0 +1,157 @@
+laissez	-	moi	partager	aujourd'hui	avec	vous	une	découverte	inédite	.
+mais	je	veux	vous	raconter	comment	ça	s'est	vraiment	passé	.
+et	non	comment	je	le	présente	dans	les	réunions	scientifiques	,	ou	comment	vous	le	_UNK_	dans	une	publication	scientifique	.
+cette	histoire	dépasse	le	biomimétisme	,	pour	atteindre	ce	que	j'appelle	le	biomutualisme	.
+je	définis	cela	comme	l'association	de	la	biologie	et	d'une	autre	discipline	.
+où	chaque	discipline	aide	réciproquement	l'autre	,	mais	où	les	découvertes	collectives	dépassent	chaque	spécialité	prise	séparément	.
+en	ce	qui	concerne	le	biomimétisme	,	alors	que	les	technologies	humaines	adoptent	de	plus	plus	les	caractéristiques	de	la	nature	,	la	nature	devient	un	professeur	beaucoup	plus	utile	.
+l'ingénierie	peut	être	inspirée	par	la	biologie	en	reprenant	ses	principes	et	analogies	quand	ils	sont	utiles	.
+mais	en	y	intégrant	le	meilleur	de	l'ingénierie	humaine	,	pour	obtenir	finalement	quelque	chose	de	meilleur	que	la	nature	.
+étant	biologiste	,	ce	sujet	a	excité	ma	curiosité	.
+voici	des	doigts	de	gecko	.
+nous	nous	demandions	comment	ils	utilisaient	ces	doigts	bizarres	pour	grimper	si	rapidement	au	mur	.
+nous	l'avons	découvert	:	ils	ont	des	structures	comme	des	feuilles	sur	leurs	doigts	,	avec	des	millions	de	petits	poils	comme	un	tapis	.
+et	chacun	de	ces	doigts	a	les	pires	fourches	qu'on	puisse	trouver	entre	100	et	1000	,	qui	sont	nanométriques	.
+un	individu	a	2	milliards	de	ces	fourches	nanométriques	.
+elles	ne	collent	pas	grâce	à	un	velcro	,	à	la	succion	ou	à	une	colle	.	♪	elles	collent	en	fait	seulement	grâce	aux	forces	intermoléculaires	,	les	forces	de	van	der	waal	.
+je	suis	très	heureux	de	vous	annoncer	aujourd'hui	que	le	premier	adhésif	auto	-	nettoyant	de	synthèse	a	été	créé	.
+a	partir	de	sa	version	la	plus	simple	dans	la	nature	,	une	branche	.
+mon	collègue	d'ingénierie	,	ron	fearing	,	à	berkeley	,	a	créé	la	première	version	de	synthèse	.
+mon	autre	collaborateur	incroyable	,	mark	cutkosky	,	à	stanford	,	a	fait	de	même	.
+il	a	créé	des	poils	beaucoup	plus	larges	que	ceux	du	gecko	,	mais	a	utilisé	les	mêmes	principes	généraux	.
+voici	son	premier	test	.
+voici	_UNK_	_UNK_	,	un	ancien	doctorant	de	mon	labo	,	désormais	professeur	à	lewis	and	clark	,	offrant	littéralement	son	aîné	pour	ce	test	.
+plus	récemment	a	eu	lieu	ceci	.
+homme	:	c'est	la	première	fois	que	quelqu'un	grimpe	avec	.
+narrateur	:	lynn	verinsky	,	un	grimpeur	professionnel	,	qui	semble	déborder	de	confiance	.
+lynn	verinsky	:	honnêtement	,	cela	sera	parfaitement	sûr	.	parfaitement	sûr	.
+homme	:	comment	le	savez	-	vous	?
+lynn	verinsky	:	a	cause	de	l'assurance	responsabilité	civile	.
+narrateur	:	avec	un	matelas	en	dessous	et	attaché	à	une	corde	de	rappel	,	lynn	commence	son	ascension	de	20	mètres	.
+lynn	arrive	au	sommet	dans	un	parfait	mélange	de	science	et	de	trucages	hollywoodiens	.
+homme	:	vous	êtes	donc	le	premier	être	humain	à	officiellement	vous	comporter	en	gecko	.
+lynn	verinsky	:	super	!	quel	privilège	!
+robert	full	:	voilà	ce	qu'elle	faisait	sur	des	surfaces	rugueuses	.
+mais	elle	a	en	fait	utilisé	ces	choses	-	là	sur	des	surfaces	lisses	,	en	l'occurrence	deux	,	pour	grimper	et	arriver	en	haut	.
+vous	pouvez	essayer	cela	dans	le	hall	,	et	observer	le	matériel	_UNK_	-	gecko	.
+le	problème	avec	les	robots	qui	font	cela	est	qu'on	ne	peut	plus	les	décoller	,	avec	ce	type	d'équipement	.
+voici	la	solution	du	gecko	.	en	fait	,	il	décolle	ses	doigts	de	la	surface	,	à	grande	vitesse	,	en	courant	sur	le	mur	.
+je	suis	vraiment	heureux	aujourd'hui	de	vous	montrer	la	dernière	version	du	robot	stickybot	,	qui	utilise	une	nouvelle	colle	à	_UNK_	hiérarchique	.
+voici	le	robot	.
+voici	ce	qu'il	fait	.
+en	regardant	bien	,	vous	voyez	qu'il	utilise	le	décollement	de	ses	doigts	,	comme	le	gecko	.
+si	on	peut	passer	une	vidéo	,	vous	le	verrez	grimper	le	long	du	mur	.
+voilà	.
+il	peut	aller	sur	d'autres	surfaces	grâce	à	la	nouvelle	colle	,	que	le	stanford	group	a	créée	en	concevant	ce	robot	incroyable	.
+oh	,	une	chose	à	noter	.	regardez	stickybot	.
+vous	voyez	quelque	chose	dessus	.	ce	n'est	pas	seulement	pour	ressembler	à	un	gecko	.
+il	a	une	queue	.	quand	vous	croyez	avoir	compris	la	nature	,	c'est	ce	qui	arrive	.
+les	ingénieurs	nous	ont	dit	,	les	robots	grimpeurs	,	s'ils	n'ont	pas	de	queue	,	ils	tombent	du	mur	.
+ils	nous	ont	posé	une	question	,	une	question	importante	.
+ils	ont	dit	:	``	hé	,	cela	ressemble	à	une	queue	.	``
+bien	qu'on	a	mis	une	barre	passive	ici	.
+``	les	animaux	utilisent	-	ils	leur	queue	pour	grimper	aux	murs	?	``
+ils	nous	ont	retourné	la	politesse	,	en	nous	donnant	une	hypothèse	à	tester	,	en	biologie	,	à	laquelle	nous	n'aurions	pas	pensé	.
+bien	sûr	,	en	réalité	,	nous	étions	paniqué	,	étant	les	biologistes	,	nous	aurions	dû	déjà	savoir	.
+on	a	dit	:	``	eh	bien	,	à	quoi	sert	la	queue	?	``
+nous	savons	que	la	queue	stocke	de	la	graisse	,	par	exemple	.
+nous	savons	qu'on	peut	attraper	des	choses	avec	.
+et	peut	-	être	le	plus	connu	:	elle	assure	un	équilibre	à	l'arrêt	.
+elle	peut	agir	comme	contrepoids	.
+observez	ce	kangourou	.
+vous	voyez	la	queue	?	c'est	incroyable	!
+marc	_UNK_	a	construit	un	robot	sauteur	,	_UNK_	.
+il	était	instable	sans	sa	queue	.
+mais	la	plupart	du	temps	la	queue	diminue	la	manœuvrabilité	.
+comme	pour	cet	humain	en	costume	de	dinosaure	.
+mes	collègues	ont	en	fait	testé	cette	limitation	,	en	augmentant	le	moment	d'inertie	d'un	étudiant	:	on	lui	met	une	queue	,	il	traverse	en	courant	un	parcours	d'obstacles	,	et	constate	une	diminution	de	la	performance	.
+comme	vous	l'auriez	prédit	.
+mais	bien	sûr	,	c'est	une	queue	passive	.
+il	existe	des	queues	actives	.
+quand	j'ai	repris	mes	recherches	sur	ce	sujet	,	j'ai	réalisé	qu'un	des	grands	moments	de	ted	,	fut	grâce	à	nathan	,	quand	nous	avons	parlé	d'une	queue	active	.
+video	:	myhrvold	pense	que	les	dinosaures	à	longue	queue	étaient	intéressés	par	l'amour	,	pas	par	la	guerre	.
+robert	full	:	il	parlait	de	la	queue	comme	d'un	moyen	de	communication	.
+elle	pouvait	être	utile	pour	se	défendre	.
+plutôt	puissante	.
+nous	nous	sommes	intéressés	à	nouveau	à	l'animal	.
+nous	l'avons	fait	courir	sur	une	surface	.
+mais	cette	fois	-	ci	,	on	a	mis	une	bande	glissante	,	que	vous	voyez	ici	,	en	jaune	.
+regardez	sur	la	droite	,	ce	que	l'animal	fait	avec	sa	queue	quand	il	glisse	.	ceci	est	ralenti	10	fois	.
+a	vitesse	normale	.
+regardez	-	le	glisser	,	et	observez	ce	qu'il	fait	avec	sa	queue	.
+sa	queue	est	active	et	fonctionne	comme	une	5ème	jambe	.
+et	contribue	à	la	stabilité	.
+si	on	le	fait	beaucoup	glisser	,	voici	ce	que	nous	avons	constaté	.
+c'est	incroyable	.
+les	ingénieurs	ont	vraiment	eu	une	bonne	idée	.
+ensuite	bien	sûr	,	on	s'est	demandé	:	ok	,	la	queue	est	active	,	mais	imaginons	-	les	en	action	.
+ils	grimpent	sur	un	mur	,	ou	sur	un	arbre	.
+arrivé	en	haut	,	imaginons	qu'il	y	ait	des	feuilles	.
+que	se	passerait	-	il	s'ils	grimpaient	sur	la	face	inférieure	d'une	feuille	,	et	s'il	y	avait	du	vent	,	ou	si	on	_UNK_	?
+nous	avons	fait	l'expérience	,	que	vous	voyez	là	.
+voici	ce	que	nous	avons	découvert	.
+c'est	en	vitesse	réelle	.	on	ne	voit	rien	.
+voici	au	ralenti	.
+ceci	est	la	réaction	de	rééquilibrage	la	plus	rapide	au	monde	.
+pour	ceux	que	se	souviennent	des	cours	de	physique	,	c'est	une	réponse	de	rééquilibrage	à	moment	cinétique	nul	.	mais	comme	un	chat	.
+vous	le	savez	,	les	chats	tombent	.	ils	font	ceci	.	ils	_UNK_	leur	corps	.
+les	geckos	le	font	mieux	.
+et	ils	le	font	avec	leur	queue	.
+ils	le	font	avec	leur	queue	active	qu'ils	battent	.
+ils	atterrissent	donc	toujours	dans	la	position	de	superman	.
+bien	sûr	,	nous	nous	sommes	demandés	:	si	nous	avions	raison	,	nous	devrions	pouvoir	le	tester	sur	un	modèle	physique	,	un	robot	.
+pour	ted	,	nous	avons	vraiment	construit	un	robot	,	ici	,	un	prototype	,	avec	une	queue	.
+voici	la	première	tentative	de	réponse	de	rééquilibrage	par	la	queue	,	avec	un	robot	.
+si	on	pouvait	éclairer	ceci	.
+ok	,	c'est	parti	.
+lancez	la	vidéo	.
+voilà	.
+cela	fonctionne	comme	chez	l'animal	.
+il	suffit	simplement	d'un	battement	de	queue	pour	_UNK_	.
+bien	sûr	,	vous	étiez	normalement	inquiets	parce	que	l'animal	n'est	pas	adapté	au	vol	plané	,	alors	nous	nous	sommes	dit	:	``	ok	.	mettons	-	le	dans	une	soufflerie	verticale	.
+on	souffle	de	l'air	,	on	détermine	une	aire	d'atterrissage	,	un	tronc	d'arbre	,	juste	à	côté	de	la	barrière	en	_UNK_	,	et	voyons	ce	que	se	passe	.
+on	l'a	fait	.	voilà	le	résultat	.
+le	vent	arrive	d'en	bas	.	ceci	est	ralenti	dix	fois	.
+cela	crée	une	pente	d'équilibre	.	hautement	contrôlée	.
+c'est	incroyable	.	mais	c'est	vraiment	beau	quand	on	le	photographie	.
+c'est	en	fait	mieux	que	ça	:	il	arrive	à	évoluer	entre	deux	courants	.
+il	fait	cela	en	utilisant	sa	queue	et	en	la	balançant	d'un	côté	puis	de	l'autre	pour	rester	droit	.
+on	peut	se	déplacer	ainsi	.
+ensuite	--	nous	avons	dû	filmer	à	plusieurs	reprises	pour	y	croire	--	il	fait	aussi	cela	.	regardez	.
+il	fait	bouger	sa	queue	de	haut	en	bas	comme	un	dauphin	.
+il	nage	réellement	dans	l'air	.
+observez	ses	pattes	avant	.	vous	voyez	ce	qu'elles	font	?
+y	a	-	t	-	il	un	lien	avec	les	battements	d'ailes	?
+cela	vient	peut	-	être	du	besoin	de	descendre	des	arbres	tout	en	contrôlant	un	vol	plané	la	suite	dans	un	instant	...
+nous	sommes	alors	demandés	:	``	peuvent	-	ils	manœuvrer	ainsi	?	``
+voici	l'aire	atterrissage	.	y	arriveront	-	ils	en	utilisant	ces	capacités	?	le	voici	dans	la	soufflerie	.
+on	le	dirait	bien	.
+on	le	voit	encore	mieux	depuis	en	dessous	.
+observez	l'animal	.
+il	se	déplace	vraiment	vers	l'aire	_UNK_	.
+observez	le	_UNK_	de	sa	queue	.	regardez	ça	.
+c'est	incroyable	.
+a	ce	moment	-	là	,	nous	étions	complètement	perdus	.
+car	il	n'y	a	pas	d'e	publication	sur	le	vol	plané	du	gecko	.
+on	s'est	dit	:	``	mon	dieu	,	nous	devons	aller	sur	le	terrain	voir	comment	il	fait	ça	.	``
+exactement	l'inverse	de	ce	que	vous	verriez	dans	un	film	animalier	,	bien	sûr	.
+on	s'est	demandé	:	``	est	-	ce	qu'ils	font	du	vol	plané	dans	la	nature	?	``
+nous	sommes	allés	dans	les	forêts	de	singapour	et	d'asie	du	sud	-	est	.
+la	vidéo	que	vous	allez	voir	est	montrée	ici	pour	la	première	fois	.
+c'est	la	vidéo	brute	,	pas	arrangée	,	une	vidéo	de	recherche	d'un	animal	en	plein	vol	plané	.	voici	la	trajectoire	en	rouge	.
+regardez	le	bout	de	la	trajectoire	pour	voir	l'animal	.
+mais	quand	il	se	rapproche	de	l'arbre	,	regardez	_UNK_	.	essayez	de	le	voir	atterrir	.
+le	voici	en	bas	.	il	y	a	un	gecko	en	bas	de	cette	ligne	rouge	.
+vous	le	voyez	?	et	ici	?	regardez	-	le	descendre	.
+maintenant	,	regardez	là	en	haut	et	vous	verrez	l'atterrissage	.	vous	l'avez	vu	toucher	?
+il	utilise	aussi	sa	queue	.
+comme	dans	le	laboratoire	.
+nous	pouvons	continuer	cette	_UNK_	en	proposant	de	créer	une	queue	active	.
+voici	donc	la	première	queue	active	,	sur	un	robot	,	créée	par	boston	dynamics	.
+pour	conclure	,	je	pense	qu'il	faut	encourager	le	biomutualisme	,	comme	je	l'ai	montré	,	cela	accélèrera	le	rythme	des	découvertes	,	et	leur	application	.
+pour	ceci	,	nous	devons	modifier	l'éducation	d'une	manière	radicale	,	pour	équilibrer	la	réflexion	avec	la	communication	inter	-	disciplinaire	.
+former	concrètement	les	gens	,	et	bénéficier	des	autres	disciplines	.
+bien	sûr	,	il	faut	aussi	les	organisations	et	l'environnement	pour	.
+en	clair	,	que	ce	soit	en	sécurité	,	en	sauvetage	ou	en	santé	,	nous	devons	protéger	les	schémas	de	la	nature	,	autrement	ils	seront	perdus	à	jamais	.
+mais	d'après	ce	que	notre	nouveau	président	a	dit	,	je	suis	très	optimiste	.	merci	.
+

@@ -1,0 +1,152 @@
+erez_en lieberman_en aiden_en :_en everyone_en knows_en that_en a_en picture_en is_en worth_en a_en thousand_en words_en ._en
+but_en we_en at_en harvard_en were_en wondering_en if_en this_en was_en really_en true_en ._en
+so_en we_en assembled_en a_en team_en of_en experts_en ,_en spanning_en harvard_en ,_en mit_en ,_en the_en american_en heritage_en dictionary_en ,_en the_en encyclopedia_en britannica_en and_en even_en our_en proud_en sponsors_en ,_en the_en google_en ._en
+and_en we_en cogitated_en about_en this_en for_en about_en four_en years_en ._en
+and_en we_en came_en to_en a_en startling_en conclusion_en ._en
+ladies_en and_en gentlemen_en ,_en a_en picture_en is_en not_en worth_en a_en thousand_en words_en ._en
+in_en fact_en ,_en we_en found_en some_en pictures_en that_en are_en worth_en 500_en billion_en words_en ._en
+jean_en -_en baptiste_en michel_en :_en so_en how_en did_en we_en get_en to_en this_en conclusion_en ?_en
+so_en erez_en and_en i_en were_en thinking_en about_en ways_en to_en get_en a_en big_en picture_en of_en human_en culture_en and_en human_en history_en :_en change_en over_en time_en ._en
+so_en many_en books_en actually_en have_en been_en written_en over_en the_en years_en ._en
+so_en we_en were_en thinking_en ,_en well_en the_en best_en way_en to_en learn_en from_en them_en is_en to_en read_en all_en of_en these_en millions_en of_en books_en ._en
+now_en of_en course_en ,_en if_en there_en 's_en a_en scale_en for_en how_en awesome_en that_en is_en ,_en that_en has_en to_en rank_en extremely_en ,_en extremely_en high_en ._en
+now_en the_en problem_en is_en there_en 's_en an_en x_en -_en axis_en for_en that_en ,_en which_en is_en the_en practical_en axis_en ._en
+this_en is_en very_en ,_en very_en low_en ._en
+now_en people_en tend_en to_en use_en an_en alternative_en approach_en ,_en which_en is_en to_en take_en a_en few_en sources_en and_en read_en them_en very_en carefully_en ._en
+this_en is_en extremely_en practical_en ,_en but_en not_en so_en awesome_en ._en
+what_en you_en really_en want_en to_en do_en is_en to_en get_en to_en the_en awesome_en yet_en practical_en part_en of_en this_en space_en ._en
+so_en it_en turns_en out_en there_en was_en a_en company_en across_en the_en river_en called_en google_en who_en had_en started_en a_en digitization_en project_en a_en few_en years_en back_en that_en might_en just_en enable_en this_en approach_en ._en
+they_en have_en digitized_en millions_en of_en books_en ._en
+so_en what_en that_en means_en is_en ,_en one_en could_en use_en computational_en methods_en to_en read_en all_en of_en the_en books_en in_en a_en click_en of_en a_en button_en ._en
+that_en 's_en very_en practical_en and_en extremely_en awesome_en ._en
+ela_en :_en let_en me_en tell_en you_en a_en little_en bit_en about_en where_en books_en come_en from_en ._en
+since_en time_en immemorial_en ,_en there_en have_en been_en authors_en ._en
+these_en authors_en have_en been_en striving_en to_en write_en books_en ._en
+and_en this_en became_en considerably_en easier_en with_en the_en development_en of_en the_en printing_en press_en some_en centuries_en ago_en ._en
+since_en then_en ,_en the_en authors_en have_en won_en on_en 129_en million_en distinct_en occasions_en ,_en publishing_en books_en ._en
+now_en if_en those_en books_en are_en not_en lost_en to_en history_en ,_en then_en they_en are_en somewhere_en in_en a_en library_en ,_en and_en many_en of_en those_en books_en have_en been_en getting_en retrieved_en from_en the_en libraries_en and_en digitized_en by_en google_en ,_en which_en has_en scanned_en 15_en million_en books_en to_en date_en ._en
+now_en when_en google_en digitizes_en a_en book_en ,_en they_en put_en it_en into_en a_en really_en nice_en format_en ._en
+now_en we_en 've_en got_en the_en data_en ,_en plus_en we_en have_en metadata_en ._en
+we_en have_en information_en about_en things_en like_en where_en was_en it_en published_en ,_en who_en was_en the_en author_en ,_en when_en was_en it_en published_en ._en
+and_en what_en we_en do_en is_en go_en through_en all_en of_en those_en records_en and_en exclude_en everything_en that_en 's_en not_en the_en highest_en quality_en data_en ._en
+what_en we_en 're_en left_en with_en is_en a_en collection_en of_en five_en million_en books_en ,_en 500_en billion_en words_en ,_en a_en string_en of_en characters_en a_en thousand_en times_en longer_en than_en the_en human_en genome_en --_en a_en text_en which_en ,_en when_en written_en out_en ,_en would_en stretch_en from_en here_en to_en the_en moon_en and_en back_en 10_en times_en over_en --_en a_en veritable_en shard_en of_en our_en cultural_en genome_en ._en
+of_en course_en what_en we_en did_en when_en faced_en with_en such_en outrageous_en hyperbole_en ..._en was_en what_en any_en self_en -_en respecting_en researchers_en would_en have_en done_en ._en
+we_en took_en a_en page_en out_en of_en xkcd_en ,_en and_en we_en said_en ,_en "_en stand_en back_en ._en
+we_en 're_en going_en to_en try_en science_en ._en "_en jm_en :_en now_en of_en course_en ,_en we_en were_en thinking_en ,_en well_en let_en 's_en just_en first_en put_en the_en data_en out_en there_en for_en people_en to_en do_en science_en to_en it_en ._en
+now_en we_en 're_en thinking_en ,_en what_en data_en can_en we_en release_en ?_en
+well_en of_en course_en ,_en you_en want_en to_en take_en the_en books_en and_en release_en the_en full_en text_en of_en these_en five_en million_en books_en ._en
+now_en google_en ,_en and_en jon_en orwant_en in_en particular_en ,_en told_en us_en a_en little_en equation_en that_en we_en should_en learn_en ._en
+so_en you_en have_en five_en million_en ,_en that_en is_en ,_en five_en million_en authors_en and_en five_en million_en plaintiffs_en is_en a_en massive_en lawsuit_en ._en
+so_en ,_en although_en that_en would_en be_en really_en ,_en really_en awesome_en ,_en again_en ,_en that_en 's_en extremely_en ,_en extremely_en impractical_en ._en
+now_en again_en ,_en we_en kind_en of_en caved_en in_en ,_en and_en we_en did_en the_en very_en practical_en approach_en ,_en which_en was_en a_en bit_en less_en awesome_en ._en
+we_en said_en ,_en well_en instead_en of_en releasing_en the_en full_en text_en ,_en we_en 're_en going_en to_en release_en statistics_en about_en the_en books_en ._en
+so_en take_en for_en instance_en "_en a_en gleam_en of_en happiness_en ._en "_en
+it_en 's_en four_en words_en ;_en we_en call_en that_en a_en four_en -_en gram_en ._en
+we_en 're_en going_en to_en tell_en you_en how_en many_en times_en a_en particular_en four_en -_en gram_en appeared_en in_en books_en in_en 1801_en ,_en 1802_en ,_en 1803_en ,_en that_en gives_en us_en a_en time_en series_en of_en how_en frequently_en this_en particular_en sentence_en was_en used_en over_en time_en ._en
+we_en do_en that_en for_en all_en the_en words_en and_en phrases_en that_en appear_en in_en those_en books_en ,_en and_en that_en gives_en us_en a_en big_en table_en of_en two_en billion_en lines_en that_en tell_en us_en about_en the_en way_en culture_en has_en been_en changing_en ._en
+ela_en :_en so_en those_en two_en billion_en lines_en ,_en we_en call_en them_en two_en billion_en n_en -_en grams_en ._en
+what_en do_en they_en tell_en us_en ?_en
+well_en the_en individual_en n_en -_en grams_en measure_en cultural_en trends_en ._en
+let_en me_en give_en you_en an_en example_en ._en
+let_en 's_en suppose_en that_en i_en am_en thriving_en ,_en then_en tomorrow_en i_en want_en to_en tell_en you_en about_en how_en well_en i_en did_en ._en
+and_en so_en i_en might_en say_en ,_en "_en yesterday_en ,_en i_en throve_en ._en "_en alternatively_en ,_en i_en could_en say_en ,_en "_en yesterday_en ,_en i_en thrived_en ._en "_en well_en which_en one_en should_en i_en use_en ?_en
+how_en to_en know_en ?_en
+as_en of_en about_en six_en months_en ago_en ,_en the_en state_en of_en the_en art_en in_en this_en field_en is_en that_en you_en would_en ,_en for_en instance_en ,_en go_en up_en to_en the_en following_en psychologist_en with_en fabulous_en hair_en ,_en and_en you_en 'd_en say_en ,_en "_en steve_en ,_en you_en 're_en an_en expert_en on_en the_en irregular_en verbs_en ._en
+what_en should_en i_en do_en ?_en "_en and_en he_en 'd_en tell_en you_en ,_en "_en well_en most_en people_en say_en thrived_en ,_en but_en some_en people_en say_en throve_en ._en "_en and_en you_en also_en knew_en ,_en more_en or_en less_en ,_en that_en if_en you_en were_en to_en go_en back_en in_en time_en 200_en years_en and_en ask_en the_en following_en statesman_en with_en equally_en fabulous_en hair_en ,_en "_en tom_en ,_en what_en should_en i_en say_en ?_en "_en he_en 'd_en say_en ,_en "_en well_en ,_en in_en my_en day_en ,_en most_en people_en throve_en ,_en but_en some_en thrived_en ._en "_en so_en now_en what_en i_en 'm_en just_en going_en to_en show_en you_en is_en raw_en data_en ._en
+two_en rows_en from_en this_en table_en of_en two_en billion_en entries_en ._en
+what_en you_en 're_en seeing_en is_en year_en by_en year_en frequency_en of_en "_en thrived_en "_en and_en "_en throve_en "_en over_en time_en ._en
+now_en this_en is_en just_en two_en out_en of_en two_en billion_en rows_en ._en
+so_en the_en entire_en data_en set_en is_en a_en billion_en times_en more_en awesome_en than_en this_en slide_en ._en
+jm_en :_en now_en there_en are_en many_en other_en pictures_en that_en are_en worth_en 500_en billion_en words_en ._en
+for_en instance_en ,_en this_en one_en ._en
+if_en you_en just_en take_en influenza_en ,_en you_en will_en see_en peaks_en at_en the_en time_en where_en you_en knew_en big_en flu_en epidemics_en were_en killing_en people_en around_en the_en globe_en ._en
+ela_en :_en if_en you_en were_en not_en yet_en convinced_en ,_en sea_en levels_en are_en rising_en ,_en so_en is_en atmospheric_en co_en 2_en and_en global_en temperature_en ._en
+jm_en :_en you_en might_en also_en want_en to_en have_en a_en look_en at_en this_en particular_en n_en -_en gram_en ,_en and_en that_en 's_en to_en tell_en nietzsche_en that_en god_en is_en not_en dead_en ,_en although_en you_en might_en agree_en that_en he_en might_en need_en a_en better_en publicist_en ._en
+ela_en :_en you_en can_en get_en at_en some_en pretty_en abstract_en concepts_en with_en this_en sort_en of_en thing_en ._en
+for_en instance_en ,_en let_en me_en tell_en you_en the_en history_en of_en the_en year_en 1950_en ._en
+pretty_en much_en for_en the_en vast_en majority_en of_en history_en ,_en no_en one_en gave_en a_en damn_en about_en 1950_en ._en
+in_en 1700_en ,_en in_en 1800_en ,_en in_en 1900_en ,_en no_en one_en cared_en ._en
+through_en the_en 30s_en and_en 40s_en ,_en no_en one_en cared_en ._en
+suddenly_en ,_en in_en the_en mid_en -_en 40s_en ,_en there_en started_en to_en be_en a_en buzz_en ._en
+people_en realized_en that_en 1950_en was_en going_en to_en happen_en ,_en and_en it_en could_en be_en big_en ._en
+but_en nothing_en got_en people_en interested_en in_en 1950_en like_en the_en year_en 1950_en ._en
+people_en were_en walking_en around_en obsessed_en ._en
+they_en could_en n't_en stop_en talking_en about_en all_en the_en things_en they_en did_en in_en 1950_en ,_en all_en the_en things_en they_en were_en planning_en to_en do_en in_en 1950_en ,_en all_en the_en dreams_en of_en what_en they_en wanted_en to_en accomplish_en in_en 1950_en ._en
+in_en fact_en ,_en 1950_en was_en so_en fascinating_en that_en for_en years_en thereafter_en ,_en people_en just_en kept_en talking_en about_en all_en the_en amazing_en things_en that_en happened_en ,_en in_en '51_en ,_en '52_en ,_en '53_en ._en
+finally_en in_en 1954_en ,_en someone_en woke_en up_en and_en realized_en that_en 1950_en had_en gotten_en somewhat_en passé_en ._en
+and_en just_en like_en that_en ,_en the_en bubble_en burst_en ._en
+and_en the_en story_en of_en 1950_en is_en the_en story_en of_en every_en year_en that_en we_en have_en on_en record_en ,_en with_en a_en little_en twist_en ,_en because_en now_en we_en 've_en got_en these_en nice_en charts_en ._en
+and_en because_en we_en have_en these_en nice_en charts_en ,_en we_en can_en measure_en things_en ._en
+we_en can_en say_en ,_en "_en well_en how_en fast_en does_en the_en bubble_en burst_en ?_en "_en and_en it_en turns_en out_en that_en we_en can_en measure_en that_en very_en precisely_en ._en
+equations_en were_en derived_en ,_en graphs_en were_en produced_en ,_en and_en the_en net_en result_en is_en that_en we_en find_en that_en the_en bubble_en bursts_en faster_en and_en faster_en with_en each_en passing_en year_en ._en
+we_en are_en losing_en interest_en in_en the_en past_en more_en rapidly_en ._en
+jm_en :_en now_en a_en little_en piece_en of_en career_en advice_en ._en
+so_en for_en those_en of_en you_en who_en seek_en to_en be_en famous_en ,_en we_en can_en learn_en from_en the_en 25_en most_en famous_en political_en figures_en ,_en authors_en ,_en actors_en and_en so_en on_en ._en
+so_en if_en you_en want_en to_en become_en famous_en early_en on_en ,_en you_en should_en be_en an_en actor_en ,_en because_en then_en fame_en starts_en rising_en by_en the_en end_en of_en your_en 20s_en --_en you_en 're_en still_en young_en ,_en it_en 's_en really_en great_en ._en
+now_en if_en you_en can_en wait_en a_en little_en bit_en ,_en you_en should_en be_en an_en author_en ,_en because_en then_en you_en rise_en to_en very_en great_en heights_en ,_en like_en mark_en twain_en ,_en for_en instance_en :_en extremely_en famous_en ._en
+but_en if_en you_en want_en to_en reach_en the_en very_en top_en ,_en you_en should_en delay_en gratification_en and_en ,_en of_en course_en ,_en become_en a_en politician_en ._en
+so_en here_en you_en will_en become_en famous_en by_en the_en end_en of_en your_en 50s_en ,_en and_en become_en very_en ,_en very_en famous_en afterward_en ._en
+so_en scientists_en also_en tend_en to_en get_en famous_en when_en they_en 're_en much_en older_en ._en
+like_en for_en instance_en ,_en biologists_en and_en physics_en tend_en to_en be_en almost_en as_en famous_en as_en actors_en ._en
+one_en mistake_en you_en should_en not_en do_en is_en become_en a_en mathematician_en ._en
+if_en you_en do_en that_en ,_en you_en might_en think_en ,_en "_en oh_en great_en ._en i_en 'm_en going_en to_en do_en my_en best_en work_en when_en i_en 'm_en in_en my_en 20s_en ._en "_en but_en guess_en what_en ,_en nobody_en will_en really_en care_en ._en
+ela_en :_en there_en are_en more_en sobering_en notes_en among_en the_en n_en -_en grams_en ._en
+for_en instance_en ,_en here_en 's_en the_en trajectory_en of_en marc_en chagall_en ,_en an_en artist_en born_en in_en 1887_en ._en
+and_en this_en looks_en like_en the_en normal_en trajectory_en of_en a_en famous_en person_en ._en
+he_en gets_en more_en and_en more_en and_en more_en famous_en ,_en except_en if_en you_en look_en in_en german_en ._en
+if_en you_en look_en in_en german_en ,_en you_en see_en something_en completely_en bizarre_en ,_en something_en you_en pretty_en much_en never_en see_en ,_en which_en is_en he_en becomes_en extremely_en famous_en and_en then_en all_en of_en a_en sudden_en plummets_en ,_en going_en through_en a_en nadir_en between_en 1933_en and_en 1945_en ,_en before_en rebounding_en afterward_en ._en
+and_en of_en course_en ,_en what_en we_en 're_en seeing_en is_en the_en fact_en marc_en chagall_en was_en a_en jewish_en artist_en in_en nazi_en germany_en ._en
+now_en these_en signals_en are_en actually_en so_en strong_en that_en we_en do_en n't_en need_en to_en know_en that_en someone_en was_en censored_en ._en
+we_en can_en actually_en figure_en it_en out_en using_en really_en basic_en signal_en processing_en ._en
+here_en 's_en a_en simple_en way_en to_en do_en it_en ._en
+well_en ,_en a_en reasonable_en expectation_en is_en that_en somebody_en 's_en fame_en in_en a_en given_en period_en of_en time_en should_en be_en roughly_en the_en average_en of_en their_en fame_en before_en and_en their_en fame_en after_en ._en
+so_en that_en 's_en sort_en of_en what_en we_en expect_en ._en
+and_en we_en compare_en that_en to_en the_en fame_en that_en we_en observe_en ._en
+and_en we_en just_en divide_en one_en by_en the_en other_en to_en produce_en something_en we_en call_en a_en suppression_en index_en ._en
+if_en the_en suppression_en index_en is_en very_en ,_en very_en ,_en very_en small_en ,_en then_en you_en very_en well_en might_en be_en being_en suppressed_en ._en
+if_en it_en 's_en very_en large_en ,_en maybe_en you_en 're_en benefiting_en from_en propaganda_en ._en
+jm_en :_en now_en you_en can_en actually_en look_en at_en the_en distribution_en of_en suppression_en indexes_en over_en whole_en populations_en ._en
+so_en for_en instance_en ,_en here_en --_en this_en suppression_en index_en is_en for_en 5,000_en people_en picked_en in_en english_en books_en where_en there_en 's_en no_en known_en suppression_en --_en it_en would_en be_en like_en this_en ,_en basically_en tightly_en centered_en on_en one_en ._en
+what_en you_en expect_en is_en basically_en what_en you_en observe_en ._en
+this_en is_en distribution_en as_en seen_en in_en germany_en --_en very_en different_en ,_en it_en 's_en shifted_en to_en the_en left_en ._en
+people_en talked_en about_en it_en twice_en less_en as_en it_en should_en have_en been_en ._en
+but_en much_en more_en importantly_en ,_en the_en distribution_en is_en much_en wider_en ._en
+there_en are_en many_en people_en who_en end_en up_en on_en the_en far_en left_en on_en this_en distribution_en who_en are_en talked_en about_en 10_en times_en fewer_en than_en they_en should_en have_en been_en ._en
+but_en then_en also_en many_en people_en on_en the_en far_en right_en who_en seem_en to_en benefit_en from_en propaganda_en ._en
+this_en picture_en is_en the_en hallmark_en of_en censorship_en in_en the_en book_en record_en ._en
+ela_en :_en so_en culturomics_en is_en what_en we_en call_en this_en method_en ._en
+it_en 's_en kind_en of_en like_en genomics_en ._en
+except_en genomics_en is_en a_en lens_en on_en biology_en through_en the_en window_en of_en the_en sequence_en of_en bases_en in_en the_en human_en genome_en ._en
+culturomics_en is_en similar_en ._en
+it_en 's_en the_en application_en of_en massive_en -_en scale_en data_en collection_en analysis_en to_en the_en study_en of_en human_en culture_en ._en
+here_en ,_en instead_en of_en through_en the_en lens_en of_en a_en genome_en ,_en through_en the_en lens_en of_en digitized_en pieces_en of_en the_en historical_en record_en ._en
+the_en great_en thing_en about_en culturomics_en is_en that_en everyone_en can_en do_en it_en ._en
+why_en can_en everyone_en do_en it_en ?_en
+everyone_en can_en do_en it_en because_en three_en guys_en ,_en jon_en orwant_en ,_en matt_en gray_en and_en will_en brockman_en over_en at_en google_en ,_en saw_en the_en prototype_en of_en the_en ngram_en viewer_en ,_en and_en they_en said_en ,_en "_en this_en is_en so_en fun_en ._en
+we_en have_en to_en make_en this_en available_en for_en people_en ._en "_en so_en in_en two_en weeks_en flat_en --_en the_en two_en weeks_en before_en our_en paper_en came_en out_en --_en they_en coded_en up_en a_en version_en of_en the_en ngram_en viewer_en for_en the_en general_en public_en ._en
+and_en so_en you_en too_en can_en type_en in_en any_en word_en or_en phrase_en that_en you_en 're_en interested_en in_en and_en see_en its_en n_en -_en gram_en immediately_en --_en also_en browse_en examples_en of_en all_en the_en various_en books_en in_en which_en your_en n_en -_en gram_en appears_en ._en
+jm_en :_en now_en this_en was_en used_en over_en a_en million_en times_en on_en the_en first_en day_en ,_en and_en this_en is_en really_en the_en best_en of_en all_en the_en queries_en ._en
+so_en people_en want_en to_en be_en their_en best_en ,_en put_en their_en best_en foot_en forward_en ._en
+but_en it_en turns_en out_en in_en the_en 18th_en century_en ,_en people_en did_en n't_en really_en care_en about_en that_en at_en all_en ._en
+they_en did_en n't_en want_en to_en be_en their_en best_en ,_en they_en wanted_en to_en be_en their_en beft_en ._en
+so_en what_en happened_en is_en ,_en of_en course_en ,_en this_en is_en just_en a_en mistake_en ._en
+it_en 's_en not_en that_en strove_en for_en mediocrity_en ,_en
+it_en 's_en just_en that_en the_en s_en used_en to_en be_en written_en differently_en ,_en kind_en of_en like_en an_en f._en
+now_en of_en course_en ,_en google_en did_en n't_en pick_en this_en up_en at_en the_en time_en ,_en so_en we_en reported_en this_en in_en the_en science_en article_en that_en we_en wrote_en ._en
+but_en it_en turns_en out_en this_en is_en just_en a_en reminder_en that_en ,_en although_en this_en is_en a_en lot_en of_en fun_en ,_en when_en you_en interpret_en these_en graphs_en ,_en you_en have_en to_en be_en very_en careful_en ,_en and_en you_en have_en to_en adopt_en the_en base_en standards_en in_en the_en sciences_en ._en
+ela_en :_en people_en have_en been_en using_en this_en for_en all_en kinds_en of_en fun_en purposes_en ._en
+actually_en ,_en we_en 're_en not_en going_en to_en have_en to_en talk_en ,_en we_en 're_en just_en going_en to_en show_en you_en all_en the_en slides_en and_en remain_en silent_en ._en
+this_en person_en was_en interested_en in_en the_en history_en of_en frustration_en ._en
+there_en 's_en various_en types_en of_en frustration_en ._en
+if_en you_en stub_en your_en toe_en ,_en that_en 's_en a_en one_en a_en "_en argh_en ._en "_en
+if_en the_en planet_en earth_en is_en annihilated_en by_en the_en vogons_en to_en make_en room_en for_en an_en interstellar_en bypass_en ,_en that_en 's_en an_en eight_en a_en "_en aaaaaaaargh_en ._en "_en
+this_en person_en studies_en all_en the_en "_en arghs_en ,_en "_en from_en one_en through_en eight_en a_en 's_en ._en
+and_en it_en turns_en out_en that_en the_en less_en -_en frequent_en "_en arghs_en "_en are_en ,_en of_en course_en ,_en the_en ones_en that_en correspond_en to_en things_en that_en are_en more_en frustrating_en --_en except_en ,_en oddly_en ,_en in_en the_en early_en 80s_en ._en
+we_en think_en that_en might_en have_en something_en to_en do_en with_en reagan_en ._en jm_en :_en there_en are_en many_en usages_en of_en this_en data_en ,_en but_en the_en bottom_en line_en is_en that_en the_en historical_en record_en is_en being_en digitized_en ._en
+google_en has_en started_en to_en digitize_en 15_en million_en books_en ._en
+that_en 's_en 12_en percent_en of_en all_en the_en books_en that_en have_en ever_en been_en published_en ._en
+it_en 's_en a_en sizable_en chunk_en of_en human_en culture_en ._en
+there_en 's_en much_en more_en in_en culture_en :_en there_en 's_en manuscripts_en ,_en there_en newspapers_en ,_en there_en 's_en things_en that_en are_en not_en text_en ,_en like_en art_en and_en paintings_en ._en
+these_en all_en happen_en to_en be_en on_en our_en computers_en ,_en on_en computers_en across_en the_en world_en ._en
+and_en when_en that_en happens_en ,_en that_en will_en transform_en the_en way_en we_en have_en to_en understand_en our_en past_en ,_en our_en present_en and_en human_en culture_en ._en
+thank_en you_en very_en much_en ._en

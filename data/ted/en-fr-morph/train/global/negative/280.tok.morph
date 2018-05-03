@@ -1,0 +1,144 @@
+welcome	.	if	i	could	have	the	first	slide	,	 pleas 	 e 	 	?
+ contr 	 ary 	 	to	 calcul 	 ations 	 	made	by	some	 engineer 	 s 	 	,	bees	can	fly	,	 dolphin 	 s 	 	can	swim	,	and	 gecko 	 s 	 	can	even	climb	up	the	smoothest	 surface 	 s 	 	.	now	,	what	i	want	to	do	,	in	the	short	time	i	have	,	is	to	try	to	allow	each	of	you	to	experience	the	thrill	of	 reveal 	 ing 	 	nature	's	design	.
+i	get	to	do	 th 	 is 	 	all	the	time	,	and	it	's	just	 in 	 credible 	 	.
+i	want	to	try	to	share	just	a	little	bit	of	that	with	you	in	 th 	 is 	 	 present 	 ation 	 	.
+the	 challeng 	 e 	 	of	looking	at	nature	's	 design 	 s 	 	--	and	i	'll	tell	you	the	way	that	we	perceive	it	,	and	the	way	we	've	used	it	.
+the	 challeng 	 e 	 	,	of	course	,	is	to	answer	 th 	 is 	 	question	:	what	 permit 	 s 	 	 th 	 is 	 	 extra 	 ordin 	 ary 	 	performance	of	 animal 	 s 	 	that	 allow 	 s 	 	them	 bas 	 ically 	 	to	go	 any 	 where 	 	?
+and	if	we	could	figure	that	out	,	how	can	we	implement	 t 	 hose 	 	 design 	 s 	 	?
+well	,	 man 	 y 	 	 biologist 	 s 	 	will	tell	 engineer 	 s 	 	,	and	 other 	 s 	 	,	 organism 	 s 	 	have	 million 	 s 	 	of	 year 	 s 	 	to	get	it	right	;	they	're	spectacular	;	they	can	do	 every 	 thing 	 	 wonder 	 fully 	 	well	.
+so	,	the	answer	is	bio	-	mimicry	:	just	copy	nature	 direct 	 ly 	 	.
+we	know	from	 work 	 ing 	 	on	 animal 	 s 	 	that	the	truth	is	that	's	 exact 	 ly 	 	what	you	do	n't	want	to	do	--	 be 	 cause 	 	evolution	 work 	 s 	 	on	the	just	-	good	-	 en 	 ough 	 	principle	,	not	on	a	 perfect 	 ing 	 	principle	.
+and	the	 constraint 	 s 	 	in	building	any	organism	,	when	you	look	at	it	,	are	 re 	 ally 	 	severe	.	natural	 techno 	 logies 	 	have	 in 	 credible 	 	 constraint 	 s 	 	.
+think	about	it	.	if	you	 we 	 re 	 	an	engineer	and	i	told	you	that	you	had	to	build	an	 auto 	 mobile 	 	,	but	it	had	to	start	off	to	be	 th 	 is 	 	big	,	then	it	had	to	grow	to	be	full	 s 	 ize 	 	and	had	to	work	every	step	 a 	 long 	 	the	way	.
+or	think	about	the	fact	that	if	you	build	an	 auto 	 mobile 	 	,	i	'll	tell	you	that	you	 al 	 so 	 	--	 in 	 side 	 	it	--	have	to	put	a	 factor 	 y 	 	that	 allow 	 s 	 	you	to	make	 an 	 other 	 	 auto 	 mobile 	 	.
+and	you	can	 absolute 	 ly 	 	never	,	 absolute 	 ly 	 	never	,	 be 	 cause 	 	of	 histo 	 ry 	 	and	the	 inherit 	 ed 	 	plan	,	start	with	a	clean	 s 	 late 	 	.
+so	,	 organism 	 s 	 	have	 th 	 is 	 	 import 	 ant 	 	 histo 	 ry 	 	.
+ re 	 ally 	 	evolution	 work 	 s 	 	more	like	a	tinkerer	than	an	engineer	.
+and	 th 	 is 	 	is	 re 	 ally 	 	 import 	 ant 	 	when	you	begin	to	look	at	 animal 	 s 	 	.
+ in 	 stead 	 	,	we	 believ 	 e 	 	you	need	to	be	inspired	by	biology	.	you	need	to	discover	the	general	 principle 	 s 	 	of	nature	,	and	then	use	these	 analog 	 ies 	 	when	they	're	 advantage 	 ous 	 	.
+ th 	 is 	 	is	a	real	 challeng 	 e 	 	to	do	 th 	 is 	 	,	 be 	 cause 	 	 animal 	 s 	 	,	when	you	start	to	 re 	 ally 	 	look	 in 	 side 	 	them	--	how	they	work	--	appear	 hope 	 lessly 	 	complex	.	there	's	no	 detail 	 ed 	 	 histo 	 ry 	 	of	the	design	 plan 	 s 	 	,	you	ca	n't	go	look	it	up	 any 	 where 	 	.
+they	have	way	too	 man 	 y 	 	 motion 	 s 	 	for	 the 	 ir 	 	 joint 	 s 	 	,	too	 man 	 y 	 	 muscle 	 s 	 	.	even	the	 simpl 	 est 	 	animal	we	think	of	,	 some 	 thing 	 	like	an	insect	,	and	they	have	more	 neuro 	 ns 	 	and	 connect 	 ions 	 	than	you	can	imagine	.
+how	can	you	make	sense	of	 th 	 is 	 	?	well	,	we	 believ 	 ed 	 	--
+and	we	 hypothesize 	 d 	 	--	that	one	way	 animal 	 s 	 	could	work	 simpl 	 y 	 	,	is	if	the	control	of	 the 	 ir 	 	 move 	 ments 	 	 tend 	 ed 	 	to	be	built	 in 	 to 	 	 the 	 ir 	 	bodies	 them 	 s 	 elves 	 	.
+what	we	 discover 	 ed 	 	was	that	two	-	,	four	-	,	six	-	and	eight	-	legged	 animal 	 s 	 	all	produce	the	same	 force 	 s 	 	on	the	ground	when	they	move	.
+they	all	work	like	 th 	 is 	 	kangaroo	,	they	 bounc 	 e 	 	.
+and	they	can	be	 model 	 ed 	 	by	a	spring	-	mass	system	that	we	call	the	spring	mass	system	 be 	 cause 	 	we	're	biomechanists	.	it	's	 actual 	 ly 	 	a	 po 	 go 	 	stick	.
+they	all	produce	the	pattern	of	a	 po 	 go 	 	stick	.	how	is	that	true	?
+well	,	a	human	,	one	of	your	 leg 	 s 	 	 work 	 s 	 	like	two	 leg 	 s 	 	of	a	trotting	dog	,	or	 work 	 s 	 	like	three	 leg 	 s 	 	,	together	 a 	 s 	 	one	,	of	a	trotting	insect	,	or	four	 leg 	 s 	 	 a 	 s 	 	one	of	a	trotting	crab	.
+and	then	they	alternate	in	 the 	 ir 	 	 pro 	 pulsion 	 	,	but	the	 pattern 	 s 	 	are	all	the	same	.	 al 	 most 	 	every	organism	we	've	 look 	 ed 	 	at	 th 	 is 	 	way	--	you	'll	see	next	week	,	i	'll	give	you	a	hint	,	there	'll	be	an	article	coming	out	that	 say 	 s 	 	that	 re 	 ally 	 	big	 thing 	 s 	 	like	t.	 r 	 ex 	 	 prob 	 ably 	 	could	n't	do	 th 	 is 	 	,	but	you	'll	see	that	next	week	.
+now	,	what	's	 interest 	 ing 	 	is	the	 animal 	 s 	 	,	then	--	we	 s 	 aid 	 	--	 bounc 	 e 	 	 a 	 long 	 	the	 vert 	 ical 	 	plane	 th 	 is 	 	way	,	and	in	our	 collabor 	 ations 	 	with	pixar	,	in	``	a	bug	's	life	,	``	we	 discuss 	 ed 	 	the	bipedal	nature	of	the	 character 	 s 	 	of	the	ants	.
+and	we	told	them	,	of	course	,	they	move	in	 an 	 other 	 	plane	 a 	 s 	 	well	.	and	they	 ask 	 ed 	 	us	 th 	 is 	 	question	.	they	say	,	``	why	model	just	in	the	sagittal	plane	or	the	 vert 	 ical 	 	plane	,	when	you	're	 tell 	 ing 	 	us	these	 animal 	 s 	 	are	moving	in	the	 horizon 	 tal 	 	plane	?	``	 th 	 is 	 	is	a	good	question	.
+ no 	 body 	 	in	biology	ever	 model 	 ed 	 	it	 th 	 is 	 	way	.
+we	took	 the 	 ir 	 	 ad 	 vice 	 	and	we	 model 	 ed 	 	the	 animal 	 s 	 	moving	in	the	 horizon 	 tal 	 	plane	 a 	 s 	 	well	.	we	took	 the 	 ir 	 	three	 leg 	 s 	 	,	we	 collapse 	 d 	 	them	down	 a 	 s 	 	one	.	we	got	some	of	the	best	 mathematic 	 ians 	 	in	the	world	from	princeton	to	work	on	 th 	 is 	 	problem	.
+and	we	 we 	 re 	 	able	to	create	a	model	where	 animal 	 s 	 	are	not	 on 	 ly 	 	 bounc 	 ing 	 	up	and	down	,	but	they	're	 al 	 so 	 	 bounc 	 ing 	 	side	to	side	at	the	same	time	.
+and	 man 	 y 	 	 organism 	 s 	 	fit	 th 	 is 	 	kind	of	pattern	.
+now	,	why	is	 th 	 is 	 	 import 	 ant 	 	to	have	 th 	 is 	 	model	?
+ be 	 cause 	 	it	's	 ver 	 y 	 	 interest 	 ing 	 	.	when	you	take	 th 	 is 	 	model	and	you	perturb	it	,	you	give	it	a	push	,	 a 	 s 	 	it	 bump 	 s 	 	 in 	 to 	 	 some 	 thing 	 	,	it	self	-	 stabil 	 ize 	 s 	 	,	with	no	brain	or	no	 re 	 flex 	 es 	 	,	just	by	the	structure	 al 	 one 	 	.
+it	's	a	 beaut 	 iful 	 	model	.	let	's	look	at	the	 mathematic 	 s 	 	.	that	's	 en 	 ough 	 	!
+the	 animal 	 s 	 	,	when	you	look	at	them	running	,	appear	to	be	self	-	stabilizing	like	 th 	 is 	 	,	using	 bas 	 ically 	 	springy	 leg 	 s 	 	.	that	is	,	the	 leg 	 s 	 	can	do	 computation 	 s 	 	on	 the 	 ir 	 	own	;	the	control	 algorithm 	 s 	 	,	in	a	sense	,	are	 embed 	 d 	 ed 	 	in	the	form	of	the	animal	 it 	 self 	 	.
+why	have	n't	we	 be 	 en 	 	more	inspired	by	nature	and	these	 kind 	 s 	 	of	 discover 	 ies 	 	?
+well	,	i	would	 argu 	 e 	 	that	human	 techno 	 logies 	 	are	 re 	 ally 	 	different	from	natural	 techno 	 logies 	 	,	at	 l 	 east 	 	they	have	 be 	 en 	 	so	far	.
+think	about	the	typical	kind	of	robot	that	you	see	.
+human	 techno 	 logies 	 	have	 tend 	 ed 	 	to	be	large	,	flat	,	with	right	 angle 	 s 	 	,	stiff	,	made	of	metal	.	they	have	 roll 	 ing 	 	 de 	 vice 	 s 	 	and	 axle 	 s 	 	.	there	are	 ver 	 y 	 	few	 motor 	 s 	 	,	 ver 	 y 	 	few	 sensor 	 s 	 	.
+ where 	 a 	 s 	 	nature	 tend 	 s 	 	to	be	small	,	and	 curv 	 ed 	 	,	and	it	 bend 	 s 	 	and	 twist 	 s 	 	,	and	 ha 	 s 	 	 leg 	 s 	 	 in 	 stead 	 	,	and	appendages	,	and	 ha 	 s 	 	 man 	 y 	 	 muscle 	 s 	 	and	 man 	 y 	 	,	 man 	 y 	 	 sensor 	 s 	 	.
+so	it	's	a	 ver 	 y 	 	different	design	.	 how 	 ever 	 	,	what	's	changing	,	what	's	 re 	 ally 	 	 excit 	 ing 	 	--	and	i	'll	show	you	some	of	that	next	--	is	that	 a 	 s 	 	human	technology	 take 	 s 	 	on	more	of	the	 character 	 istic 	 s 	 	of	nature	,	then	nature	 re 	 ally 	 	can	 be 	 come 	 	a	much	more	 use 	 ful 	 	teacher	.
+and	here	's	one	 ex 	 ample 	 	that	's	 re 	 ally 	 	 excit 	 ing 	 	.
+ th 	 is 	 	is	a	 collabor 	 ation 	 	we	have	with	stanford	.
+and	they	 develop 	 ed 	 	 th 	 is 	 	new	 techni 	 que 	 	,	 call 	 ed 	 	shape	 de 	 position 	 	 manufactur 	 ing 	 	.	it	's	a	 techni 	 que 	 	where	they	can	mix	 material 	 s 	 	together	and	mold	any	shape	that	they	like	,	and	put	in	the	material	 proper 	 ties 	 	.
+they	can	embed	 sensor 	 s 	 	and	 actu 	 ators 	 	right	in	the	form	 it 	 self 	 	.
+for	 ex 	 ample 	 	,	here	's	a	leg	:	the	clear	part	is	stiff	,	the	white	part	is	 com 	 pli 	 ant 	 	,	and	you	do	n't	need	any	 axle 	 s 	 	there	or	 any 	 thing 	 	.
+it	just	 bend 	 s 	 	by	 it 	 self 	 	 beaut 	 i 	 fully 	 	.
+so	,	you	can	put	 t 	 hose 	 	 proper 	 ties 	 	in	.	it	inspired	them	to	show	off	 th 	 is 	 	design	by	producing	a	little	robot	they	named	sprawl	.
+our	work	 ha 	 s 	 	 al 	 so 	 	inspired	 an 	 other 	 	robot	,	a	 bio 	 logically 	 	inspired	 bounc 	 ing 	 	robot	,	from	the	university	of	michigan	and	mcgill	named	rhex	,	for	robot	 hexa 	 pod 	 	,	and	 th 	 is 	 	one	's	autonomous	.
+let	's	go	to	the	video	,	and	let	me	show	you	some	of	these	 animal 	 s 	 	moving
+and	then	some	of	the	simple	 robot 	 s 	 	that	have	 be 	 en 	 	inspired	by	our	 discover 	 ies 	 	.
+here	's	what	some	of	you	did	 th 	 is 	 	 morn 	 ing 	 	,	 al 	 th 	 ough 	 	you	did	it	 out 	 side 	 	,	not	on	a	 tread 	 mill 	 	.
+here	's	what	we	do	.	 th 	 is 	 	is	a	death	's	head	 cock 	 roach 	 	.	 th 	 is 	 	is	an	american	 cock 	 roach 	 	you	think	you	do	n't	have	in	your	kitchen	.
+ th 	 is 	 	is	an	eight	-	legged	scorpion	,	six	-	legged	ant	,	forty	-	four	-	legged	 cent 	 ipede 	 	.
+now	,	i	 s 	 aid 	 	all	these	 animal 	 s 	 	are	sort	of	 work 	 ing 	 	like	 po 	 go 	 	 stick 	 s 	 	--	they	're	 bounc 	 ing 	 	 a 	 long 	 	 a 	 s 	 	they	move	.	and	you	can	see	that	in	 th 	 is 	 	ghost	crab	,	from	the	 beach 	 es 	 	of	panama	and	north	carolina	.
+it	 go 	 es 	 	up	to	four	 meter 	 s 	 	per	second	when	it	 run 	 s 	 	.
+it	 actual 	 ly 	 	 leap 	 s 	 	 in 	 to 	 	the	air	,	and	 ha 	 s 	 	 a 	 erial 	 	 phase 	 s 	 	when	it	 do 	 es 	 	it	,	like	a	horse	,	and	you	'll	see	it	's	 bounc 	 ing 	 	here	.
+what	we	 discover 	 ed 	 	is	 whet 	 her 	 	you	look	at	the	leg	of	a	human	like	richard	,	or	a	 cock 	 roach 	 	,	or	a	crab	,	or	a	kangaroo	,	the	 relat 	 ive 	 	leg	stiffness	of	that	spring	is	the	same	for	 every 	 thing 	 	we	've	 s 	 een 	 	so	far	.
+now	,	what	good	are	springy	 leg 	 s 	 	then	?	what	can	they	do	?
+well	,	we	 want 	 ed 	 	to	see	if	they	 allow 	 ed 	 	the	 animal 	 s 	 	to	have	 great 	 er 	 	 st 	 ability 	 	and	 maneuver 	 ability 	 	.
+so	,	we	built	a	 terra 	 in 	 	that	had	 obstacle 	 s 	 	three	 time 	 s 	 	the	hip	height	of	the	 animal 	 s 	 	that	we	're	looking	at	.	and	we	 we 	 re 	 	certain	they	could	n't	do	 th 	 is 	 	.	and	here	's	what	they	did	.
+the	animal	ran	over	it	and	it	did	n't	even	 s 	 low 	 	down	!
+it	did	n't	 de 	 crease 	 	 it 	 s 	 	 prefer 	 red 	 	speed	at	all	.
+we	could	n't	 believ 	 e 	 	that	it	could	do	 th 	 is 	 	.	it	 s 	 aid 	 	to	us	that	if	you	could	build	a	robot	with	 ver 	 y 	 	simple	,	springy	 leg 	 s 	 	,	you	could	make	it	 a 	 s 	 	maneuverable	 a 	 s 	 	any	that	's	ever	 be 	 en 	 	built	.
+here	's	the	first	 ex 	 ample 	 	of	that	.	 th 	 is 	 	is	the	stanford	shape	 de 	 position 	 	 manufactur 	 ed 	 	robot	,	named	sprawl	.
+it	 ha 	 s 	 	six	 leg 	 s 	 	--	there	are	the	tuned	,	springy	 leg 	 s 	 	.
+it	 move 	 s 	 	in	a	 ga 	 it 	 	that	an	insect	uses	,	and	here	it	is	going	on	the	 tread 	 mill 	 	.	now	,	what	's	 import 	 ant 	 	about	 th 	 is 	 	robot	,	 compar 	 ed 	 	to	other	 robot 	 s 	 	,	is	that	it	ca	n't	see	 any 	 thing 	 	,	it	ca	n't	feel	 any 	 thing 	 	,	it	 do 	 es 	 	n't	have	a	brain	,	yet	it	can	maneuver	over	these	 obstacle 	 s 	 	 with 	 out 	 	any	 difficult 	 y 	 	 what 	 so 	 ever 	 	.
+it	's	 th 	 is 	 	 techni 	 que 	 	of	building	the	 proper 	 ties 	 	 in 	 to 	 	the	form	.
+ th 	 is 	 	is	a	graduate	student	.	 th 	 is 	 	is	what	he	's	 do 	 ing 	 	to	his	thesis	project	--	 ver 	 y 	 	 ro 	 bust 	 	,	if	a	graduate	student	 do 	 es 	 	that	to	his	thesis	project	.
+ th 	 is 	 	is	from	mcgill	and	university	of	michigan	.	 th 	 is 	 	is	the	rhex	,	making	 it 	 s 	 	first	 out 	 ing 	 	in	a	demo	.
+same	principle	:	it	 on 	 ly 	 	 ha 	 s 	 	six	moving	 part 	 s 	 	,
+six	 motor 	 s 	 	,	but	it	 ha 	 s 	 	springy	,	tuned	 leg 	 s 	 	.	it	 move 	 s 	 	in	the	 ga 	 it 	 	of	the	insect	.	it	 ha 	 s 	 	the	middle	leg	moving	in	 synchron 	 y 	 	with	the	front	,	and	the	hind	leg	on	the	other	side	.	sort	of	an	 alter 	 nating 	 	 tri 	 pod 	 	,	and	they	can	 negoti 	 ate 	 	 obstacle 	 s 	 	just	like	the	animal	.
+robert	full	:	it	'll	go	on	different	 surface 	 s 	 	--	here	's	sand	--	 al 	 th 	 ough 	 	we	have	n't	 perfect 	 ed 	 	the	feet	yet	,	but	i	'll	talk	about	that	 lat 	 er 	 	.
+here	's	rhex	 enter 	 ing 	 	the	 wood 	 s 	 	.
+ aga 	 in 	 	,	 th 	 is 	 	robot	ca	n't	see	 any 	 thing 	 	,	it	ca	n't	feel	 any 	 thing 	 	,	it	 ha 	 s 	 	no	brain	.	it	's	just	 work 	 ing 	 	with	a	tuned	 mechanic 	 al 	 	system	,	with	 ver 	 y 	 	simple	 part 	 s 	 	,	but	inspired	from	the	fundamental	 dynamic 	 s 	 	of	the	animal	.
+rf	:	here	's	it	going	down	a	 path 	 way 	 	.
+i	 present 	 ed 	 	 th 	 is 	 	to	the	jet	 pro 	 pulsion 	 	lab	at	nasa	,	and	they	 s 	 aid 	 	that	they	had	no	ability	to	go	down	 crat 	 ers 	 	to	look	for	ice	,	and	life	,	 ultimate 	 ly 	 	,	on	mars	.	and	he	 s 	 aid 	 	--	 e 	 special 	 ly 	 	with	legged	-	 robot 	 s 	 	,	 be 	 cause 	 	they	're	way	too	 complic 	 ated 	 	.
+ noth 	 ing 	 	can	do	that	.	and	i	talk	next	.	i	 show 	 ed 	 	them	 th 	 is 	 	video	with	the	simple	design	of	rhex	here	.	and	just	to	 con 	 vince 	 	them	we	should	go	to	mars	in	2011	,	i	 tin 	 ted 	 	the	video	 o 	 range 	 	just	to	give	them	the	sense	of	 be 	 ing 	 	on	mars	.
+ an 	 other 	 	reason	why	 animal 	 s 	 	have	 extra 	 ordin 	 ary 	 	performance	,	and	can	go	 any 	 where 	 	,	is	 be 	 cause 	 	they	have	an	effective	 interact 	 ion 	 	with	the	environment	.	the	animal	i	'm	going	to	show	you	,	that	we	 stud 	 ied 	 	to	look	at	 th 	 is 	 	,	is	the	gecko	.
+we	have	one	here	and	notice	 it 	 s 	 	position	.	it	's	 hold 	 ing 	 	on	.
+now	i	'm	going	to	 challeng 	 e 	 	you	.	i	'm	going	show	you	a	video	.
+one	of	the	 animal 	 s 	 	is	going	to	be	running	on	the	level	,	and	the	other	one	's	going	to	be	running	up	a	wall	.	which	one	's	which	?
+they	're	going	at	a	meter	a	second	.	how	 man 	 y 	 	think	the	one	on	the	left	is	running	up	the	wall	?
+ ok 	 a 	 y 	 	.	the	point	is	it	's	 re 	 ally 	 	hard	to	tell	,	is	n't	it	?	it	's	 in 	 credible 	 	,	we	 look 	 ed 	 	at	 student 	 s 	 	do	 th 	 is 	 	and	they	could	n't	tell	.
+they	can	run	up	a	wall	at	a	meter	a	second	,	15	 step 	 s 	 	per	second	,	and	they	look	like	they	're	running	on	the	level	.	how	do	they	do	 th 	 is 	 	?
+it	's	just	 phenomen 	 al 	 	.	the	one	on	the	right	was	going	up	the	hill	.
+how	do	they	do	 th 	 is 	 	?	they	have	bizarre	 to 	 es 	 	.	they	have	 to 	 es 	 	that	uncurl	like	party	 favor 	 s 	 	when	you	blow	them	out	,	and	then	peel	off	the	surface	,	like	tape	.
+like	if	we	had	a	piece	of	tape	now	,	we	'd	peel	it	 th 	 is 	 	way	.
+they	do	 th 	 is 	 	with	 the 	 ir 	 	 to 	 es 	 	.	it	's	bizarre	!	 th 	 is 	 	 peel 	 ing 	 	inspired	irobot	--	that	we	work	with	--	to	build	mecho	-	 gecko 	 s 	 	.
+here	's	a	legged	version	and	a	 tract 	 or 	 	version	,	or	a	 bulldoze 	 r 	 	version	.
+let	's	see	some	of	the	 gecko 	 s 	 	move	with	some	video	,	and	then	i	'll	show	you	a	little	bit	of	a	clip	of	the	 robot 	 s 	 	.
+here	's	the	gecko	running	up	a	 vert 	 ical 	 	surface	.	there	it	 go 	 es 	 	,	in	real	time	.	there	it	 go 	 es 	 	 aga 	 in 	 	.	 obvious 	 ly 	 	,	we	have	to	 s 	 low 	 	 th 	 is 	 	down	a	little	bit	.
+you	ca	n't	use	regular	 camera 	 s 	 	.
+you	have	to	take	1,000	 picture 	 s 	 	per	second	to	see	 th 	 is 	 	.
+and	here	's	some	video	at	1,000	 frame 	 s 	 	per	second	.
+now	,	i	want	you	to	look	at	the	animal	's	back	.
+do	you	see	how	much	it	's	 bend 	 ing 	 	like	that	?	we	ca	n't	figure	that	out	--	that	's	an	 un 	 solve 	 d 	 	 myster 	 y 	 	.	we	do	n't	know	how	it	 work 	 s 	 	.
+if	you	have	a	son	or	a	daughter	that	 want 	 s 	 	to	come	to	berkeley	,	come	to	my	lab	and	we	'll	figure	 th 	 is 	 	out	.	 ok 	 a 	 y 	 	,	 s 	 end 	 	them	to	berkeley	 be 	 cause 	 	that	's	the	next	thing	i	want	to	do	.	here	's	the	gecko	mill	.
+it	's	a	see	-	through	 tread 	 mill 	 	with	a	see	-	through	 tread 	 mill 	 	belt	,	so	we	can	watch	the	animal	's	feet	,	and	 video 	 tape 	 	them	through	the	 tread 	 mill 	 	belt	,	to	see	how	they	move	.
+here	's	the	animal	that	we	have	here	,	running	on	a	 vert 	 ical 	 	surface	.	pick	a	foot	and	try	to	watch	a	 to 	 e 	 	,	and	see	if	you	can	see	what	the	animal	's	 do 	 ing 	 	.
+see	it	uncurl	and	then	peel	these	 to 	 es 	 	.
+it	can	do	 th 	 is 	 	in	14	 milli 	 second 	 s 	 	.	it	's	 un 	 believ 	 able 	 	.
+here	are	the	 robot 	 s 	 	that	they	inspire	,	the	mecho	-	 gecko 	 s 	 	from	irobot	.
+first	we	'll	see	the	 animal 	 s 	 	 to 	 es 	 	 peel 	 ing 	 	--	look	at	that	.
+and	here	's	the	 peel 	 ing 	 	action	of	the	mecho	-	gecko	.	it	uses	a	pressure	-	sensitive	 ad 	 he 	 s 	 ive 	 	to	do	it	.
+ peel 	 ing 	 	in	the	animal	.	 peel 	 ing 	 	in	the	mecho	-	gecko	--	that	 allow 	 s 	 	them	climb	 autonomous 	 ly 	 	.	can	go	on	the	flat	surface	,	 transit 	 ion 	 	to	a	wall	,	and	then	go	onto	a	 ceil 	 ing 	 	.
+there	's	the	 bulldoze 	 r 	 	version	.	now	,	it	 do 	 es 	 	n't	use	pressure	-	sensitive	glue	.
+the	animal	 do 	 es 	 	not	use	that	.
+but	that	's	what	we	're	 limit 	 ed 	 	to	,	at	the	moment	.
+what	 do 	 es 	 	the	animal	do	?	the	animal	 ha 	 s 	 	weird	 to 	 es 	 	.	and	if	you	look	at	the	 to 	 es 	 	,	they	have	these	little	 leav 	 es 	 	there	,	and	if	you	blow	them	up	and	zoom	in	,	you	'll	see	that	's	there	's	little	 s 	 tri 	 ations 	 	in	these	 leav 	 es 	 	.
+and	if	you	zoom	in	270	 time 	 s 	 	,	you	'll	see	it	 look 	 s 	 	like	a	rug	.
+and	if	you	blow	that	up	,	and	zoom	in	900	 time 	 s 	 	,	you	see	there	are	 hair 	 s 	 	there	,	 tin 	 y 	 	 hair 	 s 	 	.	and	if	you	look	 care 	 fully 	 	,	 t 	 hose 	 	 tin 	 y 	 	 hair 	 s 	 	have	 s 	 tri 	 ations 	 	.	and	if	you	zoom	in	on	 t 	 hose 	 	30,000	 time 	 s 	 	,	you	'll	see	each	hair	 ha 	 s 	 	split	 end 	 s 	 	.
+and	if	you	blow	 t 	 hose 	 	up	,	they	have	these	little	 structure 	 s 	 	on	the	end	.
+the	 small 	 est 	 	branch	of	the	 hair 	 s 	 	 look 	 s 	 	like	spatulae	,	and	an	animal	like	that	 ha 	 s 	 	one	billion	of	these	nano	-	 s 	 ize 	 	split	 end 	 s 	 	,
+to	get	 ver 	 y 	 	close	to	the	surface	.	in	fact	,	there	's	the	 dia 	 meter 	 	of	your	hair	--	a	gecko	 ha 	 s 	 	two	million	of	these	,	and	each	hair	 ha 	 s 	 	100	to	1,000	split	 end 	 s 	 	.
+think	of	the	contact	of	that	that	's	possible	.
+we	 we 	 re 	 	fortunate	to	work	with	 an 	 other 	 	group	at	stanford	that	built	us	a	special	 mann 	 ed 	 	sensor	,	that	we	 we 	 re 	 	able	to	measure	the	force	of	an	individual	hair	.
+here	's	an	individual	hair	with	a	little	split	end	there	.	when	we	 measur 	 ed 	 	the	 force 	 s 	 	,	they	 we 	 re 	 	enormous	.	they	 we 	 re 	 	so	large	that	a	patch	of	 hair 	 s 	 	about	 th 	 is 	 	 s 	 ize 	 	--	the	gecko	's	foot	could	support	the	weight	of	a	small	child	,	about	40	 pound 	 s 	 	,	 eas 	 ily 	 	.	now	,	how	do	they	do	it	?
+we	've	 re 	 cent 	 ly 	 	 discover 	 ed 	 	 th 	 is 	 	.	do	they	do	it	by	friction	?
+no	,	force	is	too	low	.	do	they	do	it	by	electrostatics	?
+no	,	you	can	change	the	charge	--	they	still	hold	on	.
+do	they	do	it	by	 inter 	 lock 	 ing 	 	?	that	's	kind	of	a	like	a	velcro	-	like	thing	.
+no	,	you	can	put	them	on	 mole 	 cular 	 	smooth	 surface 	 s 	 	--	they	do	n't	do	it	.
+how	about	 su 	 ction 	 	?	they	stick	on	in	a	vacuum	.
+how	about	wet	adhesion	?	or	 cap 	 ill 	 ary 	 	adhesion	?
+they	do	n't	have	any	glue	,	and	they	even	stick	under	water	just	fine	.
+if	you	put	 the 	 ir 	 	foot	under	water	,	they	grab	on	.
+how	do	they	do	it	then	?	 believ 	 e 	 	it	or	not	,	they	grab	on	by	 inter 	 mole 	 cular 	 	 force 	 s 	 	,	by	van	der	waals	 force 	 s 	 	.
+you	know	,	you	 prob 	 ably 	 	had	 th 	 is 	 	a	long	time	ago	in	 chemist 	 ry 	 	,	where	you	had	these	two	 atom 	 s 	 	,	they	're	close	together	,	and	the	 electron 	 s 	 	are	moving	around	.	that	 tin 	 y 	 	force	is	sufficient	to	allow	them	to	do	that	 be 	 cause 	 	it	's	 add 	 ed 	 	up	so	 man 	 y 	 	 time 	 s 	 	with	these	small	 structure 	 s 	 	.
+what	we	're	 do 	 ing 	 	is	,	we	're	taking	that	inspiration	of	the	 hair 	 s 	 	,	and	with	 an 	 other 	 	 col 	 league 	 	at	berkeley	,	we	're	 manufactur 	 ing 	 	them	.
+and	just	 re 	 cent 	 ly 	 	we	've	made	a	 break 	 through 	 	,	where	we	now	 believ 	 e 	 	we	're	going	to	be	able	to	create	the	first	synthetic	,	self	-	 clean 	 ing 	 	,
+dry	 ad 	 he 	 s 	 ive 	 	.	 man 	 y 	 	 com 	 pan 	 ies 	 	are	 interest 	 ed 	 	in	 th 	 is 	 	.
+we	 al 	 so 	 	 present 	 ed 	 	to	nike	even	.
+we	'll	see	where	 th 	 is 	 	 go 	 es 	 	.	we	 we 	 re 	 	so	 excit 	 ed 	 	about	 th 	 is 	 	that	we	 real 	 ized 	 	that	that	small	-	 s 	 ize 	 	scale	--	and	where	 every 	 thing 	 	 get 	 s 	 	 stick 	 y 	 	,	and	 gravit 	 y 	 	 do 	 es 	 	n't	matter	 any 	 more 	 	--	we	 need 	 ed 	 	to	look	at	ants	and	 the 	 ir 	 	feet	,	 be 	 cause 	 	one	of	my	other	 col 	 league 	 s 	 	at	berkeley	 ha 	 s 	 	built	a	six	-	millimeter	 silicon 	 e 	 	robot	with	 leg 	 s 	 	.	but	it	 get 	 s 	 	 s 	 tuck 	 	.	it	 do 	 es 	 	n't	move	 ver 	 y 	 	well	.
+but	the	ants	do	,	and	we	'll	figure	out	why	,	so	that	 ultimate 	 ly 	 	we	'll	make	 th 	 is 	 	move	.	and	imagine	:	you	're	going	to	be	able	to	have	 s 	 warm 	 s 	 	of	these	six	-	millimeter	 robot 	 s 	 	 avail 	 able 	 	to	run	around	.
+where	's	 th 	 is 	 	going	?	i	think	you	can	see	it	 al 	 ready 	 	.
+ clear 	 ly 	 	,	the	 inter 	 net 	 	is	 al 	 ready 	 	 hav 	 ing 	 	 eye 	 s 	 	and	 ear 	 s 	 	,	you	have	web	 cam 	 s 	 	and	so	forth	.	but	it	's	going	to	 al 	 so 	 	have	 leg 	 s 	 	and	 hand 	 s 	 	.
+you	're	going	to	be	able	to	do	 programm 	 able 	 	work	through	these	 kind 	 s 	 	of	 robot 	 s 	 	,	so	that	you	can	run	,	fly	and	swim	 any 	 where 	 	.	we	saw	david	kelly	is	at	the	 begin 	 ning 	 	of	that	with	his	fish	.
+so	,	in	 con 	 clusion 	 	,	i	think	the	 mess 	 age 	 	is	clear	.
+if	you	need	a	 mess 	 age 	 	,	if	nature	's	not	 en 	 ough 	 	,	if	you	care	about	search	and	 rescu 	 e 	 	,	or	mine	 clear 	 ance 	 	,	or	medicine	,	or	the	 vari 	 ous 	 	 thing 	 s 	 	we	're	 work 	 ing 	 	on	,	we	must	preserve	nature	's	 design 	 s 	 	,	 other 	 wise 	 	these	 secret 	 s 	 	will	be	lost	 fore 	 ver 	 	.
+

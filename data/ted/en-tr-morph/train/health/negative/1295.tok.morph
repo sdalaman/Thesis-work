@@ -1,0 +1,223 @@
+how	 man 	 y 	 	of	you	had	to	fill	out	some	sort	of	web	form	where	you	've	 be 	 en 	 	 ask 	 ed 	 	to	read	a	 distort 	 ed 	 	sequence	of	 character 	 s 	 	like	 th 	 is 	 	?
+how	 man 	 y 	 	of	you	found	it	 re 	 ally 	 	,	 re 	 ally 	 	 annoy 	 ing 	 	?
+ ok 	 a 	 y 	 	,	 out 	 stand 	 ing 	 	.	so	i	 invent 	 ed 	 	that	.
+or	i	was	one	of	the	people	who	did	it	.
+that	thing	is	 call 	 ed 	 	a	captcha	.
+and	the	reason	it	is	there	is	to	make	 s 	 ure 	 	you	,	the	 ent 	 ity 	 	 fill 	 ing 	 	out	the	form	,	are	 actual 	 ly 	 	a	human	and	not	some	sort	of	computer	program	that	was	written	to	submit	the	form	 million 	 s 	 	and	 million 	 s 	 	of	 time 	 s 	 	.
+the	reason	it	 work 	 s 	 	is	 be 	 cause 	 	 human 	 s 	 	,	at	 l 	 east 	 	non	-	 visual 	 ly 	 	-	 impair 	 ed 	 	 human 	 s 	 	,	have	no	trouble	 read 	 ing 	 	these	 distort 	 ed 	 	 squigg 	 ly 	 	 character 	 s 	 	,	 where 	 a 	 s 	 	computer	 program 	 s 	 	 simpl 	 y 	 	ca	n't	do	it	 a 	 s 	 	well	yet	.
+so	for	 ex 	 ample 	 	,	in	the	case	of	ticketmaster	,	the	reason	you	have	to	type	these	 distort 	 ed 	 	 character 	 s 	 	is	to	prevent	 scalp 	 ers 	 	from	writing	a	program	that	can	buy	 million 	 s 	 	of	 ticket 	 s 	 	,	two	at	a	time	.
+captchas	are	used	all	over	the	 inter 	 net 	 	.
+and	since	they	're	used	so	often	,	a	lot	of	 time 	 s 	 	the	precise	sequence	of	random	 character 	 s 	 	that	is	 show 	 n 	 	to	the	user	is	not	so	fortunate	.
+so	 th 	 is 	 	is	an	 ex 	 ample 	 	from	the	yahoo	 registr 	 ation 	 	page	.
+the	random	 character 	 s 	 	that	 happen 	 ed 	 	to	be	 show 	 n 	 	to	the	user	 we 	 re 	 	w	,	a	,	i	,	t	,	which	,	of	course	,	spell	a	word	.
+but	the	best	part	is	the	 mess 	 age 	 	that	the	yahoo	help	desk	got	about	20	 minute 	 s 	 	 lat 	 er 	 	.
+text	:	``	help	!	i	've	 be 	 en 	 	 wait 	 ing 	 	for	over	20	 minute 	 s 	 	,	and	 noth 	 ing 	 	 happen 	 s 	 	.	``
+ th 	 is 	 	person	thought	they	 need 	 ed 	 	to	wait	.
+ th 	 is 	 	of	course	,	is	not	 a 	 s 	 	bad	 a 	 s 	 	 th 	 is 	 	poor	person	.
+captcha	project	is	 some 	 thing 	 	that	we	did	here	at	carnegie	melllon	over	10	 year 	 s 	 	ago	,	and	it	's	 be 	 en 	 	used	 every 	 where 	 	.
+let	me	now	tell	you	about	a	project	that	we	did	a	few	 year 	 s 	 	 lat 	 er 	 	,	which	is	sort	of	the	next	evolution	of	captcha	.
+ th 	 is 	 	is	a	project	that	we	call	recaptcha	,	which	is	 some 	 thing 	 	that	we	 start 	 ed 	 	here	at	carnegie	mellon	,	then	we	 turn 	 ed 	 	it	 in 	 to 	 	a	 start 	 up 	 	company	.
+and	then	about	a	year	and	a	half	ago	,	google	 actual 	 ly 	 	 acquir 	 ed 	 	 th 	 is 	 	company	.
+so	let	me	tell	you	what	 th 	 is 	 	project	 start 	 ed 	 	.
+so	 th 	 is 	 	project	 start 	 ed 	 	from	the	 follow 	 ing 	 	 real 	 ization 	 	:	it	 turn 	 s 	 	out	that	 approximate 	 ly 	 	200	million	captchas	are	 type 	 d 	 	 every 	 day 	 	by	people	around	the	world	.
+when	i	first	heard	 th 	 is 	 	,	i	was	 quit 	 e 	 	proud	of	 my 	 self 	 	.
+i	thought	,	look	at	the	impact	that	my	research	 ha 	 s 	 	had	.
+but	then	i	 start 	 ed 	 	 feel 	 ing 	 	bad	.
+see	here	's	the	thing	,	each	time	you	type	a	captcha	,	 essential 	 ly 	 	you	waste	10	 second 	 s 	 	of	your	time	.
+and	if	you	 multi 	 ply 	 	that	by	200	million	,	you	get	that	 human 	 ity 	 	 a 	 s 	 	a	whole	is	 was 	 ting 	 	about	500,000	 hour 	 s 	 	every	day	 ty 	 ping 	 	these	 annoy 	 ing 	 	captchas	.
+so	then	i	 start 	 ed 	 	 feel 	 ing 	 	bad	.
+and	then	i	 start 	 ed 	 	 think 	 ing 	 	,	well	,	of	course	,	we	ca	n't	just	get	rid	of	captchas	,	 be 	 cause 	 	the	security	of	the	web	sort	of	 depend 	 s 	 	on	them	.
+but	then	i	 start 	 ed 	 	 think 	 ing 	 	,	is	there	any	way	we	can	use	 th 	 is 	 	effort	for	 some 	 thing 	 	that	is	good	for	 human 	 ity 	 	?
+so	see	,	here	's	the	thing	.
+while	you	're	 ty 	 ping 	 	a	captcha	,	 dur 	 ing 	 	 t 	 hose 	 	10	 second 	 s 	 	,	your	brain	is	 do 	 ing 	 	 some 	 thing 	 	 amaz 	 ing 	 	.
+your	brain	is	 do 	 ing 	 	 some 	 thing 	 	that	 computer 	 s 	 	can	not	yet	do	.
+so	can	we	get	you	to	do	 use 	 ful 	 	work	for	 t 	 hose 	 	10	 second 	 s 	 	?
+ an 	 other 	 	way	of	 put 	 ting 	 	it	is	,	is	there	some	 hum 	 ong 	 ous 	 	problem	that	we	can	not	yet	get	 computer 	 s 	 	to	solve	,	yet	we	can	split	 in 	 to 	 	 tin 	 y 	 	10	-	second	 chunk 	 s 	 	 s 	 uch 	 	that	each	time	 some 	 body 	 	 solve 	 s 	 	a	captcha	they	solve	a	little	bit	of	 th 	 is 	 	problem	?
+and	the	answer	to	that	is	``	 y 	 es 	 	,	``	and	 th 	 is 	 	is	what	we	're	 do 	 ing 	 	now	.
+so	what	you	may	not	know	is	that	 now 	 a 	 day 	 s 	 	while	you	're	 ty 	 ping 	 	a	captcha	,	not	 on 	 ly 	 	are	you	 authentic 	 ating 	 	 your 	 self 	 	 a 	 s 	 	a	human	,	but	in	 add 	 ition 	 	you	're	 actual 	 ly 	 	 help 	 ing 	 	us	to	 digit 	 ize 	 	 book 	 s 	 	.
+so	let	me	explain	how	 th 	 is 	 	 work 	 s 	 	.
+so	there	's	a	lot	of	 project 	 s 	 	out	there	 try 	 ing 	 	to	 digit 	 ize 	 	 book 	 s 	 	.
+google	 ha 	 s 	 	one	.	the	 inter 	 net 	 	 archiv 	 e 	 	 ha 	 s 	 	one	.
+amazon	,	now	with	the	kindle	,	is	 try 	 ing 	 	to	 digit 	 ize 	 	 book 	 s 	 	.
+ bas 	 ically 	 	the	way	 th 	 is 	 	 work 	 s 	 	is	you	start	with	an	old	book	.
+you	've	 s 	 een 	 	 t 	 hose 	 	 thing 	 s 	 	,	right	?	like	a	book	?
+so	you	start	with	a	book	,	and	then	you	 s 	 can 	 	it	.
+now	 s 	 canning 	 	a	book	is	like	taking	a	digital	photograph	of	every	page	of	the	book	.
+it	 give 	 s 	 	you	an	image	for	every	page	of	the	book	.
+ th 	 is 	 	is	an	image	with	text	for	every	page	of	the	book	.
+the	next	step	in	the	process	is	that	the	computer	 need 	 s 	 	to	be	able	to	decipher	all	of	the	 word 	 s 	 	in	 th 	 is 	 	image	.
+that	's	using	a	technology	 call 	 ed 	 	ocr	,	for	optical	character	 re 	 cognition 	 	,	which	 take 	 s 	 	a	picture	of	text	and	tries	to	figure	out	what	text	is	in	there	.
+now	the	problem	is	that	ocr	is	not	perfect	.
+ e 	 special 	 ly 	 	for	 old 	 er 	 	 book 	 s 	 	where	the	ink	 ha 	 s 	 	 fad 	 ed 	 	and	the	 page 	 s 	 	have	 turn 	 ed 	 	yellow	,	ocr	can	not	 recogn 	 ize 	 	a	lot	of	the	 word 	 s 	 	.
+for	 ex 	 ample 	 	,	for	 thing 	 s 	 	that	 we 	 re 	 	written	more	than	50	 year 	 s 	 	ago	,	the	computer	can	not	 recogn 	 ize 	 	about	30	percent	of	the	 word 	 s 	 	.
+so	what	we	're	 do 	 ing 	 	now	is	we	're	taking	all	of	the	 word 	 s 	 	that	the	computer	can	not	 recogn 	 ize 	 	and	we	're	 get 	 ting 	 	people	to	read	them	for	us	while	they	're	 ty 	 ping 	 	a	captcha	on	the	 inter 	 net 	 	.
+so	the	next	time	you	type	a	captcha	,	these	 word 	 s 	 	that	you	're	 ty 	 ping 	 	are	 actual 	 ly 	 	 word 	 s 	 	that	are	coming	from	 book 	 s 	 	that	are	 be 	 ing 	 	 digit 	 ized 	 	that	the	computer	could	not	 recogn 	 ize 	 	.
+and	now	the	reason	we	have	two	 word 	 s 	 	 now 	 a 	 day 	 s 	 	 in 	 stead 	 	of	one	is	 be 	 cause 	 	,	you	see	,	one	of	the	 word 	 s 	 	is	a	word	that	the	system	just	got	out	of	a	book	,	it	did	n't	know	what	it	was	,	and	it	's	going	to	present	it	to	you	.
+but	since	it	 do 	 es 	 	n't	know	the	answer	for	it	,	it	can	not	grade	it	for	you	.
+so	what	we	do	is	we	give	you	 an 	 other 	 	word	,	one	for	which	the	system	 do 	 es 	 	know	the	answer	.
+we	do	n't	tell	you	which	one	's	which	,	and	we	say	,	 pleas 	 e 	 	type	both	.
+and	if	you	type	the	correct	word	for	the	one	for	which	the	system	 al 	 ready 	 	 know 	 s 	 	the	answer	,	it	 assum 	 es 	 	you	are	human	,	and	it	 al 	 so 	 	 get 	 s 	 	some	confidence	that	you	 type 	 d 	 	the	other	word	 correct 	 ly 	 	.
+and	if	we	repeat	 th 	 is 	 	process	to	like	10	different	people	and	all	of	them	agree	on	what	the	new	word	is	,	then	we	get	one	more	word	 digit 	 ized 	 	 accurate 	 ly 	 	.
+so	 th 	 is 	 	is	how	the	system	 work 	 s 	 	.
+and	 bas 	 ically 	 	,	since	we	released	it	about	three	or	four	 year 	 s 	 	ago	,	a	lot	of	 web 	 s 	 ites 	 	have	 start 	 ed 	 	 s 	 witch 	 ing 	 	from	the	old	captcha	where	people	 waste 	 d 	 	 the 	 ir 	 	time	to	the	new	captcha	where	people	are	 help 	 ing 	 	to	 digit 	 ize 	 	 book 	 s 	 	.
+so	for	 ex 	 ample 	 	,	ticketmaster	.
+so	every	time	you	buy	 ticket 	 s 	 	on	ticketmaster	,	you	help	to	 digit 	 ize 	 	a	book	.
+facebook	:	every	time	you	add	a	friend	or	poke	 some 	 body 	 	,	you	help	to	 digit 	 ize 	 	a	book	.
+twitter	and	about	350,000	other	 s 	 ites 	 	are	all	using	recaptcha	.
+and	in	fact	,	the	number	of	 s 	 ites 	 	that	are	using	recaptcha	is	so	high	that	the	number	of	 word 	 s 	 	that	we	're	 digit 	 izing 	 	per	day	is	 re 	 ally 	 	,	 re 	 ally 	 	large	.
+it	's	about	100	million	a	day	,	which	is	the	 equi 	 valent 	 	of	about	two	and	a	half	million	 book 	 s 	 	a	year	.
+and	 th 	 is 	 	is	all	 be 	 ing 	 	 d 	 one 	 	one	word	at	a	time	by	just	people	 ty 	 ping 	 	captchas	on	the	 inter 	 net 	 	.
+now	of	course	,	since	we	're	 do 	 ing 	 	so	 man 	 y 	 	 word 	 s 	 	per	day	,	funny	 thing 	 s 	 	can	happen	.
+and	 th 	 is 	 	is	 e 	 special 	 ly 	 	true	 be 	 cause 	 	now	we	're	giving	people	two	 random 	 ly 	 	 chose 	 n 	 	english	 word 	 s 	 	next	to	each	other	.
+so	funny	 thing 	 s 	 	can	happen	.
+for	 ex 	 ample 	 	,	we	 present 	 ed 	 	 th 	 is 	 	word	.
+it	's	the	word	``	christians	``	;	there	's	 noth 	 ing 	 	wrong	with	it	.
+but	if	you	present	it	 a 	 long 	 	with	 an 	 other 	 	 random 	 ly 	 	 chose 	 n 	 	word	,	bad	 thing 	 s 	 	can	happen	.
+so	we	get	 th 	 is 	 	.
+but	it	's	even	 wo 	 rse 	 	,	 be 	 cause 	 	the	 part 	 icular 	 	 web 	 s 	 ite 	 	where	we	 show 	 ed 	 	 th 	 is 	 	 actual 	 ly 	 	 happen 	 ed 	 	to	be	 call 	 ed 	 	the	 emb 	 ass 	 y 	 	of	the	 king 	 dom 	 	of	god	.
+ oop 	 s 	 	.
+here	's	 an 	 other 	 	 re 	 ally 	 	bad	one	.
+johnedwards.com	so	we	keep	on	 insult 	 ing 	 	people	left	and	right	 every 	 day 	 	.
+now	,	of	course	,	we	're	not	just	 insult 	 ing 	 	people	.
+see	here	's	the	thing	,	since	we	're	 present 	 ing 	 	two	 random 	 ly 	 	 chose 	 n 	 	 word 	 s 	 	,	 interest 	 ing 	 	 thing 	 s 	 	can	happen	.
+so	 th 	 is 	 	 actual 	 ly 	 	 ha 	 s 	 	 give 	 n 	 	rise	to	a	 re 	 ally 	 	big	 inter 	 net 	 	meme	that	 ten 	 s 	 	of	 thousand 	 s 	 	of	people	have	 particip 	 ated 	 	in	,	which	is	 call 	 ed 	 	captcha	art	.
+i	'm	 s 	 ure 	 	some	of	you	have	heard	about	it	.
+here	's	how	it	 work 	 s 	 	.
+imagine	you	're	using	the	 inter 	 net 	 	and	you	see	a	captcha	that	you	think	is	 some 	 what 	 	peculiar	,	like	 th 	 is 	 	captcha	.
+then	what	you	're	 suppose 	 d 	 	to	do	is	you	take	a	screen	shot	of	it	.
+then	of	course	,	you	fill	out	the	captcha	 be 	 cause 	 	you	help	us	 digit 	 ize 	 	a	book	.
+but	then	,	first	you	take	a	screen	shot	,	and	then	you	draw	 some 	 thing 	 	that	is	related	to	it	.
+that	's	how	it	 work 	 s 	 	.
+there	are	 ten 	 s 	 	of	 thousand 	 s 	 	of	these	.
+some	of	them	are	 ver 	 y 	 	cute	.
+some	of	them	are	 funni 	 er 	 	.
+and	some	of	them	,	like	 paleonto 	 logical 	 	shvisle	,	they	contain	snoop	dogg	.
+ ok 	 a 	 y 	 	,	so	 th 	 is 	 	is	my	 favor 	 ite 	 	number	of	recaptcha	.
+so	 th 	 is 	 	is	the	 favor 	 ite 	 	thing	that	i	like	about	 th 	 is 	 	whole	project	.
+ th 	 is 	 	is	the	number	of	distinct	people	that	have	 help 	 ed 	 	us	 digit 	 ize 	 	at	 l 	 east 	 	one	word	out	of	a	book	through	recaptcha	:	750	million	,	which	is	a	little	over	10	percent	of	the	world	's	population	,	 ha 	 s 	 	 help 	 ed 	 	us	 digit 	 ize 	 	human	knowledge	.
+and	it	is	 number 	 s 	 	like	these	that	 motiv 	 ate 	 	my	research	agenda	.
+so	the	question	that	 motiv 	 ates 	 	my	research	is	the	 follow 	 ing 	 	:	if	you	look	at	 human 	 ity 	 	's	large	-	scale	 achiev 	 ement 	 s 	 	,	these	 re 	 ally 	 	big	 thing 	 s 	 	that	 human 	 ity 	 	 ha 	 s 	 	gotten	together	and	 d 	 one 	 	 historic 	 ally 	 	--	like	for	 ex 	 ample 	 	,	building	the	 pyramid 	 s 	 	of	egypt	or	the	panama	 can 	 al 	 	or	 put 	 ting 	 	a	man	on	the	moon	--	there	is	a	 cur 	 ious 	 	fact	about	them	,	and	it	is	that	they	 we 	 re 	 	all	 d 	 one 	 	with	about	the	same	number	off	people	.
+it	's	weird	;	they	 we 	 re 	 	all	 d 	 one 	 	with	about	100,000	people	.
+and	the	reason	for	that	is	 be 	 cause 	 	,	before	the	 inter 	 net 	 	,	 coordi 	 nating 	 	more	than	100,000	people	,	let	 al 	 one 	 	 pay 	 ing 	 	them	,	was	 essential 	 ly 	 	 im 	 possible 	 	.
+but	now	with	the	 inter 	 net 	 	,	i	've	just	 show 	 n 	 	you	a	project	where	we	've	gotten	750	million	people	to	help	us	 digit 	 ize 	 	human	knowledge	.
+so	the	question	that	 motiv 	 ates 	 	my	research	is	,	if	we	can	put	a	man	on	the	moon	with	100,000	,	what	can	we	do	with	100	million	?
+so	based	on	 th 	 is 	 	question	,	we	've	had	a	lot	of	different	 project 	 s 	 	that	we	've	 be 	 en 	 	 work 	 ing 	 	on	.
+let	me	tell	you	about	one	that	i	'm	most	 excit 	 ed 	 	about	.
+ th 	 is 	 	is	 some 	 thing 	 	that	we	've	 be 	 en 	 	semi	-	 quiet 	 ly 	 	 work 	 ing 	 	on	for	the	last	year	and	a	half	or	so	.
+it	 ha 	 s 	 	n't	yet	 be 	 en 	 	 launch 	 ed 	 	.	it	's	 call 	 ed 	 	duolingo	.
+since	it	 ha 	 s 	 	n't	 be 	 en 	 	 launch 	 ed 	 	,	 sh 	 hhhh 	 	!
+ yea 	 h 	 	,	i	can	trust	you	'll	do	that	.
+so	 th 	 is 	 	is	the	project	.	here	's	how	it	 start 	 ed 	 	.
+it	 start 	 ed 	 	with	me	posing	a	question	to	my	graduate	student	,	severin	 hack 	 er 	 	.
+ ok 	 a 	 y 	 	,	that	's	severin	 hack 	 er 	 	.
+so	i	posed	the	question	to	my	graduate	student	.
+by	the	way	,	you	did	hear	me	 correct 	 ly 	 	;	his	last	name	is	 hack 	 er 	 	.
+so	i	posed	 th 	 is 	 	question	to	him	:	how	can	we	get	100	million	people	 transl 	 ating 	 	the	web	 in 	 to 	 	every	major	language	for	free	?
+ ok 	 a 	 y 	 	,	so	there	's	a	lot	of	 thing 	 s 	 	to	say	about	 th 	 is 	 	question	.
+first	of	all	,	 transl 	 ating 	 	the	web	.
+so	right	now	the	web	is	 part 	 ition 	 ed 	 	 in 	 to 	 	 multi 	 ple 	 	 language 	 s 	 	.
+a	large	fraction	of	it	is	in	english	.
+if	you	do	n't	know	any	english	,	you	ca	n't	access	it	.
+but	there	's	large	 fraction 	 s 	 	in	other	different	 language 	 s 	 	,	and	if	you	do	n't	know	 t 	 hose 	 	 language 	 s 	 	,	you	ca	n't	access	it	.
+so	i	would	like	to	 transl 	 ate 	 	all	of	the	web	,	or	at	 l 	 east 	 	most	of	the	web	,	 in 	 to 	 	every	major	language	.
+so	that	's	what	i	would	like	to	do	.
+now	some	of	you	may	say	,	why	ca	n't	we	use	 computer 	 s 	 	to	 transl 	 ate 	 	?
+why	ca	n't	we	use	machine	 transl 	 ation 	 	?
+machine	 transl 	 ation 	 	 now 	 a 	 day 	 s 	 	is	 start 	 ing 	 	to	 transl 	 ate 	 	some	 sentence 	 s 	 	here	and	there	.
+why	ca	n't	we	use	it	to	 transl 	 ate 	 	the	whole	web	?
+well	the	problem	with	that	is	that	it	's	not	yet	good	 en 	 ough 	 	and	it	 prob 	 ably 	 	wo	n't	be	for	the	next	15	to	20	 year 	 s 	 	.
+it	 make 	 s 	 	a	lot	of	 mistak 	 es 	 	.
+even	when	it	 do 	 es 	 	n't	make	a	 mistak 	 e 	 	,	since	it	 make 	 s 	 	so	 man 	 y 	 	 mistak 	 es 	 	,	you	do	n't	know	 whet 	 her 	 	to	trust	it	or	not	.
+so	let	me	show	you	an	 ex 	 ample 	 	of	 some 	 thing 	 	that	was	 transl 	 ated 	 	with	a	machine	.
+ actual 	 ly 	 	it	was	a	forum	post	.
+it	was	 some 	 body 	 	who	was	 try 	 ing 	 	to	ask	a	question	about	javascript	.
+it	was	 transl 	 ated 	 	from	japanese	 in 	 to 	 	english	.
+so	i	'll	just	let	you	read	.
+ th 	 is 	 	person	 start 	 s 	 	 apolog 	 izing 	 	for	the	fact	that	it	's	 transl 	 ated 	 	with	a	computer	.
+so	the	next	sentence	is	is	going	to	be	the	 pre 	 am 	 ble 	 	to	the	question	.
+so	he	's	just	 explain 	 ing 	 	 some 	 thing 	 	.
+remember	,	it	's	a	question	about	javascript	.
+then	 come 	 s 	 	the	first	part	of	the	question	.
+then	 come 	 s 	 	my	 favor 	 ite 	 	part	of	the	question	.
+and	then	 come 	 s 	 	the	 end 	 ing 	 	,	which	is	my	 favor 	 ite 	 	part	of	the	whole	thing	.
+ ok 	 a 	 y 	 	,	so	computer	 transl 	 ation 	 	,	not	yet	good	 en 	 ough 	 	.
+so	back	to	the	question	.
+so	we	need	people	to	 transl 	 ate 	 	the	whole	web	.
+so	now	the	next	question	you	may	have	is	,	well	why	ca	n't	we	just	pay	people	to	do	 th 	 is 	 	?
+we	could	pay	professional	language	 transl 	 ators 	 	to	 transl 	 ate 	 	the	whole	web	.
+we	could	do	that	.
+ un 	 fortunate 	 ly 	 	,	it	would	be	 extrem 	 e 	 ly 	 	expensive	.
+for	 ex 	 ample 	 	,	 transl 	 ating 	 	a	 tin 	 y 	 	,	 tin 	 y 	 	fraction	of	the	whole	web	,	 wiki 	 pedia 	 	,	 in 	 to 	 	one	other	language	,	spanish	.
+ wiki 	 pedia 	 	 exist 	 s 	 	in	spanish	,	but	it	's	 ver 	 y 	 	small	 compar 	 ed 	 	to	the	 s 	 ize 	 	of	english	.
+it	's	about	20	percent	of	the	 s 	 ize 	 	of	english	.
+if	we	 want 	 ed 	 	to	 transl 	 ate 	 	the	other	80	percent	 in 	 to 	 	spanish	,	it	would	cost	at	 l 	 east 	 	50	million	 dollar 	 s 	 	--	and	 th 	 is 	 	is	at	even	the	most	 exploit 	 ed 	 	,	 out 	 sourcing 	 	country	out	there	.
+so	it	would	be	 ver 	 y 	 	expensive	.
+so	what	we	want	to	do	is	we	want	to	get	100	million	people	 transl 	 ating 	 	the	web	 in 	 to 	 	every	major	language	for	free	.
+now	if	 th 	 is 	 	is	what	you	want	to	do	,	you	 pre 	 tty 	 	 quick 	 ly 	 	 real 	 ize 	 	you	're	going	to	run	 in 	 to 	 	two	 pre 	 tty 	 	big	 hurdle 	 s 	 	,	two	big	 obstacle 	 s 	 	.
+the	first	one	is	a	lack	of	 bi 	 lingual 	 s 	 	.
+so	i	do	n't	even	know	if	there	 exist 	 s 	 	100	million	people	out	there	using	the	web	who	are	 bi 	 lingual 	 	 en 	 ough 	 	to	help	us	 transl 	 ate 	 	.
+that	's	a	big	problem	.
+the	other	problem	you	're	going	to	run	 in 	 to 	 	is	a	lack	of	 motiv 	 ation 	 	.
+how	are	we	going	to	 motiv 	 ate 	 	people	to	 actual 	 ly 	 	 transl 	 ate 	 	the	web	for	free	?
+ normal 	 ly 	 	,	you	have	to	pay	people	to	do	 th 	 is 	 	.
+so	how	are	we	going	to	 motiv 	 ate 	 	them	to	do	it	for	free	?
+now	when	we	 we 	 re 	 	 start 	 ing 	 	to	think	about	 th 	 is 	 	,	we	 we 	 re 	 	 block 	 ed 	 	by	these	two	 thing 	 s 	 	.
+but	then	we	 real 	 ized 	 	,	there	's	 actual 	 ly 	 	a	way	to	solve	both	these	 problem 	 s 	 	with	the	same	solution	.
+there	's	a	way	to	kill	two	 bird 	 s 	 	with	one	stone	.
+and	that	is	to	transform	language	 transl 	 ation 	 	 in 	 to 	 	 some 	 thing 	 	that	 million 	 s 	 	of	people	want	to	do	,	and	that	 al 	 so 	 	 help 	 s 	 	with	the	problem	of	lack	of	 bi 	 lingual 	 s 	 	,	and	that	is	language	education	.
+so	it	 turn 	 s 	 	out	that	 to 	 day 	 	,	there	are	over	1.2	billion	people	 learn 	 ing 	 	a	foreign	language	.
+people	 re 	 ally 	 	,	 re 	 ally 	 	want	to	learn	a	foreign	language	.
+and	it	's	not	just	 be 	 cause 	 	they	're	 be 	 ing 	 	 force 	 d 	 	to	do	so	in	school	.
+for	 ex 	 ample 	 	,	in	the	 unit 	 ed 	 	 state 	 s 	 	 al 	 one 	 	,	there	are	over	five	million	people	who	have	paid	over	$	500	for	 soft 	 ware 	 	to	learn	a	new	language	.
+so	people	 re 	 ally 	 	,	 re 	 ally 	 	want	to	learn	a	new	language	.
+so	what	we	've	 be 	 en 	 	 work 	 ing 	 	on	for	the	last	year	and	a	half	is	a	new	 web 	 s 	 ite 	 	--	it	's	 call 	 ed 	 	duolingo	--	where	the	 bas 	 ic 	 	idea	is	people	learn	a	new	language	for	free	while	 simultaneous 	 ly 	 	 transl 	 ating 	 	the	web	.
+and	so	 bas 	 ically 	 	they	're	 learn 	 ing 	 	by	 do 	 ing 	 	.
+so	the	way	 th 	 is 	 	 work 	 s 	 	is	 when 	 ever 	 	you	're	a	just	a	 beg 	 inner 	 	,	we	give	you	 ver 	 y 	 	,	 ver 	 y 	 	simple	 sentence 	 s 	 	.
+there	's	,	of	course	,	a	lot	of	 ver 	 y 	 	simple	 sentence 	 s 	 	on	the	web	.
+we	give	you	 ver 	 y 	 	,	 ver 	 y 	 	simple	 sentence 	 s 	 	 a 	 long 	 	with	what	each	word	 mean 	 s 	 	.
+and	 a 	 s 	 	you	 transl 	 ate 	 	them	,	and	 a 	 s 	 	you	see	how	other	people	 transl 	 ate 	 	them	,	you	start	 learn 	 ing 	 	the	language	.
+and	 a 	 s 	 	you	get	more	and	more	 advance 	 d 	 	,	we	give	you	more	and	more	complex	 sentence 	 s 	 	to	 transl 	 ate 	 	.
+but	at	all	 time 	 s 	 	,	you	're	 learn 	 ing 	 	by	 do 	 ing 	 	.
+now	the	crazy	thing	about	 th 	 is 	 	method	is	that	it	 actual 	 ly 	 	 re 	 ally 	 	 work 	 s 	 	.
+first	of	all	,	people	are	 re 	 ally 	 	,	 re 	 ally 	 	 learn 	 ing 	 	a	language	.
+we	're	 most 	 ly 	 	 d 	 one 	 	building	it	,	and	now	we	're	 test 	 ing 	 	it	.
+people	 re 	 ally 	 	can	learn	a	language	with	it	.
+and	they	learn	it	about	 a 	 s 	 	well	 a 	 s 	 	the	 lead 	 ing 	 	language	 learn 	 ing 	 	 soft 	 ware 	 	.
+so	people	 re 	 ally 	 	do	learn	a	language	.
+and	not	 on 	 ly 	 	do	they	learn	it	 a 	 s 	 	well	,	but	 actual 	 ly 	 	it	's	way	more	 interest 	 ing 	 	.
+ be 	 cause 	 	you	see	with	duolingo	,	people	are	 actual 	 ly 	 	 learn 	 ing 	 	with	real	content	.
+ a 	 s 	 	 oppos 	 ed 	 	to	 learn 	 ing 	 	with	made	-	up	 sentence 	 s 	 	,	people	are	 learn 	 ing 	 	with	real	content	,	which	is	 inherent 	 ly 	 	 interest 	 ing 	 	.
+so	people	 re 	 ally 	 	do	learn	a	language	.
+but	 per 	 hap 	 s 	 	more	 surprising 	 ly 	 	,	the	 transl 	 ations 	 	that	we	get	from	people	using	the	 s 	 ite 	 	,	even	 th 	 ough 	 	they	're	just	 beg 	 inner 	 s 	 	,	the	 transl 	 ations 	 	that	we	get	are	 a 	 s 	 	accurate	 a 	 s 	 	 t 	 hose 	 	of	professional	language	 transl 	 ators 	 	,	which	is	 ver 	 y 	 	surprising	.
+so	let	me	show	you	one	 ex 	 ample 	 	.
+ th 	 is 	 	is	a	sentence	that	was	 transl 	 ated 	 	from	german	 in 	 to 	 	english	.
+the	top	is	the	german	.
+the	middle	is	an	english	 transl 	 ation 	 	that	was	 d 	 one 	 	by	 some 	 body 	 	who	was	a	professional	english	 transl 	 ator 	 	who	we	paid	20	 cent 	 s 	 	a	word	for	 th 	 is 	 	 transl 	 ation 	 	.
+and	the	bottom	is	a	 transl 	 ation 	 	by	 user 	 s 	 	of	duolingo	,	 non 	 e 	 	of	whom	 k 	 new 	 	any	german	before	they	 start 	 ed 	 	using	the	 s 	 ite 	 	.
+you	can	see	,	it	's	 pre 	 tty 	 	much	perfect	.
+now	of	course	,	we	play	a	trick	here	to	make	the	 transl 	 ations 	 	 a 	 s 	 	good	 a 	 s 	 	professional	language	 transl 	 ators 	 	.
+we	combine	the	 transl 	 ations 	 	of	 multi 	 ple 	 	 beg 	 inner 	 s 	 	to	get	the	quality	of	a	single	professional	 transl 	 ator 	 	.
+now	even	 th 	 ough 	 	we	're	 comb 	 in 	 ing 	 	the	 transl 	 ations 	 	,	the	 s 	 ite 	 	 actual 	 ly 	 	can	 transl 	 ate 	 	 pre 	 tty 	 	fast	.
+so	let	me	show	you	,	 th 	 is 	 	is	our	 estimate 	 s 	 	of	how	fast	we	could	 transl 	 ate 	 	 wiki 	 pedia 	 	from	english	 in 	 to 	 	spanish	.
+remember	,	 th 	 is 	 	is	50	million	 dollar 	 s 	 	-	worth	of	value	.
+so	if	we	 want 	 ed 	 	to	 transl 	 ate 	 	 wiki 	 pedia 	 	 in 	 to 	 	spanish	,	we	could	do	it	in	five	 week 	 s 	 	with	100,000	active	 user 	 s 	 	.
+and	we	could	do	it	in	about	80	 hour 	 s 	 	with	a	million	active	 user 	 s 	 	.
+since	all	the	 project 	 s 	 	that	my	group	 ha 	 s 	 	 work 	 ed 	 	on	so	far	have	gotten	 million 	 s 	 	of	 user 	 s 	 	,	we	're	 hope 	 ful 	 	that	we	'll	be	able	to	 transl 	 ate 	 	 extrem 	 e 	 ly 	 	fast	with	 th 	 is 	 	project	.
+now	the	thing	that	i	'm	most	 excit 	 ed 	 	about	with	duolingo	is	i	think	 th 	 is 	 	 provide 	 s 	 	a	fair	business	model	for	language	education	.
+so	here	's	the	thing	:	the	current	business	model	for	language	education	is	the	student	 pay 	 s 	 	,	and	in	 part 	 icular 	 	,	the	student	 pay 	 s 	 	rosetta	stone	500	 dollar 	 s 	 	.
+that	's	the	current	business	model	.
+the	problem	with	 th 	 is 	 	business	model	is	that	95	percent	of	the	world	's	population	 do 	 es 	 	n't	have	500	 dollar 	 s 	 	.
+so	it	's	 extrem 	 e 	 ly 	 	 un 	 fair 	 	 to 	 ward 	 s 	 	the	poor	.
+ th 	 is 	 	is	 total 	 ly 	 	 bias 	 ed 	 	 to 	 ward 	 s 	 	the	rich	.
+now	see	,	in	duolingo	,	 be 	 cause 	 	while	you	learn	you	're	 actual 	 ly 	 	creating	value	,	you	're	 transl 	 ating 	 	stuff	--	which	for	 ex 	 ample 	 	,	we	could	charge	 some 	 body 	 	for	 transl 	 ations 	 	.
+so	 th 	 is 	 	is	how	we	could	 mon 	 et 	 ize 	 	 th 	 is 	 	.
+since	people	are	creating	value	while	they	're	 learn 	 ing 	 	,	they	do	n't	have	to	pay	 the 	 ir 	 	money	,	they	pay	with	 the 	 ir 	 	time	.
+but	the	 magic 	 al 	 	thing	here	is	that	they	're	 pay 	 ing 	 	with	 the 	 ir 	 	time	,	but	that	is	time	that	would	have	had	to	have	 be 	 en 	 	 s 	 pent 	 	 any 	 ways 	 	 learn 	 ing 	 	the	language	.
+so	the	nice	thing	about	duolingo	is	i	think	it	 provide 	 s 	 	a	fair	business	model	--	one	that	 do 	 es 	 	n't	discriminate	against	poor	people	.
+so	here	's	the	 s 	 ite 	 	.	thank	you	.
+so	here	's	the	 s 	 ite 	 	.
+we	have	n't	yet	 launch 	 ed 	 	,	but	if	you	go	there	,	you	can	sign	up	to	be	part	of	our	private	beta	,	which	is	 prob 	 ably 	 	going	to	start	in	about	three	or	four	 week 	 s 	 	.
+we	have	n't	yet	 launch 	 ed 	 	 th 	 is 	 	duolingo	.
+by	the	way	,	i	'm	the	one	 talk 	 ing 	 	here	,	but	 actual 	 ly 	 	duolingo	is	the	work	of	a	 re 	 ally 	 	awesome	team	,	some	of	whom	are	here	.
+so	thank	you	.
+

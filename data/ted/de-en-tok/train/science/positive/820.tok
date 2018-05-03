@@ -1,0 +1,203 @@
+also	,	der	erste	roboter	über	den	ich	sprechen	will	heißt	strider	.
+das	steht	für	_UNK_	_UNK_	dynamischer	experimenteller	roboter	.
+es	ist	ein	roboter	,	der	drei	beine	hat	,	dies	ist	von	der	natur	inspiriert
+aber	haben	sie	schon	einmal	irgendetwas	in	der	natur	gesehen	ein	tier	gesehen	,	das	drei	beine	hat	?
+wahrscheinlich	nicht	.	also	,	warum	ich	nenne	ihn	dann	einen	biologisch	inspirierten	roboter	?	wie	könnte	das	funktionieren	?
+aber	zuerst	wollen	wir	einen	blick	auf	die	popkultur	werfen	.
+sie	kennen	also	h.g	.	wells	_UNK_	der	welten	als	buch	und	film	.
+und	was	sie	hier	sehen	können	ist	ein	sehr	beliebtes	videospiel	in	der	fiktion	werden	diese	außerirdischen	als	_UNK_	roboter	,	welche	die	erde	_UNK_	beschrieben	.
+aber	mein	roboter	strider	,	bewegt	sich	nicht	auf	diese	weise	.
+dies	ist	also	,	eine	tatsächliche	dynamisch	simulierte	animation	.
+ich	werde	ihnen	nun	zeigen	wie	der	roboter	funktioniert	.
+er	dreht	seinen	körper	um	180	grad	.	er	schwingt	einen	fuß	zwischen	den	beiden	andern	hindurch	,	um	den	fall	abzufangen	.
+so	geht	er	also	.	aber	sehen	sie	nur	auf	uns	die	menschen	,	wir	gehen	auf	zwei	füßen	,	wir	benutzen	nicht	wirklich	unsere	muskeln	um	den	fuß	zu	heben	und	wie	ein	roboter	zu	gehen	.	stimmts	?
+was	wir	tatsächlich	tun	,	ist	unseren	fuß	nach	vorne	zu	bewegen	und	den	fall	zu	abfangen	,	wieder	aufzustehen	,	den	fuß	nach	vorne	zu	bewegen	und	wieder	den	fall	zu	abfangen	.
+man	bedient	sich	des	im	eigenen	körperbau	eingebauten	_UNK_	,	genauso	wie	ein	pendel	.
+wir	nennen	dies	das	konzept	der	fortbewegung	durch	passives	kräftespiel	.
+was	sie	tun	,	wenn	sie	aufstehen	ist	,	potentielle	energie	umwandeln	zu	kinetischer	energie	,	potentielle	energie	zu	kinetischer	energie	.
+es	ist	ein	prozess	des	ständigen	_UNK_	.
+und	obwohl	es	nichts	in	der	natur	gibt	,	dass	so	aussieht	wie	das	,	wurden	wir	tatsächlich	von	der	biologie	inspiriert	.	und	weil	wir	die	gesetzmäßigkeiten	des	gehens	an	diesem	roboter	angewendet	haben	,	ist	es	ein	biologisch	inspirierter	roboter	.
+was	sie	hier	sehen	können	,	ist	was	wir	als	nächstes	tun	wollen	.
+wir	wollen	die	beine	zusammenfalten	und	ihn	über	weite	distanzen	schießen	.
+und	er	verwendet	die	beine	,	es	sieht	fast	aus	wie	in	star	wars	um	beim	landen	den	stoß	abzufangen	und	er	beginnt	zu	gehen	.
+was	sie	hier	sehen	,	dieses	gelbe	ding	,	das	ist	kein	_UNK_	,
+das	wird	nur	benutzt	um	zu	zeigen	,	dass	wenn	man	kameras	hat	oder	andere	sensoren	weil	er	hoch	ist	,	er	ist	1	meter	80	groß	,	man	über	hindernisse	über	büsche	und	dererlei	hinwegsehen	kann	.
+wir	halben	also	zwei	prototypen	.
+die	erste	version	,	die	hintere	,	das	ist	strider	i	.
+der	vordere	,	der	kleinere	,	ist	strider	ii	.
+das	problem	,	welches	wir	mit	strider	i	hatten	ist	,	dass	das	gehäuse	einfach	zu	schwer	war	.	wir	hatten	zu	viele	motoren	,	sie	wissen	schon	,	welche	die	gelenke	_UNK_	und	dergleichen	.
+also	entschieden	wir	uns	einen	mechanischen	mechanismus	einzubauen	mit	dessen	hilfe	wir	und	all	die	motoren	sparen	konnten	.	und	mit	einem	einzigen	motor	können	wir	all	diese	bewegungen	koordinieren	.
+wir	benutzen	mechanik	,	um	dieses	problem	zu	lösen	anstelle	von	mechatronik	.
+mit	dieser	anpassung	ist	der	obere	teil	des	_UNK_	leicht	genug	um	im	labor	zu	gehen	.	dies	war	der	erste	äußerst	erfolgreiche	schritt	.
+er	ist	noch	nicht	perfekt	.	sein	kaffee	fällt	hinunter	,	wir	haben	als	noch	eine	menge	arbeit	vor	uns
+der	zweite	roboter	über	den	ich	sprechen	möchte	heißt	impass	.
+das	steht	für	intelligentes	mobiles	plattform	system	mit	beweglichen	speichen	.
+es	ist	also	ein	rad	-	fuß	-	hybrid	-	roboter	.
+denken	sie	an	ein	_UNK_	rad	oder	ein	_UNK_	aber	die	speichen	bewegen	sich	unabhängig	voneinander	in	und	aus	der	_UNK_	er	ist	also	ein	rad	-	fuß	-	hybrid	.
+wir	erfinden	hier	tatsächlich	das	rad	neu	.
+ich	werde	ihnen	zeigen	wie	er	funktioniert	.
+also	,	in	diesem	video	zeigen	wir	eine	methode	,	die	_UNK_	verfahren	genannt	wird	.
+lediglich	die	berührungssensoren	an	den	füßen	benutzend	,	versucht	er	über	sich	veränderndes	terrain	zu	gehen	,	ein	_UNK_	terrain	das	sich	_UNK_	und	verändern	lässt	.
+und	nur	durch	_UNK_	informationen	überquert	er	derartiges	terrain	.
+aber	wenn	er	sehr	extremes	terrain	überqueren	soll	,	in	diesem	fall	hat	das	hindernis	mehr	als	die	dreifache	höhe	des	roboters	,	schaltet	der	er	auf	einen	planungs	-	modus	um	,	in	diesem	verwendet	er	eine	laser	-	_UNK_	und	kameras	,	um	das	hindernis	und	dessen	größe	zu	erfassen	und	dann	plant	er	vorsichtig	die	bewegung	der	_UNK_	und	stimmt	diese	so	auf	einander	ab	,	dass	er	sich	auf	diese	ausnehmend	beeindruckende	weise	fortbewegen	kann	.
+sie	haben	wahrscheinlich	bis	jetzt	nichts	dergleichen	gesehen	.
+dies	ist	ein	hoch	mobiler	roboter	,	den	wir	entwickelt	und	impass	genannt	haben
+ah	!	ist	das	nicht	cool	?
+wenn	sie	mit	dem	auto	fahren	,	wenn	sie	ihr	auto	lenken	,	verwenden	sie	eine	methode	,	welche	_UNK_	genannt	wird	.
+die	_UNK_	rotieren	auf	diese	weise	.
+für	die	meisten	_UNK_	roboter	wird	eine	methode	verwendet	,	die	man	_UNK_	nennt	,	bei	ihr	drehen	sich	das	rechte	und	das	linke	rad	in	verschiedene	richtungen	.
+impass	kann	sich	verschiedenster	arten	der	fortbewegung	bedienen	.
+zum	beispiel	:	in	diesem	fall	,	obwohl	das	linke	und	das	rechte	rad	mit	einer	einzigen	achse	verbunden	sind	und	sich	daher	gleich	schnell	drehen	,
+ändern	wir	einfach	die	länge	der	_UNK_	,
+das	beeinflusst	den	durchmesser	und	dann	dreht	er	sich	links	und	dreht	sich	nach	rechts	.
+dies	sind	nur	beispiele	einiger	netter	dinge	,	die	wir	tun	können	mit	impass	.
+dieser	roboter	heißt	climber	kabel	-	_UNK_	intelligenter	passend	_UNK_	roboter	mit	gliedmaßen	.
+ich	habe	also	mit	vielen	nasa	jpl	wissenschaftlern	gesprochen	,	jpl	ist	berühmt	für	die	mars	_UNK_	.	und	die	wissenschaftler	,	die	geologen	sagen	mir	immer	,	dass	die	_UNK_	interessante	wissenschaft	,	die	wissenschaftlich	interessanten	gebiete	,	immer	an	klippen	sind	.
+aber	die	jetzigen	rover	können	diese	nicht	erreichen	,
+also	,	machte	ich	mich	,	inspiriert	von	dem	was	sie	wollten	,	daran	einen	roboter	zu	bauen	,	der	klippen	mit	strukturen	erklettern	kann	.
+also	,	dies	ist	climber	.
+so	funktioniert	er	:	er	hat	drei	beine	.	wahrscheinlich	ist	es	schwer	zu	erkennen	,	aber	er	hat	eine	seilwinde	und	ein	seil	an	der	oberseite	und	er	versucht	die	beste	stelle	für	seinen	fuß	zu	finden	.
+wenn	er	sie	gefunden	hat	dann	errechnet	er	fast	gleichzeitig	die	_UNK_	,	und	wie	viel	kraft	er	auf	die	oberfläche	übertragen	muss	um	nicht	_UNK_	oder	_UNK_	.
+wenn	er	sicher	steht	,	hebt	er	ein	bein	und	mithilfe	der	seilwinde	ist	es	möglich	,	derartige	oberflächen	hinauf	zu	klettern	.
+auch	finden	-	und	-	retten	-	missionen	.
+vor	fünf	jahren	arbeitete	ich	tatsächlich	bei	nasa	jpl	,	während	eines	_UNK_	.
+und	dort	gab	es	schon	damals	einen	_UNK_	roboter	namens	_UNK_	.
+also	dieser	hier	basiert	tatsächlich	darauf	.	dieser	roboter	heißt	mars	,	multi	-	_UNK_	roboter	system	.	er	ist	also	ein	_UNK_	roboter	.
+wir	haben	unseren	anpassungsfähigen	gang	-	planer	entwickelt	.
+hier	haben	wir	eine	wirklich	interessante	ladung	.
+die	studenten	machen	gern	blödsinn	.	und	hier	können	sie	sehen	wie	er	über	_UNK_	terrain	geht	.
+er	versucht	auf	_UNK_	terrain	zu	gehen	,	einem	_UNK_	,	abhängig	von	der	feuchtigkeit	oder	der	größe	der	sandkörner	verändert	sich	die	das	rechenmodell	für	das	_UNK_	.
+daher	versucht	er	seinen	gang	anzupassen	um	derartiges	terrain	zu	überqueren	.
+und	er	kann	auch	ein	paar	lustige	sachen	.	wie	sie	sich	sicher	vorstellen	können	,
+haben	wir	eine	menge	besucher	in	unserem	labor	.
+wenn	die	besucher	also	kommen	,	geht	mars	zum	computer	,	beginnt	zu	schreiben	:	``	hallo	mein	name	ist	mars	.
+willkommen	bei	romela	,	dem	roboter	mechanik	labor	von	virgina	tech	.	``
+dies	roboter	ist	ein	amöben	-	roboter	.
+nun	,	wir	haben	nicht	genug	zeit	um	uns	mit	den	technischen	details	zu	beschäftigen	,	ich	will	ihnen	einfach	ein	paar	der	experimente	zeigen	.
+dies	ist	eine	frühe	machbarkeitsstudie	.
+wir	speichern	potentielle	energie	in	der	elastischen	hülle	und	versetzen	ihn	in	bewegung	.
+oder	wir	benutzten	ein	seil	unter	spannung	,	um	ihn	vorwärts	und	rückwärts	zu	bewegen	.	er	heißt	_UNK_	.
+wir	haben	auch	mit	ein	wissenschaftlern	und	ingenieuren	vom	_UNK_	_UNK_	um	eine	chemisch	gesteuerten	version	dieses	amöben	-	roboters	zu	entwickeln	.
+wir	vermischen	also	etwas	mit	irgendetwas	anderem	und	wie	durch	magie	,	bewegt	er	sich	,	der	tropfen	.
+dieser	roboter	ist	ein	sehr	neues	projekt	.	er	heißt	raphael	.
+robotische	_UNK_	hand	mit	elastischen	_UNK_
+es	gibt	sehr	viele	sehr	nette	,	sehr	gute	_UNK_	auf	dem	markt	.
+das	einzige	problem	ist	,	dass	sie	zu	teuer	sind	,	zehntausende	dollars	.
+daher	sind	sie	für	die	verwendung	als	prothesen	nicht	all	zu	praktikabel	,	weil	sie	nicht	erschwinglich	sind	.
+wir	wollen	dieses	problem	auf	eine	sehr	andere	weise	angehen	.
+anstelle	von	elektrischen	motoren	und	elektrischen	_UNK_	verwenden	wir	druckluft	.
+wir	entwickelten	diese	neuartigen	_UNK_	für	gelenke	.
+sie	sind	_UNK_	.	man	kann	tatsächlich	die	kraft	verändern	,	indem	man	einfach	den	luftdruck	ändert	.
+und	er	kann	tatsächlich	eine	getränkedose	zerdrücken	.
+er	kann	sehr	zerbrechliche	objekte	aufheben	,	wie	ein	rohes	ei	oder	in	diesem	fall	eine	glühbirne	.
+und	das	beste	ist	,	es	hat	nur	200	$	gekostet	den	ersten	prototypen	herzustellen	.
+dieser	roboter	gehört	eigentlich	einer	_UNK_	an	,	die	wir	hydras	nennen	,	über	grade	-	von	-	freiheit	frei	-	bewegliche	roboter	-	schlange	.
+dieser	roboter	kann	strukturen	erklettern	.
+dies	ist	der	arm	eines	hydras	.
+er	ist	ein	roboterarm	mit	12	_UNK_	.
+aber	die	coole	sache	daran	ist	die	benutzerschnittstelle	.
+dieses	kabel	dort	,	besteht	aus	glasfaser	.
+und	diese	studentin	,	sie	verwendet	es	vermutlich	zum	ersten	mal	,	aber	sie	kann	ihn	auf	die	verschiedensten	weisen	bewegen	.
+zum	beispiel	im	irak	,	sie	wissen	schon	,	im	kriegsgebiet	gibt	es	_UNK_	.	derzeit	schickt	man	ein	ferngesteuertes	_UNK_	fahrzeug	.
+und	es	kostet	viel	zeit	und	geld	um	den	operator	zu	lehren	diesen	komplexen	arm	zu	bedienen	.
+in	diesem	fall	verläuft	das	sehr	intuitiv	.	diese	studentin	,	die	ihn	wahrscheinlich	zum	ersten	mal	benutzt	,	führt	sehr	komplexe	_UNK_	aus	,	sie	hebt	objekte	auf	und	_UNK_	mit	ihnen	einfach	so	,	sehr	intuitiv	.
+nun	,	dieser	roboter	ist	unser	derzeitiger	_UNK_	.
+es	gibt	wirklich	einen	_UNK_	für	diesen	roboter	,	darwin	,	dynamischer	_UNK_	roboter	mit	intelligenz	.
+wie	sie	wissen	interessieren	wir	uns	sehr	für	humanoide	roboter	,	den	menschlichen	gang	,	daher	haben	wir	beschlossen	einen	kleinen	humanoiden	roboter	zu	bauen	.
+das	war	2004	,	zu	dieser	zeit	war	das	ziemlich	revolutionär	.
+es	war	mehr	eine	_UNK_	welche	art	von	motoren	sollten	wir	verwenden	?
+ist	es	tatsächlich	möglich	?
+dieser	hier	hat	keinerlei	sensoren	.
+es	läuft	nach	einer	_UNK_	.
+für	diejenigen	unter	ihnen	,	die	wahrscheinlich	wissen	,	wenn	man	keine	sensoren	hat	und	es	irgendwelche	störungen	gibt	,	sie	wissen	ja	was	passiert	.
+basierend	auf	diesem	erfolg	,	im	nächsten	jahr	gingen	wir	das	genaue	mechanische	design	an	beginnend	bei	der	_UNK_	.
+und	siehe	da	darwin	i	wurde	2005	geboren	.
+er	kann	aufstehen	,	er	geht	,	sehr	eindrucksvoll	.
+aber	wie	sie	sehen	können	hängt	er	noch	immer	an	einer	nabelschnur	.	das	heißt	wir	verwenden	noch	immer	eine	externe	energiequelle	und	externe	_UNK_	.
+im	jahr	2006	also	,	war	es	zeit	wirklich	spaß	zu	haben	.
+verpassen	wir	ihm	intelligenz	.	wir	gegen	ihm	all	die	rechenleistung	die	er	braucht	,	einen	1.5	gigahertz	pentium	m	chip	zwei	firewire	-	kameras	,	acht	_UNK_	,	einen	beschleunigungsmesser	,	vier	_UNK_	-	sensoren	auf	den	füßen	,	lithium	-	ionen	-	_UNK_
+und	nun	war	darwin	ii	vollständig	selbstständig	.
+er	ist	nicht	ferngesteuert
+es	gibt	keine	_UNK_	.	er	sieht	sich	um	sucht	den	ball	,	schaut	sich	um	,	sucht	nach	dem	ball	und	er	versucht	fußball	zu	spielen	,	unabhängige	,	künstliche	intelligenz	.
+mal	sehen	wie	er	sich	macht	.	dies	war	unser	aller	erster	versuch	,	und	...	.	video	:	_UNK_	!
+und	es	gibt	tatsächlich	einen	wettbewerb	der	sich	_UNK_	nennt	.
+ich	weiß	nicht	wie	viele	von	ihnen	schon	vom	_UNK_	gehört	haben	.
+es	handelt	sich	um	ein	unabhängiges	roboter	_UNK_
+und	das	ziel	des	_UNK_	,	das	tatsächliche	ziel	ist	es	,	im	jahr	2050	unabhängige	humanoide	roboter	in	originalgröße	zu	haben	,	die	fußball	gegen	die	menschlichen	_UNK_	spielen	und	gewinnen	.
+das	ist	ein	wirkliches	ziel	.	es	ist	ein	sehr	ehrgeiziges	ziel	,	aber	glauben	fest	,	dass	wir	es	erreichen	können	.
+so	,	das	war	letztes	jahr	in	china	.
+wir	waren	das	erste	team	aus	den	vereinigten	staaten	das	sich	qualifiziert	hat	für	den	wettbewerb	humanoider	roboter	.
+dieses	jahr	war	er	in	österreich	.
+sie	werden	nun	das	tatsächliche	spiel	sehen	,	drei	gegen	drei	,	vollständig	unabhängig	.
+na	bitte	.	ja	!
+die	roboter	finden	und	spielen	,	teams	spielen	zusammen	.
+es	ist	sehr	eindrucksvoll	.	es	ist	ein	echtes	_UNK_	verpackt	in	einem	sehr	spannenden	wettbewerb	.
+was	sie	hier	sehen	können	ist	wunderschön	den	louis	_UNK_	cup	pokal	.
+also	,	der	ist	für	den	besten	humanoiden	,	und	wir	wünschen	uns	ihn	als	erstes	us	-	amerikanisches	team	zu	gewinnen	,	nächstes	jahr	,	also	halten	sie	uns	die	daumen	.
+danke	sehr	.
+darwin	hat	auch	viele	andere	talente	.
+letztes	jahr	dirigierte	er	tatsächlich	das	_UNK_	symphonie	orchester	beim	_UNK_	.
+dies	ist	die	nächste	_UNK_	darwin	iv	,	er	ist	schlauer	,	schneller	und	stärker	.
+und	er	versucht	mit	seinen	fähigkeiten	anzugeben	.	``	ich	bin	ein	macho	,	ich	bin	stark	``
+ich	kann	sogar	jackie	chan	nachmachen	kampfsport	-	bewegungen	.
+und	er	geht	davon	.	dies	ist	also	darwin	iv	,
+wiederum	ist	er	in	der	lobby	zu	sehen	.
+wir	glauben	tatsächlich	,	dass	dies	der	erste	laufende	humanoide	roboter	in	den	us	sein	wird	.	also	,	bleiben	sie	dran	.
+in	ordnung	,	ich	habe	ihnen	also	einige	der	spannenden	roboter	gezeigt	an	denen	wir	arbeiten	.
+aber	was	ist	das	geheimnis	unseres	erfolges	?
+wie	kommen	wir	auf	all	diese	ideen	?
+woher	nehmen	wir	all	die	ideen	?
+wir	haben	ein	vollkommen	_UNK_	fahrzeug	,	dass	in	der	stadt	fahren	kann	.	wir	gewannen	eine	halbe	million	dollar	bei	der	darpa	urban	_UNK_	.
+wir	haben	auch	das	weltweit	erst	fahrzeug	,	dass	von	blinden	gefahren	werden	kann	.
+wir	nennen	das	die	blinder	-	fahrer	-	herausforderung	,	sehr	spannende	sache
+und	viele	andere	_UNK_	über	die	ich	sprechen	möchte	.
+dies	sind	allein	die	preise	,	die	wir	im	herbst	2007	gewonnen	haben	,	bei	roboter	wettbewerben	und	dererlei	.
+also	wir	haben	fünf	geheimnisse	.
+erstens	,	woher	haben	wir	unsere	inspiration
+woher	bekommen	wir	diesen	funken	der	_UNK_
+dies	ist	eine	wahre	geschichte	,	meine	eigene	geschichte	.
+wenn	ich	nachts	in	bett	gehe	,	um	3	oder	4	in	der	früh	,	lege	ich	mich	nieder	und	schließe	meine	augen	und	ich	sehe	diese	linien	und	kreise	and	andere	formen	herum	schweben
+und	diese	gliedern	sich	und	formen	diese	mechanismen	.
+und	ich	denke	:	``	ah	das	ist	cool	.	``
+also	,	habe	ich	gleich	neben	meinem	bett	ein	notizbuch	,	ein	tagebuch	,	mit	einem	speziellen	stift	,	der	ein	led	-	licht	hat	,	weil	ich	das	licht	,	um	meine	frau	nicht	zu	wecken	,	nicht	einschalten	will	.
+also	,	ich	sehe	das	alles	und	schreibe	alles	auf	und	zeichne	dinge	und	dann	gehe	ich	schlafen	.
+jeden	morgen	,	ist	die	erste	sache	,	die	ich	mache	--	noch	vor	meinem	ersten	kaffee	--	bevor	ich	mir	die	zähne	_UNK_	,	öffne	ich	mein	notizbuch	.
+oft	ist	es	leer	,	aber	manchmal	finde	ich	etwas	das	totaler	schwachsinn	ist	,	aber	meistens	kann	ich	nicht	einmal	meine	eigene	handschrift	lesen	.
+na	ja	,	4	in	der	früh	,	was	kann	man	schon	erwarten	,	stimmts	?
+ich	muss	also	entziffern	was	ich	geschrieben	habe	.
+aber	manchmal	sehe	ich	diese	geniale	idee	dort	und	ich	habe	diesen	``	eureka	-	moment	``
+ich	laufe	direkt	in	meinem	_UNK_	,	setze	mich	an	meinem	computer	,	tippe	die	ideen	ein	und	mache	skizzen	und	ich	habe	eine	datenbank	voller	ideen	.
+wenn	uns	also	jemand	fragt	ob	wir	eine	idee	zur	lösung	eines	problems	haben	versuche	ich	eine	übereinstimmung	mit	meinen	möglichen	ideen	zu	finden	und	das	problem	kann	,	wenn	es	eine	übereinstimmung	gibt	und	wir	einen	vorschlag	einreichen	gefördert	werden	und	so	starten	wir	unsere	projekte	.
+aber	nur	von	einem	funken	der	vorstellungskraft	zu	sprechen	ist	nicht	genug	.
+wie	entwickeln	wir	diese	ideen	weiter	?
+in	unserem	labor	romela	,	dem	roboter	mechanik	labor	,	haben	wir	diese	fantastischen	brainstorming	-	sitzungen	.
+wir	treffen	uns	also	und	wir	besprechen	die	probleme	und	die	sozialen	probleme	und	reden	darüber	.
+aber	bevor	wir	anfangen	,	setzen	wir	eine	goldene	regel	fest
+diese	regel	ist	:	``	niemand	kritisiert	eines	anderen	ideen	.
+niemand	kritisiert	irgendeine	meinung	.	``
+das	ist	wichtig	,	denn	oft	fürchten	sich	studenten	oder	sind	sich	nicht	sicher	wie	andere	denken	mögen	über	ihre	meinungen	und	gedanken	.
+wenn	man	das	macht	ist	es	unglaublich	wie	sehr	sich	die	studenten	öffnen	.
+sie	haben	diese	absolut	wahnsinnigen	,	coolen	,	verrückten	brillanten	ideen	,	der	ganze	raum	ist	wie	unter	spannung	mit	kreativer	energie	.
+und	so	entwickeln	wir	unsere	ideen	.
+gut	,	uns	geht	die	zeit	aus	und	ich	will	noch	über	eine	andere	sache	reden	.	sie	wissen	,	dass	das	der	funke	der	idee	und	die	entwicklung	nicht	genug	sind	.
+da	gab	es	einen	großartigen	ted	-	moment	,	ich	denke	es	war	sir	ken	robinson	,	oder	?
+er	sprach	darüber	wie	wir	kinder	erziehen	sollten	und	dass	schule	kreativität	zerstört	.
+nun	,	es	gibt	tatsächlich	zwei	seiten	der	geschichte	.
+man	kann	nicht	alles	erreichen	nur	mit	genialen	ideen	und	kreativität	und	hervorragender	bau	-	intuition	.
+wenn	man	über	das	basteln	hinaus	will	und	wenn	man	über	das	hobby	roboter	hinaus	will	und	die	wirklich	großen	herausforderungen	der	robotik	angehen	will	mithilfe	_UNK_	forschung	,	brauchen	wir	mehr	als	nur	das	.	das	ist	wo	die	schule	ins	spiel	kommt	.
+wenn	batman	gegen	die	bösewicht	kämpft	,	dann	hat	er	seinen	_UNK_	und	seinen	_UNK_	und	all	diese	verschiedenen	ausrüstungsgegenstände	.
+für	uns	_UNK_	,	ingenieure	und	wissenschaftler	,	sind	diese	ausrüstungsgegenstände	,	_UNK_	und	sparten	über	die	wir	in	der	schule	lernen	.
+mathe	,	differenzieren	.
+ich	habe	lineare	algebra	,	naturwissenschaften	,	physik	,	heutzutage	sogar	chemie	und	biologie	,	wie	sie	gesehen	haben	.
+dies	sind	all	die	werkzeuge	,	die	wir	brauchen	.
+das	heißt	,	je	mehr	ausrüstungsgegenstände	für	batman	man	hat	desto	effektiver	bekämpft	batman	die	bösen	für	uns	sind	es	mehr	werkzeuge	um	derartige	probleme	anzugehen	.
+auf	diese	art	ist	bildung	sehr	wichtig
+also	geht	es	nicht	nur	darum	sonder	nur	darum	,	man	muss	auch	sehr	sehr	hart	arbeiten	.
+ich	sage	also	immer	zu	meinen	schülern	arbeitet	schlau	,	dann	arbeitet	hart	.
+dieses	bild	im	hintergrund	,	das	wurde	um	3	in	der	früh	gemacht	.
+ich	garantiere	wenn	man	um	3	oder	4	in	der	früh	in	unser	labor	kommt	dann	arbeiten	dort	studenten	,	und	das	nicht	weil	ich	es	ihnen	befehle	sonder	,	weil	wir	zu	viel	spaß	haben	.
+was	uns	zu	unserem	letzten	thema	führt	.	vergiss	nicht	spaß	zu	haben	.
+das	ist	das	tatsächliche	geheimnis	unseres	erfolges	.	wir	haben	zu	viel	spaß	.
+ich	glaube	fest	daran	,	dass	man	die	höchste	produktivität	erreicht	wenn	man	spaß	hat	.	und	das	ist	was	wir	tun	.
+bitte	sehr	.	vielen	dank	.
+

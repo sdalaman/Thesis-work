@@ -1,0 +1,181 @@
+so	i	want	to	talk	 to 	 day 	 	about	an	idea	.	it	's	a	big	idea	.
+ actual 	 ly 	 	,	i	think	it	'll	 event 	 ual 	 ly 	 	be	 s 	 een 	 	 a 	 s 	 	 prob 	 ably 	 	the	single	 big 	 gest 	 	idea	that	's	 emerge 	 d 	 	in	the	past	century	.
+it	's	the	idea	of	computation	.
+now	,	of	course	,	that	idea	 ha 	 s 	 	 br 	 ought 	 	us	all	of	the	computer	technology	we	have	 to 	 day 	 	and	so	on	.
+but	there	's	 actual 	 ly 	 	a	lot	more	to	computation	than	that	.
+it	's	 re 	 ally 	 	a	 ver 	 y 	 	deep	,	 ver 	 y 	 	 power 	 ful 	 	,	 ver 	 y 	 	fundamental	idea	,	 who 	 s 	 e 	 	 effect 	 s 	 	we	've	 on 	 ly 	 	just	 beg 	 un 	 	to	see	.
+well	,	i	 my 	 self 	 	have	 s 	 pent 	 	the	past	30	 year 	 s 	 	of	my	life	 work 	 ing 	 	on	three	large	 project 	 s 	 	that	 re 	 ally 	 	try	to	take	the	idea	of	computation	 serious 	 ly 	 	.
+so	i	 start 	 ed 	 	off	at	a	young	age	 a 	 s 	 	a	physicist	using	 computer 	 s 	 	 a 	 s 	 	 tool 	 s 	 	.
+then	,	i	 start 	 ed 	 	 drill 	 ing 	 	down	,	 think 	 ing 	 	about	the	 computation 	 s 	 	i	might	want	to	do	,	 try 	 ing 	 	to	figure	out	what	 primitive 	 s 	 	they	could	be	built	up	from	and	how	they	could	be	 autom 	 ated 	 	 a 	 s 	 	much	 a 	 s 	 	possible	.
+ event 	 ual 	 ly 	 	,	i	 create 	 d 	 	a	whole	structure	based	on	 symbol 	 ic 	 	 programm 	 ing 	 	and	so	on	that	let	me	build	mathematica	.
+and	for	the	past	23	 year 	 s 	 	,	at	an	increasing	rate	,	we	've	 be 	 en 	 	 pour 	 ing 	 	more	and	more	 idea 	 s 	 	and	 cap 	 abilities 	 	and	so	on	 in 	 to 	 	mathematica	,	and	i	'm	happy	to	say	that	that	's	led	to	 man 	 y 	 	good	 thing 	 s 	 	in	r	&	d	and	education	,	 lot 	 s 	 	of	other	 area 	 s 	 	.
+well	,	i	have	to	admit	,	 actual 	 ly 	 	,	that	i	 al 	 so 	 	had	a	 ver 	 y 	 	 self 	 ish 	 	reason	for	building	mathematica	:	i	 want 	 ed 	 	to	use	it	 my 	 self 	 	,	a	bit	like	galileo	got	to	use	his	 tele 	 scope 	 	400	 year 	 s 	 	ago	.
+but	i	 want 	 ed 	 	to	look	not	at	the	astronomical	 uni 	 verse 	 	,	but	at	the	 computation 	 al 	 	 uni 	 verse 	 	.
+so	we	 normal 	 ly 	 	think	of	 program 	 s 	 	 a 	 s 	 	 be 	 ing 	 	 complic 	 ated 	 	 thing 	 s 	 	that	we	build	for	 ver 	 y 	 	specific	 purpose 	 s 	 	.
+but	what	about	the	space	of	all	possible	 program 	 s 	 	?
+here	's	a	 represent 	 ation 	 	of	a	 re 	 ally 	 	simple	program	.
+so	,	if	we	run	 th 	 is 	 	program	,	 th 	 is 	 	is	what	we	get	.
+ ver 	 y 	 	simple	.
+so	let	's	try	changing	the	rule	for	 th 	 is 	 	program	a	little	bit	.
+now	we	get	 an 	 other 	 	result	,	still	 ver 	 y 	 	simple	.
+try	changing	it	 aga 	 in 	 	.
+you	get	 some 	 thing 	 	a	little	bit	more	 complic 	 ated 	 	.
+but	if	we	keep	running	 th 	 is 	 	for	a	while	,	we	find	out	that	 al 	 th 	 ough 	 	the	pattern	we	get	is	 ver 	 y 	 	 intric 	 ate 	 	,	it	 ha 	 s 	 	a	 ver 	 y 	 	regular	structure	.
+so	the	question	is	:	can	 any 	 thing 	 	else	happen	?
+well	,	we	can	do	a	little	experiment	.
+let	's	just	do	a	little	 mathematic 	 al 	 	experiment	,	try	and	find	out	.
+let	's	just	run	all	possible	 program 	 s 	 	of	the	 part 	 icular 	 	type	that	we	're	looking	at	.
+they	're	 call 	 ed 	 	cellular	 autom 	 ata 	 	.
+you	can	see	a	lot	of	 divers 	 ity 	 	in	the	behavior	here	.
+most	of	them	do	 ver 	 y 	 	simple	 thing 	 s 	 	,	but	if	you	look	 a 	 long 	 	all	these	different	 picture 	 s 	 	,	at	rule	number	30	,	you	start	to	see	 some 	 thing 	 	 interest 	 ing 	 	going	on	.
+so	let	's	take	a	 close 	 r 	 	look	at	rule	number	30	here	.
+so	here	it	is	.
+we	're	just	 follow 	 ing 	 	 th 	 is 	 	 ver 	 y 	 	simple	rule	at	the	bottom	here	,	but	we	're	 get 	 ting 	 	all	 th 	 is 	 	 amaz 	 ing 	 	stuff	.
+it	's	not	at	all	what	we	're	used	to	,	and	i	must	say	that	,	when	i	first	saw	 th 	 is 	 	,	it	came	 a 	 s 	 	a	huge	shock	to	my	 intuit 	 ion 	 	.
+and	,	in	fact	,	to	understand	it	,	i	 event 	 ual 	 ly 	 	had	to	create	a	whole	new	kind	of	science	.
+ th 	 is 	 	science	is	different	,	more	general	,	than	the	 mathematic 	 s 	 	-	based	science	that	we	've	had	for	the	past	300	or	so	 year 	 s 	 	.
+you	know	,	it	's	 al 	 ways 	 	 seem 	 ed 	 	like	a	big	 myster 	 y 	 	:	how	nature	,	 seem 	 ing 	 ly 	 	so	 effort 	 lessly 	 	,	 manage 	 s 	 	to	produce	so	much	that	 seem 	 s 	 	to	us	so	complex	.
+well	,	i	think	we	've	found	 it 	 s 	 	secret	:	it	's	just	 s 	 ampl 	 ing 	 	what	's	out	there	in	the	 computation 	 al 	 	 uni 	 verse 	 	and	 quit 	 e 	 	often	 get 	 ting 	 	 thing 	 s 	 	like	rule	30	or	like	 th 	 is 	 	.
+and	 know 	 ing 	 	that	 start 	 s 	 	to	explain	a	lot	of	long	-	 stand 	 ing 	 	 myster 	 ies 	 	in	science	.
+it	 al 	 so 	 	 br 	 ing 	 s 	 	up	new	 issue 	 s 	 	,	 th 	 ough 	 	,	like	 computation 	 al 	 	 irreducib 	 ility 	 	.
+i	mean	,	we	're	used	to	 hav 	 ing 	 	science	let	us	predict	 thing 	 s 	 	,	but	 some 	 thing 	 	like	 th 	 is 	 	is	 fundamental 	 ly 	 	 irreducib 	 le 	 	.
+the	 on 	 ly 	 	way	to	find	 it 	 s 	 	 out 	 come 	 	is	,	 effective 	 ly 	 	,	just	to	watch	it	evolve	.
+it	's	 connect 	 ed 	 	to	,	what	i	call	,	the	principle	of	 computation 	 al 	 	 equi 	 valence 	 	,	which	 tell 	 s 	 	us	that	even	 inc 	 red 	 ibly 	 	simple	 system 	 s 	 	can	do	 computation 	 s 	 	 a 	 s 	 	 sophistic 	 ated 	 	 a 	 s 	 	 any 	 thing 	 	.
+it	 do 	 es 	 	n't	take	 lot 	 s 	 	of	technology	or	 bio 	 logical 	 	evolution	to	be	able	to	do	 arbitr 	 ary 	 	computation	;	just	 some 	 thing 	 	that	 happen 	 s 	 	,	 natural 	 ly 	 	,	all	over	the	place	.
+ thing 	 s 	 	with	 rule 	 s 	 	 a 	 s 	 	simple	 a 	 s 	 	these	can	do	it	.
+well	,	 th 	 is 	 	 ha 	 s 	 	deep	 implic 	 ations 	 	about	the	 limit 	 s 	 	of	science	,	about	 predict 	 ability 	 	and	 controll 	 ability 	 	of	 thing 	 s 	 	like	 bio 	 logical 	 	 process 	 es 	 	or	 eco 	 nomi 	 es 	 	,	about	 intellig 	 ence 	 	in	the	 uni 	 verse 	 	,	about	 question 	 s 	 	like	free	will	and	about	creating	technology	.
+you	know	,	in	 work 	 ing 	 	on	 th 	 is 	 	science	for	 man 	 y 	 	 year 	 s 	 	,	i	 ke 	 pt 	 	 wonder 	 ing 	 	,	``	what	will	be	 it 	 s 	 	first	killer	app	?	``
+well	,	ever	since	i	was	a	kid	,	i	'd	 be 	 en 	 	 think 	 ing 	 	about	 system 	 at 	 izing 	 	knowledge	and	 some 	 how 	 	making	it	 com 	 put 	 able 	 	.
+people	like	leibniz	had	 wonder 	 ed 	 	about	that	too	300	 year 	 s 	 	 ear 	 lier 	 	.
+but	i	'd	 al 	 ways 	 	 assum 	 ed 	 	that	to	make	progress	,	i	'd	 essential 	 ly 	 	have	to	replicate	a	whole	brain	.
+well	,	then	i	got	to	 think 	 ing 	 	:	 th 	 is 	 	scientific	paradigm	of	mine	 suggest 	 s 	 	 some 	 thing 	 	different	--	and	,	by	the	way	,	i	've	now	got	huge	computation	 cap 	 abilities 	 	in	mathematica	,	and	i	'm	a	ceo	with	some	 world 	 ly 	 	 resource 	 s 	 	to	do	large	,	 seem 	 ing 	 ly 	 	crazy	,	 project 	 s 	 	--	so	i	 decide 	 d 	 	to	just	try	to	see	how	much	of	the	 system 	 atic 	 	knowledge	that	's	out	there	in	the	world	we	could	make	 com 	 put 	 able 	 	.
+so	,	it	's	 be 	 en 	 	a	big	,	 ver 	 y 	 	complex	project	,	which	i	was	not	 s 	 ure 	 	was	going	to	work	at	all	.
+but	i	'm	happy	to	say	it	's	 actual 	 ly 	 	going	 re 	 ally 	 	well	.
+and	last	year	we	 we 	 re 	 	able	to	 re 	 lease 	 	the	first	 web 	 s 	 ite 	 	version	of	wolfram	alpha	.
+ it 	 s 	 	purpose	is	to	be	a	serious	knowledge	engine	that	 compute 	 s 	 	 answer 	 s 	 	to	 question 	 s 	 	.
+so	let	's	give	it	a	try	.
+let	's	start	off	with	 some 	 thing 	 	 re 	 ally 	 	easy	.
+hope	for	the	best	.
+ ver 	 y 	 	good	.	 ok 	 a 	 y 	 	.
+so	far	so	good	.
+let	's	try	 some 	 thing 	 	a	little	bit	 hard 	 er 	 	.
+let	's	do	some	 math 	 y 	 	thing	,	and	with	luck	it	'll	work	out	the	answer	and	try	and	tell	us	some	 interest 	 ing 	 	 thing 	 s 	 	 thing 	 s 	 	about	related	math	.
+we	could	ask	it	 some 	 thing 	 	about	the	real	world	.
+let	's	say	--	i	do	n't	know	--	what	's	the	gdp	of	spain	?
+and	it	should	be	able	to	tell	us	that	.
+now	we	could	compute	 some 	 thing 	 	related	to	 th 	 is 	 	,	let	's	say	...	the	gdp	of	spain	 divid 	 ed 	 	by	,	i	do	n't	know	,	the	--	 h 	 mmm 	 	...
+let	's	say	the	revenue	of	 micro 	 soft 	 	.
+the	idea	is	that	we	can	just	type	 th 	 is 	 	in	,	 th 	 is 	 	kind	of	question	in	,	 how 	 ever 	 	we	think	of	it	.
+so	let	's	try	 ask 	 ing 	 	a	question	,	like	a	health	related	question	.
+so	let	's	say	we	have	a	lab	 find 	 ing 	 	that	...
+you	know	,	we	have	an	ldl	level	of	140	for	a	male	aged	50	.
+so	let	's	type	that	in	,	and	now	wolfram	alpha	will	go	and	use	 avail 	 able 	 	public	health	data	and	try	and	figure	out	what	part	of	the	population	that	 correspond 	 s 	 	to	and	so	on	.
+or	let	's	try	 ask 	 ing 	 	about	,	i	do	n't	know	,	the	 inter 	 national 	 	space	station	.
+and	what	's	 happen 	 ing 	 	here	is	that	wolfram	alpha	is	not	just	looking	up	 some 	 thing 	 	;	it	's	computing	,	in	real	time	,	where	the	 inter 	 national 	 	space	station	is	right	now	at	 th 	 is 	 	moment	,	how	fast	it	's	going	,	and	so	on	.
+so	wolfram	alpha	 know 	 s 	 	about	 lot 	 s 	 	and	 lot 	 s 	 	of	 kind 	 s 	 	of	 thing 	 s 	 	.
+it	's	got	,	by	now	,	 pre 	 tty 	 	good	 cover 	 age 	 	of	 every 	 thing 	 	you	might	find	in	a	standard	 re 	 ference 	 	library	.
+but	the	goal	is	to	go	much	further	and	,	 ver 	 y 	 	 broad 	 ly 	 	,	to	 democrat 	 ize 	 	all	of	 th 	 is 	 	knowledge	,	and	to	try	and	be	an	 author 	 itative 	 	source	in	all	 area 	 s 	 	.
+to	be	able	to	compute	 answer 	 s 	 	to	specific	 question 	 s 	 	that	people	have	,	not	by	 search 	 ing 	 	what	other	people	may	have	written	down	before	,	but	by	using	built	in	knowledge	to	compute	fresh	new	 answer 	 s 	 	to	specific	 question 	 s 	 	.
+now	,	of	course	,	wolfram	alpha	is	a	 monument 	 ally 	 	huge	,	long	-	term	project	with	 lot 	 s 	 	and	 lot 	 s 	 	of	 challeng 	 es 	 	.
+for	a	start	,	one	 ha 	 s 	 	to	 cur 	 ate 	 	a	zillion	different	 source 	 s 	 	of	 fact 	 s 	 	and	data	,	and	we	built	 quit 	 e 	 	a	 pipe 	 line 	 	of	mathematica	 autom 	 ation 	 	and	human	domain	 expert 	 s 	 	for	 do 	 ing 	 	 th 	 is 	 	.
+but	that	's	just	the	 begin 	 ning 	 	.
+ give 	 n 	 	raw	 fact 	 s 	 	or	data	to	 actual 	 ly 	 	answer	 question 	 s 	 	,	one	 ha 	 s 	 	to	compute	:	one	 ha 	 s 	 	to	implement	all	 t 	 hose 	 	 method 	 s 	 	and	 model 	 s 	 	and	 algorithm 	 s 	 	and	so	on	that	science	and	other	 area 	 s 	 	have	built	up	over	the	centuries	.
+well	,	even	 start 	 ing 	 	from	mathematica	,	 th 	 is 	 	is	still	a	huge	amount	of	work	.
+so	far	,	there	are	about	8	million	lines	of	mathematica	code	in	wolfram	alpha	built	by	 expert 	 s 	 	from	 man 	 y 	 	,	 man 	 y 	 	different	 field 	 s 	 	.
+well	,	a	 cruci 	 al 	 	idea	of	wolfram	alpha	is	that	you	can	just	ask	it	 question 	 s 	 	using	 ordin 	 ary 	 	human	language	,	which	 mean 	 s 	 	that	we	've	got	to	be	able	to	take	all	 t 	 hose 	 	strange	 utter 	 ance 	 s 	 	that	people	type	 in 	 to 	 	the	 in 	 put 	 	field	and	understand	them	.
+and	i	must	say	that	i	thought	that	step	might	just	be	plain	 im 	 possible 	 	.
+two	big	 thing 	 s 	 	 happen 	 ed 	 	:	first	,	a	bunch	of	new	 idea 	 s 	 	about	 linguist 	 ic 	 s 	 	that	came	from	 stud 	 y 	 ing 	 	the	 computation 	 al 	 	 uni 	 verse 	 	;	and	second	,	the	 real 	 ization 	 	that	 hav 	 ing 	 	actual	 com 	 put 	 able 	 	knowledge	 complete 	 ly 	 	 change 	 s 	 	how	one	can	set	about	 understand 	 ing 	 	language	.
+and	,	of	course	,	now	with	wolfram	alpha	 actual 	 ly 	 	out	in	the	wild	,	we	can	learn	from	 it 	 s 	 	actual	 us 	 age 	 	.
+and	,	in	fact	,	there	's	 be 	 en 	 	an	 interest 	 ing 	 	 co 	 evolution 	 	that	's	 be 	 en 	 	going	on	between	wolfram	alpha	and	 it 	 s 	 	human	 user 	 s 	 	,	and	it	's	 re 	 ally 	 	 encourag 	 ing 	 	.
+right	now	,	if	we	look	at	web	 que 	 ries 	 	,	more	than	80	percent	of	them	get	 handle 	 d 	 	 success 	 fully 	 	the	first	time	.
+and	if	you	look	at	 thing 	 s 	 	like	the	iphone	app	,	the	fraction	is	 consider 	 ably 	 	 large 	 r 	 	.
+so	,	i	'm	 pre 	 tty 	 	 pleas 	 ed 	 	with	it	all	.
+but	,	in	 man 	 y 	 	ways	,	we	're	still	at	the	 ver 	 y 	 	 begin 	 ning 	 	with	wolfram	alpha	.
+i	mean	,	 every 	 thing 	 	is	 scal 	 ing 	 	up	 ver 	 y 	 	 nice 	 ly 	 	and	we	're	 get 	 ting 	 	more	confident	.
+you	can	expect	to	see	wolfram	alpha	technology	 show 	 ing 	 	up	in	more	and	more	 place 	 s 	 	,	 work 	 ing 	 	both	with	 th 	 is 	 	kind	of	public	data	,	like	on	the	 web 	 s 	 ite 	 	,	and	with	private	knowledge	for	people	and	 com 	 pan 	 ies 	 	and	so	on	.
+you	know	,	i	've	 real 	 ized 	 	that	wolfram	alpha	 actual 	 ly 	 	 give 	 s 	 	one	a	whole	new	kind	of	computing	that	one	can	call	knowledge	-	based	computing	,	in	which	one	's	 start 	 ing 	 	not	just	from	raw	computation	,	but	from	a	vast	amount	of	built	-	in	knowledge	.
+and	when	one	 do 	 es 	 	that	,	one	 re 	 ally 	 	 change 	 s 	 	the	 economic 	 s 	 	of	 deliver 	 ing 	 	 computation 	 al 	 	 thing 	 s 	 	,	 whet 	 her 	 	it	's	on	the	web	or	 else 	 where 	 	.
+you	know	,	we	have	a	 fair 	 ly 	 	 interest 	 ing 	 	 situ 	 ation 	 	right	now	.
+on	the	one	hand	,	we	have	mathematica	,	with	 it 	 s 	 	sort	of	precise	,	 form 	 al 	 	language	and	a	huge	network	of	 care 	 fully 	 	designed	 cap 	 abilities 	 	able	to	get	a	lot	 d 	 one 	 	in	just	a	few	lines	.
+let	me	show	you	a	couple	of	 ex 	 ample 	 s 	 	here	.
+so	here	's	a	trivial	piece	of	mathematica	 programm 	 ing 	 	.
+here	's	 some 	 thing 	 	where	we	're	sort	of	 integ 	 rating 	 	a	bunch	of	different	 cap 	 abilities 	 	here	.
+here	we	'll	just	create	,	in	 th 	 is 	 	line	,	a	little	user	 inter 	 face 	 	that	 allow 	 s 	 	us	to	do	 some 	 thing 	 	 f 	 un 	 	there	.
+if	you	go	on	,	that	's	a	 s 	 light 	 ly 	 	more	 complic 	 ated 	 	program	that	's	now	 do 	 ing 	 	all	 sort 	 s 	 	of	 algorithm 	 ic 	 	 thing 	 s 	 	and	creating	user	 inter 	 face 	 	and	so	on	.
+but	it	's	 some 	 thing 	 	that	is	 ver 	 y 	 	precise	stuff	.
+it	's	a	precise	 specific 	 ation 	 	with	a	precise	 form 	 al 	 	language	that	 cause 	 s 	 	mathematica	to	know	what	to	do	here	.
+then	on	the	other	hand	,	we	have	wolfram	alpha	,	with	all	the	 mess 	 iness 	 	of	the	world	and	human	language	and	so	on	built	 in 	 to 	 	it	.
+so	what	 happen 	 s 	 	when	you	put	these	 thing 	 s 	 	together	?
+i	think	it	's	 actual 	 ly 	 	 ra 	 ther 	 	 wonder 	 ful 	 	.
+with	wolfram	alpha	 in 	 side 	 	mathematica	,	you	can	,	for	 ex 	 ample 	 	,	make	precise	 program 	 s 	 	that	call	on	real	world	data	.
+here	's	a	real	simple	 ex 	 ample 	 	.
+you	can	 al 	 so 	 	just	sort	of	give	vague	 in 	 put 	 	and	then	try	and	have	wolfram	alpha	figure	out	what	you	're	 talk 	 ing 	 	about	.
+let	's	try	 th 	 is 	 	here	.
+but	 actual 	 ly 	 	i	think	the	most	 excit 	 ing 	 	thing	about	 th 	 is 	 	is	that	it	 re 	 ally 	 	 give 	 s 	 	one	the	chance	to	 democrat 	 ize 	 	 programm 	 ing 	 	.
+i	mean	,	 any 	 one 	 	will	be	able	to	say	what	they	want	in	plain	language	.
+then	,	the	idea	is	that	wolfram	alpha	will	be	able	to	figure	out	what	precise	 piece 	 s 	 	of	code	can	do	what	they	're	 ask 	 ing 	 	for	and	then	show	them	 ex 	 ample 	 s 	 	that	will	let	them	pick	what	they	need	to	build	up	 big 	 ger 	 	and	 big 	 ger 	 	,	precise	 program 	 s 	 	.
+so	,	 some 	 time 	 s 	 	,	wolfram	alpha	will	be	able	to	do	the	whole	thing	 im 	 mediate 	 ly 	 	and	just	give	back	a	whole	big	program	that	you	can	then	compute	with	.
+here	's	a	big	 web 	 s 	 ite 	 	where	we	've	 be 	 en 	 	 collect 	 ing 	 	 lot 	 s 	 	of	 education 	 al 	 	and	other	 demonst 	 ration 	 s 	 	about	 lot 	 s 	 	of	 kind 	 s 	 	of	 thing 	 s 	 	.
+i	'll	show	you	one	 ex 	 ample 	 	here	.
+ th 	 is 	 	is	just	an	 ex 	 ample 	 	of	one	of	these	 com 	 put 	 able 	 	 document 	 s 	 	.
+ th 	 is 	 	is	 prob 	 ably 	 	a	 fair 	 ly 	 	small	piece	of	mathematica	code	that	's	able	to	be	run	here	.
+ ok 	 a 	 y 	 	.	let	's	zoom	out	 aga 	 in 	 	.
+so	,	 give 	 n 	 	our	new	kind	of	science	,	is	there	a	general	way	to	use	it	to	make	technology	?
+so	,	with	physical	 material 	 s 	 	,	we	're	used	to	going	around	the	world	and	 discover 	 ing 	 	that	 part 	 icular 	 	 material 	 s 	 	are	 use 	 ful 	 	for	 part 	 icular 	 	 techno 	 logical 	 	 purpose 	 s 	 	.
+well	,	it	 turn 	 s 	 	out	we	can	do	 ver 	 y 	 	much	the	same	kind	of	thing	in	the	 computation 	 al 	 	 uni 	 verse 	 	.
+there	's	an	 in 	 exhaust 	 ible 	 	supply	of	 program 	 s 	 	out	there	.
+the	 challeng 	 e 	 	is	to	see	how	to	harness	them	for	human	 purpose 	 s 	 	.
+ some 	 thing 	 	like	rule	30	,	for	 ex 	 ample 	 	,	 turn 	 s 	 	out	to	be	a	 re 	 ally 	 	good	 random 	 ness 	 	 gene 	 rator 	 	.
+other	simple	 program 	 s 	 	are	good	 model 	 s 	 	for	 process 	 es 	 	in	the	natural	or	social	world	.
+and	,	for	 ex 	 ample 	 	,	wolfram	alpha	and	mathematica	are	 actual 	 ly 	 	now	full	of	 algorithm 	 s 	 	that	we	 discover 	 ed 	 	by	 search 	 ing 	 	the	 computation 	 al 	 	 uni 	 verse 	 	.
+and	,	for	 ex 	 ample 	 	,	 th 	 is 	 	--	if	we	go	back	here	--	 th 	 is 	 	 ha 	 s 	 	 be 	 come 	 	 surprising 	 ly 	 	popular	among	 compose 	 rs 	 	 find 	 ing 	 	musical	 form 	 s 	 	by	 search 	 ing 	 	the	 computation 	 al 	 	 uni 	 verse 	 	.
+in	a	sense	,	we	can	use	the	 computation 	 al 	 	 uni 	 verse 	 	to	get	mass	 custom 	 ized 	 	 cre 	 at 	 ivity 	 	.
+i	'm	 hop 	 ing 	 	we	can	,	for	 ex 	 ample 	 	,	use	that	even	to	get	wolfram	alpha	to	 routine 	 ly 	 	do	 invent 	 ion 	 	and	 discover 	 y 	 	on	the	fly	,	and	to	find	all	 sort 	 s 	 	of	 wonder 	 ful 	 	stuff	that	no	engineer	and	no	process	of	 increment 	 al 	 	evolution	would	ever	come	up	with	.
+well	,	so	,	that	 lead 	 s 	 	to	kind	of	an	ultimate	question	:	could	it	be	that	 some 	 place 	 	out	there	in	the	 computation 	 al 	 	 uni 	 verse 	 	we	might	find	our	physical	 uni 	 verse 	 	?
+ per 	 hap 	 s 	 	there	's	even	some	 quit 	 e 	 	simple	rule	,	some	simple	program	for	our	 uni 	 verse 	 	.
+well	,	the	 histo 	 ry 	 	of	physics	would	have	us	 believ 	 e 	 	that	the	rule	for	the	 uni 	 verse 	 	must	be	 pre 	 tty 	 	 complic 	 ated 	 	.
+but	in	the	 computation 	 al 	 	 uni 	 verse 	 	,	we	've	now	 s 	 een 	 	how	 rule 	 s 	 	that	are	 inc 	 red 	 ibly 	 	simple	can	produce	 inc 	 red 	 ibly 	 	rich	and	complex	behavior	.
+so	could	that	be	what	's	going	on	with	our	whole	 uni 	 verse 	 	?
+if	the	 rule 	 s 	 	for	the	 uni 	 verse 	 	are	simple	,	it	's	kind	of	 inevit 	 able 	 	that	they	have	to	be	 ver 	 y 	 	abstract	and	 ver 	 y 	 	low	level	;	 oper 	 ating 	 	,	for	 ex 	 ample 	 	,	far	 be 	 low 	 	the	level	of	space	or	time	,	which	 make 	 s 	 	it	hard	to	represent	 thing 	 s 	 	.
+but	in	at	 l 	 east 	 	a	large	class	of	 case 	 s 	 	,	one	can	think	of	the	 uni 	 verse 	 	 a 	 s 	 	 be 	 ing 	 	like	some	kind	of	network	,	which	,	when	it	 get 	 s 	 	big	 en 	 ough 	 	,	 behav 	 es 	 	like	 continu 	 ous 	 	space	in	much	the	same	way	 a 	 s 	 	 hav 	 ing 	 	 lot 	 s 	 	of	 molecule 	 s 	 	can	 behav 	 e 	 	like	a	 continu 	 ous 	 	fluid	.
+well	,	then	the	 uni 	 verse 	 	 ha 	 s 	 	to	evolve	by	 app 	 ly 	 ing 	 	little	 rule 	 s 	 	that	 progress 	 ively 	 	update	 th 	 is 	 	network	.
+and	each	possible	rule	,	in	a	sense	,	 correspond 	 s 	 	to	a	 candid 	 ate 	 	 uni 	 verse 	 	.
+ actual 	 ly 	 	,	i	have	n't	 show 	 n 	 	these	before	,	but	here	are	a	few	of	the	 candid 	 ate 	 	 uni 	 verse 	 s 	 	that	i	've	 look 	 ed 	 	at	.
+some	of	these	are	 hope 	 less 	 	 uni 	 verse 	 s 	 	,	 complete 	 ly 	 	 steril 	 e 	 	,	with	other	 kind 	 s 	 	of	 patho 	 logies 	 	like	no	 not 	 ion 	 	of	space	,	no	 not 	 ion 	 	of	time	,	no	matter	,	other	 problem 	 s 	 	like	that	.
+but	the	 excit 	 ing 	 	thing	that	i	've	found	in	the	last	few	 year 	 s 	 	is	that	you	 actual 	 ly 	 	do	n't	have	to	go	 ver 	 y 	 	far	in	the	 computation 	 al 	 	 uni 	 verse 	 	before	you	start	 find 	 ing 	 	 candid 	 ate 	 	 uni 	 verse 	 s 	 	that	are	n't	 obvious 	 ly 	 	not	our	 uni 	 verse 	 	.
+here	's	the	problem	:	any	serious	 candid 	 ate 	 	for	our	 uni 	 verse 	 	is	 inevit 	 ably 	 	full	of	 computation 	 al 	 	 irreducib 	 ility 	 	.
+which	 mean 	 s 	 	that	it	is	 irreducib 	 ly 	 	difficult	to	find	out	how	it	will	 re 	 ally 	 	 behav 	 e 	 	,	and	 whet 	 her 	 	it	 match 	 es 	 	our	physical	 uni 	 verse 	 	.
+a	few	 year 	 s 	 	ago	,	i	was	 pre 	 tty 	 	 excit 	 ed 	 	to	discover	that	there	are	 candid 	 ate 	 	 uni 	 verse 	 s 	 	with	 inc 	 red 	 ibly 	 	simple	 rule 	 s 	 	that	 success 	 fully 	 	 re 	 produce 	 	special	 relat 	 ivity 	 	,	and	even	general	 relat 	 ivity 	 	and	 gravit 	 ation 	 	,	and	at	 l 	 east 	 	give	 hint 	 s 	 	of	 quant 	 um 	 	 mechanic 	 s 	 	.
+so	,	will	we	find	the	whole	of	physics	?
+i	do	n't	know	for	 s 	 ure 	 	,	but	i	think	at	 th 	 is 	 	point	it	's	sort	of	 al 	 most 	 	 embarrass 	 ing 	 	not	to	at	 l 	 east 	 	try	.
+not	an	easy	project	.
+one	's	got	to	build	a	lot	of	technology	.
+one	's	got	to	build	a	structure	that	's	 prob 	 ably 	 	at	 l 	 east 	 	 a 	 s 	 	deep	 a 	 s 	 	 exist 	 ing 	 	physics	.
+and	i	'm	not	 s 	 ure 	 	what	the	best	way	to	organize	the	whole	thing	is	.
+build	a	team	,	open	it	up	,	 off 	 er 	 	 prize 	 s 	 	and	so	on	.
+but	i	'll	tell	you	,	here	 to 	 day 	 	,	that	i	'm	 commit 	 ted 	 	to	 see 	 ing 	 	 th 	 is 	 	project	 d 	 one 	 	,	to	see	if	,	 with 	 in 	 	 th 	 is 	 	decade	,	we	can	 final 	 ly 	 	hold	in	our	 hand 	 s 	 	the	rule	for	our	 uni 	 verse 	 	and	know	where	our	 uni 	 verse 	 	lies	in	the	space	of	all	possible	 uni 	 verse 	 s 	 	...
+and	be	able	to	type	 in 	 to 	 	wolfram	alpha	,	``	the	 theor 	 y 	 	of	the	 uni 	 verse 	 	,	``	and	have	it	tell	us	.
+so	i	've	 be 	 en 	 	 work 	 ing 	 	on	the	idea	of	computation	now	for	more	than	30	 year 	 s 	 	,	building	 tool 	 s 	 	and	 method 	 s 	 	and	 turn 	 ing 	 	intellectual	 idea 	 s 	 	 in 	 to 	 	 million 	 s 	 	of	lines	of	code	and	 gr 	 ist 	 	for	 serv 	 er 	 	 farm 	 s 	 	and	so	on	.
+with	every	 pass 	 ing 	 	year	,	i	 real 	 ize 	 	how	much	more	 power 	 ful 	 	the	idea	of	computation	 re 	 ally 	 	is	.
+it	's	taken	us	a	long	way	 al 	 ready 	 	,	but	there	's	so	much	more	to	come	.
+from	the	 found 	 ations 	 	of	science	to	the	 limit 	 s 	 	of	technology	to	the	 ver 	 y 	 	definition	of	the	human	condition	,	i	think	computation	is	destined	to	be	the	 defi 	 ning 	 	idea	of	our	future	.
+thank	you	.
+chris	anderson	:	that	was	 astonish 	 ing 	 	.
+stay	here	.	i	've	got	a	question	.
+so	,	that	was	,	fair	to	say	,	an	 astonish 	 ing 	 	talk	.
+are	you	able	to	say	in	a	sentence	or	two	how	 th 	 is 	 	type	of	 think 	 ing 	 	could	integrate	at	some	point	to	 thing 	 s 	 	like	string	 theor 	 y 	 	or	the	kind	of	 thing 	 s 	 	that	people	think	of	 a 	 s 	 	the	fundamental	 explan 	 ations 	 	of	the	 uni 	 verse 	 	?
+stephen	wolfram	:	well	,	the	 part 	 s 	 	of	physics	that	we	kind	of	know	to	be	true	,	 thing 	 s 	 	like	the	standard	model	of	physics	:	what	i	'm	 try 	 ing 	 	to	do	better	 re 	 produce 	 	the	standard	model	of	physics	or	it	's	 simpl 	 y 	 	wrong	.
+the	 thing 	 s 	 	that	people	have	 tri 	 ed 	 	to	do	in	the	last	25	 year 	 s 	 	or	so	with	string	 theor 	 y 	 	and	so	on	have	 be 	 en 	 	an	 interest 	 ing 	 	exploration	that	 ha 	 s 	 	 tri 	 ed 	 	to	get	back	to	the	standard	model	,	but	 ha 	 s 	 	n't	 quit 	 e 	 	gotten	there	.
+my	guess	is	that	some	great	 simpl 	 ification 	 s 	 	of	what	i	'm	 do 	 ing 	 	may	 actual 	 ly 	 	have	 consider 	 able 	 	 reson 	 ance 	 	with	what	's	 be 	 en 	 	 d 	 one 	 	in	string	 theor 	 y 	 	,	but	that	's	a	 complic 	 ated 	 	math	thing	that	i	do	n't	yet	know	how	it	's	going	to	work	out	.
+ca	:	benoit	mandelbrot	is	in	the	audience	.
+he	 al 	 so 	 	 ha 	 s 	 	 show 	 n 	 	how	 complex 	 ity 	 	can	arise	out	of	a	simple	start	.
+ do 	 es 	 	your	work	 re 	 late 	 	to	his	?
+sw	:	i	think	so	.
+i	view	benoit	mandelbrot	's	work	 a 	 s 	 	one	of	the	 found 	 ing 	 	 con 	 trib 	 ution 	 s 	 	to	 th 	 is 	 	kind	of	area	.
+benoit	 ha 	 s 	 	 be 	 en 	 	 part 	 icular 	 ly 	 	 interest 	 ed 	 	in	 nest 	 ed 	 	 pattern 	 s 	 	,	in	 fract 	 al 	 s 	 	and	so	on	,	where	the	structure	is	 some 	 thing 	 	that	's	kind	of	tree	-	like	,	and	where	there	's	sort	of	a	big	branch	that	 make 	 s 	 	little	 branch 	 es 	 	and	even	 small 	 er 	 	 branch 	 es 	 	and	so	on	.
+that	's	one	of	the	ways	that	you	get	 to 	 ward 	 s 	 	true	 complex 	 ity 	 	.
+i	think	 thing 	 s 	 	like	the	rule	30	cellular	 autom 	 a 	 ton 	 	get	us	to	a	different	level	.
+in	fact	,	in	a	 ver 	 y 	 	precise	way	,	they	get	us	to	a	different	level	 be 	 cause 	 	they	seem	to	be	 thing 	 s 	 	that	are	 cap 	 able 	 	of	 complex 	 ity 	 	that	's	sort	of	 a 	 s 	 	great	 a 	 s 	 	 complex 	 ity 	 	can	ever	get	...
+i	could	go	on	about	 th 	 is 	 	at	great	length	,	but	i	wo	n't	.
+ca	:	stephen	wolfram	,	thank	you	.
+

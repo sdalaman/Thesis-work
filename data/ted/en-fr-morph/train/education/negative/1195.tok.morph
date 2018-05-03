@@ -1,0 +1,42 @@
+it	is	a	dream	of	 man 	 kind 	 	to	fly	like	a	bird	.
+ bird 	 s 	 	are	 ver 	 y 	 	 ag 	 ile 	 	.
+they	fly	,	not	with	 rot 	 ating 	 	 component 	 s 	 	,	so	they	fly	 on 	 ly 	 	by	flapping	 the 	 ir 	 	 wing 	 s 	 	.
+so	we	 look 	 ed 	 	at	the	 bird 	 s 	 	,	and	we	 tri 	 ed 	 	to	make	a	model	that	is	 power 	 ful 	 	,	 ultra 	 light 	 	,	and	it	must	have	 excel 	 lent 	 	 aero 	 dynamic 	 	 qual 	 ities 	 	that	would	fly	by	 it 	 s 	 	own	and	 on 	 ly 	 	by	flapping	 it 	 s 	 	 wing 	 s 	 	.
+so	what	would	be	better	[	than	]	to	use	the	 her 	 ring 	 	gull	,	in	 it 	 s 	 	 free 	 dom 	 	,	 circl 	 ing 	 	and	 swoop 	 ing 	 	over	the	sea	,	and	[	to	]	use	 th 	 is 	 	 a 	 s 	 	a	role	model	?
+so	we	 br 	 ing 	 	a	team	together	.
+there	are	 general 	 ists 	 	and	 al 	 so 	 	 special 	 ists 	 	in	the	field	of	 aero 	 dynamic 	 s 	 	in	the	field	of	building	 glider 	 s 	 	.
+and	the	task	was	to	build	an	 ultra 	 light 	 	 in 	 door 	 	-	 fly 	 ing 	 	model	that	is	able	to	fly	over	your	 head 	 s 	 	.
+so	be	 care 	 ful 	 	 lat 	 er 	 	on	.
+and	 th 	 is 	 	was	one	issue	:	to	build	it	that	 light 	 weight 	 	that	no	one	would	be	hurt	if	it	fell	down	.
+so	why	do	we	do	all	 th 	 is 	 	?
+we	are	a	company	in	the	field	of	 autom 	 ation 	 	,	and	we	'd	like	to	do	 ver 	 y 	 	 light 	 weight 	 	 structure 	 s 	 	 be 	 cause 	 	that	's	energy	efficient	,
+and	we	'd	like	to	learn	more	about	 pneumatic 	 s 	 	and	air	flow	 phenomen 	 a 	 	.
+so	i	now	would	like	you	to	[	put	]	your	seat	 belt 	 s 	 	on	and	put	your	 hat 	 s 	 	[	on	]	.
+so	 may 	 be 	 	we	'll	try	it	once	--	to	fly	a	smartbird	.
+thank	you	.
+so	we	can	now	look	at	the	smartbird	.
+so	here	is	one	 with 	 out 	 	a	skin	.
+we	have	a	 wing 	 span 	 	of	about	two	 meter 	 s 	 	.
+the	length	is	one	meter	and	six	,	and	the	weight	,	it	is	 on 	 ly 	 	450	 gram 	 s 	 	.
+and	it	is	all	out	of	carbon	fiber	.
+in	the	middle	we	have	a	motor	,	and	we	 al 	 so 	 	have	a	gear	in	it	,
+and	we	use	the	gear	to	transfer	the	 circul 	 ation 	 	of	the	motor	.
+so	 with 	 in 	 	the	motor	,	we	have	three	hall	 sensor 	 s 	 	,	so	we	know	 exact 	 ly 	 	where	the	wing	is	.
+and	if	we	now	beat	up	and	down	...
+we	have	the	 possibil 	 ity 	 	to	fly	like	a	bird	.
+so	if	you	go	down	,	you	have	the	large	area	of	 pro 	 pulsion 	 	,
+and	if	you	go	up	,	the	 wing 	 s 	 	are	not	that	large	,	and	it	is	 eas 	 ier 	 	to	get	up	.
+so	,	the	next	thing	we	did	,	or	the	 challeng 	 es 	 	we	did	,	was	to	coordinate	 th 	 is 	 	 move 	 ment 	 	.
+we	have	to	turn	it	,	go	up	and	go	down	.
+we	have	a	split	wing	.
+with	a	split	wing	we	get	the	lift	at	the	upper	wing	,	and	we	get	the	 pro 	 pulsion 	 	at	the	lower	wing	.
+ al 	 so 	 	,	we	see	how	we	measure	the	 aero 	 dynamic 	 	efficiency	.
+we	had	knowledge	about	the	 electro 	 mechanic 	 al 	 	efficiency	and	then	we	can	 calcul 	 ate 	 	the	 aero 	 dynamic 	 	efficiency	.
+so	 there 	 fore 	 	,	it	 rise 	 s 	 	up	from	 pass 	 ive 	 	 tors 	 ion 	 	to	active	 tors 	 ion 	 	,	from	30	percent	up	to	80	percent	.
+next	thing	we	have	to	do	,	we	have	to	control	and	 regulat 	 e 	 	the	whole	structure	.
+ on 	 ly 	 	if	you	control	and	 regulat 	 e 	 	it	,	you	will	get	that	 aero 	 dynamic 	 	efficiency	.
+so	the	 over 	 all 	 	consumption	of	energy	is	about	25	 watt 	 s 	 	at	 take 	 off 	 	and	16	to	18	 watt 	 s 	 	in	flight	.
+thank	you	.
+bruno	giussani	:	markus	,	i	think	that	we	should	fly	it	once	more	.
+markus	fischer	:	 yea 	 h 	 	,	 s 	 ure 	 	.
+

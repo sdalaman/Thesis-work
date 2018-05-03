@@ -1,0 +1,160 @@
+son	10	yıldır	insanların	nasıl	ve	neden	sosyal	ağlar	üzerinde	bir	araya	geldiklerini	anlamak	için	vakit	harcıyorum	.
+va	kastettiğim	sosyal	ağ	türü	son	zamanlardaki	internet	ağları	değil	,	insanlığın	yüzlerce	,	binlerce	yıldır	insanlığın	afrika	bozkırlarında	ilk	ortaya	çıktığı	zamanlardan	beri	bir	araya	geldikleri	sosyal	ağlar	.
+yani	ben	insanlarla	iş	arkadaşlığı	,	kardeşlik	ve	akrabalık	gibi	değişik	derecelerde	ilişkiler	kuruyorum	;	ve	bu	insanlar	da	diğer	insanlarla	benzer	ilişkiler	kuruyorlar	.
+ve	bu	çok	geniş	bir	alana	yayılıyor	.
+ve	buna	benzer	bir	_UNK_	oluyor	.
+her	nokta	bir	insan	.
+aralarındaki	her	çizgi	iki	insan	arasındaki	ilişki	.	farklı	türde	ilişkiler	.
+ve	her	birimizin	dahil	olduğu	bu	tarz	büyük	bir	insanlık	dokusu	elde	ediyorsunuz	.
+meslektaşım	james	fowler	ve	ben	bir	süredir	bu	sosyal	ağların	işleyişini	yönlendiren	matematiksel	,	sosyal	,	biyolojik	ve	psikolojik	kuralların	nasıl	bir	araya	geldiğini	,	benzer	kuralların	neler	olduğunu	nasıl	işlediklerini	ve	yaşamımızı	nasıl	etkilediklerini	araştırıyoruz	.
+ve	son	zamanlarda	,	ekrandaki	modeli	kullanarak	dünyayı	iyi	bir	hale	getirebilmek	için	yeni	yöntemler	bulabilir	miyiz	.	bazı	şeyleri	sadece	anlamak	yerine	çözebilir	miyiz	diye	düşünmeye	başladık	.
+uğraşmaya	düşündüğümüz	şeylerden	ilki	salgın	hastalıkları	nasıl	önceden	tahmin	ederiz	oldu	.
+salgın	hastalıkları	öngörmede	kullanılan	şu	anki	yöntem	-	salgın	hastalıklarla	savaşma	kurumu	veya	başka	bir	ulusal	_UNK_	-	olduğunuz	yerde	oturmak	ve	bilgileri	bölgedeki	doktorlar	ve	laboratuvarlardan	toplayarak	belli	durumların	yaygınlığını	ve	sıklığını	rapor	etmek	şeklindedir	.
+böyle	,	böyle	,	bazı	hastalara	burada	şu	tanılar	konuldu	,	bazı	diğer	hastalara	ise	şurada	şu	tanılar	konuldu	gibi	...	.	ve	bütün	bu	veriler	biraz	_UNK_	merkezi	bir	_UNK_	depolanır	.
+ve	eğer	herşey	sorunsuz	giderse	,	bir	veya	iki	hafta	sonra	,	salgın	hastalığın	bugün	hangi	durumda	olduğunu	öğrenebilirsiniz	.
+ve	aslında	,	bir	yıl	kadar	önce	,	resmi	bir	açıklamayla	tanıtılan	google	flu	_UNK_	fikrine	göre	grip	_UNK_	insanların	günlük	arama	davranışlarına	bakarak	salgının	nerede	olduğunu	,	salgın	hastalığın	bugünki	durumunun	ne	olduğunu	,	ve	_UNK_	bugün	ne	kadar	olduğunu	_UNK_	.
+ama	bugün	size	göstermek	istediğim	şey	,	sadece	bir	salgınla	ilgili	acil	uyarı	değil	,	aynı	zamanda	salgının	erkenden	belirlenmesi
+hatta	,	bu	fikir	yalnızca	bulaşıcı	salgın	hastalıkları	değil	,	her	türlü	soyut	/	somut	_UNK_	öngörmek	için	kullanılabilir	.
+örneğin	,	sosyal	temas	ile	yayılan	herhangi	bir	şey	bu	şekilde	anlaşılabilir	,	soldaki	soyut	düşüncelerden	;	yani	vatanseverlik	,	başkalarını	_UNK_	,	din	gibi	,	uygulamalara	,	örneğin	;	diyet	alışkanlıklarından	,	kitap	seçimine	,	içme	alışkanlığından	,	bisiklet	kaskı	ve	diğer	önlem	uygulamalarına	,	veya	insanların	satın	alabileceği	ürünlere	,	elektronik	eşya	satın	alma	yaygınlığı	yani	insanlararası	olan	herhangi	bir	_UNK_	söz	ediyorum	.
+bir	yeniliğin	yayılma	türü	size	şimdi	göstereceğim	yapı	ile	anlaşılabilir	ve	öngörülebilir	.
+hepinizin	bildiği	gibi	bunu	düşünmenin	klasik	yolu	yeniliğin	-	yayılması	veya	pazara	tanıtılan	ürünün	kabul	görme	eğrisidir	.
+burada	y	ekseninde	etkilenen	insanların	yüzdesi	x	ekseninde	ise	zaman	var	.
+i̇lk	başlarda	,	çok	fazla	insan	etkilenmemiş	,	ve	bu	klasik	sigmoid	şekilli	,	veya	s	biçimli	eğriyi	elde	ediyoruz	.
+ve	bu	şeklin	sebebi	ilk	başlarda	,	bir	veya	iki	kişi	diyelim	,	etkileniyor	veya	bulaşıyor	sonra	bunlar	iki	kişiyi	etkiliyor	veya	onlara	bulaştırıyor	onlar	da	dört	,	sekiz	,	16	kişiyi	vs.	ve	eğrinin	salgın	büyüme	kısmını	elde	ediyorsunuz	.	ve	salgın
+nüfusun	büyük	kısmına	yayılınca	_UNK_	ulaşıyor	.
+salgının	yayılabileceği	insan	sayısı	zaman	ilerledikçe	azalıyor	ve	eğrinin	sondaki	düz	kısmına	ulaşıyorsunuz	.	ve	toplamda	da	bu	s	biçimli	eğriyi	elde	ediyorsunuz	.
+bu	biçim	mikroplar	için	doğru	olduğu	kadar	,	fikirler	davranışlar	,	pazara	sunulan	yeni	ürünün	benimsenmesi	için	de	geçerli	.
+fakat	bunlar	yalnızca	insan	nüfusuna	rastgele	_UNK_	.
+aslında	ağlar	aracılığıyla	yayılırlar	.
+çünkü	,	söylediğim	gibi	,	hayatımızı	ağlarda	geçiriyoruz	,	ve	bu	ağlar	özel	bir	yapıya	sahip	.
+şimdi	eğer	bu	tarz	bir	ağa	bakarsanız	...	burada	105	insan	var	.
+noktalar	insanları	,	ve	çizgiler	de	arkadaşlık	ilişkilerini	temsil	ediyor	.
+gördüğünüz	gibi	insanlar	ağda	farklı	yerlerde	bulunuyor	.
+ve	insanlar	arasında	farklı	türde	ilişkiler	var	.
+bunlar	,	arkadaşlık	bağı	,	kardeşlik	bağı	,	karı	koca	bağı	,	iş	arkadaşlığı	ya	da	komşuluk	bağı	gibi	..
+ve	farklı	şeyler	farklı	ilişkiler	ile	yayılır
+örneğin	cinsel	yolla	bulaşan	hastalıklar	cinsel	ilişki	ile	yayılır
+veya	örneğin	,	bir	insanın	sigara	içmesinin	nedeni	sigara	içen	arkadaşlarından	etkilenmesi	olabilir	.
+veya	o	kişinin	bencil	olmayan	ve	hayırsever	davranışlarının	nedeni	iş	arkadaşlarından	etkilenmesi	olabilir	,	ya	da	komşularından	.
+ancak	ağdaki	her	nokta	aynı	değil	.
+eğer	buna	bakarsanız	,	hemen	fark	edeceksiniz	ki	değişik	insanların	değişik	sayıda	ilişkisi	var	.
+bazı	insanların	bir	,	bazılarının	iki	kimisinin	altı	,	kimisinin	de	on	tane	bağlantısı	var	.
+buna	noktanın	,	derecesi	,	ya	da	o	noktanın	sahip	olduğu	bağlantı	sayısı	denir	.
+ancak	bundan	öte	,	başka	bir	şey	daha	var	.
+eğer	a	ve	b	noktalarına	bakarsanız	,	her	ikisinin	de	altı	bağlantısı	var	.
+oysa	bu	ağın	resmini	kuş	bakışı	açısından	görebilseniz	a	ve	b	noktalarının	arasında	bir	şeyin	çok	farklı	olduğunu	keşfedeceksiniz	keşfedeceksiniz	.
+size	şunu	sormak	istiyorum	,	--	bu	sezgiyi	sizde	bir	soru	sorarak	sizde	_UNK_	--	eğer	ölümcül	bir	mikrop	yayılıyorsa	hangisi	olmayı	yeğlersiniz	?	a	ya	da	b	?
+nicholas	christakis	:	b	,	açık	ve	seçik	olarak	.
+b	ağın	ucunda	yer	alıyor	.
+pekala	,	eğer	ilginizi	çekebilecek	bir	dedikodu	yayılıyorsa	,	hangisi	olmayı	yeğlersiniz	?
+a.	hemen	_UNK_	üzere	ağın	yapısı	ve	a'nın	ağdaki	konumu	nedeniyle	a'nın	yayılan	``	şeyleri	``	daha	çabuk	alacağı	açıktır	.
+a	,	gerçekten	,	daha	merkezde	ve	bu	matematiksel	olarak	ifade	edilebilir	.
+bu	yüzden	,	eğer	ağ	boyunca	yayılan	bir	şeyi	izlemek	istiyorsak	,	mantıklı	olanı	,	ağın	merkezindeki	noktalara	algılayıcılar	yerleştirip	,	ki	a	da	buna	dahil	;	daha	sonra	bu	merkezdeki	noktaları	/	insanları	_UNK_	,	ve	bir	şekilde	ağda	yayılan	``	şeyi	``	erkenden	tespit	etmemiz	mümkün	olur	.
+eğer	o	noktaların	mikropla	temas	ettiğini	ya	da	bir	``	şey	``	öğrendiğini	görürseniz	,	yakın	zamanda	herkesin	o	mikropla	temas	edeceğini	ya	da	o	bir	``	şey	``	i	öğreneceğini	biliyorsunuz	.
+ve	bu	ağın	yapısı	referans	alınmadan	rastgele	seçilen	altı	kişi	_UNK_	çok	daha	iyidir	.
+ve	gerçekten	,	eğer	bunu	yapabilirseniz	göreceğiniz	şunun	gibi	bir	şey	olacaktır	.
+sol	tarafta	,	yine	,	s	biçimli	salgın	_UNK_	var	.
+noktalı	kırmızı	çizgiyle	salgının	rastgele	insanlar	arasında	nasıl	yayılabileceğini	;	ve	solundaki	,	sola	doğru	kaydırılmış	eğride	de	salgının	ağın	merkezindeki	insanlarda	nasıl	yayılacağını	gösteriyoruz	.
+y	doğrultusu	toplam	salgın	_UNK_	sayısını	;	x	doğrultusu	da	zamanı	gösteriyor	.
+ve	sağ	tarafta	,	aynı	veriyi	gösteriyoruz	ancak	;	burada	gösterilen	günlük	vak'alar	.
+ve	burada	gösterdiğimiz	ise	,	--	örneğin	burada	--	çok	az	sayıda	insan	etkilenmiş	,	ilerledikçe	ise	daha	fazla	sayıda	etkileniyor	ve	burası	da	salgının	tepe	noktası	.
+sola	kaydırılmış	eğri	,	merkezdeki	bireylerde	ne	olduğunu	gösteriyor	.
+ve	ikisi	arasındaki	bu	zaman	farklılığı	bize	yakında	insan	nüfusu	arasında	gerçekleşecek	olan	salgının	erken	_UNK_	verir	.
+fakat	sorun	ise	;	insanların	sosyal	ağlarının	bir	haritasını	çıkarmanın	her	zaman	mümkün	olmadığıdır	.
+çok	pahalı	olabilir	[	çok	zor	]	ahlaki	olmayabilir	,	veya	,	dürüstçe	söylemem	gerekirse	,	mümkün	de	değil	.
+öyleyse	,	kimin	ağın	merkezinde	olduğunu	ağın	haritasını	çıkarmadan	nasıl	anlayabiliriz	?
+bunun	üzerine	aklımıza	,	eski	bir	bilgiyi	,	daha	doğrusu	sosyal	ağlarla	ilgili	bilinen	bir	bilgiyi	kullanmak	geldi	.	şöyle	ki	:	arkadaşlarının	senden	daha	fazla	arkadaşının	olduğunu	biliyor	musun	?
+arkadaşlarının	senden	daha	fazla	arkadaşı	var	.	bu	arkadaşlık	paradoksu	[	çelişkisi	]	olarak	bilinir	.
+i̇lk	olarak	,	çevresinde	çok	revaçta	olan	birini	düşünün	,	örneğin	yüzlerce	arkadaşına	parti	veren	birisi	;	ve	bir	de	herkesten	kaçan	ve	yalnızca	bir	arkadaşı	olan	birini	düşünün	.	ve	_UNK_	rastgele	birisini	seçiyorsunuz	ve	bu	seçtiğiniz	kişiler	büyük	olasılıkla	partiyi	_UNK_	tanıyacaktır	.
+eğer	ki	bu	kişiler	parti	sahibini	arkadaşı	olarak	_UNK_	,	partiyi	_UNK_	yüzlerce	arkadaşı	vardır	.	bu	nedenle	de	herkesten	daha	çok	arkadaşı	vardır	.
+ve	de	bu	temelde	arkadaşlık	çelişkisi	olarak	bilinir	.
+rastgele	_UNK_	arkadaşlarının	derecesi	,	daha	fazladır	ve	bu	yüzden	rastgele	seçilen	kişilere	göre	daha	_UNK_	.
+eğer	ki	bu	ağın	kenarındaki	insanları	düşünecek	olursanız	,	_UNK_	sezgisel	olarak	kavrayabilirsiniz	.
+eğer	bu	kişiyi	seçerseniz	,	arkadaş	olarak	tanımlayacağı	tek	kişi	budur	mantıksal	olarak	da	bu	kişin	de	,	en	azından	iki	ve	genel	olarak	daha	fazla	arkadaşı	olmalıdır	.
+ve	bu	mantık	tüm	kenardaki	bireyler	için	geçerlidir	.
+daha	da	doğrusu	,	ağda	içeri	ilerledikçe	bu	varsayım	geçerlidir	.	seçtiğiniz	kişi	,	diğerleri	tarafından	arkadaş	olarak	_UNK_	;	ağın	merkezine	doğru	gidiyorsunuz	demektir	.
+bu	yüzden	biz	de	bu	bilgiyle	;	ağ	içinde	gerçekleşebilecek	bir	olayı	öngörmek	için	kullanmanın	yollarını	araştırdık	.
+bu	fikir	sayesinde	;	insanlar	arasından	rastgele	bir	seçim	yapabilir	,	daha	merkezde	olabilecek	arkadaşlarını	göstermelerini	isteyebilir	,	ve	bu	işlemi	tüm	ağın	haritasını	çıkarmadan	yapabiliriz	.
+bu	fikri	,	2009'un	sonbaharı	ve	kışında	;	-	yalnızca	birkaç	ay	önce	-	h	1n1	[	domuz	]	gribi	için	harvard	üniversitesinde	test	ettik	.
+1300	rastgele	üniversite	öğrencisi	seçtik	,	ve	arkadaşlarını	göstermelerini	istedik	.	ve	hem	rastgele	seçilen	öğrenciyi	hem	de	arkadaşlarını	günlük	olarak	gribe	yakalanıp	_UNK_	takip	ettik	.
+bunu	da	dolaylı	olarak	,	bu	öğrencilerin	sağlık	merkezine	gidip	_UNK_	bakarak	elde	ettik	.
+ve	ayrıca	,	doğrudan	da	bize	haftada	birkaç	tane	e-posta	göndermelerini	istedik	.
+aynen	öngördüğümüz	gerçekleşti	.
+rastgele	seçilen	grup	kırmızı	çizgi	,
+arkadaş	grubunda	ise	salgın	eğrisi	sola	kaydı	,	buraya	doğru	.
+ve	ikisi	arasındaki	fark	ise	16	gün	.
+arkadaş	grubunu	gözlemleyerek	bu	insan	topluluğu	içerisinde	yaklaşan	salgın	için	16	günlük	bir	erken	uyarı	zamanı	elde	edebildik	.
+buna	ek	olarak	eğer	örneğin	,	salgınları	ya	da	pazara	sunulan	bir	ürünün	yayılmasını	inceleyen	bir	_UNK_	[	analist	]	iseniz	,	yapacağınız	örnek	_UNK_	rastgele	bir	kişi	seçip	arkadaşlarını	belirleyip	,	hem	o	kişiyi	hem	de	arkadaşlarını	_UNK_	.
+arkadaşlar	içinde	,	yaygınlık	_UNK_	küçük	artış	eli	_UNK_	olan	bir	salgının	ya	da	yeniliği	_UNK_	ilk	kanıtıdır	.
+ya	da	sol	tarafta	,	iki	eğrinin	birbirinden	_UNK_	başladığı	ilk	noktayı	görüyorsunuz	.
+ne	zaman	arkadaş	grubu	artışa	geçiyor	ve	rastgele	_UNK_	geride	bırakıyor	ve	ne	zaman	eğri	kaymaya	başlıyor	?
+bu	beyaz	çizgiyle	gösterildiği	gibi	salgının	en	yaygın	hale	ulaşmasından	46	gün	önce	olmuş	.
+yani	,	bu	belli	bir	topluluktaki	grip	salgınını	bir	buçuk	ay	gibi	bir	zaman	öncesinden	belirlemenin	bir	yöntemi	olabilir	.
+şunu	da	belirtmeliyim	ki	;	erken	belirlemenin	süresi	birçok	_UNK_	bağlıdır	.
+_UNK_	doğasına	bağlı	olabilir	--	farklı	_UNK_	bu	yöntemi	kullanarak	farklı	erken	uyarılar	elde	edersiniz	veya	da	yayılan	bir	olayı	...	ya	da	insan	sosyal	ağının	yapısını	...
+bizim	örneğimizde	,	gerekli	değilse	de	öğrencilerin	ağını	_UNK_	.
+bu	714	öğrencinin	ve	arkadaşlık	bağlarının	yer	aldığı	bir	harita	.
+ve	bir	dakika	içerisinde	,	bunu	inceleyeceğiz	.
+bu	ağdan	120	gün	boyunca	günlük	örnekler	alacağız
+kırmızı	noktalar	grip	_UNK_	,	sarı	noktalar	ise	grip	olanların	arkadaşlarını	,
+ve	noktaların	boyutu	da	o	noktanın	grip	olan	arkadaş	sayısını	gösteriyor	.
+yani	,	büyük	noktalar	daha	çok	arkadaşınızın	grip	olduğu	anlamında	.
+bu	şekle	bakarsanız	--	burada	13	_UNK_	--	az	miktarda	_UNK_	oluştuğunu	göreceksiniz	.
+ve	burada	ortada	grip	_UNK_	adeta	bir	patlama	yaşandığını	görüyorsunuz	.
+burada	19	_UNK_	.
+ve	kasım	ayında	eğrinin	eğimi	artıyor	ve	...
+bum	,	bum	bum	.	ortada	_UNK_	sayısında	bir	patlama	olduğunu	görüyorsunuz	.	ve	ardından	bir	tür	denge	durumunu	görüyorsunuz	.	aralığın	sonuna	doğru	da	vak'alar	gittikçe	azalıyor	.
+bu	tür	bir	görsel	açıklama	,	bu	tür	salgınların	başkalarını	_UNK_	önce	ilk	olarak	merkezdeki	bireylerde	kök	saldığını	ve	onları	etkilediğini	gösteriyor	.
+ben	bu	yöntemin	yalnızca	mikroplara	değil	,	tüm	topluluk	içerisinde	yayılan	bir	``	şey	``	e	de	uygulanabileceğini	öne	sürüyorum	.
+bilgi	topluluklar	içinde	yayılır	...	kurallar	topluluklar	içerisinde	yayılabilir	...	davranışlar	topluluklar	içerisinde	yayılabilir	...
+davranışlar	derken	,	kastettiğim	suç	içeren	davranışlar	gibi	..	veya	oy	verme	gibi	,	veya	sağlığa	özen	davranışı	gibi	,	örneğin	sigara	içme	ya	da	aşılanma	...	ya	da	ürün	yaygınlaşması	,	veya	insanlararası	_UNK_	ortaya	çıkan	diğer	tüm	çeşit	davranışlar	gibi	.
+eğer	başkalarını	da	etkileyecek	bir	şey	yapıyorsam	,	bu	yöntem	ile	bu	``	şey	``	in	toplulukta	yayılmasıyla	ilgili	erken	uyarı	ya	da	erken	belirleme	sağlayabiliriz	.
+bu	yöntemin	işe	yaraması	için	kilit	nokta	,	insanlar	arası	bir	etkileşimin	var	olması	gerekir	.
+yayılma	mekanizması	herkesi	aynı	ölçüde	_UNK_	.
+aynı	_UNK_	--	ağlar	için	olduğu	kadar	--	başka	konular	için	de	kullanılabilir	.	örneğin	,	bir	konuya	müdahale	için	belirli	kişileri	seçmede	kullanılabilir	.
+örneğin	,	muhtemelen	``	sürü	bağışıklığı	``	kavramı	çoğunuza	tanıdık	geliyor	olabilir	.
+yani	,	eğer	bin	kişiden	oluşan	bir	topluluğumuz	varsa	ve	o	topluluğa	bir	_UNK_	karşı	bağışıklık	kazandırmak	istiyorsak	.	herkesi	bağışık	hale	getirmemiz	gerekmez	.
+960	kişinin	bağışıklık	kazanması	;	_UNK_	hepsinin	bağışıklık	kazanması	ile	eşdeğerdir	.
+çünkü	bir	ya	da	iki	bağışık	olmayan	kişi	hastalansa	bile	,	onların	_UNK_	başka	insan	yoktur	.
+çünkü	çevresindekilerin	hepsi	bağışık	insanlardır	.
+yani	,	yüzde	96	yüzde	yüz	ile	eşdeğerdir	.
+bazı	bilim	insanları	,	bin	kişiden	yüzde	30'luk	rastgele	bir	seçim	yaparak	,	300	kişiyi	bağışık	hale	getirdikten	sonra	ne	olacağını	kestirmeye	çalışmışlar	.
+topluluk	düzeyinde	bir	bağışık	elde	eder	miyiz	?
+yanıt	,	hayır	.
+ancak	eğer	bu	300	kişiyi	alır	ve	arkadaşlarını	bulursanız	,	ve	aynı	miktarda	aşı	alır	ve	bu	300	kişinin	300	arkadaşını	_UNK_	sanki	topluluğun	yüzde	_UNK_	aşılamış	gibi	bir	``	sürü	bağışıklığı	``	düzeyi	elde	edersiniz	ve	bunu	çok	daha	verimli	şekilde	ve	kısıtlı	bütçe	ile	yapmış	olursunuz	.
+benzer	fikirler	örneğin	gelişmekte	olan	ülkelerde	cibinlik	dağıtılması	ile	ilgili	kilit	kişileri	seçmekte	kullanılabilir	.
+eğer	köylerdeki	ilişki	ağının	yapısını	anlayabilirsek	bu	tür	_UNK_	_UNK_	için	_UNK_	kim	olduğunu	bulabiliriz	.
+ya	da	samimi	olmak	gerekirse	,	her	tür	ürün	reklamı	için	geçerlidir	.
+eğer	nasıl	_UNK_	gerektiğini	anlayabilirsek	,	verimliliği	ya	da	neye	ulaşmak	istediğimizi	olumlu	yönde	etkilemiş	oluruz	.
+ve	gerçekten	de	,	bunu	gerçekleştirmek	için	tüm	değişik	kaynaklardan	verileri	kullanabiliriz	.
+bu	bir	avrupa	ülkesindeki	sekiz	milyon	telefon	kullanıcısının	haritası	.
+her	nokta	bir	insanı	ve	her	çizgi	ise	insanlar	arasındaki	arama	yoğunluğunu	gösteriyor	.
+ve	tüm	ülkenin	haritasını	çıkarmak	için	bu	pasif	yolla	elde	edilen	verileri	kullanabilir	ve	kişilerin	ağın	neresinde	olduklarını	anlayabiliriz	.
+hem	de	kimseyi	sorgulamak	zorunda	kalmadan	bu	tür	bir	yapısal	kavrayış	elde	edebiliriz	.
+benzer	yapı	için	diğer	bilgi	kaynakları	da	kullanılabilir	,	hepinizin	bildiği	gibi	,	e-posta	alışverişi	,	sanal	etkileşimler	sanal	sosyal	ağlar	vb	...	.
+şu	an	,	``	devasa	-	pasif	``	olarak	adlandırdığım	bilgi	toplama	çabalarının	olduğu	bir	çağda	yaşıyoruz	.
+toplanmış	devasa	bilgileri	kullanabileceğimiz	pek	çok	yöntem	var	,	örneğin	bir	toplumu	izlemek	için	,	algılayıcı	ağlar	yaratmak	,	toplumda	olan	biteni	anlayabilmek	,	ve	toplumun	iyiliği	için	ortama	müdahele	etmek	gibi	şeyler	.
+çünkü	bu	yeni	teknolojiler	bize	yalnızca	kimin	kimle	konuştuğunu	değil	kimlerin	nerede	olduğunu	internete	yüklediklerini	temel	alarak	ne	düşündüklerini	,	ve	satın	aldıklarına	bakarak	daha	neler	alacaklarını	söylüyor	.
+ve	tüm	bu	_UNK_	veriler	bir	araya	getirilebilir	ve	insan	davranışlarını	daha	önce	hiç	olmadığı	kadar	anlamamız	için	işlenebilir	.
+örneğin	,	tır	sürücülerinin	benzin	satın	almalarını	inceleyebiliriz	.
+yani	yalnızca	tır	sürücüleri	tır	kullanmıyorlar	,	benzin	de	satın	alıyorlar	.
+ve	onların	benzin	_UNK_	küçük	artışa	bakarak	ekonomik	_UNK_	sona	ereceğini	görebiliriz	.
+ya	da	mobil	_UNK_	otobanda	yolda	yolculuk	yapan	insanların	cep	telefonlarının	hızlarını	ölçebilir	ve	hızın	azaldığı	yerlerde	trafiğin	yoğunlaşmaya	başladığını	anlayabilir	.
+ve	bu	bilgiyi	tekrardan	aynı	yol	üzerindeki	trafik	sıkışıklığına	henüz	_UNK_	abonelerine	iletebilir	.
+ya	da	doktorların	ilaç	yazma	davranışlarını	inceleyebilir	ve	ilaç	alanındaki	bir	yeniliğin	doktorlar	arasındaki	bir	ağda	nasıl	_UNK_	görebiliriz	.
+ya	da	,	insanların	satın	alma	alışkanlıklarını	_UNK_	ve	bu	tür	olayların	insan	topluluklarında	nasıl	yayıldığını	izleyebiliriz	.
+sanırım	bu	devasa	-	pasif	verilerin	kullanılabileceği	ü	ç	farklı	yol	var	.
+i̇lki	tamamen	pasif	,	az	önce	tır	sürücüleri	örneğinde	tanımladığım	gibi	.	burada	topluluğa	bir	müdahalede	bulunmuyoruz	.
+i̇kincisi	yarı	-	etkin	;	domuz	gribi	örneğinde	öğrencilerden	arkadaşlarını	göstermelerini	istediğimiz	gibi	.	ve	daha	sonra	arkadaşlarını	pasif	olarak	gözlemleyerek	,	grip	olup	olmadıklarına	bakarak	,	erken	tespitte	bulunabiliriz	.
+diğeri	örnek	ise	,	eğer	bir	telefon	operatörü	iseniz	,	kimin	ağın	merkezinde	olduğunu	bulabilir	ve	onlara	``	bize	her	gün	vücut	sıcaklığını	ölçüp	yollar	mısın	?	``	diye	sorabilirsiniz
+yalnızca	bize	vücut	sıcaklığını	gönder	...
+ve	bütün	bu	insanların	vücut	sıcaklıklarını	toplayıp	--	ama	ağın	merkezinde	olan	kişilerden	--
+ve	büyük	ölçekte	ise	,	yayılmakta	olan	bir	salgın	hastalığı	az	miktarda	veri	toplayarak	_UNK_	.
+ya	da	son	olarak	,	bi	sonraki	konuşmacılar	,	insanların	küresel	olarak	_UNK_	[	_UNK_	bilgi	topluluklarının	]	katkıda	bulunabileceği	,	_UNK_	,	ya	da	seçimleri	_UNK_	,	ve	bu	bilgileri	bizim	bir	araya	getirerek	sosyal	olay	ve	olguları	anlamamızı	sağlayacak	şekilde	nasıl	_UNK_	bahsedecekler	.
+doğrusu	,	bu	verilerin	_UNK_	,	bence	benim	ve	benim	gibilerin	``	sayısal	sosyal	bilimler	``	olarak	adlandırdığı	yeni	bir	çağın	habercisi	.
+bu	biraz	galileo'nun	teleskobu	kullanarak	yıldızları	farklı	bir	gözle	incelemesi	gibi	bir	şey	,	ya	da	_UNK_	mikroskobu	keşfederek	--	daha	doğrusu	icat	ederek	--	biyolojide	yeni	bir	çağ	açması	gibi	bir	şey	.
+artık	bizim	bu	tür	verilere	erişimimiz	var	ve	bu	durum	sosyal	olayları	ve	olguları	daha	önce	hiç	olmadığı	bir	şekilde	görmemizi	ve	anlamamızı	sağlayacak	.
+ve	bu	bilim	ile	,	bir	araya	gelmiş	toplamın	nasıl	tek	tek	küçük	parçaların	toplamından	daha	değerli	olduğunu	anlıyoruz	.
+ve	gerçekten	de	,	bu	kavrayışı	kullanarak	toplumun	ve	insanların	_UNK_	arttırabiliriz	.
+sağ	olun	.
+

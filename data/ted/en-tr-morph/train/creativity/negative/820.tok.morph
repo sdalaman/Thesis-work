@@ -1,0 +1,203 @@
+so	,	the	first	robot	to	talk	about	is	 call 	 ed 	 	 strid 	 er 	 	.
+it	 stand 	 s 	 	for	self	-	 excit 	 ed 	 	tripedal	dynamic	 experiment 	 al 	 	robot	.
+it	's	a	robot	that	 ha 	 s 	 	three	 leg 	 s 	 	,	which	is	inspired	by	nature	.
+but	have	you	 s 	 een 	 	 any 	 thing 	 	in	nature	,	an	animal	that	 ha 	 s 	 	three	 leg 	 s 	 	?
+ prob 	 ably 	 	not	.	so	,	why	do	i	call	 th 	 is 	 	a	 bio 	 logically 	 	inspired	robot	?	how	would	it	work	?
+but	before	that	,	let	's	look	at	pop	culture	.
+so	,	you	know	h.g	.	 well 	 s 	 	'	``	war	of	the	 world 	 s 	 	,	``	novel	and	movie	.
+and	what	you	see	over	here	is	a	 ver 	 y 	 	popular	video	game	,	and	in	 th 	 is 	 	fiction	they	 de 	 scribe 	 	these	alien	 creature 	 s 	 	that	are	 robot 	 s 	 	that	have	three	 leg 	 s 	 	that	 terror 	 ize 	 	earth	.
+but	my	robot	,	 strid 	 er 	 	,	 do 	 es 	 	not	move	like	 th 	 is 	 	.
+so	,	 th 	 is 	 	is	an	actual	dynamic	 simul 	 ation 	 	 anim 	 ation 	 	.
+i	'm	just	going	to	show	you	how	the	robot	 work 	 s 	 	.
+it	 flip 	 s 	 	 it 	 s 	 	body	180	 degree 	 s 	 	and	it	 s 	 wing 	 s 	 	 it 	 s 	 	leg	between	the	two	 leg 	 s 	 	and	 catch 	 es 	 	the	fall	.
+so	,	that	's	how	it	 walk 	 s 	 	.	but	when	you	look	at	us	human	 be 	 ing 	 	,	bipedal	 walk 	 ing 	 	,	what	you	're	 do 	 ing 	 	is	you	're	not	 re 	 ally 	 	using	a	muscle	to	lift	your	leg	and	walk	like	a	robot	.	right	?
+what	you	're	 do 	 ing 	 	is	you	 re 	 ally 	 	 s 	 wing 	 	your	leg	and	catch	the	fall	,	stand	up	 aga 	 in 	 	,	 s 	 wing 	 	your	leg	and	catch	the	fall	.
+you	're	using	your	built	-	in	 dynamic 	 s 	 	,	the	physics	of	your	body	,	just	like	a	pendulum	.
+we	call	that	the	 con 	 cept 	 	of	 pass 	 ive 	 	dynamic	 loco 	 motion 	 	.
+what	you	're	 do 	 ing 	 	is	,	when	you	stand	up	,	potential	energy	to	 kine 	 tic 	 	energy	,	potential	energy	to	 kine 	 tic 	 	energy	.
+it	's	a	 constant 	 ly 	 	 fall 	 ing 	 	process	.
+so	,	even	 th 	 ough 	 	there	is	 noth 	 ing 	 	in	nature	that	 look 	 s 	 	like	 th 	 is 	 	,	 re 	 ally 	 	,	we	 we 	 re 	 	inspired	by	biology	and	 app 	 ly 	 ing 	 	the	 principle 	 s 	 	of	 walk 	 ing 	 	to	 th 	 is 	 	robot	.	thus	it	's	a	 bio 	 logically 	 	inspired	robot	.
+what	you	see	over	here	,	 th 	 is 	 	is	what	we	want	to	do	next	.
+we	want	to	fold	up	the	 leg 	 s 	 	and	shoot	it	up	for	long	-	range	motion	.
+and	it	 deploy 	 s 	 	 leg 	 s 	 	--	it	 look 	 s 	 	 al 	 most 	 	like	``	star	 war 	 s 	 	``	--	when	it	 land 	 s 	 	,	it	 absorb 	 s 	 	the	shock	and	 start 	 s 	 	 walk 	 ing 	 	.
+what	you	see	over	here	,	 th 	 is 	 	yellow	thing	,	 th 	 is 	 	is	not	a	death	ray	.
+ th 	 is 	 	is	just	to	show	you	that	if	you	have	 camera 	 s 	 	or	different	 type 	 s 	 	of	 sensor 	 s 	 	--	 be 	 cause 	 	it	is	tall	,	it	's	1.8	 meter 	 s 	 	tall	--	you	can	see	over	 obstacle 	 s 	 	like	 bush 	 es 	 	and	 t 	 hose 	 	 kind 	 s 	 	of	 thing 	 s 	 	.
+so	we	have	two	 prototype 	 s 	 	.
+the	first	version	,	in	the	back	,	that	's	 strid 	 er 	 	i	.
+the	one	in	front	,	the	 small 	 er 	 	,	is	 strid 	 er 	 	ii	.
+the	problem	that	we	had	with	 strid 	 er 	 	i	is	it	was	just	too	heavy	in	the	body	.	we	had	so	 man 	 y 	 	 motor 	 s 	 	,	you	know	,	 align 	 ing 	 	the	 joint 	 s 	 	,	and	 t 	 hose 	 	 kind 	 s 	 	of	 thing 	 s 	 	.
+so	,	we	 decide 	 d 	 	to	synthesize	a	 mechanic 	 al 	 	 mechan 	 ism 	 	so	we	could	get	rid	of	all	the	 motor 	 s 	 	,	and	with	a	single	motor	we	can	coordinate	all	the	 motion 	 s 	 	.
+it	's	a	 mechanic 	 al 	 	solution	to	a	problem	,	 in 	 stead 	 	of	using	 mechatronic 	 s 	 	.
+so	,	with	 th 	 is 	 	now	the	top	body	is	light	 en 	 ough 	 	.	so	,	it	's	 walk 	 ing 	 	in	our	lab	;	 th 	 is 	 	was	the	 ver 	 y 	 	first	 success 	 ful 	 	step	.
+it	's	still	not	 perfect 	 ed 	 	--	 it 	 s 	 	coffee	 fall 	 s 	 	down	--	so	we	still	have	a	lot	of	work	to	do	.
+the	second	robot	i	want	to	talk	about	is	 call 	 ed 	 	impass	.
+it	 stand 	 s 	 	for	intelligent	 mobil 	 ity 	 	platform	with	 actu 	 ated 	 	spoke	system	.
+so	,	it	's	a	wheel	-	leg	hybrid	robot	.
+so	,	think	of	a	 rim 	 less 	 	wheel	or	a	spoke	wheel	,	but	the	 spoke 	 s 	 	 individual 	 ly 	 	move	in	and	out	of	the	hub	;	so	,	it	's	a	wheel	-	leg	hybrid	.
+we	are	 liter 	 ally 	 	re	-	 invent 	 ing 	 	the	wheel	here	.
+let	me	 demonst 	 rate 	 	how	it	 work 	 s 	 	.
+so	,	in	 th 	 is 	 	video	we	're	using	an	approach	 call 	 ed 	 	the	 re 	 active 	 	approach	.
+just	 simpl 	 y 	 	using	the	 tact 	 ile 	 	 sensor 	 s 	 	on	the	feet	,	it	's	 try 	 ing 	 	to	walk	over	a	changing	 terra 	 in 	 	,	a	soft	 terra 	 in 	 	where	it	 push 	 es 	 	down	and	 change 	 s 	 	.
+and	just	by	the	 tact 	 ile 	 	information	,	it	 success 	 fully 	 	 cross 	 es 	 	over	these	type	of	 terra 	 in 	 	.
+but	,	when	it	 en 	 counter 	 s 	 	a	 ver 	 y 	 	 extrem 	 e 	 	 terra 	 in 	 	,	in	 th 	 is 	 	case	,	 th 	 is 	 	obstacle	is	more	than	three	 time 	 s 	 	the	height	of	the	robot	,	then	it	 s 	 witch 	 es 	 	to	a	 de 	 liberate 	 	mode	,	where	it	uses	a	laser	range	finder	,	and	camera	 system 	 s 	 	,	to	identify	the	obstacle	and	the	 s 	 ize 	 	,	and	it	 plan 	 s 	 	,	 care 	 fully 	 	 plan 	 s 	 	the	motion	of	the	 spoke 	 s 	 	and	 coordinate 	 s 	 	it	so	that	it	can	show	 th 	 is 	 	kind	of	 ver 	 y 	 	 ver 	 y 	 	 impress 	 ive 	 	 mobil 	 ity 	 	.
+you	 prob 	 ably 	 	have	n't	 s 	 een 	 	 any 	 thing 	 	like	 th 	 is 	 	out	there	.
+ th 	 is 	 	is	a	 ver 	 y 	 	high	 mobil 	 ity 	 	robot	that	we	 develop 	 ed 	 	 call 	 ed 	 	impass	.
+ah	,	is	n't	that	cool	?
+when	you	drive	your	car	,	when	you	steer	your	car	,	you	use	a	method	 call 	 ed 	 	ackermann	 steer 	 ing 	 	.
+the	front	 wheel 	 s 	 	 rot 	 ate 	 	like	 th 	 is 	 	.
+for	most	small	 wheel 	 ed 	 	 robot 	 s 	 	,	they	use	a	method	 call 	 ed 	 	 different 	 ial 	 	 steer 	 ing 	 	where	the	left	and	right	wheel	 turn 	 s 	 	the	 oppos 	 ite 	 	direction	.
+for	impass	,	we	can	do	 man 	 y 	 	,	 man 	 y 	 	different	 type 	 s 	 	of	motion	.
+for	 ex 	 ample 	 	,	in	 th 	 is 	 	case	,	even	 th 	 ough 	 	the	left	and	right	wheel	is	 connect 	 ed 	 	with	a	single	axle	 rot 	 ating 	 	at	the	same	angle	of	 velo 	 city 	 	.
+we	just	 simpl 	 y 	 	change	the	length	of	the	spoke	.
+it	 affect 	 s 	 	the	 dia 	 meter 	 	and	then	can	turn	to	the	left	,	turn	to	the	right	.
+so	,	these	are	just	some	 ex 	 ample 	 s 	 	of	the	neat	 thing 	 s 	 	that	we	can	do	with	impass	.
+ th 	 is 	 	robot	is	 call 	 ed 	 	 climb 	 er 	 	:	cable	-	 suspend 	 ed 	 	limbed	intelligent	 match 	 ing 	 	behavior	robot	.
+so	,	i	've	 be 	 en 	 	 talk 	 ing 	 	to	a	lot	of	nasa	jpl	 scientist 	 s 	 	--	at	jpl	they	are	famous	for	the	mars	 r 	 over 	 s 	 	--	and	the	 scientist 	 s 	 	,	 geo 	 logists 	 	 al 	 ways 	 	tell	me	that	the	real	 interest 	 ing 	 	science	,	the	science	-	rich	 s 	 ites 	 	,	are	 al 	 ways 	 	at	the	 cliff 	 s 	 	.
+but	the	current	 r 	 over 	 s 	 	can	not	get	there	.
+so	,	inspired	by	that	we	 want 	 ed 	 	to	build	a	robot	that	can	climb	a	 structure 	 d 	 	cliff	environment	.
+so	,	 th 	 is 	 	is	 climb 	 er 	 	.
+so	,	what	it	 do 	 es 	 	,	it	 ha 	 s 	 	three	 leg 	 s 	 	.	it	's	 prob 	 ably 	 	difficult	to	see	,	but	it	 ha 	 s 	 	a	 win 	 ch 	 	and	a	cable	at	the	top	--	and	it	tries	to	figure	out	the	best	place	to	put	 it 	 s 	 	foot	.
+and	then	once	it	 figure 	 s 	 	that	out	in	real	time	,	it	 calcul 	 ates 	 	the	force	 distribut 	 ion 	 	:	how	much	force	it	 need 	 s 	 	to	exert	to	the	surface	so	it	 do 	 es 	 	n't	tip	and	 do 	 es 	 	n't	slip	.
+once	it	 stabil 	 ize 	 s 	 	that	,	it	 lift 	 s 	 	a	foot	,	and	then	with	the	 win 	 ch 	 	it	can	climb	up	these	 kind 	 s 	 	of	thing	.
+ al 	 so 	 	for	search	and	 rescu 	 e 	 	 application 	 s 	 	 a 	 s 	 	well	.
+five	 year 	 s 	 	ago	i	 actual 	 ly 	 	 work 	 ed 	 	at	nasa	jpl	 dur 	 ing 	 	the	summer	 a 	 s 	 	a	 facul 	 ty 	 	fellow	.
+and	they	 al 	 ready 	 	had	a	six	legged	robot	 call 	 ed 	 	lemur	.
+so	,	 th 	 is 	 	is	 actual 	 ly 	 	based	on	that	.	 th 	 is 	 	robot	is	 call 	 ed 	 	mars	:	multi	-	 append 	 age 	 	robotic	system	.	so	,	it	's	a	 hexa 	 pod 	 	robot	.
+we	 develop 	 ed 	 	our	 adapt 	 ive 	 	 ga 	 it 	 	 plan 	 ner 	 	.
+we	 actual 	 ly 	 	have	a	 ver 	 y 	 	 interest 	 ing 	 	 pay 	 load 	 	on	there	.
+the	 student 	 s 	 	like	to	have	 f 	 un 	 	.	and	here	you	can	see	that	it	's	 walk 	 ing 	 	over	 un 	 structure 	 d 	 	 terra 	 in 	 	.
+it	's	 try 	 ing 	 	to	walk	on	the	coarse	 terra 	 in 	 	,	 sand 	 y 	 	area	,	but	 depend 	 ing 	 	on	the	 moist 	 ure 	 	content	or	the	grain	 s 	 ize 	 	of	the	sand	the	foot	's	 s 	 oil 	 	 sink 	 age 	 	model	 change 	 s 	 	.
+so	,	it	tries	to	adapt	 it 	 s 	 	 ga 	 it 	 	to	 success 	 fully 	 	cross	over	these	kind	of	 thing 	 s 	 	.
+and	 al 	 so 	 	,	it	 do 	 es 	 	some	 f 	 un 	 	stuff	,	 a 	 s 	 	can	imagine	.
+we	get	so	 man 	 y 	 	 visit 	 ors 	 	 visit 	 ing 	 	our	lab	.
+so	,	when	the	 visit 	 ors 	 	come	,	mars	 walk 	 s 	 	up	to	the	computer	,	 start 	 s 	 	 ty 	 ping 	 	``	 hell 	 o 	 	,	my	name	is	mars	.	``
+welcome	to	romela	,	the	 robotic 	 s 	 	 mechan 	 ism 	 s 	 	 labor 	 atory 	 	at	virginia	tech	.
+ th 	 is 	 	robot	is	an	 amoeb 	 a 	 	robot	.
+now	,	we	do	n't	have	 en 	 ough 	 	time	to	go	 in 	 to 	 	technical	 detail 	 s 	 	,	i	'll	just	show	you	some	of	the	 experiment 	 s 	 	.
+so	,	 th 	 is 	 	is	some	of	the	early	 feas 	 ibility 	 	 experiment 	 s 	 	.
+we	store	potential	energy	to	the	elastic	skin	to	make	it	move	.
+or	use	an	active	tension	 cord 	 s 	 	to	make	it	move	forward	and	 back 	 ward 	 	.	it	's	 call 	 ed 	 	chimera	.
+we	 al 	 so 	 	have	 be 	 en 	 	 work 	 ing 	 	with	some	 scientist 	 s 	 	and	 engineer 	 s 	 	from	upenn	to	come	up	with	a	 chemical 	 ly 	 	 actu 	 ated 	 	version	of	 th 	 is 	 	 amoeb 	 a 	 	robot	.
+we	do	 some 	 thing 	 	to	 some 	 thing 	 	and	just	like	magic	,	it	 move 	 s 	 	.	the	blob	.
+ th 	 is 	 	robot	is	a	 ver 	 y 	 	 re 	 cent 	 	project	.	it	's	 call 	 ed 	 	raphael	.
+robotic	air	powered	hand	with	elastic	ligaments	.
+there	are	a	lot	of	 re 	 ally 	 	neat	,	 ver 	 y 	 	good	robotic	 hand 	 s 	 	out	there	in	the	market	.
+the	problem	is	they	're	just	too	expensive	,	 ten 	 s 	 	of	 thousand 	 s 	 	of	 dollar 	 s 	 	.
+so	,	for	 pro 	 s 	 thesis 	 	 application 	 s 	 	it	's	 prob 	 ably 	 	not	too	practical	,	 be 	 cause 	 	it	's	not	 afford 	 able 	 	.
+we	 want 	 ed 	 	to	go	tackle	 th 	 is 	 	problem	in	a	 ver 	 y 	 	different	direction	.
+ in 	 stead 	 	of	using	 electric 	 al 	 	 motor 	 s 	 	,	 electro 	 mechanic 	 al 	 	 actu 	 ators 	 	,	we	're	using	 compress 	 ed 	 	air	.
+we	 develop 	 ed 	 	these	novel	 actu 	 ators 	 	for	 joint 	 s 	 	.
+it	is	 com 	 pli 	 ant 	 	.	you	can	 actual 	 ly 	 	change	the	force	,	 simpl 	 y 	 	just	changing	the	air	pressure	.
+and	it	can	 actual 	 ly 	 	crush	an	empty	soda	can	.
+it	can	pick	up	 ver 	 y 	 	 delic 	 ate 	 	 object 	 s 	 	like	a	raw	egg	,	or	in	 th 	 is 	 	case	,	a	 light 	 bulb 	 	.
+the	best	part	,	it	took	 on 	 ly 	 	$	200	 dollar 	 s 	 	to	make	the	first	prototype	.
+ th 	 is 	 	robot	is	 actual 	 ly 	 	a	family	of	snake	 robot 	 s 	 	that	we	call	hydras	,	hyper	 degree 	 s 	 	-	of	-	 free 	 dom 	 	robotic	 articulate 	 d 	 	serpentine	.
+ th 	 is 	 	is	a	robot	that	can	climb	 structure 	 s 	 	.
+ th 	 is 	 	is	a	hydras	's	arm	.
+it	's	a	12	 degree 	 s 	 	of	 free 	 dom 	 	robotic	arm	.
+but	the	cool	part	is	the	user	 inter 	 face 	 	.
+the	cable	over	there	,	that	's	an	optical	fiber	.
+and	 th 	 is 	 	student	,	 prob 	 ably 	 	the	first	time	using	it	,	but	she	can	articulate	it	 man 	 y 	 	different	ways	.
+so	,	for	 ex 	 ample 	 	in	 ir 	 aq 	 	,	you	know	,	the	war	zone	,	there	is	 road 	 side 	 	 bomb 	 s 	 	.	 current 	 ly 	 	you	 s 	 end 	 	these	 remote 	 ly 	 	controlled	 vehicle 	 s 	 	that	are	 arm 	 ed 	 	.
+it	 take 	 s 	 	 re 	 ally 	 	a	lot	of	time	and	it	's	expensive	to	train	the	 oper 	 ator 	 	to	 oper 	 ate 	 	 th 	 is 	 	complex	arm	.
+in	 th 	 is 	 	case	it	's	 ver 	 y 	 	intuitive	;	 th 	 is 	 	student	,	 prob 	 ably 	 	his	first	time	using	it	,	 do 	 ing 	 	 ver 	 y 	 	complex	 manipul 	 ation 	 	 task 	 s 	 	,	 pick 	 ing 	 	up	 object 	 s 	 	and	 do 	 ing 	 	 manipul 	 ation 	 	,	just	like	that	.	 ver 	 y 	 	intuitive	.
+now	,	 th 	 is 	 	robot	is	 current 	 ly 	 	our	star	robot	.
+we	 actual 	 ly 	 	have	a	fan	club	for	the	robot	,	darwin	:	dynamic	 anthropo 	 morphic 	 	robot	with	 intellig 	 ence 	 	.
+ a 	 s 	 	you	know	,	we	are	 ver 	 y 	 	 interest 	 ed 	 	in	 human 	 oid 	 	robot	,	human	 walk 	 ing 	 	,	so	we	 decide 	 d 	 	to	build	a	small	 human 	 oid 	 	robot	.
+ th 	 is 	 	was	in	2004	;	at	that	time	,	 th 	 is 	 	was	 some 	 thing 	 	 re 	 ally 	 	,	 re 	 ally 	 	 revolution 	 ary 	 	.
+ th 	 is 	 	was	more	of	a	 feas 	 ibility 	 	 stud 	 y 	 	:	what	kind	of	 motor 	 s 	 	should	we	use	?
+is	it	even	possible	?	what	 kind 	 s 	 	of	 control 	 s 	 	should	we	do	?
+so	,	 th 	 is 	 	 do 	 es 	 	not	have	any	 sensor 	 s 	 	.
+so	,	it	's	an	open	loop	control	.
+for	 t 	 hose 	 	who	 prob 	 ably 	 	know	,	if	you	do	n't	have	any	 sensor 	 s 	 	and	there	are	any	 disturb 	 ance 	 s 	 	,	you	know	what	 happen 	 s 	 	.
+so	,	based	on	that	success	,	the	 follow 	 ing 	 	year	we	did	the	proper	 mechanic 	 al 	 	design	 start 	 ing 	 	from	 kinematic 	 s 	 	.
+and	thus	,	darwin	i	was	born	in	2005	.
+it	 stand 	 s 	 	up	,	it	 walk 	 s 	 	--	 ver 	 y 	 	 impress 	 ive 	 	.
+ how 	 ever 	 	,	still	,	 a 	 s 	 	you	can	see	,	it	 ha 	 s 	 	a	cord	,	 umbilic 	 al 	 	cord	.	so	,	we	're	still	using	an	external	power	source	and	external	computation	.
+so	,	in	2006	,	now	it	's	 re 	 ally 	 	time	to	have	 f 	 un 	 	.
+let	's	give	it	 intellig 	 ence 	 	.	we	give	it	all	the	computing	power	it	 need 	 s 	 	:	a	1.5	 giga 	 hertz 	 	pentium	m	chip	,	two	firewire	 camera 	 s 	 	,	rate	gyros	,	 accele 	 rometers 	 	,	four	force	 sensor 	 s 	 	on	the	foot	,	 lith 	 ium 	 	polymer	 batt 	 eries 	 	.
+and	now	darwin	ii	is	 complete 	 ly 	 	autonomous	.
+it	is	not	remote	controlled	.
+there	are	no	 tether 	 s 	 	.	it	 look 	 s 	 	around	,	 search 	 es 	 	for	the	ball	,	 look 	 s 	 	around	,	 search 	 es 	 	for	the	ball	,	and	it	tries	to	play	a	game	of	soccer	,	 autonomous 	 ly 	 	:	artificial	 intellig 	 ence 	 	.
+let	's	see	how	it	 do 	 es 	 	.	 th 	 is 	 	was	our	 ver 	 y 	 	first	trial	,	and	...	 spect 	 ators 	 	:	goal	!
+dennis	hong	:	so	,	there	is	 actual 	 ly 	 	a	 com 	 petition 	 	 call 	 ed 	 	robocup	.
+i	do	n't	know	how	 man 	 y 	 	of	you	have	heard	about	robocup	.
+it	's	an	 inter 	 national 	 	autonomous	robot	soccer	 com 	 petition 	 	.
+and	the	goal	of	robocup	,	the	actual	goal	is	,	by	the	year	2050	we	want	to	have	full	 s 	 ize 	 	,	autonomous	 human 	 oid 	 	 robot 	 s 	 	play	soccer	against	the	human	world	cup	 champion 	 s 	 	and	win	.
+it	's	a	true	actual	goal	.	it	's	a	 ver 	 y 	 	 ambit 	 ious 	 	goal	,	but	we	 tru 	 ly 	 	 believ 	 e 	 	that	we	can	do	it	.
+so	,	 th 	 is 	 	is	last	year	in	 chin 	 a 	 	.
+we	 we 	 re 	 	the	 ver 	 y 	 	first	team	in	the	 unit 	 ed 	 	 state 	 s 	 	that	 qual 	 ified 	 	in	the	 human 	 oid 	 	robocup	 com 	 petition 	 	.
+ th 	 is 	 	is	 th 	 is 	 	year	in	austria	.
+you	're	going	to	see	the	action	,	three	against	three	,	 complete 	 ly 	 	autonomous	.
+there	you	go	.	 y 	 es 	 	!
+the	 robot 	 s 	 	track	and	they	team	play	 among 	 st 	 	 them 	 s 	 elves 	 	.
+it	's	 ver 	 y 	 	 impress 	 ive 	 	.	it	's	 re 	 ally 	 	a	research	event	 package 	 d 	 	in	a	more	 excit 	 ing 	 	 com 	 petition 	 	event	.
+what	you	see	over	here	,	 th 	 is 	 	is	the	 beaut 	 iful 	 	louis	vuitton	cup	trophy	.
+so	,	 th 	 is 	 	is	for	the	best	 human 	 oid 	 	,	and	we	would	like	to	 br 	 ing 	 	 th 	 is 	 	for	the	 ver 	 y 	 	first	time	,	to	the	 unit 	 ed 	 	 state 	 s 	 	next	year	,	so	wish	us	luck	.
+thank	you	.
+darwin	 al 	 so 	 	 ha 	 s 	 	a	lot	of	other	 talent 	 s 	 	.
+last	year	it	 actual 	 ly 	 	 conduct 	 ed 	 	the	roanoke	 sym 	 phony 	 	orchestra	for	the	 holi 	 day 	 	concert	.
+ th 	 is 	 	is	the	next	generation	robot	,	darwin	iv	,	but	 smart 	 er 	 	,	 fast 	 er 	 	,	 strong 	 er 	 	.
+and	it	's	 try 	 ing 	 	to	show	off	 it 	 s 	 	ability	:	``	i	'm	 ma 	 cho 	 	,	i	'm	strong	.
+i	can	 al 	 so 	 	do	some	jackie	chan	-	motion	,	 mar 	 tial 	 	art	 move 	 ments 	 	.	``
+and	it	 walk 	 s 	 	away	.	so	,	 th 	 is 	 	is	darwin	iv	.
+and	 aga 	 in 	 	,	you	'll	be	able	to	see	it	in	the	lobby	.
+we	 tru 	 ly 	 	 believ 	 e 	 	 th 	 is 	 	is	going	to	be	the	 ver 	 y 	 	first	running	 human 	 oid 	 	robot	in	the	 unit 	 ed 	 	 state 	 s 	 	.	so	,	stay	tuned	.
+all	right	.	so	i	 show 	 ed 	 	you	some	of	our	 excit 	 ing 	 	 robot 	 s 	 	at	work	.
+so	,	what	is	the	secret	of	our	success	?
+where	do	we	come	up	with	these	 idea 	 s 	 	?
+how	do	we	develop	these	 kind 	 s 	 	of	 idea 	 s 	 	?
+we	have	a	fully	autonomous	vehicle	that	can	drive	 in 	 to 	 	urban	 environment 	 s 	 	.	we	won	a	half	a	million	 dollar 	 s 	 	in	the	darpa	urban	 challeng 	 e 	 	.
+we	 al 	 so 	 	have	the	world	's	 ver 	 y 	 	first	vehicle	that	can	be	driven	by	the	blind	.
+we	call	it	the	blind	driver	 challeng 	 e 	 	,	 ver 	 y 	 	 excit 	 ing 	 	.
+and	 man 	 y 	 	,	 man 	 y 	 	other	 robotic 	 s 	 	 project 	 s 	 	i	want	to	talk	about	.
+these	are	just	the	 a 	 ward 	 s 	 	that	we	won	in	2007	fall	from	 robotic 	 s 	 	 com 	 petition 	 s 	 	and	 t 	 hose 	 	 kind 	 s 	 	of	 thing 	 s 	 	.
+so	,	 re 	 ally 	 	,	we	have	five	 secret 	 s 	 	.
+first	is	:	where	do	we	get	inspiration	?
+where	do	we	get	 th 	 is 	 	spark	of	 imagin 	 ation 	 	?
+ th 	 is 	 	is	a	true	story	,	my	personal	story	.
+at	night	when	i	go	to	bed	,	3	-	4	 a.m 	 . 	 	in	the	 morn 	 ing 	 	,	i	lie	down	,	close	my	 eye 	 s 	 	,	and	i	see	these	lines	and	 circle 	 s 	 	and	different	 shape 	 s 	 	 float 	 ing 	 	around	.
+and	they	assemble	,	and	they	form	these	 kind 	 s 	 	of	 mechan 	 ism 	 s 	 	.
+and	then	i	think	,	``	ah	 th 	 is 	 	is	cool	.	``
+so	,	right	next	to	my	bed	i	keep	a	 note 	 book 	 	,	a	journal	,	with	a	special	pen	that	 ha 	 s 	 	a	light	on	it	,	led	light	,	 be 	 cause 	 	i	do	n't	want	to	turn	on	the	light	and	wake	up	my	wife	.
+so	,	i	see	 th 	 is 	 	,	 s 	 crib 	 ble 	 	 every 	 thing 	 	down	,	draw	 thing 	 s 	 	,	and	i	go	to	bed	.
+every	day	in	the	 morn 	 ing 	 	,	the	first	thing	i	do	before	my	first	cup	of	coffee	,	before	i	brush	my	 tee 	 th 	 	,	i	open	my	 note 	 book 	 	.
+ man 	 y 	 	 time 	 s 	 	it	's	empty	,	 some 	 time 	 s 	 	i	have	 some 	 thing 	 	there	--	if	 some 	 thing 	 	's	there	,	 some 	 time 	 s 	 	it	's	junk	--	but	most	of	the	time	i	ca	n't	even	read	my	 hand 	 writing 	 	.
+and	so	,	4	am	in	the	 morn 	 ing 	 	,	what	do	you	expect	,	right	?
+so	,	i	need	to	decipher	what	i	wrote	.
+but	 some 	 time 	 s 	 	i	see	 th 	 is 	 	 ing 	 en 	 ious 	 	idea	in	there	,	and	i	have	 th 	 is 	 	eureka	moment	.
+i	 direct 	 ly 	 	run	to	my	home	 off 	 ice 	 	,	 s 	 it 	 	at	my	computer	,	i	type	in	the	 idea 	 s 	 	,	i	sketch	 thing 	 s 	 	out	and	i	keep	a	 data 	 base 	 	of	 idea 	 s 	 	.
+so	,	when	we	have	these	 call 	 s 	 	for	 proposal 	 s 	 	,	i	try	to	find	a	match	between	my	potential	 idea 	 s 	 	and	the	problem	.	if	there	is	a	match	we	write	a	research	proposal	,	get	the	research	 fund 	 ing 	 	in	,	and	that	's	how	we	start	our	research	 program 	 s 	 	.
+but	just	a	spark	of	 imagin 	 ation 	 	is	not	good	 en 	 ough 	 	.
+how	do	we	develop	these	 kind 	 s 	 	of	 idea 	 s 	 	?
+at	our	lab	romela	,	the	 robotic 	 s 	 	and	 mechan 	 ism 	 s 	 	 labor 	 atory 	 	,	we	have	these	fantastic	 brain 	 storm 	 ing 	 	 session 	 s 	 	.
+so	,	we	gather	around	,	we	discuss	about	 problem 	 s 	 	and	social	 problem 	 s 	 	and	talk	about	it	.
+but	before	we	start	we	set	 th 	 is 	 	 gold 	 en 	 	rule	.
+the	rule	is	:	 no 	 body 	 	 critic 	 ize 	 s 	 	 any 	 body 	 	's	 idea 	 s 	 	.
+ no 	 body 	 	 critic 	 ize 	 s 	 	any	opinion	.
+ th 	 is 	 	is	 import 	 ant 	 	,	 be 	 cause 	 	 man 	 y 	 	 time 	 s 	 	 student 	 s 	 	,	they	fear	or	they	feel	 un 	 comfort 	 able 	 	how	 other 	 s 	 	might	think	about	 the 	 ir 	 	 opinion 	 s 	 	and	 thought 	 s 	 	.
+so	,	once	you	do	 th 	 is 	 	,	it	is	 amaz 	 ing 	 	how	the	 student 	 s 	 	open	up	.
+they	have	these	 wack 	 y 	 	,	cool	,	crazy	,	 brilli 	 ant 	 	 idea 	 s 	 	,	and	the	whole	room	is	just	 electr 	 ified 	 	with	creative	energy	.
+and	 th 	 is 	 	is	how	we	develop	our	 idea 	 s 	 	.
+well	,	we	're	running	out	of	time	.	one	more	thing	i	want	to	talk	about	is	,	you	know	,	just	a	spark	of	idea	and	 develop 	 ment 	 	is	not	good	 en 	 ough 	 	.
+there	was	a	great	ted	moment	,	i	think	it	was	 s 	 ir 	 	ken	robinson	,	was	it	?
+he	 g 	 ave 	 	a	talk	about	how	education	and	school	 kill 	 s 	 	 cre 	 at 	 ivity 	 	.
+well	,	 actual 	 ly 	 	,	there	are	two	 side 	 s 	 	to	the	story	.
+so	,	there	is	 on 	 ly 	 	so	much	one	can	do	with	just	 ing 	 en 	 ious 	 	 idea 	 s 	 	and	 cre 	 at 	 ivity 	 	and	good	 engineer 	 ing 	 	 intuit 	 ion 	 	.
+if	you	want	to	go	beyond	a	 tinker 	 ing 	 	,	if	you	want	to	go	beyond	a	hobby	of	 robotic 	 s 	 	and	 re 	 ally 	 	tackle	the	grand	 challeng 	 es 	 	of	 robotic 	 s 	 	through	 rigor 	 ous 	 	research	we	need	more	than	that	.	 th 	 is 	 	is	where	school	 come 	 s 	 	in	.
+batman	,	 fight 	 ing 	 	against	bad	 guy 	 s 	 	,	he	 ha 	 s 	 	his	 util 	 ity 	 	belt	,	he	 ha 	 s 	 	his	 grappl 	 ing 	 	hook	,	he	 ha 	 s 	 	all	different	 kind 	 s 	 	of	 gadget 	 s 	 	.
+for	us	 robotic 	 ists 	 	,	 engineer 	 s 	 	and	 scientist 	 s 	 	,	these	 tool 	 s 	 	,	these	are	the	 course 	 s 	 	and	 class 	 es 	 	you	take	in	class	.
+math	,	 different 	 ial 	 	 equ 	 ations 	 	.
+i	have	linear	algebra	,	science	,	physics	,	even	 now 	 a 	 day 	 s 	 	,	 chemist 	 ry 	 	and	biology	,	 a 	 s 	 	you	've	 s 	 een 	 	.
+these	are	all	the	 tool 	 s 	 	that	we	need	.
+so	,	the	more	 tool 	 s 	 	you	have	,	for	batman	,	more	effective	at	 fight 	 ing 	 	the	bad	 guy 	 s 	 	,	for	us	,	more	 tool 	 s 	 	to	attack	these	 kind 	 s 	 	of	big	 problem 	 s 	 	.
+so	,	education	is	 ver 	 y 	 	 import 	 ant 	 	.
+ al 	 so 	 	,	it	's	not	about	that	,	 on 	 ly 	 	about	that	.	you	 al 	 so 	 	have	to	work	 re 	 ally 	 	,	 re 	 ally 	 	hard	.
+so	,	i	 al 	 ways 	 	tell	my	 student 	 s 	 	,	``	work	smart	,	then	work	hard	.	``
+ th 	 is 	 	picture	in	the	back	 th 	 is 	 	is	3	 a.m 	 . 	 	in	the	 morn 	 ing 	 	.
+i	guarantee	if	you	come	to	your	lab	at	3	-	4	am	we	have	 student 	 s 	 	 work 	 ing 	 	there	,	not	 be 	 cause 	 	i	tell	them	to	,	but	 be 	 cause 	 	we	are	 hav 	 ing 	 	too	much	 f 	 un 	 	.
+which	 lead 	 s 	 	to	the	last	 top 	 ic 	 	:	do	not	forget	to	have	 f 	 un 	 	.
+that	's	 re 	 ally 	 	the	secret	of	our	success	,	we	're	 hav 	 ing 	 	too	much	 f 	 un 	 	.
+i	 tru 	 ly 	 	 believ 	 e 	 	that	highest	 product 	 ivity 	 	 come 	 s 	 	when	you	're	 hav 	 ing 	 	 f 	 un 	 	,	and	that	's	what	we	're	 do 	 ing 	 	.
+there	you	go	.	thank	you	so	much	.
+

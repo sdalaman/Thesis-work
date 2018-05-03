@@ -1,0 +1,160 @@
+i	want	to	start	my	story	in	germany	,	in	1877	,	with	a	 mathematic 	 ian 	 	named	georg	cantor	.
+and	cantor	 decide 	 d 	 	he	was	going	to	take	a	line	and	 er 	 ase 	 	the	middle	third	of	the	line	,	and	then	take	 t 	 hose 	 	two	 result 	 ing 	 	lines	and	 br 	 ing 	 	them	back	 in 	 to 	 	the	same	process	,	a	 recur 	 s 	 ive 	 	process	.
+so	he	 start 	 s 	 	out	with	one	line	,	and	then	two	,	and	then	four	,	and	then	16	,	and	so	on	.
+and	if	he	 do 	 es 	 	 th 	 is 	 	an	infinite	number	of	 time 	 s 	 	,	which	you	can	do	in	 mathematic 	 s 	 	,	he	 end 	 s 	 	up	with	an	infinite	number	of	lines	,	each	of	which	 ha 	 s 	 	an	infinite	number	of	 point 	 s 	 	in	it	.
+so	he	 real 	 ized 	 	he	had	a	set	 who 	 s 	 e 	 	number	of	 element 	 s 	 	was	 large 	 r 	 	than	 in 	 fin 	 ity 	 	.
+and	 th 	 is 	 	 ble 	 w 	 	his	mind	.	 liter 	 ally 	 	.	he	 check 	 ed 	 	 in 	 to 	 	a	sanitarium	.
+and	when	he	came	out	of	the	sanitarium	,	he	was	 con 	 vince 	 d 	 	that	he	had	 be 	 en 	 	put	on	earth	to	found	transfinite	set	 theor 	 y 	 	 be 	 cause 	 	the	largest	set	of	 in 	 fin 	 ity 	 	would	be	god	 him 	 self 	 	.
+he	was	a	 ver 	 y 	 	religious	man	.
+he	was	a	 mathematic 	 ian 	 	on	a	mission	.
+and	other	 mathematic 	 ians 	 	did	the	same	sort	of	thing	.
+a	swedish	 mathematic 	 ian 	 	,	von	koch	,	 decide 	 d 	 	that	 in 	 stead 	 	of	 subtract 	 ing 	 	lines	,	he	would	add	them	.
+and	so	he	came	up	with	 th 	 is 	 	 beaut 	 iful 	 	 curv 	 e 	 	.
+and	there	's	no	 part 	 icular 	 	reason	why	we	have	to	start	with	 th 	 is 	 	seed	shape	;	we	can	use	any	seed	shape	we	like	.
+and	i	'll	 re 	 arrange 	 	 th 	 is 	 	and	i	'll	stick	 th 	 is 	 	 some 	 where 	 	--	down	there	,	ok	--	and	now	 up 	 on 	 	iteration	,	that	seed	shape	sort	of	 un 	 fold 	 s 	 	 in 	 to 	 	a	 ver 	 y 	 	different	looking	structure	.
+so	these	all	have	the	 proper 	 ty 	 	of	self	-	 similar 	 ity 	 	:	the	part	 look 	 s 	 	like	the	whole	.
+it	's	the	same	pattern	at	 man 	 y 	 	different	 scale 	 s 	 	.
+now	,	 mathematic 	 ians 	 	thought	 th 	 is 	 	was	 ver 	 y 	 	strange	 be 	 cause 	 	 a 	 s 	 	you	shrink	a	 rul 	 er 	 	down	,	you	measure	a	 long 	 er 	 	and	 long 	 er 	 	length	.
+and	since	they	went	through	the	 iteration 	 s 	 	an	infinite	number	of	 time 	 s 	 	,	 a 	 s 	 	the	 rul 	 er 	 	 shrink 	 s 	 	down	to	 in 	 fin 	 ity 	 	,	the	length	 go 	 es 	 	to	 in 	 fin 	 ity 	 	.
+ th 	 is 	 	made	no	sense	at	all	,
+so	they	 con 	 sign 	 ed 	 	these	 curv 	 es 	 	to	the	back	of	the	math	 book 	 s 	 	.
+they	 s 	 aid 	 	these	are	 patho 	 logical 	 	 curv 	 es 	 	,	and	we	do	n't	have	to	discuss	them	.	and	that	 work 	 ed 	 	for	a	hundred	 year 	 s 	 	.
+and	then	in	1977	,	benoit	mandelbrot	,	a	french	 mathematic 	 ian 	 	,	 real 	 ized 	 	that	if	you	do	computer	 graphic 	 s 	 	and	used	these	 shape 	 s 	 	he	 call 	 ed 	 	 fract 	 al 	 s 	 	,	you	get	the	 shape 	 s 	 	of	nature	.
+you	get	the	human	 lung 	 s 	 	,	you	get	acacia	 tree 	 s 	 	,	you	get	 fer 	 ns 	 	,	you	get	these	 beaut 	 iful 	 	natural	 form 	 s 	 	.
+if	you	take	your	thumb	and	your	index	finger	and	look	right	where	they	meet	--	go	 a 	 head 	 	and	do	that	now	--	--	and	relax	your	hand	,	you	'll	see	a	 crinkl 	 e 	 	,	and	then	a	 wrinkl 	 e 	 	 with 	 in 	 	the	 crinkl 	 e 	 	,	and	a	 crinkl 	 e 	 	 with 	 in 	 	the	 wrinkl 	 e 	 	.	right	?
+your	body	is	 cover 	 ed 	 	with	 fract 	 al 	 s 	 	.
+the	 mathematic 	 ians 	 	who	 we 	 re 	 	 say 	 ing 	 	these	 we 	 re 	 	pathologically	 use 	 less 	 	 shape 	 s 	 	?
+they	 we 	 re 	 	 breath 	 ing 	 	 t 	 hose 	 	 word 	 s 	 	with	 fract 	 al 	 	 lung 	 s 	 	.
+it	's	 ver 	 y 	 	 iron 	 ic 	 	.	and	i	'll	show	you	a	little	natural	recursion	here	.
+ aga 	 in 	 	,	we	just	take	these	lines	and	recursively	replace	them	with	the	whole	shape	.
+so	here	's	the	second	iteration	,	and	the	third	,	fourth	and	so	on	.
+so	nature	 ha 	 s 	 	 th 	 is 	 	self	-	similar	structure	.
+nature	uses	self	-	 organ 	 izing 	 	 system 	 s 	 	.
+now	in	the	1980s	,	i	 happen 	 ed 	 	to	notice	that	if	you	look	at	an	 a 	 erial 	 	photograph	of	an	african	village	,	you	see	 fract 	 al 	 s 	 	.
+and	i	thought	,	``	 th 	 is 	 	is	fabulous	!	i	wonder	why	?	``	and	of	course	i	had	to	go	to	africa	and	ask	 folk 	 s 	 	why	.
+so	i	got	a	fulbright	 scholar 	 ship 	 	to	just	travel	around	africa	for	a	year	 ask 	 ing 	 	people	why	they	 we 	 re 	 	building	 fract 	 al 	 s 	 	,	which	is	a	great	job	if	you	can	get	it	.
+and	so	i	 final 	 ly 	 	got	to	 th 	 is 	 	city	,	and	i	'd	 d 	 one 	 	a	little	 fract 	 al 	 	model	for	the	city	just	to	see	how	it	would	sort	of	 un 	 fold 	 	--	but	when	i	got	there	,	i	got	to	the	 pa 	 lace 	 	of	the	chief	,	and	my	french	is	not	 ver 	 y 	 	good	;	i	 s 	 aid 	 	 some 	 thing 	 	like	,	``	i	am	a	 mathematic 	 ian 	 	and	i	would	like	to	stand	on	your	roof	.	``	but	he	was	 re 	 ally 	 	cool	about	it	,	and	he	took	me	up	there	,	and	we	 talk 	 ed 	 	about	 fract 	 al 	 s 	 	.
+and	he	 s 	 aid 	 	,	``	oh	 yea 	 h 	 	,	 yea 	 h 	 	!	we	 k 	 new 	 	about	a	 rect 	 angle 	 	 with 	 in 	 	a	 rect 	 angle 	 	,	we	know	all	about	that	.	``	and	it	 turn 	 s 	 	out	the	royal	insignia	 ha 	 s 	 	a	 rect 	 angle 	 	 with 	 in 	 	a	 rect 	 angle 	 	 with 	 in 	 	a	 rect 	 angle 	 	,	and	the	path	through	that	 pa 	 lace 	 	is	 actual 	 ly 	 	 th 	 is 	 	spiral	here	.
+and	 a 	 s 	 	you	go	through	the	path	,	you	have	to	get	more	and	more	polite	.
+so	they	're	mapping	the	social	 scal 	 ing 	 	onto	the	 geo 	 metric 	 	 scal 	 ing 	 	;	it	's	a	conscious	pattern	.	it	is	not	 un 	 conscious 	 	like	a	 ter 	 mite 	 	mound	 fract 	 al 	 	.
+ th 	 is 	 	is	a	village	in	southern	zambia	.
+the	ba	-	ila	built	 th 	 is 	 	village	about	400	 meter 	 s 	 	in	 dia 	 meter 	 	.
+you	have	a	huge	ring	.
+the	 ring 	 s 	 	that	represent	the	family	 en 	 closure 	 s 	 	get	 large 	 r 	 	and	 large 	 r 	 	 a 	 s 	 	you	go	 to 	 ward 	 s 	 	the	back	,	and	then	you	have	the	chief	's	ring	here	 to 	 ward 	 s 	 	the	back	and	then	the	chief	's	 im 	 mediate 	 	family	in	that	ring	.
+so	here	's	a	little	 fract 	 al 	 	model	for	it	.
+here	's	one	house	with	the	sacred	 al 	 tar 	 	,	here	's	the	house	of	 house 	 s 	 	,	the	family	 en 	 closure 	 	,	with	the	 human 	 s 	 	here	where	the	sacred	 al 	 tar 	 	would	be	,	and	then	here	's	the	village	 a 	 s 	 	a	whole	--	a	ring	of	ring	of	 ring 	 s 	 	with	the	chief	's	 extend 	 ed 	 	family	here	,	the	chief	's	 im 	 mediate 	 	family	here	,	and	here	there	's	a	 tin 	 y 	 	village	 on 	 ly 	 	 th 	 is 	 	big	.
+now	you	might	wonder	,	how	can	people	fit	in	a	 tin 	 y 	 	village	 on 	 ly 	 	 th 	 is 	 	big	?	that	's	 be 	 cause 	 	they	're	spirit	people	.	it	's	the	 ance 	 s 	 tors 	 	.
+and	of	course	the	spirit	people	have	a	little	 miniatur 	 e 	 	village	in	 the 	 ir 	 	village	,	right	?
+so	it	's	just	like	georg	cantor	 s 	 aid 	 	,	the	recursion	 continu 	 es 	 	 fore 	 ver 	 	.
+ th 	 is 	 	is	in	the	mandara	 mountain 	 s 	 	,	near	the	nigerian	border	in	cameroon	,	mokoulek	.
+i	saw	 th 	 is 	 	 dia 	 gram 	 	drawn	by	a	french	architect	,	and	i	thought	,	``	 w 	 ow 	 	!	what	a	 beaut 	 iful 	 	 fract 	 al 	 	!	``	so	i	 tri 	 ed 	 	to	come	up	with	a	seed	shape	,	which	,	 up 	 on 	 	iteration	,	would	 un 	 fold 	 	 in 	 to 	 	 th 	 is 	 	thing	.
+i	came	up	with	 th 	 is 	 	structure	here	.
+let	's	see	,	first	iteration	,	second	,	third	,	fourth	.
+now	,	after	i	did	the	 simul 	 ation 	 	,	i	 real 	 ized 	 	the	whole	village	kind	of	 spiral 	 s 	 	around	,	just	like	 th 	 is 	 	,	and	here	's	that	 replica 	 ting 	 	line	--	a	self	-	 replica 	 ting 	 	line	that	 un 	 fold 	 s 	 	 in 	 to 	 	the	 fract 	 al 	 	.
+well	,	i	 notice 	 d 	 	that	line	is	about	where	the	 on 	 ly 	 	square	building	in	the	village	is	at	.
+so	,	when	i	got	to	the	village	,	i	 s 	 aid 	 	,	``	can	you	take	me	to	the	square	building	?
+i	think	 some 	 thing 	 	's	going	on	there	.	``	and	they	 s 	 aid 	 	,	``	well	,	we	can	take	you	there	,	but	you	ca	n't	go	 in 	 side 	 	 be 	 cause 	 	that	's	the	sacred	 al 	 tar 	 	,	where	we	do	 sacrifice 	 s 	 	every	year	to	keep	up	 t 	 hose 	 	annual	 cycle 	 s 	 	of	 fertil 	 ity 	 	for	the	 field 	 s 	 	.	``	and	i	 start 	 ed 	 	to	 real 	 ize 	 	that	the	 cycle 	 s 	 	of	 fertil 	 ity 	 	 we 	 re 	 	just	like	the	 recur 	 s 	 ive 	 	 cycle 	 s 	 	in	the	 geo 	 metric 	 	algorithm	that	 build 	 s 	 	 th 	 is 	 	.
+and	the	recursion	in	some	of	these	 village 	 s 	 	 continu 	 es 	 	down	 in 	 to 	 	 ver 	 y 	 	 tin 	 y 	 	 scale 	 s 	 	.
+so	here	's	a	nankani	village	in	mali	.
+and	you	can	see	,	you	go	 in 	 side 	 	the	family	 en 	 closure 	 	--	you	go	 in 	 side 	 	and	here	's	 pot 	 s 	 	in	the	 fire 	 place 	 	,	 stack 	 ed 	 	recursively	.
+here	's	calabashes	that	issa	was	just	 show 	 ing 	 	us	,	and	they	're	 stack 	 ed 	 	recursively	.
+now	,	the	 tin 	 iest 	 	calabash	in	here	 keep 	 s 	 	the	woman	's	soul	.
+and	when	she	dies	,	they	have	a	 ce 	 re 	 mon 	 y 	 	where	they	break	 th 	 is 	 	stack	 call 	 ed 	 	the	zalanga	and	her	soul	 go 	 es 	 	off	to	 et 	 ern 	 ity 	 	.
+once	 aga 	 in 	 	,	 in 	 fin 	 ity 	 	is	 import 	 ant 	 	.
+now	,	you	might	ask	 your 	 self 	 	three	 question 	 s 	 	at	 th 	 is 	 	point	.
+are	n't	these	 scal 	 ing 	 	 pattern 	 s 	 	just	universal	to	all	 indi 	 genous 	 	 architect 	 ure 	 	?
+and	that	was	 actual 	 ly 	 	my	original	 hypo 	 thesis 	 	.
+when	i	first	saw	 t 	 hose 	 	african	 fract 	 al 	 s 	 	,	i	thought	,	``	 w 	 ow 	 	,	so	any	 indi 	 genous 	 	group	that	 do 	 es 	 	n't	have	a	state	 socie 	 ty 	 	,	that	sort	of	 hierarch 	 y 	 	,	must	have	a	kind	of	bottom	-	up	 architect 	 ure 	 	.	``	but	that	 turn 	 s 	 	out	not	to	be	true	.
+i	 start 	 ed 	 	 collect 	 ing 	 	 a 	 erial 	 	 photograph 	 s 	 	of	native	american	and	south	 pac 	 ific 	 	 architect 	 ure 	 	;	 on 	 ly 	 	the	african	 one 	 s 	 	 we 	 re 	 	 fract 	 al 	 	.
+and	if	you	think	about	it	,	all	these	different	 socie 	 ties 	 	have	different	 geo 	 metric 	 	design	 theme 	 s 	 	that	they	use	.
+so	native	americans	use	a	combination	of	 circul 	 ar 	 	symmetry	and	 four 	 fold 	 	symmetry	.
+you	can	see	on	the	 potter 	 y 	 	and	the	 basket 	 s 	 	.
+here	's	an	 a 	 erial 	 	photograph	of	one	of	the	anasazi	 ruin 	 s 	 	;	you	can	see	it	's	 circul 	 ar 	 	at	the	largest	scale	,	but	it	's	 rect 	 angular 	 	at	the	 small 	 er 	 	scale	,	right	?
+it	is	not	the	same	pattern	at	two	different	 scale 	 s 	 	.
+second	,	you	might	ask	,	``	well	,	dr.	eglash	,	are	n't	you	 ignor 	 ing 	 	the	 divers 	 ity 	 	of	african	 culture 	 s 	 	?	``	and	three	 time 	 s 	 	,	the	answer	is	no	.
+first	of	all	,	i	agree	with	mudimbe	's	 wonder 	 ful 	 	book	,	``	the	 invent 	 ion 	 	of	africa	,	``	that	africa	is	an	artificial	 invent 	 ion 	 	of	first	 colonial 	 ism 	 	,	and	then	oppositional	 move 	 ments 	 	.
+no	,	 be 	 cause 	 	a	 wide 	 ly 	 	 share 	 d 	 	design	practice	 do 	 es 	 	n't	 necess 	 arily 	 	give	you	a	 un 	 ity 	 	of	culture	--	and	it	 definite 	 ly 	 	is	not	``	in	the	dna	.	``
+and	 final 	 ly 	 	,	the	 fract 	 al 	 s 	 	have	self	-	 similar 	 ity 	 	--	so	they	're	similar	to	 them 	 s 	 elves 	 	,	but	they	're	not	 necess 	 arily 	 	similar	to	each	other	--	you	see	 ver 	 y 	 	different	uses	for	 fract 	 al 	 s 	 	.
+it	's	a	 share 	 d 	 	technology	in	africa	.
+and	 final 	 ly 	 	,	well	,	is	n't	 th 	 is 	 	just	 intuit 	 ion 	 	?
+it	's	not	 re 	 ally 	 	 mathematic 	 al 	 	knowledge	.
+africans	ca	n't	possibly	 re 	 ally 	 	be	using	 fract 	 al 	 	 geo 	 metry 	 	,	right	?
+it	was	n't	 invent 	 ed 	 	 un 	 til 	 	the	1970s	.
+well	,	it	's	true	that	some	african	 fract 	 al 	 s 	 	are	,	 a 	 s 	 	far	 a 	 s 	 	i	'm	 concern 	 ed 	 	,	just	 pur 	 e 	 	 intuit 	 ion 	 	.
+so	some	of	these	 thing 	 s 	 	,	i	'd	wander	around	the	 street 	 s 	 	of	dakar	 ask 	 ing 	 	people	,	``	what	's	the	algorithm	?	what	's	the	rule	for	making	 th 	 is 	 	?	``	and	they	'd	say	,	``	well	,	we	just	make	it	that	way	 be 	 cause 	 	it	 look 	 s 	 	 pre 	 tty 	 	,	stupid	.	``	but	 some 	 time 	 s 	 	,	that	's	not	the	case	.
+in	some	 case 	 s 	 	,	there	would	 actual 	 ly 	 	be	 algorithm 	 s 	 	,	and	 ver 	 y 	 	 sophistic 	 ated 	 	 algorithm 	 s 	 	.
+so	in	manghetu	 sculpt 	 ure 	 	,	you	'd	see	 th 	 is 	 	 recur 	 s 	 ive 	 	 geo 	 metry 	 	.
+in	ethiopian	 cross 	 es 	 	,	you	see	 th 	 is 	 	 wonder 	 ful 	 	 un 	 fold 	 ing 	 	of	the	shape	.
+in	angola	,	the	chokwe	people	draw	lines	in	the	sand	,	and	it	's	what	the	german	 mathematic 	 ian 	 	euler	 call 	 ed 	 	a	graph	;	we	now	call	it	an	eulerian	path	--	you	can	never	lift	your	 styl 	 us 	 	from	the	surface	and	you	can	never	go	over	the	same	line	twice	.
+but	they	do	it	recursively	,	and	they	do	it	with	an	age	-	grade	system	,	so	the	little	 kid 	 s 	 	learn	 th 	 is 	 	one	,	and	then	the	 old 	 er 	 	 kid 	 s 	 	learn	 th 	 is 	 	one	,	then	the	next	age	-	grade	 initi 	 ation 	 	,	you	learn	 th 	 is 	 	one	.
+and	with	each	iteration	of	that	algorithm	,	you	learn	the	 iteration 	 s 	 	of	the	myth	.
+you	learn	the	next	level	of	knowledge	.
+and	 final 	 ly 	 	,	all	over	africa	,	you	see	 th 	 is 	 	board	game	.
+it	's	 call 	 ed 	 	owari	in	ghana	,	where	i	 stud 	 ied 	 	it	;	it	's	 call 	 ed 	 	mancala	here	on	the	east	coast	,	bao	in	kenya	,	sogo	 else 	 where 	 	.
+well	,	you	see	self	-	 organ 	 izing 	 	 pattern 	 s 	 	that	 spontane 	 ously 	 	occur	in	 th 	 is 	 	board	game	.
+and	the	 folk 	 s 	 	in	ghana	 k 	 new 	 	about	these	self	-	 organ 	 izing 	 	 pattern 	 s 	 	and	would	use	them	 strat 	 egic 	 ally 	 	.
+so	 th 	 is 	 	is	 ver 	 y 	 	conscious	knowledge	.
+here	's	a	 wonder 	 ful 	 	 fract 	 al 	 	.
+ any 	 where 	 	you	go	in	the	sahel	,	you	'll	see	 th 	 is 	 	 wind 	 screen 	 	.
+and	of	course	 f 	 ence 	 s 	 	around	the	world	are	all	cartesian	,	all	 strict 	 ly 	 	linear	.
+but	here	in	africa	,	you	've	got	these	 non 	 linear 	 	 scal 	 ing 	 	 f 	 ence 	 s 	 	.
+so	i	 track 	 ed 	 	down	one	of	the	 folk 	 s 	 	who	 make 	 s 	 	these	 thing 	 s 	 	,	 th 	 is 	 	guy	in	mali	just	 out 	 side 	 	of	bamako	,	and	i	 ask 	 ed 	 	him	,	``	how	come	you	're	making	 fract 	 al 	 	 f 	 ence 	 s 	 	?	 be 	 cause 	 	 no 	 body 	 	else	is	.	``	and	his	answer	was	 ver 	 y 	 	 interest 	 ing 	 	.
+he	 s 	 aid 	 	,	``	well	,	if	i	lived	in	the	jungle	,	i	would	 on 	 ly 	 	use	the	long	 row 	 s 	 	of	straw	 be 	 cause 	 	they	're	 ver 	 y 	 	quick	and	they	're	 ver 	 y 	 	cheap	.
+it	 do 	 es 	 	n't	take	much	time	,	 do 	 es 	 	n't	take	much	straw	.	``	he	 s 	 aid 	 	,	``	but	wind	and	dust	 go 	 es 	 	through	 pre 	 tty 	 	 eas 	 ily 	 	.
+now	,	the	tight	 row 	 s 	 	up	at	the	 ver 	 y 	 	top	,	they	 re 	 ally 	 	hold	out	the	wind	and	dust	.
+but	it	 take 	 s 	 	a	lot	of	time	,	and	it	 take 	 s 	 	a	lot	of	straw	 be 	 cause 	 	they	're	 re 	 ally 	 	tight	.	``	``	now	,	``	he	 s 	 aid 	 	,	``	we	know	from	experience	that	the	 far 	 ther 	 	up	from	the	ground	you	go	,	the	 strong 	 er 	 	the	wind	 blow 	 s 	 	.	``	right	?	it	's	just	like	a	cost	-	benefit	analysis	.
+and	i	 measur 	 ed 	 	out	the	 length 	 s 	 	of	straw	,	put	it	on	a	log	-	log	plot	,	got	the	 scal 	 ing 	 	 expo 	 n 	 ent 	 	,	and	it	 al 	 most 	 	 exact 	 ly 	 	 match 	 es 	 	the	 scal 	 ing 	 	 expo 	 n 	 ent 	 	for	the	relationship	between	wind	speed	and	height	in	the	wind	 engineer 	 ing 	 	 hand 	 book 	 	.
+so	these	 guy 	 s 	 	are	right	on	target	for	a	practical	use	of	 scal 	 ing 	 	technology	.
+the	most	complex	 ex 	 ample 	 	of	an	 algorithm 	 ic 	 	approach	to	 fract 	 al 	 s 	 	that	i	found	was	 actual 	 ly 	 	not	in	 geo 	 metry 	 	,	it	was	in	a	 symbol 	 ic 	 	code	,	and	 th 	 is 	 	was	bamana	sand	 div 	 in 	 ation 	 	.
+and	the	same	 div 	 in 	 ation 	 	system	is	found	all	over	africa	.
+you	can	find	it	on	the	east	coast	 a 	 s 	 	well	 a 	 s 	 	the	west	coast	,	and	often	the	 symbol 	 s 	 	are	 ver 	 y 	 	well	 preserve 	 d 	 	,	so	each	of	these	 symbol 	 s 	 	 ha 	 s 	 	four	bits	--	it	's	a	four	-	bit	 bin 	 ary 	 	word	--	you	draw	these	lines	in	the	sand	 random 	 ly 	 	,	and	then	you	count	off	,	and	if	it	's	an	odd	number	,	you	put	down	one	stroke	,	and	if	it	's	an	even	number	,	you	put	down	two	 stroke 	 s 	 	.	and	they	did	 th 	 is 	 	 ver 	 y 	 	 rapid 	 ly 	 	,	and	i	could	n't	understand	where	they	 we 	 re 	 	 get 	 ting 	 	--	they	 on 	 ly 	 	did	the	 random 	 ness 	 	four	 time 	 s 	 	--	i	could	n't	understand	where	they	 we 	 re 	 	 get 	 ting 	 	the	other	12	 symbol 	 s 	 	.
+and	they	would	n't	tell	me	.
+they	 s 	 aid 	 	,	``	no	,	no	,	i	ca	n't	tell	you	about	 th 	 is 	 	.	``
+and	i	 s 	 aid 	 	,	``	well	look	,	i	'll	pay	you	,	you	can	be	my	teacher	,	and	i	'll	come	each	day	and	pay	you	.	``	they	 s 	 aid 	 	,	``	it	's	not	a	matter	of	money	.	 th 	 is 	 	is	a	religious	matter	.	``
+and	 final 	 ly 	 	,	out	of	 de 	 s 	 per 	 ation 	 	,	i	 s 	 aid 	 	,	``	well	,	let	me	explain	georg	cantor	in	1877	.	``	and	i	 start 	 ed 	 	 explain 	 ing 	 	why	i	was	there	in	africa	,	and	they	got	 ver 	 y 	 	 excit 	 ed 	 	when	they	saw	the	cantor	set	.
+and	one	of	them	 s 	 aid 	 	,	``	come	here	.	i	think	i	can	help	you	out	here	.	``	and	so	he	took	me	through	the	 initi 	 ation 	 	ritual	for	a	bamana	priest	.
+and	of	course	,	i	was	 on 	 ly 	 	 interest 	 ed 	 	in	the	math	,	so	the	whole	time	,	he	 ke 	 pt 	 	 sha 	 king 	 	his	head	going	,	``	you	know	,	i	did	n't	learn	it	 th 	 is 	 	way	.	``	but	i	had	to	sleep	with	a	kola	nut	next	to	my	bed	,	buried	in	sand	,	and	give	seven	 co 	 in 	 s 	 	to	seven	lepers	and	so	on	.
+and	 final 	 ly 	 	,	he	 reveal 	 ed 	 	the	truth	of	the	matter	.
+and	it	 turn 	 s 	 	out	it	's	a	pseudo	-	random	number	 gene 	 rator 	 	using	deterministic	 cha 	 os 	 	.
+when	you	have	a	four	-	bit	symbol	,	you	then	put	it	together	with	 an 	 other 	 	one	 side 	 ways 	 	.
+so	even	plus	odd	 give 	 s 	 	you	odd	.
+odd	plus	even	 give 	 s 	 	you	odd	.
+even	plus	even	 give 	 s 	 	you	even	.	odd	plus	odd	 give 	 s 	 	you	even	.
+it	's	 add 	 ition 	 	 modul 	 o 	 	2	,	just	like	in	the	 par 	 ity 	 	bit	check	on	your	computer	.
+and	then	you	take	 th 	 is 	 	symbol	,	and	you	put	it	back	in	so	it	's	a	self	-	generating	 divers 	 ity 	 	of	 symbol 	 s 	 	.
+they	're	 tru 	 ly 	 	using	a	kind	of	deterministic	 cha 	 os 	 	in	 do 	 ing 	 	 th 	 is 	 	.
+now	,	 be 	 cause 	 	it	's	a	 bin 	 ary 	 	code	,	you	can	 actual 	 ly 	 	implement	 th 	 is 	 	in	 hard 	 ware 	 	--	what	a	fantastic	 teach 	 ing 	 	tool	that	should	be	in	african	 engineer 	 ing 	 	 school 	 s 	 	.
+and	the	most	 interest 	 ing 	 	thing	i	found	out	about	it	was	 historic 	 al 	 	.
+in	the	12th	century	,	hugo	of	santalla	 br 	 ought 	 	it	from	islamic	mystics	 in 	 to 	 	spain	.
+and	there	it	 enter 	 ed 	 	 in 	 to 	 	the	alchemy	community	 a 	 s 	 	geomancy	:	 div 	 in 	 ation 	 	through	the	earth	.
+ th 	 is 	 	is	a	geomantic	chart	drawn	for	king	richard	ii	in	1390	.
+leibniz	,	the	german	 mathematic 	 ian 	 	,	 talk 	 ed 	 	about	geomancy	in	his	 dissert 	 ation 	 	 call 	 ed 	 	``	de	combinatoria	.	``	and	he	 s 	 aid 	 	,	``	well	,	 in 	 stead 	 	of	using	one	stroke	and	two	 stroke 	 s 	 	,	let	's	use	a	one	and	a	zero	,	and	we	can	count	by	 power 	 s 	 	of	two	.	``	right	?	 one 	 s 	 	and	 zero 	 s 	 	,	the	 bin 	 ary 	 	code	.
+george	boole	took	leibniz	's	 bin 	 ary 	 	code	and	 create 	 d 	 	boolean	algebra	,	and	john	von	neumann	took	boolean	algebra	and	 create 	 d 	 	the	digital	computer	.
+so	all	these	little	pdas	and	 lap 	 top 	 s 	 	--	every	digital	circuit	in	the	world	--	 start 	 ed 	 	in	africa	.
+and	i	know	brian	eno	 say 	 s 	 	there	's	not	 en 	 ough 	 	africa	in	 computer 	 s 	 	,	but	you	know	,	i	do	n't	think	there	's	 en 	 ough 	 	african	 histo 	 ry 	 	in	brian	eno	.
+so	let	me	end	with	just	a	few	 word 	 s 	 	about	 application 	 s 	 	that	we	've	found	for	 th 	 is 	 	.
+and	you	can	go	to	our	 web 	 s 	 ite 	 	,	the	applets	are	all	free	;	they	just	run	in	the	 brow 	 s 	 er 	 	.
+ any 	 body 	 	in	the	world	can	use	them	.
+the	national	science	 found 	 ation 	 	's	 broad 	 en 	 ing 	 	 particip 	 ation 	 	in	computing	program	 re 	 cent 	 ly 	 	 a 	 ward 	 ed 	 	us	a	grant	to	make	a	 programm 	 able 	 	version	of	these	design	 tool 	 s 	 	,	so	 hope 	 fully 	 	in	three	 year 	 s 	 	,	 any 	 body 	 	'll	be	able	to	go	on	the	web	and	create	 the 	 ir 	 	own	 simul 	 ations 	 	and	 the 	 ir 	 	own	 artifact 	 s 	 	.
+we	've	focused	in	the	u.s.	on	african	-	american	 student 	 s 	 	 a 	 s 	 	well	 a 	 s 	 	native	american	and	latino	.
+we	've	found	 statistic 	 ally 	 	significant	 improve 	 ment 	 	with	children	using	 th 	 is 	 	 soft 	 ware 	 	in	a	 mathematic 	 s 	 	class	in	 compar 	 ison 	 	with	a	control	group	that	did	not	have	the	 soft 	 ware 	 	.
+so	it	's	 re 	 ally 	 	 ver 	 y 	 	 success 	 ful 	 	 teach 	 ing 	 	children	that	they	have	a	heritage	that	's	about	 mathematic 	 s 	 	,	that	it	's	not	just	about	 s 	 ing 	 ing 	 	and	 danc 	 ing 	 	.
+we	've	 start 	 ed 	 	a	pilot	program	in	ghana	.	we	got	a	small	seed	grant	,	just	to	see	if	 folk 	 s 	 	would	be	 will 	 ing 	 	to	work	with	us	on	 th 	 is 	 	;	we	're	 ver 	 y 	 	 excit 	 ed 	 	about	the	future	 possibil 	 ities 	 	for	that	.
+we	've	 al 	 so 	 	 be 	 en 	 	 work 	 ing 	 	in	design	.
+i	did	n't	put	his	name	up	here	--	my	 col 	 league 	 	,	kerry	,	in	kenya	,	 ha 	 s 	 	come	up	with	 th 	 is 	 	great	idea	for	using	 fract 	 al 	 	structure	for	 post 	 al 	 	address	in	 village 	 s 	 	that	have	 fract 	 al 	 	structure	,	 be 	 cause 	 	if	you	try	to	impose	a	grid	structure	 post 	 al 	 	system	on	a	 fract 	 al 	 	village	,	it	 do 	 es 	 	n't	 quit 	 e 	 	fit	.
+bernard	tschumi	at	columbia	university	 ha 	 s 	 	 finish 	 ed 	 	using	 th 	 is 	 	in	a	design	for	a	museum	of	african	art	.
+david	hughes	at	ohio	state	university	 ha 	 s 	 	written	a	 prim 	 er 	 	on	afrocentric	 architect 	 ure 	 	in	which	he	's	used	some	of	these	 fract 	 al 	 	 structure 	 s 	 	.
+and	 final 	 ly 	 	,	i	just	 want 	 ed 	 	to	point	out	that	 th 	 is 	 	idea	of	self	-	 organ 	 ization 	 	,	 a 	 s 	 	we	heard	 ear 	 lier 	 	,	it	's	in	the	brain	.
+it	's	in	the	--	it	's	in	google	's	search	engine	.
+ actual 	 ly 	 	,	the	reason	that	google	was	 s 	 uch 	 	a	success	is	 be 	 cause 	 	they	 we 	 re 	 	the	first	 one 	 s 	 	to	take	advantage	of	the	self	-	 organ 	 izing 	 	 proper 	 ties 	 	of	the	web	.
+it	's	in	 eco 	 logical 	 	 sustain 	 ability 	 	.
+it	's	in	the	 develop 	 mental 	 	power	of	 entrepreneur 	 ship 	 	,	the	 ethic 	 al 	 	power	of	 demo 	 cracy 	 	.
+it	's	 al 	 so 	 	in	some	bad	 thing 	 s 	 	.
+self	-	 organ 	 ization 	 	is	why	the	 aid 	 s 	 	virus	is	 spread 	 ing 	 	so	fast	.
+and	if	you	do	n't	think	that	 capital 	 ism 	 	,	which	is	self	-	 organ 	 izing 	 	,	can	have	 destruct 	 ive 	 	 effect 	 s 	 	,	you	have	n't	 open 	 ed 	 	your	 eye 	 s 	 	 en 	 ough 	 	.
+so	we	need	to	think	about	,	 a 	 s 	 	was	spoken	 ear 	 lier 	 	,	the	 tradition 	 al 	 	african	 method 	 s 	 	for	 do 	 ing 	 	self	-	 organ 	 ization 	 	.
+these	are	 ro 	 bust 	 	 algorithm 	 s 	 	.
+these	are	ways	of	 do 	 ing 	 	self	-	 organ 	 ization 	 	--	of	 do 	 ing 	 	 entrepreneur 	 ship 	 	--	that	are	gentle	,	that	are	egalitarian	.
+so	if	we	want	to	find	a	better	way	of	 do 	 ing 	 	that	kind	of	work	,	we	need	look	 on 	 ly 	 	no	 far 	 ther 	 	than	africa	to	find	these	 ro 	 bust 	 	self	-	 organ 	 izing 	 	 algorithm 	 s 	 	.
+thank	you	.
+

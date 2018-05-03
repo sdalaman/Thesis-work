@@ -1,0 +1,152 @@
+ bon 	 jour 	 	je	suis	ici	aujourd'hui	pour	 parle 	 r 	 	de	 ballon 	 s 	 	de	 p 	 lage 	 	 volant 	 s 	 	 e 	 t 	 	 autonome 	 s 	 	.
+non	,	de	 robot 	 s 	 	 aérien 	 s 	 	 agile 	 s 	 	comme	celui	-	ci	.
+je	 voudrai 	 s 	 	vous	 parle 	 r 	 	des	 défi 	 s 	 	 rencontr 	 és 	 	lors	de	leur	construction	 e 	 t 	 	de	 quelque 	 s 	 	-	 une 	 s 	 	des	 possibilité 	 s 	 	 formidable 	 s 	 	 d' 	 application 	 	de	 ce 	 tte 	 	technologie	.
+donc	,	 ce 	 s 	 	 robot 	 s 	 	 s 	 ont 	 	 apparenté 	 s 	 	à	des	 drone 	 s 	 	.
+ ce 	 pendant 	 	,	les	 drone 	 s 	 	que	vous	voyez	ici	 s 	 ont 	 	 grand 	 s 	 	.
+ils	 pèse 	 nt 	 	des	 tonne 	 s 	 	,	ne	 s 	 ont 	 	pas	du	tout	 agile 	 s 	 	.
+ils	ne	 s 	 ont 	 	même	pas	 autonome 	 s 	 	.
+en	fait	,	bon	nombre	de	 ce 	 s 	 	 véhicul 	 es 	 	 s 	 ont 	 	_UNK_	par	des	 équipe 	 s 	 	de	 pilot 	 age 	 	qui	peuvent	 compte 	 r 	 	des	 pilote 	 s 	 	,	des	 opérateur 	 s 	 	de	 capte 	 urs 	 	 e 	 t 	 	plusieurs	_UNK_	de	mission	.
+ce	qui	nous	intéresse	,	c'est	le	 développe 	 ment 	 	de	 robot 	 s 	 	de	ce	 gen 	 re 	 	-	 e 	 t 	 	voici	deux	 autre 	 s 	 	 photo 	 s 	 	-	des	 robot 	 s 	 	 qu' 	 on 	 	peut	acheter	dans	le	commerce	.
+ce	 s 	 ont 	 	donc	des	 hélicoptère 	 s 	 	à	quatre	 rotor 	 s 	 	 e 	 t 	 	ils	font	à	peu	près	un	mètre	 e 	 t 	 	 pèse 	 nt 	 	plusieurs	 kilo 	 s 	 	.
+nous	leur	 ajout 	 ons 	 	des	 capte 	 urs 	 	 e 	 t 	 	des	 processeur 	 s 	 	,	 e 	 t 	 	 ce 	 s 	 	 robot 	 s 	 	peuvent	 vole 	 r 	 	en	intérieur	sans	gps	.
+le	robot	que	je	 t 	 iens 	 	dans	ma	main	est	de	ce	type	,	 e 	 t 	 	il	a	été	créé	par	deux	 étudiant 	 s 	 	,	alex	 e 	 t 	 	daniel	.
+il	pèse	un	peu	plus	 d' 	 un 	 	 vingt 	 ième 	 	de	kilo	.
+il	 consomm 	 e 	 	environ	15	 watt 	 s 	 	 d' 	 électricité 	 	.
+comme	vous	 pouv 	 ez 	 	le	voir	,	il	fait	environ	20	cm	de	 dia 	 mètre 	 	.
+laissez	-	moi	vous	 montre 	 r 	 	 rapide 	 ment 	 	comment	 ce 	 s 	 	 robot 	 s 	 	 fonctionne 	 nt 	 	.
+un	robot	dispose	donc	de	quatre	 rotor 	 s 	 	.
+si	vous	faites	 tourne 	 r 	 	 ce 	 s 	 	 rotor 	 s 	 	à	la	même	vitesse	,	le	robot	 plan 	 e 	 	.
+si	vous	 augmente 	 z 	 	la	vitesse	de	chacun	de	 ce 	 s 	 	 rotor 	 s 	 	,	alors	le	robot	 s'en 	 vole 	 	,	il	 s' 	 élève 	 	en	 accélér 	 ant 	 	.
+bien	sûr	,	si	on	 fais 	 ait 	 	 bascule 	 r 	 	le	robot	,	si	on	_UNK_	à	 l' 	 horizontale 	 	,	alors	il	_UNK_	dans	 ce 	 tte 	 	direction	.
+donc	,	pour	le	faire	 bascule 	 r 	 	,	voici	 l' 	 une 	 	des	deux	 façon 	 s 	 	de	le	faire	.
+donc	,	sur	 ce 	 tte 	 	image	vous	voyez	que	le	rotor	n°	4	tourne	plus	vite	 e 	 t 	 	que	le	rotor	n°	2	tourne	plus	 lent 	 ement 	 	.
+quand	c'est	le	cas	,	il	y	a	un	_UNK_	qui	fait	 bascule 	 r 	 	le	robot	.
+ e 	 t 	 	dans	 l' 	 autre 	 	sens	,	si	vous	 augmente 	 z 	 	la	vitesse	du	rotor	 n° 	 3 	 	 e 	 t 	 	 diminue 	 z 	 	la	vitesse	du	rotor	 n° 	 1 	 	,	alors	le	robot	bascule	en	avant	.
+enfin	,	si	vous	faites	 tourne 	 r 	 	des	 pair 	 es 	 	de	 rotor 	 s 	 	 opposé 	 s 	 	plus	vite	que	 l' 	 autre 	 	 pair 	 e 	 	,	alors	le	robot	 s' 	 oriente 	 	sur	 l' 	 axe 	 	vertical	.
+donc	,	un	processeur	embarqué	 s' 	 intéresse 	 	 essentiel 	 lement 	 	aux	 mouvement 	 s 	 	qui	 doive 	 nt 	 	être	 exécut 	 és 	 	 e 	 t 	 	combine	 ce 	 s 	 	 mouvement 	 s 	 	 e 	 t 	 	 calcul 	 e 	 	 quelle 	 s 	 	 commande 	 s 	 	envoyer	aux	 moteur 	 s 	 	600	fois	par	seconde	.
+c'est	en	gros	comme	ça	que	ça	fonctionne	.
+donc	,	 l' 	 un 	 	des	 avantage 	 s 	 	de	 ce 	 tte 	 	 con 	 ception 	 	c'est	que	quand	on	réduit	la	 t 	 aille 	 	 global 	 e 	 	,	le	robot	 dev 	 ient 	 	 naturel 	 lement 	 	agile	.
+donc	ici	r	est	la	 longue 	 ur 	 	 caractér 	 istique 	 	du	robot	.
+c'est	la	moitié	du	 dia 	 mètre 	 	,	en	fait	.
+ e 	 t 	 	il	y	a	beaucoup	de	 para 	 mètre 	 s 	 	 physique 	 s 	 	qui	 change 	 nt 	 	quand	on	réduit	r	.
+celui	qui	est	le	plus	important	est	 l' 	 inertie 	 	ou	la	 résist 	 ance 	 	au	mouvement	.
+ainsi	,	il	s'avère	que	 l' 	 inertie 	 	,	qui	gouverne	le	mouvement	angulaire	,	 s 	 e 	 	met	à	 l' 	 échelle 	 	r	puissance	5	.
+donc	plus	vous	 réduis 	 ez 	 	r	,	plus	 l' 	 inertie 	 	 s 	 e 	 	réduit	de	façon	spectaculaire	.
+donc	,	 l' 	 accélér 	 ation 	 	angulaire	,	 dé 	 signé 	 e 	 	ici	par	la	lettre	 grec 	 que 	 	alpha	,	 dev 	 ient 	 	un	sur	r	.
+elle	est	 inverse 	 ment 	 	 proportion 	 nelle 	 	à	r	.
+plus	on	la	réduit	,	plus	on	peut	 tourne 	 r 	 	vite	.
+cela	 dev 	 rait 	 	 apparaît 	 re 	 	 clair 	 ement 	 	dans	 ce 	 s 	 	 vidéo 	 s 	 	.
+en	bas	à	droite	,	on	peut	voir	un	robot	 effectue 	 r 	 	un	 tonne 	 au 	 	de	360	 de 	 gré 	 s 	 	en	moins	 d' 	 une 	 	demi	-	seconde	.
+des	 tonne 	 aux 	 	 multi 	 ple 	 s 	 	,	un	peu	plus	de	temps	.
+donc	,	ici	,	les	 process 	 us 	 	 embarqué 	 s 	 	 reçoive 	 nt 	 	les	 retour 	 s 	 	des	 accélér 	 omètre 	 s 	 	 e 	 t 	 	des	 gy 	 ro 	 scope 	 s 	 	 embarqué 	 s 	 	 e 	 t 	 	 calcul 	 ent 	 	,	comme	je	 l' 	 ai 	 	dit	avant	,	les	 commande 	 s 	 	600	fois	par	seconde	pour	 stabilise 	 r 	 	ce	robot	.
+donc	,	sur	la	gauche	,	vous	voyez	daniel	 jet 	 er 	 	ce	robot	en	 l' 	 air 	 	.
+ e 	 t 	 	ça	vous	montre	la	 robuste 	 sse 	 	du	 contrô 	 le 	 	.
+peu	importe	comment	on	le	jette	,	le	robot	récupère	 e 	 t 	 	 re 	 vient 	 	à	lui	.
+alors	,	pourquoi	 construi 	 re 	 	des	 robot 	 s 	 	comme	celui	-	ci	?
+des	 robot 	 s 	 	de	ce	 gen 	 re 	 	ont	de	 nombre 	 uses 	 	 application 	 s 	 	.
+on	peut	les	envoyer	à	 l' 	 intérieur 	 	de	 bâti 	 ment 	 s 	 	comme	celui	-	ci	comme	 premier 	 s 	 	 inter 	 venant 	 s 	 	à	la	recherche	_UNK_	,	peut	-	être	à	la	recherche	de	 fuit 	 es 	 	 bio 	 chimique 	 s 	 	,	de	 fuit 	 es 	 	de	gaz	.
+on	peut	aussi	les	utiliser	pour	des	 application 	 s 	 	comme	la	construction	.
+voici	des	 robot 	 s 	 	qui	 transport 	 ent 	 	des	 p 	 outre 	 s 	 	,	des	 colon 	 nes 	 	 e 	 t 	 	qui	 assemble 	 nt 	 	des	 structure 	 s 	 	 cub 	 iques 	 	.
+je	vais	vous	en	dire	un	peu	plus	à	ce	sujet	.
+les	 robot 	 s 	 	peuvent	être	 utilisé 	 s 	 	pour	le	transport	de	 fre 	 t 	 	.
+donc	,	 l' 	 un 	 	des	 problème 	 s 	 	avec	 ce 	 s 	 	petits	 robot 	 s 	 	est	leur	capacité	de	charge	utile	donc	,	il	faudra	peut	-	être	avoir	plusieurs	 robot 	 s 	 	pour	 transport 	 er 	 	des	 charge 	 s 	 	 utile 	 s 	 	.
+ ce 	 ci 	 	est	une	photo	 d' 	 une 	 	expérience	 ré 	 cente 	 	plus	si	 ré 	 cente 	 	que	ça	en	fait	à	sendai	peu	de	temps	après	le	 tremble 	 ment 	 	de	terre	.
+des	 robot 	 s 	 	comme	celui	-	ci	 pour 	 raient 	 	être	 envoyé 	 s 	 	dans	les	 bâti 	 ment 	 s 	 	_UNK_	pour	évaluer	les	 dégât 	 s 	 	après	les	 catastroph 	 es 	 	 naturel 	 les 	 	,	ou	 envoyé 	 s 	 	dans	les	 bâti 	 ment 	 s 	 	 réacteur 	 s 	 	pour	 carto 	 graphie 	 r 	 	les	 niveau 	 x 	 	de	 radi 	 ation 	 	.
+un	problème	fondamental	que	les	 robot 	 s 	 	 doive 	 nt 	 	 résoud 	 re 	 	 s' 	 ils 	 	veulent	être	 autonome 	 s 	 	est	en	gros	de	trouver	comment	aller	du	point	a	au	point	b	.
+cela	 dev 	 ient 	 	un	peu	difficile	parce	que	la	dynamique	de	ce	robot	est	assez	 compliqué 	 e 	 	.
+en	fait	,	ils	 viv 	 ent 	 	dans	un	espace	à	12	 dimension 	 s 	 	.
+alors	,	nous	utilisons	une	petite	astuce	.
+nous	 profit 	 ons 	 	de	 ce 	 t 	 	espace	courbe	à	12	 dimension 	 s 	 	 e 	 t 	 	le	 trans 	 form 	 ons 	 	en	un	espace	plat	à	quatre	 dimension 	 s 	 	.
+ e 	 t 	 	 ce 	 t 	 	espace	à	quatre	 dimension 	 s 	 	 s 	 e 	 	compose	de	x	,	y	,	z	 e 	 t 	 	de	 l' 	 angle 	 	 d' 	 orientation 	 	.
+ e 	 t 	 	alors	ce	robot	planifie	ce	que	nous	 appel 	 ons 	 	une	trajectoire	de	 décroch 	 age 	 	 mini 	 mum 	 	.
+un	rappel	de	physique	,	vous	avez	la	position	,	la	 dérivé 	 e 	 	,	la	vitesse	,	puis	 l' 	 accélér 	 ation 	 	,	puis	vient	la	_UNK_	puis	vient	le	 décroch 	 age 	 	donc	,	ce	robot	minimise	le	 décroch 	 age 	 	.
+cela	produit	 effective 	 ment 	 	un	mouvement	doux	 e 	 t 	 	 gra 	 cieux 	 	.
+le	tout	en	 évi 	 tant 	 	les	 obstacle 	 s 	 	.
+ ce 	 s 	 	 trajectoire 	 s 	 	de	 décroch 	 age 	 	 mini 	 mum 	 	dans	 ce 	 t 	 	espace	plat	 s 	 ont 	 	 en 	 suite 	 	 trans 	 formé 	 es 	 	à	nouveau	dans	 ce 	 t 	 	espace	 complex 	 e 	 	à	12	 dimension 	 s 	 	,	ce	que	le	robot	doit	faire	pour	le	 contrô 	 le 	 	 e 	 t 	 	 l' 	 exécution 	 	.
+alors	laissez	-	moi	vous	 montre 	 r 	 	 quelque 	 s 	 	 exemple 	 s 	 	de	ce	à	quoi	 ressemble 	 nt 	 	 ce 	 s 	 	 trajectoire 	 s 	 	de	 décroch 	 age 	 	 mini 	 mum 	 	.
+ e 	 t 	 	dans	la	première	vidéo	,	vous	 ver 	 rez 	 	le	robot	aller	du	point	a	au	point	b	par	un	point	intermédiaire	.
+ainsi	,	le	robot	est	évidemment	capable	 d' 	 exécute 	 r 	 	 n' 	 importe 	 	quelle	trajectoire	courbe	.
+ce	 s 	 ont 	 	donc	des	 trajectoire 	 s 	 	 circul 	 aires 	 	où	le	robot	subit	environ	deux	g	.
+ici	vous	avez	des	 caméra 	 s 	 	de	 cap 	 tation 	 	de	mouvement	sur	le	dessus	qui	 dis 	 ent 	 	au	robot	où	il	 s 	 e 	 	 trouv 	 e 	 	100	fois	par	seconde	.
+elles	 dis 	 ent 	 	aussi	au	robot	où	 s 	 ont 	 	 ce 	 s 	 	 obstacle 	 s 	 	.
+ e 	 t 	 	les	 obstacle 	 s 	 	peuvent	être	en	mouvement	.
+ e 	 t 	 	ici	,	vous	 ver 	 rez 	 	daniel	 jet 	 er 	 	ce	cerceau	dans	 l' 	 air 	 	,	 tan 	 dis 	 	que	le	robot	 calcul 	 e 	 	la	position	du	cerceau	 e 	 t 	 	essaye	de	trouver	la	 meilleur 	 e 	 	façon	de	passer	à	travers	le	cerceau	.
+en	tant	 qu' 	 universitaire 	 	,	on	nous	forme	 tou 	 jour 	 s 	 	à	 réussi 	 r 	 	les	 épreuve 	 s 	 	de	sélection	 af 	 in 	 	de	lever	des	 fond 	 s 	 	pour	 no 	 s 	 	 labo 	 s 	 	,	 e 	 t 	 	ce	 s 	 ont 	 	 no 	 s 	 	 robot 	 s 	 	qui	le	font	pour	nous	.
+autre	chose	que	le	robot	peut	faire	:	il	 s 	 e 	 	 sou 	 vient 	 	des	 bout 	 s 	 	de	trajectoire	qu'il	apprend	ou	qui	 s 	 ont 	 	pré	-	 programmé 	 s 	 	.
+ici	vous	 pouv 	 ez 	 	voir	le	robot	 effectue 	 r 	 	un	mouvement	qui	exige	 d' 	 accumule 	 r 	 	de	la	vitesse	de	 modifi 	 er 	 	son	orientation	,	puis	de	 s 	 e 	 	 redresse 	 r 	 	.
+donc	,	il	doit	le	faire	parce	que	 ce 	 tte 	 	ouverture	dans	la	fenêtre	est	à	peine	 supérieur 	 e 	 	à	la	 large 	 ur 	 	du	robot	.
+alors	,	tout	comme	un	 plonge 	 ur 	 	sur	un	 tremp 	 lin 	 	 s 	 e 	 	jette	pour	 gagne 	 r 	 	de	la	vitesse	,	 e 	 t 	 	puis	fait	 s 	 a 	 	_UNK_	,	 ce 	 s 	 	deux	_UNK_	 e 	 t 	 	demi	 e 	 t 	 	puis	il	récupère	 facile 	 ment 	 	,	c'est	en	gros	ce	que	ce	robot	fait	.
+il	 s 	 ait 	 	comment	 combine 	 r 	 	de	petits	 bout 	 s 	 	de	 trajectoire 	 s 	 	pour	 effectue 	 r 	 	 ce 	 s 	 	 tâche 	 s 	 	assez	 difficile 	 s 	 	.
+je	veux	 change 	 r 	 	de	vitesse	.
+ l' 	 un 	 	des	 inconvénient 	 s 	 	de	 ce 	 s 	 	petits	 robot 	 s 	 	est	leur	 t 	 aille 	 	.
+ e 	 t 	 	je	vous	 l' 	 ai 	 	dit	plus	tôt	:	on	peut	 voul 	 oir 	 	employer	des	 ta 	 s 	 	de	 robot 	 s 	 	pour	 surmonte 	 r 	 	les	 limit 	 ations 	 	de	 t 	 aille 	 	.
+donc	,	une	difficulté	est	de	 s 	 avoir 	 	comment	 coordonne 	 r 	 	un	bon	nombre	de	 ce 	 s 	 	 robot 	 s 	 	?
+ e 	 t 	 	ici	nous	nous	 somme 	 s 	 	 tourné 	 s 	 	vers	la	nature	.
+je	 t 	 iens 	 	donc	à	vous	 montre 	 r 	 	une	vidéo	des	 fourmi 	 s 	 	du	désert	_UNK_	dans	le	 labo 	 ratoire 	 	du	professeur	stephen	pratt	portant	un	objet	.
+c'est	en	fait	un	morceau	de	 figu 	 e 	 	.
+en	fait	,	vous	prenez	un	objet	 quel 	 con 	 que 	 	 endu 	 it 	 	de	jus	de	 figu 	 e 	 	 e 	 t 	 	les	 fourmi 	 s 	 	vont	le	 r 	 amener 	 	au	nid	.
+ ce 	 s 	 	 fourmi 	 s 	 	 n' 	 ont 	 	pas	de	_UNK_	central	.
+elles	 re 	 père 	 nt 	 	 leur 	 s 	 	 voisin 	 s 	 	.
+il	 n' 	 y 	 	a	pas	de	 commun 	 ication 	 	explicite	.
+ mai 	 s 	 	parce	 qu' 	 elles 	 	 re 	 père 	 nt 	 	les	 voisin 	 s 	 	 e 	 t 	 	parce	 qu' 	 elles 	 	 re 	 père 	 nt 	 	 l' 	 objet 	 	,	elles	ont	une	 co 	 ordi 	 nation 	 	implicite	au	sein	du	groupe	.
+c'est	le	 gen 	 re 	 	de	 co 	 ordi 	 nation 	 	que	nous	 voul 	 ons 	 	pour	 no 	 s 	 	 robot 	 s 	 	.
+ lors 	 que 	 	nous	avons	un	robot	qui	est	entouré	par	des	 voisin 	 s 	 	-	 e 	 t 	 	 regard 	 ons 	 	le	robot	i	 e 	 t 	 	le	robot	j	-	ce	que	nous	 voul 	 ons 	 	que	les	 robot 	 s 	 	 fasse 	 nt 	 	c'est	 surveille 	 r 	 	la	 distanc 	 e 	 	qui	les	sépare	quand	ils	 vole 	 nt 	 	en	formation	.
+ e 	 t 	 	puis	,	on	veut	 s' 	 assurer 	 	que	 ce 	 tte 	 	 distanc 	 e 	 	est	dans	des	 limite 	 s 	 	 acceptable 	 s 	 	.
+encore	une	fois	,	les	 robot 	 s 	 	 surveille 	 nt 	 	 ce 	 tte 	 	erreur	 e 	 t 	 	 calcul 	 ent 	 	les	 commande 	 s 	 	de	 contrô 	 le 	 	100	fois	par	seconde	,	ce	qui	 s 	 e 	 	traduit	alors	par	des	 commande 	 s 	 	 motrice 	 s 	 	600	fois	par	seconde	.
+cela	doit	aussi	 s 	 e 	 	faire	 d' 	 une 	 	 man 	 ière 	 	 dé 	 centralisé 	 e 	 	.
+encore	une	fois	,	si	vous	avez	des	 ta 	 s 	 	de	 robot 	 s 	 	,	il	est	impossible	de	 coordonne 	 r 	 	 tout 	 es 	 	 ce 	 s 	 	 informat 	 ions 	 	de	façon	 central 	 e 	 	assez	vite	pour	que	les	 robot 	 s 	 	 accompli 	 ssent 	 	la	tâche	.
+en	plus	les	 robot 	 s 	 	 s 	 ont 	 	 amené 	 es 	 	à	 fond 	 er 	 	 leur 	 s 	 	 action 	 s 	 	 unique 	 ment 	 	sur	des	 informat 	 ions 	 	 local 	 es 	 	,	ce	 qu'il 	 s 	 	 re 	 père 	 nt 	 	de	 leur 	 s 	 	 voisin 	 s 	 	.
+ e 	 t 	 	enfin	,	nous	tenons	à	ce	que	les	 robot 	 s 	 	ne	 sache 	 nt 	 	pas	 l' 	 identité 	 	exacte	de	 leur 	 s 	 	 voisin 	 s 	 	.
+c'est	ce	que	nous	 appel 	 ons 	 	 l' 	 anonymat 	 	.
+je	veux	vous	 montre 	 r 	 	 main 	 tenant 	 	une	vidéo	de	20	de	 ce 	 s 	 	petits	 robot 	 s 	 	volant	en	formation	.
+ils	 surveille 	 nt 	 	la	position	de	 leur 	 s 	 	 voisin 	 s 	 	.
+ils	 main 	 tiennent 	 	la	formation	.
+les	 formation 	 s 	 	peuvent	 change 	 r 	 	.
+ ce 	 s 	 	 formation 	 s 	 	peuvent	être	_UNK_	,	elles	peuvent	être	 tri 	 dimensionnelle 	 s 	 	.
+comme	vous	 pouv 	 ez 	 	le	voir	ici	,	ils	 s 	 e 	 	 repli 	 ent 	 	 d' 	 une 	 	formation	en	trois	 dimension 	 s 	 	dans	la	formation	_UNK_	.
+ e 	 t 	 	pour	 vole 	 r 	 	à	travers	les	 obstacle 	 s 	 	ils	peuvent	 s' 	 adapter 	 	aux	 formation 	 s 	 	à	la	 volé 	 e 	 	.
+encore	une	fois	,	 ce 	 s 	 	 robot 	 s 	 	 s 	 ont 	 	très	 rapproché 	 s 	 	.
+comme	vous	 pouv 	 ez 	 	le	voir	dans	ce	vol	en	huit	,	ils	viennent	à	 quelque 	 s 	 	 centimètre 	 s 	 	les	 un 	 s 	 	des	 autre 	 s 	 	.
+ e 	 t 	 	 mal 	 gré 	 	les	 interaction 	 s 	 	 aéro 	 dynamique 	 s 	 	des	 pale 	 s 	 	de	 l' 	 hélice 	 	,	ils	 s 	 ont 	 	en	mesure	de	 main 	 tenir 	 	un	vol	 s 	 table 	 	.
+une	fois	que	vous	 s 	 avez 	 	comment	 vole 	 r 	 	en	formation	,	vous	 pouv 	 ez 	 	 effective 	 ment 	 	 ramasse 	 r 	 	des	 objet 	 s 	 	en	 col 	 laboration 	 	.
+cela	montre	 simple 	 ment 	 	que	nous	 pouv 	 ons 	 	 double 	 r 	 	,	 triple 	 r 	 	,	 quadruple 	 r 	 	la	force	des	 robot 	 s 	 	en	les	 amena 	 nt 	 	à	 s' 	 associer 	 	avec	 leur 	 s 	 	 voisin 	 s 	 	,	comme	vous	 pouv 	 ez 	 	le	voir	ici	.
+un	des	 inconvénient 	 s 	 	de	faire	ça	est	,	que	comme	on	augmente	 l' 	 échelle 	 	 global 	 e 	 	--	si	on	a	beaucoup	de	 robot 	 s 	 	qui	 transport 	 ent 	 	la	même	chose	,	en	fait	on	augmente	 l' 	 inertie 	 	,	 e 	 t 	 	donc	on	subit	la	 con 	 séquence 	 	,	ils	ne	 s 	 ont 	 	pas	aussi	 agile 	 s 	 	.
+ mai 	 s 	 	on	y	gagne	en	capacité	de	transport	de	charge	utile	.
+une	autre	application	que	je	 souhait 	 e 	 	vous	 montre 	 r 	 	-	une	fois	de	plus	,	c'est	dans	 not 	 re 	 	 labo 	 ratoire 	 	.
+ce	travail	est	effectué	par	quentin	lindsey	qui	est	un	étudiant	de	troisième	cycle	.
+son	algorithme	dit	 essentiel 	 lement 	 	à	 ce 	 s 	 	 robot 	 s 	 	comment	 construi 	 re 	 	de	 man 	 ière 	 	autonome	des	 structure 	 s 	 	 cub 	 iques 	 	à	 parti 	 r 	 	 d' 	 élément 	 s 	 	de	type	 tre 	 illi 	 s 	 	.
+son	algorithme	indique	au	robot	quelle	 parti 	 e 	 	 ramasse 	 r 	 	,	quand	 e 	 t 	 	où	la	 place 	 r 	 	.
+dans	 ce 	 tte 	 	vidéo	vous	voyez	-	 e 	 t 	 	c'est	 accélér 	 é 	 	10	,	14	fois	-	vous	voyez	 ce 	 s 	 	 robot 	 s 	 	en	train	de	 construi 	 re 	 	trois	 structure 	 s 	 	 différent 	 es 	 	.
+ e 	 t 	 	là	encore	,	tout	est	autonome	,	 e 	 t 	 	tout	ce	que	quentin	doit	faire	est	de	leur	donner	un	plan	de	ce	qu'il	veut	 construi 	 re 	 	.
+ tout 	 es 	 	 ce 	 s 	 	 expérience 	 s 	 	que	vous	avez	 vue 	 s 	 	 jus 	 qu' 	 à 	 	présent	,	 tout 	 es 	 	 ce 	 s 	 	 manifest 	 ations 	 	,	ont	été	 réalisé 	 es 	 	avec	 l' 	 aide 	 	de	 système 	 s 	 	de	 cap 	 tation 	 	de	mouvement	.
+que	 s 	 e 	 	passe	-	t	-	il	 lors 	 que 	 	vous	 quitte 	 z 	 	 vot 	 re 	 	 labo 	 ratoire 	 	 e 	 t 	 	vous	aller	dehors	dans	le	monde	réel	?
+ e 	 t 	 	si	il	 n' 	 y 	 	a	pas	de	gps	?
+donc	,	ce	robot	est	en	fait	équipé	 d' 	 une 	 	caméra	 e 	 t 	 	 d' 	 un 	 	 point 	 eur 	 	laser	h	,	un	scanner	laser	.
+ e 	 t 	 	il	utilise	 ce 	 s 	 	 capte 	 urs 	 	pour	 élabore 	 r 	 	une	carte	de	 l' 	 environnement 	 	.
+la	carte	 s 	 e 	 	compose	de	 caractér 	 istique 	 s 	 	--	comme	des	 porte 	 s 	 	,	 fenêtre 	 s 	 	,	les	 gen 	 s 	 	,	les	 meuble 	 s 	 	-	 e 	 t 	 	 en 	 suite 	 	il	 calcul 	 e 	 	 s 	 a 	 	position	par	rapport	aux	 caractér 	 istique 	 s 	 	.
+il	 n' 	 y 	 	a	pas	de	système	de	 co 	 ordonné 	 es 	 	global	.
+le	système	de	 co 	 ordonné 	 es 	 	est	défini	 d' 	 après 	 	le	robot	,	où	il	 s 	 e 	 	 trouv 	 e 	 	 e 	 t 	 	ce	qu'il	regarde	.
+ e 	 t 	 	il	 navigu 	 e 	 	en	fonction	de	 ce 	 s 	 	 caractér 	 istique 	 s 	 	.
+je	 t 	 iens 	 	donc	à	vous	 montre 	 r 	 	un	clip	des	 algorithme 	 s 	 	 développé 	 s 	 	par	frank	 s 	 hen 	 	 e 	 t 	 	le	professeur	nathan	michael	qui	montre	ce	robot	qui	entre	dans	un	 bâti 	 ment 	 	pour	la	première	fois	 e 	 t 	 	 cré 	 e 	 	 ce 	 tte 	 	carte	à	la	 volé 	 e 	 	.
+le	robot	détermine	 en 	 suite 	 	les	 caractér 	 istique 	 s 	 	.
+il	élabore	la	carte	.
+il	 calcul 	 e 	 	où	il	 s 	 e 	 	 trouv 	 e 	 	en	fonction	des	 caractér 	 istique 	 s 	 	 e 	 t 	 	estime	alors	 s 	 a 	 	position	100	fois	par	seconde	nous	 per 	 mettant 	 	 d' 	 utiliser 	 	les	 algorithme 	 s 	 	de	 contrô 	 le 	 	que	je	vous	ai	 dé 	 crit 	 s 	 	plus	tôt	.
+donc	,	ce	robot	est	en	fait	commandé	à	 distanc 	 e 	 	par	frank	.
+ mai 	 s 	 	le	robot	peut	aussi	 calcul 	 er 	 	où	aller	tout	seul	.
+ sup 	 posons 	 	donc	que	je	doive	 l' 	 envoyer 	 	dans	un	 bâti 	 ment 	 	 e 	 t 	 	je	 n'ai 	 e 	 	 aucun 	 e 	 	idée	de	ce	à	quoi	ce	 bâti 	 ment 	 	ressemble	,	je	peux	 demande 	 r 	 	à	ce	robot	 d' 	 entrer 	 	,	 d' 	 élabore 	 r 	 	une	carte	 e 	 t 	 	puis	de	 re 	 venir 	 	 e 	 t 	 	de	me	dire	à	quoi	le	 bâti 	 ment 	 	ressemble	.
+ici	,	le	robot	 ré 	 s 	 out 	 	non	 seul 	 ement 	 	le	problème	,	comment	aller	du	point	a	,	au	point	b	sur	 ce 	 tte 	 	carte	 mai 	 s 	 	il	 calcul 	 e 	 	quel	est	le	meilleur	point	b	à	 cha 	 que 	 	fois	.
+donc	,	 essentiel 	 lement 	 	,	il	 s 	 ait 	 	où	aller	pour	trouver	les	 endroit 	 s 	 	qui	ont	le	moins	 d'in 	 formation 	 s 	 	.
+ e 	 t 	 	c'est	comme	ça	qu'il	 rempli 	 t 	 	 ce 	 tte 	 	carte	.
+je	vais	 fini 	 r 	 	avec	une	 der 	 nière 	 	application	.
+ e 	 t 	 	il	y	a	de	 nombre 	 uses 	 	 application 	 s 	 	de	 ce 	 tte 	 	technologie	.
+je	suis	professeur	,	 e 	 t 	 	nous	 somme 	 s 	 	 passion 	 nés 	 	par	 l' 	 éducation 	 	.
+des	 robot 	 s 	 	comme	celui	-	là	peuvent	 vrai 	 ment 	 	 change 	 r 	 	la	façon	 do 	 nt 	 	nous	 prati 	 quons 	 	 l' 	 éducation 	 	 second 	 aire 	 	.
+ mai 	 s 	 	nous	 somme 	 s 	 	en	californie	du	sud	,	près	de	los	angeles	,	je	dois	donc	 conclu 	 re 	 	avec	quelque	chose	_UNK_	sur	le	 divertis 	 s 	 ement 	 	.
+je	 voudrai 	 s 	 	 conclu 	 re 	 	avec	un	clip	musical	.
+je	 t 	 iens 	 	à	 présent 	 er 	 	les	 cré 	 ateurs 	 	,	alex	 e 	 t 	 	daniel	,	qui	ont	conçu	 ce 	 tte 	 	vidéo	.
+avant	de	 joue 	 r 	 	 ce 	 tte 	 	vidéo	,	je	 t 	 iens 	 	à	vous	dire	 qu'il 	 s 	 	 l' 	 ont 	 	 créé 	 e 	 	au	cours	des	trois	 dernier 	 s 	 	 jour 	 s 	 	après	avoir	reçu	un	appel	de	chris	.
+ e 	 t 	 	les	 robot 	 s 	 	qui	 joue 	 nt 	 	la	vidéo	 s 	 ont 	 	 complète 	 ment 	 	 autonome 	 s 	 	.
+vous	 ver 	 rez 	 	neuf	 robot 	 s 	 	qui	 joue 	 nt 	 	six	 instrument 	 s 	 	 différent 	 s 	 	.
+ e 	 t 	 	bien	sûr	,	le	clip	est	une	 exclus 	 ivité 	 	pour	ted	2012	.
+ regard 	 ons 	 	.
+

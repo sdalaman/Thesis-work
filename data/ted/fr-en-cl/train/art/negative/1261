@@ -1,0 +1,248 @@
+je suis un neuroscientifique .
+et en neurosciences , nous devons répondre à nombre de questions difficiles à propos du cerveau .
+mais je veux commencer avec la question la plus facile et la question que vous auriez vraiment dû tous vous être posés à un moment de votre vie , parce que c'est une question fondamentale si nous voulons comprendre la fonction du cerveau .
+et il s'agit de pourquoi nous , et d'autres animaux , avons des cerveaux ?
+toutes les espèces sur la planète n'ont pas un cerveau , donc si nous voulons savoir à quoi sert le cerveau , réfléchissons à pourquoi nous avons évolué pour en avoir un .
+vous pouvez raisonner que nous en avons un pour percevoir le monde ou pour penser , et ceci est totalement faux .
+si vous pensez à cette question pendant un certain temps , ça saute aux yeux pourquoi nous avons un cerveau .
+nous avons un cerveau pour une raison et une seule , et c'est dans le but de produire des mouvements adaptables et complexes .
+il n'y a pas d'autre raison pour avoir un cerveau .
+pensez - y.
+le mouvement est la seule façon que nous avons d'avoir un effet sur le monde qui nous entoure .
+maintenant , ce n'est pas tout à fait exact . il y a un autre moyen , et c'est par la sueur .
+mais à part ceci , tout le reste passe par la contraction de muscles .
+pensez à la communication , le discours , les gestes , écrire , le langage des signes , ils sont tous faits par l'intermédiaire de contractions musculaires .
+donc il est vraiment important de se rappeler que les processus sensoriels , _UNK_ et cognitifs sont tous importants , mais ils sont importants seulement pour soit provoquer , soit supprimer de futurs mouvements .
+il ne peut pas y avoir d'avantage évolutionnaire à abandonner des souvenirs d'enfance ou à percevoir la couleur d'une rose si cela n'affecte pas la façon dont nous allons nous mouvoir plus tard dans la vie .
+maintenant pour ceux qui ne croient pas en cette position , sur notre planète nous avons les arbres et l'herbe qui n'ont pas de cerveau , mais la preuve décisive est cet animal ici , l'humble _UNK_ .
+un animal rudimentaire , il a un système nerveux , nage dans l'océan dans sa jeunesse .
+et à un moment de sa vie , il _UNK_ sur un rocher .
+et la première chose qu'il fait en _UNK_ sur ce rocher , qu'il ne quitte jamais , est de digérer son propre cerveau et système nerveux pour nourriture .
+donc une fois que vous n'avez plus besoin de bouger , vous n'avez pas besoin du luxe qu'est ce cerveau .
+et cet animal est souvent pris comme analogie de ce qui se passe dans les universités quand les professeurs sont titularisés , mais c'est un autre sujet .
+donc je suis un patriote du mouvement .
+je crois que le mouvement est la fonction la plus importante du cerveau ; ne laissez personne vous dire que cela n'est pas vrai .
+maintenant si le mouvement est si important , comment nous en sortons - nous à comprendre comment le cerveau contrôle le mouvement ?
+et la réponse est très très mal ; c'est un problème très difficile .
+mais nous pouvons déterminer comment nous nous en sortons en pensant à notre aptitude à construire des machines qui peuvent faire ce que les humains font .
+pensez au jeu des échecs .
+comment parvenons - nous à déterminer quelle pièce bouger et où ?
+si vous opposez gary _UNK_ ici , quand il n'est pas en prison , à la machine deep blue d'ibm , eh bien , la réponse est que deep blue gagnera à l'occasion .
+et je pense que si deep blue jouait contre n'importe qui dans cette pièce , il gagnerait à tous les coups .
+ce problème est résolu .
+qu'en est - il du problème d'attraper une pièce d'échecs , de la manipuler avec dextérité et de la reposer sur le plateau ?
+si vous opposez la dextérité d'un enfant de 5 ans contre les meilleurs robots actuels , la réponse est simple : l'enfant gagne facilement .
+il n'y a pas du tout de compétition .
+maintenant pourquoi ce problème en haut est si facile et le problème en bas si difficile ?
+une raison est qu'un très intelligent enfant de 5 ans pourrait vous dire l'algorithme pour ce problème en haut : regarder tous les mouvements possibles jusqu'à la fin du jeu et choisir celui qui permet de gagner .
+donc c'est un algorithme très simple .
+bien sûr il y a d'autres mouvements , mais avec de puissants ordinateurs nous _UNK_ et sommes proches de la solution optimale .
+quand on en vient à être adroit , ce n'est même pas clair quel algorithme vous devez résoudre pour être adroit .
+et nous allons voir que vous devez à la fois percevoir et agir sur le monde , ce qui pose un tas de problèmes .
+mais laissez - moi vous montrer de la robotique de pointe .
+une grande part de la robotique est très impressionnante , mais la manipulation d'objet en est vraiment juste au moyen - âge .
+c'est le produit d'un projet de thèse d'un des meilleurs instituts de robotique .
+et l'étudiant a entraîné son robot à verser de l'eau dans un verre .
+c'est un problème difficile parce que l'eau se répand autour , mais il peut le faire .
+mais il ne fait aucunement avec l'agilité d'un humain .
+maintenant si vous voulez que ce robot fasse une autre tâche , c'est une autre de thèse de trois ans .
+il n'y a pas du tout de généralisation d'une tâche à l'autre en robotique .
+maintenant on peut comparer cela à la performance humaine de pointe .
+ce que je vais vous montrer est emily fox battant le record du monde _UNK_ de tasses .
+les américains dans le public sauront ce qu'est _UNK_ de tasses .
+c'est un sport de lycée où vous avez 12 tasses à empiler et dés - empiler dans un certain ordre et contre la montre .
+et ici c'est elle remportant son record mondial , en temps réel .
+et elle est plutôt contente .
+nous n'avons aucune idée de ce qui se passe dans son cerveau quand elle fait ça , et c'est ce que nous aimerions savoir .
+donc dans mon groupe , ce que nous essayons de faire est de recréer à l'envers comment les humains contrôlent leurs mouvements .
+et cela semble un problème aisé .
+vous envoyez une commande vers le bas , cela _UNK_ les muscles à se contracter .
+votre bras ou votre corps bouge , et vous recevez un feedback sensoriel par la vision , la peau , les muscles , etc.
+le problème est que ces signaux ne sont pas les beaux signaux que vous voudriez qu'ils soient .
+donc une chose qui rend le contrôle des mouvements difficiles est par exemple que le feedback sensoriel est extrêmement bruyant .
+par bruit , je n'entends pas son .
+nous l'utilisons dans son acception en ingénierie et neurosciences , au sens d'un son aléatoire qui corrompt un signal .
+dans le temps avant la radio digitale , quand vous allumiez votre radio et entendiez " _UNK_ " au lieu de la station que vous vouliez écouter , c'était le bruit .
+mais plus généralement , le bruit est quelque chose qui corrompt le signal .
+donc par exemple , si vous mettez votre main sous la table et essayez le la localiser avec votre autre main , vous pouvez vous tromper de plusieurs centimètres à cause du bruit dans le feedback sensoriel .
+de même , quand vous superposez un résultat moteur et un résultat de mouvement , c'est extrêmement bruyant .
+oubliez d'essayer d'atteindre le cœur de la cible aux fléchettes , visez juste le même endroit encore et encore .
+vous avez une énorme écart à cause de la variabilité du mouvement .
+et plus encore , le monde extérieur , ou la tâche , sont tous deux ambigus et variables .
+la théière pourrait être pleine , elle pourrait être vide .
+cela change avec le temps .
+donc nous travaillons dans une tâche _UNK_ qui est une pleine soupe de bruit .
+maintenant le bruit est si grand que la société place une énorme importance sur ceux d'entre nous qui peuvent réduire les conséquences du bruit .
+donc si vous êtes assez chanceux pour pouvoir envoyer une petite balle blanche à plusieurs centaines de mètres , avec un long bâton en métal , notre société sera prête à vous récompenser avec des millions de dollars .
+maintenant ce dont je veux vous convaincre est que le cerveau fait aussi beaucoup d'efforts pour réduire les conséquences négatives de ce type de bruit et de variabilité .
+et pour faire cela , je vais vous parler d'un cadre théorique très populaire en statistiques et en apprentissage automatique depuis 50 ans , qu'on appelle la théorie bayésienne de la décision .
+récemment c'est devenu un moyen _UNK_ de penser à la façon dont le cerveau gère l'incertitude .
+et l'idée fondamentale est que vous voulez faire des inférences et agir .
+donc pensons aux inférences .
+vous voulez générer des croyances sur le monde .
+que sont les croyances ?
+les croyances pourraient concerner la place de mes bras dans l'espace .
+si je regarde un chat ou un renard .
+mais nous allons représenter les croyances par des probabilités .
+donc on va représenter une croyance avec un nombre compris entre 0 et 1 -- 0 signifiant que je ne crois pas du tout , 1 signifiant que je suis absolument certain .
+et les nombres entre deux vous donnent les niveaux gris d'incertitude .
+et l'idée - clé de _UNK_ bayésienne est que vous avez deux sources d'information à partir de laquelle faire votre inférence .
+vous avez les données , et en neuroscience les données sont les informations sensorielles .
+donc vous avez les informations sensorielles , que je peux intégrer pour élaborer des croyances .
+mais il y a une autre source d'information , et il s'agit en réalité du savoir préalable .
+vous amassez du savoir au cours de votre existence , sous forme de souvenirs .
+et le concept de la théorie bayésienne de la décision est qu'elle vous fournit les mathématiques supportant le moyen optimal de combiner votre savoir préalable avec vos preuves sensorielles pour générer de nouvelles croyances .
+j'ai mis la formule ici .
+je ne vais pas vous expliquer ce qu'est la formule , mais elle est très belle .
+elle a une réelle beauté et un réel pouvoir d'explication .
+et ce qu'elle dit vraiment , ce que vous voulez estimer , c'est la probabilité des différentes croyances étant donné les informations sensorielles que vous avez .
+laissez - moi vous donner un exemple intuitif .
+imaginez que vous jouez au tennis et vous voulez décider où la balle va rebondir alors qu'elle passe le filet dans votre direction .
+il y a deux sources d'information d'après la loi de bayes .
+il y a les preuves sensorielles : vous pouvez utiliser les informations visuelles et auditives , et elles pourraient vous indiquer qu'elle va _UNK_ sur ce point rouge .
+mais vous savez que vos sens ne sont pas parfaits , et qu'en conséquence là où la balle va atterrir est variable , comme indiqué par ce nuage de rouge , qui représente les nombres entre 0.5 et peut - être 1 .
+cette information est fournie par le coup actuel , mais il y a une autre source d'information qui n'est pas fournie par le coup actuel , mais seulement par une expérience répétée du jeu de tennis , et c'est que durant le match la balle ne rebondit pas avec la même probabilité à travers le court .
+si vous jouez contre de très bons adversaires , il se peut qu'ils envoient dans cette zone verte , qui est la distribution préalable , rendant difficile pour vous de renvoyer .
+maintenant ces deux sources d'information fournissent d'importantes données .
+et ce que la loi de bayes dit est que je devrais multiplier les nombres de la zone rouge par les nombres de la zone verte pour obtenir les nombres de la zone jaune , qui a les ellipses , et qui représentent ma croyance .
+donc c'est le moyen optimal de combiner les informations .
+maintenant je ne vous dirais pas tout ça si ce n'était qu'il y a quelques années , nous avons montré que c'est exactement ce que les gens font quand ils acquièrent de nouvelles _UNK_ motrices .
+et ce que cela signifie est que nous sommes réellement des machines à inférences _UNK_ .
+en circulant , nous apprenons à propos des statistiques du monde et en retenons les règles , mais nous apprenons aussi à quel point notre propre système sensoriel est bruyant , et combinons alors les deux dans un mode réellement bayésien .
+maintenant une partie - clé du concept bayésien est cette partie de la formule .
+ce que cette partie dit vraiment est que je dois prédire la probabilité de différents feedbacks sensoriels étant donné mes croyances .
+donc cela signifie vraiment que je dois faire des prédictions à propos du futur .
+e je veux vous convaincre que le cerveau fait ces prédictions à propos du feedback sensoriel qu'il va recevoir .
+de plus , il change profondément vos perceptions par ce que vous faites .
+et pour faire cela , je vais vous dire comment le cerveau gère l'information sensorielle .
+donc vous envoyez une commande , vous recevez du feedback en retour , et cette transformation est gouvernée par la physique de votre corps et votre système sensoriel .
+mais vous pouvez imaginer regarder à l'intérieur du cerveau .
+voici l'intérieur du cerveau .
+vous pourriez avoir un petit _UNK_ , un simulateur neuronal , de la physique de votre corps et de vos sens .
+donc en envoyant une commande de mouvement vers le bas , vous en tapez une copie et la rentrez dans votre simulateur neuronal pour anticiper les conséquences sensorielles de vos actions .
+donc alors que je secoue cette bouteille de ketchup , je reçois de réels feedbacks sensoriels en fonction du temps dans la ligne du bas .
+et si j'ai un bon simulateur , il prédit la même chose .
+bien , pourquoi je _UNK_ à faire ça ?
+je vais recevoir le même feedback de toutes les façons .
+eh bien , il y a de bonnes raisons .
+imaginez , alors que je secoue la bouteille de ketchup , quelqu'un vient très gentiment à moi et tape le dessous de la bouteille pour moi .
+maintenant j'ai une source supplémentaire d'information à cause de cette action externe ; donc j'ai deux sources .
+j'ai vous , qui tapez la bouteille , et moi , qui la secoue , mais du point de vue de mes sens , c'est combiné en une seule source d'information .
+maintenant il y a de bonnes raisons de croire que vous voudriez pouvoir distinguer les évènements externes des évènements internes .
+parce que les évènements externes sont en réalité bien plus pertinents du point de vue comportemental que de sentir tout ce qui se passe à l'extérieur de mon corps .
+donc une façon de reconstruire cela est de comparer la prédiction -- seulement basée sur les commandes motrices -- avec la réalité .
+toute divergence devrait être externe , espérons .
+donc alors que je circule dans le monde , je fais des prédictions de ce que devrais obtenir , et je les _UNK_ .
+tout ce qui reste est externe pour moi .
+quelle preuve j'ai de ça ?
+eh bien , il y a un exemple très clair où une sensation générée par moi - même semble très différente d'une générée par une autre personne .
+donc nous avons décidé que le plus évident point de départ était le chatouillement .
+il est connu depuis longtemps que vous ne pouvez pas vous chatouiller aussi bien que les autres le peuvent .
+mais ça n'a pas vraiment été montré , c'est parce que vous avez un simulateur neuronal qui simule votre propre corps et soustrait cette sensation .
+donc nous pouvons apporter les expériences du 21ème siècle en appliquant la technologie robotique à ce problème .
+et en effet , nous avons une sorte de bâton dans une main attachée à un robot , et ils vont bouger ça d'avant en arrière .
+ensuite nous allons relever cela avec un ordinateur et l'utiliser pour contrôler un autre robot , qui va chatouiller leur paume avec un autre bâton .
+ensuite on va leur demander d'évaluer un tas de chose , inclus le chatouillement .
+je vais vous montrer juste une partie de notre étude .
+ici j'ai enlevé les robots , mais en gros les gens bougent leur bras droit dans un mouvement sinusoïdal d'avant en arrière .
+nous refaisons ça sur l'autre main avec un délai temporel .
+soit pas de délai , auquel cas la lumière _UNK_ votre paume , soit avec un délai de deux ou trois dixièmes de seconde .
+ce qui est important ici est que la main droite fait toujours la même chose , un mouvement sinusoïdal .
+la main gauche fait toujours pareille et donne des _UNK_ _UNK_ .
+la seule chose que nous manipulons est la causalité rythmique .
+et en passant de 0 à 0.1 seconde , ça chatouille plus .
+en passant de 0.1 à 0.2 secondes , ça chatouille plus à la fin .
+et une fois à 0.2 seconde , ça chatouille autant le robot qui vient de vous chatouiller , sans que vous n'ayez rien fait .
+donc quoi que ce soit responsable de cette annulation est extrêmement lié à la causalité rythmique .
+et à partir de cette illustration , nous nous sommes réellement convaincus dans le champ que le cerveau fait des prédictions précises et les soustrait des sensations .
+maintenant je dois admettre , ce sont les pires études que mon laboratoire n'ait jamais faites .
+parce que la sensation de chatouillement dur la paume vient et repart , vous avez besoin d'un grand nombre de sujets avec ces étoiles qui les indiquent comme significatifs .
+donc on cherchait un moyen bien plus objectif d'évaluer ce phénomène .
+et pendant ces années - là , j'ai eu deux filles .
+et pendant de longs voyages , vous observez que les enfants dans les sièges - auto se battent ; ça commence avec l'un d'eux qui fait quelque chose à l'autre , et l'autre se _UNK_ .
+ça escalade rapidement .
+et les enfants tendent à commencer des batailles qui montent en termes de force .
+quand je criais à mes enfants d'arrêter , parfois toutes deux me disaient que l'autre les avait frappées plus fort .
+il s'avère que je sais que mes enfants ne mentent pas , donc j'ai pensé , comme neuroscientifique , qu'il était important de pouvoir expliquer comment elles pouvaient dire des vérités _UNK_ .
+nous avons suggéré , en nous basant sur l'étude du chatouillement , que quand un enfant en frappe un autre , ils génèrent une commande de mouvement .
+ils prédisent les conséquences sensorielles et les _UNK_ .
+donc ils pensent qu'ils ont en fait frappé l'autre moins fort qu'en réalité , assez similaire au cas du chatouillement .
+alors que le récipient passif , ne faisant pas de prédiction , ressent la pleine force .
+donc s'ils répondent avec la même force , le première personne pensera qu'ils ont escaladé .
+nous avons donc décidé de tester ça en laboratoire .
+maintenant on ne travaille pas les enfants , on ne travaille pas avec les coups , mais le concept est identique .
+on fait venir deux adultes . on leur dit qu'ils vont jouer à un jeu .
+donc voici le joueur 1 et le joueur 2 assis l'une en face de l'autre .
+le jeu est très simple .
+on a commencé avec un moteur avec un petit levier , un petit diffuseur de force .
+et on utilise le moteur pour appliquer la force sur le doigt du joueur 1 pendant 3 secondes , avant d'arrêter .
+et on dit au joueur de se rappeler de l'expérience de cette force et d'utiliser son autre doigt pour appliquer la même force sur le doigt de l'autre joueur , avec un diffuseur de force -- et ils le font .
+et on dit au joueur 2 de se rappeler l'expérience de cette force , et d'utiliser son autre main pour appliquer cette force .
+donc ils prennent des tours pour appliquer la force qu'ils viennent d'expérimenter .
+mais de façon importante , on leur explique les règles du jeu dans des pièces séparées .
+donc ils ne savent pas quelles sont les règles que l'autre joueur applique .
+ce que nous avons mesuré est la force comme une fonction de termes .
+si on regarde ce avec quoi nous commençons -- un quart de newton ici , un nombre de tours -- cette ligne rouge serait parfaite .
+mais ce qu'on observe dans toutes les paires de sujets est ceci : une escalade de la force de 70 % à chaque tour .
+cela suggère vraiment , quand vous faites cela -- basé sur cette étude et d'autres que nous avons faites -- que le cerveau annule les conséquences sensorielles et sous - estime la force qu'il produit .
+donc ça montre encore que le cerveau fait des prédictions et change fondamentalement les préceptes .
+donc nous avons fait des inférences , nous avons fait des prédictions , maintenant nous devons générer des actions .
+et la loi de bayes dit que , en fonction de mes croyances , l'action devrait dans un sens être optimale .
+mais nous avons un problème .
+les tâches sont symboliques -- je veux boire , je veux danser -- mais le système moteur doit contracter 600 muscles dans une séquence particulière .
+et il y a un grand écart entre la tâche et le système moteur .
+donc il pourrait être comblé de façons infiniment différentes .
+pensez juste à un mouvement d'un point à un autre .
+je pourrais choisir ces deux chemins parmi une quantité infinie de chemins .
+après avoir choisi un chemin particulier , je peux tenir ma main sur ce chemin dans une infinité de configurations _UNK_ .
+et je peux tenir mon bras dans un configuration articulaire spécifique , soit très raide , soit très détendu .
+donc j'ai une énorme quantité de choix à faire .
+maintenant il s'avère que nous sommes très stéréotypiques .
+nous bougeons tous pour ainsi dire de la même façon .
+et il s'avère que nous sommes si stéréotypiques que nos cerveaux ont un circuit neuronal dédié au _UNK_ de ces stéréotypes .
+donc si je prends des points et je les fais bouger avec un mouvement biologique , votre circuit cérébral comprendra immédiatement ce qui se passe .
+voici un tas de points qui bougent .
+vous saurez ce que cette personne fait , si elle est heureuse , triste , vieille , jeune -- une énorme quantité d'information .
+si ces points étaient des voitures sur un circuit automobile , vous n'auriez absolument aucune idée de ce qui se passe .
+donc pourquoi est - ce que nous bougeons de la façon particulière qu'est la nôtre ?
+eh bien , pensons à ce qui se passe vraiment .
+peut - être que nous ne bougeons pas vraiment tous de la même façon .
+peut - être qu'il y a de la variation dans la population .
+et peut - être que ceux qui bougent mieux que les autres ont plus de chances d'amener leurs enfants jusqu'à la prochaine génération .
+donc à l'échelle de l'évolution , les mouvements s'améliorent .
+et peut - être que dans la vie , les mouvements s'améliorent par l'apprentissage .
+donc qu'est - ce qui fait qu'un mouvement est bon ou mauvais ?
+imaginez que je veux intercepter cette balle .
+voici deux chemins possibles pour cette balle .
+si je choisis le chemin de gauche , je peux calculer les forces requises dans un de mes muscles en fonction du temps .
+mais il y a le bruit ajouté à cela .
+donc ce que j'ai vraiment , basé sur cette adorable , douce force voulue , est une version très bruyante .
+donc si je choisis la même commande de nombreuses fois , j'obtiendrai une version bruyante différente à chaque fois , parce que le bruit change à chaque fois .
+ce que je peux vous montrer ici est comment la variabilité du mouvement évolue si je choisis ce chemin .
+si je choisis une façon différente de bouger , sur la droite par exemple , alors j'aurai une commande différente , un bruit différent , jouant via un système bruyant , très compliqué .
+tout ce dont nous pouvons être sûrs est que la variabilité sera différente .
+si je bouge de cette façon particulière , je finis avec une variabilité réduite à travers de nombreux mouvements .
+donc si je dois choisir entre les deux , je prendrais celui de droite parce qu'il est moins variable .
+l'idée fondamentale est que vous voulez planifier vos mouvements pour minimiser les conséquences négatives du bruit .
+et une intuition à avoir est qu'en réalité la quantité de bruit ou de variabilité que je montre ici devient plus grande quand la force devient plus grande .
+donc vous voulez éviter les grandes forces en tant que principe .
+nous avons donc montré qu'en utilisant cela , on peut expliquer une énorme quantité de données , que les gens vivent exactement leurs vies en planifiant des mouvements pour minimiser les conséquences négatives du bruit .
+j'espère que je vous ai convaincus que le cerveau est là et a évolué pour contrôler le mouvement .
+c'est un défi intellectuel de comprendre comment nous faisons cela .
+mais c'est également pertinent pour les maladies et la rééducation .
+il y a de nombreuses maladies qui touchent le mouvement .
+et j'espère que si nous comprenons comment nous contrôlons le mouvement , nous pourrons appliquer cela à la technologie robotique .
+finalement , je voulais vous rappeler que quand vous voyez des animaux faire ce qui semble de très simples tâches , la complexité réelle de ce qui se passe dans leurs cerveaux est en fait assez spectaculaire .
+merci beaucoup .
+chris anderson : " rapide question pour vous , dan .
+donc vous êtes un " - dw : " patriote " - patriote du mouvement .
+cela veut - il dire que vous pensez que les autres choses que nous pensons être des fonctions de nos cerveaux , rêver , les aspirations , tomber amoureux et toutes ces choses , sont une sorte de spectacle annexe , un accident ? "
+dw : " non , non , en fait je pense qu'elles sont toutes très importantes pour orienter le bon comportement moteur pour se reproduire au final .
+donc je pense que les gens étudient les sensations ou la mémoire sans réaliser pourquoi nous abandonnons des souvenirs d'enfance .
+le fait que nous oublions la plupart de notre enfance , par exemple , n'est probablement pas un problème , parce que cela n'affecte pas nos mouvements plus tard dans la vie .
+vous avez seulement besoin de stocker des choses qui vont vraiment affecter le mouvement . "
+ca : " donc vous pensez que les gens qui réfléchissent au cerveau , et à la conscience en général , pourrait bénéficier d'un réel apport en se demandant ce que le mouvement a à voir dans ce jeu ? "
+dw : " on a découvert par exemple qu'étudier la vision sans réaliser pourquoi nous avons la vision est une erreur .
+nous devons étudier la vision en considérant comment le système moteur va utiliser la vision .
+et il l'utilise très différemment une fois que vous y pensez comme cela . "
+ca : " c'était vraiment fascinant . merci beaucoup en effet . "

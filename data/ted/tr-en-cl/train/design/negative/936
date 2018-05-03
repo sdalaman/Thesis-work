@@ -1,0 +1,153 @@
+adım seth priebatsch . _UNK_ baş _UNK_ .
+princeton'dan atılmaktan gurur duyuyorum .
+ayrıca boston'a yeniden yerleşmekten de gurur duyuyorum aslında büyüdüğüm yere .
+evet , boston .
+kolay kazanımlar . sadece gidip buralardaki eyaletleri _UNK_ .
+aynı zamanda dünya üzerinde bir oyun katmanı kurmaya oldukça _UNK_ .
+bu bir çeşit yeni konsept ve çok önemli .
+çünkü geçtiğimiz son 10 yıl sosyalleşme dönemiydi ve frameworklerin bulunduğu dönemdi diğer insanlarla oluşturdukları ile bağlantı kurduğumuz dönemdi , _UNK_ 10 yıllık dönem ise oyun _UNK_ oluşturulduğu dürtülerimizin gerçekten davranışları etkilediği bir dönem olacak ve oluşturulan bu framework için kararlar verildi ve bu gerçekten önemli .
+yani ben diyorum ki dünya üzerinde bir oyun katmanı oluşturmak istiyorum , ama bu tam olarak doğru değil çünkü bu zaten yapım aşamasında ; şu anda gerçekleşiyor .
+ve şimdi bu şekilde görünüyor .
+1997'deki internet gibi görünüyor değil mi ?
+pek iyi değil . darmadağın bir durumda .
+bir çok farklı şeyle dolu ve kısaca eğlenceli değil .
+kredi kartı şemaları ve havayolu mil programları var ve kuponlar ve bütün bu bağlantılı şemalar aslında oyun dinamiklerini kullanıyorlar ve oyun katmanını oluşturuyorlar , onlar berbatlar .
+pek iyi _UNK_ değil mi ?
+bu da talihsizlik .
+ama şanslıyız ki , favori aksiyon kahramanım olarak usta bob diyor ki ; " daha iyisini yapabiliriz . daha iyi inşa edebiliriz . "
+ve oyun oluşturmak için kullandığımız araçların , kaynakların kendileri birer oyun dinamiği .
+bu sunumun püf noktası gerçekten önemli 4 oyun dinamiğine dikkat çekmek , gerçekten ilginç olanlara öyle ki eğer bilinçli bir şekilde kullanırsanız davranışları etkileyebilirsiniz hem iyi hem kötü olarak , ya da ikisinin arasında
+i̇yi olmasını umuyorum .
+ama bu frameworkün oluşturulacağı önemli bir safha , ve şimdi hepimiz bunun hakkında bilinçli olarak düşünmek istiyoruz .
+buna geçmeden önce bir sorum olacak : bu neden önemli ?
+bununla dünya üzerinde bir oyun katmanı olduğunu iddaa ediyorum , ve bunu düzenli bir şekilde oluşturmamız çok önemli .
+bunun bu kadar önemli olmasının sebebi son dönemde sosyal katmanın oluşturulduğunu görmemiz bağlantılar için _UNK_ , ve bu katmandaki yapım bitti , katman bitti .
+hala araştırılması gereken çok şey var .
+hali hazırda sosyal katmanı çözmeye çalışan bir çok insan var ve bunu nasıl _UNK_ ve nasıl kullandığımızı çözmeye çalışan , ama frameworkün kendisi tamamlandı , ve adı da facebook .
+bu tamamdır değil mi ? bir çok insan facebook ile çok mutlu .
+ben de çok seviyorum .
+open graph olarak adlandırdıkları bu şeyi yarattılar ve bütün _UNK_ sahipler .
+yarım milyar insana sahipler .
+yani sosyal katman üzerinde birşey oluşturmak istediğinizde , kullanacağınız framework _UNK_ ; open graph api .
+bununla _UNK_ harika .
+mutlu değilseniz çok kötü . yapabileceğiniz hiçbir şey yok .
+ama bu önümüzdeki dönem -- ve bu gerçek .
+demek istediğim , bunu kabul edilebilir kılan _UNK_ oluşturmak istiyoruz ve bunu , bilirsiniz yol boyunca üretken kılmak istiyoruz .
+yani sosyal katman bütün bu bağlantılarla ilgili .
+oyun katmanı ise etki yaratmakla ilgili .
+i̇nternete sosyal bir yapı _UNK_ ve sizin diğer insanlarla olduğunuz ve gittiğiniz heryerde iletişim _UNK_ ilgili değil .
+aslında nerede olduğunuz , orda ne yaptığınız ve nasıl yaptığınızda davranışınızı etkilemek içim dinamikleri ve gücü kullanmakla ilgili .
+bu gerçekten çok güçlü ve sosyal katmandan daha önemli olacak .
+hayatımızı daha derinden etkileyecek ve belki de daha görünür bir şekilde .
+ve bu aşama inanılmaz derecede kritik henüz _UNK_ facebook , open graph gibi frameworklerin oyun katmanı için _UNK_ _UNK_ , bunun hakkında bilinçli şekilde düşündüğümüzde ve bunu herkese açık bir yolla yaptığımızda buna ulaşılabilir ve iyi amaçlar için kullanılabilir .
+ve bu benim oyun dinamikleri hakkında konuşmak istediğim şey çünkü yapımı yeni başladı ve bunun hakkında daha bilinçli _UNK_ istediğimiz herhangi bir şey için daha iyi kullanabilir olacağız .
+yani dediğim gibi , _UNK_ ve oyun katmanını _UNK_ bu yol camla , _UNK_ ve _UNK_ kaplı değil .
+ve kullanacağımız kaynaklar sahip olduğumuz 2 - boyutlu bir alan değil .
+kaynaklarımız bilgimizin paylaşımı ve araçlar , _UNK_ bu oyun dinamikleri .
+yani bununla , bildiğiniz gibi , hakkında konuşduğumuz bir kaç oyun _UNK_ .
+dört . _UNK_ yedi oyun dinamiği ile herhangi birine istediğinizi _UNK_ ilgili şakalaşmayı severiz .
+ve bugün , bunların dördünü size göstereceğim , çünkü hala bunun sonunda rekabetçi bir avantajım olmasını umuyorum .
+birincisi , çok basit bir oyun dinamiği .
+görev dinamiği .
+ve bu dinamikte başarmak için oyuncular daha önceden belirlenmiş zamanda bir şey yapmalılar genellikle önceden belirlenmiş bir konumda .
+ve bu dinamikler bazen biraz ürkütücü çünkü diğer insanların etkileşim şeklinizi _UNK_ , nerde ve ne zaman yaptığınızı manipüle edebileceğini biliyorsunuz , düşünüyorsunuz .
+oyunlarda bulunan özgür _UNK_ bu şekilde kaybı korkutucu olabiliyor , bundan ötürü her dinamikte ü ç örnek vereceğim -- gerçek dünyada nasıl kullanıldığını gösterecek bir tane , böylece biraz olsun _UNK_ , geleneksel oyunda nasıl işleyeceğini düşündüğümüzü gösteren bir tane -- bence herşey bir çeşit oyundur bir masada ya da bilgisayar ekranında oynandığını _UNK_ fazlası ve bunun nasıl iyi yönde kullanılabileceği , böylece bu etkenlerin gerçekten çok güçlü olabileceğini _UNK_ .
+birincisi -- dünyadaki en ünlü görev dinamiği -- mutlu saat .
+ben daha yeni princeton'dan atıldım ve aslında ilk sefer bir barda son buldu , ve mekanda her yerde bu mutlu saat şeylerini gördüm .
+bu basit bir görev dinamiği .
+belirli zamanda gel ve _UNK_ yarı fiyatına al .
+kazanmak için tüm yapman gereken doğru zamanda doğru yerde bulunmak .
+bu oyun dinamiği öylesine güçlü ki sadece davranışlarımızı değil bütün kültürümüzü etkiliyor .
+bir oyun dinamiğinin olayları bu kadar güçlü _UNK_ korkutucu bir düşünce .
+ayrıca daha geleneksel oyunlarda da mevcut .
+eminim şimdiye kadar _UNK_ duymuşsunuzdur .
+eğer duymadıysanız _UNK_ tavsiye ederim .
+günün geri kalanında hiç birşey yapmayacaksınız .
+farmville , twitter'dan daha fazla aktif üyeye sahip .
+i̇nanılmaz derecede güçlü ve ürünlerinizi , sahte ürünlerinizi , _UNK_ için belirli zamanda dönmeniz gereken oyun dinamiğine sahip , aksi takdirde _UNK_ soluyor .
+ve bu öylesine güçlü ki , istatistiklerine baktıklarında ürünlerin 8 saat sonra _UNK_ gördüklerinde ya da 6 saat sonra ya da 24 saat , bu bazı 70 milyon insanın gün içindeki hayat döngüsünü değiştiriyor .
+farklı zamanlarda saat gibi geri dönecekler .
+yani eğer dünyayı sonlandırmak isteseler , üretkenliği durdurmak isteseler , bunu 30 dakikalık _UNK_ yapabilirlerdi ve hiçkimse başka birşey _UNK_ .
+bu biraz ürkütücü .
+ama bu iyi amaçlar için de kullanılabilirdi .
+bu yerel bir şirket olan _UNK_ ve insanların ilaçlarını zamanında almalarına yardım etmek için bir ürün üretiyorlar .
+bu bir görev .
+bu insanların pek iyi yapmadıkları birşey .
+ve bu _UNK_ size ilacınızı almanız gerektiğini hatırlatmak için parıldıyor , email atıyor ve bütün havalı şeyleri yapıyor .
+bu henüz bir oyun değil ama gerçekten olmalı .
+bunu zamanında yaptığınızda puan _UNK_ .
+zamanında _UNK_ puan _UNK_ .
+bir görev dinamiği _UNK_ ve oyunu _UNK_ bilincine _UNK_ .
+ve bazı ilginç yollarla gerçekten iyi işler başarabilirsiniz .
+bir sonrakine _UNK_ belki . evet .
+etki ve statü .
+bu da en meşhur oyun _UNK_ birisi .
+her yerde kullanılıyor .
+şu anda _UNK_ içinde .
+hepimiz en soldaki kredi kartını isteriz çünkü o siyah .
+ve birisini _UNK_ görürseniz yada -- _UNK_ değil -- christian _UNK_ ya da başka birşey ve sonra ...
+bilmiyorum . siyah kartım yok , banka kartım var .
+yani onlar kartı çıkartırlar ve adamım bilirsin onlarda bu siyah _UNK_ vardır .
+onu istiyorum çünkü onların benden daha havalı olduğunu gösteriyor ve buna ihtiyacım var .
+ve bu oyunlarda da kullanılıyor .
+" modern _UNK_ " tüm zamanların en iyi satan oyunlarından birisi .
+ben sadece 4. _UNK_ ama 10. seviyede olmak için _UNK_ çünkü 10. seviyede bu kırmızı havalı nişan var ve bu benim şöyle ya da böyle herkesten daha iyi olduğumu gösterir .
+ve bu benim için çok güçlü . statü gerçekten iyi bir motivasyondur .
+daha geleneksel _UNK_ daha çok kullanılıyor ve daha da bilinçli kullanılabilir .
+okul -- unutmadan 1 yıl için _UNK_ , yani okul hakkında konuşma hakkım var diye düşünüyorum -- bir oyun sadece çok şahane düzenlenmiş değil .
+okulda seviyeler var . c , b , a.
+_UNK_ . yani bir " örnek öğrenci " statüden başka nedir ?
+örnek öğrenciye " 20. seviye beyaz _UNK_ şövalye " diyecek olsak muhtemelen insanlar daha sıkı çalışırlardı .
+yani okul bir oyun ve bunu nasıl _UNK_ yapacağımızla ilgili birçok deneyim mevcut .
+ama bunu bilinçli bir şekilde ele alalım . neden kaybedebileceğimiz oyunlar olduğu gibi ?
+neden a'dan f'ye gidelim ya da b'den c'ye ?
+bu berbat . neden seviye _UNK_ ?
+_UNK_ aslında bunu denediler ; deneyim puanı kazandığınız sınavlar var ve b'den a'ya _UNK_ .
+ve bu çok güçlü .
+i̇lgi çekici yönlerde kullanılabilir .
+çabucak bahsetmek istediğim üçüncü dinamik ise i̇lerleme dinamiği , burda ilerleme _UNK_ gerekiyor , sıralı olarak farklı adımları geçmeniz gerekiyor .
+bu her yerde kullanılıyor , _UNK_ de dahil olmak üzere , ki ben burda tam olarak yalnız değilim .
+_UNK_ sadece % 85 _UNK_ ve bu canımı sıkıyor .
+bu aklımızda o kadar yer etmiş ki bir ilerleme _UNK_ karşılaşıp bu kolay sıralı adımları deneyip tamamlamamız istendiğinde bunu yapacağız .
+bu mavi çizgiyi sağ taraftaki bitişe kadar ilerletmenin bir yolunu bulacağız .
+bu geleneksel oyunlarda da kullanılıyor .
+demek istediğim , 10. seviyedeki _UNK_ görüyorsunuz ve bu da 20. seviye _UNK_ ve eğer _UNK_ alanında _UNK_ karşı _UNK_ _UNK_ al _UNK_ karşı muhtemelen sağdaki büyük olanı istersiniz değil mi .
+ben isterdim .
+i̇nsanlar seviye atlamak için çok sıkı çalışıyorlar .
+" world of warcraft " tüm zamanların en başarılı oyunlarından biri .
+ortalama bir oyuncu günde _UNK_ saatini oyun başında geçiriyor .
+en bağımlı oyuncular için tam zamanlı bir iş gibi .
+bu delilik . seviye _UNK_ sistemleri var .
+ve bu çok güçlü birşey . i̇lerleme güçtür .
+bu iyi amaçlar için de zorlayıcı yönlerde kullanılabilir .
+_UNK_ üzerinde çalıştığımız şeylerden birisi de iş trafiğini yerel iş çevrelerine yönlendirmek için oyunları nasıl kullanabileceğimiz ki bu da ekonominin can damarlarından biridir .
+burada insanların oynadığı bir oyun var .
+bir yerlere gidiyorlar , meydan okuyorlar , puan kazanıyorlar .
+ve biz buna bir ilerleme çubuğu ekledik aynı yere tekrar ve tekrar giderek , meydan okuyarak , iş bağlantıları kurarak , yeşil çubuğu sol köşeden sağ köşeye ilerletiyorsunuz ve sonunda ödüller kazanıyorsunuz .
+ve bunun insanları bu dinamiklere çekecek kadar güçlü olduğunu görüyoruz , insanları aynı yerel iş çevresine itiyor , büyük sadakat ve bağlılık oluşturuyor , ve anlamlı bir geliri , eğlenceyi ve bağlılığı iş çevrelerine taşıyabiliyor .
+bu ilerleme dinamikleri güçlü ve gerçek dünyada kullanılabilirler .
+konuşacağımız son dinamik -- ve bitiş için iyi bir tane -- toplumsal bulgu konsepti , birşeye ulaşabilmek için herkesin birlikte çalışması gereken bir dinamik .
+ve toplumsal _UNK_ güçlü olmasının sebebi problemleri çözmek için toplum ağını kullanması .
+bu bazı web tabanlı tüketici makalelerinde kullanılıyor digg gibi , eminin ki hepiniz hakkında duymuşsunuzdur .
+digg en iyi haberleri ve en ilginç makaleleri bulmaya çalışan ve barındıran bir toplumsal dinamik .
+ve ilk olarak bunu bir oyuna çevirdiler .
+en iyi makaleleri tavsiye etmeniz durumunda puan kazandığınız bir lider listeleri var .
+ve bu insanları en iyi makaleleri bulmak için gerçekten motive ediyor .
+ama bu öylesine güçlü hale geldi ki , kendi pozisyonlarını _UNK_ emin olmak için beraber çalışan bir grup insan vardı , top 10'un ilk 7'si .
+onlar diğer insanların _UNK_ tavsiye edebilirlerdi . oyun _UNK_ daha güçlü hale geldi .
+aslında lider listesini kapatmak zorunda kaldılar çünkü liste _UNK_ öylesine güçlüydü ki insanlar yeni makaleleri aramayı bırakıp liderliklerini korumak için beraber çalışmaya başlamışlardı .
+yani bunu dikkatli kullanmamız gerekiyor .
+mcdonald _UNK_ gibi şeylerde de kullanılıyor oynadığınız oyun _UNK_ çok iskeleyi bulmaya çalıştığınız bir kulübe endüstrisi olarak şekillenmiş durumda .
+ve şimdi sadece " i̇skele " yazan küçük bir etiket arıyorlar .
+ama gerçek şeyler için de kullanılabilir .
+bu darpa'nın balon yarışı , birleşik devletlerin her tarafına balonlar sakladılar ve " ağları kullanın , balonları en hızlı şekilde bulun
+$ 40,000 ödülü alın . " dediler .
+kazanan mit'den bir grup oldu , grup bir piramit şeması , bir ağ oluşturdu balonun yerini ilk tavsiye eden $ 2.000 alıyordu ve tavsiyeyi devam ettiren , ilerleten kişi de pay alıyordu .
+ve 12 saat içinde ülkenin her tarafında saklanan bütün balonları _UNK_ .
+gerçekten güçlü bir dinamik .
+böylece 20 saniye gibi bir sürem kaldı ve eğer son birşeyle bitirecek olursak son 10 yıl _UNK_ dönemiydi .
+önümüzdeki dönem ise oyunların dönemi .
+bunu oluşturmak için oyun dinamiklerini kullanıyoruz . bilgi paylaşımı ile oluşturuyoruz .
+davranışları etkileyebiliriz .
+bu çok güçlü ve heyecan verici .
+bunları beraber oluşturalım , hakkıyla yapalım ve oynarken eğlenelim .

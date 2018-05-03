@@ -1,0 +1,42 @@
+lassen	sie	mich	ihnen	rezero	vorstellen	.
+dieser	kleine	kerl	wurde	von	einer	gruppe	von	10	studenten	im	grundstudium	am	labor	für	autonome	systeme	an	der	_UNK_	in	zürich	entwickelt	.
+unser	roboter	gehört	zu	einer	_UNK_	namens	_UNK_	,	ballroboter	.
+anstelle	von	rädern	balanciert	und	bewegt	sich	so	ein	ballbot	auf	einem	einzelnen	ball	.
+die	_UNK_	eines	solchen	systems	sind	,	dass	es	einen	einzigen	_UNK_	am	boden	gibt	.
+das	bedeutet	,	der	roboter	ist	_UNK_	instabil	.
+es	ist	,	als	ob	ich	versuche	,	auf	einem	fuß	zu	stehen	.
+sie	mögen	sich	fragen	,	wo	liegt	der	nutzen	eines	instabilen	roboters	?
+nun	,	wir	werden	ihnen	das	gleich	erklären	.
+lassen	sie	mich	erst	ausführen	,	wie	rezero	tatsächlich	in	balance	bleibt	.
+rezero	hält	seine	balance	,	indem	er	konstant	seinen	_UNK_	mit	einem	sensor	berechnet	.
+dann	wirkt	er	dem	entgegen	und	vermeidet	einen	sturz	,	indem	er	die	motoren	dementsprechend	dreht	.
+das	geschieht	160	mal	pro	sekunde	und	wenn	in	diesem	prozess	irgendetwas	schief	geht	,	fiele	rezero	sofort	zu	boden	.
+nun	,	um	sich	zu	bewegen	und	zu	balancieren	,	muss	rezero	den	ball	drehen	.
+der	ball	wird	von	drei	speziellen	rädern	angetrieben	,	die	es	rezero	erlauben	,	sich	in	jede	richtung	zu	bewegen	und	sich	auch	gleichzeitig	um	seine	eigene	achse	zu	drehen	.
+durch	seine	instabilität	ist	rezero	immer	in	bewegung	.	der	trick	ist	wie	folgt	:
+es	ist	tatsächlich	genau	diese	instabilität	,	die	einem	roboter	erlaubt	,	sich	sehr	[	dynamisch	]	zu	bewegen	.
+lassen	sie	uns	ein	wenig	spielen	.
+sie	haben	sich	vielleicht	gefragt	,	was	geschieht	,	wenn	ich	dem	roboter	einen	kleinen	schubs	gebe	.
+in	diesem	modus	versucht	er	,	seine	position	zu	halten	.
+für	die	nächste	demonstration	möchte	ich	ihnen	meine	kollegen	vorstellen	:	michael	am	computer	und	thomas	,	der	mir	hier	auf	der	bühne	helfen	wird	.
+im	nächsten	modus	ist	rezero	passiv	und	wir	können	ihn	herumschieben	.
+beinahe	ohne	_UNK_	kann	ich	seine	position	und	geschwindigkeit	kontrollieren	.
+ich	kann	ihn	auch	zum	drehen	bringen	.
+im	nächsten	modus	können	wir	rezero	dazu	bringen	,	einer	person	zu	folgen	.
+er	hält	nun	eine	konstante	distanz	zu	thomas	.
+das	geschieht	mit	hilfe	eines	_UNK_	,	der	oben	auf	rezero	montiert	ist	.
+mit	derselben	methode	können	wir	ihn	auch	dazu	bringen	,	eine	person	zu	umkreisen	.
+wir	nennen	das	den	_UNK_	modus	.
+gut	,	vielen	dank	dir	,	thomas	.
+nun	,	wozu	dient	diese	technologie	?
+für	den	moment	ist	es	ein	experiment	,	aber	lassen	sie	mich	ihnen	einige	mögliche	anwendungen	zeigen	.
+rezero	könnte	in	ausstellungen	oder	parks	eingesetzt	werden	.
+mit	einem	monitor	könnte	er	die	leute	informieren	,	oder	sie	auf	unterhaltsame	und	spaßige	art	_UNK_	.
+in	einem	krankenhaus	könnte	das	gerät	dazu	verwendet	werden	,	medizinische	apparate	herumzutragen	.
+dank	des	ballbot	-	systems	hat	es	einen	sehr	kleinen	fußabdruck	und	ist	auch	sehr	einfach	zu	bewegen	.
+und	natürlich	,	wer	möchte	nicht	einmal	auf	einem	von	diesen	dingern	reiten	.
+das	sind	eher	die	praktischen	anwendungen	.
+aber	es	liegt	auch	eine	gewisse	schönheit	in	dieser	technologie	.
+danke	.
+vielen	dank	.
+

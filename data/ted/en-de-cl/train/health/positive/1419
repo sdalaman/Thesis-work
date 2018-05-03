@@ -1,0 +1,140 @@
+i 'm a process engineer .
+i know all about boilers and incinerators and fabric filters and cyclones and things like that , but i also have marfan syndrome .
+this is an inherited disorder .
+and in 1992 i participated in a genetic study and found to my horror , as you can see from the slide , that my ascending aorta was not in the normal range , the green line at the bottom .
+everyone in here will be between 3.2 and 3.6 cm .
+i was already up at 4.4 .
+and as you can see , my aorta dilated progressively , and i got closer and closer to the point where surgery was going to be necessary .
+the surgery on offer was pretty gruesome -- anesthetize you , open your chest , put you on an artificial heart and lung machine , drop your body temperature to about 18 centigrade , stop your heart , cut the aorta out , replace it with a plastic valve and a plastic aorta , and , most importantly , commit you to a lifetime of anticoagulation therapy , normally warfarin .
+the thought of the surgery was not attractive .
+the thought of the warfarin was really quite frightening .
+so i said to myself , i 'm an engineer , i 'm in r and d , this is just a plumbing problem .
+i can do this . i can change this .
+so i set out to change the entire treatment for aortic dilation .
+the project aim is really quite simple .
+the only real problem with the ascending aorta in people with marfan syndrome is it lacks some tensile strength .
+so the possibility exists to simply externally wrap the pipe .
+and it would remain stable and operate quite happily .
+if your high - pressure hose pipe , or your high - pressure hydraulic line , bulges a little , you just wrap some tape around the outside of it .
+it really is that simple in concept , though not in execution .
+the great advantage of an external support for me was that i could retain all of my own bits , all of my own endothelium and valves , and not need any anticoagulation therapy .
+so where do we start ?
+well this is a sagittal slice through me .
+you could see in the middle that device , that little structure , squeezing out .
+now that 's a left ventricle pushing blood up through the aortic valve -- you can see two of the leaflets of the aortic valve working there -- up into the ascending aorta .
+and it 's that part , the ascending aorta , which dilates and ultimately bursts , which , of course , is fatal .
+we started by organizing image acquisition from magnetic resonance imaging machines and ct imaging machines from which to make a model of the patient 's aorta .
+this is a model of my aorta .
+i 've got a real one in my pocket , if anyone would like to look at it and play with it .
+you can see , it 's quite a complex structure .
+it has a funny trilobal shape at the bottom , which contains the aortic valve .
+it then comes back into a round form and then tapers and curves off .
+so it 's quite a difficult structure to produce .
+this , like i say , is a cad model of me , and this is one of the later cad models .
+we went through an iterative process of producing better and better models .
+when we produced that model we turn it into a solid plastic model , as you can see , using a rapid prototyping technique , another engineering technique .
+we then use that former to manufacture a perfectly bespoke porous textile mesh , which takes the shape of the former and perfectly fits the aorta .
+so this is absolutely personalized medicine at its best really .
+every patient we do has an absolutely bespoke implant .
+once you 've made it , the installation 's quite easy .
+john pepper , bless his heart , professor of cardiothoracic surgery -- never done it before in his life -- he put the first one in , did n't like it , took it out , put the second one in .
+happy , away i went .
+four and a half hours on the table and everything was done .
+so the surgical implantation actually was the easiest part .
+if you compare our new treatment to the existing alternative , the so - called composite aortic root graft , there are one of two startling comparisons , which i 'm sure will be clear to all of you .
+two hours to install one of our devices compared to six hours for the existing treatment .
+the existing treatment requires , as i 've said , the heart and lung bypass machine and it requires a total body cooling .
+we do n't need any of that ; we work on a beating heart .
+he opens you up , he accesses the aorta while your heart is beating , all at the right temperature .
+no breaking into your circulatory system .
+so it really is great .
+but for me , absolutely the best point is there is no anticoagulation therapy required .
+i do n't take any drugs at all other than recreational ones that i would choose to take .
+and in fact , if you speak to people who are on long - term warfarin , it is a serious compromise to your quality of life .
+and even worse , it inevitably foreshortens your life .
+likewise , if you have the artificial valve option , you 're committed to antibiotic therapy whenever you have any intrusive medical treatment at all .
+even trips to the dentist require that you take antibiotics , in case you get an internal infection on the valve .
+again , i do n't have any of that , so i 'm entirely free .
+my aorta is fixed , i have n't got to worry about it , which is a rebirth for me .
+back to the theme of the presentation : in multidisciplinary research , how on earth does a process engineer used to working with boilers end up producing a medical device which transforms his own life ?
+well the answer to that is a multidisciplinary team .
+this is a list of the core team .
+and as you can see , there are not only two principal technical disciplines there , medicine and engineering , but also there are various specialists from within those two disciplines .
+john pepper there was the cardiac surgeon who did the actual work on me , but everyone else there had to contribute one way or another .
+raad mohiaddin , medical radiologist : we had to get good quality images from which to make the cad model .
+warren thornton , who still does all our cad models for us , had to write a bespoke piece of cad code to produce this model from this really rather difficult input data set .
+there are some barriers to this though . there are some problems with it .
+jargon is a big one .
+i would think no one in this room understands those four first jargon points there .
+the engineers amongst you will recognize rapid prototyping and cad .
+the medics amongst you , if there are any , will recognize the first two .
+but there will be nobody else in this room that understands all of those four words .
+taking the jargon out was very important to ensure that everyone in the team understood exactly what was meant when a particular phrase was used .
+our disciplinary conventions were funny as well .
+we took a lot of horizontal slice images through me , produced those slices and then used those to build a cad model .
+and the very first cad model we made , the surgeons were playing with the plastic model , could n't quite figure it out .
+and then we realized that it was actually a mirror image of the real aorta .
+and it was a mirror image because in the real world we always look down on plans , plans of houses or streets or maps .
+in the medical world they look up at plans .
+so the horizontal images were all an inversion .
+so one needs to be careful with disciplinary conventions .
+everyone needs to understand what is assumed and what is not assumed .
+institutional barriers were another serious headache in the project .
+the brompton hospital was taken over by imperial college 's school of medicine , and there are some seriously bad relationship problems between the two organizations .
+i was working with imperial and the brompton , and this generated some serious problems with the project , really problems that should n't exist .
+research and ethics committee : if you want to do anything new in surgery , you have to get a license from your local research and ethics .
+i 'm sure it 's the same in poland .
+there will be some form of equivalent , which licenses new types of surgery .
+we did n't only have the bureaucratic problems associated with that , was also had professional jealousies .
+there were people on the research and ethics committee who really did n't want to see john pepper succeed again , because he 's so successful .
+and they made extra problems for us .
+bureaucratic problems : ultimately when you have a new treatment you have to have a guidance note going out for all of the hospitals in the country .
+in the u.k. we have the national institute for clinical excellence , nice .
+you 'll have an equivalent in poland , no doubt .
+we had to get past the nice problem .
+we now have a great clinical guidance out on the net .
+so any of the hospitals interested can come along , read the nice report get in touch with us and then get doing it themselves .
+funding barriers : another big area to be concerned with .
+a big problem with understanding one of those perspectives : when we first approached one of the big u.k. charitable organizations that funds this kind of stuff , what they were looking at was essentially an engineering proposal .
+they did n't understand it ; they were doctors , they were next to god .
+it must be rubbish . they binned it .
+so in the end i went to private investors and i just gave up on it .
+but most r and d is going to be institutionally funded , by the polish academy of sciences or the engineering and physical sciences research council or whatever , and you need to get past those people .
+jargon is a huge problem when you 're trying to work across disciplines , because in an engineering world , we all understand cad and r.p. -- not in the medical world .
+i suppose ultimately the funding bureaucrats have really got to get their act together .
+they 've really got to start talking to each other , and they 've got to exercise a bit of imagination , if that 's not too much to ask -- which it probably is .
+i 've coined a phrase " obstructive conservatism . "
+so many people in the medical world do n't want to change , particularly not when some jumped - up engineer has come along with the answer .
+they do n't want to change .
+they simply want to do whatever they 've done before .
+and in fact , there are many surgeons in the u.k.
+still waiting for one of our patients to have some sort of episode , so that they can say , " ah , i told you that was no good . "
+we 've actually got 30 patients .
+i 'm at seven and a half years .
+we 've got 90 post - op patient years between us , and we have n't had a single problem .
+and still , there are people in the u.k. saying , " yeah , that external aortic root , yeah , it 'll never work , you know . "
+it really is a problem . it really is a problem .
+i 'm sure everyone in this room has come across arrogance amongst medics , doctors , surgeons at some point .
+the middle point is simply the way that the doctors protect themselves .
+" yeah , well of course , i 'm looking after my patient . "
+i think it 's not good , but there you are , that 's my view .
+egos , of course , again , a huge problem if you 're working in a multidisciplinary team , you 've got to give your guys the benefit of the doubt .
+you 've got to express support for them .
+tom treasure , professor of cardiothoracic surgery : incredible guy .
+dead easy to give him respect .
+him giving me respect ? slightly different .
+that 's all the bad news .
+the good news is the benefits are stonkingly huge .
+translate that one . i bet they ca n't .
+when you have a group of people who have had a different professional training , a different professional experience , they not only have a different knowledge base , but they have a different perspective on everything .
+and if you can bring those guys together and you can get them talking and understanding each other , the results can be spectacular .
+you can find novel solutions , really novel solutions , that have never been looked at before very , very quickly and easily .
+you can shortcut huge amounts of work simply by using the extended knowledge base you have .
+and as a result , it 's an entirely different use of the technology and the knowledge around you .
+the result of all this is that you can get incredibly quick progress on incredibly small budgets .
+i 'm so embarrassed at how cheap it was to get from my idea to me being implanted that i 'm not prepared to tell you what it cost .
+because i suspect there are absolutely standard surgical treatments probably in the usa which cost more for a one - off patient than the cost of us getting from my dream to my reality .
+that 's all i want to say , and i 've got three minutes left .
+so heather 's going to like me .
+if you have any questions , please come up and talk to me later on .
+it would be a pleasure to speak with you . many thanks .

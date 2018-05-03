@@ -1,0 +1,67 @@
+yaklaşık_tr bir_tr buçuk_tr yıl_tr önce_tr ted_tr 2007'de_tr sanal_tr dünya_tr hakkında_tr bir_tr konuşma_tr yapan_tr stephen_tr lawler_tr beni_tr microsoft'un_tr online_tr haritalama_tr çalışması_tr olan_tr bing_tr _UNK__tr mimarı_tr olmam_tr için_tr davet_tr etmişti_tr ._tr
+son_tr iki_tr buçuk_tr yıldır_tr ,_tr online_tr haritaların_tr çalışma_tr şekillerini_tr yeniden_tr tanımlamak_tr için_tr çok_tr çalıştık_tr ._tr
+ve_tr gerçekten_tr de_tr buna_tr alıştığımız_tr haritalama_tr ve_tr yön_tr sistemlerinden_tr çok_tr farklı_tr bir_tr açıdan_tr bakıyoruz_tr ._tr
+şimdi_tr ,_tr bu_tr haritalama_tr teknolojisi_tr ile_tr ilgili_tr ilk_tr dikkatinizi_tr çekecek_tr şey_tr yakınlaştırma_tr ve_tr kaydırma_tr _UNK__tr akıcılık_tr ,_tr ki_tr _UNK__tr _UNK__tr bu_tr oradan_tr gelen_tr bir_tr özellik_tr ._tr
+haritalama_tr ,_tr elbette_tr sadece_tr _UNK__tr ile_tr ilgili_tr degil_tr aynı_tr zamanda_tr hayal_tr gücü_tr ile_tr ilgili_tr ._tr
+böylece_tr ,_tr belirli_tr bir_tr seviyenin_tr ötesine_tr zoom_tr _UNK__tr bu_tr sim_tr city_tr benzeri_tr 45_tr derecelik_tr bir_tr sanal_tr bir_tr görüntü_tr haline_tr dönüşüyor_tr ._tr
+bu_tr görüntü_tr ,_tr her_tr bir_tr yönden_tr ayrı_tr ayrı_tr gözlenebilir_tr ve_tr size_tr şehrin_tr 3_tr boyutlu_tr yapısını_tr ,_tr tüm_tr bina_tr yüzlerini_tr gösterebilir_tr ._tr
+şimdi_tr ,_tr bu_tr alanı_tr ,_tr bu_tr ü_tr ç_tr boyutlu_tr ortamı_tr tüm_tr farklı_tr uygulamaların_tr kendini_tr gösterebileceği_tr bir_tr tuval_tr olarak_tr düşünebiliriz_tr ._tr ve_tr haritanın_tr yönleri_tr de_tr bunlardan_tr sadece_tr biri_tr ._tr
+eğer_tr bunun_tr üzerine_tr _UNK__tr ,_tr daha_tr önceden_tr bu_tr ürün_tr satışa_tr çıkardıktan_tr sonraki_tr birkaç_tr ay_tr içinde_tr sisteme_tr _UNK__tr görebilirsiniz_tr ._tr
+örneğin_tr ,_tr haiti'deki_tr felaketten_tr birkaç_tr gün_tr sonra_tr deprem_tr öncesi_tr ve_tr sonrası_tr uydu_tr fotoğraflarını_tr içeren_tr bir_tr haritamız_tr vardı_tr ._tr
+size_tr göstermem_tr vakit_tr darlığı_tr nedeniyle_tr mümkün_tr değil_tr ama_tr bir_tr tanesi_tr bölgesel_tr blogları_tr gerçek_tr zamanlı_tr olarak_tr _UNK__tr bloglarda_tr yer_tr alan_tr ve_tr bahsedilen_tr bu_tr haber_tr ve_tr hikayeleri_tr _UNK__tr ._tr
+gerçekten_tr harika_tr ._tr
+ama_tr ben_tr size_tr daha_tr keyifli_tr olanlarından_tr birkaçını_tr göstereceğim_tr ._tr
+biliyorsunuz_tr ,_tr görüntü_tr aslında_tr gökyüzünde_tr bitmiyor_tr ._tr
+bu_tr yeşil_tr balonlar_tr kullanıcıların_tr yarattığı_tr foto_tr -_tr sentetik_tr görüntüler_tr ._tr
+bunların_tr da_tr detayına_tr girmeyeceğim_tr ,_tr ama_tr foto_tr -_tr _UNK__tr ve_tr harita_tr bütünleşmiş_tr ._tr
+mavi_tr renkli_tr görülen_tr yerler_tr ise_tr yerdeki_tr çekilmiş_tr görselleri_tr de_tr eklediğimiz_tr alanları_tr gösteriyor_tr ._tr
+şimdi_tr öyle_tr ki_tr ,_tr aşağıya_tr indiğinizde_tr teşekkürler_tr ._tr aşağıya_tr inip_tr bu_tr tip_tr _UNK__tr bir_tr görüntü_tr gördüğünüzde_tr ilk_tr fark_tr edeceğiniz_tr şey_tr bunun_tr yanlızca_tr bir_tr resimden_tr farklı_tr olduğu_tr ._tr bu_tr ü_tr ç_tr boyutlu_tr şehrin_tr yukarıdan_tr _UNK__tr olduğu_tr gibi_tr bu_tr ortamda_tr da_tr aynı_tr ü_tr ç_tr boyutlu_tr yapı_tr mevcut_tr ,_tr öyleyse_tr ,_tr eğer_tr herhangi_tr bir_tr cismi_tr yakından_tr görmek_tr için_tr üzerine_tr tıklarsam_tr ,_tr ki_tr aynen_tr göründüğü_tr gibi_tr olan_tr bu_tr geçiş_tr bu_tr modelin_tr 3_tr boyutlu_tr _UNK__tr ardındaki_tr geometrinin_tr bir_tr fonksiyonu_tr aslında_tr ._tr
+şimdi_tr size_tr bizim_tr _UNK__tr arkadaşlarla_tr birlikte_tr üzerinde_tr çalıştığımız_tr eğlenceli_tr bir_tr uygulama_tr göstereceğim_tr ._tr
+bu_tr uygulama_tr ,_tr flickr_tr tarafından_tr geo_tr -_tr _UNK__tr edilmiş_tr görüntüleri_tr foto_tr -_tr sentetik_tr benzeri_tr bir_tr süreç_tr ile_tr bizim_tr _UNK__tr _UNK__tr ,_tr böylece_tr --_tr şu_tr anda_tr göstermek_tr istediğim_tr resmin_tr bu_tr olduğundan_tr çok_tr emin_tr değilim_tr ,_tr ama_tr --_tr ama_tr dikkat_tr edin_tr --_tr burası_tr elbette_tr çok_tr popüler_tr bir_tr turistik_tr mekan_tr ,_tr ve_tr burada_tr pek_tr çok_tr resim_tr çekilmiş_tr ,_tr bu_tr resimlerin_tr her_tr biri_tr de_tr farklı_tr zamanlarda_tr çekilmiş_tr ._tr
+bu_tr resim_tr saat_tr beş_tr civarında_tr çekilmiş_tr ._tr
+i̇şte_tr bu_tr flickr_tr resmi_tr ,_tr bizim_tr _UNK__tr bu_tr ._tr
+böylece_tr kalabalıklar_tr tarafından_tr teker_tr teker_tr oluşturulan_tr bu_tr görüntülerin_tr derinlemesine_tr birleşerek_tr aslında_tr haritayı_tr meydana_tr getirdiğini_tr görebilirsiniz_tr ._tr
+teşekkürler_tr ._tr
+bunun_tr ilginç_tr olmasının_tr birkaç_tr nedeni_tr var_tr ._tr ve_tr bunlardan_tr biri_tr elbette_tr zamanda_tr yolculuk_tr ._tr
+ben_tr size_tr burada_tr yer_tr alan_tr bazı_tr harika_tr tarihi_tr görüntüleri_tr göstermeyeceğim_tr ama_tr aralarında_tr içinde_tr at_tr ve_tr at_tr arabaları_tr olan_tr resimler_tr de_tr var_tr ._tr
+bunun_tr müthiş_tr olan_tr yanı_tr şu_tr ki_tr bu_tr ,_tr bizim_tr dünyayı_tr görsel_tr olarak_tr betimlememizi_tr diğer_tr kullanıcılardan_tr gelen_tr _UNK__tr _UNK__tr kalmıyor_tr ,_tr aynı_tr zamanda_tr da_tr artırılmış_tr gerçekliğin_tr temellerini_tr de_tr oluşturuyor_tr ,_tr ve_tr bu_tr size_tr biraz_tr sonra_tr daha_tr detaylı_tr göstereceğim_tr bir_tr şey_tr ._tr
+şimdi_tr iç_tr mekanlara_tr geçtim_tr ,_tr bu_tr da_tr oldukça_tr ilginç_tr ._tr
+tamam_tr ,_tr dikkat_tr edin_tr ,_tr burada_tr bir_tr tavan_tr var_tr ._tr
+pike_tr place_tr _UNK__tr içindeyiz_tr ._tr
+bu_tr ,_tr bizim_tr sırt_tr çantamızda_tr taşıdığımız_tr bir_tr kamera_tr ile_tr yapabileceğimiz_tr bir_tr şey_tr ._tr öyleyse_tr ,_tr arabaların_tr tepesindeki_tr kameralarla_tr sadece_tr sokakları_tr _UNK__tr kalmıyoruz_tr ,_tr iç_tr mekanları_tr da_tr görüntüleyebiliyoruz_tr ._tr
+ve_tr daha_tr da_tr önemlisi_tr ,_tr sadece_tr durgun_tr resimlerle_tr değil_tr ,_tr video_tr çekimleri_tr ile_tr de_tr benzer_tr bir_tr şey_tr yapmamız_tr mümkün_tr ._tr
+şimdi_tr ,_tr ilk_tr defa_tr ,_tr canlı_tr _UNK__tr bir_tr şey_tr deneyeceğiz_tr ._tr ve_tr bu_tr gerçekten_tr de_tr ,_tr çok_tr korkutucu_tr ._tr
+tamam_tr ._tr
+tamam_tr arkadaşlar_tr ,_tr orada_tr mısınız_tr ?_tr
+tamam_tr ._tr düğmeye_tr basıyorum_tr ,_tr
+canlı_tr _UNK__tr ._tr tamam_tr ._tr hadi_tr bakalım_tr ._tr
+bu_tr gördükleriniz_tr ,_tr pike_tr place_tr _UNK__tr bizim_tr arkadaşlarımız_tr ,_tr
+şu_tr anda_tr canlı_tr olarak_tr bunu_tr yayınlıyorlar_tr ._tr
+tamam_tr ,_tr george_tr ,_tr köşedeki_tr markete_tr _UNK__tr misin_tr ?_tr
+i̇lginç_tr bir_tr şey_tr göstermek_tr istiyorum_tr ._tr
+hayır_tr ,_tr hayır_tr ,_tr diğer_tr tarafa_tr ._tr
+evet_tr ,_tr evet_tr ,_tr köşeye_tr doğru_tr ,_tr _UNK__tr doğru_tr ._tr
+yok_tr ,_tr henüz_tr sizi_tr göstermek_tr istemiyorum_tr ._tr
+tamam_tr tamam_tr ,_tr köşeye_tr geri_tr dönelim_tr ,_tr köşeye_tr ,_tr köşeye_tr ._tr
+tamam_tr ,_tr neyse_tr boşver_tr ._tr
+size_tr bu_tr görüntünün_tr üzerindeki_tr işaretlenmiş_tr noktaları_tr göstermek_tr istiyorum_tr çünkü_tr bu_tr noktalar_tr sanki_tr siz_tr _UNK__tr gibi_tr hissetmenizi_tr sağlayan_tr şeyler_tr .._tr bunu_tr _UNK__tr düşünebilirsiniz_tr --_tr bu_tr ,_tr artırılmış_tr gerçeklik_tr için_tr atılan_tr ilave_tr bir_tr adım_tr ._tr
+arkadaşlar_tr siz_tr ne_tr yapıyorsunuz_tr --_tr ah_tr ,_tr pardon_tr ._tr
+i̇ki_tr değişik_tr şey_tr yapıyoruz_tr ..._tr tamam_tr ,_tr artık_tr kapatıyorum_tr ._tr
+burada_tr iki_tr değişik_tr şey_tr yapıyoruz_tr ._tr
+bunlar_tr birinde_tr ,_tr gerçek_tr olanı_tr alıp_tr ..._tr
+tamam_tr ,_tr bir_tr dakika_tr izin_tr verin_tr ,_tr ekibe_tr teşekkür_tr edeyim_tr ._tr
+bunu_tr ortaya_tr koyma_tr konusunda_tr harika_tr bir_tr iş_tr çıkardılar_tr ._tr
+şimdi_tr onlardan_tr ayrılarak_tr tekrar_tr dışarıya_tr çıkıyorum_tr
+dışarı_tr doğru_tr yürürken_tr ,_tr şunu_tr belirtmek_tr istiyorum_tr şu_tr an_tr bunu_tr tele_tr -_tr sunum_tr için_tr yaptık_tr ama_tr benzer_tr şekilde_tr bunu_tr anında_tr artırılmış_tr gerçeklik_tr için_tr de_tr kullanabilirsiniz_tr ._tr
+bunu_tr anında_tr kullanmaktan_tr kastım_tr dünya_tr ile_tr ilgili_tr tüm_tr verilere_tr ve_tr meta_tr -_tr verilere_tr anında_tr ulaşabilecek_tr olmanız_tr ._tr
+öyleyse_tr burada_tr ,_tr bir_tr adım_tr daha_tr ileri_tr giderek_tr bunu_tr yayınlıyoruz_tr ._tr
+bu_tr arada_tr ,_tr bu_tr yayın_tr ,_tr marketten_tr _UNK__tr ağı_tr aracılığıyla_tr yapıldı_tr ._tr
+tamam_tr ,_tr geçtiğimiz_tr yıllarda_tr microsoft_tr tarafından_tr verilen_tr en_tr az_tr bir_tr ted_tr sunumu_tr vardı_tr ._tr
+bu_tr sunum_tr curtis_tr _UNK__tr yaptığı_tr dünya_tr çapında_tr teleskop_tr sunumu_tr ._tr
+şimdi_tr ,_tr pazar_tr yerindeki_tr uzun_tr bir_tr gün_tr sonunda_tr adet_tr olduğu_tr üzere_tr çöp_tr alanını_tr geçerek_tr ,_tr mola_tr veriyor_tr ve_tr bu_tr sırada_tr gök_tr yüzüne_tr bakıyoruz_tr ._tr
+dünya_tr çapında_tr teleskop'un_tr bizim_tr _UNK__tr entegrasyonu_tr budur_tr ._tr
+bu_tr güncel_tr --_tr teşekkürler_tr --_tr bu_tr şu_tr an_tr ,_tr ama_tr zamanı_tr değiştirecek_tr olursak_tr ,_tr farklı_tr zamanlarda_tr gökyüzünün_tr neye_tr benzediğini_tr görebiliriz_tr ,_tr böylece_tr farklı_tr zamanlar_tr ve_tr farklı_tr _UNK__tr ilgili_tr pek_tr çok_tr detaylı_tr bilgiye_tr erişebiliriz_tr ._tr ay'ı_tr gökyüzünde_tr biraz_tr daha_tr yukarıya_tr çıkaralım_tr ._tr tarihi_tr değiştirebiliriz_tr ._tr
+ay'a_tr zoom_tr yapmak_tr istiyorum_tr ._tr
+bu_tr ,_tr gökyüzünün_tr astronomik_tr olarak_tr dünya_tr ile_tr bütünleşmiş_tr tam_tr bir_tr temsili_tr ._tr
+tamam_tr ,_tr vaktimi_tr aştım_tr artık_tr durmam_tr lazım_tr ._tr
+çok_tr çok_tr teşekkür_tr ederim_tr ._tr

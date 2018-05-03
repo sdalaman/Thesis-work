@@ -1,0 +1,6 @@
+name,epoch,lr,momentum,max_epoch,test score,total
+additive,101,0.001,0.2,500,991,1000
+additive,201,0.001,0.2,500,994,1000
+additive,301,0.001,0.2,500,994,1000
+additive,401,0.001,0.2,500,996,1000
+additive,999,0.001,0.2,500,995,1000

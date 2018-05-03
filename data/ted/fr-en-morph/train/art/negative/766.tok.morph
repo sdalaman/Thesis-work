@@ -1,0 +1,73 @@
+il	y	a	environ	un	an	 e 	 t 	 	demi	stephen	lawler	qui	a	lui	aussi	fait	une	conférence	ici	à	ted	en	2007	au	sujet	de	virtual	 e 	 arth 	 	m'a	fait	venir	pour	 de 	 venir 	 	 l' 	 architecte 	 	de	bing	maps	,	le	projet	de	 carto 	 graphie 	 	en	ligne	de	microsoft	.
+pendant	les	deux	 der 	 nières 	 	 année 	 s 	 	 e 	 t 	 	 demi 	 e 	 	,	nous	avons	travaillé	très	dur	pour	 redéfini 	 r 	 	la	 man 	 ière 	 	 do 	 nt 	 	les	 carto 	 graphie 	 s 	 	en	ligne	 fonctionne 	 nt 	 	.
+ e 	 t 	 	nous	voyons	 vrai 	 ment 	 	ça	de	façon	très	 différent 	 e 	 	des	 site 	 s 	 	qui	 propose 	 nt 	 	des	 carte 	 s 	 	 e 	 t 	 	des	 direction 	 s 	 	 e 	 t 	 	 aux 	 quel 	 s 	 	on	est	 habitué 	 s 	 	.
+la	première	chose	que	vous	 remarqu 	 e 	 rez 	 	à	propos	du	site	de	 carto 	 graphie 	 	,	est	 simple 	 ment 	 	la	 fluid 	 ité 	 	du	zoom	 e 	 t 	 	du	 défi 	 lement 	 	,	qui	,	si	vous	êtes	 famil 	 ier 	 	avec	_UNK_	c'est	de	là	que	ça	vient	.
+créer	une	carte	est	,	bien	sûr	,	plus	que	 simple 	 ment 	 	la	 carto 	 graphie 	 	,	c'est	aussi	de	 l' 	 imagerie 	 	.
+donc	,	quand	nous	 zoom 	 ons 	 	au	-	delà	 d' 	 un 	 	certain	niveau	on	arrive	à	une	 sort 	 e 	 	de	vue	 virtuel 	 le 	 	à	45	 de 	 gré 	 s 	 	du	 gen 	 re 	 	sim	city	.
+on	peut	la	 regarde 	 r 	 	 de 	 puis 	 	 n' 	 importe 	 	 le 	 quel 	 	des	 point 	 s 	 	_UNK_	,	pour	voir	la	structure	en	3d	de	la	ville	 e 	 t 	 	de	 s 	 es 	 	 façade 	 s 	 	.
+ main 	 tenant 	 	,	nous	voyons	 ce 	 t 	 	espace	,	 ce 	 t 	 	environnement	en	3d	comme	un	 can 	 e 	 vas 	 	sur	 le 	 quel 	 	 tout 	 es 	 	 sort 	 es 	 	 d' 	 application 	 s 	 	peuvent	 s 	 e 	 	 greffe 	 r 	 	.
+ e 	 t 	 	les	 direction 	 s 	 	en	 s 	 ont 	 	juste	un	exemple	.
+si	vous	 clique 	 z 	 	ici	,	vous	 ver 	 rez 	 	 quelque 	 s 	 	 une 	 s 	 	de	 celle 	 s 	 	que	 l' 	 on 	 	vient	juste	de	sortir	 ce 	 s 	 	 dernier 	 s 	 	 moi 	 s 	 	,	 de 	 puis 	 	que	nous	avons	lancé	ce	produit	.
+par	exemple	,	 quelque 	 s 	 	 jour 	 s 	 	après	la	 catastroph 	 e 	 	en	haïti	,	nous	avions	une	carte	du	 tremble 	 ment 	 	de	terre	qui	 mont 	 rait 	 	des	 vue 	 s 	 	 aérien 	 nes 	 	avant	 e 	 t 	 	après	.
+ ce 	 tte 	 	fantastique	application	que	je	n'ai	pas	le	temps	de	vous	 montre 	 r 	 	 incorpo 	 re 	 	les	 blog 	 s 	 	hyper	-	 loc 	 aux 	 	en	temps	réel	 e 	 t 	 	joint	 ce 	 s 	 	 histoire 	 s 	 	,	 ce 	 s 	 	 bille 	 t 	 s 	 	aux	 endroit 	 s 	 	 mentionné 	 s 	 	dans	les	 blog 	 s 	 	.
+c'est	 merveille 	 ux 	 	.
+ mai 	 s 	 	je	vais	vous	 montre 	 r 	 	 d' 	 autre 	 s 	 	 chose 	 s 	 	qui	 s 	 ont 	 	 impression 	 nante 	 s 	 	.
+donc	nous	voyons	les	 image 	 s 	 	bien	sûr	,	 mai 	 s 	 	pas	 seul 	 ement 	 	les	 vue 	 s 	 	 aérien 	 nes 	 	.
+ ce 	 s 	 	 petite 	 s 	 	 bulle 	 s 	 	 vert 	 es 	 	 représent 	 ent 	 	des	 photo 	 s 	 ynth 	 s 	 	 créé 	 s 	 	par	les	 utilisateur 	 s 	 	.
+je	ne	vais	pas	entrer	dans	le	détail	,	 mai 	 s 	 	 ce 	 s 	 	 photo 	 s 	 ynth 	 s 	 	 s 	 ont 	 	 intégr 	 és 	 	dans	la	carte	.
+tout	ce	qui	est	encadré	en	bleu	 représent 	 e 	 	les	 zone 	 s 	 	où	nous	avons	aussi	 pri 	 s 	 	des	 vue 	 s 	 	 terrestre 	 s 	 	.
+ e 	 t 	 	donc	,	quand	vous	vous	 r 	 approche 	 z 	 	du	sol	--	merci	.	quand	vous	vous	 r 	 approche 	 z 	 	du	sol	 e 	 t 	 	que	vous	voyez	 ce 	 tte 	 	 sort 	 e 	 	 d' 	 image 	 	 panoram 	 ique 	 	,	la	première	chose	que	vous	 remarqu 	 e 	 rez 	 	c'est	que	ce	n'est	pas	 seul 	 ement 	 	une	image	,	il	y	a	autant	 d' 	 élément 	 s 	 	tri	-	_UNK_	dans	 ce 	 t 	 	 environ 	 ement 	 	qu'il	y	en	a	dans	la	ville	en	3d	que	nous	avons	vu	du	ciel	,	donc	si	je	clique	sur	quelque	chose	pour	le	voir	de	plus	près	,	alors	la	 trans 	 ition 	 	peut	être	 rendu 	 e 	 	comme	cela	grâce	à	 tout 	 e 	 	 ce 	 tte 	 	 géo 	 métrie 	 	,	à	 tout 	 e 	 	 ce 	 tte 	 	recherche	en	3d	qui	est	derrière	ce	modèle	.
+ main 	 tenant 	 	je	vais	vous	 montre 	 r 	 	une	appli	très	sympa	pour	 la 	 quelle 	 	nous	avons	collaboré	avec	 no 	 s 	 	 ami 	 s 	 	de	flickr	.
+elle	prend	les	 image 	 s 	 	géo	-	 localisé 	 es 	 	de	flickr	 e 	 t 	 	utilise	des	 process 	 us 	 	 similaire 	 s 	 	aux	 photo 	 s 	 ynth 	 s 	 	pour	 connecte 	 r 	 	 ce 	 s 	 	 image 	 s 	 	aux	 nôtre 	 s 	 	,	pour	--	je	ne	suis	pas	sûr	que	ce	soit	 l' 	 image 	 	que	je	 voul 	 ais 	 	 clique 	 r 	 	,	 mai 	 s 	 	--	 mai 	 s 	 	regardez	--	c'est	,	bien	sûr	,	un	site	 tour 	 istique 	 	populaire	,	 e 	 t 	 	il	y	a	beaucoup	de	 photo 	 s 	 	de	 ce 	 t 	 	endroit	,	 e 	 t 	 	 ce 	 s 	 	 photo 	 s 	 	ont	été	 prise 	 s 	 	à	 différent 	 s 	 	 moment 	 s 	 	.
+celle	-	ci	à	été	prise	vers	17	heures	.
+donc	ça	c'est	la	photo	de	flickr	,	ça	c'est	 not 	 re 	 	imagerie	.
+ e 	 t 	 	vous	voyez	comment	 ce 	 s 	 	 image 	 s 	 	venant	des	 utilisateur 	 s 	 	 s' 	 intègre 	 nt 	 	 pres 	 que 	 	_UNK_	au	coeur	de	la	carte	elle	-	même	.
+merci	.
+il	y	a	plusieurs	 rais 	 ons 	 	pour	 les 	 quelle 	 s 	 	 ce 	 ci 	 	est	intéressant	 e 	 t 	 	 l' 	 une 	 	 d' 	 elles 	 	,	bien	sûr	,	est	de	pouvoir	 voyage 	 r 	 	dans	le	temps	.
+ e 	 t 	 	je	ne	vais	pas	vous	 montre 	 r 	 	 main 	 tenant 	 	de	 super 	 be 	 s 	 	 image 	 s 	 	 historique 	 s 	 	 mai 	 s 	 	il	y	en	a	aussi	avec	des	 che 	 vaux 	 	 e 	 t 	 	des	_UNK_	 e 	 t 	 	tout	ça	.
+ mai 	 s 	 	ce	qui	est	formidable	avec	ça	,	c'est	que	non	 seul 	 ement 	 	cela	 enrichi 	 t 	 	 ce 	 tte 	 	 représent 	 ation 	 	 virtuel 	 le 	 	du	monde	avec	des	 élément 	 s 	 	qui	viennent	des	 utilisateur 	 s 	 	,	 mai 	 s 	 	c'est	aussi	la	base	de	la	 ré 	 alité 	 	 augment 	 ée 	 	,	 e 	 t 	 	c'est	quelque	chose	que	je	vais	vous	 montre 	 r 	 	dans	un	instant	.
+je	viens	juste	de	faire	une	 trans 	 ition 	 	en	intérieur	.	c'est	intéressant	aussi	.
+ d' 	 accord 	 	,	 remarqu 	 ez 	 	que	 main 	 tenant 	 	il	y	a	toit	au	-	dessus	de	nous	.
+nous	 somme 	 s 	 	à	 l' 	 intérieur 	 	du	marché	de	pike	place	.
+ e 	 t 	 	c'est	quelque	chose	que	nous	somme	 capable 	 s 	 	de	faire	avec	un	appareil	dans	un	sac	à	 do 	 s 	 	.
+donc	nous	ne	prenons	pas	 seul 	 ement 	 	des	 image 	 s 	 	dans	la	 r 	 ue 	 	,	avec	 ce 	 t 	 	appareil	photo	sur	le	toit	de	 voiture 	 s 	 	,	nous	prenons	aussi	des	 image 	 s 	 	à	 l' 	 intérieur 	 	.
+a	 parti 	 r 	 	de	là	nous	 somme 	 s 	 	 capable 	 s 	 	de	faire	la	même	 sort 	 e 	 	 d' 	 intégration 	 	,	non	 seul 	 ement 	 	 d' 	 image 	 s 	 	,	 mai 	 s 	 	aussi	de	 vidéo 	 s 	 	.
+ e 	 t 	 	c'est	quelque	chose	que	nous	allons	essayer	de	faire	 main 	 tenant 	 	pour	le	première	fois	,	en	direct	,	 e 	 t 	 	ça	,	ça	fait	 vrai 	 ment 	 	peur	.
+ d' 	 accord 	 	.
+bien	,	les	 gar 	 s 	 	,	vous	êtes	là	?
+bien	.	 j' 	 appuie 	 	dessus	.	 j' 	 appuie 	 	sur	``	lecture	``	.
+je	suis	en	direct	.	bien	.	c'est	parti	.
+donc	,	voici	 no 	 s 	 	 ami 	 s 	 	au	marché	pike	place	,	le	labo	.
+ils	 trans 	 mettent 	 	ça	en	direct	.
+bien	,	georges	,	peux	-	tu	 recule 	 r 	 	 e 	 t 	 	 film 	 er 	 	le	coin	du	marché	?
+parce	que	je	veux	vous	 montre 	 r 	 	un	point	 d' 	 intérêt 	 	.
+non	,	non	,	de	 l' 	 autre 	 	côté	.
+oui	,	oui	,	retourne	vers	le	coin	.	vers	le	coin	.
+je	ne	veux	pas	encore	vous	voir	les	 gar 	 s 	 	.
+ d' 	 accord 	 	,	 d' 	 accord 	 	.	retour	vers	le	coin	.	retour	vers	le	coin	,	vers	le	coin	.
+ d' 	 accord 	 	,	c'est	pas	grave	.
+ce	que	je	 voul 	 ais 	 	vous	 montre 	 r 	 	c'est	 ce 	 s 	 	 point 	 s 	 	 d' 	 intérêt 	 	là	,	par	dessus	 l' 	 image 	 	,	parce	que	ça	vous	donne	une	idée	de	comment	,	si	vous	êtes	à	 ce 	 t 	 	endroit	...	.
+vous	 pouv 	 ez 	 	voir	ça	comme	--	c'est	aller	un	pas	plus	loin	que	la	 ré 	 alité 	 	 augment 	 ée 	 	.
+ h 	 ey 	 	les	 gar 	 s 	 	 qu' 	 est 	 	-	ce	que	vous	--	oh	,	désolé	.
+nous	faisons	deux	...
+ d' 	 accord 	 	,	je	_UNK_	 main 	 tenant 	 	...
+nous	faisons	deux	 chose 	 s 	 	 différent 	 es 	 	ici	.
+ l' 	 une 	 	est	de	prendre	 ce 	 tte 	 	 vrai 	 e 	 	...
+ d' 	 accord 	 	,	laissez	moi	 remercie 	 r 	 	 l' 	 équipe 	 	.
+ils	ont	fait	un	 bou 	 lot 	 	fantastique	à	faire	 marche 	 r 	 	tout	ça	.
+je	vais	les	 abandonne 	 r 	 	 main 	 tenant 	 	 e 	 t 	 	 retourne 	 r 	 	à	 l' 	 extérieur 	 	.
+ e 	 t 	 	pendant	que	je	me	dirige	vers	 l' 	 extérieur 	 	,	je	 mentionne 	 rai 	 	juste	que	dans	le	cas	présent	nous	utilisons	ça	pour	la	 télé 	 présence 	 	,	 mai 	 s 	 	vous	 pouv 	 ez 	 	aussi	 l' 	 utiliser 	 	 immédiat 	 ement 	 	,	pour	la	 ré 	 alité 	 	 augment 	 ée 	 	.
+quand	vous	 l' 	 utilisez 	 	sur	le	champ	,	cela	veut	dire	que	vous	êtes	capable	 d' 	 accéd 	 er 	 	à	 tout 	 es 	 	les	 méta 	 donné 	 es 	 	 e 	 t 	 	les	 informat 	 ions 	 	sur	le	monde	.
+ e 	 t 	 	ici	,	nous	faisons	la	 dé 	 marche 	 	 supplément 	 aire 	 	 d' 	 é 	 mettre 	 	aussi	 ce 	 tte 	 	 in 	 formation 	 	.
+ e 	 t 	 	au	fait	 c' 	 était 	 	transmis	sur	un	réseau	_UNK_	 de 	 puis 	 	le	marché	.
+bien	,	 e 	 t 	 	 main 	 tenant 	 	il	y	a	un	dernier	ted	talk	que	microsoft	a	fait	 ce 	 s 	 	 der 	 nières 	 	 année 	 s 	 	.
+ e 	 t 	 	c'est	curtis	wong	,	le	worldwide	telescope	.
+donc	nous	allons	 parti 	 r 	 	vers	les	 ben 	 nes 	 	,	où	il	est	 tradition 	 nel 	 	,	après	une	longue	journée	au	marché	,	 d' 	 aller 	 	faire	une	pause	,	 e 	 t 	 	de	 regarde 	 r 	 	le	ciel	.
+ça	c'est	 l' 	 intégration 	 	du	worldwide	telescope	avec	 no 	 s 	 	 carte 	 s 	 	.
+c'est	le	temps	--	merci	--	c'est	le	temps	présent	,	 mai 	 s 	 	si	nous	 ef 	 façon 	 s 	 	le	temps	,	alors	on	peut	voir	à	quoi	le	ciel	 ressemble 	 ra 	 	à	 différent 	 es 	 	heures	,	 e 	 t 	 	nous	 pouv 	 ons 	 	avoir	 tout 	 es 	 	 ce 	 s 	 	 informat 	 ions 	 	très	 dé 	 taillée 	 s 	 	sur	des	heures	 différent 	 es 	 	,	à	des	 date 	 s 	 	 différent 	 es 	 	.
+elevons	un	peu	la	lune	dans	le	ciel	,	peut	-	être	que	nous	 change 	 ons 	 	la	date	.
+je	 voudrai 	 s 	 	 zoome 	 r 	 	un	peu	sur	la	lune	.
+donc	c'est	une	complète	 représent 	 ation 	 	astronomique	du	ciel	 intégr 	 ée 	 	avec	la	terre	.
+bien	,	 main 	 tenant 	 	je	dépasse	mon	temps	de	parole	,	donc	je	dois	 m' 	 arrête 	 r 	 	.
+merci	beaucoup	à	tous	.
+

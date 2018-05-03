@@ -1,0 +1,160 @@
+for	the	last	10	 year 	 s 	 	,	i	've	 be 	 en 	 	 s 	 pend 	 ing 	 	my	time	 try 	 ing 	 	to	figure	out	how	and	why	human	 be 	 ing 	 s 	 	assemble	 them 	 s 	 elves 	 	 in 	 to 	 	social	 network 	 s 	 	.
+and	the	kind	of	social	network	i	'm	 talk 	 ing 	 	about	is	not	the	 re 	 cent 	 	 on 	 line 	 	 varie 	 ty 	 	,	but	 ra 	 ther 	 	,	the	kind	of	social	 network 	 s 	 	that	human	 be 	 ing 	 s 	 	have	 be 	 en 	 	 assem 	 bling 	 	for	 hundred 	 s 	 	of	 thousand 	 s 	 	of	 year 	 s 	 	,	ever	since	we	 emerge 	 d 	 	from	the	african	 savanna 	 h 	 	.
+so	,	i	form	 friend 	 ship 	 s 	 	and	co	-	 work 	 er 	 	and	 s 	 i 	 bling 	 	and	 relat 	 ive 	 	 relationship 	 s 	 	with	other	people	who	in	turn	have	similar	 relationship 	 s 	 	with	other	people	.
+and	 th 	 is 	 	 spread 	 s 	 	on	out	 end 	 lessly 	 	 in 	 to 	 	a	distance	.
+and	you	get	a	network	that	 look 	 s 	 	like	 th 	 is 	 	.
+every	dot	is	a	person	.
+every	line	between	them	is	a	relationship	between	two	people	--	different	 kind 	 s 	 	of	 relationship 	 s 	 	.
+and	you	can	get	 th 	 is 	 	kind	of	vast	fabric	of	 human 	 ity 	 	,	in	which	we	're	all	 embed 	 d 	 ed 	 	.
+and	my	 col 	 league 	 	,	james	fowler	and	i	have	 be 	 en 	 	 stud 	 y 	 ing 	 	for	 quit 	 e 	 	 some 	 time 	 	what	are	the	 mathematic 	 al 	 	,	social	,	 bio 	 logical 	 	and	 psycho 	 logical 	 	 rule 	 s 	 	that	govern	how	these	 network 	 s 	 	are	 assemble 	 d 	 	and	what	are	the	similar	 rule 	 s 	 	that	govern	how	they	 oper 	 ate 	 	,	how	they	affect	our	 live 	 s 	 	.
+but	 re 	 cent 	 ly 	 	,	we	've	 be 	 en 	 	 wonder 	 ing 	 	 whet 	 her 	 	it	might	be	possible	to	take	advantage	of	 th 	 is 	 	 in 	 sight 	 	,	to	 actual 	 ly 	 	find	ways	to	improve	the	world	,	to	do	 some 	 thing 	 	better	,	to	 actual 	 ly 	 	fix	 thing 	 s 	 	,	not	just	understand	 thing 	 s 	 	.
+so	one	of	the	first	 thing 	 s 	 	we	thought	we	would	tackle	would	be	how	we	go	about	 predict 	 ing 	 	 epi 	 demic 	 s 	 	.
+and	the	current	state	of	the	art	in	 predict 	 ing 	 	an	 epi 	 demic 	 	--	if	you	're	the	cdc	or	some	other	national	body	--	is	to	 s 	 it 	 	in	the	middle	where	you	are	and	collect	data	from	 physician 	 s 	 	and	 labor 	 ator 	 ies 	 	in	the	field	that	report	the	 pre 	 valence 	 	or	the	incidence	of	certain	 condition 	 s 	 	.
+so	,	so	and	so	 patient 	 s 	 	have	 be 	 en 	 	 diagnos 	 ed 	 	with	 some 	 thing 	 	,	or	other	 patient 	 s 	 	have	 be 	 en 	 	 diagnos 	 ed 	 	,	and	all	these	data	are	fed	 in 	 to 	 	a	central	 re 	 posit 	 ory 	 	,	with	some	delay	.
+and	if	 every 	 thing 	 	 go 	 es 	 	 smooth 	 ly 	 	,	one	to	two	 week 	 s 	 	from	now	you	'll	know	where	the	 epi 	 demic 	 	was	 to 	 day 	 	.
+and	 actual 	 ly 	 	,	about	a	year	or	so	ago	,	there	was	 th 	 is 	 	 promulg 	 ation 	 	of	the	idea	of	google	flu	 trend 	 s 	 	,	with	respect	to	the	flu	,	where	by	looking	at	people	's	 search 	 ing 	 	behavior	 to 	 day 	 	,	we	could	know	where	the	flu	--	what	the	 stat 	 us 	 	of	the	 epi 	 demic 	 	was	 to 	 day 	 	,	what	's	the	 pre 	 valence 	 	of	the	 epi 	 demic 	 	 to 	 day 	 	.
+but	what	i	'd	like	to	show	you	 to 	 day 	 	is	a	 mean 	 s 	 	by	which	we	might	get	not	just	rapid	 war 	 ning 	 	about	an	 epi 	 demic 	 	,	but	 al 	 so 	 	 actual 	 ly 	 	early	 detect 	 ion 	 	of	an	 epi 	 demic 	 	.
+and	,	in	fact	,	 th 	 is 	 	idea	can	be	used	not	just	to	predict	 epi 	 demic 	 s 	 	of	 germ 	 s 	 	,	but	 al 	 so 	 	to	predict	 epi 	 demic 	 s 	 	of	all	 sort 	 s 	 	of	 kind 	 s 	 	.
+for	 ex 	 ample 	 	,	 any 	 thing 	 	that	 spread 	 s 	 	by	a	form	of	social	 con 	 tag 	 ion 	 	could	be	 under 	 stood 	 	in	 th 	 is 	 	way	,	from	abstract	 idea 	 s 	 	on	the	left	like	 patriot 	 ism 	 	,	or	 al 	 truism 	 	,	or	 relig 	 ion 	 	to	 practice 	 s 	 	like	 diet 	 ing 	 	behavior	,	or	book	 pur 	 chasing 	 	,	or	 drink 	 ing 	 	,	or	 bi 	 cycle 	 	-	helmet	[	and	]	other	 safe 	 ty 	 	 practice 	 s 	 	,	or	 product 	 s 	 	that	people	might	buy	,	 purchase 	 s 	 	of	 electron 	 ic 	 	 good 	 s 	 	,	 any 	 thing 	 	in	which	there	's	kind	of	an	 inter 	 personal 	 	spread	.
+a	kind	of	a	diffusion	of	 innov 	 ation 	 	could	be	 under 	 stood 	 	and	 predict 	 ed 	 	by	the	 mechan 	 ism 	 	i	'm	going	to	show	you	now	.
+so	,	 a 	 s 	 	all	of	you	 prob 	 ably 	 	know	,	the	classic	way	of	 think 	 ing 	 	about	 th 	 is 	 	is	the	diffusion	-	of	-	 innov 	 ation 	 	,	or	the	 adopt 	 ion 	 	 curv 	 e 	 	.
+so	here	on	the	y	-	axis	,	we	have	the	percent	of	the	people	 affect 	 ed 	 	,	and	on	the	x	-	axis	,	we	have	time	.
+and	at	the	 ver 	 y 	 	 begin 	 ning 	 	,	not	too	 man 	 y 	 	people	are	 affect 	 ed 	 	,	and	you	get	 th 	 is 	 	classic	 sigmoid 	 al 	 	,	or	s	-	shaped	,	 curv 	 e 	 	.
+and	the	reason	for	 th 	 is 	 	shape	is	that	at	the	 ver 	 y 	 	 begin 	 ning 	 	,	let	's	say	one	or	two	people	are	 infect 	 ed 	 	,	or	 affect 	 ed 	 	by	the	thing	and	then	they	affect	,	or	infect	,	two	people	,	who	in	turn	affect	four	,	eight	,	16	and	so	forth	,	and	you	get	the	 epi 	 demic 	 	growth	phase	of	the	 curv 	 e 	 	.
+and	 event 	 ual 	 ly 	 	,	you	saturate	the	population	.
+there	are	 few 	 er 	 	and	 few 	 er 	 	people	who	are	still	 avail 	 able 	 	that	you	might	infect	,	and	then	you	get	the	 plate 	 au 	 	of	the	 curv 	 e 	 	,	and	you	get	 th 	 is 	 	classic	 sigmoid 	 al 	 	 curv 	 e 	 	.
+and	 th 	 is 	 	 hold 	 s 	 	for	 germ 	 s 	 	,	 idea 	 s 	 	,	product	 adopt 	 ion 	 	,	 behavior 	 s 	 	,	and	the	like	.
+but	 thing 	 s 	 	do	n't	just	diffuse	in	human	 population 	 s 	 	at	random	.
+they	 actual 	 ly 	 	diffuse	through	 network 	 s 	 	.
+ be 	 cause 	 	,	 a 	 s 	 	i	 s 	 aid 	 	,	we	live	our	 live 	 s 	 	in	 network 	 s 	 	,	and	these	 network 	 s 	 	have	a	 part 	 icular 	 	kind	of	a	structure	.
+now	if	you	look	at	a	network	like	 th 	 is 	 	--	 th 	 is 	 	is	105	people	.
+and	the	lines	represent	--	the	 dot 	 s 	 	are	the	people	,	and	the	lines	represent	 friend 	 ship 	 	 relationship 	 s 	 	.
+you	might	see	that	people	occupy	different	 location 	 s 	 	 with 	 in 	 	the	network	.
+and	there	are	different	 kind 	 s 	 	of	 relationship 	 s 	 	between	the	people	.
+you	could	have	 friend 	 ship 	 	 relationship 	 s 	 	,	 s 	 i 	 bling 	 	 relationship 	 s 	 	,	 s 	 po 	 usal 	 	 relationship 	 s 	 	,	co	-	 work 	 er 	 	 relationship 	 s 	 	,	neighbor	 relationship 	 s 	 	and	the	like	.
+and	different	 sort 	 s 	 	of	 thing 	 s 	 	spread	 a 	 cross 	 	different	 sort 	 s 	 	of	ties	.
+for	 in 	 stance 	 	,	 sexual 	 ly 	 	 transmit 	 ted 	 	 disease 	 s 	 	will	spread	 a 	 cross 	 	sexual	ties	.
+or	,	for	 in 	 stance 	 	,	people	's	 smok 	 ing 	 	behavior	might	be	 influence 	 d 	 	by	 the 	 ir 	 	 friend 	 s 	 	.
+or	 the 	 ir 	 	 altruist 	 ic 	 	or	 the 	 ir 	 	 char 	 it 	 able 	 	giving	behavior	might	be	 influence 	 d 	 	by	 the 	 ir 	 	 co 	 work 	 ers 	 	,	or	by	 the 	 ir 	 	 neighbor 	 s 	 	.
+but	not	all	 position 	 s 	 	in	the	network	are	the	same	.
+so	if	you	look	at	 th 	 is 	 	,	you	might	 im 	 mediate 	 ly 	 	grasp	that	different	people	have	different	 number 	 s 	 	of	 connect 	 ions 	 	.
+some	people	have	one	 connect 	 ion 	 	,	some	have	two	,	some	have	six	,	some	have	10	 connect 	 ions 	 	.
+and	 th 	 is 	 	is	 call 	 ed 	 	the	``	degree	``	of	a	 no 	 de 	 	,	or	the	number	of	 connect 	 ions 	 	that	a	 no 	 de 	 	 ha 	 s 	 	.
+but	in	 add 	 ition 	 	,	there	's	 some 	 thing 	 	else	.
+so	,	if	you	look	at	 nod 	 es 	 	a	and	b	,	they	both	have	six	 connect 	 ions 	 	.
+but	if	you	can	see	 th 	 is 	 	image	[	of	the	network	]	from	a	bird	's	eye	view	,	you	can	appreciate	that	there	's	 some 	 thing 	 	 ver 	 y 	 	different	about	 nod 	 es 	 	a	and	b	.
+so	,	let	me	ask	you	 th 	 is 	 	--	i	can	 cultiv 	 ate 	 	 th 	 is 	 	 intuit 	 ion 	 	by	 ask 	 ing 	 	a	question	--	who	would	you	 ra 	 ther 	 	be	if	a	 dead 	 ly 	 	germ	was	 spread 	 ing 	 	through	the	network	,	a	or	b	?
+nicholas	christakis	:	b	,	it	's	obvious	.
+b	is	 locate 	 d 	 	on	the	edge	of	the	network	.
+now	,	who	would	you	 ra 	 ther 	 	be	if	a	 ju 	 ic 	 y 	 	piece	of	gossip	 we 	 re 	 	 spread 	 ing 	 	through	the	network	?
+a.	and	you	have	an	 im 	 mediate 	 	 appreci 	 ation 	 	that	a	is	going	to	be	more	 like 	 ly 	 	to	get	the	thing	that	's	 spread 	 ing 	 	and	to	get	it	 soon 	 er 	 	by	virtue	of	 the 	 ir 	 	structural	location	 with 	 in 	 	the	network	.
+a	,	in	fact	,	is	more	central	,	and	 th 	 is 	 	can	be	 form 	 al 	 ized 	 	 mathematic 	 ally 	 	.
+so	,	if	we	want	to	track	 some 	 thing 	 	that	was	 spread 	 ing 	 	through	a	network	,	what	we	 ideal 	 ly 	 	would	like	to	do	is	to	set	up	 sensor 	 s 	 	on	the	central	 individual 	 s 	 	 with 	 in 	 	the	network	,	 in 	 clud 	 ing 	 	 no 	 de 	 	a	,	monitor	 t 	 hose 	 	people	that	are	right	there	in	the	middle	of	the	network	,	and	 some 	 how 	 	get	an	early	 detect 	 ion 	 	of	 what 	 ever 	 	it	is	that	is	 spread 	 ing 	 	through	the	network	.
+so	if	you	saw	them	contract	a	germ	or	a	piece	of	information	,	you	would	know	that	,	soon	 en 	 ough 	 	,	 every 	 body 	 	was	about	to	contract	 th 	 is 	 	germ	or	 th 	 is 	 	piece	of	information	.
+and	 th 	 is 	 	would	be	much	better	than	 monitor 	 ing 	 	six	 random 	 ly 	 	 chose 	 n 	 	people	,	 with 	 out 	 	 re 	 ference 	 	to	the	structure	of	the	population	.
+and	in	fact	,	if	you	could	do	that	,	what	you	would	see	is	 some 	 thing 	 	like	 th 	 is 	 	.
+on	the	left	-	hand	 pan 	 el 	 	,	 aga 	 in 	 	,	we	have	the	s	-	shaped	 curv 	 e 	 	of	 adopt 	 ion 	 	.
+in	the	 dot 	 ted 	 	red	line	,	we	show	what	the	 adopt 	 ion 	 	would	be	in	the	random	people	,	and	in	the	left	-	hand	line	,	 shift 	 ed 	 	to	the	left	,	we	show	what	the	 adopt 	 ion 	 	would	be	in	the	central	 individual 	 s 	 	 with 	 in 	 	the	network	.
+on	the	y	-	axis	is	the	cumulative	 in 	 stance 	 s 	 	of	 con 	 tag 	 ion 	 	,	and	on	the	x	-	axis	is	the	time	.
+and	on	the	right	-	hand	side	,	we	show	the	same	data	,	but	here	with	 dai 	 ly 	 	incidence	.
+and	what	we	show	here	is	--	like	,	here	--	 ver 	 y 	 	few	people	are	 affect 	 ed 	 	,	more	and	more	and	more	and	up	to	here	,	and	here	's	the	peak	of	the	 epi 	 demic 	 	.
+but	 shift 	 ed 	 	to	the	left	is	what	's	 occur 	 ring 	 	in	the	central	 individual 	 s 	 	.
+and	 th 	 is 	 	 differ 	 ence 	 	in	time	between	the	two	is	the	early	 detect 	 ion 	 	,	the	early	 war 	 ning 	 	we	can	get	,	about	an	 imp 	 end 	 ing 	 	 epi 	 demic 	 	in	the	human	population	.
+the	problem	,	 how 	 ever 	 	,	is	that	mapping	human	social	 network 	 s 	 	is	not	 al 	 ways 	 	possible	.
+it	can	be	expensive	,	not	 feas 	 ible 	 	,	 un 	 ethic 	 al 	 	,	or	,	 frank 	 ly 	 	,	just	not	possible	to	do	 s 	 uch 	 	a	thing	.
+so	,	how	can	we	figure	out	who	the	central	people	are	in	a	network	 with 	 out 	 	 actual 	 ly 	 	mapping	the	network	?
+what	we	came	up	with	was	an	idea	to	exploit	an	old	fact	,	or	a	known	fact	,	about	social	 network 	 s 	 	,	which	 go 	 es 	 	like	 th 	 is 	 	:	do	you	know	that	your	 friend 	 s 	 	have	more	 friend 	 s 	 	than	you	do	?
+your	 friend 	 s 	 	have	more	 friend 	 s 	 	than	you	do	,	and	 th 	 is 	 	is	known	 a 	 s 	 	the	 friend 	 ship 	 	paradox	.
+imagine	a	 ver 	 y 	 	popular	person	in	the	social	network	--	like	a	party	host	who	 ha 	 s 	 	 hundred 	 s 	 	of	 friend 	 s 	 	--	and	a	 mis 	 anthro 	 pe 	 	who	 ha 	 s 	 	just	one	friend	,	and	you	pick	 some 	 one 	 	at	random	from	the	population	;	they	 we 	 re 	 	much	more	 like 	 ly 	 	to	know	the	party	host	.
+and	if	they	nominate	the	party	host	 a 	 s 	 	 the 	 ir 	 	friend	,	that	party	host	 ha 	 s 	 	a	hundred	 friend 	 s 	 	,	 there 	 fore 	 	,	 ha 	 s 	 	more	 friend 	 s 	 	than	they	do	.
+and	 th 	 is 	 	,	in	 es 	 s 	 ence 	 	,	is	what	's	known	 a 	 s 	 	the	 friend 	 ship 	 	paradox	.
+the	 friend 	 s 	 	of	 random 	 ly 	 	 chose 	 n 	 	people	have	 high 	 er 	 	degree	,	and	are	more	central	than	the	random	people	 them 	 s 	 elves 	 	.
+and	you	can	get	an	intuitive	 appreci 	 ation 	 	for	 th 	 is 	 	if	you	imagine	just	the	people	at	the	 peri 	 meter 	 	of	the	network	.
+if	you	pick	 th 	 is 	 	person	,	the	 on 	 ly 	 	friend	they	have	to	nominate	is	 th 	 is 	 	person	,	who	,	by	construction	,	must	have	at	 l 	 east 	 	two	and	 typical 	 ly 	 	more	 friend 	 s 	 	.
+and	that	 happen 	 s 	 	at	every	 per 	 iph 	 er 	 al 	 	 no 	 de 	 	.
+and	in	fact	,	it	 happen 	 s 	 	 through 	 out 	 	the	network	 a 	 s 	 	you	move	in	,	 every 	 one 	 	you	pick	,	when	they	nominate	a	random	--	when	a	random	person	 nominate 	 s 	 	a	friend	of	 the 	 ir 	 s 	 	,	you	move	 close 	 r 	 	to	the	center	of	the	network	.
+so	,	we	thought	we	would	exploit	 th 	 is 	 	idea	in	order	to	 stud 	 y 	 	 whet 	 her 	 	we	could	predict	 phenomen 	 a 	 	 with 	 in 	 	 network 	 s 	 	.
+ be 	 cause 	 	now	,	with	 th 	 is 	 	idea	we	can	take	a	random	 s 	 ample 	 	of	people	,	have	them	nominate	 the 	 ir 	 	 friend 	 s 	 	,	 t 	 hose 	 	 friend 	 s 	 	would	be	more	central	,	and	we	could	do	 th 	 is 	 	 with 	 out 	 	 hav 	 ing 	 	to	map	the	network	.
+and	we	tested	 th 	 is 	 	idea	with	an	 out 	 break 	 	of	h	1n1	flu	at	harvard	college	in	the	fall	and	winter	of	2009	,	just	a	few	 month 	 s 	 	ago	.
+we	took	1,300	 random 	 ly 	 	 select 	 ed 	 	 under 	 graduate 	 s 	 	,	we	had	them	nominate	 the 	 ir 	 	 friend 	 s 	 	,	and	we	 follow 	 ed 	 	both	the	random	 student 	 s 	 	and	 the 	 ir 	 	 friend 	 s 	 	 dai 	 ly 	 	in	time	to	see	 whet 	 her 	 	or	not	they	had	the	flu	 epi 	 demic 	 	.
+and	we	did	 th 	 is 	 	 pass 	 ively 	 	by	looking	at	 whet 	 her 	 	or	not	they	'd	gone	to	university	health	 service 	 s 	 	.
+and	 al 	 so 	 	,	we	had	them	[	 active 	 ly 	 	]	email	us	a	couple	of	 time 	 s 	 	a	week	.
+ exact 	 ly 	 	what	we	 predict 	 ed 	 	 happen 	 ed 	 	.
+so	the	random	group	is	in	the	red	line	.
+the	 epi 	 demic 	 	in	the	 friend 	 s 	 	group	 ha 	 s 	 	 shift 	 ed 	 	to	the	left	,	over	here	.
+and	the	 differ 	 ence 	 	in	the	two	is	16	 day 	 s 	 	.
+by	 monitor 	 ing 	 	the	 friend 	 s 	 	group	,	we	could	get	16	 day 	 s 	 	advance	 war 	 ning 	 	of	an	 imp 	 end 	 ing 	 	 epi 	 demic 	 	in	 th 	 is 	 	human	population	.
+now	,	in	 add 	 ition 	 	to	that	,	if	you	 we 	 re 	 	an	analyst	who	was	 try 	 ing 	 	to	 stud 	 y 	 	an	 epi 	 demic 	 	or	to	predict	the	 adopt 	 ion 	 	of	a	product	,	for	 ex 	 ample 	 	,	what	you	could	do	is	you	could	pick	a	random	 s 	 ample 	 	of	the	population	,	 al 	 so 	 	have	them	nominate	 the 	 ir 	 	 friend 	 s 	 	and	follow	the	 friend 	 s 	 	and	follow	both	the	 random 	 s 	 	and	the	 friend 	 s 	 	.
+among	the	 friend 	 s 	 	,	the	first	evidence	you	saw	of	a	 bli 	 p 	 	above	zero	in	 adopt 	 ion 	 	of	the	 innov 	 ation 	 	,	for	 ex 	 ample 	 	,	would	be	evidence	of	an	 imp 	 end 	 ing 	 	 epi 	 demic 	 	.
+or	you	could	see	the	first	time	the	two	 curv 	 es 	 	 diverge 	 d 	 	,	 a 	 s 	 	 show 	 n 	 	on	the	left	.
+when	did	the	 random 	 s 	 	--	when	did	the	 friend 	 s 	 	take	off	and	 leav 	 e 	 	the	 random 	 s 	 	,	and	[	when	did	]	 the 	 ir 	 	 curv 	 e 	 	start	shifting	?
+and	that	,	 a 	 s 	 	 indic 	 ated 	 	by	the	white	line	,	 occur 	 red 	 	46	 day 	 s 	 	before	the	peak	of	the	 epi 	 demic 	 	.
+so	 th 	 is 	 	would	be	a	 techni 	 que 	 	 where 	 by 	 	we	could	get	more	than	a	month	-	and	-	a	-	half	 war 	 ning 	 	about	a	flu	 epi 	 demic 	 	in	a	 part 	 icular 	 	population	.
+i	should	say	that	how	far	 advance 	 d 	 	a	notice	one	might	get	about	 some 	 thing 	 	 depend 	 s 	 	on	a	host	of	 factor 	 s 	 	.
+it	could	depend	on	the	nature	of	the	pathogen	--	different	 pathogen 	 s 	 	,	using	 th 	 is 	 	 techni 	 que 	 	,	you	'd	get	different	 war 	 ning 	 	--	or	other	 phenomen 	 a 	 	that	are	 spread 	 ing 	 	,	or	 frank 	 ly 	 	,	on	the	structure	of	the	human	network	.
+now	in	our	case	,	 al 	 th 	 ough 	 	it	was	n't	 necess 	 ary 	 	,	we	could	 al 	 so 	 	 actual 	 ly 	 	map	the	network	of	the	 student 	 s 	 	.
+so	,	 th 	 is 	 	is	a	map	of	714	 student 	 s 	 	and	 the 	 ir 	 	 friend 	 ship 	 	ties	.
+and	in	a	minute	now	,	i	'm	going	to	put	 th 	 is 	 	map	 in 	 to 	 	motion	.
+we	're	going	to	take	 dai 	 ly 	 	 cut 	 s 	 	through	the	network	for	120	 day 	 s 	 	.
+the	red	 dot 	 s 	 	are	going	to	be	 case 	 s 	 	of	the	flu	,	and	the	yellow	 dot 	 s 	 	are	going	to	be	 friend 	 s 	 	of	the	people	with	the	flu	.
+and	the	 s 	 ize 	 	of	the	 dot 	 s 	 	is	going	to	be	 proportion 	 al 	 	to	how	 man 	 y 	 	of	 the 	 ir 	 	 friend 	 s 	 	have	the	flu	.
+so	 big 	 ger 	 	 dot 	 s 	 	mean	more	of	your	 friend 	 s 	 	have	the	flu	.
+and	if	you	look	at	 th 	 is 	 	image	--	here	we	are	now	in	september	the	13th	--	you	're	going	to	see	a	few	 case 	 s 	 	light	up	.
+you	're	going	to	see	kind	of	 bloom 	 ing 	 	of	the	flu	in	the	middle	.
+here	we	are	on	october	the	19th	.
+the	 slop 	 e 	 	of	the	 epi 	 demic 	 	 curv 	 e 	 	is	 approach 	 ing 	 	now	,	in	november	.
+bang	,	bang	,	bang	,	bang	,	bang	--	you	're	going	to	see	 lot 	 s 	 	of	 bloom 	 ing 	 	in	the	middle	,	and	then	you	're	going	to	see	a	sort	of	 level 	 ing 	 	off	,	 few 	 er 	 	and	 few 	 er 	 	 case 	 s 	 	 to 	 ward 	 s 	 	the	end	of	december	.
+and	 th 	 is 	 	type	of	a	 visual 	 ization 	 	can	show	that	 epi 	 demic 	 s 	 	like	 th 	 is 	 	take	root	and	affect	central	 individual 	 s 	 	first	,	before	they	affect	 other 	 s 	 	.
+now	,	 a 	 s 	 	i	've	 be 	 en 	 	 suggest 	 ing 	 	,	 th 	 is 	 	method	is	not	 restrict 	 ed 	 	to	 germ 	 s 	 	,	but	 actual 	 ly 	 	to	 any 	 thing 	 	that	 spread 	 s 	 	in	 population 	 s 	 	.
+information	 spread 	 s 	 	in	 population 	 s 	 	,	 norm 	 s 	 	can	spread	in	 population 	 s 	 	,	 behavior 	 s 	 	can	spread	in	 population 	 s 	 	.
+and	by	 behavior 	 s 	 	,	i	can	mean	 thing 	 s 	 	like	criminal	behavior	,	or	 vot 	 ing 	 	behavior	,	or	health	care	behavior	,	like	 smok 	 ing 	 	,	or	 vaccin 	 ation 	 	,	or	product	 adopt 	 ion 	 	,	or	other	 kind 	 s 	 	of	 behavior 	 s 	 	that	 re 	 late 	 	to	 inter 	 personal 	 	influence	.
+if	i	'm	 like 	 ly 	 	to	do	 some 	 thing 	 	that	 affect 	 s 	 	 other 	 s 	 	around	me	,	 th 	 is 	 	 techni 	 que 	 	can	get	early	 war 	 ning 	 	or	early	 detect 	 ion 	 	about	the	 adopt 	 ion 	 	 with 	 in 	 	the	population	.
+the	key	thing	is	that	for	it	to	work	,	there	 ha 	 s 	 	to	be	 inter 	 personal 	 	influence	.
+it	can	not	be	 be 	 cause 	 	of	some	 broad 	 cast 	 	 mechan 	 ism 	 	 affect 	 ing 	 	 every 	 one 	 	 uniform 	 ly 	 	.
+now	the	same	 in 	 sight 	 s 	 	can	 al 	 so 	 	be	 exploit 	 ed 	 	--	with	respect	to	 network 	 s 	 	--	can	 al 	 so 	 	be	 exploit 	 ed 	 	in	other	ways	,	for	 ex 	 ample 	 	,	in	the	use	of	 target 	 ing 	 	specific	people	for	 intervention 	 s 	 	.
+so	,	for	 ex 	 ample 	 	,	most	of	you	are	 prob 	 ably 	 	familiar	with	the	 not 	 ion 	 	of	herd	 immun 	 ity 	 	.
+so	,	if	we	have	a	population	of	a	thousand	people	,	and	we	want	to	make	the	population	 immun 	 e 	 	to	a	pathogen	,	we	do	n't	have	to	 immun 	 ize 	 	every	single	person	.
+if	we	 immun 	 ize 	 	960	of	them	,	it	's	 a 	 s 	 	if	we	had	 immun 	 ized 	 	a	hundred	[	percent	]	of	them	.
+ be 	 cause 	 	even	if	one	or	two	of	the	non	-	 immun 	 e 	 	people	 get 	 s 	 	 infect 	 ed 	 	,	there	's	no	one	for	them	to	infect	.
+they	are	 surround 	 ed 	 	by	 immun 	 ized 	 	people	.
+so	96	percent	is	 a 	 s 	 	good	 a 	 s 	 	100	percent	.
+well	,	some	other	 scientist 	 s 	 	have	 estimate 	 d 	 	what	would	happen	if	you	took	a	30	percent	random	 s 	 ample 	 	of	these	1000	people	,	300	people	and	 immun 	 ized 	 	them	.
+would	you	get	any	population	-	level	 immun 	 ity 	 	?
+and	the	answer	is	no	.
+but	if	you	took	 th 	 is 	 	30	percent	,	these	300	people	and	had	them	nominate	 the 	 ir 	 	 friend 	 s 	 	and	took	the	same	number	of	 vaccin 	 e 	 	 dose 	 s 	 	and	 vaccin 	 ated 	 	the	 friend 	 s 	 	of	the	300	--	the	300	 friend 	 s 	 	--	you	can	get	the	same	level	of	herd	 immun 	 ity 	 	 a 	 s 	 	if	you	had	 vaccin 	 ated 	 	96	percent	of	the	population	at	a	much	 great 	 er 	 	efficiency	,	with	a	strict	budget	constraint	.
+and	similar	 idea 	 s 	 	can	be	used	,	for	 in 	 stance 	 	,	to	target	 distribut 	 ion 	 	of	 thing 	 s 	 	like	bed	 net 	 s 	 	in	the	 develop 	 ing 	 	world	.
+if	we	could	understand	the	structure	of	 network 	 s 	 	in	 village 	 s 	 	,	we	could	target	to	whom	to	give	the	 intervention 	 s 	 	to	foster	these	 kind 	 s 	 	of	 spread 	 s 	 	.
+or	,	 frank 	 ly 	 	,	for	 advert 	 is 	 ing 	 	with	all	 kind 	 s 	 	of	 product 	 s 	 	.
+if	we	could	understand	how	to	target	,	it	could	affect	the	efficiency	of	what	we	're	 try 	 ing 	 	to	 achiev 	 e 	 	.
+and	in	fact	,	we	can	use	data	from	all	 kind 	 s 	 	of	 source 	 s 	 	 now 	 a 	 day 	 s 	 	[	to	do	 th 	 is 	 	]	.
+ th 	 is 	 	is	a	map	of	eight	million	phone	 user 	 s 	 	in	a	european	country	.
+every	dot	is	a	person	,	and	every	line	 represent 	 s 	 	a	volume	of	 call 	 s 	 	between	the	people	.
+and	we	can	use	 s 	 uch 	 	data	,	that	's	 be 	 ing 	 	 pass 	 ively 	 	 obtain 	 ed 	 	,	to	map	these	whole	 count 	 ries 	 	and	understand	who	is	 locate 	 d 	 	where	 with 	 in 	 	the	network	.
+ with 	 out 	 	 actual 	 ly 	 	 hav 	 ing 	 	to	 que 	 ry 	 	them	at	all	,	we	can	get	 th 	 is 	 	kind	of	a	structural	 in 	 sight 	 	.
+and	other	 source 	 s 	 	of	information	,	 a 	 s 	 	you	're	no	doubt	aware	are	 avail 	 able 	 	about	 s 	 uch 	 	 feature 	 s 	 	,	from	email	 interact 	 ions 	 	,	 on 	 line 	 	 interact 	 ions 	 	,	 on 	 line 	 	social	 network 	 s 	 	and	so	forth	.
+and	in	fact	,	we	are	in	the	era	of	what	i	would	call	``	massive	-	 pass 	 ive 	 	``	data	 collect 	 ion 	 	 effort 	 s 	 	.
+they	're	all	 kind 	 s 	 	of	ways	we	can	use	 massive 	 ly 	 	 collect 	 ed 	 	data	to	create	sensor	 network 	 s 	 	to	follow	the	population	,	understand	what	's	 happen 	 ing 	 	in	the	population	,	and	 inter 	 vene 	 	in	the	population	for	the	better	.
+ be 	 cause 	 	these	new	 techno 	 logies 	 	tell	us	not	just	who	is	 talk 	 ing 	 	to	whom	,	but	where	 every 	 one 	 	is	,	and	what	they	're	 think 	 ing 	 	based	on	what	they	're	 upload 	 ing 	 	on	the	 inter 	 net 	 	,	and	what	they	're	 buy 	 ing 	 	based	on	 the 	 ir 	 	 purchase 	 s 	 	.
+and	all	 th 	 is 	 	 administr 	 ative 	 	data	can	be	 pull 	 ed 	 	together	and	 process 	 ed 	 	to	understand	human	behavior	in	a	way	we	never	could	before	.
+so	,	for	 ex 	 ample 	 	,	we	could	use	 truck 	 ers 	 	'	 purchase 	 s 	 	of	fuel	.
+so	the	 truck 	 ers 	 	are	just	going	about	 the 	 ir 	 	business	,	and	they	're	 buy 	 ing 	 	fuel	.
+and	we	see	a	 bli 	 p 	 	up	in	the	 truck 	 ers 	 	'	 purchase 	 s 	 	of	fuel	,	and	we	know	that	a	 recess 	 ion 	 	is	about	to	end	.
+or	we	can	monitor	the	 velo 	 city 	 	with	which	people	are	moving	with	 the 	 ir 	 	 phone 	 s 	 	on	a	 high 	 way 	 	,	and	the	phone	company	can	see	,	 a 	 s 	 	the	 velo 	 city 	 	is	 s 	 low 	 ing 	 	down	,	that	there	's	a	traffic	jam	.
+and	they	can	feed	that	information	back	to	 the 	 ir 	 	 sub 	 scribe 	 rs 	 	,	but	 on 	 ly 	 	to	 the 	 ir 	 	 sub 	 scribe 	 rs 	 	on	the	same	 high 	 way 	 	 locate 	 d 	 	 be 	 hind 	 	the	traffic	jam	!
+or	we	can	monitor	 doctor 	 s 	 	 pre 	 s 	 crib 	 ing 	 	 behavior 	 s 	 	,	 pass 	 ively 	 	,	and	see	how	the	diffusion	of	 innov 	 ation 	 	with	 pharmaceutical 	 s 	 	 occur 	 s 	 	 with 	 in 	 	[	 network 	 s 	 	of	]	 doctor 	 s 	 	.
+or	 aga 	 in 	 	,	we	can	monitor	 pur 	 chasing 	 	behavior	in	people	and	watch	how	these	 type 	 s 	 	of	 phenomen 	 a 	 	can	diffuse	 with 	 in 	 	human	 population 	 s 	 	.
+and	there	are	three	ways	,	i	think	,	that	these	massive	-	 pass 	 ive 	 	data	can	be	used	.
+one	is	fully	 pass 	 ive 	 	,	like	i	just	 de 	 scribed 	 	--	 a 	 s 	 	in	,	for	 in 	 stance 	 	,	the	 truck 	 er 	 	 ex 	 ample 	 	,	where	we	do	n't	 actual 	 ly 	 	 inter 	 vene 	 	in	the	population	in	any	way	.
+one	is	quasi	-	active	,	like	the	flu	 ex 	 ample 	 	i	 g 	 ave 	 	,	where	we	get	some	people	to	nominate	 the 	 ir 	 	 friend 	 s 	 	and	then	 pass 	 ively 	 	monitor	 the 	 ir 	 	 friend 	 s 	 	--	do	they	have	the	flu	,	or	not	?	--	and	then	get	 war 	 ning 	 	.
+or	 an 	 other 	 	 ex 	 ample 	 	would	be	,	if	you	're	a	phone	company	,	you	figure	out	who	's	central	in	the	network	and	you	ask	 t 	 hose 	 	people	,	``	look	,	will	you	just	text	us	your	 f 	 ever 	 	every	day	?
+just	text	us	your	temperature	.	``
+and	collect	vast	 amount 	 s 	 	of	information	about	people	's	temperature	,	but	from	 central 	 ly 	 	 locate 	 d 	 	 individual 	 s 	 	.
+and	be	able	,	on	a	large	scale	,	to	monitor	an	 imp 	 end 	 ing 	 	 epi 	 demic 	 	with	 ver 	 y 	 	minimal	 in 	 put 	 	from	people	.
+or	,	 final 	 ly 	 	,	it	can	be	more	fully	active	--	 a 	 s 	 	i	know	 sub 	 sequent 	 	 speaker 	 s 	 	will	 al 	 so 	 	talk	about	 to 	 day 	 	--	where	people	might	 global 	 ly 	 	 particip 	 ate 	 	in	 wiki 	 s 	 	,	or	 photograph 	 ing 	 	,	or	 monitor 	 ing 	 	 election 	 s 	 	,	and	upload	information	in	a	way	that	 allow 	 s 	 	us	to	pool	information	in	order	to	understand	social	 process 	 es 	 	and	social	 phenomen 	 a 	 	.
+in	fact	,	the	 avail 	 ability 	 	of	these	data	,	i	think	,	 herald 	 s 	 	a	kind	of	new	era	of	what	i	and	 other 	 s 	 	would	like	to	call	``	 computation 	 al 	 	social	science	.	``
+it	's	sort	of	like	when	galileo	 invent 	 ed 	 	--	or	,	did	n't	invent	--	came	to	use	a	 tele 	 scope 	 	and	could	see	the	 heaven 	 s 	 	in	a	new	way	,	or	leeuwenhoek	 be 	 came 	 	aware	of	the	 micro 	 scope 	 	--	or	 actual 	 ly 	 	 invent 	 ed 	 	--	and	could	see	biology	in	a	new	way	.
+but	now	we	have	access	to	these	 kind 	 s 	 	of	data	that	allow	us	to	understand	social	 process 	 es 	 	and	social	 phenomen 	 a 	 	in	an	 entire 	 ly 	 	new	way	that	was	never	before	possible	.
+and	with	 th 	 is 	 	science	,	we	can	understand	how	 exact 	 ly 	 	the	whole	 come 	 s 	 	to	be	 great 	 er 	 	than	the	sum	of	 it 	 s 	 	 part 	 s 	 	.
+and	 actual 	 ly 	 	,	we	can	use	these	 in 	 sight 	 s 	 	to	improve	 socie 	 ty 	 	and	improve	human	well	-	 be 	 ing 	 	.
+thank	you	.
+

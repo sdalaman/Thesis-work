@@ -1,0 +1,83 @@
+up_en until_en now_en ,_en our_en communication_en with_en machines_en has_en always_en been_en limited_en to_en conscious_en and_en direct_en forms_en ._en
+whether_en it_en 's_en something_en simple_en like_en turning_en on_en the_en lights_en with_en a_en switch_en ,_en or_en even_en as_en complex_en as_en programming_en robotics_en ,_en we_en have_en always_en had_en to_en give_en a_en command_en to_en a_en machine_en ,_en or_en even_en a_en series_en of_en commands_en ,_en in_en order_en for_en it_en to_en do_en something_en for_en us_en ._en
+communication_en between_en people_en ,_en on_en the_en other_en hand_en ,_en is_en far_en more_en complex_en and_en a_en lot_en more_en interesting_en because_en we_en take_en into_en account_en so_en much_en more_en than_en what_en is_en explicitly_en expressed_en ._en
+we_en observe_en facial_en expressions_en ,_en body_en language_en ,_en and_en we_en can_en intuit_en feelings_en and_en emotions_en from_en our_en dialogue_en with_en one_en another_en ._en
+this_en actually_en forms_en a_en large_en part_en of_en our_en decision_en -_en making_en process_en ._en
+our_en vision_en is_en to_en introduce_en this_en whole_en new_en realm_en of_en human_en interaction_en into_en human_en -_en computer_en interaction_en so_en that_en computers_en can_en understand_en not_en only_en what_en you_en direct_en it_en to_en do_en ,_en but_en it_en can_en also_en respond_en to_en your_en facial_en expressions_en and_en emotional_en experiences_en ._en
+and_en what_en better_en way_en to_en do_en this_en than_en by_en interpreting_en the_en signals_en naturally_en produced_en by_en our_en brain_en ,_en our_en center_en for_en control_en and_en experience_en ._en
+well_en ,_en it_en sounds_en like_en a_en pretty_en good_en idea_en ,_en but_en this_en task_en ,_en as_en bruno_en mentioned_en ,_en is_en n't_en an_en easy_en one_en for_en two_en main_en reasons_en :_en first_en ,_en the_en detection_en algorithms_en ._en
+our_en brain_en is_en made_en up_en of_en billions_en of_en active_en neurons_en ,_en around_en 170,000_en km_en of_en combined_en axon_en length_en ._en
+when_en these_en neurons_en interact_en ,_en the_en chemical_en reaction_en emits_en an_en electrical_en impulse_en ,_en which_en can_en be_en measured_en ._en
+the_en majority_en of_en our_en functional_en brain_en is_en distributed_en over_en the_en outer_en surface_en layer_en of_en the_en brain_en ,_en and_en to_en increase_en the_en area_en that_en 's_en available_en for_en mental_en capacity_en ,_en the_en brain_en surface_en is_en highly_en folded_en ._en
+now_en this_en cortical_en folding_en presents_en a_en significant_en challenge_en for_en interpreting_en surface_en electrical_en impulses_en ._en
+each_en individual_en 's_en cortex_en is_en folded_en differently_en ,_en very_en much_en like_en a_en fingerprint_en ._en
+so_en even_en though_en a_en signal_en may_en come_en from_en the_en same_en functional_en part_en of_en the_en brain_en ,_en by_en the_en time_en the_en structure_en has_en been_en folded_en ,_en its_en physical_en location_en is_en very_en different_en between_en individuals_en ,_en even_en identical_en twins_en ._en
+there_en is_en no_en longer_en any_en consistency_en in_en the_en surface_en signals_en ._en
+our_en breakthrough_en was_en to_en create_en an_en algorithm_en that_en unfolds_en the_en cortex_en ,_en so_en that_en we_en can_en map_en the_en signals_en closer_en to_en its_en source_en ,_en and_en therefore_en making_en it_en capable_en of_en working_en across_en a_en mass_en population_en ._en
+the_en second_en challenge_en is_en the_en actual_en device_en for_en observing_en brainwaves_en ._en
+eeg_en measurements_en typically_en involve_en a_en hairnet_en with_en an_en array_en of_en sensors_en ,_en like_en the_en one_en that_en you_en can_en see_en here_en in_en the_en photo_en ._en
+a_en technician_en will_en put_en the_en electrodes_en onto_en the_en scalp_en using_en a_en conductive_en gel_en or_en paste_en and_en usually_en after_en a_en procedure_en of_en preparing_en the_en scalp_en by_en light_en abrasion_en ._en
+now_en this_en is_en quite_en time_en consuming_en and_en is_en n't_en the_en most_en comfortable_en process_en ._en
+and_en on_en top_en of_en that_en ,_en these_en systems_en actually_en cost_en in_en the_en tens_en of_en thousands_en of_en dollars_en ._en
+so_en with_en that_en ,_en i_en 'd_en like_en to_en invite_en onstage_en evan_en grant_en ,_en who_en is_en one_en of_en last_en year_en 's_en speakers_en ,_en who_en 's_en kindly_en agreed_en to_en help_en me_en to_en demonstrate_en what_en we_en 've_en been_en able_en to_en develop_en ._en
+so_en the_en device_en that_en you_en see_en is_en a_en 14_en -_en channel_en ,_en high_en -_en fidelity_en eeg_en acquisition_en system_en ._en
+it_en does_en n't_en require_en any_en scalp_en preparation_en ,_en no_en conductive_en gel_en or_en paste_en ._en
+it_en only_en takes_en a_en few_en minutes_en to_en put_en on_en and_en for_en the_en signals_en to_en settle_en ._en
+it_en 's_en also_en wireless_en ,_en so_en it_en gives_en you_en the_en freedom_en to_en move_en around_en ._en
+and_en compared_en to_en the_en tens_en of_en thousands_en of_en dollars_en for_en a_en traditional_en eeg_en system_en ,_en this_en headset_en only_en costs_en a_en few_en hundred_en dollars_en ._en
+now_en on_en to_en the_en detection_en algorithms_en ._en
+so_en facial_en expressions_en --_en as_en i_en mentioned_en before_en in_en emotional_en experiences_en --_en are_en actually_en designed_en to_en work_en out_en of_en the_en box_en with_en some_en sensitivity_en adjustments_en available_en for_en personalization_en ._en
+but_en with_en the_en limited_en time_en we_en have_en available_en ,_en i_en 'd_en like_en to_en show_en you_en the_en cognitive_en suite_en ,_en which_en is_en the_en ability_en for_en you_en to_en basically_en move_en virtual_en objects_en with_en your_en mind_en ._en
+now_en ,_en evan_en is_en new_en to_en this_en system_en ,_en so_en what_en we_en have_en to_en do_en first_en is_en create_en a_en new_en profile_en for_en him_en ._en
+he_en 's_en obviously_en not_en joanne_en --_en so_en we_en 'll_en "_en add_en user_en ._en "_en
+evan_en ._en okay_en ._en
+so_en the_en first_en thing_en we_en need_en to_en do_en with_en the_en cognitive_en suite_en is_en to_en start_en with_en training_en a_en neutral_en signal_en ._en
+with_en neutral_en ,_en there_en 's_en nothing_en in_en particular_en that_en evan_en needs_en to_en do_en ._en
+he_en just_en hangs_en out_en ._en he_en 's_en relaxed_en ._en
+and_en the_en idea_en is_en to_en establish_en a_en baseline_en or_en normal_en state_en for_en his_en brain_en ,_en because_en every_en brain_en is_en different_en ._en
+it_en takes_en eight_en seconds_en to_en do_en this_en ,_en and_en now_en that_en that_en 's_en done_en ,_en we_en can_en choose_en a_en movement_en -_en based_en action_en ._en
+so_en evan_en ,_en choose_en something_en that_en you_en can_en visualize_en clearly_en in_en your_en mind_en ._en
+evan_en grant_en :_en let_en 's_en do_en "_en pull_en ._en "_en
+tan_en le_en :_en okay_en ,_en so_en let_en 's_en choose_en "_en pull_en ._en "_en
+so_en the_en idea_en here_en now_en is_en that_en evan_en needs_en to_en imagine_en the_en object_en coming_en forward_en into_en the_en screen_en ,_en and_en there_en 's_en a_en progress_en bar_en that_en will_en scroll_en across_en the_en screen_en while_en he_en 's_en doing_en that_en ._en
+the_en first_en time_en ,_en nothing_en will_en happen_en ,_en because_en the_en system_en has_en no_en idea_en how_en he_en thinks_en about_en "_en pull_en ._en "_en
+but_en maintain_en that_en thought_en for_en the_en entire_en duration_en of_en the_en eight_en seconds_en ._en
+so_en :_en one_en ,_en two_en ,_en three_en ,_en go_en ._en
+okay_en ._en
+so_en once_en we_en accept_en this_en ,_en the_en cube_en is_en live_en ._en
+so_en let_en 's_en see_en if_en evan_en can_en actually_en try_en and_en imagine_en pulling_en ._en
+ah_en ,_en good_en job_en !_en
+that_en 's_en really_en amazing_en ._en
+so_en we_en have_en a_en little_en bit_en of_en time_en available_en ,_en so_en i_en 'm_en going_en to_en ask_en evan_en to_en do_en a_en really_en difficult_en task_en ._en
+and_en this_en one_en is_en difficult_en because_en it_en 's_en all_en about_en being_en able_en to_en visualize_en something_en that_en does_en n't_en exist_en in_en our_en physical_en world_en ._en
+this_en is_en "_en disappear_en ._en "_en
+so_en what_en you_en want_en to_en do_en --_en at_en least_en with_en movement_en -_en based_en actions_en ,_en we_en do_en that_en all_en the_en time_en ,_en so_en you_en can_en visualize_en it_en ._en
+but_en with_en "_en disappear_en ,_en "_en there_en 's_en really_en no_en analogies_en --_en so_en evan_en ,_en what_en you_en want_en to_en do_en here_en is_en to_en imagine_en the_en cube_en slowly_en fading_en out_en ,_en okay_en ._en
+same_en sort_en of_en drill_en ._en so_en :_en one_en ,_en two_en ,_en three_en ,_en go_en ._en
+okay_en ._en let_en 's_en try_en that_en ._en
+oh_en ,_en my_en goodness_en ._en he_en 's_en just_en too_en good_en ._en
+let_en 's_en try_en that_en again_en ._en
+eg_en :_en losing_en concentration_en ._en
+tl_en :_en but_en we_en can_en see_en that_en it_en actually_en works_en ,_en even_en though_en you_en can_en only_en hold_en it_en for_en a_en little_en bit_en of_en time_en ._en
+as_en i_en said_en ,_en it_en 's_en a_en very_en difficult_en process_en to_en imagine_en this_en ._en
+and_en the_en great_en thing_en about_en it_en is_en that_en we_en 've_en only_en given_en the_en software_en one_en instance_en of_en how_en he_en thinks_en about_en "_en disappear_en ._en "_en
+as_en there_en is_en a_en machine_en learning_en algorithm_en in_en this_en --_en thank_en you_en ._en
+good_en job_en ._en good_en job_en ._en
+thank_en you_en ,_en evan_en ,_en you_en 're_en a_en wonderful_en ,_en wonderful_en example_en of_en the_en technology_en ._en
+so_en ,_en as_en you_en can_en see_en ,_en before_en ,_en there_en is_en a_en leveling_en system_en built_en into_en this_en software_en so_en that_en as_en evan_en ,_en or_en any_en user_en ,_en becomes_en more_en familiar_en with_en the_en system_en ,_en they_en can_en continue_en to_en add_en more_en and_en more_en detections_en ,_en so_en that_en the_en system_en begins_en to_en differentiate_en between_en different_en distinct_en thoughts_en ._en
+and_en once_en you_en 've_en trained_en up_en the_en detections_en ,_en these_en thoughts_en can_en be_en assigned_en or_en mapped_en to_en any_en computing_en platform_en ,_en application_en or_en device_en ._en
+so_en i_en 'd_en like_en to_en show_en you_en a_en few_en examples_en ,_en because_en there_en are_en many_en possible_en applications_en for_en this_en new_en interface_en ._en
+in_en games_en and_en virtual_en worlds_en ,_en for_en example_en ,_en your_en facial_en expressions_en can_en naturally_en and_en intuitively_en be_en used_en to_en control_en an_en avatar_en or_en virtual_en character_en ._en
+obviously_en ,_en you_en can_en experience_en the_en fantasy_en of_en magic_en and_en control_en the_en world_en with_en your_en mind_en ._en
+and_en also_en ,_en colors_en ,_en lighting_en ,_en sound_en and_en effects_en can_en dynamically_en respond_en to_en your_en emotional_en state_en to_en heighten_en the_en experience_en that_en you_en 're_en having_en ,_en in_en real_en time_en ._en
+and_en moving_en on_en to_en some_en applications_en developed_en by_en developers_en and_en researchers_en around_en the_en world_en ,_en with_en robots_en and_en simple_en machines_en ,_en for_en example_en --_en in_en this_en case_en ,_en flying_en a_en toy_en helicopter_en simply_en by_en thinking_en "_en lift_en "_en with_en your_en mind_en ._en
+the_en technology_en can_en also_en be_en applied_en to_en real_en world_en applications_en --_en in_en this_en example_en ,_en a_en smart_en home_en ._en
+you_en know_en ,_en from_en the_en user_en interface_en of_en the_en control_en system_en to_en opening_en curtains_en or_en closing_en curtains_en ._en
+and_en of_en course_en ,_en also_en to_en the_en lighting_en --_en turning_en them_en on_en or_en off_en ._en
+and_en finally_en ,_en to_en real_en life_en -_en changing_en applications_en ,_en such_en as_en being_en able_en to_en control_en an_en electric_en wheelchair_en ._en
+in_en this_en example_en ,_en facial_en expressions_en are_en mapped_en to_en the_en movement_en commands_en ._en
+man_en :_en now_en blink_en right_en to_en go_en right_en ._en
+now_en blink_en left_en to_en turn_en back_en left_en ._en
+now_en smile_en to_en go_en straight_en ._en
+tl_en :_en we_en really_en --_en thank_en you_en ._en
+we_en are_en really_en only_en scratching_en the_en surface_en of_en what_en is_en possible_en today_en ,_en and_en with_en the_en community_en 's_en input_en ,_en and_en also_en with_en the_en involvement_en of_en developers_en and_en researchers_en from_en around_en the_en world_en ,_en we_en hope_en that_en you_en can_en help_en us_en to_en shape_en where_en the_en technology_en goes_en from_en here_en ._en thank_en you_en so_en much_en ._en

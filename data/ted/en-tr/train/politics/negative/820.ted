@@ -1,0 +1,202 @@
+so_en ,_en the_en first_en robot_en to_en talk_en about_en is_en called_en strider_en ._en
+it_en stands_en for_en self_en -_en excited_en tripedal_en dynamic_en experimental_en robot_en ._en
+it_en 's_en a_en robot_en that_en has_en three_en legs_en ,_en which_en is_en inspired_en by_en nature_en ._en
+but_en have_en you_en seen_en anything_en in_en nature_en ,_en an_en animal_en that_en has_en three_en legs_en ?_en
+probably_en not_en ._en so_en ,_en why_en do_en i_en call_en this_en a_en biologically_en inspired_en robot_en ?_en how_en would_en it_en work_en ?_en
+but_en before_en that_en ,_en let_en 's_en look_en at_en pop_en culture_en ._en
+so_en ,_en you_en know_en h.g._en wells_en '_en "_en war_en of_en the_en worlds_en ,_en "_en novel_en and_en movie_en ._en
+and_en what_en you_en see_en over_en here_en is_en a_en very_en popular_en video_en game_en ,_en and_en in_en this_en fiction_en they_en describe_en these_en alien_en creatures_en that_en are_en robots_en that_en have_en three_en legs_en that_en terrorize_en earth_en ._en
+but_en my_en robot_en ,_en strider_en ,_en does_en not_en move_en like_en this_en ._en
+so_en ,_en this_en is_en an_en actual_en dynamic_en simulation_en animation_en ._en
+i_en 'm_en just_en going_en to_en show_en you_en how_en the_en robot_en works_en ._en
+it_en flips_en its_en body_en 180_en degrees_en and_en it_en swings_en its_en leg_en between_en the_en two_en legs_en and_en catches_en the_en fall_en ._en
+so_en ,_en that_en 's_en how_en it_en walks_en ._en but_en when_en you_en look_en at_en us_en human_en being_en ,_en bipedal_en walking_en ,_en what_en you_en 're_en doing_en is_en you_en 're_en not_en really_en using_en a_en muscle_en to_en lift_en your_en leg_en and_en walk_en like_en a_en robot_en ._en right_en ?_en
+what_en you_en 're_en doing_en is_en you_en really_en swing_en your_en leg_en and_en catch_en the_en fall_en ,_en stand_en up_en again_en ,_en swing_en your_en leg_en and_en catch_en the_en fall_en ._en
+you_en 're_en using_en your_en built_en -_en in_en dynamics_en ,_en the_en physics_en of_en your_en body_en ,_en just_en like_en a_en pendulum_en ._en
+we_en call_en that_en the_en concept_en of_en passive_en dynamic_en locomotion_en ._en
+what_en you_en 're_en doing_en is_en ,_en when_en you_en stand_en up_en ,_en potential_en energy_en to_en kinetic_en energy_en ,_en potential_en energy_en to_en kinetic_en energy_en ._en
+it_en 's_en a_en constantly_en falling_en process_en ._en
+so_en ,_en even_en though_en there_en is_en nothing_en in_en nature_en that_en looks_en like_en this_en ,_en really_en ,_en we_en were_en inspired_en by_en biology_en and_en applying_en the_en principles_en of_en walking_en to_en this_en robot_en ._en thus_en it_en 's_en a_en biologically_en inspired_en robot_en ._en
+what_en you_en see_en over_en here_en ,_en this_en is_en what_en we_en want_en to_en do_en next_en ._en
+we_en want_en to_en fold_en up_en the_en legs_en and_en shoot_en it_en up_en for_en long_en -_en range_en motion_en ._en
+and_en it_en deploys_en legs_en --_en it_en looks_en almost_en like_en "_en star_en wars_en "_en --_en when_en it_en lands_en ,_en it_en absorbs_en the_en shock_en and_en starts_en walking_en ._en
+what_en you_en see_en over_en here_en ,_en this_en yellow_en thing_en ,_en this_en is_en not_en a_en death_en ray_en ._en
+this_en is_en just_en to_en show_en you_en that_en if_en you_en have_en cameras_en or_en different_en types_en of_en sensors_en --_en because_en it_en is_en tall_en ,_en it_en 's_en 1.8_en meters_en tall_en --_en you_en can_en see_en over_en obstacles_en like_en bushes_en and_en those_en kinds_en of_en things_en ._en
+so_en we_en have_en two_en prototypes_en ._en
+the_en first_en version_en ,_en in_en the_en back_en ,_en that_en 's_en strider_en i._en
+the_en one_en in_en front_en ,_en the_en smaller_en ,_en is_en strider_en ii_en ._en
+the_en problem_en that_en we_en had_en with_en strider_en i_en is_en it_en was_en just_en too_en heavy_en in_en the_en body_en ._en we_en had_en so_en many_en motors_en ,_en you_en know_en ,_en aligning_en the_en joints_en ,_en and_en those_en kinds_en of_en things_en ._en
+so_en ,_en we_en decided_en to_en synthesize_en a_en mechanical_en mechanism_en so_en we_en could_en get_en rid_en of_en all_en the_en motors_en ,_en and_en with_en a_en single_en motor_en we_en can_en coordinate_en all_en the_en motions_en ._en
+it_en 's_en a_en mechanical_en solution_en to_en a_en problem_en ,_en instead_en of_en using_en mechatronics_en ._en
+so_en ,_en with_en this_en now_en the_en top_en body_en is_en light_en enough_en ._en so_en ,_en it_en 's_en walking_en in_en our_en lab_en ;_en this_en was_en the_en very_en first_en successful_en step_en ._en
+it_en 's_en still_en not_en perfected_en --_en its_en coffee_en falls_en down_en --_en so_en we_en still_en have_en a_en lot_en of_en work_en to_en do_en ._en
+the_en second_en robot_en i_en want_en to_en talk_en about_en is_en called_en impass_en ._en
+it_en stands_en for_en intelligent_en mobility_en platform_en with_en actuated_en spoke_en system_en ._en
+so_en ,_en it_en 's_en a_en wheel_en -_en leg_en hybrid_en robot_en ._en
+so_en ,_en think_en of_en a_en rimless_en wheel_en or_en a_en spoke_en wheel_en ,_en but_en the_en spokes_en individually_en move_en in_en and_en out_en of_en the_en hub_en ;_en so_en ,_en it_en 's_en a_en wheel_en -_en leg_en hybrid_en ._en
+we_en are_en literally_en re_en -_en inventing_en the_en wheel_en here_en ._en
+let_en me_en demonstrate_en how_en it_en works_en ._en
+so_en ,_en in_en this_en video_en we_en 're_en using_en an_en approach_en called_en the_en reactive_en approach_en ._en
+just_en simply_en using_en the_en tactile_en sensors_en on_en the_en feet_en ,_en it_en 's_en trying_en to_en walk_en over_en a_en changing_en terrain_en ,_en a_en soft_en terrain_en where_en it_en pushes_en down_en and_en changes_en ._en
+and_en just_en by_en the_en tactile_en information_en ,_en it_en successfully_en crosses_en over_en these_en type_en of_en terrain_en ._en
+but_en ,_en when_en it_en encounters_en a_en very_en extreme_en terrain_en ,_en in_en this_en case_en ,_en this_en obstacle_en is_en more_en than_en three_en times_en the_en height_en of_en the_en robot_en ,_en then_en it_en switches_en to_en a_en deliberate_en mode_en ,_en where_en it_en uses_en a_en laser_en range_en finder_en ,_en and_en camera_en systems_en ,_en to_en identify_en the_en obstacle_en and_en the_en size_en ,_en and_en it_en plans_en ,_en carefully_en plans_en the_en motion_en of_en the_en spokes_en and_en coordinates_en it_en so_en that_en it_en can_en show_en this_en kind_en of_en very_en very_en impressive_en mobility_en ._en
+you_en probably_en have_en n't_en seen_en anything_en like_en this_en out_en there_en ._en
+this_en is_en a_en very_en high_en mobility_en robot_en that_en we_en developed_en called_en impass_en ._en
+ah_en ,_en is_en n't_en that_en cool_en ?_en
+when_en you_en drive_en your_en car_en ,_en when_en you_en steer_en your_en car_en ,_en you_en use_en a_en method_en called_en ackermann_en steering_en ._en
+the_en front_en wheels_en rotate_en like_en this_en ._en
+for_en most_en small_en wheeled_en robots_en ,_en they_en use_en a_en method_en called_en differential_en steering_en where_en the_en left_en and_en right_en wheel_en turns_en the_en opposite_en direction_en ._en
+for_en impass_en ,_en we_en can_en do_en many_en ,_en many_en different_en types_en of_en motion_en ._en
+for_en example_en ,_en in_en this_en case_en ,_en even_en though_en the_en left_en and_en right_en wheel_en is_en connected_en with_en a_en single_en axle_en rotating_en at_en the_en same_en angle_en of_en velocity_en ._en
+we_en just_en simply_en change_en the_en length_en of_en the_en spoke_en ._en
+it_en affects_en the_en diameter_en and_en then_en can_en turn_en to_en the_en left_en ,_en turn_en to_en the_en right_en ._en
+so_en ,_en these_en are_en just_en some_en examples_en of_en the_en neat_en things_en that_en we_en can_en do_en with_en impass_en ._en
+this_en robot_en is_en called_en climber_en :_en cable_en -_en suspended_en limbed_en intelligent_en matching_en behavior_en robot_en ._en
+so_en ,_en i_en 've_en been_en talking_en to_en a_en lot_en of_en nasa_en jpl_en scientists_en --_en at_en jpl_en they_en are_en famous_en for_en the_en mars_en rovers_en --_en and_en the_en scientists_en ,_en geologists_en always_en tell_en me_en that_en the_en real_en interesting_en science_en ,_en the_en science_en -_en rich_en sites_en ,_en are_en always_en at_en the_en cliffs_en ._en
+but_en the_en current_en rovers_en cannot_en get_en there_en ._en
+so_en ,_en inspired_en by_en that_en we_en wanted_en to_en build_en a_en robot_en that_en can_en climb_en a_en structured_en cliff_en environment_en ._en
+so_en ,_en this_en is_en climber_en ._en
+so_en ,_en what_en it_en does_en ,_en it_en has_en three_en legs_en ._en it_en 's_en probably_en difficult_en to_en see_en ,_en but_en it_en has_en a_en winch_en and_en a_en cable_en at_en the_en top_en --_en and_en it_en tries_en to_en figure_en out_en the_en best_en place_en to_en put_en its_en foot_en ._en
+and_en then_en once_en it_en figures_en that_en out_en in_en real_en time_en ,_en it_en calculates_en the_en force_en distribution_en :_en how_en much_en force_en it_en needs_en to_en exert_en to_en the_en surface_en so_en it_en does_en n't_en tip_en and_en does_en n't_en slip_en ._en
+once_en it_en stabilizes_en that_en ,_en it_en lifts_en a_en foot_en ,_en and_en then_en with_en the_en winch_en it_en can_en climb_en up_en these_en kinds_en of_en thing_en ._en
+also_en for_en search_en and_en rescue_en applications_en as_en well_en ._en
+five_en years_en ago_en i_en actually_en worked_en at_en nasa_en jpl_en during_en the_en summer_en as_en a_en faculty_en fellow_en ._en
+and_en they_en already_en had_en a_en six_en legged_en robot_en called_en lemur_en ._en
+so_en ,_en this_en is_en actually_en based_en on_en that_en ._en this_en robot_en is_en called_en mars_en :_en multi_en -_en appendage_en robotic_en system_en ._en so_en ,_en it_en 's_en a_en hexapod_en robot_en ._en
+we_en developed_en our_en adaptive_en gait_en planner_en ._en
+we_en actually_en have_en a_en very_en interesting_en payload_en on_en there_en ._en
+the_en students_en like_en to_en have_en fun_en ._en and_en here_en you_en can_en see_en that_en it_en 's_en walking_en over_en unstructured_en terrain_en ._en
+it_en 's_en trying_en to_en walk_en on_en the_en coarse_en terrain_en ,_en sandy_en area_en ,_en but_en depending_en on_en the_en moisture_en content_en or_en the_en grain_en size_en of_en the_en sand_en the_en foot_en 's_en soil_en sinkage_en model_en changes_en ._en
+so_en ,_en it_en tries_en to_en adapt_en its_en gait_en to_en successfully_en cross_en over_en these_en kind_en of_en things_en ._en
+and_en also_en ,_en it_en does_en some_en fun_en stuff_en ,_en as_en can_en imagine_en ._en
+we_en get_en so_en many_en visitors_en visiting_en our_en lab._en
+so_en ,_en when_en the_en visitors_en come_en ,_en mars_en walks_en up_en to_en the_en computer_en ,_en starts_en typing_en "_en hello_en ,_en my_en name_en is_en mars_en ._en "_en
+welcome_en to_en romela_en ,_en the_en robotics_en mechanisms_en laboratory_en at_en virginia_en tech_en ._en
+this_en robot_en is_en an_en amoeba_en robot_en ._en
+now_en ,_en we_en do_en n't_en have_en enough_en time_en to_en go_en into_en technical_en details_en ,_en i_en 'll_en just_en show_en you_en some_en of_en the_en experiments_en ._en
+so_en ,_en this_en is_en some_en of_en the_en early_en feasibility_en experiments_en ._en
+we_en store_en potential_en energy_en to_en the_en elastic_en skin_en to_en make_en it_en move_en ._en
+or_en use_en an_en active_en tension_en cords_en to_en make_en it_en move_en forward_en and_en backward_en ._en it_en 's_en called_en chimera_en ._en
+we_en also_en have_en been_en working_en with_en some_en scientists_en and_en engineers_en from_en upenn_en to_en come_en up_en with_en a_en chemically_en actuated_en version_en of_en this_en amoeba_en robot_en ._en
+we_en do_en something_en to_en something_en and_en just_en like_en magic_en ,_en it_en moves_en ._en the_en blob_en ._en
+this_en robot_en is_en a_en very_en recent_en project_en ._en it_en 's_en called_en raphael_en ._en
+robotic_en air_en powered_en hand_en with_en elastic_en ligaments_en ._en
+there_en are_en a_en lot_en of_en really_en neat_en ,_en very_en good_en robotic_en hands_en out_en there_en in_en the_en market_en ._en
+the_en problem_en is_en they_en 're_en just_en too_en expensive_en ,_en tens_en of_en thousands_en of_en dollars_en ._en
+so_en ,_en for_en prosthesis_en applications_en it_en 's_en probably_en not_en too_en practical_en ,_en because_en it_en 's_en not_en affordable_en ._en
+we_en wanted_en to_en go_en tackle_en this_en problem_en in_en a_en very_en different_en direction_en ._en
+instead_en of_en using_en electrical_en motors_en ,_en electromechanical_en actuators_en ,_en we_en 're_en using_en compressed_en air_en ._en
+we_en developed_en these_en novel_en actuators_en for_en joints_en ._en
+it_en is_en compliant_en ._en you_en can_en actually_en change_en the_en force_en ,_en simply_en just_en changing_en the_en air_en pressure_en ._en
+and_en it_en can_en actually_en crush_en an_en empty_en soda_en can_en ._en
+it_en can_en pick_en up_en very_en delicate_en objects_en like_en a_en raw_en egg_en ,_en or_en in_en this_en case_en ,_en a_en lightbulb_en ._en
+the_en best_en part_en ,_en it_en took_en only_en $_en 200_en dollars_en to_en make_en the_en first_en prototype_en ._en
+this_en robot_en is_en actually_en a_en family_en of_en snake_en robots_en that_en we_en call_en hydras_en ,_en hyper_en degrees_en -_en of_en -_en freedom_en robotic_en articulated_en serpentine_en ._en
+this_en is_en a_en robot_en that_en can_en climb_en structures_en ._en
+this_en is_en a_en hydras_en 's_en arm_en ._en
+it_en 's_en a_en 12_en degrees_en of_en freedom_en robotic_en arm_en ._en
+but_en the_en cool_en part_en is_en the_en user_en interface_en ._en
+the_en cable_en over_en there_en ,_en that_en 's_en an_en optical_en fiber_en ._en
+and_en this_en student_en ,_en probably_en the_en first_en time_en using_en it_en ,_en but_en she_en can_en articulate_en it_en many_en different_en ways_en ._en
+so_en ,_en for_en example_en in_en iraq_en ,_en you_en know_en ,_en the_en war_en zone_en ,_en there_en is_en roadside_en bombs_en ._en currently_en you_en send_en these_en remotely_en controlled_en vehicles_en that_en are_en armed_en ._en
+it_en takes_en really_en a_en lot_en of_en time_en and_en it_en 's_en expensive_en to_en train_en the_en operator_en to_en operate_en this_en complex_en arm_en ._en
+in_en this_en case_en it_en 's_en very_en intuitive_en ;_en this_en student_en ,_en probably_en his_en first_en time_en using_en it_en ,_en doing_en very_en complex_en manipulation_en tasks_en ,_en picking_en up_en objects_en and_en doing_en manipulation_en ,_en just_en like_en that_en ._en very_en intuitive_en ._en
+now_en ,_en this_en robot_en is_en currently_en our_en star_en robot_en ._en
+we_en actually_en have_en a_en fan_en club_en for_en the_en robot_en ,_en darwin_en :_en dynamic_en anthropomorphic_en robot_en with_en intelligence_en ._en
+as_en you_en know_en ,_en we_en are_en very_en interested_en in_en humanoid_en robot_en ,_en human_en walking_en ,_en so_en we_en decided_en to_en build_en a_en small_en humanoid_en robot_en ._en
+this_en was_en in_en 2004_en ;_en at_en that_en time_en ,_en this_en was_en something_en really_en ,_en really_en revolutionary_en ._en
+this_en was_en more_en of_en a_en feasibility_en study_en :_en what_en kind_en of_en motors_en should_en we_en use_en ?_en
+is_en it_en even_en possible_en ?_en what_en kinds_en of_en controls_en should_en we_en do_en ?_en
+so_en ,_en this_en does_en not_en have_en any_en sensors_en ._en
+so_en ,_en it_en 's_en an_en open_en loop_en control_en ._en
+for_en those_en who_en probably_en know_en ,_en if_en you_en do_en n't_en have_en any_en sensors_en and_en there_en are_en any_en disturbances_en ,_en you_en know_en what_en happens_en ._en
+so_en ,_en based_en on_en that_en success_en ,_en the_en following_en year_en we_en did_en the_en proper_en mechanical_en design_en starting_en from_en kinematics_en ._en
+and_en thus_en ,_en darwin_en i_en was_en born_en in_en 2005_en ._en
+it_en stands_en up_en ,_en it_en walks_en --_en very_en impressive_en ._en
+however_en ,_en still_en ,_en as_en you_en can_en see_en ,_en it_en has_en a_en cord_en ,_en umbilical_en cord_en ._en so_en ,_en we_en 're_en still_en using_en an_en external_en power_en source_en and_en external_en computation_en ._en
+so_en ,_en in_en 2006_en ,_en now_en it_en 's_en really_en time_en to_en have_en fun_en ._en
+let_en 's_en give_en it_en intelligence_en ._en we_en give_en it_en all_en the_en computing_en power_en it_en needs_en :_en a_en 1.5_en gigahertz_en pentium_en m_en chip_en ,_en two_en firewire_en cameras_en ,_en rate_en gyros_en ,_en accelerometers_en ,_en four_en force_en sensors_en on_en the_en foot_en ,_en lithium_en polymer_en batteries_en ._en
+and_en now_en darwin_en ii_en is_en completely_en autonomous_en ._en
+it_en is_en not_en remote_en controlled_en ._en
+there_en are_en no_en tethers_en ._en it_en looks_en around_en ,_en searches_en for_en the_en ball_en ,_en looks_en around_en ,_en searches_en for_en the_en ball_en ,_en and_en it_en tries_en to_en play_en a_en game_en of_en soccer_en ,_en autonomously_en :_en artificial_en intelligence_en ._en
+let_en 's_en see_en how_en it_en does_en ._en this_en was_en our_en very_en first_en trial_en ,_en and_en ..._en spectators_en :_en goal_en !_en
+dennis_en hong_en :_en so_en ,_en there_en is_en actually_en a_en competition_en called_en robocup_en ._en
+i_en do_en n't_en know_en how_en many_en of_en you_en have_en heard_en about_en robocup_en ._en
+it_en 's_en an_en international_en autonomous_en robot_en soccer_en competition_en ._en
+and_en the_en goal_en of_en robocup_en ,_en the_en actual_en goal_en is_en ,_en by_en the_en year_en 2050_en we_en want_en to_en have_en full_en size_en ,_en autonomous_en humanoid_en robots_en play_en soccer_en against_en the_en human_en world_en cup_en champions_en and_en win_en ._en
+it_en 's_en a_en true_en actual_en goal_en ._en it_en 's_en a_en very_en ambitious_en goal_en ,_en but_en we_en truly_en believe_en that_en we_en can_en do_en it_en ._en
+so_en ,_en this_en is_en last_en year_en in_en china_en ._en
+we_en were_en the_en very_en first_en team_en in_en the_en united_en states_en that_en qualified_en in_en the_en humanoid_en robocup_en competition_en ._en
+this_en is_en this_en year_en in_en austria_en ._en
+you_en 're_en going_en to_en see_en the_en action_en ,_en three_en against_en three_en ,_en completely_en autonomous_en ._en
+there_en you_en go_en ._en yes_en !_en
+the_en robots_en track_en and_en they_en team_en play_en amongst_en themselves_en ._en
+it_en 's_en very_en impressive_en ._en it_en 's_en really_en a_en research_en event_en packaged_en in_en a_en more_en exciting_en competition_en event_en ._en
+what_en you_en see_en over_en here_en ,_en this_en is_en the_en beautiful_en louis_en vuitton_en cup_en trophy_en ._en
+so_en ,_en this_en is_en for_en the_en best_en humanoid_en ,_en and_en we_en would_en like_en to_en bring_en this_en for_en the_en very_en first_en time_en ,_en to_en the_en united_en states_en next_en year_en ,_en so_en wish_en us_en luck_en ._en
+thank_en you_en ._en
+darwin_en also_en has_en a_en lot_en of_en other_en talents_en ._en
+last_en year_en it_en actually_en conducted_en the_en roanoke_en symphony_en orchestra_en for_en the_en holiday_en concert_en ._en
+this_en is_en the_en next_en generation_en robot_en ,_en darwin_en iv_en ,_en but_en smarter_en ,_en faster_en ,_en stronger_en ._en
+and_en it_en 's_en trying_en to_en show_en off_en its_en ability_en :_en "_en i_en 'm_en macho_en ,_en i_en 'm_en strong_en ._en
+i_en can_en also_en do_en some_en jackie_en chan_en -_en motion_en ,_en martial_en art_en movements_en ._en "_en
+and_en it_en walks_en away_en ._en so_en ,_en this_en is_en darwin_en iv_en ._en
+and_en again_en ,_en you_en 'll_en be_en able_en to_en see_en it_en in_en the_en lobby_en ._en
+we_en truly_en believe_en this_en is_en going_en to_en be_en the_en very_en first_en running_en humanoid_en robot_en in_en the_en united_en states_en ._en so_en ,_en stay_en tuned_en ._en
+all_en right_en ._en so_en i_en showed_en you_en some_en of_en our_en exciting_en robots_en at_en work_en ._en
+so_en ,_en what_en is_en the_en secret_en of_en our_en success_en ?_en
+where_en do_en we_en come_en up_en with_en these_en ideas_en ?_en
+how_en do_en we_en develop_en these_en kinds_en of_en ideas_en ?_en
+we_en have_en a_en fully_en autonomous_en vehicle_en that_en can_en drive_en into_en urban_en environments_en ._en we_en won_en a_en half_en a_en million_en dollars_en in_en the_en darpa_en urban_en challenge_en ._en
+we_en also_en have_en the_en world_en 's_en very_en first_en vehicle_en that_en can_en be_en driven_en by_en the_en blind_en ._en
+we_en call_en it_en the_en blind_en driver_en challenge_en ,_en very_en exciting_en ._en
+and_en many_en ,_en many_en other_en robotics_en projects_en i_en want_en to_en talk_en about_en ._en
+these_en are_en just_en the_en awards_en that_en we_en won_en in_en 2007_en fall_en from_en robotics_en competitions_en and_en those_en kinds_en of_en things_en ._en
+so_en ,_en really_en ,_en we_en have_en five_en secrets_en ._en
+first_en is_en :_en where_en do_en we_en get_en inspiration_en ?_en
+where_en do_en we_en get_en this_en spark_en of_en imagination_en ?_en
+this_en is_en a_en true_en story_en ,_en my_en personal_en story_en ._en
+at_en night_en when_en i_en go_en to_en bed_en ,_en 3_en -_en 4_en a.m._en in_en the_en morning_en ,_en i_en lie_en down_en ,_en close_en my_en eyes_en ,_en and_en i_en see_en these_en lines_en and_en circles_en and_en different_en shapes_en floating_en around_en ._en
+and_en they_en assemble_en ,_en and_en they_en form_en these_en kinds_en of_en mechanisms_en ._en
+and_en then_en i_en think_en ,_en "_en ah_en this_en is_en cool_en ._en "_en
+so_en ,_en right_en next_en to_en my_en bed_en i_en keep_en a_en notebook_en ,_en a_en journal_en ,_en with_en a_en special_en pen_en that_en has_en a_en light_en on_en it_en ,_en led_en light_en ,_en because_en i_en do_en n't_en want_en to_en turn_en on_en the_en light_en and_en wake_en up_en my_en wife_en ._en
+so_en ,_en i_en see_en this_en ,_en scribble_en everything_en down_en ,_en draw_en things_en ,_en and_en i_en go_en to_en bed_en ._en
+every_en day_en in_en the_en morning_en ,_en the_en first_en thing_en i_en do_en before_en my_en first_en cup_en of_en coffee_en ,_en before_en i_en brush_en my_en teeth_en ,_en i_en open_en my_en notebook_en ._en
+many_en times_en it_en 's_en empty_en ,_en sometimes_en i_en have_en something_en there_en --_en if_en something_en 's_en there_en ,_en sometimes_en it_en 's_en junk_en --_en but_en most_en of_en the_en time_en i_en ca_en n't_en even_en read_en my_en handwriting_en ._en
+and_en so_en ,_en 4_en am_en in_en the_en morning_en ,_en what_en do_en you_en expect_en ,_en right_en ?_en
+so_en ,_en i_en need_en to_en decipher_en what_en i_en wrote_en ._en
+but_en sometimes_en i_en see_en this_en ingenious_en idea_en in_en there_en ,_en and_en i_en have_en this_en eureka_en moment_en ._en
+i_en directly_en run_en to_en my_en home_en office_en ,_en sit_en at_en my_en computer_en ,_en i_en type_en in_en the_en ideas_en ,_en i_en sketch_en things_en out_en and_en i_en keep_en a_en database_en of_en ideas_en ._en
+so_en ,_en when_en we_en have_en these_en calls_en for_en proposals_en ,_en i_en try_en to_en find_en a_en match_en between_en my_en potential_en ideas_en and_en the_en problem_en ._en if_en there_en is_en a_en match_en we_en write_en a_en research_en proposal_en ,_en get_en the_en research_en funding_en in_en ,_en and_en that_en 's_en how_en we_en start_en our_en research_en programs_en ._en
+but_en just_en a_en spark_en of_en imagination_en is_en not_en good_en enough_en ._en
+how_en do_en we_en develop_en these_en kinds_en of_en ideas_en ?_en
+at_en our_en lab_en romela_en ,_en the_en robotics_en and_en mechanisms_en laboratory_en ,_en we_en have_en these_en fantastic_en brainstorming_en sessions_en ._en
+so_en ,_en we_en gather_en around_en ,_en we_en discuss_en about_en problems_en and_en social_en problems_en and_en talk_en about_en it_en ._en
+but_en before_en we_en start_en we_en set_en this_en golden_en rule_en ._en
+the_en rule_en is_en :_en nobody_en criticizes_en anybody_en 's_en ideas_en ._en
+nobody_en criticizes_en any_en opinion_en ._en
+this_en is_en important_en ,_en because_en many_en times_en students_en ,_en they_en fear_en or_en they_en feel_en uncomfortable_en how_en others_en might_en think_en about_en their_en opinions_en and_en thoughts_en ._en
+so_en ,_en once_en you_en do_en this_en ,_en it_en is_en amazing_en how_en the_en students_en open_en up_en ._en
+they_en have_en these_en wacky_en ,_en cool_en ,_en crazy_en ,_en brilliant_en ideas_en ,_en and_en the_en whole_en room_en is_en just_en electrified_en with_en creative_en energy_en ._en
+and_en this_en is_en how_en we_en develop_en our_en ideas_en ._en
+well_en ,_en we_en 're_en running_en out_en of_en time_en ._en one_en more_en thing_en i_en want_en to_en talk_en about_en is_en ,_en you_en know_en ,_en just_en a_en spark_en of_en idea_en and_en development_en is_en not_en good_en enough_en ._en
+there_en was_en a_en great_en ted_en moment_en ,_en i_en think_en it_en was_en sir_en ken_en robinson_en ,_en was_en it_en ?_en
+he_en gave_en a_en talk_en about_en how_en education_en and_en school_en kills_en creativity_en ._en
+well_en ,_en actually_en ,_en there_en are_en two_en sides_en to_en the_en story_en ._en
+so_en ,_en there_en is_en only_en so_en much_en one_en can_en do_en with_en just_en ingenious_en ideas_en and_en creativity_en and_en good_en engineering_en intuition_en ._en
+if_en you_en want_en to_en go_en beyond_en a_en tinkering_en ,_en if_en you_en want_en to_en go_en beyond_en a_en hobby_en of_en robotics_en and_en really_en tackle_en the_en grand_en challenges_en of_en robotics_en through_en rigorous_en research_en we_en need_en more_en than_en that_en ._en this_en is_en where_en school_en comes_en in_en ._en
+batman_en ,_en fighting_en against_en bad_en guys_en ,_en he_en has_en his_en utility_en belt_en ,_en he_en has_en his_en grappling_en hook_en ,_en he_en has_en all_en different_en kinds_en of_en gadgets_en ._en
+for_en us_en roboticists_en ,_en engineers_en and_en scientists_en ,_en these_en tools_en ,_en these_en are_en the_en courses_en and_en classes_en you_en take_en in_en class_en ._en
+math_en ,_en differential_en equations_en ._en
+i_en have_en linear_en algebra_en ,_en science_en ,_en physics_en ,_en even_en nowadays_en ,_en chemistry_en and_en biology_en ,_en as_en you_en 've_en seen_en ._en
+these_en are_en all_en the_en tools_en that_en we_en need_en ._en
+so_en ,_en the_en more_en tools_en you_en have_en ,_en for_en batman_en ,_en more_en effective_en at_en fighting_en the_en bad_en guys_en ,_en for_en us_en ,_en more_en tools_en to_en attack_en these_en kinds_en of_en big_en problems_en ._en
+so_en ,_en education_en is_en very_en important_en ._en
+also_en ,_en it_en 's_en not_en about_en that_en ,_en only_en about_en that_en ._en you_en also_en have_en to_en work_en really_en ,_en really_en hard_en ._en
+so_en ,_en i_en always_en tell_en my_en students_en ,_en "_en work_en smart_en ,_en then_en work_en hard_en ._en "_en
+this_en picture_en in_en the_en back_en this_en is_en 3_en a.m._en in_en the_en morning_en ._en
+i_en guarantee_en if_en you_en come_en to_en your_en lab_en at_en 3_en -_en 4_en am_en we_en have_en students_en working_en there_en ,_en not_en because_en i_en tell_en them_en to_en ,_en but_en because_en we_en are_en having_en too_en much_en fun_en ._en
+which_en leads_en to_en the_en last_en topic_en :_en do_en not_en forget_en to_en have_en fun_en ._en
+that_en 's_en really_en the_en secret_en of_en our_en success_en ,_en we_en 're_en having_en too_en much_en fun_en ._en
+i_en truly_en believe_en that_en highest_en productivity_en comes_en when_en you_en 're_en having_en fun_en ,_en and_en that_en 's_en what_en we_en 're_en doing_en ._en
+there_en you_en go_en ._en thank_en you_en so_en much_en ._en

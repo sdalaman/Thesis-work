@@ -1,0 +1,37 @@
+im	jahr	1952	machte	buckminster	fuller	machte	fur	das	_UNK_	einen	besonders	mutigen	vorschlag	.
+es	war	eine	200	-	fuss	-	durchmesser	geodätischen	kugel	um	über	den	east	river	in	new	york	city	ausgesetzt	werden	,	in	voller	sicht	der	vereinten	nationen	.
+es	war	eine	große	idee	,	das	ist	sicher	,	und	es	war	eine	idee	,	fuehlte	er	,	die	die	entscheidungsfindung	dieses	gremiums	wirklich	informieren	und	tief	berühren	konnte	durch	animationen	von	globalen	daten	,	trends	und	andere	informationen	über	den	globus	,	auf	dieser	kugel	.
+und	heute	,	45	jahre	später	,	wir	haben	eindeutig	nicht	weniger	bedarf	für	diese	art	von	klarheit	und	perspektive	,	aber	was	wir	haben	,	ist	verbesserte	technologie	.
+heute	brauchen	wir	nicht	eine	million	glühbirnen	zu	einer	sphärische	anzeige	zu	schaffen	.
+wir	können	leds	nutzen	.
+leds	sind	kleiner	,	sie	sind	billiger	,	sie	halten	langer	an	,	sie	sind	effizienter	.
+vor	allem	für	diese	,	sind	sie	schneller	.
+und	diese	geschwindigkeit	,	mit	der	heutigen	_UNK_	-	mikro	-	controller	kombiniert	erlaubt	uns	,	tatsächlich	zu	simulieren	,	in	diesem	stück	,	über	17.000	leds	-	mit	nur	64	.
+und	die	art	und	weise	dies	geschieht	,	ist	durch	das	phänomen	der	augenträgheit	.
+aber	während	dieser	ring	dreht	sich	rund	1.700	u	/	min	-	das	ist	28	mal	pro	sekunde	.
+die	geschwindigkeit	des	äquators	ist	tatsächlich	etwa	60	meilen	pro	stunde	.
+es	gibt	vier	on	-	board	-	mikro	-	controller	die	,	jedes	mal	diesen	ring	dreht	sich	während	es	passiert	die	rückseite	der	anzeige	,	es	nimmt	eine	position	signal
+und	von	diesem	,	die	on	-	board	-	mikro	-	controller	die	position	des	_UNK_	in	allen	punkten	rund	um	die	revolution	_UNK_	und	anzeige	beliebiger	bitmap	-	bilder	und	animationen	.
+aber	das	ist	eigentlich	nur	der	anfang	.
+neben	der	höheren	auflösung	versionen	von	dieser	anzeige	mein	vater	und	ich	arbeiten	an	einem	neuen	zum	patent	_UNK_	design	für	eine	voll	volumetrische	anzeige	,	dass	das	gleiche	phänomen	nutzt	.
+er	erreicht	dies	durch	die	rotierenden	leds	um	zwei	achsen	.
+wie	ihr	hier	sehen	könnt	,	das	ist	eine	11	-	zoll	-	durchmesser	platine	.
+diese	blöcke	stellen	leds	.
+und	wie	so	konnte	man	sehen	,	dass	als	die	platte	dreht	sich	um	dieser	achse	,	es	wird	eine	lichtsplatte	formieren	,	die	wir	kontrollieren	können	.
+das	ist	nichts	neues	,	das	ist	ein	propeller	clock	.	das	ist	die	_UNK_	,	die	ihr	für	eure	auto	kaufen	können	.
+aber	was	neu	ist	,	ist	,	dass	,	wenn	wir	diese	platte	um	diese	achse	drehen	,	jetzt	die	lichtsplatte	wird	eigentlich	einer	_UNK_	.
+und	wir	können	das	mit	mikro	-	controller	kontrollieren	und	erstellen	eine	voll	volumetrischen	,	dreidimensionalen	anzeige	mit	nur	256	leds	.
+jetzt	ist	dieses	stück	derzeit	in	bearbeitung	-	es	erscheint	in	mai	,	aber	was	wir	getan	haben	ist	,	dass	wir	zusammen	eine	kleine	demo	gestellt	,	auf	die	übersetzung	von	geometrischen	punkten	in	eine	sphäre	zu	zeigen	.
+ich	habe	ein	kleines	video	für	euch	,	aber	bedenkt	euch	,	dass	es	ist	ohne	elektronische	regelung	,	und	es	ist	auch	nur	mit	vier	leds	.
+das	ist	tatsächlich	nur	etwa	1,5	prozent	von	was	die	endgültige	anzeige	in	may	sein	wird	.
+also	,	guck	mal	.
+und	hier	könnt	ihr	sehen	,	es	dreht	sicht	nur	um	die	vertikale	achse	,	einfach	kreise	.
+und	dann	,	als	die	andere	achse	ins	spiel	kommt	,	verschmieren	sie	tatsächlich	in	einem	inhalt	.
+und	die	_UNK_	der	kamera	tatsächlich	ist	es	etwas	weniger	effektiv	in	diesem	fall	.
+aber	dieses	stück	erscheint	erst	im	mai	.
+es	wird	an	der	interactive	_UNK_	spring	show	angezeigt	,	in	greenwich	village	in	new	york	-	das	ist	für	die	öffentlichkeit	zugänglich	,	ich	definitiv	lade	euch	alle	zu	kommen	und	teilnehmen	ein	-	es	ist	eine	fantastische	show	.
+es	gibt	hunderte	von	studenten	innovatoren	mit	phantastischen	projekten	.
+dieses	stück	,	tatsächlich	wird	in	der	sierra	simulcast	lounge	angezeigt	,	in	den	pausen	zwischen	jetzt	und	ende	der	show	.
+ich	wurde	gerne	mit	euch	reden	,	und	euch	einladen	herunter	zu	kommen	und	einen	genaueren	blick	zu	werfen	.
+es	ist	eine	ehre	hier	zu	sein	,	danke	sehr	.
+

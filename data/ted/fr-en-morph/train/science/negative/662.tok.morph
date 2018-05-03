@@ -1,0 +1,61 @@
+un	des	plus	 grand 	 s 	 	 défi 	 s 	 	dans	 l' 	 image 	 	de	synthèse	a	 tou 	 jour 	 s 	 	été	de	créer	un	 vis 	 age 	 	humain	photo	-	réaliste	.
+ e 	 t 	 	une	des	 rais 	 ons 	 	pour	cela	,	à	 l' 	 inverse 	 	des	 alien 	 s 	 	ou	des	 dinosaure 	 s 	 	,	est	que	nous	 regard 	 ons 	 	des	 vis 	 age 	 s 	 	 humain 	 s 	 	tous	les	 jour 	 s 	 	.
+ e 	 t 	 	ceux	-	ci	 s 	 ont 	 	très	 important 	 s 	 	dans	la	façon	 do 	 nt 	 	nous	 commun 	 iqu 	 ons 	 	entre	nous	.
+ e 	 t 	 	nous	 somme 	 s 	 	donc	 sensible 	 s 	 	aux	 mo 	 indre 	 s 	 	 détail 	 s 	 	 potentiel 	 lement 	 	 erroné 	 s 	 	 d' 	 une 	 	image	de	synthèse	,	nous	 empêcha 	 nt 	 	de	croire	que	ce	 vis 	 age 	 	 puis 	 s 	 e 	 	être	réaliste	.
+ e 	 t 	 	ce	que	je	vais	faire	pendant	les	cinq	 prochain 	 es 	 	 minute 	 s 	 	est	de	vous	faire	 partage 	 r 	 	un	 process 	 us 	 	grâce	 au 	 quel 	 	nous	avons	 essay 	 é 	 	de	créer	un	 vis 	 age 	 	de	synthèse	photo	-	réaliste	,	en	 utilis 	 ant 	 	une	technologie	 d' 	 image 	 	de	synthèse	que	nous	avons	développé	avec	 no 	 s 	 	 collab 	 orateur 	 s 	 	chez	image	metrics	.
+nous	allons	essayer	de	 re 	 pro 	 duire 	 	le	 vis 	 age 	 	de	 l' 	 actrice 	 	emily	o'brian	,	ici	 présent 	 e 	 	,	de	 man 	 ière 	 	réaliste	.
+ e 	 t 	 	voici	une	image	de	synthèse	de	son	 vis 	 age 	 	,	 entière 	 ment 	 	_UNK_	.
+ d' 	 ici 	 	la	fin	de	 ce 	 tte 	 	 présent 	 ation 	 	,	vous	la	 ver 	 rez 	 	 bouge 	 r 	 	.
+ not 	 re 	 	 méthod 	 e 	 	fut	 d' 	 abord 	 	 d' 	 essayer 	 	avec	emily	en	personne	,	qui	a	 gent 	 i 	 ment 	 	accepté	de	venir	dans	 not 	 re 	 	 labo 	 ratoire 	 	de	_UNK_	del	_UNK_	,	 e 	 t 	 	de	 particip 	 er 	 	à	une	 s 	 ession 	 	de	light	 s 	 tage 	 	5	.
+c'est	une	sphère	 fait 	 e 	 	de	156	del	 blanche 	 s 	 	tout	 auto 	 ur 	 	qui	_UNK_	son	 vis 	 age 	 	 e 	 t 	 	nous	 permette 	 nt 	 	de	le	 photo 	 graphie 	 r 	 	dans	un	ensemble	 d' 	 éclairage 	 s 	 	 extrême 	 ment 	 	 contrôlé 	 s 	 	.
+ e 	 t 	 	 l' 	 éclairage 	 	que	nous	utilisons	en	ce	moment	ressemble	à	 ce 	 ci 	 	.
+nous	prenons	 tout 	 es 	 	 ce 	 s 	 	 photo 	 s 	 	en	environ	trois	 seconde 	 s 	 	.
+ e 	 t 	 	nous	 obten 	 ons 	 	 suffi 	 samment 	 	 d'in 	 formation 	 s 	 	avec	des	 modèle 	 s 	 	de	projection	vidéo	qui	_UNK_	les	 con 	 tour 	 s 	 	de	son	 vis 	 age 	 	,	 e 	 t 	 	les	 divers 	 es 	 	 orientation 	 s 	 	 principal 	 es 	 	de	lumière	,	pour	 re 	 constitue 	 r 	 	à	la	fois	la	_UNK_	haute	 e 	 t 	 	basse	des	 détail 	 s 	 	de	son	 vis 	 age 	 	.
+si	nous	 zoom 	 ons 	 	sur	 ce 	 tte 	 	photo	ici	,	nous	 pouv 	 ons 	 	voir	que	c'est	un	très	beau	 cli 	 ché 	 	à	avoir	car	elle	est	 éclairé 	 e 	 	 d' 	 absolu 	 ment 	 	 par 	 tout 	 	à	la	fois	 e 	 t 	 	cela	donne	une	belle	image	de	la	 text 	 ure 	 	de	son	 vis 	 age 	 	.
+ e 	 t 	 	en	plus	,	nous	avons	utilisé	des	 filtre 	 s 	 	 polaris 	 ateurs 	 	sur	 tout 	 es 	 	les	 lumière 	 s 	 	de	la	même	façon	que	les	 lune 	 ttes 	 	 polaris 	 ées 	 	peuvent	 bloque 	 r 	 	les	 reflet 	 s 	 	sur	la	route	,	les	 filtre 	 s 	 	 polaris 	 ateurs 	 	 bloque 	 nt 	 	la	 bril 	 lance 	 	de	la	peau	,	 e 	 t 	 	nous	 obten 	 ons 	 	une	 text 	 ure 	 	sans	 reflet 	 s 	 	 spécul 	 aires 	 	.
+ main 	 tenant 	 	,	si	nous	tournons	un	peu	 ce 	 s 	 	 filtre 	 s 	 	,	nous	 pouv 	 ons 	 	en	fait	 ré 	 introduire 	 	les	 reflet 	 s 	 	 spécul 	 aires 	 	sur	la	peau	 e 	 t 	 	vous	 pouv 	 ez 	 	voir	que	 s 	 a 	 	peau	semble	très	 brillant 	 e 	 	 e 	 t 	 	_UNK_	 main 	 tenant 	 	.
+si	 l' 	 on 	 	 sous 	 trait 	 	les	 différence 	 s 	 	entre	 ce 	 s 	 	deux	 image 	 s 	 	là	,	on	peut	obtenir	une	image	 éclairé 	 e 	 	par	 tout 	 e 	 	la	sphère	de	lumière	ou	bien	 unique 	 ment 	 	la	 bril 	 lance 	 	de	la	peau	d'emily	.
+je	crois	 qu' 	 aucun 	 e 	 	photo	de	ce	type	n'a	jamais	été	prise	avant	la	nôtre	.
+ e 	 t 	 	 ce 	 tte 	 	lumière	est	 extrême 	 ment 	 	 important 	 e 	 	à	 saisi 	 r 	 	,	car	c'est	la	lumière	qui	 s 	 e 	 	reflète	à	la	surface	de	la	peau	.
+elle	ne	pénètre	pas	au	delà	des	 couche 	 s 	 	 trans 	 lucide 	 s 	 	de	la	peau	pour	 s' 	 y 	 	 dissipe 	 r 	 	.
+ e 	 t 	 	le	résultat	est	une	très	bonne	indication	de	la	forme	 dé 	 taillée 	 	de	la	structure	 por 	 euse 	 	de	la	peau	 e 	 t 	 	de	 tout 	 es 	 	les	 fine 	 s 	 	 ride 	 s 	 	que	nous	avons	tous	,	 exacte 	 ment 	 	le	 gen 	 re 	 	de	chose	qui	nous	 donne 	 nt 	 	 l' 	 aspect 	 	de	 vrai 	 s 	 	 humain 	 s 	 	.
+donc	,	si	nous	utilisons	 ce 	 s 	 	 donné 	 es 	 	venant	des	 reflet 	 s 	 	 spécul 	 aires 	 	nous	 pouv 	 ons 	 	aller	 d' 	 un 	 	scan	 tradition 	 nel 	 	de	 vis 	 age 	 	qui	pourrait	avoir	les	 con 	 tour 	 s 	 	_UNK_	 e 	 t 	 	la	forme	 bas 	 ique 	 	du	 vis 	 age 	 	,	 e 	 t 	 	 ajoute 	 r 	 	les	 informat 	 ions 	 	 nécessaire 	 s 	 	à	 ce 	 tte 	 	structure	 por 	 euse 	 	 e 	 t 	 	aux	 fine 	 s 	 	 ride 	 s 	 	de	la	peau	.
+ e 	 t 	 	,	plus	important	encore	,	 puisqu 	 e 	 	c'est	un	 process 	 us 	 	_UNK_	qui	ne	prend	que	trois	 seconde 	 s 	 	,	nous	 pouv 	 ons 	 	 photo 	 graphie 	 r 	 	emily	 seul 	 ement 	 	en	une	 parti 	 e 	 	de	 l' 	 après 	 	-	midi	,	en	de	 nombre 	 uses 	 	 position 	 s 	 	 e 	 t 	 	 expression 	 s 	 	 facial 	 es 	 	.
+ici	,	vous	 pouv 	 ez 	 	la	voir	 bouge 	 r 	 	 s 	 es 	 	yeux	 e 	 t 	 	 s 	 a 	 	bouche	.
+ e 	 t 	 	nous	nous	en	_UNK_	pour	créer	 not 	 re 	 	 personn 	 age 	 	de	synthèse	photo	-	_UNK_	.
+si	vous	regardez	 ce 	 s 	 	 scan 	 s 	 	que	nous	avons	d'emily	,	vous	 pouv 	 ez 	 	voir	que	le	 vis 	 age 	 	humain	est	capable	 d' 	 un 	 	nombre	 impression 	 nant 	 	de	 chose 	 s 	 	 lorsqu' 	 il 	 	 exprim 	 e 	 	 différent 	 s 	 	 sentiment 	 s 	 	.
+vous	 pouv 	 ez 	 	voir	 ce 	 s 	 	 chose 	 s 	 	.	non	 seul 	 ement 	 	le	 vis 	 age 	 	change	,	 mai 	 s 	 	plein	de	 pli 	 s 	 	 e 	 t 	 	de	 ride 	 s 	 	 apparaisse 	 nt 	 	.
+vous	 pouv 	 ez 	 	voir	que	la	structure	 por 	 euse 	 	de	la	peau	change	 énormé 	 ment 	 	entre	les	 pore 	 s 	 	 étiré 	 es 	 	 e 	 t 	 	la	 text 	 ure 	 	 habituel 	 le 	 	de	la	peau	.
+vous	 pouv 	 ez 	 	voir	les	_UNK_	du	front	,	 e 	 t 	 	comment	la	micro	-	structure	change	là	.
+vous	 pouv 	 ez 	 	voir	les	 muscle 	 s 	 	tirer	vers	le	bas	pour	faire	 descend 	 re 	 	 s 	 es 	 	 sourcil 	 s 	 	.
+ s 	 es 	 	 muscle 	 s 	 	 s 	 e 	 	_UNK_	sur	son	front	 lorsqu' 	 elle 	 	grimace	comme	cela	.
+en	plus	de	 tout 	 e 	 	 ce 	 tte 	 	 sort 	 e 	 	de	 géo 	 métrie 	 	haute	 ré 	 solution 	 	,	 puisqu 	 e 	 	c'est	 pri 	 s 	 	avec	des	 caméra 	 s 	 	,	on	a	un	 super 	 be 	 	plan	de	 text 	 ures 	 	pour	son	 vis 	 age 	 	.
+ e 	 t 	 	en	 observ 	 ant 	 	comment	les	 différent 	 s 	 	 can 	 aux 	 	de	_UNK_	,	le	rouge	,	le	vert	 e 	 t 	 	le	bleu	,	 diffus 	 ent 	 	la	lumière	de	façon	 différent 	 e 	 	,	nous	 pouv 	 ons 	 	trouver	une	façon	 d' 	 ajoute 	 r 	 	des	tons	à	la	peau	sur	 l' 	 ordinateur 	 	.
+ e 	 t 	 	ainsi	,	 plu 	 tôt 	 	que	de	 ressemble 	 r 	 	a	un	 man 	 ne 	 quin 	 	de	 pl 	 âtre 	 	,	cela	semble	être	fait	de	 chai 	 r 	 	humaine	bien	 vivant 	 e 	 	.
+ e 	 t 	 	nous	nous	 somme 	 s 	 	 servi 	 s 	 	de	ça	au	service	de	 l' 	 entreprise 	 	image	metrics	pour	créer	une	version	 numér 	 ique 	 	d'emily	.
+nous	ne	voyons	que	les	formes	 bas 	 iques 	 	ici	.
+ mai 	 s 	 	ils	ont	en	gros	créé	une	 marionne 	 tte 	 	 numér 	 ique 	 	 d' 	 elle 	 	,	sur	 la 	 quelle 	 	nous	 pouv 	 ons 	 	tirer	sur	 ce 	 s 	 	 différent 	 es 	 	 fic 	 elles 	 	,	 e 	 t 	 	elles	font	 bouge 	 r 	 	son	 vis 	 age 	 	de	façon	 complète 	 ment 	 	en	accord	avec	les	 scan 	 s 	 	que	nous	avons	 pri 	 s 	 	.
+ e 	 t 	 	,	en	plus	des	formes	 bas 	 iques 	 	,	ils	ont	 égale 	 ment 	 	utilisé	tous	 ce 	 s 	 	 détail 	 s 	 	pour	créer	une	 séri 	 e 	 	de	``	 plan 	 s 	 	de	 déplace 	 ment 	 	``	qui	peuvent	être	 animé 	 es 	 	 égale 	 ment 	 	.
+voici	les	 plan 	 s 	 	de	 déplace 	 ment 	 	.
+ e 	 t 	 	vous	 pouv 	 ez 	 	voir	les	 différent 	 es 	 	 ride 	 s 	 	 apparaît 	 re 	 	 lorsqu' 	 elle 	 	 s' 	 anime 	 	.
+donc	le	 process 	 us 	 	 suiv 	 ant 	 	était	de	 l' 	 animer 	 	.
+nous	avons	en	fait	utilisé	une	de	 s 	 es 	 	performance	comme	source	de	 donné 	 es 	 	.
+ e 	 t 	 	en	 analys 	 ant 	 	la	vidéo	avec	des	 méthod 	 es 	 	de	 track 	 ing 	 	par	ordinateur	,	ils	ont	été	capable	de	 synchronise 	 r 	 	le	modèle	de	son	 vis 	 age 	 	avec	la	performance	 généré 	 e 	 	par	 l' 	 ordinateur 	 	.
+ce	que	vous	allez	voir	 main 	 tenant 	 	,	après	 ce 	 ci 	 	,	est	un	 vis 	 age 	 	 entière 	 ment 	 	 numér 	 ique 	 	 e 	 t 	 	photo	-	réaliste	.
+on	peut	 augmente 	 r 	 	le	 volu 	 me 	 	un	petit	peu	si	possible	.
+emily	:	image	metrics	est	une	entreprise	 d' 	 animation 	 	sans	 track 	 ing 	 	,	 bas 	 ée 	 	sur	la	performance	humaine	.
+nous	 somme 	 s 	 	 spécial 	 isés 	 	dans	 l' 	 animation 	 	haute	 ré 	 solution 	 	de	 vis 	 age 	 s 	 	pour	 film 	 s 	 	 e 	 t 	 	jeux	 vidéo 	 s 	 	.
+image	metrics	est	une	entreprise	 d' 	 animation 	 	sans	 track 	 ing 	 	,	 bas 	 ée 	 	sur	la	performance	humaine	.
+nous	 somme 	 s 	 	 spécial 	 isés 	 	dans	 l' 	 animation 	 	haute	 ré 	 solution 	 	de	 vis 	 age 	 s 	 	pour	 film 	 s 	 	 e 	 t 	 	jeux	 vidéo 	 s 	 	.
+paul	debevec	:	en	 dé 	 composant 	 	tout	 ce 	 ci 	 	en	 couche 	 s 	 	,	voici	la	 text 	 ure 	 	 diffus 	 e 	 	que	nous	avons	vu	en	première	 parti 	 e 	 	.
+voici	 l' 	 animation 	 	des	 reflet 	 s 	 	 spécul 	 aires 	 	.
+vous	 pouv 	 ez 	 	voir	 tout 	 es 	 	les	 ride 	 s 	 	 apparaît 	 re 	 	ici	.
+ e 	 t 	 	voici	la	maquette	de	base	.
+ e 	 t 	 	voici	la	 vrai 	 e 	 	emily	.
+alors	 main 	 tenant 	 	,	que	faire	de	tout	ça	?
+nous	 somme 	 s 	 	 allé 	 s 	 	un	peu	plus	loin	que	le	light	 s 	 tage 	 	5.	voici	light	 s 	 tage 	 	6	.
+ e 	 t 	 	nous	 étudi 	 ons 	 	la	possibilité	 d' 	 utiliser 	 	 ce 	 tte 	 	technologie	en	_UNK_	sur	le	corps	humain	complet	.
+voici	bruce	_UNK_	,	un	des	 cherche 	 urs 	 	du	groupe	,	qui	a	 gent 	 i 	 ment 	 	accepté	de	 s 	 e 	 	faire	 numér 	 iser 	 	en	courant	.
+ e 	 t 	 	 voil 	 à 	 	ce	que	ça	donne	dans	la	version	 généré 	 e 	 	par	ordinateur	de	bruce	,	courant	dans	un	 nou 	 vel 	 	environnement	.
+merci	beaucoup	.
+

@@ -1,0 +1,201 @@
+sergey_en brin_en :_en i_en want_en to_en discuss_en a_en question_en i_en know_en that_en 's_en been_en pressing_en on_en many_en of_en your_en minds_en ._en
+we_en spoke_en to_en you_en last_en several_en years_en ago_en ._en
+and_en before_en i_en get_en started_en today_en ,_en since_en many_en of_en you_en are_en wondering_en ,_en i_en just_en wanted_en to_en get_en it_en out_en of_en the_en way_en ._en
+the_en answer_en is_en boxers_en ._en
+now_en i_en hope_en all_en of_en you_en feel_en better_en ._en
+do_en you_en know_en what_en this_en might_en be_en ?_en does_en anyone_en know_en what_en that_en is_en ?_en
+audience_en :_en yes_en ._en
+sb_en :_en what_en is_en it_en ?_en
+audience_en :_en it_en 's_en people_en logging_en on_en to_en google_en around_en the_en world_en ._en
+sb_en :_en wow_en ,_en ok_en ._en i_en did_en n't_en really_en realize_en what_en it_en was_en when_en i_en first_en saw_en it_en ._en
+but_en this_en is_en what_en helped_en me_en see_en it_en ._en
+this_en is_en what_en we_en run_en at_en the_en office_en ,_en that_en actually_en runs_en real_en time_en ._en
+here_en it_en 's_en slightly_en logged_en ._en
+but_en here_en you_en can_en see_en around_en the_en world_en how_en people_en are_en using_en google_en ._en
+and_en every_en one_en of_en those_en rising_en dots_en represents_en probably_en about_en 20_en ,_en 30_en searches_en ,_en or_en something_en like_en that_en ._en
+and_en they_en 're_en labeled_en by_en color_en right_en now_en ,_en by_en language_en ._en
+so_en you_en can_en see_en :_en here_en we_en are_en in_en the_en u.s._en ,_en and_en they_en 're_en all_en coming_en up_en red_en ._en
+there_en we_en are_en in_en monterey_en --_en hopefully_en i_en can_en get_en it_en right_en ._en
+you_en can_en see_en that_en japan_en is_en busy_en at_en night_en ,_en right_en there_en ._en
+we_en have_en tokyo_en coming_en in_en in_en japanese_en ._en
+there_en 's_en a_en lot_en of_en activity_en in_en china_en ._en
+there_en 's_en a_en lot_en of_en activity_en in_en india_en ._en
+there_en 's_en some_en in_en the_en middle_en east_en ,_en the_en little_en pockets_en ._en
+and_en europe_en ,_en which_en is_en right_en now_en in_en the_en middle_en of_en the_en day_en ,_en is_en going_en really_en strong_en with_en a_en whole_en wide_en variety_en of_en languages_en ._en
+now_en you_en can_en also_en see_en ,_en if_en i_en turn_en this_en around_en here_en --_en hopefully_en i_en wo_en n't_en shake_en the_en world_en too_en much_en ._en
+but_en you_en can_en also_en see_en ,_en there_en are_en places_en where_en there_en 's_en not_en so_en much_en ._en
+australia_en ,_en because_en there_en just_en are_en n't_en very_en many_en people_en there_en ._en
+and_en this_en is_en something_en that_en we_en should_en really_en work_en on_en ,_en which_en is_en africa_en ,_en which_en is_en just_en a_en few_en trickles_en ,_en basically_en in_en south_en africa_en and_en a_en few_en other_en urban_en cities_en ._en
+but_en basically_en ,_en what_en we_en 've_en noticed_en is_en these_en queries_en ,_en which_en come_en in_en at_en thousands_en per_en second_en ,_en are_en available_en everywhere_en there_en is_en power_en ._en
+and_en pretty_en much_en everywhere_en there_en is_en power_en ,_en there_en is_en the_en internet_en ._en
+and_en even_en in_en antarctica_en --_en well_en ,_en at_en least_en this_en time_en of_en year_en --_en we_en from_en time_en to_en time_en will_en see_en a_en query_en rising_en up_en ._en
+and_en if_en we_en had_en it_en plotted_en correctly_en ,_en i_en think_en the_en international_en space_en station_en would_en have_en it_en ,_en too_en ._en
+so_en this_en is_en some_en of_en the_en challenge_en that_en we_en have_en here_en ,_en is_en you_en can_en see_en that_en it_en 's_en actually_en kind_en of_en hard_en to_en get_en the_en --_en there_en we_en go_en ._en
+this_en is_en how_en we_en have_en to_en move_en the_en bits_en around_en to_en actually_en get_en the_en people_en the_en answers_en to_en their_en questions_en ._en
+you_en can_en see_en that_en there_en 's_en a_en lot_en of_en data_en running_en around_en ._en
+it_en has_en to_en go_en all_en over_en the_en world_en :_en through_en fibers_en ,_en through_en satellites_en ,_en through_en all_en kinds_en of_en connections_en ._en
+and_en it_en 's_en pretty_en tricky_en for_en us_en to_en maintain_en the_en latencies_en as_en low_en as_en we_en try_en to_en ._en hopefully_en your_en experience_en is_en good_en ._en
+but_en you_en can_en see_en also_en ,_en once_en again_en --_en so_en some_en places_en are_en much_en more_en wired_en than_en others_en ,_en and_en you_en can_en see_en all_en the_en bandwidth_en across_en the_en u.s._en ,_en going_en up_en over_en to_en asia_en ,_en europe_en in_en the_en other_en direction_en ,_en and_en so_en forth_en ._en
+now_en what_en i_en would_en like_en to_en do_en is_en just_en to_en show_en you_en what_en one_en second_en of_en this_en activity_en would_en look_en like_en ._en
+and_en if_en we_en can_en switch_en to_en slides_en --_en all_en right_en ,_en here_en we_en go_en ._en
+so_en this_en is_en slowed_en down_en ._en
+this_en is_en what_en one_en second_en looks_en like_en ._en
+and_en this_en is_en what_en we_en spend_en a_en lot_en of_en our_en time_en doing_en ,_en is_en just_en making_en sure_en that_en we_en can_en keep_en up_en with_en this_en kind_en of_en traffic_en load_en ._en
+now_en ,_en each_en one_en of_en those_en queries_en has_en an_en interesting_en life_en and_en tale_en of_en its_en own_en ._en
+i_en mean_en ,_en it_en could_en be_en somebody_en 's_en health_en ,_en it_en could_en be_en somebody_en 's_en career_en ,_en something_en important_en to_en them_en ._en
+and_en it_en could_en potentially_en be_en something_en as_en important_en as_en tomato_en sauce_en ,_en or_en in_en this_en case_en ,_en ketchup_en ._en
+so_en this_en is_en a_en query_en that_en we_en had_en --_en i_en guess_en it_en 's_en a_en popular_en band_en that_en was_en more_en popular_en in_en some_en parts_en of_en the_en world_en than_en others_en ._en
+you_en can_en see_en that_en it_en got_en started_en right_en here_en ._en
+in_en the_en u.s._en and_en spain_en ,_en it_en was_en popular_en at_en the_en same_en time_en ._en
+but_en it_en did_en n't_en have_en quite_en the_en same_en pickup_en in_en the_en u.s._en
+as_en it_en did_en in_en spain_en ._en
+and_en then_en from_en spain_en ,_en it_en went_en to_en italy_en ,_en and_en then_en germany_en got_en excited_en ,_en and_en maybe_en right_en now_en the_en u.k._en is_en enjoying_en it_en ._en
+and_en so_en i_en guess_en the_en u.s._en finally_en ,_en finally_en started_en to_en like_en it_en ,_en too_en ._en
+and_en i_en just_en wanted_en to_en play_en it_en for_en you_en ._en
+anyway_en ,_en you_en can_en all_en enjoy_en it_en for_en yourselves_en --_en hopefully_en that_en search_en will_en work_en ._en
+as_en a_en part_en of_en --_en you_en know_en ,_en part_en of_en what_en we_en want_en to_en do_en to_en grow_en our_en company_en is_en to_en have_en more_en searches_en ._en
+and_en what_en that_en means_en is_en we_en want_en to_en have_en more_en people_en who_en are_en healthy_en and_en educated_en ._en
+more_en animals_en ,_en if_en they_en start_en doing_en searches_en as_en well_en ._en
+but_en partly_en ,_en we_en want_en to_en make_en the_en world_en a_en better_en place_en ,_en and_en so_en one_en thing_en that_en we_en 're_en embarking_en upon_en is_en the_en google_en foundation_en ,_en and_en we_en 're_en in_en the_en process_en of_en setting_en that_en up_en ._en
+we_en also_en have_en a_en program_en already_en called_en google_en grants_en that_en now_en serves_en over_en 150_en different_en charities_en around_en the_en world_en ,_en and_en these_en are_en some_en of_en the_en charities_en that_en are_en on_en there_en ._en
+and_en it_en 's_en something_en i_en 'm_en very_en excited_en to_en be_en a_en part_en of_en ._en
+in_en fact_en ,_en many_en of_en the_en organizations_en that_en are_en here_en --_en the_en acumen_en fund_en ,_en i_en think_en approtec_en we_en have_en running_en ,_en i_en 'm_en not_en sure_en if_en that_en one_en 's_en up_en yet_en --_en and_en many_en of_en the_en people_en who_en have_en presented_en here_en are_en running_en through_en google_en grants_en ._en
+they_en run_en google_en ads_en ,_en and_en we_en just_en give_en them_en the_en ad_en credit_en so_en they_en can_en let_en organizations_en know_en ._en
+one_en of_en the_en earlier_en results_en that_en we_en got_en --_en we_en have_en a_en singaporean_en businessman_en who_en is_en now_en sponsoring_en a_en village_en of_en 25_en vietnamese_en girls_en for_en their_en education_en ,_en and_en that_en was_en one_en of_en the_en earliest_en results_en ._en and_en as_en i_en said_en ,_en now_en there_en have_en been_en many_en ,_en many_en stories_en that_en have_en come_en in_en ,_en because_en we_en do_en have_en hundreds_en of_en charities_en in_en there_en ,_en and_en the_en google_en foundation_en will_en be_en an_en even_en broader_en endeavor_en ._en
+now_en does_en anybody_en know_en who_en this_en is_en ?_en
+a_en -_en ha_en !_en
+audience_en :_en orkut_en ._en
+sb_en :_en yes_en !_en somebody_en got_en it_en ._en
+this_en is_en orkut_en ._en is_en anybody_en here_en on_en orkut_en ?_en
+do_en we_en have_en any_en ?_en
+okay_en ,_en not_en very_en many_en people_en know_en about_en it_en ._en
+i_en 'll_en explain_en it_en in_en a_en second_en ._en
+this_en is_en one_en of_en our_en engineers_en ._en
+we_en find_en that_en they_en work_en better_en when_en they_en 're_en submerged_en and_en covered_en with_en leaves_en ._en
+that_en 's_en how_en we_en churn_en those_en products_en out_en ._en
+orkut_en had_en a_en vision_en to_en create_en a_en social_en network_en ._en
+i_en know_en all_en of_en you_en are_en thinking_en ,_en "_en yet_en another_en social_en network_en ._en "_en
+but_en it_en was_en a_en dream_en of_en his_en ,_en and_en we_en ,_en basically_en ,_en when_en people_en really_en want_en to_en do_en something_en ,_en well_en ,_en we_en generally_en let_en them_en ._en
+so_en this_en is_en what_en he_en built_en ._en
+we_en just_en released_en it_en in_en a_en test_en phase_en last_en month_en ,_en and_en it_en 's_en been_en taking_en off_en ._en
+this_en is_en our_en vp_en of_en engineering_en ._en
+you_en can_en see_en the_en red_en hair_en ,_en and_en i_en do_en n't_en know_en if_en you_en can_en see_en the_en nose_en ring_en there_en ._en
+and_en these_en are_en all_en of_en his_en friends_en ._en
+so_en this_en is_en how_en --_en we_en just_en deployed_en it_en --_en we_en just_en decided_en that_en people_en would_en send_en each_en other_en invitations_en to_en get_en into_en the_en service_en ,_en and_en so_en we_en just_en had_en the_en people_en in_en our_en company_en initially_en send_en them_en out_en ._en
+and_en now_en we_en 've_en grown_en to_en over_en 100,000_en members_en ._en
+and_en they_en spread_en ,_en actually_en ,_en very_en quickly_en ,_en even_en outside_en the_en u.s._en
+you_en can_en see_en ,_en even_en though_en the_en u.s._en is_en still_en the_en majority_en here_en --_en though_en ,_en by_en the_en way_en ,_en search_en -_en wise_en ,_en it_en 's_en only_en about_en 30_en percent_en of_en our_en traffic_en --_en but_en it_en 's_en already_en going_en to_en japan_en ,_en and_en the_en u.k._en ,_en and_en europe_en ,_en and_en all_en the_en rest_en of_en the_en countries_en ._en
+so_en it_en 's_en a_en fun_en little_en project_en ._en
+there_en are_en a_en variety_en of_en demographics_en ._en i_en wo_en n't_en bore_en you_en with_en these_en ._en
+but_en it_en 's_en just_en the_en kind_en of_en thing_en that_en we_en just_en try_en out_en for_en fun_en and_en see_en where_en it_en goes_en ._en
+and_en --_en well_en ,_en i_en 'll_en leave_en you_en in_en suspense_en ._en
+larry_en ,_en you_en can_en explain_en this_en one_en ._en
+larry_en page_en :_en thank_en you_en ,_en sergey_en ._en
+so_en one_en of_en the_en things_en --_en both_en sergey_en and_en i_en went_en to_en a_en montessori_en school_en ,_en and_en i_en think_en ,_en for_en some_en reason_en ,_en this_en has_en been_en incorporated_en in_en google_en ._en
+and_en sergey_en mentioned_en orkut_en ,_en which_en is_en something_en that_en ,_en you_en know_en ,_en orkut_en wanted_en to_en do_en in_en his_en time_en ,_en and_en we_en call_en this_en --_en at_en google_en ,_en we_en 've_en embodied_en this_en as_en "_en the_en 20_en percent_en time_en ,_en "_en and_en the_en idea_en is_en ,_en for_en 20_en percent_en of_en your_en time_en ,_en if_en you_en 're_en working_en at_en google_en ,_en you_en can_en do_en what_en you_en think_en is_en the_en best_en thing_en to_en do_en ._en
+and_en many_en ,_en many_en things_en at_en google_en have_en come_en out_en of_en that_en ,_en such_en as_en orkut_en and_en also_en google_en news_en ._en
+and_en i_en think_en many_en other_en things_en in_en the_en world_en also_en have_en come_en out_en of_en this_en ._en
+mendel_en ,_en who_en was_en supposed_en to_en be_en teaching_en high_en -_en school_en students_en ,_en actually_en ,_en you_en know_en ,_en discovered_en the_en laws_en of_en genetics_en --_en as_en a_en hobby_en ,_en basically_en ._en
+so_en many_en ,_en many_en useful_en things_en come_en out_en of_en this_en ._en
+and_en news_en ,_en which_en i_en just_en mentioned_en ,_en was_en started_en by_en a_en researcher_en ._en
+and_en he_en just_en --_en he_en --_en after_en 9/11_en ,_en he_en got_en really_en interested_en in_en the_en news_en ._en
+and_en he_en said_en ,_en "_en why_en do_en n't_en i_en look_en at_en the_en news_en better_en ?_en "_en
+and_en so_en he_en started_en clustering_en it_en by_en category_en ,_en and_en then_en he_en started_en using_en it_en ,_en and_en then_en his_en friends_en started_en using_en it_en ._en
+and_en then_en ,_en besides_en just_en looking_en cute_en on_en a_en baby_en 's_en bottom_en ,_en we_en made_en it_en a_en googlette_en ,_en which_en is_en basically_en a_en small_en project_en at_en google_en ._en
+so_en it_en 'd_en be_en like_en three_en people_en ,_en or_en something_en like_en that_en ,_en and_en they_en would_en try_en to_en make_en a_en product_en ._en
+and_en we_en would_en n't_en really_en be_en sure_en if_en it_en 's_en going_en to_en work_en or_en not_en ._en
+and_en in_en news_en '_en case_en ,_en you_en know_en ,_en they_en had_en a_en couple_en of_en people_en working_en on_en it_en for_en a_en while_en ,_en and_en then_en more_en and_en more_en people_en started_en using_en it_en ,_en and_en then_en we_en put_en it_en out_en on_en the_en internet_en ,_en and_en more_en and_en more_en people_en started_en using_en it_en ._en
+and_en now_en it_en 's_en a_en real_en ,_en full_en -_en blown_en project_en with_en more_en people_en on_en it_en ._en
+and_en this_en is_en how_en we_en keep_en our_en innovation_en running_en ._en
+i_en think_en usually_en ,_en as_en companies_en get_en bigger_en ,_en they_en find_en it_en really_en hard_en to_en have_en small_en ,_en innovative_en projects_en ._en
+and_en we_en had_en this_en problem_en ,_en too_en ,_en for_en a_en while_en ,_en and_en we_en said_en ,_en "_en oh_en ,_en we_en really_en need_en a_en new_en concept_en ._en "_en
+you_en know_en ,_en the_en googlettes_en --_en that_en 's_en a_en small_en project_en that_en we_en 're_en not_en quite_en sure_en if_en it_en 's_en going_en to_en work_en or_en not_en ,_en but_en we_en hope_en it_en will_en ,_en and_en if_en we_en do_en enough_en of_en them_en ,_en some_en of_en them_en will_en really_en work_en and_en turn_en out_en ,_en such_en as_en news_en ._en
+but_en then_en we_en had_en a_en problem_en because_en then_en we_en had_en over_en 100_en projects_en ._en
+and_en i_en do_en n't_en know_en about_en all_en of_en you_en ,_en but_en i_en have_en trouble_en keeping_en 100_en things_en in_en my_en head_en at_en once_en ._en
+and_en we_en found_en that_en if_en we_en just_en wrote_en all_en of_en them_en down_en and_en ordered_en them_en --_en and_en these_en are_en kind_en of_en made_en up_en ._en
+do_en n't_en really_en pay_en attention_en to_en them_en ._en
+for_en example_en ,_en the_en "_en buy_en iceland_en "_en was_en from_en a_en media_en article_en ._en
+we_en would_en never_en do_en such_en a_en crazy_en thing_en ,_en but_en --_en in_en any_en case_en ,_en we_en found_en if_en we_en just_en basically_en wrote_en them_en all_en down_en and_en ordered_en them_en ,_en that_en most_en people_en would_en actually_en agree_en what_en the_en ordering_en should_en be_en ._en
+and_en this_en was_en kind_en of_en a_en surprise_en to_en me_en ,_en but_en we_en found_en that_en as_en long_en as_en you_en keep_en the_en 100_en things_en in_en your_en head_en ,_en which_en you_en did_en by_en writing_en them_en down_en ,_en that_en you_en could_en do_en a_en pretty_en good_en job_en deciding_en what_en to_en do_en and_en where_en to_en put_en your_en resources_en ._en
+and_en so_en that_en 's_en basically_en what_en we_en 've_en done_en since_en we_en instituted_en that_en a_en few_en years_en ago_en ,_en and_en i_en think_en it_en has_en really_en allowed_en us_en to_en be_en innovative_en and_en still_en stay_en reasonably_en well_en -_en organized_en ._en
+the_en other_en thing_en we_en discovered_en is_en that_en people_en like_en to_en work_en on_en things_en that_en are_en important_en ,_en and_en so_en naturally_en ,_en people_en sort_en of_en migrate_en to_en the_en things_en that_en are_en high_en priorities_en ._en
+i_en just_en wanted_en to_en highlight_en a_en couple_en of_en things_en that_en are_en new_en ,_en or_en you_en might_en not_en know_en about_en ._en
+and_en the_en top_en thing_en ,_en actually_en ,_en is_en the_en deskbar_en ._en
+so_en this_en is_en a_en new_en --_en how_en many_en of_en you_en use_en the_en google_en toolbar_en ?_en
+raise_en your_en hands_en ._en
+how_en many_en of_en you_en use_en the_en deskbar_en ?_en
+all_en right_en ,_en see_en ?_en you_en guys_en should_en try_en it_en out_en ._en
+but_en if_en you_en go_en to_en our_en site_en and_en search_en for_en "_en deskbar_en ,_en "_en you_en 'll_en get_en this_en ._en
+and_en the_en idea_en is_en ,_en instead_en of_en a_en toolbar_en ,_en it_en 's_en just_en present_en all_en the_en time_en on_en your_en screen_en on_en the_en bottom_en ,_en and_en you_en can_en do_en searches_en really_en easily_en ._en
+and_en it_en 's_en sort_en of_en like_en a_en better_en version_en of_en the_en toolbar_en ._en
+thank_en you_en ,_en sergey_en ._en
+this_en is_en another_en example_en of_en a_en project_en that_en somebody_en at_en google_en was_en really_en passionate_en about_en ,_en and_en they_en just_en ,_en they_en got_en going_en ,_en and_en it_en 's_en really_en ,_en really_en a_en great_en product_en ,_en and_en really_en taking_en off_en ._en
+google_en answers_en is_en something_en we_en started_en ,_en which_en is_en really_en cool_en ,_en which_en lets_en you_en --_en for_en five_en to_en 100_en dollars_en ,_en you_en can_en type_en a_en question_en in_en ,_en and_en then_en there_en 's_en a_en pool_en of_en researchers_en that_en go_en out_en and_en research_en it_en for_en you_en ,_en and_en it_en 's_en guaranteed_en and_en all_en that_en ,_en and_en you_en can_en get_en actually_en very_en good_en answers_en to_en things_en without_en spending_en all_en that_en time_en yourself_en ._en
+froogle_en lets_en you_en search_en shopping_en information_en ,_en and_en blogger_en lets_en you_en publish_en things_en ._en
+but_en all_en of_en these_en --_en well_en ,_en these_en were_en all_en sort_en of_en innovative_en things_en that_en we_en did_en that_en --_en you_en know_en ,_en we_en try_en many_en ,_en many_en different_en things_en in_en our_en company_en ._en
+we_en also_en like_en to_en innovate_en in_en our_en physical_en space_en ,_en and_en we_en noticed_en in_en meetings_en ,_en you_en know_en ,_en you_en have_en to_en wait_en a_en long_en time_en for_en projectors_en to_en turn_en on_en and_en off_en ,_en and_en they_en 're_en noisy_en ,_en so_en people_en shut_en them_en off_en ._en
+and_en we_en did_en n't_en like_en that_en ,_en so_en we_en actually_en ,_en in_en maybe_en a_en couple_en of_en weeks_en ,_en we_en built_en these_en little_en enclosures_en that_en enclosed_en the_en projectors_en ,_en and_en so_en we_en can_en leave_en them_en on_en all_en the_en time_en and_en they_en 're_en completely_en silent_en ._en
+and_en as_en a_en result_en ,_en we_en were_en able_en to_en build_en some_en software_en that_en also_en lets_en us_en manage_en a_en meeting_en ,_en so_en when_en you_en walk_en into_en a_en meeting_en room_en now_en ,_en it_en lists_en all_en the_en meetings_en that_en are_en happening_en ,_en you_en can_en very_en easily_en take_en notes_en ,_en and_en they_en just_en get_en emailed_en automatically_en to_en all_en the_en people_en that_en were_en present_en in_en the_en meeting_en ._en
+and_en as_en we_en become_en more_en of_en a_en global_en company_en ,_en we_en find_en these_en things_en really_en affect_en us_en --_en you_en know_en ,_en can_en we_en work_en effectively_en with_en people_en who_en are_en n't_en in_en the_en room_en ?_en
+and_en things_en like_en that_en ._en and_en simple_en things_en like_en this_en can_en really_en make_en a_en big_en difference_en ._en
+we_en also_en have_en a_en lot_en of_en engineers_en in_en those_en meetings_en ,_en and_en they_en do_en n't_en always_en do_en their_en laundry_en as_en much_en as_en they_en should_en ._en
+and_en so_en we_en found_en it_en was_en pretty_en helpful_en to_en have_en laundry_en machines_en ,_en for_en our_en younger_en employees_en especially_en ,_en and_en ..._en
+we_en also_en allow_en dogs_en and_en things_en like_en that_en ,_en and_en we_en 've_en had_en ,_en i_en think_en ,_en a_en really_en fun_en culture_en at_en our_en company_en ,_en which_en helps_en people_en work_en and_en enjoy_en what_en they_en 're_en doing_en ._en
+this_en is_en actually_en our_en "_en cult_en picture_en ._en "_en
+i_en just_en wanted_en to_en show_en quickly_en ._en
+we_en had_en this_en on_en our_en website_en for_en a_en while_en ,_en but_en we_en found_en that_en after_en we_en put_en it_en on_en our_en website_en ,_en we_en did_en n't_en get_en any_en job_en applications_en anymore_en ._en
+but_en anyway_en ,_en every_en year_en we_en 've_en taken_en the_en whole_en company_en on_en a_en ski_en trip_en ._en
+a_en lot_en of_en work_en happens_en in_en companies_en from_en people_en knowing_en each_en other_en ,_en and_en informally_en ._en
+and_en i_en think_en we_en 've_en done_en a_en good_en job_en encouraging_en that_en ._en
+it_en makes_en it_en a_en really_en fun_en place_en to_en work_en ._en
+along_en with_en our_en logos_en ,_en too_en ,_en which_en i_en think_en really_en embody_en our_en culture_en when_en we_en change_en things_en ._en
+in_en the_en early_en days_en ,_en we_en were_en actually_en advised_en we_en should_en never_en change_en our_en logo_en because_en we_en should_en establish_en our_en brand_en ,_en you_en know_en ,_en because_en ,_en you_en know_en ,_en you_en 'd_en never_en want_en to_en change_en your_en logo_en ._en
+you_en want_en it_en to_en be_en consistent_en ._en
+and_en we_en said_en ,_en "_en well_en ,_en that_en does_en n't_en sound_en so_en much_en fun_en ._en
+why_en do_en n't_en we_en try_en changing_en it_en every_en day_en ?_en "_en
+one_en of_en the_en things_en that_en really_en excites_en me_en about_en what_en we_en 're_en doing_en now_en is_en we_en have_en this_en thing_en called_en adsense_en ,_en and_en this_en is_en a_en little_en bit_en foreshadowing_en --_en this_en is_en from_en before_en dean_en dropped_en out_en ._en
+but_en the_en idea_en is_en ,_en like_en ,_en on_en a_en newspaper_en ,_en for_en example_en ,_en we_en show_en you_en relevant_en ads_en ._en
+and_en this_en is_en hard_en to_en read_en ,_en but_en this_en says_en "_en battle_en for_en new_en hampshire_en :_en howard_en dean_en for_en president_en "_en --_en articles_en on_en howard_en dean_en ._en
+and_en these_en ads_en are_en generated_en automatically_en --_en like_en in_en this_en case_en ,_en on_en the_en washington_en post_en --_en from_en the_en content_en on_en the_en site_en ._en
+and_en so_en we_en use_en our_en over_en 150,000_en advertisers_en and_en millions_en of_en advertisements_en ,_en so_en we_en pick_en the_en one_en that_en 's_en most_en relevant_en to_en what_en you_en 're_en actually_en looking_en at_en ,_en much_en as_en we_en do_en on_en search_en ._en
+so_en the_en idea_en is_en we_en can_en make_en advertising_en useful_en ,_en not_en just_en annoying_en ,_en right_en ?_en
+and_en the_en nice_en thing_en about_en this_en ,_en we_en have_en a_en self_en -_en serve_en program_en ,_en and_en many_en thousands_en of_en websites_en have_en signed_en up_en ,_en and_en this_en let_en 's_en them_en really_en make_en money_en ._en and_en i_en --_en you_en know_en ,_en there_en 's_en a_en number_en of_en people_en i_en met_en --_en i_en met_en this_en guy_en who_en runs_en a_en conservation_en site_en at_en a_en party_en ,_en and_en he_en said_en ,_en "_en you_en know_en ,_en i_en was_en n't_en making_en any_en money_en ._en
+i_en just_en put_en this_en thing_en on_en my_en site_en and_en i_en 'm_en making_en 10,000_en dollars_en a_en month_en ._en
+and_en ,_en you_en know_en ,_en thank_en you_en ._en
+i_en do_en n't_en have_en to_en do_en my_en other_en job_en now_en ._en "_en
+and_en i_en think_en this_en is_en really_en important_en for_en us_en ,_en because_en it_en makes_en the_en internet_en work_en better_en ._en
+it_en makes_en content_en get_en better_en ,_en it_en makes_en searching_en work_en better_en ,_en when_en people_en can_en really_en make_en their_en livelihood_en from_en producing_en great_en content_en ._en
+so_en this_en session_en is_en supposed_en to_en be_en about_en the_en future_en ,_en so_en i_en 'd_en thought_en i_en 'd_en talk_en at_en least_en briefly_en about_en it_en ._en
+and_en the_en idea_en behind_en this_en is_en to_en do_en the_en perfect_en job_en doing_en search_en ,_en you_en really_en have_en to_en be_en smart_en ._en
+because_en you_en can_en type_en ,_en you_en know_en ,_en any_en kind_en of_en thing_en into_en google_en ,_en and_en you_en expect_en an_en answer_en back_en ,_en right_en ?_en
+but_en finding_en things_en is_en tricky_en ,_en and_en so_en you_en really_en want_en intelligence_en ._en
+and_en in_en fact_en ,_en the_en ultimate_en search_en engine_en would_en be_en smart_en ._en
+it_en would_en be_en artificial_en intelligence_en ._en
+and_en so_en that_en 's_en something_en we_en work_en on_en ,_en and_en we_en even_en have_en some_en people_en who_en are_en excited_en enough_en and_en crazy_en enough_en to_en work_en on_en it_en now_en ,_en and_en that_en 's_en really_en their_en goal_en ._en
+so_en we_en always_en hope_en that_en google_en will_en be_en smart_en ,_en but_en we_en 're_en always_en surprised_en when_en other_en people_en think_en that_en it_en is_en ._en
+and_en so_en i_en just_en wanted_en to_en give_en a_en funny_en example_en of_en this_en ._en
+this_en is_en a_en blog_en from_en iraq_en ,_en and_en it_en 's_en not_en really_en what_en i_en 'm_en going_en to_en talk_en about_en ,_en but_en i_en just_en wanted_en to_en show_en you_en an_en example_en ._en
+maybe_en ,_en sergey_en ,_en you_en can_en highlight_en this_en ._en
+so_en we_en decided_en --_en actually_en ,_en the_en highlight_en 's_en right_en there_en ._en oh_en ,_en thank_en you_en ._en
+so_en ,_en "_en related_en searches_en ,_en "_en right_en there_en ._en you_en ca_en n't_en see_en it_en that_en well_en ,_en but_en we_en decided_en we_en should_en put_en in_en this_en feature_en into_en our_en adsense_en ads_en ,_en called_en "_en related_en searches_en ._en "_en
+and_en so_en we_en 'd_en say_en ,_en you_en know_en ,_en "_en did_en you_en mean_en '_en search_en for_en '_en "_en --_en what_en is_en this_en ,_en in_en this_en case_en ,_en "_en saddam_en hussein_en ,_en "_en because_en this_en blog_en is_en about_en iraq_en --_en and_en you_en know_en ,_en in_en addition_en to_en the_en ads_en ,_en and_en we_en thought_en this_en would_en be_en a_en great_en idea_en ._en
+and_en so_en there_en is_en this_en blog_en of_en a_en young_en person_en who_en was_en kind_en of_en depressed_en ,_en and_en he_en said_en ,_en "_en you_en know_en ,_en i_en 'm_en sleeping_en a_en lot_en ._en "_en
+he_en was_en just_en kind_en of_en writing_en about_en his_en life_en ._en
+and_en our_en algorithms_en --_en not_en a_en person_en ,_en of_en course_en ,_en but_en our_en algorithms_en ,_en our_en computers_en --_en read_en his_en blog_en and_en decided_en that_en the_en related_en search_en was_en ,_en "_en i_en am_en bored_en ._en "_en
+and_en he_en read_en this_en ,_en and_en he_en thought_en a_en person_en had_en decided_en that_en he_en was_en boring_en ,_en and_en it_en was_en very_en unfortunate_en ,_en and_en he_en said_en ,_en "_en you_en know_en ,_en what_en are_en these_en ,_en you_en know_en ,_en bastards_en at_en google_en doing_en ?_en
+why_en do_en n't_en they_en like_en my_en blog_en ?_en "_en
+and_en so_en then_en we_en read_en his_en blog_en ,_en which_en was_en getting_en --_en you_en know_en ,_en sort_en of_en going_en from_en bad_en to_en worse_en ,_en and_en we_en said_en the_en related_en search_en was_en ,_en "_en retards_en ._en "_en
+and_en then_en ,_en you_en know_en ,_en he_en got_en even_en more_en mad_en ,_en and_en he_en wrote_en --_en like_en ,_en started_en swearing_en and_en so_en on_en ._en
+and_en then_en we_en produced_en "_en you_en suck_en ._en "_en
+and_en finally_en ,_en it_en ended_en with_en "_en kiss_en my_en ass_en ._en "_en
+and_en so_en basically_en ,_en he_en thought_en he_en was_en dealing_en with_en something_en smart_en ,_en and_en of_en course_en ,_en you_en know_en ,_en we_en just_en sort_en of_en wrote_en this_en program_en and_en we_en tried_en it_en out_en ,_en and_en it_en did_en n't_en quite_en work_en ,_en and_en we_en do_en n't_en have_en this_en feature_en anymore_en ._en
+so_en with_en that_en ,_en maybe_en i_en can_en switch_en back_en to_en the_en world_en ._en
+i_en wanted_en to_en end_en just_en by_en saying_en that_en there_en 's_en a_en couple_en things_en that_en really_en make_en me_en excited_en to_en be_en involved_en with_en google_en ,_en and_en one_en of_en those_en is_en that_en we_en 're_en able_en to_en make_en money_en largely_en through_en advertising_en ,_en and_en one_en of_en the_en benefits_en that_en i_en did_en n't_en expect_en from_en that_en was_en that_en we_en 're_en able_en to_en serve_en everyone_en in_en the_en world_en without_en worrying_en about_en ,_en you_en know_en ,_en places_en that_en do_en n't_en have_en as_en much_en money_en ._en
+so_en we_en do_en n't_en have_en to_en worry_en about_en our_en products_en being_en sold_en ,_en for_en example_en ,_en for_en less_en money_en in_en places_en that_en are_en poor_en ,_en and_en then_en they_en get_en re_en -_en imported_en into_en the_en u.s._en --_en for_en example_en ,_en with_en the_en drug_en industry_en ._en
+and_en i_en think_en we_en 're_en really_en lucky_en to_en have_en that_en kind_en of_en business_en model_en because_en everyone_en in_en the_en world_en has_en access_en to_en our_en search_en ,_en and_en i_en think_en that_en 's_en a_en tremendous_en ,_en tremendous_en benefit_en ._en
+the_en other_en thing_en i_en wanted_en to_en mention_en just_en briefly_en is_en that_en we_en have_en a_en tremendous_en ability_en and_en responsibility_en to_en provide_en people_en the_en right_en information_en ,_en and_en we_en view_en ourselves_en like_en a_en newspaper_en or_en a_en magazine_en --_en that_en we_en should_en provide_en very_en objective_en information_en ._en
+and_en so_en in_en our_en search_en results_en ,_en we_en never_en accept_en payment_en for_en our_en search_en results_en ._en
+we_en accept_en payment_en for_en advertising_en ,_en and_en we_en mark_en it_en as_en such_en ._en
+and_en that_en 's_en unlike_en many_en of_en our_en competitors_en ._en
+and_en i_en think_en decisions_en we_en 're_en able_en to_en make_en like_en that_en have_en a_en tremendous_en impact_en on_en the_en world_en ,_en and_en it_en makes_en me_en really_en proud_en to_en be_en involved_en with_en google_en ._en
+so_en thank_en you_en ._en

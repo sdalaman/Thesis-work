@@ -1,0 +1,153 @@
+je m'appelle seth priebatsch . je suis le chef ninja de scvngr .
+je suis un fier étudiant ayant quitté princeton .
+fier également d'avoir déménagé ici à boston , où j'ai en fait grandi .
+oui , boston .
+trop facile . je pourrais vous citer tous les cantons du coin .
+je suis donc motivé à essayer de construire une couche de jeu au dessus du monde .
+c'est une sorte de nouveau concept , et c'est vraiment important .
+alors que la dernière décennie a été la décennie du social et la décennie où l'architecture dans laquelle nous nous connectons aux autres a été construite , la prochaine décennie sera la décennie où nous construirons une architecture de jeu , où les motivations que nous utilisons pour influencer le comportement , et la structure dans laquelle elles sont construites , se décident , et c'est vraiment important .
+je dis donc que je veux construire une couche de jeu au dessus du monde , mais ce n'est pas tout à fait vrai parce que elle est déjà en construction ; c'est déjà en train d'arriver .
+et ça ressemble à peu près à ça en ce moment .
+ça ressemble un peu à ce qu'a fait le web en 1997 , pas vrai ?
+ce n'est pas très bien . c'est bien chargé .
+c'est plein de choses toutes différentes qui , en bref , ne sont pas très amusantes .
+il y a des programmes de cartes bancaires et de miles aériens et des systèmes de coupons , tous ces programmes de fidélité qui en fait utilisent des dynamiques de jeu et construisent en fait la couche de jeu , ils sont juste nuls .
+ils ne sont pas très bien conçus , pas vrai ?
+donc , pas de chance .
+mais heureusement , comme dit mon héro d'action préféré , bob the _UNK_ , " on peut faire mieux . on peut mieux le construire . " et les instruments , les ressources que nous utilisons pour construire une couche de jeu sont les dynamiques de jeu elles - mêmes .
+et donc l'essentiel de cette présentation est de passer en revue quatre importantes dynamiques de jeu , très intéressantes , qui , utilisées avec conscience , peuvent être utilisé pour influencer le comportement , pour le bien , pour le mal , et entre les deux .
+espérons pour le bien .
+mais cela représente les étapes importantes dans lesquelles cette structure va se construire , on veut donc tous y penser consciemment dès maintenant .
+juste avant de nous y plonger , une question : pourquoi est - ce important ?
+je suis quelque part en train d'affirmer qu'il y a une couche de jeu au - dessus du monde , et qu'il est très important de la contruire correctement .
+la raison pour laquelle c'est si important est que , dans la dernière décennie nous avons vu la construction d'une couche sociale , d'une architecture pour les connexions , et la construction de cette couche est terminée , c'est fini .
+il y a encore beaucoup de chose à explorer .
+il y a encore beaucoup de gens qui essayent de comprendre le social et comment en tirer profit et comment l'utiliser , mais l'architecture en elle - même est faite , et ça s'appelle facebook .
+et ce n'est pas mal , pas vrai ? beaucoup de gens sont contents de facebook .
+je l'aime bien aussi .
+ils ont créé cette chose qui s'appelle open graph , et ils possèdent toutes nos connexions .
+ils possèdent un demi - milliard de personnes .
+donc quand vous voulez construire sur la couche sociale , l'architecture a été décidée : c'est l'api open graph .
+et si ça vous plait , c'est super .
+autrement , tant pis pour vous . vous ne pouvez rien y faire .
+mais la prochaine décennie -- et c'est vrai .
+je veux dire , nous voulons construire des architectures qui fasse en sorte que ça soit acceptable et les rendre , vous savez , efficaces sur la route .
+donc la couche sociale s'intéresse à toutes ces connexions .
+la couche de jeu s'intéresse à l'influence .
+il ne s'agit pas d'ajouter un tissu social au web et de vous connecter à d'autres gens partout où vous êtes et partout où vous allez .
+en fait il s'agit l'utilisation de dynamiques , de forces , pour influencer le comportement là où vous êtes , ce que vous y faites , et comment vous le faites .
+ceci est vraiment très , très puissant , et ça va être même plus important que la couche sociale .
+ça va influencer nos vies plus profondément et probablement de manière invisible .
+c'est donc tellement critique qu'en ce moment même , pendant que ça se construit , pendant que des structures comme facebook , comme open graph , se créent pour l'équivalent de la couche de jeu , que nous y pensions très consciemment , et que nous le fassions de manière ouverte , disponible , pour pouvoir l'utiliser de la bonne façon .
+voila ce dont je veux parler pour les dynamiques de jeu , parce que la construction a commencé , et plus nous y pensons consciemment , mieux nous pourrons l'utiliser pour ce que nous voulons .
+donc , comme je vous disais , le moyen pour construire la couche de jeu n'est pas avec du verre , de l'acier et du ciment .
+et les ressources que nous utilisons ce ne sont pas des étendues de terres a deux dimensions que nous avons .
+les ressources sont le partage des intelligences et les matières premières sont les dynamiques de jeu .
+avec ça , vous voyez , quelques dynamiques de jeu à envisager .
+quatre . a scvngr , on aime se moquer en disant qu'avec sept dynamiques de jeu , vous pouvez faire faire n'importe quoi à n'importe qui .
+donc aujourd'hui je vais vous parler de quatre d'entre elles , parce que j'espère avoir encore un avantage compétitif à la fin de ce discours .
+donc le premier , c'est une dynamique de jeu très simple .
+ça s'appelle la dynamique du rendez - vous .
+et c'est une dynamique dans laquelle , pour réussir , les joueurs doivent faire quelque chose à un moment déterminé , généralement dans un lieu déterminé .
+et ces dynamiques sont parfois effrayantes parce que vous vous dites que d'autres personnes peuvent utiliser des forces pour manipuler mon interaction , ce que je fais , où je le fais , quand je le fais .
+cette sorte de perte du libre arbitre qui arrive dans les jeux peut être _UNK_ , donc pour chaque dynamique , je vais vous donner trois exemples -- un qui montre comment on s'en sert déjà dans le monde réel , pour que vous puissiez rationaliser un petit peu , un qui démontre son utilisation dans les jeux conventionnels -- je crois que tout est un jeu , ici c'est plutôt ce que vous pourriez penser d'un jeu joué sur une table ou sur un écran , un sur comment elle peut être utilisé pour le bien , pour qu'on puisse voir que ces forces peuvent être vraiment puissantes .
+donc le premier -- la plus célèbre dynamique de rendez - vous au monde -- est ce qu'on appelle les " happy hour " .
+j'ai donc quitté très récemment princeton et je me suis retrouvé pour la première fois dans un bar , et j'ai remarqué ces " happy hour " partout , d'accord .
+et c'est simplement une dynamique de rendez - vous .
+viens à une certaine heure , on se paye un verre à moitié prix .
+pour gagner , tout ce que vous avez à faire c'est vous présenter au bon endroit à la bonne heure .
+cette dynamique de jeu est tellement puissante , qu'elle _UNK_ non seulement notre comportement , mais aussi la culture toute entière .
+c'est vraiment une pensée effrayante , qu'une seule dynamique de jeu peut changer complètement les choses .
+elle existe aussi dans des formes de jeu plus conventionnels .
+je suis sûr que vous avez tous entendu parler de farmville .
+sinon , je vous recommande d'y jouer .
+vous ne ferez rien d'autre du reste de la journée .
+farmville a plus d'utilisateurs actifs que twitter .
+c'est incroyablement puissant , et il a cette dynamique dans laquelle vous êtes obligé de revenir à une certaine heure pour arroser vos cultures -- fausse culture -- autrement elles _UNK_ .
+et c'est tellement puissant que , lorsqu'ils changent leurs statistiques , quand ils vous disent que vos cultures sont mortes huit heures après , ou six heures après , ou 24 heures après , ça change le cycle de vie de 70 millions et quelque personnes pendant la journée .
+les gens reviennent comme des horloges à différents moments .
+donc , s'ils voulaient en finir avec le monde , ou arrêter la productivité , ils pourraient en faire un cycle de 30 minutes , et on ne pourrait rien faire d'autre .
+ça fait peur .
+mais on pourrait aussi l'utiliser pour le bien .
+voici une société locale qui s'appelle _UNK_ , et ils ont créé ce produit pour aider les gens à prendre leurs médicaments à l'heure .
+c'est un rendez - vous .
+c'est quelque chose que les gens ne font pas très bien .
+et ils ont ces " _UNK_ " qui s'illuminent et vous envoient des courriels et font toutes sortes de choses amusantes pour vous rappeler de prendre votre médicament .
+celui la n'est pas encore un jeu , mais il devrait l'être .
+vous devriez obtenir des points pour faire ça à temps .
+vous devriez en perdre quand vous ne le faites pas .
+ils devraient être conscients du fait qu'ils ont construit une dynamique de rendez - vous et tirer profit du jeu .
+et vous pouvez vraiment obtenir de bons résultats de manière très intéressante .
+on va passer à la suivante , peut - être . oui .
+influence et statut .
+donc voici une des plus célèbres dynamiques de jeu .
+on l'utilise partout .
+c'est utilisé dans votre portefeuille , en ce moment même .
+tout le monde veut cette carte bancaire tout à gauche parce qu'elle est noire .
+et vous voyez quelqu'un chez cvs ou -- pas cvs -- chez christian _UNK_ ou par là , et après ... je ne sais pas . je n'ai pas de carte noire : j'ai une carte de débit .
+donc ils la sortent . et vous voyez des hommes , ils ont cette carte .
+je la veux parce que ça veut dire qu'ils sont plus cool que moi , et j'en ai besoin .
+et ça s'utilise dans les jeux également .
+" modern _UNK_ " , un des jeux les plus vendus de tous les temps .
+je suis un niveau 4 , mais je veux désespérément être un niveau 10 , parce qu'ils ont ce superbe badge rouge , et ça signifie en quelque sorte que je suis meilleur que tous les autres .
+et ça a beaucoup _UNK_ sur moi . le statut est un vrai _UNK_ .
+on l'utilise également dans des cadres plus conventionnels et peut être utilisé plus consciemment dans des cadres conventionnels .
+l'école -- et souvenez - vous , j'y suis passé pendant un an , je suis donc qualifié pour parler d'école -- est un jeu , juste un jeu pas très bien conçu , d'accord .
+il y a des niveaux . il y a les c. il y a les b. il y a les a.
+il ya des statuts . je veux dire , qu'est ce qu'un major si ce n'est pas un statut ?
+si on appelle major un " chevalier blanc paladin niveau 20 " , je pense que les gens travailleraient beaucoup plus .
+donc l'école est un jeu . et il y a eu plein d'expériences sur comment faire ça correctement .
+mais utilisons - la consciemment . comme , pourquoi avoir des jeux où on peut perdre ?
+pourquoi passer de a à f ou de b à c ?
+c'est bête . pourquoi ne pas monter en niveau ?
+et à princeton ils ont en fait testé cela , avec des questionnaires où vous gagnez des points expériences , et vous passez du niveau b au niveau a.
+et c'est très puissant .
+il peut être utilisé de façon intéressante .
+la troisième donc je veux vous parler rapidement c'est la dynamique de progression , ou en quelque sorte vous devez faire des progrès , vous devez passer à travers différentes étapes de manière _UNK_ .
+on l'utilise partout , linkedin inclus , où je suis un individu pas tout à fait complet .
+je suis seulement complet à 85 % sur linkedin , et ça m'embête .
+et c'est tellement incrusté dans votre tête que , lorsque nous avons une barre de progression présentée avec des étapes faciles , bien définies à passer pour essayer de compléter cette barre , nous allons le faire .
+on trouvera un moyen de faire bouger cette barre bleue .
+jusqu'au bout à droite de l'écran .
+on l'utilise également dans les jeux conventionnels .
+je veux dire , ceci est un paladin niveau 10 , et celui est un paladin niveau 20 , et si vous deviez combattre , par exemple , des orques sur les terres de _UNK_ contre le raz al _UNK_ , vous voudrez probablement être le plus grand , pas vrai .
+moi oui .
+donc les gens travaillent durement pour monter en niveau .
+" world of warcraft " est un des jeux les plus réussis de tous les temps .
+le joueur moyen passe à peu près six à six heures et demi par jour dessus .
+pour les joueurs les plus dévoués , c'est un travail plein - temps .
+c'est dingue . et ils ont ces systèmes où vous pouvez monter en niveau .
+et c'est vraiment très puissant . la progression a un effet puissant .
+elle peut être utilisée de manière très convaincante pour le bien .
+une des choses sur lesquelles on travaille à scvngr est l'utilisation des jeux pour piloter les flux et pousser les commerces aux affaires locales , vers quelque chose qui est vraiment important pour l'économie .
+et ici vous avez un jeu que les gens jouent .
+ils vont dans des endroits , ils acceptent des défis , ils gagnent des points .
+et on a introduit une dynamique de progression , où , en allant régulièrement à un endroit , en acceptant des défis , en s'engageant dans les affaires , vous avancez sur une barre verte de gauche à droite de l'écran , et vous finissez par débloquer des récompenses .
+et c'est assez puissant pour que l'on voit que ça accroche les gens à ces dynamiques , ça les tire à nouveau vers les affaires locales , ça crée une forte loyauté , ça crée de l'engagement , et c'est capable de générer du profit de l'amusement et de l'engagement par rapport aux affaires .
+ces dynamiques de progression sont puissantes et peuvent être utilisées dans le monde réel .
+la dernière donc je veux vous parler -- une remarquable pour terminer -- c'est le concept de découverte collective , une dynamique dans laquelle tout le monde travaille ensemble pour atteindre quelque chose .
+une découverte collective est puissante parce qu'elle pousse le réseau , la société à résoudre des problèmes .
+on l'utilise dans certaines histoires célèbres du web qui viennent des consommateurs , comme digg , dont je suis sûr que vous en avez entendu parler .
+digg est une dynamique collective pour essayer de trouver les meilleures informations , les histoires les plus intéressantes .
+et ils en avaient fait un jeu , au début .
+ils avaient un classement où , si vous _UNK_ les meilleures histoires , vous obteniez des points .
+et ça motivait vraiment les gens à chercher les meilleures histoires .
+mais c'est devenu tellement puissant , qu'il y a eu en fait un cartel , un groupe de personnes , les sept premiers du classement , qui ont travaillé ensemble pour être sûr de maintenir leurs positions .
+et ils recommandaient les histoires d'autres gens .
+et le jeu est devenu plus puissant que l'objectif .
+et ils ont donc dû finir par fermer le classement parce que , pendant qu'il était actif , c'était tellement puissant qu'on avait plus vraiment les meilleures histoires et qu'il y avait des gens qui travaillaient pour maintenir leurs positions .
+on doit donc l'utiliser avec précaution .
+elle est utilisée également dans des choses comme le monopoly mcdonald 's , où le jeu n'est pas le jeu du monopoly habituel , mais une espèce de petites industries qui se forment pour essayer de trouver boardwalk .
+et maintenant ils sont en train de chercher un autocollant qui dit " boardwalk " .
+mais il peut être également utilisé pour trouver des choses réelles .
+ceci est le défi des ballons de la darpa , où ils ont dissimulés un certain nombre de ballons aux etats - unis et ils ont dit , " utilisez les réseaux .
+essayez de trouver ces ballons le plus vite possible , et le vainqueur gagnera 40 000 $ " .
+et le gagnant a été en fait un groupe du mit , qui avaient créé une sorte de schéma en pyramide , un réseau , où la première personne qui donne un conseil sur l'emplacement du ballon gagne 2 000 $ et n'importe qui soutient ce conseil en gagne également une partie .
+et en 12 heures , ils ont été capables de trouver tous ces ballons , dans tout le pays .
+une dynamique très puissante .
+il me reste donc 20 secondes , donc si je dois vous quitter avec quelque chose , la dernière décennie a été la décennie du social .
+la prochaine décennie va être celle des jeux .
+on utilise les dynamiques de jeu pour construire dessus . on construit avec le partage des idées .
+on peut influencer le comportement .
+c'est très puissant . c'est très excitant .
+construisons - le ensemble , faisons - le bien et amusons - nous .

@@ -1,0 +1,153 @@
+my_en name_en 's_en seth_en priebatsch_en ._en i_en 'm_en the_en chief_en ninja_en of_en scvngr_en ._en
+i_en am_en a_en proud_en princeton_en dropout_en ._en
+also_en proud_en to_en have_en relocated_en here_en to_en boston_en ,_en where_en i_en actually_en grew_en up_en ._en
+yeah_en ,_en boston_en ._en
+easy_en wins_en ._en i_en should_en just_en go_en and_en name_en the_en counties_en that_en we_en 've_en got_en around_en here_en ._en
+so_en ,_en i_en 'm_en also_en fairly_en determined_en to_en try_en and_en build_en a_en game_en layer_en on_en top_en of_en the_en world_en ._en
+and_en this_en is_en sort_en of_en a_en new_en concept_en ,_en and_en it_en 's_en really_en important_en ._en
+because_en while_en the_en last_en decade_en was_en the_en decade_en of_en social_en and_en the_en decade_en of_en where_en the_en framework_en in_en which_en we_en connect_en with_en other_en people_en was_en built_en ,_en this_en next_en decade_en will_en be_en the_en decade_en where_en the_en game_en framework_en is_en built_en ,_en where_en the_en motivations_en that_en we_en use_en to_en actually_en influence_en behavior_en ,_en and_en the_en framework_en in_en which_en that_en is_en constructed_en ,_en is_en decided_en upon_en ,_en and_en that_en 's_en really_en important_en ._en
+and_en so_en i_en say_en that_en i_en want_en to_en build_en a_en game_en layer_en on_en top_en of_en the_en world_en ,_en but_en that_en 's_en not_en quite_en true_en because_en it_en 's_en already_en under_en construction_en ;_en it_en 's_en already_en happening_en ._en
+and_en it_en looks_en like_en this_en right_en now_en ._en
+it_en looks_en like_en the_en web_en did_en back_en in_en 1997_en ,_en right_en ?_en
+it_en 's_en not_en very_en good_en ._en it_en 's_en cluttered_en ._en
+it_en 's_en filled_en with_en lots_en of_en different_en things_en that_en ,_en in_en short_en ,_en are_en n't_en that_en fun_en ._en
+there_en are_en credit_en card_en schemes_en and_en airline_en mile_en programs_en and_en coupon_en cards_en and_en all_en these_en loyalty_en schemes_en that_en actually_en do_en use_en game_en dynamics_en and_en actually_en are_en building_en the_en game_en layer_en :_en they_en just_en suck_en ._en
+they_en 're_en not_en very_en well_en designed_en ,_en right_en ?_en
+so_en ,_en that_en 's_en unfortunate_en ._en
+but_en luckily_en ,_en as_en my_en favorite_en action_en hero_en ,_en bob_en the_en builder_en ,_en says_en ,_en "_en we_en can_en do_en better_en ._en we_en can_en build_en this_en better_en ._en "_en
+and_en the_en tools_en ,_en the_en resources_en that_en we_en use_en to_en build_en a_en game_en layer_en are_en game_en dynamics_en themselves_en ._en
+and_en so_en ,_en sort_en of_en ,_en the_en crux_en of_en this_en presentation_en is_en going_en to_en go_en through_en four_en really_en important_en game_en dynamics_en ,_en really_en interesting_en things_en ,_en that_en ,_en if_en you_en use_en consciously_en ,_en you_en can_en use_en to_en influence_en behavior_en ,_en both_en for_en good_en ,_en for_en bad_en ,_en for_en in_en -_en between_en ._en
+hopefully_en for_en good_en ._en
+but_en this_en is_en sort_en of_en the_en important_en stages_en in_en which_en that_en framework_en will_en get_en built_en ,_en and_en so_en we_en want_en to_en all_en be_en thinking_en about_en it_en consciously_en now_en ._en
+just_en before_en we_en jump_en into_en that_en ,_en there_en 's_en sort_en of_en a_en question_en of_en :_en why_en is_en this_en important_en ?_en
+i_en 'm_en sort_en of_en making_en this_en claim_en that_en there_en is_en a_en game_en layer_en on_en top_en of_en the_en world_en ,_en and_en that_en it_en 's_en very_en important_en that_en we_en build_en it_en properly_en ._en
+the_en reason_en that_en it_en 's_en so_en important_en is_en that_en ,_en the_en last_en decade_en ,_en what_en we_en 've_en seen_en has_en been_en building_en the_en social_en layer_en ,_en has_en been_en this_en framework_en for_en connections_en ,_en and_en construction_en on_en that_en layer_en is_en over_en ,_en it_en 's_en finished_en ._en
+there_en 's_en still_en a_en lot_en to_en explore_en ._en
+there_en 's_en still_en a_en lot_en of_en people_en who_en are_en trying_en to_en figure_en out_en social_en and_en how_en do_en we_en leverage_en this_en and_en how_en do_en we_en use_en this_en ,_en but_en the_en framework_en itself_en is_en done_en ,_en and_en it_en 's_en called_en facebook_en ._en
+and_en that_en 's_en okay_en ,_en right_en ?_en a_en lot_en of_en people_en are_en very_en happy_en with_en facebook_en ._en
+i_en like_en it_en quite_en a_en lot_en ._en
+they_en 've_en created_en this_en thing_en called_en the_en open_en graph_en ,_en and_en they_en own_en all_en of_en our_en connections_en ._en
+they_en own_en half_en a_en billion_en people_en ._en
+and_en so_en when_en you_en want_en to_en build_en on_en the_en social_en layer_en ,_en the_en framework_en has_en been_en decided_en ;_en it_en is_en the_en open_en graph_en api_en ._en
+and_en if_en you_en 're_en happy_en with_en that_en ,_en fantastic_en ._en
+if_en you_en 're_en not_en ,_en too_en bad_en ._en there_en 's_en nothing_en you_en can_en do_en ._en
+but_en this_en next_en decade_en --_en and_en that_en 's_en a_en real_en thing_en ._en
+i_en mean_en ,_en we_en want_en to_en build_en frameworks_en in_en a_en way_en that_en makes_en it_en acceptable_en and_en makes_en it_en ,_en you_en know_en ,_en productive_en down_en the_en road_en ._en
+so_en ,_en the_en social_en layer_en is_en all_en about_en these_en connections_en ._en
+the_en game_en layer_en is_en all_en about_en influence_en ._en
+it_en 's_en not_en about_en adding_en a_en social_en fabric_en to_en the_en web_en and_en connecting_en you_en to_en other_en people_en everywhere_en you_en are_en and_en everywhere_en you_en go_en ._en
+it_en 's_en actually_en about_en using_en dynamics_en ,_en using_en forces_en ,_en to_en influence_en the_en behavior_en of_en where_en you_en are_en ,_en what_en you_en do_en there_en ,_en how_en you_en do_en it_en ._en
+that_en 's_en really_en ,_en really_en powerful_en ,_en and_en it_en 's_en going_en to_en be_en more_en important_en than_en the_en social_en layer_en ._en
+it_en 's_en going_en to_en affect_en our_en lives_en more_en deeply_en and_en perhaps_en more_en invisibly_en ._en
+and_en so_en it_en 's_en incredibly_en critical_en that_en at_en this_en moment_en ,_en while_en it_en 's_en just_en getting_en constructed_en ,_en while_en the_en frameworks_en like_en facebook_en ,_en like_en the_en open_en graph_en ,_en are_en being_en created_en for_en the_en game_en layer_en equivalent_en ,_en that_en we_en think_en about_en it_en very_en consciously_en ,_en and_en that_en we_en do_en it_en in_en a_en way_en that_en is_en open_en ,_en that_en is_en available_en ,_en and_en that_en can_en be_en leveraged_en for_en good_en ._en
+and_en so_en that_en 's_en what_en i_en want_en to_en talk_en about_en for_en game_en dynamics_en ,_en because_en construction_en has_en just_en begun_en ,_en and_en the_en more_en consciously_en we_en can_en think_en about_en this_en ,_en the_en better_en we_en 'll_en be_en able_en to_en use_en it_en for_en anything_en that_en we_en want_en ._en
+so_en like_en i_en said_en ,_en the_en way_en that_en you_en go_en through_en and_en build_en on_en the_en game_en layer_en is_en not_en with_en glass_en and_en steel_en and_en cement_en ._en
+and_en the_en resources_en that_en we_en use_en are_en not_en this_en two_en -_en dimensional_en swath_en of_en land_en that_en we_en have_en ._en
+the_en resources_en are_en mindshare_en and_en the_en tools_en ,_en the_en raw_en materials_en are_en these_en game_en dynamics_en ._en
+so_en with_en that_en ,_en you_en know_en ,_en a_en couple_en game_en dynamics_en to_en talk_en about_en ._en
+four_en ._en back_en at_en scvngr_en ,_en we_en like_en to_en joke_en that_en with_en seven_en game_en dynamics_en ,_en you_en can_en get_en anyone_en to_en do_en anything_en ._en
+and_en so_en today_en ,_en i_en 'm_en going_en to_en show_en you_en four_en ,_en because_en i_en hope_en to_en have_en a_en competitive_en advantage_en at_en the_en end_en of_en this_en ,_en still_en ._en
+so_en the_en first_en one_en ,_en it_en 's_en a_en very_en simple_en game_en dynamic_en ._en
+it_en 's_en called_en the_en appointment_en dynamic_en ._en
+and_en this_en is_en a_en dynamic_en in_en which_en to_en succeed_en ,_en players_en have_en to_en do_en something_en at_en a_en predefined_en time_en ,_en generally_en at_en a_en predefined_en place_en ._en
+and_en these_en dynamics_en are_en a_en little_en scary_en sometimes_en ,_en because_en you_en think_en ,_en you_en know_en ,_en other_en people_en can_en be_en using_en forces_en that_en will_en manipulate_en how_en i_en interact_en :_en what_en i_en do_en ,_en where_en i_en do_en it_en ,_en when_en i_en do_en it_en ._en
+this_en sort_en of_en loss_en of_en free_en will_en that_en occurs_en in_en games_en can_en be_en frightening_en ,_en so_en with_en each_en dynamic_en ,_en i_en 'm_en going_en to_en give_en three_en examples_en :_en one_en that_en shows_en how_en this_en is_en already_en being_en used_en in_en the_en real_en world_en ,_en so_en you_en can_en sort_en of_en rationalize_en it_en a_en little_en bit_en ;_en one_en that_en shows_en it_en in_en what_en we_en consider_en a_en conventional_en game_en --_en i_en think_en everything_en is_en a_en game_en ,_en but_en this_en is_en sort_en of_en more_en of_en a_en what_en you_en would_en think_en is_en a_en game_en played_en on_en a_en board_en or_en on_en a_en computer_en screen_en ,_en and_en then_en one_en how_en this_en can_en be_en used_en for_en good_en ,_en so_en we_en can_en see_en that_en these_en forces_en can_en really_en be_en very_en powerful_en ._en
+so_en the_en first_en one_en --_en the_en most_en famous_en appointment_en dynamic_en in_en the_en world_en --_en is_en something_en called_en happy_en hour_en ._en
+so_en i_en just_en recently_en dropped_en out_en of_en princeton_en and_en actually_en ended_en up_en for_en the_en first_en time_en in_en a_en bar_en ,_en and_en i_en saw_en these_en happy_en hour_en things_en all_en over_en the_en place_en ,_en right_en ._en
+and_en this_en is_en simply_en an_en appointment_en dynamic_en ._en
+come_en here_en at_en a_en certain_en time_en ,_en get_en your_en drinks_en half_en off_en ._en
+to_en win_en ,_en all_en you_en have_en to_en do_en is_en show_en up_en at_en the_en right_en place_en at_en the_en right_en time_en ._en
+this_en game_en dynamic_en is_en so_en powerful_en that_en it_en does_en n't_en just_en influence_en our_en behavior_en ,_en it_en 's_en influenced_en our_en entire_en culture_en ._en
+that_en 's_en a_en really_en scary_en thought_en ,_en that_en one_en game_en dynamic_en can_en change_en things_en so_en powerfully_en ._en
+it_en also_en exists_en in_en more_en conventional_en game_en forms_en ._en
+i_en 'm_en sure_en you_en 've_en all_en heard_en of_en farmville_en by_en now_en ._en
+if_en you_en have_en n't_en ,_en i_en recommend_en playing_en it_en ._en
+you_en wo_en n't_en do_en anything_en else_en with_en the_en rest_en of_en your_en day_en ._en
+farmville_en has_en more_en active_en users_en than_en twitter_en ._en
+it_en 's_en incredibly_en powerful_en ,_en and_en it_en has_en this_en dynamic_en where_en you_en have_en to_en return_en at_en a_en certain_en time_en to_en water_en your_en crops_en --_en fake_en crops_en --_en or_en they_en wilt_en ._en
+and_en this_en is_en so_en powerful_en that_en ,_en when_en they_en tweak_en their_en stats_en ,_en when_en they_en say_en your_en crops_en wilt_en after_en eight_en hours_en ,_en or_en after_en six_en hours_en ,_en or_en after_en 24_en hours_en ,_en it_en changes_en the_en lifecycle_en of_en 70_en million_en -_en some_en people_en during_en the_en day_en ._en
+they_en will_en return_en like_en clockwork_en at_en different_en times_en ._en
+so_en if_en they_en wanted_en the_en world_en to_en end_en ,_en if_en they_en wanted_en productivity_en to_en stop_en ,_en they_en could_en make_en this_en a_en 30_en -_en minute_en cycle_en ,_en and_en no_en one_en could_en do_en anything_en else_en ,_en right_en ?_en
+that_en 's_en a_en little_en scary_en ._en
+but_en this_en could_en also_en be_en used_en for_en good_en ._en
+this_en is_en a_en local_en company_en called_en vitality_en ,_en and_en they_en 've_en created_en a_en product_en to_en help_en people_en take_en their_en medicine_en on_en time_en ._en
+that_en 's_en an_en appointment_en ._en
+it_en 's_en something_en that_en people_en do_en n't_en do_en very_en well_en ._en
+and_en they_en have_en these_en glowcaps_en ,_en which_en ,_en you_en know_en ,_en flash_en and_en email_en you_en and_en do_en all_en sorts_en of_en cool_en things_en to_en remind_en you_en to_en take_en your_en medicine_en ._en
+this_en is_en one_en that_en is_en n't_en a_en game_en yet_en ,_en but_en really_en should_en be_en ._en
+you_en should_en get_en points_en for_en doing_en this_en on_en time_en ._en
+you_en should_en lose_en points_en for_en not_en doing_en this_en on_en time_en ._en
+they_en should_en consciously_en recognize_en that_en they_en 've_en built_en an_en appointment_en dynamic_en and_en leverage_en the_en games_en ._en
+and_en then_en you_en can_en really_en achieve_en good_en in_en some_en interesting_en ways_en ._en
+we_en 're_en going_en to_en jump_en onto_en the_en next_en one_en ,_en maybe_en ._en yes_en ._en
+influence_en and_en status_en ._en
+so_en this_en is_en one_en of_en the_en most_en famous_en game_en dynamics_en ._en
+it_en 's_en used_en all_en over_en the_en place_en ._en
+it_en 's_en used_en in_en your_en wallets_en ,_en right_en now_en ._en
+we_en all_en want_en that_en credit_en card_en on_en the_en far_en left_en because_en it_en 's_en black_en ._en
+and_en you_en see_en someone_en at_en cvs_en or_en --_en not_en cvs_en --_en at_en christian_en dior_en or_en something_en ,_en and_en then_en ..._en
+i_en do_en n't_en know_en ._en i_en do_en n't_en have_en a_en black_en card_en ;_en i_en 've_en got_en a_en debit_en card_en ._en
+so_en they_en whip_en it_en out_en ._en and_en you_en see_en men_en ,_en they_en have_en that_en black_en card_en ._en
+i_en want_en that_en because_en that_en means_en that_en they_en 're_en cooler_en than_en i_en am_en ,_en and_en i_en need_en that_en ._en
+and_en this_en is_en used_en in_en games_en as_en well_en ._en
+"_en modern_en warfare_en ,_en "_en one_en of_en the_en most_en successful_en selling_en games_en of_en all_en time_en ._en
+i_en 'm_en only_en a_en level_en four_en ,_en but_en i_en desperately_en want_en to_en be_en a_en level_en 10_en ,_en because_en they_en 've_en got_en that_en cool_en red_en badge_en thing_en ,_en and_en that_en means_en that_en i_en am_en somehow_en better_en than_en everyone_en else_en ._en
+and_en that_en 's_en very_en powerful_en to_en me_en ._en status_en is_en really_en good_en motivator_en ._en
+it_en 's_en also_en used_en in_en more_en conventional_en settings_en and_en can_en be_en used_en more_en consciously_en in_en conventional_en settings_en ._en
+school_en --_en and_en remember_en ,_en i_en made_en it_en through_en one_en year_en ,_en so_en i_en think_en i_en 'm_en qualified_en to_en talk_en on_en school_en --_en is_en a_en game_en ,_en it_en 's_en just_en not_en a_en terribly_en well_en -_en designed_en game_en ,_en right_en ._en
+there_en are_en levels_en ._en there_en are_en c._en there_en are_en b._en there_en is_en a._en
+there_en are_en statuses_en ._en i_en mean_en ,_en what_en is_en valedictorian_en ,_en but_en a_en status_en ?_en
+if_en we_en called_en valedictorian_en a_en "_en white_en knight_en paladin_en level_en 20_en ,_en "_en i_en think_en people_en would_en probably_en work_en a_en lot_en harder_en ._en
+so_en school_en is_en a_en game_en ,_en and_en there_en have_en been_en lots_en of_en experimentations_en on_en how_en we_en do_en this_en properly_en ._en
+but_en let_en 's_en use_en it_en consciously_en ._en like_en why_en have_en games_en that_en you_en can_en lose_en ?_en
+why_en go_en from_en an_en a_en to_en an_en f_en or_en a_en b_en to_en a_en c_en ?_en
+that_en sucks_en ._en why_en not_en level_en -_en up_en ?_en
+and_en at_en princeton_en ,_en they_en 've_en actually_en experimented_en with_en this_en ,_en where_en they_en have_en quizzes_en where_en you_en gain_en experience_en points_en ,_en and_en you_en level_en up_en from_en b_en to_en an_en a._en
+and_en it_en 's_en very_en powerful_en ._en
+it_en can_en be_en used_en in_en interesting_en ways_en ._en
+the_en third_en one_en i_en want_en to_en talk_en about_en quickly_en is_en the_en progression_en dynamic_en ,_en where_en you_en have_en to_en sort_en of_en make_en progress_en ,_en you_en have_en to_en move_en through_en different_en steps_en in_en a_en very_en granular_en fashion_en ._en
+this_en is_en used_en all_en over_en the_en place_en ,_en including_en linkedin_en ,_en where_en i_en am_en an_en un_en -_en whole_en individual_en ._en
+i_en am_en only_en 85_en percent_en complete_en on_en linkedin_en ,_en and_en that_en bothers_en me_en ._en
+and_en this_en is_en so_en deep_en -_en seated_en in_en our_en psyche_en that_en when_en we_en 're_en presented_en with_en a_en progress_en bar_en and_en presented_en with_en easy_en ,_en granular_en steps_en to_en take_en to_en try_en and_en complete_en that_en progress_en bar_en ,_en we_en will_en do_en it_en ._en
+we_en will_en find_en a_en way_en to_en move_en that_en blue_en line_en all_en the_en way_en to_en the_en right_en edge_en of_en the_en screen_en ._en
+this_en is_en used_en in_en conventional_en games_en as_en well_en ._en
+i_en mean_en ,_en you_en see_en this_en is_en a_en paladin_en level_en 10_en ,_en and_en that_en 's_en a_en paladin_en level_en 20_en ,_en and_en if_en you_en were_en going_en to_en fight_en ,_en you_en know_en ,_en orcs_en on_en the_en fields_en of_en mordor_en against_en the_en raz_en al_en ghul_en ,_en you_en 'd_en probably_en want_en to_en be_en the_en bigger_en one_en ,_en right_en ._en
+i_en would_en ._en
+and_en so_en people_en work_en very_en hard_en to_en level_en -_en up_en ._en
+"_en world_en of_en warcraft_en "_en is_en one_en of_en the_en most_en successful_en games_en of_en all_en time_en ._en
+the_en average_en player_en spends_en something_en like_en six_en ,_en six_en -_en and_en -_en a_en -_en half_en hours_en a_en day_en on_en it_en ._en
+their_en most_en dedicated_en players_en ,_en it_en 's_en like_en a_en full_en -_en time_en job_en ._en
+it_en 's_en insane_en ._en and_en they_en have_en these_en systems_en where_en you_en can_en level_en -_en up_en ._en
+and_en that_en 's_en a_en very_en powerful_en thing_en ._en progression_en is_en powerful_en ._en
+it_en can_en also_en be_en used_en in_en very_en compelling_en ways_en for_en good_en ._en
+one_en of_en the_en things_en that_en we_en work_en on_en at_en scvngr_en is_en how_en do_en you_en use_en games_en to_en drive_en traffic_en and_en drive_en business_en to_en local_en businesses_en ,_en to_en sort_en of_en something_en that_en is_en very_en key_en to_en the_en economy_en ._en
+and_en here_en we_en have_en a_en game_en that_en people_en play_en ._en
+they_en go_en places_en ,_en they_en do_en challenges_en ,_en they_en earn_en points_en ._en
+and_en we_en 've_en introduced_en a_en progression_en dynamic_en into_en it_en ,_en where_en ,_en by_en going_en to_en the_en same_en place_en over_en and_en over_en ,_en by_en doing_en challenges_en ,_en by_en engaging_en with_en the_en business_en ,_en you_en move_en a_en green_en bar_en from_en the_en left_en edge_en of_en the_en screen_en to_en the_en right_en edge_en of_en the_en screen_en ,_en and_en you_en eventually_en unlock_en rewards_en ._en
+and_en this_en is_en powerful_en enough_en that_en we_en can_en see_en that_en it_en hooks_en people_en into_en these_en dynamics_en ,_en pulls_en them_en back_en to_en the_en same_en local_en businesses_en ,_en creates_en huge_en loyalty_en ,_en creates_en engagement_en ,_en and_en is_en able_en to_en drive_en meaningful_en revenue_en and_en fun_en and_en engagement_en to_en businesses_en ._en
+these_en progression_en dynamics_en are_en powerful_en and_en can_en be_en used_en in_en the_en real_en world_en ._en
+the_en final_en one_en i_en want_en to_en talk_en about_en --_en and_en it_en 's_en a_en great_en one_en to_en end_en on_en --_en is_en this_en concept_en of_en communal_en discovery_en ,_en a_en dynamic_en in_en which_en everyone_en has_en to_en work_en together_en to_en achieve_en something_en ._en
+and_en communal_en discovery_en is_en powerful_en because_en it_en leverages_en the_en network_en that_en is_en society_en to_en solve_en problems_en ._en
+this_en is_en used_en in_en some_en sort_en of_en famous_en consumer_en web_en stories_en ,_en like_en digg_en ,_en which_en i_en 'm_en sure_en you_en 've_en all_en heard_en of_en ._en
+digg_en is_en a_en communal_en dynamic_en to_en try_en to_en find_en and_en source_en the_en best_en news_en ,_en the_en most_en interesting_en stories_en ._en
+and_en they_en made_en this_en into_en a_en game_en ,_en initially_en ._en
+they_en had_en a_en leader_en board_en ,_en where_en ,_en if_en you_en recommended_en the_en best_en stories_en ,_en you_en would_en get_en points_en ._en
+and_en that_en really_en motivated_en people_en to_en find_en the_en best_en stories_en ._en
+but_en it_en became_en so_en powerful_en that_en there_en was_en actually_en a_en cabal_en ,_en a_en group_en of_en people_en ,_en the_en top_en seven_en on_en the_en leader_en board_en ,_en who_en would_en work_en together_en to_en make_en sure_en they_en maintained_en that_en position_en ._en
+and_en they_en would_en recommend_en other_en people_en 's_en stories_en ,_en and_en the_en game_en became_en more_en powerful_en than_en the_en goal_en ._en
+and_en they_en actually_en had_en to_en end_en up_en shutting_en down_en the_en leader_en board_en because_en while_en it_en was_en effective_en ,_en it_en was_en so_en powerful_en that_en it_en stopped_en sourcing_en the_en best_en stories_en and_en started_en having_en people_en work_en to_en maintain_en their_en leadership_en ._en
+so_en we_en have_en to_en use_en this_en one_en carefully_en ._en
+it_en 's_en also_en used_en in_en things_en like_en mcdonald_en 's_en monopoly_en ,_en where_en the_en game_en is_en not_en the_en monopoly_en game_en you_en 're_en playing_en ,_en but_en the_en sort_en of_en cottage_en industries_en that_en form_en to_en try_en and_en find_en boardwalk_en ,_en right_en ._en
+and_en now_en they_en 're_en just_en looking_en for_en a_en little_en sticker_en that_en says_en "_en boardwalk_en ._en "_en
+but_en it_en can_en also_en be_en used_en to_en find_en real_en things_en ._en
+this_en is_en the_en darpa_en balloon_en challenge_en ,_en where_en they_en hid_en a_en couple_en balloons_en all_en across_en the_en united_en states_en and_en said_en ,_en "_en use_en networks_en ._en
+try_en and_en find_en these_en balloons_en fastest_en ,_en and_en the_en winner_en will_en get_en $_en 40,000_en ._en "_en
+and_en the_en winner_en was_en actually_en a_en group_en out_en of_en mit_en ,_en where_en they_en created_en sort_en of_en a_en pyramid_en scheme_en ,_en a_en network_en ,_en where_en the_en first_en person_en to_en recommend_en the_en location_en of_en a_en balloon_en got_en $_en 2,000_en and_en anyone_en else_en to_en push_en that_en recommendation_en up_en also_en got_en a_en cut_en of_en it_en ._en
+and_en in_en 12_en hours_en ,_en they_en were_en able_en to_en find_en all_en these_en balloons_en ,_en all_en across_en the_en country_en ,_en right_en ._en
+really_en powerful_en dynamic_en ._en
+and_en so_en ,_en i_en 've_en got_en about_en 20_en seconds_en left_en ,_en so_en if_en i_en 'm_en going_en to_en leave_en you_en with_en anything_en ,_en last_en decade_en was_en the_en decade_en of_en social_en ._en
+this_en next_en decade_en is_en the_en decade_en of_en games_en ._en
+we_en use_en game_en dynamics_en to_en build_en on_en it_en ._en we_en build_en with_en mindshare_en ._en
+we_en can_en influence_en behavior_en ._en
+it_en is_en very_en powerful_en ._en it_en is_en very_en exciting_en ._en
+let_en 's_en all_en build_en it_en together_en ,_en let_en 's_en do_en it_en well_en and_en have_en fun_en playing_en ._en

@@ -1,0 +1,67 @@
+vor_de etwa_de eineinhalb_de jahren_de machte_de mich_de stephen_de lawler_de ,_de der_de 2007_de einen_de ted_de -_de vortrag_de über_de virtual_de earth_de hielt_de ,_de zum_de entwickler_de bei_de bing_de maps_de ,_de der_de _UNK__de von_de microsoft_de ._de
+in_de den_de vergangenen_de zweieinhalb_de jahren_de haben_de wir_de hart_de daran_de gearbeitet_de ,_de die_de art_de und_de weise_de ,_de wie_de karten_de online_de funktionieren_de ,_de neu_de zu_de definieren_de ._de
+wir_de verstehen_de darunter_de nämlich_de eine_de ganz_de andere_de kategorie_de als_de die_de typischen_de karten_de mit_de _UNK__de ,_de die_de wir_de sonst_de so_de gewohnt_de sind_de ._de
+das_de erste_de ,_de was_de ihnen_de hier_de vielleicht_de auffällt_de ,_de ist_de ,_de wie_de flüssig_de man_de hiermit_de zoomen_de und_de schwenken_de kann_de ._de das_de kommt_de von_de _UNK__de ,_de falls_de sie_de das_de kennen_de ._de
+mapping_de ,_de also_de das_de abbilden_de auf_de einer_de karte_de ,_de ist_de natürlich_de nicht_de mehr_de nur_de kartographie_de ,_de sondern_de hat_de auch_de mit_de bildlicher_de darstellung_de zu_de tun_de ._de
+wenn_de wir_de beim_de zoomen_de über_de ein_de bestimmtes_de level_de hinaus_de gehen_de ,_de führt_de das_de zu_de einer_de art_de sim_de -_de city_de -_de ähnlicher_de virtueller_de darstellung_de im_de 45_de -_de grad_de -_de winkel_de ._de
+man_de kann_de sich_de das_de bild_de aus_de jeder_de _UNK__de anschauen_de ,_de und_de die_de stadt_de mit_de allen_de fassaden_de in_de 3d_de -_de struktur_de sehen_de ._de
+wir_de sehen_de diesen_de _UNK__de raum_de als_de leinwand_de ,_de auf_de die_de wir_de alle_de möglichen_de anwendungen_de übertragen_de können_de ._de _UNK__de ist_de wirklich_de nur_de eine_de von_de vielen_de ._de
+wenn_de ich_de hierauf_de klicke_de ,_de sehen_de sie_de einige_de jener_de anwendungen_de ,_de die_de wir_de in_de den_de letzten_de paar_de monaten_de ,_de seit_de wir_de an_de den_de start_de gegangen_de sind_de ,_de herausgebracht_de haben_de ._de
+zum_de beispiel_de hatten_de wir_de bereits_de ein_de paar_de tage_de nach_de der_de katastrophe_de in_de haiti_de eine_de _UNK__de ,_de die_de vorher_de -_de nachher_de -_de bilder_de aus_de der_de luft_de zeigte_de ._de
+diese_de wunderbare_de anwendung_de ,_de die_de ich_de ihnen_de hier_de aus_de _UNK__de leider_de nicht_de zeigen_de kann_de ,_de greift_de in_de echtzeit_de auf_de _UNK__de -_de blogs_de zu_de und_de bildet_de deren_de geschichten_de und_de einträge_de auf_de die_de orte_de in_de der_de karte_de ab_de ,_de die_de in_de den_de blogs_de vorkommen_de ._de
+einfach_de wunderbar_de ._de
+stattdessen_de zeige_de ich_de ihnen_de jetzt_de noch_de ein_de paar_de echte_de leckerbissen_de ._de
+wie_de wir_de sehen_de ,_de hört_de die_de grafik_de natürlich_de nicht_de am_de himmel_de auf_de ._de
+diese_de kleinen_de grünen_de punkte_de sind_de photosynth_de -_de bilder_de von_de anwendern_de ._de
+auch_de die_de zeige_de ich_de jetzt_de nicht_de näher_de ,_de aber_de solche_de fotos_de sind_de in_de die_de karte_de integriert_de ._de
+alles_de was_de hier_de blau_de eingerahmt_de ist_de ,_de ist_de ein_de gebiet_de ,_de für_de das_de wir_de auch_de bilder_de vom_de boden_de haben_de ._de
+wenn_de man_de also_de da_de hinunterfliegt_de -_de danke_de ._de wenn_de man_de zum_de boden_de hinunterfliegt_de ,_de sieht_de man_de dieses_de _UNK__de ,_de und_de als_de erstes_de fällt_de wahrscheinlich_de auf_de ,_de dass_de das_de nicht_de nur_de ein_de bild_de ist_de ,_de sondern_de dass_de diese_de umgebung_de genauso_de dreidimensional_de erfasst_de wird_de wie_de die_de dreidimensionale_de stadt_de von_de oben_de ._de wenn_de ich_de also_de auf_de etwas_de klicke_de ,_de um_de es_de näher_de zu_de sehen_de ,_de sieht_de dieser_de übergang_de so_de aus_de ._de das_de ist_de eine_de funktion_de dieser_de geometrie_de ,_de der_de 3d_de -_de erfassung_de hinter_de dem_de modell_de ._de
+ich_de zeige_de ihnen_de jetzt_de eine_de witzige_de anwendung_de ,_de an_de der_de wir_de zusammen_de mit_de unseren_de freunden_de von_de flickr_de arbeiten_de ._de
+sie_de nimmt_de ein_de _UNK__de bild_de von_de flickr_de und_de verbindet_de es_de ,_de in_de einer_de verarbeitung_de ,_de die_de der_de bei_de photosynth_de ähnelt_de ,_de mit_de unserer_de grafik_de ,_de -_de ich_de weiß_de nicht_de ,_de ob_de ich_de ausgerechnet_de dieses_de bild_de haben_de wollte_de ,_de aber_de -_de sehen_de sie_de ,_de das_de hier_de ist_de ein_de beliebter_de ort_de für_de touristen_de ,_de von_de dem_de es_de viele_de fotos_de gibt_de ,_de die_de alle_de zu_de verschiedenen_de zeiten_de gemacht_de wurden_de :_de
+dies_de hier_de etwa_de um_de fünf_de uhr_de ._de
+das_de ist_de das_de flickr_de -_de foto_de ,_de und_de das_de ist_de unsere_de grafik_de ._de
+sie_de sehen_de ,_de wie_de sich_de diese_de bilder_de aus_de der_de welt_de der_de benutzer_de fest_de in_de die_de karte_de integrieren_de ._de
+vielen_de dank_de ._de
+das_de ist_de aus_de verschiedenen_de gründen_de interessant_de ,_de zum_de beispiel_de für_de zeitreisen_de ._de
+ich_de kann_de ihnen_de jetzt_de nichts_de von_de den_de _UNK__de historischen_de bildern_de zeigen_de ,_de es_de gibt_de nämlich_de auch_de ein_de paar_de mit_de pferden_de und_de kutschen_de und_de so_de weiter_de ._de
+das_de coole_de daran_de ist_de ,_de dass_de es_de nicht_de nur_de darum_de geht_de ,_de die_de visuelle_de darstellung_de der_de welt_de mit_de dem_de zu_de erweitern_de ,_de was_de die_de anwender_de dazu_de beisteuern_de ,_de sondern_de dass_de so_de auch_de die_de grundlage_de für_de augmented_de -_de reality_de gelegt_de wird_de ,_de von_de der_de ich_de ihnen_de gleich_de mehr_de zeigen_de werde_de ._de
+ich_de bin_de jetzt_de nach_de drinnen_de gegangen_de ._de auch_de das_de ist_de interessant_de ._de
+sie_de sehen_de ,_de dass_de jetzt_de ein_de dach_de über_de uns_de ist_de ._de
+wir_de sind_de im_de pike_de place_de markt_de ._de
+das_de machen_de wir_de mit_de einer_de _UNK__de ._de wir_de fotografieren_de also_de nicht_de nur_de auf_de der_de straße_de mit_de diesen_de kameras_de auf_de _UNK__de ,_de sondern_de wir_de machen_de auch_de bilder_de von_de innenräumen_de ._de
+und_de wir_de können_de hier_de dieselben_de verknüpfungen_de herstellen_de ,_de nicht_de nur_de von_de _UNK__de ,_de sondern_de auch_de von_de videos_de ._de
+das_de probieren_de wir_de jetzt_de mal_de aus_de ,_de zum_de ersten_de mal_de live_de ,_de und_de davor_de habe_de ich_de jetzt_de wirklich_de einen_de ganz_de schönen_de _UNK__de ._de
+okay_de ._de
+okay_de ,_de jungs_de ,_de seid_de ihr_de da_de ?_de
+okay_de ._de ich_de gehe_de drauf_de ._de ich_de drücke_de auf_de wiedergabe_de ._de
+ich_de bin_de live_de ._de okay_de ._de los_de geht_de 's_de ._de
+das_de hier_de sind_de unsere_de freunde_de im_de pike_de place_de markt_de ,_de dem_de labor_de ._de
+sie_de senden_de das_de jetzt_de live_de ._de
+okay_de ,_de george_de ,_de kannst_de du_de zurück_de zum_de markt_de in_de der_de ecke_de schwenken_de ?_de
+weil_de ich_de ein_de paar_de sehenswürdigkeiten_de zeigen_de will_de ._de
+nein_de ,_de nein_de ._de andersrum_de ._de
+ja_de ,_de ja_de ,_de zurück_de in_de die_de ecke_de ._de zurück_de in_de die_de ecke_de ._de
+euch_de will_de ich_de jetzt_de noch_de nicht_de sehen_de ._de
+okay_de ._de okay_de ._de zurück_de in_de die_de ecke_de ._de zurück_de in_de die_de ecke_de ._de zurück_de in_de die_de ecke_de ._de
+okay_de ,_de egal_de ._de
+ich_de wollte_de ihnen_de eigentlich_de diese_de sehenswürdigkeiten_de hier_de oben_de im_de bild_de zeigen_de ,_de denn_de da_de bekommt_de man_de das_de gefühl_de ,_de als_de wäre_de man_de tatsächlich_de da_de ..._de das_de könnte_de man_de als_de einen_de schritt_de ansehen_de ,_de der_de noch_de einen_de schritt_de weiter_de geht_de als_de augmented_de -_de reality_de ._de
+was_de zum_de teufel_de macht_de ihr_de da_de -_de oh_de ,_de entschuldigung_de ._de
+wir_de machen_de zwei_de verschiedene_de ..._de okay_de ,_de ich_de lege_de jetzt_de auf_de ._de
+wir_de machen_de hier_de zwei_de verschiedene_de dinge_de ._de
+erstens_de nehmen_de wir_de reale_de ..._de
+okay_de ,_de lassen_de sie_de mich_de die_de gelegenheit_de nutzen_de und_de dem_de team_de danken_de ._de
+sie_de haben_de das_de ganz_de fantastisch_de hingekriegt_de ._de
+ich_de verlasse_de sie_de jetzt_de und_de gehe_de wieder_de nach_de draußen_de ._de
+und_de während_de ich_de _UNK__de ,_de sage_de ich_de noch_de kurz_de ,_de dass_de wir_de das_de hier_de jetzt_de zwar_de für_de die_de telepräsenz_de nutzen_de ,_de aber_de man_de das_de _UNK__de vor_de ort_de nutzen_de ,_de für_de augmented_de -_de reality_de ._de
+wenn_de man_de es_de vor_de ort_de nutzt_de ,_de heißt_de das_de ,_de dass_de man_de all_de diese_de vielen_de metadaten_de und_de informationen_de über_de die_de welt_de zu_de sich_de holen_de kann_de ._de
+wir_de machen_de also_de hier_de einen_de nächsten_de schritt_de ,_de indem_de wir_de es_de live_de übertragen_de ._de
+das_de wurde_de übrigens_de auf_de einem_de _UNK__de -_de netzwerk_de von_de dem_de markt_de aus_de gesendet_de ._de
+jetzt_de gibt_de es_de einen_de ted_de -_de vortrag_de ,_de den_de letzten_de ,_de den_de microsoft_de in_de den_de letzten_de jahren_de gehalten_de hat_de ._de
+das_de war_de curtis_de wong_de ,_de worldwide_de telescope_de ._de
+wir_de gehen_de jetzt_de rüber_de zu_de den_de _UNK__de ,_de wo_de man_de üblicherweise_de nach_de einem_de langen_de tag_de auf_de dem_de markt_de eine_de pause_de macht_de ,_de oder_de einfach_de nur_de in_de den_de himmel_de schaut_de ._de
+hier_de ist_de das_de worldwide_de telescope_de in_de unsere_de karten_de integriert_de ._de
+das_de ist_de die_de aktuelle_de ..._de vielen_de dank_de ._de das_de ist_de die_de aktuelle_de zeit_de ,_de aber_de wenn_de wir_de die_de löschen_de ,_de können_de wir_de sehen_de ,_de wie_de der_de himmel_de zu_de verschiedenen_de _UNK__de aussehen_de wird_de ,_de und_de bekommen_de sehr_de detaillierte_de informationen_de über_de verschiedene_de zeitpunkte_de ._de schieben_de wir_de mal_de den_de mond_de etwas_de höher_de ,_de und_de verändern_de vielleicht_de das_de datum_de ._de
+ich_de würde_de gerne_de an_de den_de mond_de heranzoomen_de ._de
+das_de hier_de ist_de eine_de astronomisch_de vollständige_de abbildung_de des_de himmels_de ,_de die_de direkt_de in_de das_de bild_de der_de erde_de integriert_de wurde_de ._de
+okay_de ,_de meine_de zeit_de ist_de abgelaufen_de ,_de ich_de muss_de schluss_de machen_de ._de
+ich_de danke_de ihnen_de allen_de vielmals_de ._de

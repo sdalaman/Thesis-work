@@ -1,0 +1,248 @@
+comme d'autres conférenciers l'ont dit , c'est plutôt intimidant -- particulièrement intimidant -- de parler devant vous .
+mais contrairement à d'autres , je ne vous parlerai pas des mystères de l'univers , des merveilles de l'évolution , ou des manières intelligentes et innovantes de s'attaquer aux grandes inégalités de notre monde .
+ni même des défis des états - nations dans l'économie mondiale moderne .
+mon exposé , comme on vous l'a annoncé , parle de statistiques -- et , pour être plus précis , d'aspects vraiment passionnants _UNK_ .
+et c'est -- -- c'est plus un défi pour moi que pour tous les autres conférenciers avant et après moi .
+un de mes aînés m'a dit , quand je débutais dans ce métier , plutôt fièrement , que les statisticiens étaient des gens qui aimaient les chiffres mais n'avaient pas la personnalité requise pour devenir comptables .
+il y a une autre blague que les statisticiens font à propos d'eux - mêmes , " quelle est la différence entre un statisticien introverti et un statisticien extraverti ? "
+et la réponse est , " _UNK_ est celui qui regarde les chaussures de l'autre . "
+mais je veux vous parler de quelque chose d'utile -- concentrez - vous .
+ce soir , il y a une réception au musée d'histoire naturelle de l'université .
+le cadre est magnifique , j'espère que vous en conviendrez , et il est très représentatif du meilleur de la tradition victorienne .
+dans ce décor magnifique , avec tous ces gens réunis -- c'est peu probable mais vous pourriez vous vous retrouver dans une conversation et vouloir en sortir .
+dans ce cas voici ce que vous faites .
+quand on vous demande , " que faites - vous dans la vie ? " -- vous dites , " je suis statisticien . "
+sauf que maintenant ils sont _UNK_ , et qu'ils sauront que vous mentez .
+alors il peut se passer deux choses .
+soit ils vont se trouver un lointain cousin à l'autre bout de la salle et courir pour aller lui parler .
+soit ils vont soudain avoir très soif ou faim -- et souvent les deux -- et filer se servir à boire à ou manger .
+et vous pourrez tranquillement parler avec qui vous voulez .
+c'est un des défis de notre profession d'essayer d'expliquer ce que nous faisons .
+nous ne sommes pas les meilleurs convives dans les dîners en ville et les conversations _UNK_ ...
+et je ne suis pas vraiment doué pour cela .
+mais ma femme -- ma petite amie alors -- le faisait beaucoup mieux que moi .
+il y a longtemps , quand nous nous sommes rencontrés , elle travaillait pour la bbc en grande bretagne , et je travaillais , à ce moment - là , en amérique .
+j'étais de retour pour la voir .
+elle l'a dit à une de ses collèges , qui a demandé " et que fait - il dans la vie ? "
+sarah s'est mise à réfléchir à ce que je lui avais raconté -- et elle faisait l'effort d'écouter , à cette époque .
+ne lui dites pas que j'ai dit ça .
+et elle pensait à mon travail sur la conception de modèles mathématiques pour comprendre l'évolution et la génétique moderne .
+alors quand son collègue lui a dit " que fait - il ? "
+elle a hésité et a dit , " il fait du design " alors sa collègue s'est sentie vivement intéressée , étrangement , et elle a dit , " et que fait - il comme design ? "
+alors sarah a réfléchi un peu plus et a dit , " des jeans " " il design des jeans . "
+c'est mon premier amour , je n'en dirai pas plus .
+plus généralement je voudrais que vous pensiez au rôle de l'incertain , de l'aléatoire et du hasard dans notre monde , comment nous y réagissons , et comment nous voyons les choses .
+bon . ca a été plutôt facile pour vous jusqu'ici -- vous avez ri , etc -- dans les conférences jusqu'à celle - ci .
+vous allez devoir réfléchir , et je vais vous poser des questions .
+pour ma première question , imaginez la situation suivante .
+si vous lancez une pièce plusieurs fois d'affilée , pour une raison donnée -- que je _UNK_ pas pour le moment -- nous nous intéressons à un séquence particulière .
+en voici une -- face , suivi de pile , suivi de pile .
+supposez donc que nous lancions une pièce plusieurs fois de suite .
+la séquence , face - pile - pile , qui nous tient à coeur , se produit .
+si l'on compte : un , deux , trois , quatre , cinq , six , sept , huit , neuf , dix -- elle se produit après le 10e lancer .
+vous pouvez penser qu'il y a des choses plus intéressantes à faire , mais laissez moi poursuivre .
+imaginez que cette moitié d'entre vous a des pièces , et les lance jusqu'à voir la séquence face - pile - pile .
+la première fois , ça se passera peut - être après le 10e lancer , comme ici .
+la seconde fois , ce sera peut - être après le 4e lancer .
+la fois suivante , après le 15e .
+vous relancez de nombreuses fois , et vous calculez la moyenne de ces chiffres .
+je veux que ce côté de la salle y réfléchisse .
+l'autre moitié de l'assistance , elle , n'aime pas face - pile - pile -- ils trouvent ça ennuyeux , pour d'obscures raisons culturelles -- et ils sont plus intéressés par une séquence différente -- face - pile - face .
+donc , de ce côté ; vous prenez vos pièces , et vous les lancez et relancez .
+et vous comptez le nombre de lancers jusqu'à la séquence face - pile - face et vous faites la moyenne . ok ?
+de ce côté - ci , vous obtenez un nombre -- vous l'avez beaucoup fait , donc vous obtenez un nombre exact -- le nombre moyen de lancers pour obtenir face - pile - pile .
+de ce côté - là -- le nombre moyen de lancers jusqu'à face - pile - face .
+c'est une règle mathématique fondamentale -- si vous avez deux nombres , une des 3 choses suivantes est vraie .
+ou bien ils sont égaux , ou bien l'un est plus grand que l'autre , ou l'autre plus grand que l'un .
+que se passe - t - il dans notre cas ?
+vous devez tous y penser , et vous allez devoir voter -- nous en restons là pour le moment .
+je ne veux pas vous laisser trop de temps pour y réfléchir , jusqu'à ce que tout le monde ait voté . ok .
+vous comparez le nombre de lancers moyen jusqu'à la première apparition de face - pile - face avec le nombre moyen de lancers jusqu'à face - pile - pile .
+qui pense que a est vrai -- qu'en moyenne , ce sera plus long pour face - pile - face que pour face - pile - pile ?
+qui pense que b est vrai -- qu'en moyenne , ils sont égaux ?
+qui pense que c est vrai -- qu'en moyenne , il faudra moins de temps pour face - pile - face que pour face - pile - pile ?
+ok , qui n'a pas voté ? parce que c'est mal -- on a dit que vous deviez le faire .
+ok . donc la majorité pense que b est vrai .
+et vous serez rassurés de savoir que même de distingués mathématiciens le pensent aussi .
+c'est faux . c'est a qui est vrai .
+c'est plus long , en moyenne .
+en fait , la moyenne du nombre de lancers nécessaires pour face - pile - face est 10 et la moyenne pour face - pile - pile est 8 .
+comment est - ce possible ?
+les deux séquences sont - elles différentes ?
+elles le sont . face - pile - face se " mord la queue " .
+si vous avez face - pile - face - pile - face , vous obtenez d'un coup deux occurrences de la séquence en seulement cinq lancers .
+ce n'est pas possible avec face - pile - pile .
+ceci s'avère important .
+il y a deux manières de voir .
+je vais vous en donner une .
+supposons que nous sommes en train de lancer .
+de ce côté -- rappelez - vous , vous êtes enthousiastes pour face - pile - pile , et vous , pour face - pile - face .
+on lancer , et on obtient face -- vous commencez à vous tortiller sur votre fauteuil car quelque chose de grand et de merveilleux , est sur le point de se produire .
+le second lancer donne un pile -- et vous vous emballez .
+le champagne glacé est juste à côté de vous , vous avez refroidi les flûtes et vous vous préparez fêter ça .
+vous attendez , _UNK_ , le lancer final .
+et s'il sort un face , c'est super .
+vous êtes contents , et vous fêtez ça .
+si c'est un pile -- bon , un peu déçus , vous rangez les flûtes et le champagne .
+et vous continuez vos lancers , vous attendez la sortie du prochain face pour vous emballer de nouveau .
+de ce côté - là , vous vivez une expérience différente .
+c'est la même chose pour les deux premières parties de la séquence .
+vous êtes un peu excités par le premier face -- vous êtes encore plus excités avec le pile suivant .
+et vous relancez .
+si c'est un pile , vous _UNK_ le champagne .
+si c'est un face vous êtes déçus , mais vous êtes de nouveau au tiers de votre motif .
+c'est une manière informelle de présenter les choses -- mais c'est pour cela qu'il y a une différence .
+une autre manière de voir -- si vous avez lancé huit millions de fois , alors nous devrions avoir un million de face - pile - face , et un million de face - pile - pile -- mais face - pile - face pourrait apparaître en grappes .
+donc sur huit millions de positions , si vous voulez en placer un million et que certains d'entre eux se recouvrent , les paquets seront plus séparés .
+c'est une autre façon de rendre les choses intuitives .
+qu'est - ce que je veux dire par là ?
+il s'agit d'un exemple très , très simple , une question de probabilité facile , sur laquelle tout le monde se trompe -- et nous sommes en bonne compagnie .
+ceci est une petite digression pour en venir à ma véritable passion , la génétique .
+il y a un lien entre face - pile - face et face - pile - pile en génétique , et c'est le suivant .
+quand vous lancez une pièce , vous obtenez une séquence de faces et de piles .
+dans l'adn il y a une séquence de non pas deux choses -- face et pile -- mais de quatre lettres -- a , g , c et t.
+il y a de petits ciseaux chimiques , appelés enzymes de restriction , qui coupent l'adn à chaque fois qu'ils tombent sur une séquence particulière .
+c'est un outil extrêmement utile en biologie moléculaire moderne .
+au lieu de demander , " au bout de combien de temps obtient - on un face - pile - face ? " -- vous pouvez demander , " de quelle taille sont les paquets si j'utilise une enzyme de restriction qui coupe quand elle voit g - a - a - g , par exemple , de quelle taille sont ces paquets ? "
+c'est un lien des plus courants entre probabilité et génétique .
+il y a un lien plus profond encore , dont je n'ai pas eu le temps de parler et qui fait de la génétique moderne une science vraiment passionnante .
+nous entendrons d'autres conférences à ce sujet .
+il s'avère que , pour comprendre les secrets que recèle les données générées par les technologies expérimentales modernes , une des clés provient de techniques plutôt sophistiquées -- rassurez - vous , je fais quelque chose d'utile dans mon travail , beaucoup plus sophistiquées que l'histoire de face - pile - face -- la modélisation informatique et mathématique et des techniques statistiques modernes .
+je vais vous donner deux aperçus -- deux exemples -- de projets dont mon groupe à oxford fait partie , qui sont tous les deux assez passionnants .
+vous connaissez le projet génome humain .
+ce projet avait pour but de séquencer un génome humain complet .
+ce qui vient naturellement après ça -- c'est le projet international hapmap , qui est une collaboration de laboratoires de cinq ou six pays différents .
+pensez au projet génome humain comme une manière d'apprendre ce que nous avons en commun et au projet hapmap comme une façon de comprendre les différences entre des gens différents .
+pourquoi se préoccuper de cela ?
+et bien , il y a de nombreuses raisons .
+la plus pressante est de comprendre comment ces différences prédisposent certaines personnes à une maladie donnée -- disons , un diabète de type 2 -- et que d'autres différences prédisposent d'autres à des maladies du coeur , ou à des accidents vasculaires cérébraux , ou à l'autisme etc.
+c'est un grand projet .
+il y a un second grand projet .
+récemment financé par le _UNK_ trust dans ce pays , qui implique de vastes études -- des milliers d'individus , et huit maladies différentes , des maladies courantes comme les diabètes de type 1 et 2 , l'infarctus du myocarde , les maladies bipolaires etc -- pour essayer de comprendre leur génétique .
+essayer de comprendre ce qui , dans les différences génétiques cause ces maladies .
+pourquoi voulons - nous faire cela ?
+parce que nous connaissons très peu la plupart des maladies humaines .
+nous ne connaissons pas leurs causes .
+et si nous pouvons approfondir et comprendre leur génétique , nous aurons une accès à leur manière de fonctionner .
+une toute nouvelle façon de concevoir les thérapies et les traitements préventifs etc.
+c'était , comme je l'ai dit , une petite digression à ma passion principale .
+revenons à des problèmes plus prosaïques sur la manière de penser l'incertain .
+voici un autre _UNK_ -- supposez que nous ayons un test pour une maladie qui n'est pas infaillible , mais plutôt bon .
+il est juste 99 pour cent du temps .
+je choisis l'un de vous , ou quelqu'un dans la rue , et je fais le test pour cette maladie .
+supposons qu'il existe un test pour le vih -- le virus responsable du sida -- et que le test soit positif pour cette personne .
+quel est le pourcentage de chance que la personne soit effectivement malade ?
+le test est bon 99 pour cent des fois .
+donc la réponse naturelle est 99 pour cent .
+qui aime cette réponse ?
+allez -- tout le monde est concerné .
+oubliez que vous ne me faites plus confiance .
+bien , vous avez raison d'être un peu sceptiques , parce que ce n'est pas la bonne réponse .
+c'est ce que vous pourriez croire .
+ce n'est pas la réponse , parce qu'il manque des éléments .
+la réponse dépend en fait de la rareté de la maladie .
+je vais vous donner un exemple .
+voici une représentation d'un million d'individus .
+prenons une maladie qui affecte -- c'est une maladie rare , elle affecte une personne sur 10 000 .
+parmi ce million d'individus , la plupart sont en bonne santé et certains ont la maladie .
+et , si ceci est la prévalence de la maladie , 100 l'auront et le reste non .
+maintenant , supposez qu'on teste tout le monde .
+que se passe - t - il ?
+et bien , sur les 100 qui ont la maladie , le test aura la bonne réponse 99 fois sur cent , et 99 seront testés positifs .
+sur tous les autres , qui sont en bonne santé , le test répondra juste à 99 pour cent .
+il sera faux seulement une fois sur cent .
+mais il y a tellement de gens qu'il y aura un grand nombre de faux positifs .
+dit autrement -- sur tous ceux qui sont testés positifs -- voici les individus concernés -- moins d'un sur 100 a vraiment la maladie .
+donc même si nous considérons que le test est rigoureux , un élément important est qu'une partie de l'information est manquante .
+voici l'intuition essentielle .
+ce que nous devons faire , lorsque le test est positif est de peser la plausibilité , ou la vraisemblance , de deux explications opposées .
+chacune de ces explications est en partie vraisemblable et en partie peu vraisemblable .
+une explication est que la personne n'a pas la maladie -- ce qui est extrêmement probable , si vous prenez quelqu'un au hasard -- et que le test est faux , ce qui est peu probable .
+l'autre explication est que la personne a la maladie -- c'est peu probable -- et que le test est juste , ce qui est probable .
+et le nombre que nous obtenons -- ce nombre est légèrement inférieur à 100 -- dépend de la probabilité qu'une de ces explications est liée à l'autre .
+chacune des deux prises ensemble est improbable .
+voici un autre exemple pris dans l'actualité .
+les britanniques ont entendu parler de ce cas devenu célèbre d'une femme nommée sally clark , dont les deux bébés sont morts soudainement .
+initialement , on a pensé qu'ils étaient morts de ce que l'on appelle la mort subite du nourrisson pour différentes raisons , on l'a plus tard accusée de meurtre .
+et au procès , son procès , un pédiatre distingué a déclaré dans son témoignage que le pourcentage de chance d'avoir deux nourrissons morts du même syndrome , dans une famille comme la sienne -- en activité et non _UNK_ -- était de 1 sur 73 millions .
+pour faire court , elle a été condamnée à l'époque .
+plus tard , assez récemment , elle a été acquittée en appel -- en fait , au second appel .
+pour replacer les choses dans leur contexte , imaginez l'épreuve pour quelqu'un de perdre un enfant , et un deuxième , et tout en étant innocent , d'être reconnu coupable de meurtre .
+de subir le stress du procès , d'être condamné pour meurtre -- et d'être détenue dans une prison pour femmes , où toutes les autres prisonnières pensent que vous avez tué vos enfants -- c'est vraiment horrible .
+et c'est arrivé en grande partie parce que l'expert s'est totalement _UNK_ sur ses statistiques , et ce sur deux points .
+alors d'où a - t - il sorti son chiffre de 73 millions ?
+il a lu quelques publications de recherche , qui disaient que la chance d'une mort subite du nourrisson dans une famille comme celle de sally clark est à peu près d'une sur huit mille cinq cent .
+et il a dit , " je suppose que si on a un nourrisson mort du syndrome dans une famille , le pourcentage de chance d'avoir une second enfant mort sont _UNK_ . "
+c'est ce que les statisticiens appelleraient une hypothèse d'indépendance .
+c'est la même chose de dire , " si vous lancez une pièce et obtenez face la première fois , cela n'aura pas d'incidence sur vos chances d'avoir face la seconde fois . "
+alors si vous lancez une pièce deux fois de suite , la probabilité d'obtenir deux faces est un demi -- soit la probabilité du premier lancer -- multiplié par un demi -- la probabilité du second lancer .
+alors il a dit , " supposons -- je suppose que ces évènements sont indépendants .
+quand vous multipliez huit mille cinq cents par huit mille cinq cents , vous obtenez à peu près 73 millions . "
+et aucune de ces hypothèses n'a été exposée au tribunal ou présentée au jury de cette façon .
+malheureusement -- et vraiment , de manière regrettable -- d'abord , dans une telle situation il faudrait effectuer des vérifications empiriques .
+et ensuite , c'est évidemment faux .
+il y a énormément de choses que nous ne savons pas sur la mort subite du nourrisson .
+il se peut que certains facteurs environnementaux inconnus soient à l'oeuvre , et il y a de fortes chances qu'il y ait des facteurs génétiques que nous ne connaissons pas .
+donc si une famille est victime d'une mort d'un nourrisson , elle devient de fait partie d'un groupe à haut risque .
+_UNK_ sont probablement exposés à des facteurs de risque environnemental et / ou à ces facteurs génétiques que nous ne connaissons pas .
+et de prétendre , alors , connaître les chances d'avoir un second décès comme si on ignorait ces informations est vraiment idiot .
+c'est pire _UNK_ -- c'est vraiment de la très mauvaise science .
+néanmoins , c'est ainsi que ça a été présenté , et au procès personne n'a essayé de contester .
+c'est le premier problème .
+le second problème est , que veut dire le nombre de un sur 73 millions ?
+après que sally clark a été reconnue coupable -- imaginez , ça a vraiment fait les gros titres de la presse -- un des journalistes de l'un des journaux les plus respectables de grande bretagne a écrit que selon l'expert , " les chances qu'elle soit innocente était d'une sur 73 millions . "
+ça , c'est une erreur de logique .
+c'est exactement la même erreur de logique que de penser après le test de la maladie , qui est 99 fois sur cent juste , que la probabilité d'avoir la maladie est de 99 pour cent .
+dans l'exemple du test , il fallait avoir deux choses en tête , l'une était la possibilité que le test se trompe ou pas .
+l'autre était la probabilité , a priori , qu'une personne soit malade .
+c'est exactement la même chose ici .
+il y a deux phénomènes à l'oeuvre -- deux faces à l'explication .
+nous voulons savoir la probabilité , ou la probabilité relative , de deux explications différentes .
+l'une des deux est que sally clark était innocente -- ce qui est , a priori , extrêmement probable -- la plupart des mères ne tuent pas leur enfants .
+et la seconde partie de l'explication est qu'elle a subi un évènement incroyablement improbable .
+pas aussi improbable que le suggère le un sur 73 millions , mais néanmoins assez _UNK_ .
+l'autre explication est qu'elle est coupable , nous pouvons penser a priori que c'est improbable .
+et certes , nous devrions penser dans le contexte d'un procès criminel que c'est improbable , en raison de la présomption d'innocence .
+mais si elle a cherché à tuer les enfants , elle a réussi .
+donc la probabilité qu'elle soit innocente n'est pas d'un sur 73 millions .
+nous ne savons pas ce qu'elle vaut .
+elle est liée à la pondération des preuves contre _UNK_ et des résultats statistiques .
+nous savons que les enfants sont morts .
+ce qui compte , c'est la probabilité ou l'improbabilité relative des deux explications .
+qui sont toutes deux improbables .
+il y a des situations dans lesquelles les erreurs de statistiques ont des conséquences profondes et vraiment _UNK_ .
+en fait , deux autres femmes ont aussi été condamnées sur la base du témoignage du pédiatre , et ont plus tard été libérées en appel .
+de nombreux cas ont été revus .
+c'est un sujet d'actualité car ce pédiatre subit actuellement un procès en _UNK_ de la part de l'ordre des médecins de grande bretagne .
+pour conclure -- quels sont les messages que vous devez retenir de tout ça ?
+bien , nous savons que le hasard , l'incertain , et la probabilité font partie de notre vie de tous les jours .
+collectivement , bien que spéciaux à bien des égards , vous êtes passés comme tout le monde à côté des exemples que j'ai donnés .
+c'est un fait que les gens ne comprennent pas ces choses - là .
+ils font des erreurs de logique lorsqu'ils _UNK_ dans l'incertain .
+nous pouvons nous débrouiller brillamment avec les subtilités du langage -- et il y a des travaux intéressants sur l'évolution pour expliquer pourquoi nous en sommes là .
+nous ne sommes pas doués pour raisonner dans l'incertain .
+c'est un problème dans nos vies de tous les jours .
+comme vous l'avez entendu dans les conférences , les statistiques sous - tendent un grand nombre de recherches en science -- en science sociale , en médecine et aussi , bien sûr , dans l'industrie .
+tout le contrôle de la qualité , qui a un impact majeur sur les processus industriels est sous - tendu par les statistiques .
+c'est quelque chose que nous ne savons pas faire .
+tout au moins , nous devrions l'admettre , mais nous avons tendance à ne pas le faire .
+pour en revenir à la justice , au procès de sally clark les avocats ont tous accepté ce que l'expert a dit .
+mais si un pédiatre avait dit au jury , " je sais construire des ponts . j'en ai construit un en bas de la rue .
+vous pouvez passer dessus en voiture " ils auraient dit , " les pédiatres ne savent pas construire de ponts .
+c'est le travail des ingénieurs . "
+mais il a dit , effectivement ou implicitement , " je sais raisonner dans l'incertain . je connais les statistiques . "
+et tout le monde a dit , " c'est ok . il est expert . "
+nous devons savoir quelles sont nos compétences .
+les mêmes problèmes ont été soulevés au début des tests adn , quand les scientifiques , les avocats et certains juges , déformaient systématiquement la vérité .
+en général -- on peut l'espérer -- innocemment , mais ils la déformaient quand même .
+les légistes disaient , " la probabilité que ce type soit innocent est d'un sur trois millions .
+même si vous croyez en ce nombre , comme un sur 73 millions , il ne veut pas dire ce que vous croyez .
+et il y a eu des cas célèbres d'appels en grande bretagne et ailleurs à cause de cela .
+et juste pour finir sur le thème de la justice , c'est très bien de dire , " faisons de notre mieux pour présenter les témoignages . "
+mais de plus en plus , dans les cas de tests adn -- et c'en est un -- nous attendons des jurés , qui sont des gens ordinaires -- et il est connu qu'ils ne savent pas le faire -- nous attendons des jurés qu'ils soient capables de ce genre de raisonnements .
+dans d'autres domaines de la vie , si les gens , en _UNK_ -- disons , sauf en politique .
+mais dans d'autres domaines , si les gens utilisent des arguments illogiques , nous dirions que ce n'est pas une bonne chose .
+c'est ce que nous demandons aux politiciens et nous n'en demandons pas beaucoup plus .
+dans le cas des probabilités , nous avons toujours faux -- mais au moins , nous devrions en être conscients .
+et idéalement , nous pourrions peut - être y faire quelque chose .
+merci beaucoup .

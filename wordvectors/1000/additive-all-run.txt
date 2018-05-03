@@ -1,0 +1,1 @@
+name,epoch,lr,momentum,max_epoch,test score,total

@@ -1,0 +1,37 @@
+in	1962	,	buckminster	 full 	 er 	 	 present 	 ed 	 	the	 part 	 icular 	 ly 	 	 au 	 d 	 acious 	 	proposal	for	the	geoscope	.
+it	was	a	200	-	foot	 dia 	 meter 	 	 geo 	 de 	 s 	 ic 	 	sphere	to	be	 suspend 	 ed 	 	over	the	east	river	in	new	york	city	,	in	full	view	of	the	 unit 	 ed 	 	 nation 	 s 	 	.
+it	was	a	big	idea	,	for	 s 	 ure 	 	,	and	it	was	one	that	he	felt	could	 tru 	 ly 	 	inform	and	 deep 	 ly 	 	affect	the	decision	making	of	 th 	 is 	 	body	through	 anim 	 ations 	 	of	global	data	,	 trend 	 s 	 	and	other	information	 regard 	 ing 	 	the	 glob 	 e 	 	,	on	 th 	 is 	 	sphere	.
+and	 to 	 day 	 	,	45	 year 	 s 	 	 lat 	 er 	 	,	we	 clear 	 ly 	 	have	no	less	need	for	 th 	 is 	 	kind	of	 clar 	 ity 	 	and	 per 	 spect 	 ive 	 	,	but	what	we	do	have	is	 improv 	 ed 	 	technology	.
+ to 	 day 	 	we	do	n't	need	one	million	light	 bulb 	 s 	 	to	create	a	 spheric 	 al 	 	 dis 	 play 	 	.
+we	can	use	leds	.
+leds	are	 small 	 er 	 	,	they	're	 cheap 	 er 	 	,	they	're	 long 	 er 	 	 last 	 ing 	 	,	they	're	more	efficient	.
+most	 import 	 ant 	 ly 	 	for	 th 	 is 	 	,	they	're	 fast 	 er 	 	.
+and	 th 	 is 	 	speed	,	 combine 	 d 	 	with	 to 	 day 	 	's	high	-	performance	micro	-	 controll 	 ers 	 	,	 allow 	 s 	 	us	to	 actual 	 ly 	 	 simul 	 ate 	 	,	in	 th 	 is 	 	piece	,	over	17,000	leds	--	using	just	64	.
+and	the	way	 th 	 is 	 	 happen 	 s 	 	is	through	the	 phenomen 	 on 	 	of	 persist 	 ence 	 	of	vision	.
+but	 a 	 s 	 	 th 	 is 	 	ring	 rot 	 ates 	 	at	about	1,700	rpm	--	that	's	28	 time 	 s 	 	per	second	.
+the	 equ 	 ator 	 	's	speed	is	 actual 	 ly 	 	about	60	 mile 	 s 	 	per	hour	.
+there	are	four	on	-	board	micro	-	 controll 	 ers 	 	that	,	each	time	 th 	 is 	 	ring	 rot 	 ates 	 	it	,	 a 	 s 	 	it	 pass 	 es 	 	the	rear	of	the	 dis 	 play 	 	,	it	 pick 	 s 	 	up	a	position	signal	.
+and	from	that	,	the	on	-	board	micro	-	 controll 	 ers 	 	can	 extrapol 	 ate 	 	the	position	of	the	ring	at	all	 point 	 s 	 	around	the	revolution	and	 dis 	 play 	 	 arbitr 	 ary 	 	 bit 	 map 	 	 image 	 s 	 	and	 anim 	 ations 	 	.
+but	 th 	 is 	 	is	 re 	 ally 	 	just	the	 begin 	 ning 	 	.
+in	 add 	 ition 	 	to	 high 	 er 	 	 re 	 solution 	 	 version 	 s 	 	of	 th 	 is 	 	 dis 	 play 	 	,	my	father	and	i	are	 work 	 ing 	 	on	a	new	patent	-	 pend 	 ing 	 	design	for	a	fully	 volu 	 metric 	 	 dis 	 play 	 	using	the	same	 phenomen 	 on 	 	.
+it	 achiev 	 es 	 	 th 	 is 	 	by	 rot 	 ating 	 	leds	about	two	 axe 	 s 	 	.
+so	 a 	 s 	 	you	can	see	here	,	 th 	 is 	 	is	a	,	eleven	-	inch	 dia 	 meter 	 	circuit	board	.
+these	 block 	 s 	 	represent	leds	.
+and	so	you	could	see	that	 a 	 s 	 	 th 	 is 	 	 dis 	 c 	 	 rot 	 ates 	 	about	 th 	 is 	 	axis	,	it	will	create	a	 dis 	 c 	 	of	light	that	we	can	control	.
+that	's	 noth 	 ing 	 	new	:	that	's	a	 propel 	 ler 	 	clock	;	that	's	the	 rim 	 s 	 	that	you	can	buy	for	your	car	.
+but	what	is	new	is	that	,	when	we	 rot 	 ate 	 	 th 	 is 	 	 dis 	 c 	 	about	 th 	 is 	 	axis	,	 th 	 is 	 	 dis 	 c 	 	of	light	 actual 	 ly 	 	 be 	 come 	 s 	 	a	sphere	of	light	.
+and	so	we	can	control	that	with	micro	-	 controll 	 ers 	 	and	create	a	fully	 volu 	 metric 	 	,	three	-	dimensional	 dis 	 play 	 	with	just	256	leds	.
+now	 th 	 is 	 	piece	is	 current 	 ly 	 	in	process	--	due	out	in	may	--	but	what	we	've	 d 	 one 	 	is	we	've	put	together	a	small	demo	,	just	to	show	the	 geo 	 metric 	 	 transl 	 ation 	 	of	 point 	 s 	 	 in 	 to 	 	a	sphere	.
+i	've	got	a	little	video	to	show	you	,	but	keep	in	mind	that	 th 	 is 	 	is	with	no	 electron 	 ic 	 	control	,	and	 th 	 is 	 	is	 al 	 so 	 	with	 on 	 ly 	 	four	leds	.
+ th 	 is 	 	is	 actual 	 ly 	 	 on 	 ly 	 	about	1.5	percent	of	what	the	final	 dis 	 play 	 	will	be	in	may	.
+so	,	take	a	look	.
+and	here	you	can	see	it	's	 rot 	 ating 	 	about	the	 vert 	 ical 	 	axis	 on 	 ly 	 	,	creating	 circle 	 s 	 	.
+and	then	,	 a 	 s 	 	the	other	axis	 kick 	 s 	 	in	,	 t 	 hose 	 	 actual 	 ly 	 	blur	 in 	 to 	 	a	volume	.
+and	the	 shut 	 ter 	 	speed	of	the	camera	 actual 	 ly 	 	 make 	 s 	 	it	 s 	 light 	 ly 	 	less	effective	in	 th 	 is 	 	case	.
+but	 th 	 is 	 	piece	is	due	out	in	may	.
+it	'll	be	on	 dis 	 play 	 	at	the	 inter 	 active 	 	 tele 	 communication 	 s 	 	spring	show	in	greenwich	village	in	new	york	city	--	that	's	open	to	the	public	,	 definite 	 ly 	 	 invit 	 e 	 	you	all	to	come	and	attend	--	it	's	a	fantastic	show	.
+there	are	 hundred 	 s 	 	of	student	 innov 	 ators 	 	with	fantastic	 project 	 s 	 	.
+ th 	 is 	 	piece	,	 actual 	 ly 	 	,	will	be	on	 dis 	 play 	 	down	in	the	sierra	 simul 	 cast 	 	 loung 	 e 	 	in	the	 break 	 s 	 	between	now	and	the	end	of	the	show	.
+so	i	'd	love	to	talk	to	you	all	,	and	 invit 	 e 	 	you	to	come	down	and	take	a	 close 	 r 	 	look	.
+it	's	an	honor	to	be	here	.	 thank 	 s 	 	 ver 	 y 	 	much	.
+

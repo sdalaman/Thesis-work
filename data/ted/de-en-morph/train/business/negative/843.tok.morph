@@ -1,0 +1,180 @@
+ich	 möcht 	 e 	 	 heut 	 e 	 	über	ein	konzept	sprechen	.	es	ist	ein	 große 	 s 	 	konzept	.
+eigentlich	 glaub 	 e 	 	ich	,	dass	es	 möglich 	 erweise 	 	 al 	 s 	 	das	 bedeutend 	 ste 	 	konzept	angesehen	werden	kann	,	das	sich	im	 letzt 	 en 	 	jahrhundert	entwickelt	hat	.
+es	ist	die	idee	der	berechnung	.
+ n 	 un 	 	,	natürlich	brachte	 un 	 s 	 	 dies 	 es 	 	konzept	 all 	 es 	 	an	computertechnologie	,	was	wir	 heut 	 e 	 	haben	und	so	weiter	.
+ ab 	 er 	 	da	gibt	es	eigentlich	viel	mehr	zu	 be 	 rechnen 	 	 al 	 s 	 	das	.
+es	ist	ein	 s 	 ehr 	 	 tiefe 	 s 	 	,	 s 	 ehr 	 	 stark 	 es 	 	,	 s 	 ehr 	 	_UNK_	konzept	.	dessen	auswirkungen	wir	gerade	erst	 beginn 	 en 	 	zu	 er 	 kennen 	 	.
+ n 	 un 	 	,	ich	selbst	habe	die	 letzt 	 en 	 	30	jahre	 meine 	 s 	 	lebens	an	drei	großen	projekten	gearbeitet	,	die	wirklich	 versuch 	 en 	 	,	das	konzept	der	berechnung	ernst	zu	nehmen	.
+ich	 began 	 n 	 	 al 	 so 	 	im	jugendalter	 al 	 s 	 	physiker	der	computer	 al 	 s 	 	_UNK_	 nutzt 	 e 	 	.
+dann	fing	ich	an	,	das	 irgend 	 wie 	 	_UNK_	,	über	die	berechnungen	 nachzu 	 denken 	 	,	die	ich	 durch 	 führen 	 	 könnt 	 e 	 	.	um	 heraus 	 zufinden 	 	,	auf	 welch 	 en 	 	grundlagen	sie	 auf 	 gebaut 	 	werden	 könnt 	 en 	 	und	wie	sie	,	so	gut	wie	möglich	,	 automat 	 isiert 	 	werden	 könnt 	 en 	 	.
+ letzt 	 endlich 	 	 er 	 schafft 	 e 	 	ich	 ein 	 e 	 	struktur	,	 basieren 	 d 	 	auf	 symbolisch 	 er 	 	programmierung	und	so	weiter	,	die	mich	die	mathematica	 er 	 stellen 	 	ließ	.
+und	während	der	 letzt 	 en 	 	23	jahre	ließen	wir	in	 zunehmen 	 dem 	 	maße	mehr	und	mehr	ideen	und	kapazitäten	und	so	weiter	in	mathematica	 ein 	 fließen 	 	und	ich	bin	froh	sagen	zu	können	,	dass	dies	zu	 viel 	 en 	 	 gut 	 en 	 	dingen	in	forschung	&	entwicklung	und	bildung	 so 	 wie 	 	in	 viel 	 en 	 	 ander 	 en 	 	bereichen	geführt	hat	.
+ n 	 un 	 	,	ich	 mus 	 s 	 	zugeben	,	eigentlich	hatte	ich	 ein 	 en 	 	 s 	 ehr 	 	 egoistisch 	 en 	 	grund	,	um	mathematica	zu	 er 	 schaffen 	 	.	ich	 wollt 	 e 	 	es	für	mich	selbst	nutzen	,	etwa	so	,	wie	galileo	sein	teleskop	 nutzt 	 e 	 	,	vor	400	jahren	.
+ ab 	 er 	 	ich	 wollt 	 e 	 	nicht	auf	das	 astronomisch 	 e 	 	universum	blicken	,	 sonder 	 n 	 	auf	das	 rechner 	 ische 	 	universum	.
+ üblich 	 erweise 	 	denken	wir	bei	programmen	an	 kompliziert 	 e 	 	 ding 	 e 	 	,	die	wir	für	 ein 	 en 	 	 spezifisch 	 en 	 	zweck	 er 	 stellen 	 	.
+ ab 	 er 	 	was	ist	mit	dem	raum	all	 dies 	 er 	 	 möglich 	 en 	 	programme	?
+hier	ist	 ein 	 e 	 	darstellung	 ein 	 es 	 	 s 	 ehr 	 	 einfach 	 en 	 	programms	.
+wenn	wir	 dies 	 es 	 	programm	laufen	lassen	,	bekommen	wir	das	.
+ganz	einfach	.
+lassen	sie	 un 	 s 	 	 al 	 so 	 	mal	 versuch 	 en 	 	die	regel	für	das	programm	ein	wenig	zu	ändern	.
+ jetz 	 t 	 	bekommen	wir	ein	 ander 	 es 	 	ergebnis	,	 den 	 noch 	 	ganz	einfach	.
+ versuch 	 en 	 	wir	es	 noch 	 mal 	 	zu	ändern	.
+sie	bekommen	etwas	leicht	 kompliziert 	 er 	 es 	 	,
+ ab 	 er 	 	wenn	wir	es	für	 ein 	 e 	 	weile	laufen	lassen	,	finden	wir	heraus	,	dass	das	muster	,	was	wir	bekommen	,	 s 	 ehr 	 	aufwändig	ist	,	es	hat	 ein 	 e 	 	 s 	 ehr 	 	 geregelt 	 e 	 	struktur	.
+die	frage	lautet	 al 	 so 	 	:	kann	irgend	etwas	 ander 	 es 	 	 pass 	 ieren 	 	?
+ n 	 un 	 	,	wir	können	ein	 klein 	 es 	 	experiment	machen	.
+machen	wir	ein	 klein 	 es 	 	 mathematisch 	 es 	 	experiment	,	 versuch 	 en 	 	wir	etwas	 heraus 	 zufinden 	 	.
+lassen	wir	einfach	 all 	 e 	 	 möglich 	 en 	 	programme	des	 speziell 	 en 	 	falls	,	den	wir	 betrachte 	 n 	 	,	laufen	.
+sie	werden	_UNK_	automaten	 gen 	 annt 	 	.
+hier	können	sie	 ein 	 e 	 	hohe	vielfältigkeit	im	verhalten	 er 	 kennen 	 	.
+die	 meist 	 en 	 	davon	machen	 s 	 ehr 	 	 einfach 	 e 	 	 ding 	 e 	 	.	 ab 	 er 	 	wenn	sie	weiter	auf	all	 dies 	 e 	 	 verschieden 	 en 	 	bilder	schauen	,	bei	regel	nummer	30	,	 er 	 kennen 	 	sie	,	dass	sich	da	etwas	 interessant 	 es 	 	_UNK_	.
+gucken	wir	 al 	 so 	 	mal	genauer	auf	regel	nummer	30	hier	.
+hier	ist	es	 al 	 so 	 	.
+wir	folgen	einfach	 dies 	 er 	 	 simpl 	 en 	 	regeln	hier	unten	,	bekommen	 je 	 doch 	 	all	 dies 	 e 	 	 erstaunlich 	 en 	 	 ding 	 e 	 	.
+es	ist	gar	nicht	das	,	was	wir	 ge 	 wohnt 	 	sind	,	und	ich	 mus 	 s 	 	sagen	,	 al 	 s 	 	ich	es	das	 er 	 ste 	 	mal	sah	,	kam	es	zu	 ein 	 er 	 	riesen	erschütterung	 mein 	 er 	 	intuition
+und	,	in	der	tat	,	um	es	zu	 versteh 	 en 	 	,	 musst 	 e 	 	ich	 letzt 	 endlich 	 	 ein 	 e 	 	ganz	 neu 	 e 	 	art	der	wissenschaft	 ent 	 werfen 	 	.
+ dies 	 e 	 	wissenschaft	ist	anders	,	 allgemein 	 er 	 	,	 al 	 s 	 	die	mathematisch	basierte	wissenschaft	,	die	wir	in	den	 letzt 	 en 	 	300	jahren	oder	so	hatten	.
+wissen	sie	,	es	 sch 	 ien 	 	immer	wie	ein	 große 	 s 	 	rätsel	,	wie	es	die	natur	_UNK_	so	spielend	schafft	,	so	viel	zu	 produziere 	 n 	 	,	das	 un 	 s 	 	so	komplex	 er 	 schein 	 t 	 	.
+ n 	 un 	 	ich	denke	wir	 fand 	 en 	 	das	geheimnis	.	es	ist	einfach	 ein 	 e 	 	stichprobe	von	dem	da	 dr 	 außen 	 	im	 rechner 	 ischen 	 	universum	und	recht	häufig	kommt	es	zu	dingen	wie	regel	30	oder	so	etwas	.
+und	 dies 	 es 	 	wissen	 er 	 klärt 	 	 ein 	 e 	 	menge	von	 jahrelang 	 en 	 	mysterien	in	der	wissenschaft	.
+es	schafft	 je 	 doch 	 	auch	 neu 	 e 	 	probleme	,	wie	die	 rechner 	 ische 	 	nichtreduzierbarkeit	.
+ich	meine	,	wir	sind	es	 ge 	 wohnt 	 	,	die	wissenschaft	 da 	 für 	 	zu	nutzen	,	um	 un 	 s 	 	 ding 	 e 	 	 voraus 	 sagen 	 	zu	lassen	,	 ab 	 er 	 	so	etwas	wie	das	ist	im	 grund 	 e 	 	_UNK_	.
+der	 einzig 	 e 	 	weg	das	ergebnis	 heraus 	 zufinden 	 	ist	quasi	,	eben	zu	schauen	,	wie	es	sich	entwickelt	.
+es	ist	 verbund 	 en 	 	mit	,	wie	ich	es	 n 	 en 	 n 	 e 	 	,	den	prinzipien	der	 rechner 	 ischen 	 	_UNK_	,	die	 un 	 s 	 	sagen	,	dass	 un 	 heimlich 	 	 einfach 	 e 	 	systeme	völlig	mühelos	_UNK_	berechnungen	machen	können	.
+es	braucht	nicht	viel	technologie	der	 biologisch 	 en 	 	evolution	,	um	 willkürlich 	 e 	 	berechnungen	zu	machen	.	es	passiert	einfach	,	natürlich	,	 über 	 all 	 	.
+ ding 	 e 	 	mit	regeln	die	so	einfach	wie	 dies 	 e 	 	sein	können	.
+ n 	 un 	 	,	das	hat	große	auswirkungen	auf	die	grenzen	der	wissenschaft	,	auf	_UNK_	und	_UNK_	von	dingen	wie	 biologisch 	 en 	 	prozessen	oder	einsparungen	,	auf	intelligenz	im	universum	,	auf	fragen	,	wie	die	willensfreiheit	und	auf	das	 er 	 schaffen 	 	von	technologien	.
+wissen	sie	,	während	ich	 soviel 	 e 	 	jahre	an	 dies 	 er 	 	wissenschaft	 arbeitet 	 e 	 	,	 fragt 	 e 	 	ich	mich	:	``	was	wird	ihre	killerapplikation	sein	?	``
+ n 	 un 	 	,	 seit 	 dem 	 	ich	ein	kind	war	,	dachte	ich	 dar 	 über 	 	nach	,	wie	man	wissen	_UNK_	und	 irgend 	 wie 	 	_UNK_	machen	 könnt 	 e 	 	.
+leute	wie	leibniz	 macht 	 en 	 	sich	 eben 	 falls 	 	gedanken	 dar 	 über 	 	,	300	jahre	 früh 	 er 	 	.
+ ab 	 er 	 	ich	nahm	immer	an	,	dass	ich	,	um	 voran 	 zukommen 	 	,	im	 wesentlich 	 en 	 	ein	 komplett 	 es 	 	gehirn	 repliz 	 ieren 	 	 müss 	 te 	 	.
+ al 	 so 	 	,	 über 	 legt 	 e 	 	ich	mir	:	das	mein	 wissenschaftlich 	 es 	 	paradigma	etwas	 ander 	 es 	 	 vor 	 schlägt 	 	.	und	,	 übrig 	 en 	 s 	 	,	habe	ich	 n 	 un 	 	 gewaltig 	 e 	 	_UNK_	in	mathematica	und	ich	bin	ein	geschäftsführer	mit	 einig 	 en 	 	 welt 	 lichen 	 	ressourcen	,	um	große	,	 schein 	 bar 	 	 verrückt 	 e 	 	projekte	zu	machen	.	 al 	 so 	 	 ent 	 schied 	 	ich	mich	einfach	zu	 versuch 	 en 	 	,	zu	 er 	 kennen 	 	wieviel	von	dem	 system 	 atisch 	 en 	 	wissen	da	 d 	 raus 	 s 	 en 	 	in	der	welt	wir	 be 	 rechnen 	 	können	.
+es	war	 al 	 so 	 	ein	 große 	 s 	 	,	 s 	 ehr 	 	 komplex 	 es 	 	projekt	,	von	dem	ich	nicht	mal	sicher	war	,	ob	es	 über 	 haupt 	 	 funktion 	 iert 	 	.
+ ab 	 er 	 	ich	bin	froh	zu	sagen	,	dass	es	eigentlich	 s 	 ehr 	 	gut	ging	.
+und	 letzt 	 es 	 	jahr	waren	wir	in	der	lage	,	die	 er 	 ste 	 	version	der	website	von	wolfram	alpha	zu	 ver 	 öffentlich 	 en 	 	.
+ihr	bestimmung	ist	,	 ein 	 e 	 	 seriös 	 e 	 	_UNK_	zu	sein	,	die	 antwort 	 en 	 	auf	fragen	 er 	 rechnet 	 	.
+probieren	wir	es	 al 	 so 	 	einmal	.
+ beginn 	 en 	 	wir	mit	etwas	 s 	 ehr 	 	 einfach 	 em 	 	.
+auf	das	beste	 hoff 	 en 	 	.
+ s 	 ehr 	 	gut	.	 o 	 kay 	 	.
+ so 	 weit 	 	so	gut	.
+probieren	wir	etwas	,	was	ein	wenig	 schwer 	 er 	 	ist	.
+sagen	wir	...	lassen	sie	 un 	 s 	 	etwas	 mathematisch 	 es 	 	machen	.	und	mit	etwas	glück	findet	es	die	antwort	und	 ver 	 sucht 	 	 un 	 s 	 	 einig 	 e 	 	 interessant 	 e 	 	 ding 	 e 	 	zu	sagen	,	 ding 	 e 	 	über	ähnliche	mathematik	.
+wir	 könnt 	 en 	 	es	etwas	über	die	 real 	 e 	 	welt	fragen	.
+sagen	wir	--	ich	weiß	nicht	--	wie	ist	das	bruttoinlandsprodukt	von	spanien	?
+und	es	sollte	in	der	lage	sein	,	 un 	 s 	 	das	zu	sagen	.
+ n 	 un 	 	können	wir	etwas	in	relation	dazu	 be 	 rechnen 	 	.	sagen	wir	das	bruttoinlandsprodukt	von	spanien	geteilt	durch	,	ich	weiß	nicht	.	das	--	 hmm 	 m 	 	...
+sagen	wir	das	einkommen	von	microsoft	.
+die	idee	ist	,	dass	wir	es	 so 	 zusagen 	 	einfach	 ein 	 tipp 	 en 	 	,	 ein 	 e 	 	frage	,	die	wir	 un 	 s 	 	gerade	stellen	.
+probieren	wir	 al 	 so 	 	 ein 	 e 	 	frage	zu	stellen	,	die	sich	mit	der	gesundheit	beschäftigt	.
+ al 	 so 	 	sagen	wir	,	wir	haben	ein	labor	,	dass	meint	--
+sie	wissen	schon	,	wir	haben	 ein 	 en 	 	cholesterinspiegel	von	140	für	 ein 	 en 	 	mann	im	alter	von	50	.
+ al 	 so 	 	lassen	sie	 un 	 s 	 	das	 ein 	 tipp 	 en 	 	und	 n 	 un 	 	wird	wolfram	alpha	 los 	 gehen 	 	und	 verfügbar 	 e 	 	 öffentlich 	 e 	 	gesundheitsinformationen	nutzen	und	 versuch 	 en 	 	 heraus 	 zufinden 	 	,	 welch 	 em 	 	teil	der	bevölkerung	das	 ent 	 spricht 	 	und	so	weiter	.
+oder	lassen	sie	 un 	 s 	 	fragen	,	ich	weiß	nicht	,	die	 international 	 e 	 	raumstation	.
+und	was	hier	 jetz 	 t 	 	passiert	ist	,	dass	wolfram	alpha	nicht	 n 	 ur 	 	etwas	 nach 	 schaut 	 	;	es	berechnet	in	echtzeit	,	wo	die	 international 	 e 	 	raumstation	gerade	ist	,	in	 dies 	 em 	 	moment	,	wie	schnell	sie	ist	und	so	weiter	.
+wolfram	alpha	weiß	 al 	 so 	 	über	viele	und	viele	 ding 	 e 	 	bescheid	.
+es	deckt	 in 	 zwischen 	 	 viele 	 s 	 	von	dem	ab	,	was	sie	in	 ein 	 er 	 	 normal 	 en 	 	_UNK_	finden	können	.
+ ab 	 er 	 	das	ziel	ist	es	viel	weiter	zu	gehen	und	,	 s 	 ehr 	 	umfassend	,	all	 dies 	 e 	 	arten	des	wissens	zu	 demokrat 	 isieren 	 	und	zu	 versuch 	 en 	 	 ein 	 e 	 	 zuverlässig 	 e 	 	quelle	in	 all 	 en 	 	bereichen	zu	werden	,
+um	fähig	zu	sein	,	 antwort 	 en 	 	zu	 spezifisch 	 en 	 	fragen	,	die	leute	haben	,	zu	 er 	 rechnen 	 	,	nicht	 in 	 dem 	 	das	 durch 	 sucht 	 	wird	,	was	 ander 	 e 	 	leute	vorher	geschrieben	haben	,	 sonder 	 n 	 	 in 	 dem 	 	man	 vorhanden 	 es 	 	wissen	nutzt	,	um	 neu 	 e 	 	 antwort 	 en 	 	auf	spezifische	fragen	zu	geben	.
+ n 	 un 	 	wolfram	alpha	ist	 selbst 	 verständlich 	 	ein	 monu 	 mental 	 	 große 	 s 	 	,	 langfristig 	 es 	 	projekt	,	mit	 viel 	 en 	 	,	 viel 	 en 	 	herausforderungen	.
+ zu 	 nächst 	 	einmal	 mus 	 s 	 	man	_UNK_	 unterschied 	 liche 	 	quellen	von	fakten	und	daten	generieren	,	und	wir	 schafft 	 en 	 	quasi	 ein 	 e 	 	pipeline	zwischen	 mathematisch 	 en 	 	berechnungen	und	experten	 sozial 	 er 	 	bereiche	,	um	dies	zu	tun	.
+ ab 	 er 	 	das	ist	 n 	 ur 	 	der	anfang	.
+um	mit	 roh 	 en 	 	fakten	und	daten	tatsächlich	auf	fragen	zu	 antwort 	 en 	 	,	 mus 	 s 	 	man	berechnungen	 an 	 stellen 	 	,	 mus 	 s 	 	man	all	 dies 	 e 	 	methoden	und	modelle	 implemen 	 tieren 	 	und	algorithmen	und	so	weiter	,	die	die	wissenschaft	und	 ander 	 e 	 	gebiete	über	jahrzehnte	 auf 	 gebaut 	 	haben	.
+ n 	 un 	 	,	selbst	 aus 	 gehend 	 	von	mathematica	,	ist	es	immer	noch	 ein 	 e 	 	unheimliche	menge	arbeit	.
+bisher	sind	es	über	8	millionen	zeilen	 mathematisch 	 en 	 	codes	in	wolfram	alpha	,	 er 	 stellt 	 	von	experten	aus	 viel 	 en 	 	,	 viel 	 en 	 	 unterschied 	 lichen 	 	bereichen	.
+ n 	 un 	 	,	 ein 	 e 	 	 essentiell 	 e 	 	idee	von	wolfram	alpha	ist	es	,	dass	sie	einfach	fragen	in	 normal 	 er 	 	 menschlich 	 er 	 	sprache	stellen	können	,	was	 be 	 deutet 	 	,	dass	wir	in	der	lage	sein	 müss 	 en 	 	,	all	die	 seltsam 	 en 	 	äußerungen	,	die	leute	in	das	_UNK_	 tipp 	 en 	 	,	 auf 	 zunehmen 	 	und	sie	zu	 versteh 	 en 	 	.
+und	ich	 mus 	 s 	 	sagen	,	dass	ich	 glaubt 	 e 	 	,	 dies 	 er 	 	schritt	sei	schlicht	 un 	 möglich 	 	.
+zwei	 wesentlich 	 e 	 	 ding 	 e 	 	 passiert 	 en 	 	.	 er 	 sten 	 s 	 	,	ein	haufen	neuer	ideen	über	die	sprachwissenschaft	gingen	aus	den	studien	des	 rechner 	 ischen 	 	universums	hervor	.	und	 zweit 	 en 	 s 	 	,	die	realisierung	,	tatsächlich	_UNK_	wissen	zu	haben	,	kann	sich	vollständig	ändern	,	wenn	man	über	das	verständnis	von	sprache	_UNK_	.
+und	,	natürlich	 jetz 	 t 	 	,	mit	wolfram	alpha	eigentlich	in	 frei 	 er 	 	wildbahn	,	können	wir	von	dessen	 aktuell 	 er 	 	nutzung	lernen	.
+und	es	gab	 so 	 gar 	 	 ein 	 e 	 	 interessant 	 e 	 	koevolution	die	 statt 	 fand 	 	zwischen	wolfram	alpha	und	dessen	nutzer	.	und	das	ist	 wahr 	 lich 	 	vielversprechend	.
+im	augenblick	,	wenn	wir	 ein 	 en 	 	blick	auf	die	_UNK_	werfen	,	werden	mehr	 al 	 s 	 	80	prozent	 be 	 im 	 	 er 	 sten 	 	mal	erfolgreich	bearbeitet	.
+und	wenn	sie	 ein 	 en 	 	blick	auf	 ding 	 e 	 	wie	die	iphone	applikation	werfen	,	ist	der	anteil	erheblich	höher	.
+ich	bin	 al 	 so 	 	ziemlich	zufrieden	mit	all	dem	.
+ ab 	 er 	 	in	 viel 	 en 	 	fällen	sind	wir	mit	wolfram	alpha	 immer 	 noch 	 	ganz	am	anfang	.
+ich	meine	,	 all 	 es 	 	entwickelt	sich	 s 	 ehr 	 	schön	.	wir	werden	 selbst 	 bewusst 	 er 	 	.
+sie	können	davon	 aus 	 gehen 	 	,	dass	die	wolfram	alpha	technologie	an	mehr	und	mehr	 ort 	 en 	 	 auf 	 taucht 	 	,	 arbeiten 	 d 	 	mit	 bei 	 den 	 	,	 dies 	 er 	 	art	der	 öffentlich 	 en 	 	daten	,	wie	auf	der	website	und	mit	 privat 	 em 	 	wissen	für	personen	und	firmen	und	so	weiter	.
+wissen	sie	,	ich	habe	erkannt	das	wolfram	alpha	 ein 	 em 	 	eigentlich	 ein 	 e 	 	 ganz 	 e 	 	 neu 	 e 	 	art	der	berechnung	gibt	,	die	man	_UNK_	 be 	 rechnen 	 	nennen	 könnt 	 e 	 	,	bei	 welch 	 er 	 	man	,	nicht	mit	 ein 	 er 	 	 roh 	 en 	 	berechnung	 beginn 	 t 	 	,	 sonder 	 n 	 	mit	 ein 	 er 	 	 gewaltig 	 en 	 	menge	von	_UNK_	wissen	.
+und	wenn	man	das	tut	,	ändert	man	tatsächlich	die	ökonomie	 rechner 	 ische 	 	dingen	zu	liefern	,	ob	es	 n 	 un 	 	im	web	ist	oder	 anders 	 wo 	 	.
+wissen	sie	,	wir	haben	gerade	 ein 	 e 	 	ziemlich	 interessant 	 e 	 	situation	.
+auf	der	 ein 	 en 	 	seite	haben	wir	mathematica	,	mit	dessen	art	von	 präzise 	 r 	 	,	 formale 	 r 	 	sprache	und	 ein 	 em 	 	großen	netzwerk	von	_UNK_	 entwickelt 	 en 	 	kapazitäten	,	fähig	,	 ein 	 e 	 	menge	mit	 n 	 ur 	 	ein	paar	zeilen	zu	 erledige 	 n 	 	.
+lassen	sie	mich	hier	 einig 	 e 	 	beispiele	zeigen	.
+ al 	 so 	 	hier	haben	wir	ein	 gewöhnlich 	 es 	 	stück	der	mathematica	programmierung	.
+hier	ist	etwas	,	wo	wir	 irgend 	 wie 	 	 ein 	 e 	 	menge	 unterschied 	 licher 	 	möglichkeiten	 integriere 	 n 	 	.
+hier	in	 dies 	 er 	 	zeile	 er 	 stellen 	 	wir	gerade	 ein 	 e 	 	 klein 	 e 	 	bedienoberfläche	,	die	es	 un 	 s 	 	erlaubt	,	dort	etwas	 lustig 	 es 	 	zu	machen	.
+wenn	wir	 weiter 	 gehen 	 	,	ist	das	ein	etwas	 kompliziert 	 er 	 es 	 	programm	das	hier	 er 	 ledigt 	 	 aller 	 lei 	 	 algorith 	 mische 	 	 ding 	 e 	 	und	 er 	 stellt 	 	benutzeroberflächen	und	so	.
+ ab 	 er 	 	es	ist	 s 	 ehr 	 	präzise	.
+es	ist	 ein 	 e 	 	präzise	_UNK_	mit	 präzise 	 r 	 	 formale 	 r 	 	sprache	,	die	mathematica	wissen	lässt	,	was	hier	zu	tun	ist	.
+ n 	 un 	 	,	auf	der	 ander 	 en 	 	seite	haben	wir	wolfram	alpha	,	mit	 all 	 en 	 	arten	von	unordnung	der	welt	und	 menschlich 	 er 	 	sprache	und	so	weiter	 implemen 	 tiert 	 	.
+was	passiert	,	wenn	man	 dies 	 e 	 	 bei 	 den 	 	 ding 	 e 	 	kombiniert	?
+ich	 glaub 	 e 	 	,	es	ist	ziemlich	erstaunlich	.
+mit	wolfram	alpha	 inner 	 halb 	 	mathematica	,	können	sie	 zu 	 m 	 	beispiel	präzise	programme	 er 	 stellen 	 	,	die	daten	aus	der	 echt 	 en 	 	welt	 ab 	 rufen 	 	.
+hier	ist	ein	 einfach 	 es 	 	beispiel	.
+sie	können	auch	einfach	 n 	 ur 	 	 ein 	 e 	 	 un 	 genaue 	 	eingabe	machen	und	dann	 versuch 	 en 	 	,	wolfram	alpha	 heraus 	 zufinden 	 	zu	lassen	 wo 	 von 	 	sie	sprechen	.
+lassen	sie	 un 	 s 	 	das	hier	probieren	.
+ ab 	 er 	 	eigentlich	 glaub 	 e 	 	ich	,	dass	wohl	 aufregend 	 ste 	 	 dar 	 an 	 	ist	,	dass	es	 ein 	 em 	 	wirklich	die	möglichkeit	gibt	,	programmierung	zu	_UNK_	.
+ich	meine	,	jeder	wird	in	der	lage	sein	,	dass	was	er	wissen	will	in	 einfach 	 er 	 	sprache	zu	 formul 	 ieren 	 	,
+die	idee	ist	es	dann	,	dass	wolfram	alpha	 im 	 stand 	 e 	 	ist	,	 heraus 	 zufinden 	 	 welch 	 e 	 	 präzise 	 n 	 	teile	von	code	das	machen	kann	,	 wo 	 nach 	 	gefragt	wird	und	dann	beispiele	zeigt	,	aus	 welch 	 en 	 	dann	gewählt	werden	kann	,	um	 größer 	 e 	 	und	 größer 	 e 	 	,	 präzise 	 re 	 	programme	zu	 er 	 stellen 	 	.
+ al 	 so 	 	 manch 	 mal 	 	wird	wolfram	alpha	in	der	lage	sein	,	dass	 ganz 	 e 	 	 so 	 fort 	 	zu	 erledige 	 n 	 	und	es	gibt	dann	einfach	ein	 große 	 s 	 	programm	zurück	,	mit	dem	sie	dann	rechnen	können	.
+hier	ist	 ein 	 e 	 	große	website	,	auf	der	wir	 ein 	 e 	 	menge	_UNK_	informationen	und	 ander 	 e 	 	demonstrationen	über	 ein 	 e 	 	menge	von	dingen	gesammelt	haben	.
+ al 	 so 	 	,	ich	weiß	nicht	,	ich	 zeig 	 e 	 	 ihn 	 en 	 	hier	 vielleich 	 t 	 	ein	beispiel	.
+das	ist	einfach	ein	beispiel	 ein 	 es 	 	 dies 	 er 	 	 er 	 rechnet 	 en 	 	dokumente	.
+das	ist	 vermu 	 tlich 	 	ein	ziemlich	kleiner	teil	mathematica	code	was	 im 	 stand 	 e 	 	ist	,	das	hier	laufen	zu	lassen	.
+ o 	 kay 	 	.	gehen	wir	 noch 	 mal 	 	 ein 	 en 	 	schritt	zurück	.
+ al 	 so 	 	,	gibt	es	in	anbetracht	 unser 	 er 	 	 neu 	 en 	 	art	der	wissenschaft	 ein 	 en 	 	 allgemein 	 en 	 	weg	sie	zu	nutzen	,	um	technologie	zu	schaffen	?
+ al 	 so 	 	,	mit	 physikalisch 	 en 	 	_UNK_	,	sind	wir	es	quasi	 ge 	 wohnt 	 	,	um	die	welt	zu	gehen	und	zu	 er 	 kennen 	 	,	dass	 bestimmt 	 e 	 	stoffe	sinnvoll	für	 bestimmt 	 e 	 	 n 	 un 	 	,	es	hat	sich	gezeigt	,	dass	wir	 s 	 ehr 	 	viel	davon	auch	im	 rechner 	 ischen 	 	universum	tun	können	.
+es	ist	ein	 un 	 er 	 schöpf 	 licher 	 	vorrat	von	programmen	da	 d 	 raus 	 s 	 en 	 	.
+die	herausforderung	ist	es	,	zu	 versteh 	 en 	 	,	wie	man	sie	für	 menschlich 	 e 	 	zwecke	nutzbar	machen	kann	.
+etwas	wie	regel	30	 zu 	 m 	 	beispiel	,	 schein 	 t 	 	ein	ziemlich	 gut 	 er 	 	zufallsgenerator	zu	sein	.
+ ander 	 e 	 	 einfach 	 e 	 	programme	sind	 gut 	 e 	 	modelle	für	vorgänge	in	der	natur	oder	 sozial 	 en 	 	welt	.
+und	,	 zu 	 m 	 	beispiel	,	wolfram	alpha	und	mathematica	sind	 n 	 un 	 	 voll 	 gestopft 	 	mit	algorithmen	die	wir	auf	der	suche	nach	dem	 rechner 	 ischen 	 	universum	entdeckt	haben	.
+und	,	 zu 	 m 	 	beispiel	,	 dies 	 es 	 	--	gehen	wir	 hier 	 hin 	 	zurück	--	 dies 	 es 	 	wurde	 überraschend 	 erweise 	 	bekannt	unter	komponisten	um	 musikalisch 	 e 	 	formen	zu	finden	während	man	das	 rechner 	 ische 	 	universum	 durch 	 sucht 	 	.
+in	 gewiss 	 er 	 	hinsicht	können	wir	das	 rechner 	 ische 	 	universum	nutzen	,	für	_UNK_	 individuell 	 e 	 	kreativität	.
+ich	 hoff 	 e 	 	wir	können	es	,	 zu 	 m 	 	beispiel	,	auch	nutzen	,	um	auch	wolfram	alpha	routinemäßig	 irgend 	 wie 	 	spontan	 er 	 finden 	 	und	entdecken	zu	lassen	und	um	all	die	arten	von	 wundervoll 	 en 	 	dingen	zu	finden	,	die	keine	manipulation	und	kein	prozess	_UNK_	evolution	 je 	 mals 	 	 hervor 	 bringen 	 	würde	.
+ n 	 un 	 	,	das	führt	 al 	 so 	 	zu	 ein 	 er 	 	art	_UNK_	frage	.	 könnt 	 e 	 	es	sein	,	das	wir	irgendwo	da	 d 	 raus 	 s 	 en 	 	im	 rechner 	 ischen 	 	universum	unser	 physisch 	 es 	 	universum	finden	können	?
+ vielleich 	 t 	 	 exist 	 iert 	 	 ein 	 e 	 	recht	 simpl 	 e 	 	regel	,	ein	 einfach 	 es 	 	programm	für	unser	universum	.
+ n 	 un 	 	,	die	geschichte	der	physik	 wollt 	 e 	 	 un 	 s 	 	 glaub 	 en 	 	machen	dass	die	regel	für	unser	_UNK_	ziemlich	kompliziert	sein	 mus 	 s 	 	.
+ ab 	 er 	 	im	 rechner 	 ischen 	 	universum	haben	wir	 n 	 un 	 	gesehen	,	wie	regeln	,	die	so	unglaublich	einfach	sind	,	so	 un 	 fassbar 	 	 reichhaltig 	 es 	 	und	 komplex 	 es 	 	verhalten	 produziere 	 n 	 	können	.
+ könnt 	 e 	 	es	 al 	 so 	 	sein	,	dass	das	mit	 unser 	 em 	 	 gesamt 	 en 	 	universum	passiert	?
+wenn	die	regeln	für	die	gesamtheit	einfach	sind	,	ist	 irgend 	 wie 	 	unausweichlich	,	dass	sie	 s 	 ehr 	 	 ab 	 s 	 trakt 	 	und	auf	 niedrig 	 er 	 	ebene	arbeiten	,	 zu 	 m 	 	beispiel	,	weit	unter	der	ebene	von	raum	oder	zeit	,	was	es	schwer	macht	,	 ding 	 e 	 	zu	 repräsent 	 ieren 	 	.
+ ab 	 er 	 	in	zumindest	 ein 	 er 	 	große	klasse	von	fällen	,	kann	man	davon	 aus 	 gehen 	 	,	dass	das	universum	,	 ein 	 e 	 	art	netzwerk	ist	,	 welch 	 es 	 	sich	,	wenn	es	groß	genug	ist	,	wie	ein	 unendlich 	 er 	 	raum	 ver 	 hält 	 	,	ziemlich	genau	so	 al 	 s 	 	würde	man	 ein 	 e 	 	menge	moleküle	haben	,	die	sich	wie	 ein 	 e 	 	flüssigkeit	verhalten	.
+ n 	 un 	 	,	dann	 mus 	 s 	 	sich	das	universum	,	durch	die	anwendung	kleiner	regeln	die	das	netzwerk	 zunehmen 	 d 	 	 aktualisiere 	 n 	 	,	 ent 	 wickeln 	 	.
+und	jede	mögliche	regel	,	 gewiss 	 ermaßen 	 	,	 ent 	 spricht 	 	 ein 	 em 	 	kandidaten	im	universum	,
+eigentlich	habe	ich	das	vorher	nicht	gezeigt	,	 ab 	 er 	 	hier	sind	 einig 	 e 	 	der	universums	kandidaten	die	ich	 betrachte 	 t 	 	habe	.
+ einig 	 e 	 	davon	sind	 hoffnungs 	 lose 	 	universen	,	komplett	steril	,	mit	 ander 	 en 	 	arten	von	_UNK_	wie	,	keine	vorstellung	von	raum	,	keine	vorstellung	von	zeit	,	ohne	bedeutung	,	 ander 	 e 	 	probleme	wie	 dies 	 e 	 	.
+ ab 	 er 	 	das	 aufregend 	 e 	 	,	dass	ich	in	den	 letzt 	 en 	 	jahren	 entdeckt 	 e 	 	ist	,	dass	sie	eigentlich	nicht	weit	gehen	 müss 	 en 	 	im	 rechner 	 ischen 	 	universum	um	kandidaten	universen	zu	finden	,	die	offensichtlich	nicht	unser	universum	sind	.
+hier	ist	das	problem	:	irgend	ein	 ernsthaft 	 er 	 	kandidat	für	unser	universum	ist	 zwang 	 s 	 läufig 	 	voll	mit	_UNK_	nichtreduzierbarkeit	,
+was	 be 	 deutet 	 	,	dass	es	minimal	kompliziert	ist	 heraus 	 zufinden 	 	wie	es	sich	wirklich	verhalten	wird	und	ob	es	zu	 unser 	 em 	 	 physisch 	 en 	 	universum	passt	.
+vor	 einig 	 en 	 	jahren	war	ich	ziemlich	 auf 	 geregt 	 	bei	der	entdeckung	,	dass	es	kandidaten	universen	mit	unglaublich	 einfach 	 en 	 	regeln	gibt	,	die	 ein 	 e 	 	 speziell 	 e 	 	relativitätstheorie	erfolgreich	 reproduz 	 ieren 	 	und	auch	die	 allgemein 	 e 	 	relativitätstheorie	und	gravitation	und	zumindest	hinweise	auf	die	quantenmechanik	geben	.
+werden	wir	 al 	 so 	 	die	 ganz 	 e 	 	physik	entdecken	?
+ich	bin	mir	nicht	sicher	.	 ab 	 er 	 	ich	denke	,	an	 dies 	 er 	 	stelle	ist	es	 irgend 	 wie 	 	fast	beschämend	,	es	nicht	 wenigste 	 n 	 s 	 	zu	 versuch 	 en 	 	.
+kein	 einfach 	 es 	 	projekt	.
+man	hat	 ein 	 e 	 	menge	technologie	zu	 er 	 schaffen 	 	.
+man	hat	 ein 	 e 	 	struktur	zu	 er 	 schaffen 	 	,	die	wahrscheinlich	 mind 	 esten 	 s 	 	so	tief	ist	,	wie	die	schon	 existiere 	 nde 	 	physik	.
+und	ich	bin	mir	nicht	sicher	,	was	der	beste	weg	ist	,	um	das	 ganz 	 e 	 	ding	zu	 organisiere 	 n 	 	.
+ er 	 schaff 	 e 	 	ein	team	,	_UNK_	es	,	biete	preise	und	so	weiter	.
+ ab 	 er 	 	ich	sage	 ihn 	 en 	 	 heut 	 e 	 	,	dass	ich	 en 	 g 	 agiert 	 	bin	,	dass	projekt	zu	 erledige 	 n 	 	,	um	zu	sehen	,	ob	wir	 inner 	 halb 	 	 dies 	 er 	 	dekade	,	endlich	die	_UNK_	für	unser	universum	in	den	händen	halten	und	wissen	wo	unser	universum	liegt	,	im	raum	aller	 möglich 	 en 	 	universen
+und	in	der	lage	sind	,	die	theorie	des	universum	in	wolfram	alpha	 ein 	 zugeben 	 	und	sie	 un 	 s 	 	von	ihm	sagen	zu	lassen	.
+ich	 arbeit 	 e 	 	 n 	 un 	 	am	konzept	der	berechnung	seit	über	30	jahren	,	entwickle	werkzeuge	und	methoden	und	 ver 	 wandle 	 	 intellektuell 	 e 	 	ideen	in	millionen	zeilen	von	code	 al 	 s 	 	stoff	für	_UNK_	.
+mit	 jede 	 m 	 	 vor 	 über 	 gehend 	 en 	 	jahr	,	 be 	 greife 	 	ich	,	wieviel	 mächtig 	 er 	 	das	konzept	der	berechnung	wirklich	ist	.
+wir	sind	 n 	 un 	 	schon	 ein 	 en 	 	langen	weg	gegangen	,	 ab 	 er 	 	es	wird	noch	 s 	 ehr 	 	viel	kommen	,
+von	den	grundlagen	der	wissenschaft	hin	zu	den	grenzen	der	technologie	gar	bis	zu	den	bedingungen	des	menschseins	,	ich	denke	berechnung	ist	bestimmt	dazu	,	die	anschauung	 unser 	 er 	 	zukunft	zu	 präg 	 en 	 	.
+ viel 	 en 	 	dank	.
+chris	anderson	:	das	war	 beeindrucken 	 d 	 	.
+bleib	noch	hier	,	wir	haben	 ein 	 e 	 	frage	.
+das	war	ein	 über 	 aus 	 	 eindrucksvoll 	 er 	 	vortrag	.
+kannst	du	 un 	 s 	 	in	ein	zwei	sätzen	sagen	wie	 dies 	 e 	 	art	des	denkens	sich	 irgend 	 wann 	 	 integriere 	 n 	 	 könnt 	 e 	 	in	bereiche	wie	die	stringtheorie	oder	die	art	von	_UNK_	,	die	die	menschen	für	die	 fundamental 	 e 	 	erklärung	des	universums	halten	?
+stephen	wolfram	:	 n 	 un 	 	,	die	teile	der	physik	die	wir	für	wahr	halten	,	 ding 	 e 	 	,	wie	das	standardmodell	der	physik	.	ich	 versuch 	 e 	 	die	reproduktion	des	standardmodells	der	physik	besser	_UNK_	sie	ist	einfach	falsch	.
+ dies 	 e 	 	sachen	,	die	die	leute	in	den	 letzt 	 en 	 	25	jahren	oder	so	 ver 	 sucht 	 	haben	,	mit	der	stringtheorie	und	so	sind	 interessant 	 e 	 	erforschungen	gewesen	die	 ver 	 sucht 	 	haben	zurück	 zu 	 m 	 	standardmodell	zu	führen	,	 ab 	 er 	 	es	nicht	wirklich	 hin 	 bekommen 	 	haben	.
+meine	annahme	ist	,	dass	 einig 	 e 	 	große	vereinfachungen	bei	dem	was	ich	tue	,	tatsächlich	 erheblich 	 e 	 	resonanz	auf	das	haben	 könnt 	 e 	 	,	was	mit	der	stringtheorie	getan	wurde	,	 ab 	 er 	 	das	ist	ein	 kompliziert 	 es 	 	 mathematisch 	 es 	 	ding	,	was	ich	 bis 	 lang 	 	noch	nicht	 heraus 	 gefunden 	 	habe	.
+ca	:	benoit	_UNK_	sitzt	im	publikum	.
+er	hat	ebenso	gezeigt	,	wie	komplexität	sich	von	 ein 	 em 	 	 einfach 	 en 	 	anfang	 ent 	 wickeln 	 	kann	.
+ be 	 zieht 	 	sich	deine	arbeit	darauf	?
+sw	:	ich	denke	schon	.
+ich	sehe	benoit	_UNK_	arbeit	 al 	 s 	 	 ein 	 e 	 	art	 grundlegend 	 en 	 	beitrag	auf	 dies 	 em 	 	gebiet	.
+benoit	 interessiert 	 e 	 	sich	 besonder 	 s 	 	für	 verschachtelt 	 e 	 	muster	,	fraktale	und	so	weiter	,	wo	die	struktur	 irgend 	 wie 	 	wie	ein	baum	ist	,	bei	dem	jeder	große	zweig	 weiter 	 e 	 	 klein 	 e 	 	zweige	 hervor 	 bringt 	 	und	 dies 	 e 	 	wieder	 kleiner 	 e 	 	zweige	und	so	weiter	.
+das	ist	 ein 	 e 	 	möglichkeit	von	 viel 	 en 	 	,	um	zu	 wahr 	 er 	 	komplexität	zu	kommen	.
+ich	denke	,	 ding 	 e 	 	wie	regel	30	der	 zelluläre 	 n 	 	automaten	bringen	 un 	 s 	 	auf	 ein 	 e 	 	 ander 	 e 	 	ebene	.
+genau	genommen	bringen	sie	 un 	 s 	 	auf	 ein 	 em 	 	 s 	 ehr 	 	 präzise 	 n 	 	weg	auf	 ein 	 e 	 	 ander 	 e 	 	ebene	,	weil	sie	 vermu 	 tlich 	 	 ding 	 e 	 	sind	,	die	komplexität	 er 	 möglich 	 en 	 	,	 ein 	 e 	 	art	von	_UNK_	komplexität	...
+ich	 könnt 	 e 	 	das	noch	 s 	 ehr 	 	ausführlich	 be 	 sprechen 	 	,	werde	es	 ab 	 er 	 	nicht	tun	.
+ca	:	stephen	wolfram	,	 viel 	 en 	 	dank	.
+

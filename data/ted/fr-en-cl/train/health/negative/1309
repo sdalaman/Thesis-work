@@ -1,0 +1,67 @@
+j'étudie comment le cerveau traite l'information .
+c'est - à - dire , comment il reçoit les informations du monde extérieur , et les convertit en modèles d'activité électrique , puis comment il utilise ces modèles pour vous permettre de faire des choses -- voir , entendre , tendre la main pour attraper un objet .
+je suis à la base un scientifique , pas un clinicien , mais depuis un an et demi j'ai commencé à m'engager dans une nouvelle voie , à utiliser ce que nous avons appris de ces modèles d'activité pour développer des prothèses , et aujourd'hui , je voulais vous en montrer un exemple .
+c'est vraiment notre première tentative dans ce domaine .
+c'est le développement d'une prothèse pour traiter la cécité .
+permettez - moi d'aborder ce problème .
+il y a 10 millions de personnes aux états - unis et beaucoup d'autres dans le monde qui sont aveugles ou qui sont confrontés à la cécité suite à une maladie de la rétine , des maladies comme la dégénérescence maculaire , et il n'y a pas grand chose qu'on puisse faire pour eux .
+il y a des traitements médicamenteux , mais ils ne sont efficaces que sur une petite fraction de la population . et donc , pour la grande majorité des patients , leurs plus grand espoir de retrouver la vue repose sur des prothèses .
+le problème est que les prothèses actuelles de fonctionnent pas très bien . elles sont encore très limitées quant à la vision qu'elles procurent .
+et donc , par exemple , avec ces prothèses , les patients peuvent voir des choses simples comme les lumières vives et des bordures à contraste élevé , pas beaucoup plus , donc rien qui se rapproche d'une vision normale n'a été possible .
+alors ce dont je vais vous parler aujourd'hui est une prothèse sur laquelle nous avons travaillé et qui je pense peut faire une différence , en étant beaucoup plus efficace , et je voulais vous montrer comment elle fonctionne . revenons un peu en arrière , et je vais vous montrer d'abord comment fonctionne une rétine normale pour que vous voyez le problème que nous avons tenté de résoudre .
+vous avez ici une rétine .
+vous avez donc une image , une rétine et un cerveau .
+quand vous regardez quelque chose , comme cette image d'un visage de bébé , elle entre dans votre œil et atterri sur votre rétine , sur les cellules _UNK_ ici , les photorécepteurs .
+et ensuite , les circuits rétiniens , la partie centrale , travaille dessus , et elle effectue des opérations dessus , elle en extrait des informations , et elle convertit ces informations en code .
+et le code a la forme de ces modèles d'impulsions électriques qui sont envoyés au cerveau , et donc la clé est que l'image est finalement convertie en code . et quand je dis code , je veux vraiment dire code littéralement .
+comme ce modèle d'impulsions électriques ici veut vraiment dire " visage de bébé " , et donc quand le cerveau reçoit ce modèle d'impulsions , il sait que ce qui était là c'était un visage de bébé , et si il recevait un modèle différent il saurait que ce qui était là c'était , disons , un chien , ou un autre modèle serait une maison .
+n'importe comment , vous comprenez l'idée .
+et bien sûr , dans la vraie vie , tout est dynamique , ce qui signifie que ça change tout le temps , les modèles d'impulsions changent donc tout le temps parce que le monde que vous voyez change aussi tout le temps .
+vous voyez , c'est plutôt compliqué .
+vous avez ces modèles d'impulsions qui sortent de votre œil à chaque milliseconde et qui disent à votre cerveau ce que vous voyez .
+qu'est - ce qui se passe quand quelqu'un a une maladie _UNK_ rétinienne comme le dégénérescence maculaire ? ce qui se passe c'est que les cellules de surface meurent , les photorécepteurs meurent , et avec le temps , toutes les cellules et les circuits qui y sont connectés meurent aussi .
+jusqu'à ce que les seules choses qui vous restent sont les cellules ici , les cellules d'informations , celles qui envoient les signaux au cerveau , mais à cause de toute cette dégénérescence elles _UNK_ plus de signaux .
+elles ne reçoivent plus d'informations , alors le cerveau de la personne ne reçoit plus d'informations visuelles -- c'est - à - dire il ou elle est aveugle .
+alors , la solution au problème serait de construire une prothèse qui _UNK_ les actions de ce circuit frontal et enverrait des signaux aux cellules d'informations de la rétine , et qu'elles puissent à nouveau remplir leur fonction normale qui est d'envoyer des signaux au cerveau .
+c'est donc ce sur quoi nous avons travaillé , et voici ce que fait notre prothèse .
+elle consiste en deux parties , ce qu'on appelle un encodeur et un transducteur .
+et l'encodeur fait exactement ce que je disais : il imite les actions des circuits frontaux -- donc il amène des images et les convertit dans le code de la rétine .
+et puis le transducteur fait envoyer ce code par les cellules d'informations jusqu'au cerveau , et le résultat est que la prothèse rétinienne peut produire un rendu _UNK_ normal .
+une rétine complètement aveugle , même une rétine sans aucun circuit frontal , aucun _UNK_ , peut à présent envoyer des signaux normaux , des signaux que le cerveau peut comprendre .
+aucun autre dispositif n'a pu faire ça .
+bon je veux simplement dire une phrase ou deux sur l'encodeur et ce qu'il fait , parce que c'est vraiment un élément clé et il est assez intéressant et sympa .
+je ne suis pas sure que sympa soit le mot qui convient , mais vous voyez ce que je veux dire .
+ce qu'il fait , c'est qu'il remplace les circuits rétiniens , les tripes mêmes des circuits rétiniens , par un ensemble d'équations , un ensemble d'équations que nous implémentons sur une puce . ce ne sont donc que des maths .
+en d'autres termes , nous ne remplaçons pas littéralement les composants de la rétine .
+ce n'est pas comme si nous faisions un mini - dispositif pour chacun des différents types de cellule .
+nous avons seulement fait une abstraction de ce que fait la rétine avec un ensemble d'équations .
+et donc , dans un sens , les équations servent de manuel du code , en quelque sorte . une image entre , passe par l'ensemble d'équations , et des flots d'impulsions électriques ressortent , comme en produirait une rétine normale .
+permettez - moi de joindre le geste à la parole et de vous montrer que nous pouvons vraiment produire un rendu normal , et quelles sont les implications de tout ceci .
+voici trois ensembles de modèles d'activation . celui d'en haut est celui d'un animal normal , celui du milieu est celui d'un animal aveugle qu'on a traité avec ce dispositif d'encodeur - transducteur , et celui du bas est celui d'un animal aveugle traité avec une prothèse classique .
+celui d'en bas est le dispositif nec plus ultra qui est actuellement sur le marché , et qui se compose essentiellement de détecteurs de lumière , mais n'a pas d'encodeur . alors ce que nous avons fait , nous avons présenté des films de choses de la vie quotidienne -- des gens , des bébés , des bancs dans un parc , vous savez , des choses normales -- et nous avons enregistré les réactions des rétines de ces trois groupes d'animaux .
+juste pour vous donner des repères , chaque case montre les modèles d'activation de plusieurs cellules , et tout comme dans les diapos précédentes , chaque rangée est une cellule différente , et j'ai seulement réduit les impulsions et je les ai rendues plus minces pour vous montrer tout un ensemble de données .
+et comme vous pouvez le voir , les modèles d'activation de l'animal aveugle traité avec l'encodeur - transducteur sont vraiment très proches des modèles d'activation normaux -- et ce n'est pas parfait , mais c'est plutôt bien .
+et l'animal aveugle traité avec la prothèse classique , les réactions ne sont pas du tout bonnes .
+et donc avec la méthode classique , les cellules ' s'activent , mais elles ne s'activent pas selon les modèles normaux parce que elles n'ont pas le bon code .
+quelle importance cela a - t - il ?
+quel est l'impact potentiel sur la capacité de voir du patient ?
+je vais juste vous montrer une expérience de base qui apporte une réponse et bien sûr j'ai beaucoup d'autres données , alors si ça vous intéresse , je serais ravie de vous en montrer plus . on appelle donc cette expérience une expérience de reconstruction .
+nous avons pris un moment donné de ces enregistrements et avons posé la question suivante : que voyait la rétine à ce moment - là ?
+pouvons - nous reconstruire ce que la rétine voyait à partir des réactions aux modèles d'activation ?
+cela quand nous avons travaillé sur les réactions à la méthode classique et à notre encodeur et transducteur .
+permettez - moi de vous le montrer , et je commencerai par la méthode classique .
+vous voyez que c'est plutôt limité , et parce que les modèles d'activation ne sont pas dans le bon code , ils sont très limités quant à ce qu'ils peuvent dire sur ce qu'il y a là dehors . vous pouvez voir qu'il y a quelque chose là , mais il est difficile de savoir ce que c'est , et dans un sens cela nous ramène à ce que je disais au début , qu'avec la méthode classique , les patients peuvent voir des bords au contraste élevé , ils peuvent voir de la lumière , mais ça ne va pas beaucoup plus loin . alors , quelle était cette image ? c'était le visage d'un bébé .
+et avec notre approche , en ajoutant le code ? et vous pouvez voir que c'est beaucoup mieux . non seulement vous pouvez dire que c'est un visage de bébé , mais vous pouvez dire que c'est le visage de ce bébé , ce qui est une tâche vraiment difficile .
+donc à gauche vous voyez l'encodeur seul , et à droite c'est une véritable rétine aveugle , donc avec l'encodeur et le transducteur .
+mais la clé est en fait l'encodeur seul , parce que nous pouvons le coupler avec un transducteur différent .
+c'est en fait le premier que nous avons essayé .
+je voulais dire quelque chose sur la méthode classique .
+quand c'est sorti pour la première fois , c'était vraiment enthousiasmant , l'idée que vous pouviez obtenir une réaction quelconque de la rétine .
+mais il y avait un facteur _UNK_ , le problème du code , et comment faire que les cellules répondent mieux .
+produisent des réactions normales , et c'était donc notre contribution .
+je voudrais maintenant terminer , et comme je le disais plus tôt , bien sûr j'ai beaucoup d'autres données si ça vous intéresse , mais je voulais donner cette idée générale de la capacité de communiquer avec le cerveau dans sa langue , et la puissance potentielle de pouvoir le faire .
+c'est donc différent des prothèses _UNK_ dans lesquelles on communique depuis le cerveau vers un appareil . ici nous devons communiquer depuis le monde extérieur jusque dans le cerveau et être compris , et être compris par le cerveau .
+et la dernière chose que je voulais dire en fait , c'est insister sur le fait que l'idée se généralise .
+la même stratégie que nous avons employée pour trouver le code pour la rétine peut aussi être employée pour trouver le code pour d'autres zones , par exemple le système auditif et le système moteur , donc pour traiter la surdité et les désordres moteurs .
+tout comme nous avons pu contourner les circuits endommagés de la rétine pour arriver à ses cellules de production , nous pouvons contourner les circuits endommagés dans la cochlée pour atteindre le nerf auditif , ou contourner les zones endommagées dans le cortex , dans le cortex moteur , pour palier au manque résultant d'une attaque .
+je veux terminer par un message simple : comprendre le code est très très important , et si nous pouvons comprendre le code , le langage du cerveau , les choses qui ne semblaient pas possibles à première vue le deviennent .

@@ -1,0 +1,154 @@
+günaydın .
+bugün buraya kendi kendine çalışan uçan plaj topları hakkında konuşmak için geldim .
+hayır , bunun gibi çevik hava robotları hakkında .
+bunları inşa ederken karşılaşılan zorluklar ve bu teknolojiyi uygulamak için inanılmaz fırsatlar hakkında bir kaç şey söylemek istiyorum .
+bu yüzden bu robotlar insansız uçan hava araçlarıdır .
+buna rağmen , _UNK_ gördüğünüz araçlar büyük .
+binlerce kilogram ağırlığında ve hiç bir şekilde çevik değiller .
+kendi kendine çalışan bile değiller .
+gerçekte , bu araçların çoğu birden fazla pilotu içeren alıcıları kontrol eden ve görev _UNK_ olan uçuş ekipleri tarafından _UNK_ .
+buna benzer robotları geliştirirken ilgimizi çeken şey ve burada diğer iki resmi var -- raftan satın alabiliyor olunması .
+bunlar dört pervaneli helikopterler ve neredeyse bir metre büyüklüğünde ve bir kilodan az .
+ve sensör ve _UNK_ donanımı _UNK_ , ve bu robotlar gps bilgisi olmaksızın iç mekanlarda _UNK_ .
+elimde tutmuş olduğum robot bir tanesidir , ve alex ve daniel isimli öğrenciler tarafından yaratılmıştır .
+öyle ki , bunun ağırlığı 60 gramdan biraz daha fazla .
+yaklaşık 15 watt enerji harcıyor .
+görüdüğünüz üzere , yaklaşık 20 cm _UNK_ .
+bu robotların nasıl çalıştığı ile ilgili size kısa bir bilgilendirme yapmama izin verin .
+dört adet pervanesi var .
+bunları aynı hızda döndürürseniz , robot havada duruyor .
+eğer _UNK_ her birinin hızını _UNK_ , robot uçuşa geçiyor ve yükseliyor .
+tabi robot eğimli ise , yatay eksene yöneliyor , daha sonra bu doğrultuda hızlanıyor .
+eğim kazandırmak için , iki yöntemden biri bu .
+bu yüzden , resimde gördüğünüz dördüncü pervane daha hızlı dönüyor ve ikinci pervane daha yavaş dönüyor .
+ve oluşan şey robotun _UNK_ sebep olan andır .
+diğer bir yolu , eğer pervane ü ç ü hızlandırır ve pervane birin hızını _UNK_ , robot öne doğru ilerler .
+ve son olarak , eğer ters pervane çiftlerini diğer _UNK_ daha hızlı döndürürseniz , robot dik _UNK_ _UNK_ .
+bu yüzden yerleşik bir işlemci temel olarak hangi hareketin yapılacağına bakar ve bu hareketleri oluşturur ve motorlara saniye de 600 kere hangi komutları göndereceğini tespit eder .
+bu basit olarak bunun nasıl _UNK_ .
+bu tasarımın avantajlarından biri ölçeği _UNK_ zaman robot doğal olarak çevik oluyor .
+i̇şte burada r robotun _UNK_ _UNK_ .
+aslında _UNK_ yarısıdır .
+_UNK_ azalttığınızda değişen çok fazla fiziksel _UNK_ vardır .
+bunlardan en önemlisi eylemsizlik ya da harekete karşı _UNK_ .
+sonuçta , açısal hareketi idame eden eylemsizlik r'nin beşinci kuvveti olarak hesaplanır .
+bu yüzden r ne kadar küçükse _UNK_ bir o kadar _UNK_ .
+sonuçta , burada yunan _UNK_ alfa ile belirtilen açısal hızlanma r üzeri bir şeklide gidiyor .
+ters olarak _UNK_ orantılıdır .
+daha küçük yaparsanız daha hızlı döndürebilirsiniz .
+bu videolar daha net görülebilir .
+sağ altta gördüğünüz bir robot yarım saniyeden az bir sürede 360 derece dönebiliyor .
+bir çok dönüş , daha az bir zamanda oluyor .
+kartın üzerindeki işlemci hız _UNK_ ve kart üzerindeki _UNK_ geri bildirim alıyor ve daha önce söylediğim gibi bu robotu stabil tutmak için saniyede 600 kez komut _UNK_ hesaplama yapıyor .
+solda , daniel'in robotu havaya attığını görüyorsunuz .
+ve bu kontrolün ne kadar _UNK_ olduğunu gösteriyor .
+nasıl _UNK_ fırlatın robot kendini kurtarıp tekrar olması gereken hale geliyor .
+peki bunun gibi robotları niye yapıyoruz ?
+şey , bunun gibi robotlar bir çok uygulamaya sahiptir .
+onları _UNK_ ilk olarak temas kurmak için ya da biokimyasal sızıntıları ya da gaz _UNK_ kontrol etmek için gönderebilirsiniz .
+onları inşaat işleri gibi uygulamalarda kullanabilirsiniz .
+i̇şte burada robotlar kiriş , kolon taşıyorlar ve küp biçimde yapılar oluşturuyorlar .
+size bunun hakkında biraz daha anlatayım .
+robotlar kargo _UNK_ kullanılabilirler .
+küçük robotların problemlerinden biri taşıyabilecekleri yük kapasitesidir .
+bunu birden çok robot kullanarak aşabilirsiniz .
+bu yaşamış olduğumuz bir tecrübenin resmidir . aslında çok yakın bir zamanda değil artık -- depremden kısa bir süre sonra _UNK_ .
+bunu gibi robotlar yıkılmış binalara hasar tespiti için ya da reaktör binalarına radyasyon seviyesini oluşturmak için _UNK_ .
+burada temel problem eğer robotlar birbirinden bağımsız _UNK_ çözmek zorunda olduğu temel problem temel olarak a noktasından b noktasına nasıl _UNK_ .
+burası biraz zorlayıcı çünkü robotların dinamiği oldukça karmaşıktır .
+aslında , 12 boyutlu bir uzayda yaşıyorlar .
+burada ufak bir hile yapıyoruz .
+eğik 12 boyutlu uzayı alıyoruz ve onu dört boyutlu düz bir uzaya dönüştürüyoruz .
+dört boyutlu uzay x , y , z ve rota açısından oluşmaktadır .
+bu yüzden robotların yaptığı şey minimum hava yörüngesinin oluşumunun _UNK_ .
+fiziği hatırlamak gerekirse , _UNK_ , _UNK_ , _UNK_ var , sonra hızlanma ve ve sonra hareketlenme geliyor ve daha sonra birleştirme geliyor .
+bu robot birleşimi minimize ediyor .
+etkin olarak yaptığı şey pürüzsüz ve ince hareket oluşturmasıdır .
+bunu engellerden kaçınarak yapıyor .
+bu düz bir uzayda minimum yörünge oluşturma daha sonra robotların kontrolü ve sonra yerine getirmesi için yapması gereken karmaşık 12 boyutlu uzaya tekrar geri _UNK_ ,
+size bu minimum yörünge oluşturmanın neye benzediğini göstermem için bazı örnekler vermeme izin verin .
+ve ilk videoda , robot a noktasından b noktasına bir ara noktadan geçerek gidiyor .
+yani robot herhangi bir kavis yörüngesini kesinlikle oluşturabilir durumda .
+bunlar robotların 2g _UNK_ dairesel _UNK_ .
+burada saniyede 100 kere robota nerede olduğunu ileten üzerindeki hareket yakalayan _UNK_ .
+aynı zamanda _UNK_ engellerin nerede olduğunu söylüyor .
+engeller hareket ediyor olabilir .
+ve burada daniel'in halkayı havaya attığını görüyorsunuz , robot halkanın konumunu hesaplıyor ve halkanın içinden _UNK_ en iyi yeri bulmaya çalışıyor .
+ve akademik olduğu gibi , laboratuarımızda fonları _UNK_ için halkaların içinden atlamak için eğitim alıyoruz ve robotların bunu yapmasını sağlıyoruz .
+robotların yapabildiği diğer birşey daha önce programlanabilen ve öğrenen yörünge parçalarını hatırlamasıdır .
+burada görüdüğünüz robot hızlanmayı gerçekleştirmek için bir hareket oluşturuyor ve ve _UNK_ değiştirip , sonra önceki konumuna geliyor .
+bunu yapmak zorunda çünkü penceredeki bu boşluk robotun genişliğinden birazcık daha büyük .
+sıçrama _UNK_ üzerinde duran dalgıç gibi _UNK_ bir momentum _UNK_ kendini bırakır , ve sonra kendi etrafında döner , ikibuçuk _UNK_ ve zarifçe eksi haline döner , bu robot basitçe bunu yapıyor .
+böylece bu oldukça zor işleri yapabilmek için küçük ufak tefek yolları nasıl _UNK_ biliyor .
+şimdi konuyu değiştirmek istiyorum .
+bu küçük robotların en büyük dezavantajlarından biri _UNK_ .
+size daha önce söylediğim gibi bu boyut _UNK_ aşmak için çok , bir çok robot kullanmak isteyebiliriz .
+zorluklardan biri bukadar çok robotu nasıl koordine _UNK_ .
+burada doğaya dönüyoruz .
+size professor stephen _UNK_ laboratuarında nesne taşıyan _UNK_ çöl _UNK_ bir klibini göstermek istiyorum .
+bu aslında bir incir parçasıdır .
+aslında incir suyu ile kaplanmış herhangi bir nesneyi alabilirsiniz ve karıncalar bunu yuvalarına götüreceklerdir .
+bu karıncaların herhangi bir merkezi _UNK_ yoktur .
+komşularını _UNK_ .
+belirgin bir iletişim yok .
+fakat , komşularını _UNK_ ve nesneleri _UNK_ için grup arasında üstü kapalı bir koordinasyon var .
+bu robotlarda olmasını istediğimiz bir koordinasyon _UNK_ .
+etrafında komşularının olduğu bir robotumuz olduğu zaman -- robot i ve robot _UNK_ bakalım -- robotlardan yapmasını istediğimiz belli bir _UNK_ uçarken kendi aralarındaki mesafeyi _UNK_ .
+ve bu mesafenin kabuledilebilir seviyelerde olduğundan emin olmak istiyorsunuz .
+böylece tekrar robotlar bu hataları gözlemler ve daha sonra saniyede 600 kez hareket _UNK_ _UNK_ saniyede 100 kez olan kontrol _UNK_ hesaplarlar .
+bu merkezi olmayan bir yol ile de yapılabilir .
+tekrar , eğer çok ama çok robotunuz varsa , görevi yerine getirebilmek için bu kadar hız ile bu bilgiyi merkezi olarak koordine etmeniz mümkün değildir .
+ayrıca robotlar kendi hareketlerini diğer _UNK_ algıladıkları yalnızca lokal bilgiyi temel alırlar .
+ve son olarak robotların komşularına _UNK_ içinde olduğu üzerinde duruyoruz .
+ve buna kişisel alan diyoruz .
+size bir sonraki göstermek istediğim belirli bir formda uçan bu küçük 20 robotun _UNK_ .
+komşularının konumlarını _UNK_ .
+dizilişi koruyorlar .
+diziliş değişebiliyor .
+düzlemsel _UNK_ olabilirler , ü ç boyutlu diziliş içinde olabilirler .
+burada gördüğünüz gibi , ü ç boyutlu _UNK_ düzlemsel dizilişe geçiyorlar .
+engellerin içinden uçarak geçebilmek için uçuş sırasında dizilişe _UNK_ gerekiyor .
+yani tekrar , bu robotlar gerçekten birbirlerine yaklaşıyorlar .
+sekizinci uçuşta gördüğünüz gibi , birbirlerine 3-5 santim kadar yaklaşıyorlar .
+bu pervane _UNK_ aerodinamik etkileşimlerine rağmen , stabil _UNK_ _UNK_ .
+_UNK_ nasıl _UNK_ bir kere bildikten sonra nesneleri elbirliği ile toplayabilirsiniz .
+bu gösteriyor ki , robotun dayanıklılığını komşuları ile takım oluşturarak iki , ü ç , dört katına çıkarabilirsiniz , burada gördüğünüz gibi .
+bunu yapmanın dezavantajlarından biri bunları _UNK_ zaman diyelim ki aynı şeyi taşıyan birçok robota sahipsiniz , temel olarak etkili şekilde _UNK_ arttırıyorsunuz , ve bir bedel ödüyorsunuz ; çok çevik olmuyorlar .
+fakat taşıma kapasitesi adına kazanım elde ediyorsunuz .
+size göstermek istediğim diğer bir uygulama -- tekrar , bizim laboratuarımızda --
+bu quentin lindsey isimli yüksek lisans _UNK_ çalışmasıdır .
+onun algoritması bu _UNK_ temel olarak üçgen şeklindeki elemanlardan söylüyor olmasıdır .
+algoritması robotlara hangi parçanın _UNK_ nereye konulacağını söylüyor .
+bu videoda görüdüğünüz -- 10-15 kat hızlandırılmıştır -- ü ç farklı yapının robotlar tarafından inşa _UNK_ görüyorsunuz .
+ve tekrar , herşey birbirinden bağımsız , ve _UNK_ yapmak zorunda olduğu şey inşa etmek istediği tasarımın kopyasını elde etmektir .
+şu ana kadar gördüğünüz deneyler , bütün bu gösteriler , hareket yakalama sistemlerinin yardımıyla yapılmıştır .
+_UNK_ ayrıldığınız zaman ve ve dışarı çıkıp gerçek dünyaya çıktığınızda ne oluyor ?
+ya hiç gps konum bilgisi yoksa ?
+bu robot bir kamera , lazer mesafe ölçer tarayıcı ile _UNK_ .
+çevresinin haritasını çıkarmak için sensörlerini kullanıyor .
+haritanın sahip olduğu özellikler olan -- kapı girişleri , pencereler , insanlar , mobilyalar -- ve sonra kendi konumunu bunlarla karşılaştırarak tahmin edebiliyor .
+öyle ki hiç bir global koordinasyon sistemi yok .
+koordinasyon sistemi robotun nerede olduğu ve nereye baktığı baz alınarak oluşuyor .
+bu özelliklere _UNK_ ederek yön _UNK_ bulunuyor .
+size frank _UNK_ ve professor nathan micheal tarafından geliştirilen robotun binaya ilk kez girdiğinde ve uçuş sırasında harita oluşturmasını gösteren bir video göstereceğim .
+öyle ki robotlar binanın özelliklerinin ne olduğunu buluyorlar .
+harita oluşturuyorlar .
+bu özelliklerin nerede olduğunu tayin edip size daha önce tarif ettiğim bize saniyede 100 kez izin veren kontrol algoritmalarını kullanarak kendi yerini tahmin ediyor .
+bu robot aslında frank tarafından komuta ediliyor .
+fakat bu robot kendisinin nereye gideceğini bilebilir .
+farz edin ki ; bunu bir binanın içine gönderdim ve binanın neye benzediği hakkında bir fikrim yok , robota içeri girip bir harita oluşturmasını ve sonra geri gelip bana binanın neye benzediğini _UNK_ .
+öyle ki burada , robot bu haritadaki a noktasından b noktasına nasıl gideceği problemi sadece _UNK_ kalmıyor , ayrıca b noktasına her defasında gideceği en iyi yolun ne olduğunu buluyor .
+temel olarak az bilgi ile yerleri arayarak nereye gideceğini biliyor .
+ve bu haritayı nasıl _UNK_ .
+sizi son bir uygulama ile bırakmak istiyorum .
+bu teknolojinin bir çok uygulaması vardır .
+ben bir profesörüm ve _UNK_ tutkuluyum .
+robotlar _UNK_ lise son eğitimine kadar ki yapıyı gerçekten değiştirebilir .
+fakat biz güney _UNK_ , los angeles'a yakınız , bu yüzden eğlenceye yönelik birşey ile sonlandırmak istiyorum .
+bir müzik videosu ile bitirmek istiyorum .
+bu videoyu oluşturan _UNK_ alex ve _UNK_ takdim etmek istiyorum .
+bu videoyu başlatmadan önce , bunun chris'ten telefon aldıktan son ü ç gün içinde yaptıklarını söylemek istiyorum .
+ve videoyu çalan robotlar tamamen _UNK_ .
+dokuz robotun altı farklı enstrümanı çaldığını göreceksiniz .
+ve tabi ki , sadece ted 2012 için yapıldı .
+hadi izleyelim .

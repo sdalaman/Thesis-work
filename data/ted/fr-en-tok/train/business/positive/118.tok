@@ -1,0 +1,222 @@
+sergey	brin	:	j'aimerais	parler	d'un	sujet	.
+je	sais	que	cela	en	a	fait	réfléchir	plus	d'un	.
+nous	vous	avions	parlé	il	y	a	quelques	années	.
+et	avant	que	je	ne	commence	,	comme	beaucoup	se	posent	encore	la	question	,	je	souhaitais	en	finir	.
+la	réponse	est	``	_UNK_	``	.
+maintenant	,	j'espère	que	vous	vous	sentez	mieux	.
+est	-	ce	que	vous	savez	ce	que	cela	pourrait	être	?	est	-	ce	que	quelqu'un	sait	ce	que	c'est	?
+dans	le	public	:	oui	.
+qu'est	ce	que	c'est	?
+dans	le	public	:	ce	sont	les	personnes	qui	se	connectent	sur	google	à	travers	la	planète	.
+ouah	,	ok	.	je	n'avais	pas	vraiment	compris	la	première	fois	que	je	l'ai	vu	.
+mais	c'est	ce	qui	m'a	aidé	à	le	voir	.
+voici	ce	que	nous	utilisons	au	bureau	,	c'est	du	temps	réel	.
+ici	il	y	a	peu	de	connexions	.
+mais	vous	pouvez	voir	à	travers	le	monde	comment	les	gens	utilisent	google	.
+chacun	de	ces	points	qui	s'élèvent	représentent	environ	20	à	30	recherches	,	quelque	chose	comme	ça	.
+ils	sont	triés	par	couleur	,	par	langage	.
+vous	pouvez	voir	:	ici	nous	sommes	aux	états	-	unis	,	et	ils	deviennent	tout	rouges	.
+ici	nous	sommes	à	monterey	.	j'espère	que	c'est	cela	.
+vous	pouvez	voir	que	le	japon	est	occupé	la	nuit	,	juste	ici	.
+nous	avons	tokyo	qui	vient	en	japonais	.
+il	y	a	beaucoup	d'activité	en	chine	.
+beaucoup	en	inde	.
+il	y	en	a	au	moyen	-	orient	,	les	petites	poches	.
+l'europe	,	où	il	est	midi	,	a	une	forte	activité	avec	une	grande	diversité	de	langues	.
+maintenant	vous	pouvez	également	voir	,	si	je	tourne	cela	espérons	que	je	ne	secoue	pas	trop	la	terre	.
+vous	pouvez	également	voir	des	endroits	avec	peu	d'activité	.
+l'australie	parce	qu'il	n'y	a	pas	beaucoup	de	monde	.
+enfin	,	et	c'est	quelque	chose	sur	lequel	nous	devons	travailler	l'afrique	avec	quelques	fils	,	surtout	en	afrique	du	sud	et	quelques	grandes	villes	.
+fondamentalement	,	nous	avons	remarqué	que	ces	requêtes	,	qui	arrivent	par	milliers	chaque	seconde	,	existent	là	où	il	y	a	de	l'électricité	.
+et	partout	où	il	y	a	de	l'électricité	,	il	y	a	internet	.
+même	en	antarctique	--	du	moins	à	cette	période	de	l'année	--	nous	voyons	de	temps	à	autre	une	requête	monter	.
+si	nous	avons	bâti	cela	correctement	,	je	pense	que	la	station	spatiale	internationale	en	a	également	.
+voici	un	de	nos	défis	:	il	est	assez	difficile	de	...
+allons	-	y	.
+voici	comment	nous	devons	déplacer	les	bits	pour	que	les	personnes	aient	les	réponses	à	leurs	questions	.
+vous	pouvez	voir	pas	mal	de	données	circuler	.
+elles	traversent	le	monde	:	à	travers	les	fibres	,	les	satellites	,	par	tous	types	de	connexions	.
+c'est	assez	compliqué	de	maintenir	les	temps	de	réponse	aussi	faibles	que	possible	.	heureusement	,	le	ressenti	est	bon	.
+mais	nous	pouvons	revoir	que	des	endroits	sont	beaucoup	plus	connectés	que	d'autres	,	ici	la	bande	passante	aux	états	-	unis	,	ça	part	en	asie	,	en	europe	dans	l'autre	direction	etc	.
+a	présent	,	j'aimerais	vous	montrer	à	quoi	ressemble	une	seconde	d'activité	.
+si	nous	pouvons	passer	aux	diapos	--	parfait	,	c'est	parti	.
+voici	la	version	ralentie	.
+une	seconde	ressemble	à	cela	.
+c'est	ce	qui	nous	occupe	le	plus	faire	en	sorte	de	gérer	tout	ce	trafic	.
+chacune	de	ces	requêtes	a	une	vie	personnelle	intéressante	.
+cela	peut	concerner	la	santé	de	quelqu'un	,	sa	carrière	,	quelque	chose	d'important	pour	eux	.
+ou	cela	peut	traiter	de	choses	aussi	importantes	que	la	sauce	tomate	,	ou	dans	ce	cas	,	le	ketchup	.
+donc	cette	requête	,	c'est	un	groupe	connu	,	mais	plus	connu	dans	certains	pays	que	dans	d'autres	.
+vous	pouvez	voir	que	cela	a	commencé	ici	.
+aux	états	-	unis	et	en	espagne	,	c'était	à	la	mode	au	même	moment	.
+mais	nous	n'avons	pas	eu	le	même	pic	aux	états	-	unis	qu'en	espagne	.
+puis	de	l'espagne	,	c'est	parti	en	italie	,	puis	l'allemagne	s'y	est	intéressée	et	puis	le	royaume	-	uni	.
+il	me	semble	que	,	finalement	,	les	états	-	unis	ont	commencé	à	aimer	aussi	.
+je	vais	vous	faire	écouter	la	chanson	.
+passons	,	vous	_UNK_	à	sa	juste	valeur	--	espérons	que	cette	requête	va	marcher	.
+un	de	nos	buts	est	d'avoir	plus	de	recherches	.
+cela	veut	dire	que	nous	souhaitons	plus	de	personnes	en	bonne	santé	et	éduqués	.
+plus	d'animaux	,	s'ils	commencent	à	faire	des	recherches	à	leur	tour	.
+pour	résumer	,	nous	souhaitons	faire	de	ce	monde	un	meilleur	endroit	,	la	fondation	google	fait	partie	de	ces	projets	,	et	nous	sommes	en	train	de	la	mettre	en	place	.
+nous	avons	déjà	un	programme	appelé	``	google	subventions	``	,	qui	finance	plus	de	150	organisations	caritatives	dans	le	monde	,	en	voici	quelques	-	unes	.
+je	suis	très	enthousiaste	d'en	faire	partie	.
+en	fait	,	beaucoup	d'organisations	qui	sont	ici	le	fonds	acumen	,	approtec	,	je	ne	suis	pas	sûr	que	celle	-	là	soit	active	--	nombre	de	ceux	qui	ont	présenté	à	ted	fonctionnent	grâce	à	``	google	subventions	``	.
+ils	affichent	des	publicités	google	et	nous	leur	permettons	de	faire	la	pub	pour	qu'ils	puissent	se	faire	connaitre	.
+un	des	premiers	résultats	a	été	avec	un	homme	d'affaires	de	singapour	qui	sponsorise	un	village	de	25	jeunes	vietnamiennes	pour	leurs	études	,	c'était	un	des	premiers	résultats	.	il	y	a	eu	beaucoup	,	beaucoup	d'histoires	comme	cela	depuis	.
+nous	avons	une	centaine	d'associations	partenaires	et	la	fondation	google	sera	une	tentative	encore	plus	ambitieuse	.
+a	présent	,	est	-	ce	que	quelqu'un	sait	qui	c'est	?
+ha	!	ha	!
+dans	le	public	:	orkut	oui	!	quelqu'un	a	trouvé	.
+c'est	orkut	.	est	-	ce	que	certains	d'entre	vous	sont	sur	orkut	?
+y	en	a	-	t	-	il	?
+ok	,	peu	connaissent	le	sujet	.
+je	_UNK_	dans	un	instant	.
+il	est	un	de	nos	ingénieurs	.
+nous	avons	découvert	qu'ils	travaillaient	mieux	couverts	de	feuilles	.
+c'est	notre	secret	pour	lancer	de	nouveaux	produits	.
+orkut	avait	l'envie	de	créer	un	réseau	social	.
+je	sais	ce	que	vous	pensez	tous	:	``	encore	un	réseau	social	.	``
+mais	c'était	son	rêve	,	et	en	gros	,	nous	pensons	qu'il	faut	laisser	les	gens	faire	ce	qu'ils	souhaitent	réellement	faire	.
+donc	voici	ce	qu'il	a	construit	.
+nous	l'avons	lancé	en	phase	de	test	le	mois	dernier	et	c'est	en	train	de	décoller	.
+voici	notre	vice	président	en	charge	de	l'ingénierie	.
+vous	pouvez	voir	ses	cheveux	rouges	,	je	ne	sais	pas	si	vous	voyez	son	_UNK_	au	nez	.
+voici	tous	ses	amis	.
+donc	nous	avons	décidé	que	les	gens	_UNK_	des	invitations	pour	utiliser	le	service	c'est	le	personnel	de	la	société	qui	a	commencé	à	faire	passer	le	mot	.
+aujourd'hui	nous	avons	grandi	jusqu'à	plus	de	100	000	membres	cela	se	propage	très	rapidement	,	même	en	dehors	des	états	-	unis	.
+vous	voyez	que	même	si	les	états	-	unis	représentent	la	majorité	c'est	seulement	30	%	de	notre	trafic	.
+cela	touche	déjà	le	japon	,	le	royaume	-	uni	et	l'europe	et	le	reste	du	monde	.
+c'est	donc	un	petit	projet	assez	fun	.
+avec	une	variété	de	tranches	démographiques	.	je	ne	vous	_UNK_	pas	avec	ça	.
+c'est	le	genre	de	choses	que	nous	essayons	pour	le	fun	et	regardons	ce	que	cela	donne	.
+et	...
+bien	,	je	vais	laisser	le	suspense	.
+larry	,	je	te	laisse	expliquer	celui	-	là	.
+larry	page	:	merci	sergey	.
+donc	sergey	et	moi	-	même	sommes	allés	dans	une	école	montessori	et	je	pense	que	cela	a	été	incorporé	au	sein	de	google	.
+sergey	l'a	mentionné	avec	notre	ingénieur	orkut	qui	a	réalisé	orkut	pendant	son	temps	de	travail	.
+nous	avons	appelé	cela	à	google	``	les	20	%	``	.
+l'idée	,	c'est	que	pendant	20	%	de	votre	temps	,	vous	pouvez	travaillez	sur	la	chose	qui	vous	tient	à	cœur	.
+beaucoup	,	beaucoup	de	produits	google	viennent	de	là	.
+comme	orkut	ou	google	actualités	.
+je	pense	aussi	que	pleins	de	choses	dans	ce	monde	viennent	de	cela	.
+mendel	,	qui	enseignait	aux	lycéens	,	a	,	vous	le	savez	,	découvert	les	lois	de	la	génétique	sur	son	temps	personnel	,	comme	un	hobby	.
+énormément	de	choses	utiles	en	ont	découlé	.
+et	google	actualités	,	que	j'ai	cité	,	a	été	lancé	par	un	chercheur	,	qui	,	après	le	11	septembre	,	s'est	beaucoup	intéressé	à	l'information	.
+il	s'est	dit	:	``	pourquoi	ne	pas	m'informer	mieux	?	``
+il	a	donc	commencé	par	regrouper	cela	par	catégorie	puis	à	commencé	à	l'utiliser	,	puis	ses	amis	.
+pour	permettre	l'envol	de	cet	outil	,	nous	en	avons	fait	une	_UNK_	,	qui	est	un	petit	projet	chez	google	.
+cela	rassemble	en	gros	3	personnes	qui	essayent	de	créer	un	produit	.
+nous	ne	pouvons	pas	être	sûr	de	sa	réussite	.
+dans	le	cas	de	google	actualités	,	quelques	personnes	ont	travaillé	dessus	pendant	un	certain	temps	,	puis	de	plus	en	plus	de	personnes	l'ont	utilisé	,	nous	l'avons	donc	lancé	sur	internet	,	et	de	plus	en	plus	de	personnes	l'ont	adopté	.
+c'est	aujourd'hui	un	projet	à	part	entière	avec	une	équipe	plus	_UNK_	.
+c'est	comme	cela	que	nous	continuons	à	innover	.
+d'habitude	,	plus	les	entreprises	grossissent	,	plus	elles	ont	du	mal	à	développer	des	projets	innovants	.
+nous	avons	eu	ce	problème	aussi	pendant	un	temps	,	puis	on	s'est	dit	:	``	il	nous	faut	un	nouveau	concept	.	``
+et	nous	avons	créé	les	fameuses	_UNK_	--	un	petit	projet	dont	le	résultat	est	incertain	.
+nous	espérons	que	cela	va	marcher	,	et	si	nous	en	avons	assez	,	certains	vont	réellement	décoller	comme	pour	google	actualités	.
+puis	nous	avons	eu	un	problème	car	nous	en	avions	plus	de	100	.
+je	ne	sais	pas	pour	vous	,	mais	moi	,	j'ai	du	mal	à	gérer	100	choses	dans	ma	tête	à	la	fois	.
+nous	avons	donc	trouvé	qu'en	les	mettant	tous	sur	écrit	et	en	les	ordonnant	--	les	choses	se	sont	arrangées	d'elles	-	mêmes	.
+ne	faites	pas	attention	à	eux	.
+par	exemple	,	``	acheter	l'islande	``	inspiré	d'un	article	.
+nous	n'allons	jamais	faire	une	chose	aussi	insensée	.	mais	...
+simplement	,	en	les	écrivant	et	en	les	ordonnant	,	d'ailleurs	l'ordre	de	tri	n'a	pas	été	un	grand	sujet	de	débat	.
+ce	qui	m'a	plutôt	surpris	mais	nous	avons	trouvé	qu'en	gardant	100	choses	dans	la	tête	,	en	les	couchant	sur	le	papier	cela	permettait	de	décider	facilement	quoi	faire	et	où	allouer	nos	ressources	.
+c'est	donc	ce	que	nous	avons	réalisé	et	_UNK_	il	y	a	quelques	années	,	ce	qui	nous	a	permis	de	rester	innovants	et	assez	bien	organisés	.
+l'autre	chose	que	nous	avons	découverte	est	que	les	gens	aiment	travailler	sur	des	sujets	importants	et	naturellement	,	auront	tendance	à	se	diriger	vers	les	grandes	priorités	.
+je	voudrais	mettre	l'accent	sur	certaines	choses	nouvelles	,	que	vous	pouvez	ne	pas	connaître	.
+la	plus	importante	étant	la	deskbar	.
+combien	d'entre	vous	utilisent	la	barre	d'outils	google	?
+levez	la	main	.
+combien	utilisent	la	deskbar	?
+très	bien	.	vous	devriez	l'essayer	.
+si	vous	allez	sur	notre	site	et	tapez	deskbar	,	vous	la	trouverez	.
+l'idée	est	d'avoir	une	application	en	permanence	en	bas	de	l'écran	qui	permette	de	faire	les	recherches	facilement	.
+c'est	une	amélioration	de	la	barre	d'outils	.
+merci	sergey	.
+un	autre	exemple	de	projet	qu'une	personne	passionnée	de	google	a	lancé	et	c'est	un	vraiment	un	super	produit	qui	décolle	.
+google	réponses	que	nous	avons	démarré	vous	permet	_UNK_	5	à	100	dollars	de	taper	une	question	et	de	disposer	d'un	groupe	de	chercheurs	qui	va	enquêter	pour	votre	compte	,	le	service	est	garanti	et	vous	aurez	au	final	de	très	bonnes	réponses	sans	y	passer	du	temps	.
+_UNK_	vous	permet	d'avoir	de	l'information	sur	des	produits	et	blogger	vous	aide	à	publier	des	choses	.
+ce	sont	tous	des	projets	innovants	que	nous	avons	testés	.
+nous	essayons	beaucoup	,	beaucoup	de	choses	dans	notre	société	.
+nous	aimons	aussi	innover	dans	notre	espace	physique	,	dans	nos	réunions	,	vous	savez	,	vous	devez	attendre	longtemps	pour	que	les	projecteurs	s'allument	et	s'éteignent	.
+ils	sont	bruyants	,	donc	nous	les	_UNK_	.
+nous	n'aimons	pas	cela	donc	en	quelques	semaines	,	nous	avons	conçu	ces	petites	coques	qui	_UNK_	les	projecteurs	donc	ils	sont	tout	le	temps	allumés	et	complètement	silencieux	.
+résultat	,	nous	avons	ensuite	conçu	des	logiciels	nous	permettant	de	gérer	une	réunion	.
+par	exemple	,	quand	vous	entrez	dans	une	salle	cela	liste	toutes	les	réunions	en	cours	,	vous	pouvez	prendre	des	notes	facilement	et	les	envoyer	automatiquement	à	toutes	les	personnes	qui	étaient	présentes	.
+comme	notre	compagnie	se	_UNK_	,	ces	concepts	nous	aident	vraiment	.
+par	exemple	,	comment	travailler	efficacement	avec	des	personnes	non	présentes	?
+ce	genre	de	choses	.	des	questions	aussi	simples	peuvent	faire	la	différence	.
+nous	avons	beaucoup	d'ingénieurs	dans	ces	réunions	,	qui	ne	font	pas	leur	lessive	assez	souvent	.
+nous	avons	donc	trouvé	utile	de	mettre	à	disposition	des	lave	-	linges	,	surtout	pour	les	jeunes	employés	.
+nous	acceptons	également	les	chiens	et	autres	animaux	domestiques	.
+nous	possédons	,	je	pense	,	une	culture	très	fun	à	google	qui	aide	les	personnes	à	travailler	et	aimer	ce	qu'elles	font	.
+voici	notre	image	``	culte	``	.
+je	vais	la	montrer	rapidement	.
+nous	avions	cela	sur	notre	site	pendant	un	temps	,	et	avons	vu	que	depuis	nous	ne	recevions	plus	de	candidatures	à	nos	offres	d'emploi	.
+passons	,	chaque	année	nous	emmenons	toute	la	société	faire	du	ski	.
+beaucoup	d'avancées	se	font	dans	les	sociétés	où	les	gens	se	connaissent	,	et	aussi	de	manière	informelle	.
+nous	avons	fait	du	bon	boulot	de	ce	côté	là	.
+cela	fait	de	google	un	endroit	où	il	fait	bon	travailler	.
+nous	le	voyons	avec	nos	logos	aussi	qui	intègrent	notre	culture	de	changer	les	choses	.
+au	début	,	on	nous	_UNK_	de	ne	jamais	changer	notre	logo	car	nous	devions	établir	notre	marque	,	et	donc	pour	cela	ne	jamais	le	changer	.
+il	fallait	qu'il	dure	.
+puis	on	s'est	dit	:	``	ce	n'est	pas	très	fun	.
+pourquoi	ne	pas	le	changer	chaque	jour	?	``
+une	des	choses	pour	laquelle	j'étais	le	plus	enthousiaste	est	un	projet	appelé	``	adsense	``	.
+c'était	peut	-	être	un	présage	c'était	avant	que	dean	n'abandonne	.
+mais	l'idée	est	que	,	comme	dans	un	journal	,	vous	lisiez	des	publicités	pertinentes	.
+c'est	dur	à	lire	,	il	est	écrit	:	``	bataille	pour	le	new	hampshire	:	howard	dean	président	``	--	articles	sur	howard	dean	.
+ces	pubs	sont	générées	automatiquement	comme	ici	,	sur	le	washington	post	à	partir	du	contenu	du	site	.
+nous	utilisons	donc	plus	de	150	000	_UNK_	et	des	millions	de	publicités	,	nous	avons	donc	choisi	les	plus	liées	à	ce	que	vous	regardez	,	comme	nous	l'avons	fait	pour	le	moteur	de	recherche	.
+l'idée	est	:	``	pouvons	-	nous	rendre	la	publicité	utile	,	au	lieu	_UNK_	?	``
+le	point	positif	,	c'est	que	nous	avons	un	programme	en	self	-	service	auquel	beaucoup	de	sites	web	ont	_UNK_	pour	réellement	gagner	de	l'argent	.
+j'ai	rencontré	une	personne	une	fois	,	dans	une	soirée	,	un	gars	qui	gérait	un	site	classé	et	qui	m'a	dit	:	``	tu	sais	,	je	ne	gagnais	pas	d'argent	.
+j'ai	juste	intégré	votre	solution	et	je	gagne	maintenant	10	000	$	par	mois	.
+je	n'ai	plus	à	travailler	maintenant	.	``
+je	pense	que	c'est	très	important	pour	nous	car	cela	fait	mieux	fonctionner	internet	.
+le	contenu	devient	meilleur	et	donc	la	recherche	plus	facile	quand	les	individus	peuvent	vivre	en	créant	du	bon	contenu	.
+cette	session	est	supposée	traiter	du	futur	,	et	je	vais	au	moins	en	parler	brièvement	maintenant	.
+l'idée	derrière	cela	est	que	faire	la	recherche	la	plus	précise	possible	implique	de	l'intelligence	.
+vous	tapez	n'importe	quoi	sur	google	et	espérez	une	réponse	,	n'est	-	ce	pas	?
+mais	trouver	des	choses	est	délicat	,	donc	vous	souhaitez	de	l'intelligence	.
+pour	résumer	,	le	moteur	de	recherche	parfait	devra	être	intelligent	.
+ce	sera	de	l'intelligence	artificielle	.
+c'est	ce	à	quoi	nous	travaillons	.
+nous	avons	des	personnes	assez	enthousiastes	et	assez	folles	pour	travailler	dessus	,	et	c'est	leur	vrai	but	.
+nous	espérons	toujours	que	google	soit	intelligent	,	mais	sommes	toujours	surpris	quand	les	autres	le	pensent	aussi	.
+j'aimerais	citer	un	exemple	marrant	,	celui	d'un	blog	en	irak	.
+ce	n'est	pas	trop	le	sujet	mais	je	voulais	vous	montrer	cet	exemple	.
+sergey	,	peux	-	tu	pointer	dessus	?
+nous	avons	donc	décidé	--	hum	en	fait	,	la	partie	juste	là	.	merci	.
+les	``	recherches	associées	``	ici	.	on	ne	voit	pas	très	bien	.
+nous	avons	décidé	d'ajouter	une	option	dans	nos	publicités	adsense	appelée	``	recherches	associées	``	.
+le	principe	est	de	dire	``	recherchez	-	vous	des	informations	sur	.	.	.	?	``
+dans	ce	cas	,	``	saddam	hussein	``	car	ce	blog	parle	de	l'irak	en	plus	des	publicités	,	nous	avons	pensé	que	c'était	une	bonne	idée	.
+dans	ce	blog	d'un	jeune	un	peu	déprimé	qui	disait	``	vous	savez	,	je	dors	beaucoup	.	``
+en	gros	,	il	racontait	sa	vie	quotidienne	.
+nos	algorithmes	,	pas	une	personne	bien	sûr	mais	nos	algorithmes	,	nos	ordinateurs	ont	lu	le	blog	et	ont	décidé	que	la	recherche	associée	serait	``	je	m'ennuie	.	``
+l'auteur	a	lu	cela	et	a	pensé	qu'une	personne	avait	décidé	qu'il	était	ennuyeux	.
+c'était	très	malheureux	,	et	il	a	écrit	:	``	mais	que	font	ces	idiots	de	google	?
+pourquoi	n'aiment	-	ils	pas	mon	blog	?	``
+donc	nous	avons	lu	son	blog	qui	devenait	de	pire	en	pire	et	la	recherche	associée	est	devenue	``	_UNK_	``	.
+le	blogueur	s'énervait	encore	plus	dans	ses	textes	il	commençait	à	jurer	,	etc	.
+donc	nous	lui	avons	attribué	``	tu	crains	``	.
+puis	finalement	``	_UNK_	mon	cul	``	.
+cet	individu	pensait	qu'il	avait	affaire	à	quelque	chose	d'intelligent	,	mais	bien	sûr	nous	avions	juste	écrit	ce	programme	et	testé	.
+cela	n'a	pas	marché	du	tout	.
+nous	n'avons	donc	plus	cette	option	.
+maintenant	je	vais	revenir	à	la	mappemonde	.
+je	souhaiterais	terminer	en	disant	qu'il	y	a	plusieurs	choses	qui	me	motivent	et	me	poussent	à	m'impliquer	dans	google	.
+notamment	le	fait	que	nous	gagnions	de	l'argent	principalement	par	la	publicité	,	et	un	des	bénéfices	que	je	n'avais	pas	prévus	est	que	nous	pouvons	servir	le	monde	entier	sans	avoir	peur	des	pays	pauvres	.
+nous	n'avons	donc	pas	peur	que	nos	produits	soient	vendus	moins	chers	dans	des	pays	pauvres	et	ensuite	_UNK_	aux	états	-	unis	comme	pour	l'industrie	pharmaceutique	.
+je	pense	que	nous	sommes	très	chanceux	d'avoir	ce	modèle	économique	,	car	chacun	dans	le	monde	entier	peut	avoir	accès	à	notre	recherche	,	c'est	un	bénéfice	vraiment	considérable	.
+l'autre	point	que	je	voulais	mentionner	est	que	nous	avons	la	lourde	responsabilité	de	fournir	aux	personnes	la	bonne	information	.
+nous	nous	voyons	comme	un	journal	ou	un	magazine	fournissant	une	information	très	objective	.
+c'est	pourquoi	nous	n'acceptons	aucun	paiement	pour	afficher	nos	résultats	.
+nous	acceptons	des	paiements	pour	la	publicité	,	et	nous	la	vendons	en	tant	que	telle	.
+contrairement	à	beaucoup	de	concurrents	.
+je	pense	que	les	décisions	de	ce	type	ont	un	effet	énorme	sur	le	monde	,	et	cela	me	rend	réellement	fier	de	faire	partie	de	google	.
+merci	.
+

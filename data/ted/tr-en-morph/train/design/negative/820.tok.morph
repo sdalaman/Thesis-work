@@ -1,0 +1,203 @@
+ anlata 	 cağım 	 	ilk	 robot 	 un 	 	 a 	 dı 	 	:	strider	.
+uzun	 yazı 	 lışı 	 	:	_UNK_	ü	ç	 ayak 	 lı 	 	dinamik	deneysel	robot	.
+o	ü	ç	 ayak 	 lı 	 	bir	robot	ve	 doğa 	 dan 	 	 esinlen 	 ildi 	 	.
+ama	siz	hiç	 doğa 	 da 	 	ü	ç	 ayak 	 lı 	 	bir	hayvan	 gördü 	 nüz 	 	mü	?
+ muhtemel 	 en 	 	hayır	.	 pek 	 i 	 	neden	buna	 biyoloji 	 den 	 	 esinlen 	 ilmiş 	 	robot	 di 	 yorum 	 	?	nasıl	çalışır	?
+ama	 bu 	 ndan 	 	önce	,	popüler	 kültür 	 e 	 	 bak 	 alım 	 	.
+_UNK_	wells'in	``	 dünya 	 ların 	 	savaşı	``	 kitabı 	 nı 	 	ve	 film 	 ini 	 	bilirsiniz	.
+ve	burada	gördüğünüz	çok	popüler	bir	video	oyunu	.	 kurgu 	 da 	 	bu	uzaylı	 yaratık 	 ları 	 	,	 dünya 	 yı 	 	tehdit	eden	ü	ç	 ayak 	 lı 	 	 robot 	 lar 	 	olarak	 tanımlıyor 	 lar 	 	.
+ama	benim	 robot 	 um 	 	,	strider	,	böyle	hareket	etmiyor	.
+bu	bir	gerçek	dinamik	simülasyon	 animasyon 	 u 	 	.
+ siz 	 e 	 	 robot 	 un 	 	nasıl	 çalıştığı 	 nı 	 	 göstereceği 	 m 	 	.
+ vücudu 	 nu 	 	180	derece	döndürüyor	.	bir	 ayağı 	 nı 	 	iki	 ayağı 	 nın 	 	 arasında 	 n 	 	 sal 	 layıp 	 	,	düşüşü	 yaka 	 lıyor 	 	.
+i̇şte	böyle	yürüyor	.	fakat	 kendi 	 mize 	 	 baktığı 	 mızda 	 	insan	,	iki	 ayak 	 lı 	 	yürüme	,	 yaptığı 	 nız 	 	böyle	kas	 kullan 	 arak 	 	 ayağı 	 nızı 	 	 kaldır 	 ıp 	 	,	robot	gibi	yürüme	değil	.	değil	mi	?
+ yaptığı 	 nız 	 	aslında	 ayağı 	 nızı 	 	 sal 	 lamak 	 	ve	düşüşü	 yakalama 	 k 	 	,	tekrar	_UNK_	,	salla	 ayağı 	 nı 	 	ve	düşüşü	yakala	.
+var	olan	_UNK_	 kullan 	 arak 	 	,	 vücudunuz 	 un 	 	 fiziğin 	 i 	 	,	 ay 	 ne 	 n 	 	bir	 sar 	 kaç 	 	gibi	.
+biz	buna	pasif	dinamik	hareket	 konsept 	 i 	 	 di 	 yoruz 	 	.
+_UNK_	 yaptığı 	 nız 	 	,	potansiyel	 enerji 	 den 	 	 kine 	 tik 	 	 enerji 	 ye 	 	,	potansiyel	 enerji 	 den 	 	 kine 	 tik 	 	 enerji 	 ye 	 	.
+ da 	 imi 	 	bir	düşüş	 işlem 	 i 	 	.
+her	ne	kadar	 doğa 	 da 	 	buna	 benzeye 	 n 	 	bir	şey	 yok 	 sa 	 	da	,	biz	 gerçek 	 ten 	 	 biyoloji 	 den 	 	 esinlen 	 dik 	 	ve	bu	 robot 	 a 	 	 yürüme 	 nin 	 	 prensip 	 lerini 	 	 uygula 	 dık 	 	,	bu	 yüz 	 den 	 	o	 biyoloji 	 den 	 	 esinlen 	 ilmiş 	 	bir	robot	.
+burada	gördüğünüz	,	bizim	bir	sonra	 yapma 	 k 	 	 istediği 	 miz 	 	.
+bacakları	 bükme 	 k 	 	ve	uzun	mesafe	 hareket 	 i 	 	için	 fırlatma 	 k 	 	 istiyor 	 uz 	 	.
+ ayak 	 larını 	 	yere	basıyor	,	yıldız	_UNK_	benziyor	.	yere	 i 	 ndiğinde 	 	,	 sarsıntı 	 yı 	 	emiyor	ve	 yürüme 	 ye 	 	başlıyor	.
+burada	gördüğünüz	,	bu	sarı	şey	,	ölüm	ışını	değil	.
+bu	sadece	 siz 	 e 	 	,	eğer	_UNK_	veya	farklı	 tür 	 de 	 	 sensör 	 leriniz 	 	olsa	çünkü	o	uzun	,	1.8	metre	 uzunluğu 	 nda 	 	,	çalı	gibi	 şey 	 lerin 	 	ötesini	 görebildiği 	 nizi 	 	 göstere 	 bilmek 	 	için	.
+i̇ki	tane	 model 	 imiz 	 	var	.
+i̇lk	model	,	 arka 	 daki 	 	,	o	strider	i	.
+ ön 	 deki 	 	,	küçük	olan	 i 	 se 	 	strider	ii	.
+strider	_UNK_	 yaşa 	 dığımız 	 	problem	 vücudu 	 nun 	 	çok	ağır	 olma 	 sıydı 	 	.	çok	fazla	motor	vardı	,	bilirsiniz	,	 eklem 	 leri 	 	_UNK_	ve	o	tür	şeyler	.
+bu	 yüz 	 den 	 	mekanik	bir	işleyiş	 sentez 	 lemeye 	 	kadar	verdik	,	bu	 sa 	 ye 	 de 	 	tüm	 motor 	 lardan 	 	_UNK_	ve	bir	 motor 	 la 	 	tüm	 hareket 	 leri 	 	koordine	 edecek 	 tik 	 	.
+bu	,	 mek 	 atronik 	 	 kullanma 	 k 	 	yerine	 problemi 	 n 	 	mekanik	bir	çözümü	.
+artık	üst	vücut	,	 robot 	 un 	 	 laboratuvar 	 da 	 	_UNK_	kadar	hafif	.	bu	ilk	 başarı 	 lı 	 	 adım 	 dı 	 	.
+ hale 	 n 	 	mükemmel	değil	.	 kahve 	 si 	 	yere	 dökülü 	 yor 	 	,	daha	yapacak	çok	işimiz	var	.
+ tanıtma 	 k 	 	 istediği 	 m 	 	ikinci	 robot 	 un 	 	 a 	 dı 	 	impass	.
+uzun	 yazı 	 lışı 	 	:	_UNK_	tekerlek	 sistem 	 li 	 	akıllı	 hareketli 	 lik 	 	platformu	.
+o	,	tekerlek	-	bacaklı	melez	bir	robot	.
+dışı	olmayan	bir	tekerlek	 düşünü 	 n 	 	,	veya	bir	jant	 te 	 li 	 	.	fakat	 tel 	 ler 	 	_UNK_	ayrı	ayrı	 gir 	 ip 	 	 çıkıyor 	 lar 	 	.	i̇şte	o	tekerlek	-	bacaklı	bir	melez	.
+ kelime 	 nin 	 	tam	 anlamı 	 yla 	 	tekerleği	 yeni 	 den 	 
+icat	ediyoruz	.	nasıl	 çalıştığı 	 nı 	 	 göstere 	 yim 	 	.
+bu	 video 	 da 	 	duyarlı	yaklaşma	 de 	 diğimiz 	 	bir	yaklaşımı	 kullan 	 ıyoruz 	 	.
+sadece	_UNK_	 dokun 	 sal 	 	 sensör 	 leri 	 	 kullan 	 arak 	 	,	değişken	bir	 arazi 	 de 	 	 yürüme 	 ye 	 	çalışıyor	,	_UNK_	 değişe 	 n 	 	yumuşak	bir	arazi	.
+sadece	 dokun 	 sal 	 	 bilgi 	 yle 	 	bu	tür	 arazi 	 lerden 	 	 başarı 	 yla 	 	geçiyor	.
+ama	,	çok	zorlu	bir	 arazi 	 yle 	 	 karşılaştı 	 ğında 	 	,	bu	durumda	,	bu	engel	 robot 	 un 	 	 boyun 	 un 	 	ü	ç	katı	 yükseklik 	 te 	 	,	lazer	_UNK_	ve	kamera	 sistem 	 leri 	 	 kullan 	 arak 	 	,	 engel 	 i 	 	ve	 boyun 	 u 	 	 belirleme 	 k 	 	için	 önce 	 den 	 	 plan 	 lanmış 	 	bir	moda	geçiyor	,	ve	bu	çok	çok	 etki 	 leyici 	 	 hareketli 	 liği 	 	 gösterme 	 k 	 	için	 ayak 	 ların 	 	 hareket 	 ini 	 	 dikkat 	 li 	 ce 	 	planlıyor	ve	koordine	ediyor	.
+ muhtemel 	 en 	 	hiç	böyle	bir	şey	 görme 	 miş 	 sinizdir 	 	.
+impass	adını	 verdiği 	 miz 	 	son	derece	hareketli	bir	robot	.
+ah	,	harika	değil	mi	?
+ araba 	 nızı 	 	 süre 	 rken 	 	,	 direksiyon 	 dayken 	 	,	_UNK_	 a 	 dı 	 	 verile 	 n 	 	direksiyon	 sistem 	 ini 	 	 kullan 	 ırsınız 	 	.
+ön	 tekerlek 	 ler 	 	böyle	döner	.
+bu	gibi	küçük	 tekerlek 	 li 	 	 robot 	 ların 	 	 çoğun 	 da 	 	diferansiyel	yönlendirme	 den 	 ilen 	 	,	sağ	ve	sol	 tekerlek 	 lerin 	 	ters	 yön 	 e 	 	döndüğü	bir	metot	 kullan 	 ılır 	 	.
+impass	için	çok	çok	farklı	 hareket 	 ler 	 	 yapa 	 biliriz 	 	.
+ örneği 	 n 	 	,	bu	durumda	,	her	ne	kadar	sağ	ve	sol	tekerlek	tek	_UNK_	 birbiri 	 ne 	 	 bağlı 	 ysa 	 	da	,	aynı	hız	 açı 	 sıyla 	 	 dönüyor 	 lar 	 	.
+biz	 basit 	 çe 	 	 bacağı 	 n 	 	 yüksekliği 	 ni 	 	 değiştir 	 iyoruz 	 	.
+bu	da	çapı	 etki 	 liyor 	 	,	ve	o	sola	dönüyor	,	sağa	dönüyor	.
+i̇şte	bunlar	impass	ile	 yapabildiği 	 miz 	 	zarif	 şey 	 lere 	 	birkaç	örnek	.
+bu	 robot 	 un 	 	 a 	 dı 	 	climber	,	 kablo 	 lu 	 	bacaklı	akıllı	 eşleştir 	 me 	 	_UNK_	robot
+birçok	 na 	 sa 	 	jpl	bilim	 insan 	 ıyla 	 	 konuşuyor 	 um 	 	,	jpl'de	 mar 	 s 	 	_UNK_	 meşhur 	 lar 	 	.	bilim	 insan 	 ları 	 	ve	 jeo 	 loglar 	 	her	 da 	 im 	 	bana	 gerçek 	 ten 	 	ilginç	 bilimi 	 n 	 	,	_UNK_	-	zengin	 yer 	 lerin 	 	hep	 kayalık 	 larda 	 	olduğunu	 söylüyor 	 lar 	 	.
+fakat	mevcut	 gezgin 	 ler 	 	 ora 	 lara 	 	 gide 	 miyor 	 	.
+ bu 	 ndan 	 	 esinlen 	 erek 	 	,	 yapı 	 sal 	 	 kayalık 	 lara 	 	 tırmana 	 bilen 	 	bir	robot	 yapma 	 k 	 	 istedi 	 k 	 	.
+i̇şte	bu	climber	.
+ pek 	 i 	 	ne	yapıyor	,	ü	ç	ayağı	var	.	 muhtemel 	 en 	 	 görme 	 k 	 	 zor 	 dur 	 	,	ama	tepesinde	bir	vinç	ve	kablo	var	.	ve	 ayağı 	 nı 	 	 koya 	 cağı 	 	en	uygun	yeri	 bulma 	 ya 	 	çalışıyor	.
+ve	onu	bulur	 bulma 	 z 	 	,	eş	zamanlı	olarak	,	güç	 dağılımın 	 ı 	 	 hesap 	 lıyor 	 	.	 yüzey 	 e 	 	ne	kadar	güç	 uygulama 	 lı 	 	ki	_UNK_	ve	_UNK_	.
+onu	_UNK_	an	,	 ayağı 	 nı 	 	kaldırır	,	ve	_UNK_	birlikte	bu	tür	 şey 	 lere 	 	_UNK_	.
+ayrıca	arama	kurtarma	 uygulama 	 ları 	 	için	.
+beş	sene	önce	 yazı 	 n 	 	 gerçek 	 ten 	 	 na 	 sa 	 	jpl'de	fakülte	üyesi	olarak	 çalıştı 	 m 	 	.
+_UNK_	 a 	 dı 	 	 verile 	 n 	 	altı	 ayak 	 lı 	 	bir	 robot 	 ları 	 	vardı	.
+bu	aslında	ona	dayalı	.	bu	 robot 	 un 	 	 a 	 dı 	 	 mar 	 s 	 	,	çok	_UNK_	 robot 	 ik 	 	sistem	.	o	altı	 ayak 	 lı 	 	bir	robot	.
+_UNK_	yürüyüş	_UNK_	 geliştir 	 dik 	 	.
+orada	aslında	çok	ilginç	bir	yük	 dağılım 	 ı 	 	var	.
+ öğrenci 	 ler 	 	 eğlenme 	 yi 	 	sever	.	ve	burada	 yapı 	 sal 	 	olmayan	bir	 arazi 	 de 	 	 yürür 	 ken 	 	 görüyor 	 sunuz 	 	.
+ biçim 	 siz 	 	bir	 arazi 	 de 	 	 yürüme 	 ye 	 	çalışıyor	,	 k 	 um 	 lu 	 	bölge	,	fakat	 ne 	 m 	 	 miktar 	 ı 	 	ve	 k 	 um 	 	_UNK_	 büyüklüğü 	 ne 	 	göre	_UNK_	 top 	 rağa 	 	batma	 model 	 i 	 	değişir	.
+bu	tür	 şey 	 lerin 	 	 üzerinde 	 n 	 	 başarı 	 yla 	 	 geçme 	 k 	 	için	_UNK_	 ayarlama 	 ya 	 	çalışıyor	.
+ayrıca	,	eğlenceli	şeyler	de	yapıyor	,	tahmin	edersiniz	.
+ laboratuvar 	 ımıza 	 	çok	ziyaretçi	geliyor	.
+ ziyaretçi 	 ler 	 	 gelin 	 ce 	 	 mar 	 s 	 	,	 bilgisayar 	 ın 	 	başına	 geç 	 ip 	 	 yazma 	 ya 	 	başlıyor	:	``	merhaba	,	benim	adım	 mar 	 s 	 	.	``
+virginia	_UNK_	romela	,	 robot 	 ik 	 	 mekanizma 	 lar 	 	_UNK_	 hoş 	 geldi 	 niz 	 	.
+bu	robot	bir	amip	 robot 	 u 	 	.
+bunun	teknik	 detay 	 larına 	 	 gire 	 cek 	 	 zaman 	 ımız 	 	yok	,	 siz 	 e 	 	sadece	birkaç	deney	 göstereceği 	 m 	 	.
+bunlar	,	ilk	 yapıla 	 bilirlik 	 	 deney 	 lerinden 	 	bazıları	.
+hareket	 etme 	 si 	 	için	esnek	 deri 	 de 	 	potansiyel	enerji	 saklıyor 	 uz 	 	.
+veya	 i 	 leri 	 	ve	geri	 gitme 	 si 	 	için	,	aktif	gerilim	 kablo 	 ları 	 	 kullan 	 ıyoruz 	 	.	onun	 a 	 dı 	 	_UNK_	.
+ayrıca	,	_UNK_	bazı	bilim	 insan 	 larıyla 	 	ve	 mühendis 	 lerle 	 	bu	amip	 robot 	 un 	 	kimyasal	yolla	 hareket 	 e 	 	 geçe 	 n 	 	bir	versiyonu	üzerinde	 çalışıyor 	 uz 	 	.
+bir	 şey 	 e 	 	bir	şey	 yapı 	 yoruz 	 	,	ve	 tıp 	 kı 	 	sihir	gibi	,	o	hareket	ediyor	.	damla	.
+bu	robot	yeni	 proje 	 lerden 	 	biri	.	 a 	 dı 	 	raphael	.
+ hava 	 yla 	 	çalışan	esnek	bağlı	 robot 	 ik 	 	el	.
+ piyasa 	 da 	 	bir	sürü	zarif	,	çok	iyi	 robot 	 ik 	 	 el 	 ler 	 	var	.
+sorun	 i 	 se 	 	onların	çok	pahalı	 olma 	 sı 	 	,	 on 	 binlerce 	 	dolar	.
+protez	 uygulama 	 ları 	 	için	 muhtemel 	 en 	 	çok	pratik	 değil 	 ler 	 	,	çünkü	satın	 alına 	 bilir 	 	 değil 	 ler 	 	.
+çok	farklı	bir	 yön 	 den 	 	bu	 sorunu 	 n 	 	 üste 	 sinden 	 	 geleceği 	 z 	 	.
+ elektrik 	 li 	 	 motor 	 lar 	 	,	 elektro 	 mekanik 	 	 çalıştır 	 ıcılar 	 	yerine	 sıkıştı 	 rılmış 	 	hava	 kullan 	 ıyoruz 	 	.
+bu	acayip	_UNK_	_UNK_	için	 geliştir 	 dik 	 	.
+ uyumlu 	 dur 	 	.	sadece	hava	 basıncı 	 nı 	 	 değiştir 	 erek 	 	 gerçek 	 ten 	 	gücü	 değiştire 	 bilirsiniz 	 	.
+ve	 gerçek 	 ten 	 	boş	bir	teneke	 kutu 	 yu 	 	_UNK_	.
+bu	_UNK_	yumurta	gibi	çok	hassas	 obje 	 leri 	 	 tuta 	 bilir 	 	veya	bu	durumda	bir	 ampül 	 ü 	 	.
+en	güzel	tarafı	 i 	 se 	 	,	bu	ilk	 model 	 i 	 	 yapma 	 k 	 	sadece	200	dolar	tuttu	.
+bu	robot	aslında	yılan	 robot 	 lar 	 	 aile 	 sinden 	 	,	 a 	 dı 	 	_UNK_	.	yüksek	 serbest 	 lik 	 	 derece 	 li 	 	 robot 	 ik 	 	 eklem 	 li 	 	_UNK_	.
+bu	,	 yapı 	 lara 	 	 tırmana 	 bilen 	 	bir	robot	.
+bu	_UNK_	kolu	.
+o	,	12	 serbest 	 lik 	 	 derece 	 li 	 	 robot 	 ik 	 	bir	kol	.
+ama	harika	tarafı	kullanıcı	 arayüzü 	 dür 	 	.
+şurdaki	kablo	,	optik	fiber	bir	_UNK_	.
+bu	öğrenci	,	 muhtemel 	 en 	 	ilk	kez	kullanıyor	,	ama	onu	çok	farklı	 şekil 	 lerde 	 	hareket	 ettire 	 biliyor 	 	.
+ örneği 	 n 	 	irak'ta	,	bilirsiniz	,	savaş	 bölge 	 si 	 	,	yol	 kenar 	 ı 	 	 bomba 	 ları 	 	var	.	şu	 a 	 nda 	 	kolu	olan	 uzakta 	 n 	 	 kumanda 	 lı 	 	 araç 	 ları 	 	 yolluyor 	 sunuz 	 	.
+öyle	karmaşık	bir	kolu	 çalıştırma 	 k 	 	için	,	birini	 eğitme 	 k 	 	çok	zaman	alıyor	ve	çok	pahalı	.
+bu	durumda	 i 	 se 	 	çok	 sezgi 	 sel 	 	.	bu	öğrenci	,	 muhtemel 	 en 	 	ilk	kez	kullanıyor	,	çok	karmaşık	 yönlendirme 	 ler 	 	yapıyor	,	 nesne 	 leri 	 	 kaldır 	 ıyor 	 	,	hareket	ettiriyor	,	 ay 	 ne 	 n 	 	böyle	,	çok	 sezgi 	 sel 	 	.
+bu	robot	şu	 a 	 nda 	 	bizim	_UNK_	.
+bu	robot	için	bir	fan	_UNK_	var	,	 a 	 dı 	 	darwin	,	dinamik	_UNK_	akıllı	robot	.
+bildiğiniz	üzere	,	biz	 insan 	 sı 	 	robot	ve	 insan 	 sı 	 	_UNK_	çok	 ilgileniyor 	 uz 	 	,	bu	 yüz 	 den 	 	küçük	bir	 insan 	 sı 	 	robot	 yapma 	 ya 	 	karar	verdik	.
+bu	_UNK_	,	o	 zaman 	 lar 	 	bu	çok	çok	 devrim 	 sel 	 	bir	 gelişme 	 ydi 	 	.
+bu	daha	çok	bir	 yapıla 	 bilirlik 	 	 çalışma 	 sıydı 	 	,	ne	tür	 motor 	 lar 	 	 kullanma 	 lıyız 	 	?
+ hat 	 ta 	 	mümkün	mü	?	ne	tür	 kontrol 	 ler 	 	 yapma 	 lıyız 	 	?
+bunun	hiç	 sensör 	 leri 	 	yok	.
+açık	 döngü 	 lü 	 	bir	denetim	.
+ muhtemel 	 en 	 	 bilen 	 leriniz 	 	 var 	 dır 	 	,	eğer	hiç	 sensör 	 leriniz 	 	 yok 	 sa 	 	ve	bozukluklar	 var 	 sa 	 	,	ne	 ola 	 cağını 	 	tahmin	edersiniz	.
+bu	 başarı 	 nın 	 	 üstü 	 ne 	 	,	ertesi	sene	_UNK_	 baş 	 layarak 	 	uygun	bir	mekanik	tasarım	 yaptı 	 k 	 	.
+ve	 böyle 	 ce 	 	,	2005'te	darwin	doğdu	.
+ a 	 yağa 	 	kalkıyor	.	yürüyor	,	çok	 etki 	 leyici 	 	.
+fakat	 yi 	 ne 	 	de	,	gördüğünüz	gibi	,	bir	 kablo 	 su 	 	var	,	 g 	 öbek 	 	bağı	.	bu	 yüz 	 den 	 	,	 hale 	 n 	 	 haric 	 i 	 	güç	kaynağı	ve	 haric 	 i 	 	iletişim	 kullan 	 ıyoruz 	 	.
+2006'da	artık	 gerçek 	 ten 	 	eğlenme	 zaman 	 ı 	 	.
+biraz	zeka	 vere 	 lim 	 	.	i̇htiyacı	olan	tüm	işlemci	gücünü	 vere 	 lim 	 	,	1.5	_UNK_	_UNK_	m	çip	,	iki	_UNK_	kamera	,	sekiz	_UNK_	,	_UNK_	,	ayakta	dört	dönme	_UNK_	 sensör 	 ü 	 	,	lityum	 batarya 	 lar 	 	.
+ve	artık	darwin	ii	 tamam 	 en 	 	özerk	.
+ uzakta 	 n 	 	 kumanda 	 lı 	 	değil	.
+_UNK_	yok	.	 etrafın 	 a 	 	bakıyor	,	 top 	 u 	 	arıyor	,	 etrafın 	 a 	 	bakıyor	,	 top 	 u 	 	arıyor	,	futbol	 oynama 	 ya 	 	çalışıyor	,	özerk	olarak	,	yapay	zeka	.
+nasıl	 yaptığı 	 na 	 	 bak 	 alım 	 	.	bu	bizim	ilk	 deneme 	 miz 	 	,	ve	...	video	:	_UNK_	!
+ gerçek 	 ten 	 	_UNK_	 den 	 ilen 	 	bir	yarışma	var	.
+ kaçı 	 nız 	 	_UNK_	duydu	 bilmiyor 	 um 	 	.
+ uluslar 	 arası 	 	bir	özerk	robot	futbol	 yarışma 	 sı 	 	.
+ve	_UNK_	hedefi	,	gerçek	hedefi	,	2050	yılında	,	 istiyor 	 uz 	 	ki	tam	boyutlu	,	özerk	 insan 	 sı 	 	 robot 	 lar 	 	,	gerçek	dünya	 kupa 	 sı 	 	_UNK_	karşı	futbol	 oyna 	 sın 	 	ve	_UNK_	.
+bu	gerçek	bir	hedef	,	çok	 tutku 	 lu 	 	bir	hedef	,	fakat	biz	 gerçek 	 ten 	 	 yapabileceği 	 mize 	 	 inanıyor 	 uz 	 	.
+bu	,	çin'de	 geçe 	 n 	 	sene	.
+biz	 bir 	 leşik 	 	devletler'de	 insan 	 sı 	 	robot	 yarışma 	 sında 	 	kalifiye	olan	ilk	_UNK_	.
+bu	bu	sene	,	avusturya'daydı	.
+ biraz 	 dan 	 	_UNK_	 göre 	 ceksiniz 	 	,	 üç 	 e 	 	karşı	ü	ç	,	 tümü 	 yle 	 	özerk	.
+i̇şte	böyle	.	evet	!
+ robot 	 lar 	 	izliyor	ve	 oynuyor 	 lar 	 	,	 takım 	 lar 	 	kendi	 ara 	 larında 	 	 oynuyor 	 lar 	 	.
+çok	 etki 	 leyici 	 	.	bu	 gerçek 	 ten 	 	bir	araştırma	 olayı 	 nın 	 	,	daha	heyecan	verici	bir	 yarışma 	 ya 	 	 dönüştür 	 ülmesi 	 dir 	 	.
+burada	gördüğünüz	,	bu	çok	güzel	louis	_UNK_	 kupa 	 sı 	 	ödülü	.
+bu	en	iyi	 insan 	 sı 	 	robot	için	ve	biz	 önü 	 müzdeki 	 	sene	bunu	ilk	kez	 bir 	 leşik 	 	devletler'e	 getirme 	 yi 	 	 istiyor 	 uz 	 	,	o	 yüz 	 den 	 	 biz 	 e 	 	şans	 di 	 leyin 	 	.
+ teşekkür 	 ler 	 	.
+darwin'in	daha	çok	yetenekleri	var	.
+o	,	 geçe 	 n 	 	sene	 gerçek 	 ten 	 	_UNK_	senfoni	_UNK_	tatil	_UNK_	 yönet 	 ti 	 	.
+bu	gelecek	nesil	robot	,	darwin	iv	,	daha	akıllı	,	daha	hızlı	,	daha	güçlü	.
+ve	 yetenek 	 lerini 	 	 gösterme 	 ye 	 	çalışıyor	.	``	_UNK_	,	 güçlü 	 yüm 	 	.	``
+bazı	jackie	chan	 hareket 	 leri 	 	de	yapabiliyor	.	dövüş	 sanat 	 ları 	 	 hareket 	 leri 	 	.
+ve	 yürü 	 yü 	 p 	 	gidiyor	.	i̇şte	bu	darwin	iv	,
+tekrar	,	onu	 lobi 	 de 	 	 göre 	 bileceksiniz 	 	.
+biz	bunun	 bir 	 leşik 	 	devletler'de	 koşa 	 n 	 	ilk	 insan 	 sı 	 	robot	 olacağı 	 na 	 	 gerçek 	 ten 	 	 inanıyor 	 uz 	 	.	o	 yüz 	 den 	 	,	 bekley 	 in 	 	.
+ pe 	 kala 	 	,	 siz 	 e 	 	heyecan	verici	 robot 	 larımızı 	 	_UNK_	 göster 	 dim 	 	.
+ pek 	 i 	 	,	 başarı 	 mızın 	 	sırrı	 ne 	 dir 	 	?
+ nerede 	 n 	 	 buluyor 	 uz 	 	bu	 fikir 	 leri 	 	?
+bu	 fikir 	 leri 	 	nasıl	 geliştir 	 iyoruz 	 	?
+şehir	 ortamın 	 da 	 	_UNK_	 tamam 	 en 	 	özerk	bir	 aracı 	 mız 	 	var	.	darpa	şehir	_UNK_	 yarı 	 m 	 	milyon	dolar	 kazandı 	 k 	 	.
+ayrıca	 kör 	 ler 	 	 tarafı 	 ndan 	 	 sürüle 	 bilen 	 	 dünya 	 nın 	 	ilk	 aracı 	 nı 	 	ürettik	.
+biz	ona	kör	sürüş	 düello 	 su 	 	 di 	 yoruz 	 	,	çok	heyecan	verici
+ve	hakkında	 konuşma 	 k 	 	 istediği 	 m 	 	diğer	birçok	 robot 	 ik 	 	 proje 	 si 	 	.
+bunlar	sadece	2007	_UNK_	 robot 	 ik 	 	_UNK_	ve	o	tür	 şey 	 lerden 	 	 kazan 	 dığımız 	 	 ödül 	 ler 	 	.
+bizim	 gerçek 	 ten 	 	beş	_UNK_	var	.
+i̇lki	,	biz	bu	 ilham 	 ı 	 	 nerede 	 n 	 	 buluyor 	 uz 	 	,
+bu	hayalgücü	 kıvılcım 	 ını 	 	 nerede 	 n 	 	alıyoruz	?
+bu	gerçek	bir	hikaye	,	benim	kişisel	 hikaye 	 m 	 	.
+ gece 	 leri 	 	,	 uyuma 	 ya 	 	 gittiği 	 mde 	 	,	 sabahı 	 n 	 	3	veya	4'ü	,	_UNK_	,	 gözlerim 	 i 	 	 kap 	 arım 	 	ve	bu	 çizgi 	 leri 	 	,	 daire 	 leri 	 	ve	 etraf 	 ta 	 	 dolan 	 ıp 	 	 dura 	 n 	 	farklı	 şekil 	 leri 	 	 görür 	 üm 	 
+ve	bunlar	bir	araya	gelir	,	bu	tür	 mekanizma 	 ları 	 	 oluşturur 	 lar 	 	.
+ve	,	``	aha	,	işte	bu	harika	.	``	diye	 düşünür 	 üm 	 
+ yatağı 	 mın 	 	hemen	yanında	bir	not	defteri	 tutar 	 ım 	 	,	bir	günlük	,	üzerinde	ışık	,	led	ışık	olan	,	bir	 kalem 	 le 	 	birlikte	,	çünkü	ı	ş	ı	ğ	ı	açıp	 eşim 	 i 	 	 uyandırma 	 k 	 	 isteme 	 m 	 	.
+ gördüğü 	 m 	 	her	şeyi	_UNK_	,	bir	şeyler	 çiziyor 	 um 	 	,	ve	 uyu 	 yorum 	 	.
+her	gün	 sabah 	 ları 	 	,	 günü 	 n 	 	ilk	_UNK_	_UNK_	önce	,	daha	 dişleri 	 mi 	 	 fırçala 	 madan 	 	,	 defteri 	 mi 	 	_UNK_	.
+çoğu	zaman	 boş 	 tur 	 	,	bazen	bir	şeyler	 var 	 dır 	 	,	bazen	işe	yaramaz	,	fakat	çoğu	zaman	kendi	el	 yazı 	 mı 	 	bile	 okuya 	 mam 	 	.
+ sabahı 	 n 	 	4'ü	,	ne	_UNK_	yani	,	değil	mi	?
+ yaz 	 dığımı 	 	 de 	 şifre 	 	 etme 	 m 	 	gerekiyor	.
+fakat	bazen	orada	o	 dahi 	 ce 	 	fikri	 görür 	 üm 	 	,	ve	o	``	 buldu 	 m 	 	``	 an 	 ını 	 	 yaşar 	 ım 	 	.
+ doğru 	 ca 	 	 ofisim 	 e 	 	gider	,	 bilgisayarım 	 ın 	 	başına	oturur	,	bu	 fikir 	 leri 	 	 yazarı 	 m 	 	,	bir	şeyler	 çizer 	 im 	 	ve	bir	 fikir 	 ler 	 	 liste 	 si 	 	 tutar 	 ım 	 	.
+ önerme 	 ler 	 	için	 çağrı 	 lar 	 	 olduğu 	 nda 	 	potansiyel	 fikir 	 lerim 	 	ile	problem	arasında	bir	eşleşme	 bulma 	 ya 	 	 çalışır 	 ım 	 	,	eğer	eşleşme	 var 	 sa 	 	bir	araştırma	 öneri 	 si 	 	 yazarı 	 z 	 	,	araştırma	_UNK_	 al 	 ırız 	 	,	işte	araştırma	 program 	 larımızı 	 	böyle	_UNK_	.
+fakat	sadece	bir	hayal	gücü	 kıvılcım 	 ı 	 	 yetersiz 	 dir 	 	.
+bu	tür	 fikir 	 leri 	 	nasıl	 geliştir 	 iyoruz 	 	?
+romela	,	 robot 	 ik 	 	 mekanizma 	 lar 	 	_UNK_	bu	fantastik	beyin	 fırtına 	 sı 	 	_UNK_	 var 	 dır 	 	.
+bir	araya	 gelir 	 iz 	 	,	 problem 	 ler 	 	ve	sosyal	 sorun 	 lar 	 	hakkında	 tartış 	 ırız 	 	ve	 konuşur 	 uz 	 	.
+fakat	 başlama 	 dan 	 	önce	şu	altın	 kura 	 lı 	 	 koyar 	 ız 	 	.
+kural	 şu 	 dur 	 	:	kimse	 kimse 	 nin 	 	 fikir 	 lerini 	 	 eleştirme 	 yecek 	 	.
+hiç	kimse	 hiç 	 bir 	 	fikri	 eleştirme 	 yecek 	 	.
+bu	 önemli 	 dir 	 	,	çünkü	çoğu	zaman	,	 öğrenci 	 ler 	 	,	 başka 	 larının 	 	kendi	 düşünce 	 leri 	 	ve	 fikir 	 leri 	 	hakkında	ne	_UNK_	_UNK_	.
+bir	kez	bunu	 yaptığı 	 nızda 	 	,	 öğrenci 	 ler 	 	inanılmaz	bir	şekilde	 açılı 	 rlar 	 	.
+o	 k 	 açık 	 	,	harika	,	 deli 	 ce 	 	parlak	 fikir 	 leri 	 	 bulur 	 lar 	 	,	bütün	oda	yaratıcı	 enerji 	 yle 	 	 dolu 	 p 	 	taşar	.
+ve	işte	biz	 fikir 	 lerimizi 	 	böyle	 geliştirir 	 iz 	 	.
+ vakti 	 miz 	 	 aza 	 lıyor 	 	,	 bahsetme 	 k 	 	 istediği 	 m 	 	bir	şey	daha	var	.	bilirsiniz	,	sadece	bir	parlak	fikir	ve	onu	geliştirme	yeterli	 değil 	 dir 	 	.
+çok	güzel	bir	ted	 anı 	 sı 	 	vardı	,	 sa 	 nırım 	 	 si 	 r 	 	ken	robinson	 olma 	 lı 	 	,	değil	mi	?
+eğitim	ve	okulun	yaratıcılığı	nasıl	 öldür 	 düğü 	 	hakkında	konuştu	.
+aslında	,	 hikaye 	 nin 	 	iki	yüzü	var	.
+ dahi 	 ce 	 	 fikir 	 ler 	 	,	 yaratıcı 	 lık 	 	ve	iyi	bir	 mühendis 	 lik 	 	 sezgi 	 si 	 	ile	 yapabilecek 	 leriniz 	 	 sınır 	 lıdır 	 	.
+_UNK_	 ötesin 	 e 	 	 gitme 	 k 	 	 isterse 	 niz 	 	,	 robot 	 ik 	 	_UNK_	 ötesin 	 e 	 	 gitme 	 k 	 	 isterse 	 niz 	 	ve	 robot 	 ik 	 	 bilimi 	 nin 	 	esas	_UNK_	 özen 	 li 	 	 araştırma 	 larla 	 	ele	 alma 	 k 	 	için	 bu 	 ndan 	 	daha	 fazla 	 sına 	 	 ihtiyacı 	 mız 	 	var	.	burada	okul	 devre 	 ye 	 	girer	.
+batman	,	kötü	 adam 	 lara 	 	karşı	,	onun	alet	kemeri	var	,	 kanca 	 sı 	 	var	,	farklı	 tür 	 de 	 	çeşit	çeşit	 alet 	 i 	 	var	.
+biz	_UNK_	,	 mühendis 	 ler 	 	ve	bilim	 insan 	 ları 	 	için	bu	 alet 	 ler 	 	,	bunlar	aldığınız	 ders 	 ler 	 	ve	_UNK_	.
+matematik	,	diferansiyel	 denklem 	 ler 	 	.
+ doğru 	 sal 	 	cebir	,	fen	 bilim 	 leri 	 	,	fizik	,	 hat 	 ta 	 	 bugün 	 lerde 	 	,	kimya	ve	biyoloji	,	gördüğünüz	gibi	.
+tüm	bunlar	 ihtiyacı 	 mız 	 	olan	 alet 	 ler 	 	.
+ne	kadar	çok	alet	 var 	 sa 	 	,	batman	için	_UNK_	karşı	o	kadar	etkili	_UNK_	,	bizim	için	,	büyük	problemleri	 çözme 	 k 	 	için	daha	fazla	araç	 de 	 mektir 	 	.
+bu	 yüz 	 den 	 	eğitim	çok	 önemli 	 dir 	 	.
+ daha 	 sı 	 	,	bu	kadar	değil	,	sadece	bu	değil	,	ayrıca	 gerçek 	 ten 	 	çok	,	çok	 çalışma 	 lısınız 	 	.
+hep	 öğrencilerim 	 e 	 	 söyler 	 im 	 	,	 akıllı 	 ca 	 	 çalış 	 ın 	 	,	sonra	çok	 çalış 	 ın 	 	.
+ arka 	 daki 	 	bu	resim	,	bu	 sabahı 	 n 	 	ü	ç	ü	.
+garanti	 veri 	 yorum 	 	,	 laboratuvar 	 ımıza 	 	sabah	3'te	4'te	 gel 	 seniz 	 	,	orada	çalışan	 öğrenci 	 lerimiz 	 	 var 	 dır 	 	,	ben	onlara	 söylediği 	 m 	 	için	değil	,	çok	eğlenceli	olduğu	için	.
+ki	bu	da	son	 konu 	 ya 	 	geliyor	.	 eğlenme 	 yi 	 	 unutma 	 yın 	 	.
+ başarı 	 mızın 	 	sırrı	 gerçek 	 ten 	 	 bu 	 dur 	 	,	biz	çok	 eğleniyor 	 uz 	 	.
+i̇nanıyorum	ki	en	fazla	 verimli 	 lik 	 	,	 eğlen 	 diğimiz 	 	zaman	 gerçek 	 leşir 	 	.	ve	bizim	de	 yaptığı 	 mız 	 	bu	.
+i̇şte	böyle	.	çok	teşekkür	ediyorum	.
+

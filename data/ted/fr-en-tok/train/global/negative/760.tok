@@ -1,0 +1,201 @@
+le	problème	dont	je	veux	vous	parler	peut	se	résumer	en	comment	peut	-	on	offrir	des	soins	dans	un	monde	où	le	coût	est	au	centre	de	tout	.
+comment	peut	-	on	faire	ça	?
+et	le	paradigme	de	base	que	nous	voulons	vous	suggérer	,	que	je	veux	vous	suggérer	,	c'est	guérir	des	maladies	,	vous	devez	d'abord	savoir	ce	que	vous	guérissez	--	c'est	le	diagnostique	--	et	vous	devez	alors	faire	quelque	chose	.
+donc	,	notre	programme	est	quelque	chose	que	nous	appelons	le	diagnostique	pour	tous	,	ou	le	diagnostique	à	coût	nul	.
+comment	fournir	de	l'information	médicale	pertinente	à	un	prix	le	plus	proche	possible	de	zéro	?	comment	faire	ça	?
+laissez	-	moi	vous	donner	deux	exemples	.
+les	_UNK_	de	la	médecine	militaire	ne	sont	pas	si	différentes	de	celles	du	tiers	-	monde	peu	de	ressources	,	un	environnement	rigoureux	,	la	contrainte	_UNK_	les	objets	avec	la	série	de	problèmes	qui	va	avec	,	et	des	choses	du	genre	.
+et	pas	très	différentes	non	plus	des	problèmes	de	soin	à	domicile	et	du	monde	du	diagnostique	en	général	.
+donc	,	la	technologie	dont	je	souhaite	vous	parler	est	pour	le	tiers	monde	,	pour	les	pays	en	voie	de	développement	,	mais	elle	a	,	je	pense	,	des	applications	beaucoup	plus	vastes	,	parce	que	l'information	est	importante	dans	un	système	de	soin	.
+donc	,	vous	voyez	les	deux	exemples	ici	.
+l'un	d'eux	est	un	laboratoire	qui	est	en	fait	assez	pointu	en	afrique	.
+le	second	est	en	fait	un	entrepreneur	qui	s'est	installé	,	et	qui	fait	on	ne	sait	quoi	sur	une	table	,	sur	un	marché	.
+je	ne	sais	pas	quels	genre	de	soins	sont	délivrés	ici	.
+mais	ce	n'est	probablement	pas	ce	qui	est	le	plus	efficace	.
+quelle	est	notre	approche	?
+et	la	façon	dont	on	aborde	traditionnellement	un	problème	pour	diminuer	les	coûts	,	en	partant	de	la	perspective	des	états	-	unis	,	est	de	prendre	notre	solution	,	et	ensuite	d'essayer	de	diminuer	les	coûts	.
+mais	quoi	que	vous	fassiez	,	vous	n'arriverez	jamais	à	partir	d'un	instrument	de	100.000	$	us	et	à	faire	baiser	son	prix	jusqu'à	zéro	.	ça	ne	marchera	pas	.
+donc	,	l'approche	que	nous	avons	prise	est	de	partir	de	l'autre	bout	.
+se	demander	:	``	quel	est	le	truc	le	moins	cher	qui	pourrait	servir	à	faire	des	diagnostiques	,	et	en	tirer	des	informations	utiles	,	et	pouvoir	ajouter	des	fonctions	?	``	et	nous	avons	choisi	le	papier	.
+ce	que	vous	voyez	ici	est	un	prototype	.
+il	mesure	environ	un	centimètre	de	coté	.
+ça	a	la	taille	d'un	ongle	.
+les	lignes	autour	des	cotés	sont	un	polymère	.
+c'est	fait	en	papier	,	et	bien	sûr	,	les	fluides	se	_UNK_	sur	du	papier	.
+comme	vous	le	savez	,	du	papier	,	des	vêtements	;	une	goutte	de	vin	sur	une	nappe	,	et	le	vin	se	répand	et	s'infiltre	partout	.
+mettez	-	en	sur	votre	chemise	,	et	elle	est	_UNK_	.
+c'est	ce	qu'une	surface	_UNK_	fait	.
+donc	,	dans	ce	dispositif	,	l'idée	c'est	que	vous	trempez	son	extrémité	du	bas	dans	une	goutte	,	dans	ce	cas	,	d'urine	.
+le	fluide	se	répand	dans	ces	chambres	en	haut	.
+la	couleur	marron	indique	le	taux	de	glucose	dans	l'urine	.
+la	couleur	bleue	indique	le	taux	de	protéine	dans	l'urine	.
+et	la	combinaison	des	deux	.
+est	un	très	bon	indicatif	d'un	certain	nombre	de	choses	utiles	que	vous	voulez	.
+donc	,	c'est	un	exemple	d'un	dispositif	fait	à	partir	d'une	simple	feuille	de	papier	.
+bon	,	comment	simplifier	la	production	?
+pourquoi	avons	-	nous	choisi	du	papier	?
+voici	un	exemple	de	la	même	chose	,	sur	un	doigt	qui	vous	montre	en	gros	à	quoi	ça	ressemble	.
+une	des	raisons	d'utiliser	le	papier	,	c'est	qu'il	est	partout	.
+nous	avons	réalisé	ces	types	de	dispositifs	qui	utilisent	des	serviettes	et	du	papier	-	_UNK_	et	des	cartes	,	et	plein	d'autres	trucs	.
+donc	,	la	capacité	de	production	est	là	.
+la	seconde	raison	,	c'est	que	vous	pouvez	mettre	énormément	de	tests	sur	une	toute	petite	surface	.
+je	vais	vous	montrer	dans	un	instant	que	le	bloc	de	papier	ici	pourrait	probablement	contenir	quelque	chose	comme	100.000	tests	,	ou	quelque	chose	comme	ça	.
+et	puis	enfin	,	quelque	chose	auquel	vous	ne	pensez	peut	-	être	pas	dans	un	mode	médicalisé	développé	,	ça	élimine	les	pointes	.
+par	``	pointes	``	,	je	parle	d'aiguilles	,	de	choses	qui	collent	.
+si	vous	avez	pris	un	échantillon	de	sang	et	que	cette	personne	peut	avoir	_UNK_	c	,	vous	ne	voulez	pas	faire	une	erreur	et	vous	la	planter	sur	vous	.
+c'est	juste	,	vous	ne	voulez	pas	faire	ça	.
+donc	,	comment	se	débarrasser	de	ça	?	c'est	un	problème	partout	.
+et	ici	,	vous	brûlez	simplement	le	papier	.
+donc	,	c'est	une	sorte	d'approche	pratique	pour	commencer	les	choses	.
+maintenant	,	vous	allez	dire	,	si	le	papier	est	une	bonne	idée	,	d'autres	personnes	y	ont	surement	déjà	pensé	.
+et	la	réponse	est	,	bien	sûr	,	oui	.
+la	moitié	d'entre	-	vous	,	en	gros	,	qui	sont	des	femmes	,	vous	avez	dû	faire	un	test	de	grossesse	.
+et	le	plus	répondu	de	ces	tests	est	dans	un	objet	qui	ressemble	à	la	chose	à	gauche	.
+c'est	quelque	chose	qui	s'appelle	un	flux	latéral	_UNK_	.
+et	dans	ce	test	en	particulier	l'urine	,	qui	contient	ou	ne	contient	pas	une	hormone	appelée	_UNK_	se	répand	sur	un	morceau	de	papier	.
+il	y	a	deux	barres	.	la	première	indique	que	le	test	fonctionne	.
+et	si	la	seconde	apparaît	,	vous	êtes	enceinte	.
+c'est	un	test	génial	dans	un	monde	binaire	.
+et	ce	qui	est	bien	dans	le	fait	d'être	enceinte	,	c'est	que	soit	vous	l'êtes	,	soit	vous	ne	l'êtes	pas	.
+vous	n'êtes	pas	partiellement	enceinte	,	ou	pensant	à	être	enceinte	ou	quelque	chose	du	genre	.
+donc	,	ça	fonctionne	très	bien	ici	.
+mais	ça	ne	marche	pas	très	bien	quand	vous	avez	besoin	de	données	quantitatives	.
+il	y	a	aussi	les	bâtonnets	à	tremper	.
+mais	si	vous	regardez	ces	bâtonnets	,	ils	sont	pour	d'autres	types	d'analyses	d'urine	.
+il	y	a	énormément	de	couleurs	et	des	trucs	comme	ça	.
+que	faites	-	vous	dans	des	circonstances	difficiles	?
+donc	,	l'approche	que	nous	avons	prise	est	de	se	demander	est	-	ce	que	c'est	vraiment	pratique	de	faire	des	choses	comme	ça	?
+et	ce	problème	est	maintenant	réglé	,	d'une	façon	purement	ingénieure	.
+et	la	procédure	que	vous	avons	est	simplement	de	commencer	avec	du	papier	.
+il	passe	dans	une	nouvelle	sorte	d'imprimante	,	appelée	imprimante	à	cire	.
+l'imprimante	à	cire	fait	ce	qui	ressemble	à	de	l'impression	.
+elle	imprime	.	vous	mettez	cela	dessus	,	vous	chauffez	un	peu	.
+la	cire	se	diffuse	et	est	absorbée	par	le	papier	.
+et	vous	obtenez	au	final	le	dispositif	que	vous	voulez	.
+ces	imprimantes	coûtent	800	$	us	maintenant	.
+nous	estimons	que	si	elles	tournaient	24	heures	par	jour	,	elles	pourraient	produire	10	millions	de	tests	par	an	.
+donc	,	c'est	un	problème	réglé	.	ce	problème	particulier	est	réglé	.
+et	voici	un	exemple	du	genre	de	chose	que	vous	pouvez	voir	.
+voici	un	papier	d'environ	20	x	30	cm	.
+ça	prend	environ	2	secondes	à	faire	.
+et	donc	,	je	considère	ça	comme	réglé	.
+il	y	a	quelque	chose	de	très	important	ici	,	c'est	que	parce	que	c'est	une	imprimante	,	une	imprimante	couleur	,	elle	imprime	en	couleur	.	c'est	ce	que	font	les	imprimantes	couleur	.
+je	vais	vous	montrer	dans	un	instant	,	c'est	en	fait	très	utile	.
+maintenant	,	la	prochaine	question	que	vous	allez	poser	c'est	de	savoir	ce	qu'on	veut	mesurer	?	que	veut	-	on	analyser	?
+et	la	chose	que	l'on	souhaite	analyser	en	priorité	,	nous	en	sommes	assez	loin	.
+c'est	ce	que	l'on	appelle	``	une	fièvre	d'origine	non	diagnostiquée	``	.
+quelqu'un	arrive	dans	une	clinique	,	il	a	de	la	fièvre	,	il	ne	se	sent	pas	bien	,	qu'est	-	ce	qu'il	a	?
+est	-	ce	qu'il	a	la	tuberculose	?	est	-	ce	qu'il	a	le	sida	?
+est	-	ce	qu'il	a	un	simple	rhume	?
+le	problème	du	_UNK_	.	c'est	un	problème	très	difficile	pour	des	raisons	dont	je	ne	parlerai	pas	.
+il	y	a	un	nombre	énorme	de	choses	que	vous	voulez	pouvoir	distinguer	.
+mais	il	y	a	une	série	de	choses	,	sida	,	_UNK_	,	malaria	,	tuberculose	,	ou	autre	.
+et	des	plus	simples	,	comme	des	guides	de	traitements	.
+maintenant	,	même	ça	est	plus	compliqué	qu'on	pourrait	le	croire	.
+un	de	mes	amis	travaille	dans	un	centre	psychiatrique	multi	-	culturel	.
+et	il	s'intéresse	à	la	question	de	savoir	pourquoi	les	gens	prennent	ou	ne	prennent	pas	leur	médicaments	?
+donc	,	du	dapsone	,	ou	quelque	chose	comme	ça	,	vous	devez	le	prendre	pendant	un	certain	temps	.
+il	y	a	une	histoire	merveilleuse	où	il	parle	à	un	villageois	en	inde	.
+il	lui	demande	``	est	-	ce	que	vous	avez	pris	votre	dapsone	?	``	``	oui	``	.
+``	vous	l'avez	pris	tous	les	jours	?	``	``	oui	``	``	vous	l'avez	pris	pendant	un	mois	?	``	``	oui	``	.
+en	fait	,	ce	que	le	type	voulait	dire	,	c'est	qu'il	avait	donné	les	doses	des	30	jours	de	_UNK_	à	son	chien	,	ce	matin	.
+il	disait	la	vérité	.	parce	que	dans	une	culture	différente	,	le	chien	est	votre	substitut	,	vous	savez	,	``	aujourd'hui	``	,	``	ce	mois	-	ci	``	,	``	depuis	la	saison	des	pluies	``	,	il	y	a	beaucoup	d'occasions	de	mauvaise	interprétation	.
+et	donc	,	un	problème	ici	est	,	dans	certains	cas	,	de	savoir	comment	gérer	des	problèmes	qui	ne	semblent	pas	intéressants	,	comme	la	conformité	.
+maintenant	,	regardons	à	quoi	ressemble	un	test	typique	.
+piquez	un	doigt	,	vous	obtenez	du	sang	,	environ	50	_UNK_	.
+c'est	à	peu	près	tout	ce	que	vous	allez	avoir	.
+parce	que	vous	ne	pouvez	pas	utiliser	les	systèmes	habituels	.
+vous	ne	pouvez	pas	le	manipuler	très	facilement	,	mais	je	vais	vous	le	montrer	dans	un	moment	.
+donc	,	vous	prenez	la	goutte	de	sang	,	sans	plus	de	manipulations	.
+vous	la	déposez	sur	ce	petit	dispositif	.
+il	filtre	les	cellules	sanguines	,	en	laissant	passer	le	sérum	au	travers	,	et	vous	obtenez	une	série	de	couleurs	ici	en	bas	.
+et	les	couleurs	indiquent	une	maladie	ou	si	tout	va	bien	.
+mais	même	ça	,	c'est	compliqué	.
+parce	que	pour	vous	,	pour	moi	,	les	couleurs	peuvent	indiquer	que	tout	va	bien	.
+mais	après	tout	,	nous	souffrons	tous	d'un	excès	probable	d'éducation	.
+que	faites	-	vous	si	quelque	chose	requiert	une	analyse	quantitative	?
+et	donc	,	la	solution	à	laquelle	nous	et	beaucoup	d'autres	personnes	pensons	ici	,	et	actuellement	,	il	y	a	une	diffusion	impressionnante	,	et	il	en	sort	la	solution	universelle	à	tout	ces	temps	ci	,	qui	est	un	téléphone	portable	.	dans	ce	cas	particulier	,	un	téléphone	-	appareil	photo	.
+il	y	en	a	partout	,	six	millions	de	plus	chaque	mois	,	rien	qu'en	inde	.
+et	l'idée	,	c'est	que	quelqu'un	prend	ce	système	.
+vous	le	trempez	.	vous	développez	les	couleurs	.
+vous	prenez	une	photo	.	la	photo	est	envoyée	à	un	laboratoire	central	.
+vous	n'avez	pas	besoin	d'envoyer	un	docteur	.
+vous	envoyez	quelqu'un	qui	va	juste	prélever	les	échantillons	.
+et	dans	la	clinique	,	soit	un	docteur	,	ou	idéalement	un	ordinateur	dans	ce	cas	,	fera	l'analyse	.
+il	se	trouve	que	ça	fonctionne	assez	bien	,	en	particulier	quand	votre	imprimante	couleur	a	imprimé	des	barres	de	couleurs	qui	indiquent	comment	les	choses	fonctionnent	.
+donc	,	ma	vision	du	personnel	de	santé	du	future	n'est	pas	un	docteur	,	mais	un	jeune	de	18	ans	,	qui	sinon	est	au	chômage	et	qui	a	deux	choses	.	il	a	un	sac	à	dos	rempli	de	ces	tests	.
+et	un	bistouri	pour	prendre	des	échantillons	de	sang	,	et	une	[	kalachnikov	]	ak	-	47	.
+et	ce	sont	ces	choses	qui	lui	feront	passer	sa	journée	.
+il	y	a	une	autre	connexion	très	intéressante	ici	.
+qui	est	de	savoir	comment	faire	pour	faire	passer	de	l'information	utile	au	travers	d'un	système	téléphonique	qui	est	assez	catastrophique	.
+il	s'avère	qu'il	y	a	un	volume	d'information	énorme	déjà	disponible	sur	ce	sujet	,	qui	est	le	problème	du	robot	sur	mars	.
+comment	récupérer	une	vue	précise	des	couleurs	sur	mars	,	si	vous	avez	un	débit	très	mauvais	pour	faire	ça	?
+et	la	réponse	n'est	pas	compliquée	mais	je	ne	veux	pas	l'aborder	ici	,	à	part	pour	indiquer	que	les	systèmes	de	communication	pour	faire	ça	sont	assez	bien	compris	.
+aussi	,	un	fait	que	vous	ne	connaissez	peut	-	être	pas	,	est	que	la	capacité	de	calcul	de	cet	objet	n'est	pas	très	différente	de	la	capacité	de	calcul	de	votre	ordinateur	de	bureau	.
+c'est	un	dispositif	fantastique	qui	commence	tout	juste	à	être	exploré	.
+je	ne	sais	pas	si	l'idée	d'un	ordinateur	pour	chaque	enfant	est	une	bonne	idée	.	voici	l'ordinateur	du	futur	.
+parce	que	l'écran	est	déjà	là	et	qu'ils	peuvent	être	partout	.
+bon	,	maintenant	,	laissez	-	moi	vous	montrer	des	dispositifs	avancés	.
+commençons	par	poser	un	petit	problème	.
+ce	que	vous	voyez	là	est	un	autre	dispositif	d'un	centimètre	carré	.
+et	les	différentes	couleurs	sont	différentes	couleurs	de	teintures	.
+et	vous	remarquez	quelque	chose	qui	peut	vous	sembler	intéressant	,	qui	est	que	le	jaune	semble	disparaître	,	passer	au	travers	du	bleu	,	et	ensuite	au	travers	du	rouge	.
+comment	ça	marche	?	comment	faire	passer	quelque	chose	au	travers	d'autre	chose	?
+et	bien	sûr	,	la	réponse	,	c'est	:	``	vous	ne	le	faites	pas	``	.
+vous	le	faites	passer	par	dessous	ou	par	dessus	.
+mais	la	question	devient	:	comment	le	faire	passer	par	dessous	et	par	dessus	dans	une	feuille	de	papier	?
+et	la	réponse	est	que	ce	que	vous	faites	,	et	les	détails	ne	sont	pas	très	importants	ici	,	est	de	faire	quelque	chose	de	plus	élaboré	,	vous	prenez	plusieurs	couches	de	papier	différentes	,	chacune	contenant	son	propre	petit	système	de	fluide	,	et	vous	les	séparez	par	des	morceaux	de	,	littéralement	,	du	scotch	double	face	pour	tapis	,	le	truc	que	vous	utilisez	pour	coller	les	tapis	sur	le	sol	.
+et	le	fluide	va	passer	d'une	couche	vers	la	suivante	.
+il	se	diffuse	de	lui	-	même	,	au	travers	de	trous	,	se	diffusant	au	travers	des	différentes	couches	de	papier	.
+et	ce	que	vous	voyez	en	bas	à	droite	ici	est	un	échantillon	dans	lequel	une	simple	goutte	de	sang	a	été	déposée	au	dessus	,	et	qui	s'est	_UNK_	,	et	diffusée	d'elle	-	même	dans	les	16	trous	du	bas	,	dans	un	morceau	de	papier	qui	ressemble	à	une	puce	,	de	l'épaisseur	de	2	feuilles	de	papier	.
+et	dans	ce	cas	particulier	,	nous	nous	intéressions	juste	à	la	possibilité	de	le	répliquer	.
+mais	c'est	,	en	principe	,	la	façon	de	résoudre	le	problème	de	la	``	fièvre	d'origine	_UNK_	``	.
+parce	que	chacune	de	ces	tâches	devient	alors	un	test	pour	un	ensemble	particulier	de	marqueurs	de	maladie	.
+et	ceci	fonctionnera	en	temps	voulu	.
+et	voici	un	exemple	d'un	objet	un	petit	peu	plus	complexe	.
+voici	la	puce	.
+vous	trempez	un	coin	.	le	fluide	va	au	centre	.
+il	se	diffuse	lui	-	même	dans	ces	trous	ou	puits	divers	,	et	change	de	couleur	.
+le	tout	en	utilisant	du	papier	et	du	scotch	pour	tapis	.
+donc	,	je	pense	que	c'est	aussi	bon	marché	que	l'on	puisse	être	capable	de	concevoir	et	de	fabriquer	.
+maintenant	,	j'ai	une	,	ou	plutôt	deux	dernières	histoires	à	vous	raconter	,	pour	terminer	cette	présentation	.
+voilà	la	première	.	une	des	choses	que	l'on	doit	faire	occasionnellement	c'est	de	séparer	les	cellules	sanguines	du	sérum	.
+et	la	question	était	,	ici	,	nous	le	faisons	en	prenant	un	échantillon	.
+on	le	place	dans	une	centrifugeuse	.
+on	le	fait	tourner	,	et	cela	extrait	les	cellules	sanguines	.	génial	.
+que	se	passe	t	-	il	si	vous	n'avez	pas	d'électricité	,	ni	de	centrifugeuse	,	ni	autre	chose	?
+et	nous	avons	réfléchi	pendant	un	moment	à	savoir	comment	on	pourrait	faire	.
+et	la	façon	,	en	fait	,	de	le	faire	,	est	présentée	ici	.
+vous	prenez	un	batteur	à	œufs	,	que	l'on	trouve	partout	.	vous	sciez	une	des	lames	.
+et	vous	prenez	ensuite	des	tubes	,	et	vous	les	fixez	dessus	.	vous	mettez	le	sang	dedans	.	vous	tournez	.
+quelqu'un	s'assied	et	le	fait	tourner	.
+ça	marche	très	très	bien	.
+et	nous	avons	ensuite	calculé	la	physique	des	batteurs	à	œufs	et	des	tubes	qui	s'alignent	automatiquement	,	et	tout	le	reste	de	ce	genre	de	choses	,	nous	l'avons	envoyé	à	un	journal	.
+nous	étions	très	fiers	de	ça	,	en	particulier	du	titre	qui	était	:	``	un	batteur	à	œufs	utilisé	comme	centrifugeuse	``	.
+nous	l'avons	envoyé	,	et	il	nous	est	revenu	,	refusé	.
+j'ai	appelé	l'éditeur	et	demandé	``	qu'est	ce	qui	se	passe	?	comment	est	-	ce	possible	?	``
+l'éditeur	a	répondu	,	avec	un	dédain	énorme	,	``	je	l'ai	lu	.
+et	nous	n'allons	pas	le	publier	,	parce	que	nous	ne	publions	que	ce	qui	a	rapport	avec	la	science	``	.
+et	c'est	un	problème	important	parce	que	ça	veut	dire	que	nous	devons	,	en	tant	que	société	,	penser	à	ce	qui	est	important	pour	nous	.
+et	si	c'est	juste	les	journaux	et	les	publications	scientifiques	,	nous	avons	un	problème	.
+voici	un	autre	exemple	de	quelque	chose	qui	...
+c'est	un	petit	_UNK_	.
+cela	mesure	l'absorption	de	la	lumière	dans	un	échantillon	.
+ce	qui	est	bien	,	c'est	que	vous	avez	une	source	lumineuse	qui	s'allume	et	s'éteint	à	1.000	hertz	.
+et	une	autre	source	lumineuse	qui	détecte	cette	lumière	à	1.000	_UNK_	.
+et	donc	,	vous	pouvez	utiliser	ce	système	en	plein	jour	.
+ça	fonctionne	à	peu	de	choses	près	comme	un	système	qui	coûte	environ	100.000	dollars	us	ca	coûte	50	dollars	us	.	on	pourrait	peut	être	le	produire	pour	50	cents	,	si	on	réfléchit	sérieusement	au	problème	.
+pourquoi	personne	ne	le	fait	?	la	réponse	,	c'est	:	``	comment	gagner	de	l'argent	dans	un	système	capitalistique	,	en	faisant	ça	?	``
+problème	intéressant	.
+donc	,	laissez	-	moi	terminer	en	disant	que	nous	avons	réfléchi	à	ça	comme	une	sorte	de	problèmes	de	conception	.
+et	nous	nous	sommes	demandés	,	quelle	est	l'idée	scientifique	commune	derrière	tout	cela	?
+et	nous	avons	décidé	que	nous	devons	y	penser	non	pas	tant	en	terme	de	coûts	,	mais	en	terme	de	simplicité	.
+simplicité	est	un	joli	mot	.	et	vous	devez	alors	réfléchir	à	savoir	ce	que	la	simplicité	signifie	.
+je	sais	ce	que	c'est	,	mais	je	ne	sais	pas	ce	que	ça	veut	vraiment	dire	.
+donc	,	ça	m'a	assez	intéressé	pour	mettre	en	place	plusieurs	groupes	de	personnes	.
+et	le	plus	récent	implique	un	petit	groupe	de	personnes	au	mit	,	l'un	d'eux	est	un	gamin	exceptionnellement	brillant	qui	est	une	des	très	rares	personnes	que	je	pourrais	considérer	comme	un	réel	génie	.
+nous	avons	cherché	pendant	une	journée	entière	sur	comment	définir	la	simplicité	.
+et	je	vais	vous	donner	la	réponse	à	cette	question	d'une	profonde	pensée	scientifique	.
+``	c'est	impossible	de	le	faire	foirer	``	donc	,	dans	un	sens	,	vous	avez	ce	que	vous	payez	.
+merci	beaucoup	.
+

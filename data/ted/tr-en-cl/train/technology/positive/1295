@@ -1,0 +1,222 @@
+kaçınız buna benzer şekli bozulmuş bir karakter dizisini okumanızı gerektiren bir web formu doldurmak zorunda kaldınız ?
+kaçınız bunu gerçekten ama gerçekten sinir bozucu buluyor ?
+pekala , harika . bunu ben icat ettim .
+ya da icat edenlerden biriydim .
+bu şeye captcha deniyor .
+ve bunun orada olmasının nedeni formu dolduran kişinin , sizin , formu milyonlarca defa göndermeye programlanmış bir bilgisayar programı değil , insan olduğunuzdan emin olmak .
+i̇şe yarıyor çünkü insanlar , en azından görme engelli olmayan insanlar , şekli bozulmuş dalgalı karakterleri _UNK_ sorun _UNK_ , fakat bilgisayarlar bunu henüz yapamıyorlar .
+örneğin , _UNK_ durumunda , bu şekli bozuk karakterleri _UNK_ nedeni , bilet _UNK_ ikişer defa milyonlarca bilet alabilen bir program yazmalarını engellemek .
+_UNK_ bütün i̇nternet'te kullanılıyor .
+ve çok sık _UNK_ , birçok kez kullanıcının karşısına rastgele karakterlerin düzgün sıralanmış olarak çıkması olağan .
+örneğin bu yahoo'nun kayıt sayfası .
+kullanıcının karşısına çıkan rastgele karakterler şunlardı w , a , i , t , tabi ki bu aynı zamanda bir kelime .
+ama işin en iyi kısmı yahoo'nun yardım masasına 20 dakika sonra gelen mesaj .
+yazı : " yardım edin ! 20 dakikadır bekliyorum ama hiçbir şey olmuyor . "
+bu kişi beklemeleri gerektiğini düşünmüş .
+bu tabi ki , bu zavallı _UNK_ kadar kötü değil .
+captcha projesi burada carnegie mellon'da 10 yıl önce yaptığımız birşey , ve her yerde kullanılıyor .
+şimdi size bundan birkaç yıl sonra yaptığımız bir projeden bahsedeyim , ki bu _UNK_ bir çeşit evrimleşmiş hali .
+bu projeye recaptcha diyoruz , burada carnegie mellon'da başlattığımız birşey , sonra bunu yeni kurulmuş bir şirkete çevirdik .
+ve yaklaşık bir buçuk yıl sonra , aslında google bu şirketi satın aldı .
+size bu projenin neyi başlattığını anlatayım .
+bu proje arka arkaya gelen _UNK_ başladı : anlaşıldı ki dünyanın her yerinde insanlar hergün yaklaşık 200 milyon captcha yazıyor .
+bunu ilk duyduğumda , kendimle gerçekten gurur duydum .
+şöyle düşündüm , araştırmamın yarattığı etkiye bakın .
+ama sonra kendimi kötü hissetmeye başladım .
+olay şu , her bir captcha _UNK_ , aslında hayatınızın 10 saniyesini harcıyorsunuz .
+ve bunu 200 milyonla çarptığınızda , şu sonuç çıkıyor , tüm insanlık hergün bu sinir bozucu captcha'ları yazarak günde yaklaşık 500,000 saat harcıyor .
+sonra kendimi kötü hissetmeye başladım .
+ve sonra düşünmeye başladım , tabi ki , _UNK_ vazgeçemeyiz , çünkü web güvenliği bir şekilde onlara dayanıyor .
+ama sonra bu _UNK_ insanlığa faydalı olacak bir şekilde kullanabilir miyiz diye düşünmeye başladım ?
+görüyorsunuz , olay bu .
+bir captcha _UNK_ 10 saniye içinde , beyniniz muhteşem birşey yapıyor .
+beyniniz henüz bilgisayarların yapamadığı birşeyi yapıyor .
+peki size bu 10 saniye içinde bu faydalı işi _UNK_ miyiz ?
+başka bir deyişle , henüz bilgisayarların çözemediği , bir kişinin her captcha _UNK_ bu sorunun da bir kısmını çözmesini sağlayan 10 saniyelik küçük parçalara _UNK_ büyük sorunlar var mı ?
+ve bunun cevabı " evet " , ve şu an bunu yapıyoruz .
+şunu bilmiyor olabilirsiniz ama bugünlerde captcha'yı yazarken sadece insan olduğunuzu doğrulamakla kalmıyor , aynı zamanda aslında bize kitapları _UNK_ yardımcı oluyorsunuz .
+size nasıl çalıştığını anlatayım .
+kitapları dijitalleştirmeye çalışan çok fazla proje var .
+google'ın var . the internet _UNK_ var .
+amazon , şimdi kindle ile , kitapları dijitalleştirmeye çalışıyor .
+temelde şöyle çalışıyor eski bir kitapla başlıyorsunuz .
+bunlardan daha önce gördünüz , değil mi ? kitap gibi ?
+bir kitapla başlıyorsunuz ve sonra onu _UNK_ .
+şimdi bir kitabı taramak kitabın her sayfasının dijital fotoğrafını çekmek gibi birşey .
+kitabın her sayfası için bir resim veriyor size .
+bu kitabın her sayfası için bir yazılı resim .
+süreçteki bir sonraki adımda bilgisayarın bu resimdeki tüm kelimeleri deşifre etmesi gerekiyor .
+bunun için ocr isimli bir teknoloji kullanıyor , optik karakter tanımlaması için , yazının fotoğrafı gerekiyor ve yazıyı çözmeye çalışıyor .
+sorun şu ki ocr mükemmel değil .
+özellikle mürekkebin _UNK_ ve sayfaların _UNK_ daha eski kitaplarda , ocr tüm kelimeleri tanıyamıyor .
+örneğin , 50 yıl önce yazılmış şeylerde , bilgisayar kelimelerin yaklaşık yüzde 30'unu tanıyamıyor .
+bu yüzden şunu yapıyoruz , bilgisayarın tanıyamadığı bütün kelimeleri alıyoruz ve insanların i̇nternette bir captcha yazarken bunları bizim için okumalarını sağlıyoruz .
+yani bir daha ki sefere bir captcha yazdığınızda , yazdığınız kelimeler aslında _UNK_ olan kitapların bilgisayarın tanıyamadığı kelimeleri olacak .
+ve artık günümüzde bir yerine iki kelimenin olmasının nedeni şu , görüyorsunuz , kelimelerden biri sistemin kitaptan bulduğu bir kelime , ne olduğunu bilmiyordu ve bunu size sunacak .
+ama bunu cevabını bilmediği için bunu sizin için _UNK_ .
+bu yüzden size bir kelime daha veriyoruz , bilgisayarın cevabını bildiği bir kelime .
+size hangisinin hangisi olduğunu _UNK_ ve ikisini de yazmanızı istiyoruz .
+ve eğer sistemin çoktan cevabını bildiği doğru kelimeyi yazarsanız , sizi insan olarak kabul eder , ve ayrıca diğer kelimeyi de doğru _UNK_ düşünür .
+ve bu süreci 10 farklı kişi için tekrar edersek ve hepsi yeni kelimenin ne olduğu konusunda hem fikir olursa , bir kelimeyi daha doğru bir şekilde _UNK_ oluyoruz .
+yani sistem bu şekilde işliyor .
+ve aslında , bunu yapmaya başlayalı ü ç ya da dört yıl geçti , birçok websitesi insanların vakitlerini harcadıkları eski captcha'yı insanların kitapları dijitalleştirmeye yardımcı olduğu yeni captcha ile değiştirmeye başladı .
+örneğin , _UNK_ .
+yani _UNK_ her bilet alışınızda bir kitabı dijitalleştirmeye yardım ediyorsunuz .
+facebook : her yeni arkadaş eklediğinizde veya birini _UNK_ , bir kitabı dijitalleştirmeye yardım ediyorsunuz .
+twitter ve yaklaşık 350,000 başka site recaptcha'yı kullanıyor .
+ve aslında , recaptcha'yı kullanan sitelerin sayısı o kadar fazla ki , bir günde _UNK_ kelimelerin sayısı gerçekten çok fazla .
+günde yaklaşık 100 milyon , ki bu da yılda yaklaşık iki buçuk milyon kitaba eşdeğer .
+ve bu insanların i̇nternette captcha'ları yazmasıyla her seferde tek kelime ile oluyor .
+tabi ki , günde çok fazla kelime yazdığımız için , komik şeyler olabiliyor .
+bu gerçekten doğru çünkü insanlara rastgele seçilmiş i̇ngilizce kelimeleri yan yana veriyoruz .
+çok komik şeyler olabiliyor .
+örneğin , bu kelimeyi sunduk .
+" _UNK_ " kelimesi , bunda bir sorun yok .
+ama bunu rastgele seçilen başka bir kelimeyle sunduğunuzda , kötü şeyler olabilir .
+başımıza bu geliyor .
+daha da kötüsü , bunu gösterdiğimiz sitenin adı tanrı'nın krallığının _UNK_ .
+oops .
+i̇şte gerçekten kötü olan başka bir tanesi .
+_UNK_ yani hergün solcu ve _UNK_ aşağılamaya devam ediyoruz .
+tabi ki , sadece insanları _UNK_ kalmıyoruz .
+olay şu , iki rastgele seçilmiş kelime sunduğumuz için , ilginç şeyler olabiliyor .
+hatta bu durum on binlerce insanın katıldığı bir i̇nternet etkinliğine neden oldu , buna captcha sanatı deniyor .
+eminim bir kaçınız bunu duymuştur .
+bu şekilde oluyor .
+düşünün ki i̇nterneti kullanıyorsunuz ve bir şekilde tuhaf olduğunu düşündüğünüz bir captcha görüyorsunuz , bu captcha gibi .
+sonra yapmanız gereken şey bunun ekran resmini çekmek .
+sonra tabi ki , captcha dolduruyorsunuz çünkü bize bir kitabı dijitalleştirmede yardım ediyorsunuz .
+ama sonra , önce ekran resmi çekiyorsunuz , ve sonra onunla alakalı birşey çiziyorsunuz .
+i̇şte bu şekilde çalışıyor .
+bunlardan on binlerce var .
+bazıları çok sevimli .
+bazıları daha komik .
+ve bazılarında , paleontolojik _UNK_ gibi , _UNK_ _UNK_ kullanılıyor .
+pekala , bu benim favori recaptcha _UNK_ .
+bu tüm projeyle ilgili en sevdiğim şey .
+bu recaptcha sayesinde bir kitabın en az bir kelimesini dijitalleştirmede yardımcı olan net kişi sayısı : 750 milyon , bu , dünya nüfusunun yüzde 10'undan biraz fazla , bu kadar kişi bilgiyi dijitalleştirmemize yardım etti .
+ve bunun gibi rakamlar araştırma _UNK_ harekete geçiriyor .
+beni araştırmaya sevk eden şey şu : eğer insanların büyük ölçekli başarılarına bakarsanız , insanlığın tarihi açıdan beraber yaptıkları gerçekten büyük şeyler -- örneğin , mısır _UNK_ ya da panama kanalını inşa etmek ya da ay'a adam göndermek -- bunlarla ilgili garip bir gerçek var , ve bu da şu , bunların hepsi aynı sayıda insanla yapıldı .
+çok garip ; hepsi yaklaşık 100,000 insanla yapıldılar .
+ve bunun nedeni , i̇nternetten önce , 100,000 insanı bir araya getirmek , onlara ödeme yapmayı bir kenara bırakın , kesinlikle imkansız .
+ama şimdi _UNK_ , size bilgiyi dijitalleştirmemize yardım eden 750 milyon insanın katıldığı bir projeyi gösterdim .
+yani beni araştırmaya sevk eden soru şuydu , eğer 100,000 kişiyle bir adamı ay'a _UNK_ , 100 milyon kişiyle ne yapabiliriz ?
+bu soruyu temel alarak , üzerinde çalıştığımız çok farklı projeler geliştirdik .
+size beni en çok _UNK_ bahsedeyim .
+bu yaklaşık bir buçuk yıldır üzerinde çok da ses çıkarmadan çalıştığımız bir proje .
+site henüz açılmadı . adı duolingo .
+henüz _UNK_ için , _UNK_ !
+evet , size güvenebilirim .
+proje bu . şu şekilde başladı .
+mezun olmuş bir öğrencime bir soru _UNK_ başladı , severin _UNK_ .
+evet , bu severin hacker .
+mezun olan öğrencime bir soru yönelttim .
+bu arada , beni doğru duydunuz ; soyadı hacker
+ona şu soruyu sordum : nasıl 100 milyon insana web'i ücretsiz olarak her anadile _UNK_ ?
+bu soruyla ilgili söylenebilecek çok şey var .
+öncelikle , web'i çevirmek .
+şu an web çok fazla dile bölünmüş durumda .
+büyük kısmı i̇ngilizce .
+eğer hiç i̇ngilizce bilmiyorsanız , kullanamazsınız .
+başka diller de büyük ölçüde kullanılıyor , ve eğer bu dilleri bilmiyorsanız , kullanamazsınız .
+web'in tamamını en azından büyük bir kısmını çevirmek istiyorum , her anadile .
+yapmak istediğim bu .
+bazılarınız şöyle diyebilir , neden bunun için bilgisayar kullanmıyoruz ?
+neden makine çevirisini kullanamıyoruz ?
+makine çevirisi bu günlerde oradan buradan bazı cümleleri çevirmeye başlıyor .
+neden bunu tüm web'i çevirmek için kullanamıyoruz ?
+sorun şu ki , bu sistem henüz yeterince iyi değil , ve muhtemelen önümüzdeki 15 ila 20 yıl içinde de olmayacak .
+çok fazla hata yapıyor .
+hata _UNK_ bile , çok fazla hata yaptığı için , doğruluğuna güvenmeli _UNK_ bilmiyorsunuz .
+size makine ile çevrilmiş birşeyin örneğini göstereyim .
+aslında bu foruma yazılmış bir yazı .
+javascript hakkında soru sormaya çalışan bir kişiymiş .
+_UNK_ _UNK_ çevrilmiş .
+sadece okuyacağım .
+bu kişi bilgisayar kullanarak çeviri yaptığı için özür _UNK_ başlıyor .
+bir sonraki cümle sorunun giriş kısmı olacak .
+birşeyi açıklıyor .
+unutmayın , bu javascript hakkında bir soru .
+sonra sorunun ilk kısmı geliyor .
+sonra sorunun en sevdiğim kısmı geliyor .
+ve sonra son kısım , ki bu tüm yazının en sevdiğim kısmı .
+tamam , yani bilgisayar çevirisi henüz yeterince iyi değil .
+soruya geri dönelim .
+yani tüm web'i çevirmek için insanlara ihtiyacım var .
+şimdi soracağınız bir sonraki soru şu olabilir , neden bunun için insanları işe almıyoruz ?
+tüm web'i çevirmek için profesyonel _UNK_ işe alabilirdik .
+bunu yapabilirdik .
+malesef , son derece pahalı olurdu .
+örneğin tüm web'in , wikipedia'nın küçük , çok küçük bir kısmını başka bir dile , i̇spanyolcaya çevirmek .
+wikipedia'nın _UNK_ var , ama i̇ngilizce olanına kıyasla çok küçük bir oranda .
+i̇ngilizce olanın yaklaşık yüzde 20'si kadar .
+eğer kalan yüzde 80'i i̇spanyolcaya çevirmek isteseydik , 50 milyon dolara _UNK_ -- ve bu en çok _UNK_ , dış kaynakları kullanılan bir ülkenin şartlarında .
+yani çok pahalı olurdu .
+bizim yapmak istediğimiz şeyse 100 milyon insana web'i her anadile tercüme ettirmek , bedavaya .
+eğer yapmak istediğiniz şey buysa , iki oldukça büyük engelle karşılaşacağınızı çabucak fark ediyorsunuz .
+i̇lki iki dile de hakim kişilerin azlığı .
+bize tercüme yapmakta yardımcı olmaya yetecek kadar iyi iki dil kullanabilen 100 milyon kişi var mıdır bilmiyorum .
+bu büyük bir sorun .
+karşılaşacağınız bir diğer problem ise motivasyon eksikliği .
+i̇nsanları web'i bedavaya tercüme etmeleri için nasıl motive edebiliriz ?
+normalde , bunun için insanlara ödeme yaparsınız .
+peki onları bunu bedavaya yapmaya nasıl motive ederiz ?
+bunu düşünmeye başladığımızda , bu iki konu bizi engelledi .
+ama sonra fark ettik ki , aslında bu iki sorunu aynı çözüm yoluyla aşabiliriz .
+bir taşla iki kuş vurmanın bir yolu var .
+ve bu da tercüme yapmayı milyonlarca insanın yapmak isteyeceği bir hale , ve ayrıca iki dile hakim _UNK_ sorununa çözüm bulmaya , ve dil eğitimine dönüştürmek .
+bugün görüyoruz ki , 1.2 milyardan fazla insan yabancı dil öğreniyor .
+i̇nsanlar gerçekten yabancı bir dil öğrenmek istiyor .
+ve sadece okulda yapmak zorunda oldukları için değil .
+örneğin , yalnızca amerika birleşik devletleri'nde , yeni bir dil öğrenmek için _UNK_ 500 dolardan fazla para veren beş milyondan fazla kişi var .
+yani insanlar gerçekten yeni bir dil öğrenmek istiyor .
+son bir buçuk yıldır yeni bir websitesi üzerinde çalışıyoruz -- adı duolingo -- ana fikir insanların web'i eş zamanlı tercüme ederek ücretsiz olarak yeni bir dil öğrenmesi .
+ve temelde yaparak öğreniyorlar .
+şu şekilde işliyor eğer başlangıç seviyesinde biliyorsanız çok çok basit cümleler veriyoruz .
+tabi ki web'te çok fazla kolay cümle var .
+çok , çok basit cümleler veriyoruz beraberinde de her kelimenin anlamını .
+tercüme ederek ve başkalarının nasıl tercüme ettiğini görerek , dili öğrenmeye başlıyorsunuz .
+ve siz dili ilerlettikçe , çok daha karmaşık cümleleri tercüme etmenizi istiyoruz .
+ama her zaman yaparak öğreniyorsunuz .
+bu metodla ilgili çılgınca olan şeyse gerçekten işe yarıyor olması .
+herşeyden önce insanlar gerçekten yeni bir dil öğrenmek istiyor .
+sistemi kurmayı bitirdik ve şu an test ediyoruz .
+i̇nsanlar gerçekten bu yöntemle bir dil öğrenebilirler .
+ve neredeyse en iyi dil öğrenme yazılımında olduğu kadar iyi öğreniyorlar .
+yani insanlar gerçekten bir dil öğreniyor .
+ve hem iyi hem de ilginç bir yöntemle öğreniyorlar .
+çünkü görüyorsunuz , insanlar gerçek içeriklerle öğreniyorlar .
+uydurma cümleler yerine kendiliğinden ilginç olan gerçek içeriklerle öğreniyorlar .
+yani insanlar gerçekten bir dil öğreniyorlar .
+ve şaşırtıcı bir şekilde , bu siteyi kullananların çevirileri , daha başlangıç seviyesinde olmalarına rağmen , profesyonel _UNK_ çevirileri kadar iyi , ki bu çok şaşırtıcı .
+size bir örnek göstereyim .
+bu _UNK_ i̇ngilizceye çevrilmiş bir cümle .
+üstteki almanca .
+ortadaki bu çeviri için kelime başına 20 sent alan profesyonel bir i̇ngilizce çevirmen tarafından yapılan i̇ngilizce çeviri .
+alttaki ise duolingo kullanıcıları tarafından yapılan bir çeviri , bu siteyi kullanmaya başlamadan önce hiçbiri almanca bilmiyordu .
+görüyorsunuz , neredeyse mükemmel .
+tabi ki , _UNK_ _UNK_ _UNK_ kadar iyi olabilmesi için burada biraz hile yapıyoruz .
+tek bir profesyonel çevirmenin kalitesine ulaşmak için birçok yeni _UNK_ çevirisini birleştiriyoruz .
+çevirileri birleştirsek bile , site oldukça çabuk çevirebiliyor .
+göstereyim , bu wikipedia'yı _UNK_ i̇spanyolcaya ne kadar hızlı _UNK_ hesabı .
+unutmayın , bu 50 milyon dolar değerinde .
+wikipedia'yı i̇spanyolcaya _UNK_ isteseydik , bunu 100,000 aktif kullanıcıyla beş hafta içinde yapabilirdik .
+ve bir milyon aktif kullanıcıyla ise yaklaşık 80 saatte yapabilirdik .
+grubumun şimdiye kadar üzerinde çalıştığı tüm projelerin milyonlarca kullanıcısı olduğu için , bu projeyle son derece hızlı bir şekilde çevirebileceğimizi düşünüyoruz .
+duolingo ile ilgili beni en çok heyecanlandıran şey dil eğitimi için adil bir iş modeli ihtiyacını karşılıyor olması .
+olay şu : dil eğitiminin mevcut iş modelinde öğrenci para ödüyor , ve özellikle , öğrenci rosetta _UNK_ 500 dolar ödüyor .
+bu mevcut iş modeli .
+bu iş modeliyle ilgili sorun şuydu dünya nüfusunun yüzde 95'inin 500 doları yok .
+yani bu fakirler için son derece adaletsiz bir durum .
+tamamiyle _UNK_ yana bir durum .
+şimdi bakın , _UNK_ , öğrenirken aynı zamanda değer yaratıyorsunuz , birşeyler çeviriyorsunuz -- örneğin , birini çeviri yapmak için _UNK_ .
+bu şekilde finanse edebilirdik .
+i̇nsanlar öğrenirken değer yarattıkları için , para ödemek zorunda değiller , zamanlarıyla ödeme yapıyorlar .
+ama bunda büyüleyici olan şey , zamanlarıyla ödeme yapıyorlar , ama bu aynı zamanda dil öğrenirken bir şekilde harcamak zorunda oldukları zaman .
+_UNK_ güzel yani adil bir iş modeli sunuyor olması -- fakirlere karşı ayırım yapmayan bir model olması .
+i̇şte site bu . teşekkürler .
+i̇şte site burada .
+site henüz açılmadı , ama oraya gidip , özel _UNK_ bir parçası olmak için üye olabilirsiniz , muhtemelen yaklaşık ü ç , dört haftaya kadar faaliyete geçecek .
+bu _UNK_ henüz _UNK_ .
+bu arada , burada konuşan benim , ama aslında duolingo bazılarının burada olduğu gerçekten müthiş bir takımın çalışması .
+teşekkürler .

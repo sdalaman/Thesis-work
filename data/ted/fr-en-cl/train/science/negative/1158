@@ -1,0 +1,99 @@
+beaucoup pensent que conduire est une activité exclusivement réservée à ceux qui peuvent voir .
+une personne aveugle conduisant en sécurité et indépendamment était considérée comme une tâche impossible , jusqu'à maintenant .
+bonjour , mon nom est dennis hong , et nous apportons la liberté et l'indépendance aux aveugles en construisant un véhicule pour les malvoyants .
+donc avant de vous parler de cette voiture pour aveugles , laissez - moi vous présenter rapidement un autre projet sur lequel j'ai travaillé , qui s'appelle le défi urbain darpa .
+il s'agissait de construire une voiture robotique qui peut se conduire elle - même .
+vous pressez le bouton de démarrage , personne ne touche quoi que ce soit , et elle peut atteindre sa destination de façon complètement autonome .
+donc en 2007 , notre équipe a gagné un demi - million de dollars en finissant troisième de cette compétition .
+alors à cette époque , la fédération nationale des aveugles , la nfb , a mis au défi le comité de recherche à propos de qui pourrait développer une voiture permettant à une personne aveugle de conduire en sécurité et indépendamment .
+on a décidé d'essayer .
+parce qu'on pensait " hé , ça doit pas être bien difficile " .
+on avait déjà un véhicule autonome .
+on avait juste à mettre une personne aveugle dedans et ce serait fait , n'est - ce pas ?
+on n'aurait pas pu se méprendre plus .
+ce que la nfb voulait n'était pas un véhicule qui peut transporter une personne aveugle , mais un véhicule dans laquelle une personne aveugle peut prendre des décisions actives et conduire .
+donc nous avons dû tout jeter par la fenêtre et recommencer à zéro .
+alors pour tester cette idée insensée , nous avons développé un petit prototype de _UNK_ pour dunes , pour tester sa faisabilité .
+et durant l'été 2009 , nous avons invité des douzaines de jeunes aveugles à travers le pays et leur avons donné l'opportunité de l'emprunter pour un tour .
+ça a été une expérience absolument extraordinaire .
+mais le problème avec cette voiture était qu'elle était conçue seulement pour être conduite dans un environnement très contrôlé , dans un parking plat et fermé -- même les voies étaient définies par des cônes de signalisation rouges .
+donc fort de ce succès , nous avons décidé de sauter le grand pas suivant , pour développer une vraie voiture pouvant être conduite sur de vraies routes .
+alors comment cela marche - t - il ?
+eh bien , c'est un système plutôt complexe , mais laissez - moi essayer de l'expliquer , peut - être de le simplifier .
+donc il y a trois étapes .
+il y a la perception , le calcul et les interfaces non - visuelles .
+évidemment , le conducteur ne peut pas voir , donc le système doit percevoir l'environnement et rassembler les informations pour le conducteur .
+pour ça , nous utilisons une unité de mesure initiale .
+donc cela mesure l'accélération , l'accélération angulaire -- comme une oreille humaine , une oreille interne .
+nous fusionnons cette information avec une unité gps pour avoir une estimation de la position de la voiture .
+nous utilisons également deux caméras pour détecter les voies de la route .
+et nous utilisons aussi trois télémètres lasers .
+les lasers _UNK_ l'environnement pour détecter les obstacles -- une voiture s'approchant en face , derrière et aussi n'importe quels obstacles entrant sur la route , n'importe quels obstacles autour du véhicule .
+donc toute cette vaste quantité d'information est alors entrée dans l'ordinateur , et l'ordinateur peut faire deux choses .
+l'une est , tout d'abord , de traiter cette information pour avoir une appréhension de l'environnement -- ça , ce sont les voies de la route , voici les obstacles -- et transmettre cette information au conducteur .
+le système est également suffisamment intelligent pour comprendre la façon la plus sûre de faire fonctionner la voiture .
+donc on peut aussi générer des instructions sur comment utiliser les contrôles du véhicule .
+mais le problème est le suivant : comment transmet - on cette information et ces instructions à quelqu'un qui ne peut pas voir assez rapidement et précisément pour qu'il puisse conduire ?
+alors pour cela , nous avons développé beaucoup de différentes sortes de technologie d'interface - utilisateur non - visuelle .
+donc en commençant par un système de _UNK_ en trois dimensions , une veste vibrante , un volant à déclic avec commande vocale , une bande sur la jambe , et même une chaussure qui fait pression sur le pied .
+mais aujourd'hui nous allons parler de trois de ces interfaces - utilisateur non - visuelles .
+maintenant la première interface s'appelle un " drivegrip " .
+alors c'est une paire de gants , et elle a un élément vibrant sur les _UNK_ , pour pouvoir transmettre des instructions sur comment se diriger -- à propos de la direction et de l'intensité .
+un autre dispositif s'appelle le " speedstrip " .
+donc c'est une chaise -- en fait , c'est en réalité une chaise de massage .
+nous l'avons vidée , et nous avons réarrangé les éléments vibrants selon des schémas différents .
+et on les déclenche pour transmettre des informations concernant la vitesse , ainsi que des instructions sur comment utiliser l'accélérateur et la pédale de frein .
+donc par ici , vous pouvez voir comment l'ordinateur comprend l'environnement .
+et parce que vous ne pouvez pas voir les vibrations , nous avons en fait mis des led rouges sur le conducteur , pour que l'on puisse vraiment voir ce qui ce passe .
+ce sont les données sensorielles , et ces données sont transmises aux dispositifs via l'ordinateur .
+donc ces deux dispositifs , " drivegrip " et " speedstrip " , sont très efficaces .
+mais le problème est que ce sont des dispositifs _UNK_ des instructions .
+donc ce n'est pas vraiment la liberté , n'est - ce - pas ?
+l'ordinateur vous dit comment conduire -- de tourner à gauche , de tourner à droite , d'accélérer , d'arrêter .
+on appelle cela le problème du conducteur du siège arrière .
+donc nous nous éloignons des dispositifs qui donnent des instructions , et désormais nous nous concentrons plus sur les dispositifs _UNK_ .
+un bon exemple d'interface - utilisateur non - visuel et _UNK_ s'appelle " airpix " .
+alors , pensez à cela comme à un écran pour les aveugles .
+donc c'est une petite tablette , qui a plein de trous , et de l'air comprimé en sort , de sorte que ça peut réellement dessiner des images .
+donc même si vous êtes aveugle , vous pouvez mettre votre main au - dessus , et vous pouvez voir les voies de la route et les obstacles .
+en fait , vous pouvez aussi changer la fréquence de l'air qui sort et éventuellement la température .
+donc c'est en réalité une interface - utilisateur _UNK_ .
+alors ici vous pouvez voir la caméra de gauche , la caméra de droite depuis le véhicule et comment l'ordinateur interprète cela et envoie les informations à l ' " airpix " .
+pour cela , nous montrons un simulateur , une personne aveugle qui conduit en utilisant l ' " airpix " .
+ce simulateur était aussi très utile pour former les conducteurs aveugles et aussi tester rapidement différents types d'idées pour différents types d'interfaces - utilisateur non - visuelles .
+donc en gros , c'est comme cela que ça fonctionne .
+alors il y a juste un mois , le 29 janvier [ 2011 ] , nous avons dévoilé ce véhicule au public pour la première fois , au circuit international de daytona , internationalement renommé , lors des 24 heures de daytona .
+nous avons également eu des surprises . jetons un œil .
+présentateur : c'est un jour historique .
+il va vers la tribune , amis de la fédération [ la _UNK_ ] , c'est la tribune maintenant .
+et il suit cette camionette qui est devant lui .
+eh bien , voici la première boîte .
+maintenant voyons si mark _UNK_ .
+il le fait . il la _UNK_ par la droite .
+la troisième boîte est sortie . la quatrième boîte est sortie .
+et il trace parfaitement son chemin entre les deux .
+il se rapproche de la camionette pour la doubler .
+eh bien , c'est tout ce dont il est question , cette sorte de démonstration dynamique d'audace et d'ingéniosité .
+il s'approche de la fin de la piste , se fait un chemin entre les tonneaux installés là .
+dennis hong : je suis tellement content pour toi .
+mark va me ramener à l'hôtel .
+mark _UNK_ : oui .
+dh : donc depuis que nous avons commencé ce projet , nous avons reçu des centaines de lettres , de courriers électroniques , de coups de téléphone de gens de partout dans le monde .
+des lettres pour nous remercier , mais parfois on reçoit aussi des lettres drôles comme celle - ci : " maintenant je comprends pourquoi il y a du braille sur un distributeur de billets pour conducteurs . "
+mais parfois -- mais parfois je reçois aussi -- je _UNK_ pas ça des lettres d'insultes -- mais des lettres exprimant une inquiétude très sérieuse : " dr. hong , êtes - vous fou , pour essayer de mettre les aveugles sur la route ?
+vous devez avoir perdu la raison . "
+mais ce véhicule est un véhicule prototype , et il ne va pas être sur la route avant d'être démontré aussi sûr que , ou plus sûr , qu'un véhicule d'aujourd'hui .
+et je crois vraiment que cela peut arriver .
+mais même , la société acceptera - t - elle , les gens accepteraient - ils une idée aussi radicale ?
+comment allons - nous gérer l'assurance ?
+comment allons - nous délivrer les permis de conduire ?
+il y a plein d'obstacles divers au - delà des défis technologiques que nous devons adresser avant que cela ne devienne une réalité .
+bien sûr , le principal but de ce projet est de développer une voiture pour les aveugles .
+mais potentiellement plus important que cela est la formidable valeur de la technologie dérivée qui peut émerger de ce projet .
+les senseurs utilisés voient à travers l'obscurité , le brouillard et la pluie .
+et ensemble avec ce nouveau type d'interfaces , nous pouvons utiliser ces technologies et les appliquer pour rendre les voitures pour voyants plus sûres .
+ou pour les aveugles , les appareils électriques du quotidien -- dans le contexte éducatif , au bureau .
+imaginez seulement , dans une salle de classe un professeur écrit au tableau et un étudiant aveugle peut voir ce qui est écrit et lire en utilisant l'une de ces interfaces non - visuelles .
+cela n'a pas de prix .
+donc aujourd'hui , les choses que je vous ai montrées , ce n'est que le début .
+merci beaucoup .

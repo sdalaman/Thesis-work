@@ -1,0 +1,166 @@
+je	vais	 parle 	 r 	 	du	cerveau	stratège	.
+nous	allons	utiliser	une	combinaison	 inhabituel 	 le 	 	 d' 	 outil 	 s 	 	de	la	 théo 	 rie 	 	des	jeux	 e 	 t 	 	des	 neuro 	 science 	 s 	 	pour	 comprend 	 re 	 	comment	les	 gen 	 s 	 	 inter 	 agissent 	 	 social 	 ement 	 	 lorsqu' 	 il 	 	 s 	 'agit 	 	 d' 	 argent 	 	.
+la	 théo 	 rie 	 	des	jeux	est	à	la	base	une	branche	des	 ma 	 thématique 	 s 	 	 appliqué 	 es 	 	,	utilisée	 principal 	 ement 	 	en	économie	 e 	 t 	 	en	 science 	 s 	 	 politique 	 s 	 	,	 e 	 t 	 	un	peu	en	biologie	,	qui	nous	donne	une	 taxi 	 nomie 	 	 ma 	 thématique 	 	de	la	vie	 social 	 e 	 	 e 	 t 	 	 pré 	 dit 	 	ce	que	les	 gen 	 s 	 	 s 	 ont 	 	 susceptible 	 s 	 	de	faire	 e 	 t 	 	ce	 qu'il 	 s 	 	 croie 	 nt 	 	que	les	 autre 	 s 	 	 fe 	 ront 	 	dans	des	cas	où	les	 action 	 s 	 	de	chacun	 affecte 	 nt 	 	tout	le	monde	.
+ça	 inclu 	 t 	 	beaucoup	de	 chose 	 s 	 	:	la	 compéti 	 tion 	 	,	la	 co 	 opération 	 	,	la	 négocia 	 tion 	 	,	des	jeux	comme	cache	-	cache	 e 	 t 	 	le	 poke 	 r 	 	.
+voici	un	simple	jeu	pour	 commence 	 r 	 	.
+tout	le	monde	 choisi 	 t 	 	un	certain	nombre	de	0	à	100	,	nous	allons	 calcul 	 er 	 	la	moyenne	de	 ce 	 s 	 	 nombre 	 s 	 	,	 e 	 t 	 	celui	qui	est	plus	 pro 	 che 	 	de	deux	-	tiers	de	la	moyenne	gagne	un	 pri 	 x 	 	.
+donc	vous	voulez	être	un	peu	en	-	dessous	du	nombre	moyen	,	 mai 	 s 	 	pas	trop	loin	en	-	dessous	,	 e 	 t 	 	tout	le	monde	veut	être	un	peu	en	-	dessous	du	nombre	moyen	.
+pensez	au	nombre	que	vous	 pourri 	 ez 	 	 choisi 	 r 	 	.
+comme	vous	le	pensez	,	c'est	un	modèle	 simplifi 	 é 	 	de	quelque	chose	comme	 vend 	 re 	 	sur	le	marché	 bour 	 s 	 ier 	 	sur	un	marché	en	hausse	.	n'est	-	ce	pas	?
+vous	ne	voulez	pas	 vend 	 re 	 	trop	tôt	,	parce	que	vous	 passer 	 ez 	 	à	côté	des	 profit 	 s 	 	,	 mai 	 s 	 	vous	ne	voulez	pas	 attend 	 re 	 	trop	tard	 jus 	 qu' 	 à 	 	ce	que	tout	le	monde	 vend 	 e 	 	,	 déclenc 	 hant 	 	un	crash	.
+vous	voulez	être	un	peu	en	avance	sur	 vo 	 s 	 	 concurrent 	 s 	 	,	 mai 	 s 	 	pas	trop	loin	 dev 	 ant 	 	.
+bon	,	voici	deux	 théo 	 ries 	 	sur	comment	les	 gen 	 s 	 	 pour 	 raient 	 	penser	le	problème	,	 e 	 t 	 	nous	verrons	 en 	 suite 	 	les	 donné 	 es 	 	.
+ certain 	 es 	 	 chose 	 s 	 	vous	 paraît 	 ront 	 	 famil 	 ière 	 s 	 	parce	que	,	peut	-	être	,	vous	pensez	ainsi	.	je	vais	utiliser	ma	 théo 	 rie 	 	du	cerveau	pour	 vérifie 	 r 	 	.
+beaucoup	de	 gen 	 s 	 	 s 	 e 	 	 dis 	 ent 	 	,	``	je	ne	 s 	 ais 	 	 vrai 	 ment 	 	pas	ce	que	les	 autre 	 s 	 	vont	 choisi 	 r 	 	,	donc	je	pense	que	la	moyenne	 s 	 era 	 	50.	``	ils	ne	 s 	 ont 	 	pas	du	tout	 stratégique 	 s 	 	.
+``	 e 	 t 	 	je	vais	prendre	deux	tiers	de	50.	ça	fait	33.	``	c'est	un	début	.
+ d' 	 autre 	 s 	 	 personne 	 s 	 	qui	 s 	 ont 	 	un	peu	plus	 sophistiqué 	 es 	 	,	 utilise 	 nt 	 	la	mémoire	de	travail	,	 e 	 t 	 	 s 	 e 	 	 dis 	 ent 	 	:	``	je	pense	que	les	 gen 	 s 	 	vont	 choisi 	 r 	 	33	parce	 qu'il 	 s 	 	 pense 	 nt 	 	que	la	moyenne	est	50	,	alors	je	 prend 	 s 	 	22	,	ce	qui	fait	deux	tiers	de	33	``	.
+ils	 effectue 	 nt 	 	un	niveau	de	 ré 	 flexion 	 	 supplément 	 aire 	 	,	à	deux	 étape 	 s 	 	.
+c'est	 mi 	 eux 	 	.	 e 	 t 	 	bien	sûr	,	en	principe	,	vous	 pourri 	 ez 	 	faire	trois	,	quatre	ou	plus	,	 mai 	 s 	 	ça	commence	à	 de 	 venir 	 	très	difficile	.
+tout	comme	dans	les	 autre 	 s 	 	 domaine 	 s 	 	 e 	 t 	 	la	langue	,	nous	 s 	 avons 	 	qu'il	est	difficile	pour	les	 gen 	 s 	 	 d' 	 analyse 	 r 	 	des	 phrase 	 s 	 	très	 complex 	 es 	 	avec	une	 sort 	 e 	 	de	structure	récursive	.
+cela	 s' 	 appelle 	 	une	 théo 	 rie 	 	de	 hiérarch 	 ie 	 	 cognitiv 	 e 	 	.
+j'ai	travaillé	dessus	,	ainsi	que	 quelque 	 s 	 	 autre 	 s 	 	_UNK_	,	 e 	 t 	 	cela	indique	un	type	de	 hiérarch 	 ie 	 	ainsi	que	 quelque 	 s 	 	 hypothèse 	 s 	 	sur	 com 	 bien 	 	de	 personne 	 s 	 	qui	 s' 	 arrête 	 nt 	 	à	 cha 	 que 	 	étape	 e 	 t 	 	comment	les	 étape 	 s 	 	de	 ré 	 flexion 	 	 s 	 ont 	 	 affecté 	 es 	 	par	de	 nombre 	 uses 	 	 variable 	 s 	 	 e 	 t 	 	 individu 	 s 	 	 variable 	 s 	 	,	comme	nous	le	verrons	dans	un	instant	.
+une	 tout 	 e 	 	autre	 théo 	 rie 	 	,	plus	populaire	 e 	 t 	 	plus	vieille	,	 attribu 	 ée 	 	en	 grand 	 e 	 	 parti 	 e 	 	à	 jo 	 hn 	 	nash	,	``	un	homme	 d' 	 exception 	 	``	,	est	ce	 qu' 	 on 	 	appelle	 l' 	 analyse 	 	de	 l' 	 équilibre 	 	.
+donc	,	si	vous	avez	 dé 	 jà 	 	 pri 	 s 	 	un	cours	de	 théo 	 rie 	 	des	jeux	de	 n' 	 importe 	 	quel	niveau	,	vous	en	 connaisse 	 z 	 	 dé 	 jà 	 	un	peu	à	ce	sujet	.
+un	équilibre	est	un	état	 ma 	 thématique 	 	dans	 le 	 quel 	 	tout	le	monde	a	compris	 exacte 	 ment 	 	ce	que	tout	le	monde	va	faire	.
+c'est	un	concept	très	utile	,	 mai 	 s 	 	au	niveau	du	 comporte 	 ment 	 	,	il	peut	ne	pas	expliquer	 exacte 	 ment 	 	ce	que	font	les	 individu 	 s 	 	la	première	fois	 qu'il 	 s 	 	 joue 	 nt 	 	à	ce	type	de	jeux	 économique 	 s 	 	ou	dans	des	 situ 	 ations 	 	 concrète 	 s 	 	du	monde	extérieur	.
+dans	ce	cas	,	 l' 	 équilibre 	 	fait	une	 pré 	 vision 	 	très	audacieuse	,	qui	est	que	tout	le	monde	veut	être	en	-	dessous	des	 autre 	 s 	 	,	 e 	 t 	 	qu'au	final	ils	 joue 	 nt 	 	zéro	.
+voyons	ce	qu'il	 s 	 e 	 	passe	.	 ce 	 tte 	 	expérience	a	été	 répli 	 quée 	 	de	très	 nombre 	 uses 	 	fois	.
+une	des	 première 	 s 	 	a	été	 réalisé 	 e 	 	dans	les	 année 	 s 	 	90	par	moi	 e 	 t 	 	_UNK_	nagel	 e 	 t 	 	 d' 	 autre 	 s 	 	.
+il	 s 	 'agit 	 	 d' 	 une 	 	belle	base	de	 donné 	 es 	 	de	9000	 personne 	 s 	 	qui	ont	écrit	à	trois	 jour 	 naux 	 	 e 	 t 	 	 magazin 	 es 	 	qui	avaient	fait	un	 con 	 cours 	 	.
+la	 con 	 signe 	 	était	 d' 	 envoyer 	 	 s 	 es 	 	 nombre 	 s 	 	 e 	 t 	 	celui	qui	est	 pro 	 che 	 	des	deux	tiers	de	la	moyenne	gagne	un	gros	 pri 	 x 	 	.
+ e 	 t 	 	vous	voyez	,	il	y	a	tant	de	 donné 	 es 	 	ici	que	nous	 pour 	 rons 	 	très	bien	voir	les	 pic 	 s 	 	.
+il	y	en	a	un	à	33.	 ce 	 s 	 	 individu 	 s 	 	 effectue 	 nt 	 	une	étape	.
+il	y	a	un	autre	pic	visible	à	22	.
+ e 	 t 	 	 note 	 z 	 	,	au	passage	,	que	la	 plus 	 part 	 	des	 individu 	 s 	 	ont	 choisi 	 s 	 	des	 nombre 	 s 	 	 pro 	 che 	 s 	 	de	 ce 	 s 	 	 val 	 eurs 	 	.
+ils	 n' 	 ont 	 	pas	 nécessaire 	 ment 	 	choisi	 exacte 	 ment 	 	33	ou	22	.
+il	y	a	un	peu	de	bruit	 auto 	 ur 	 	de	 ce 	 s 	 	 val 	 eurs 	 	.
+ mai 	 s 	 	vous	 pouv 	 ez 	 	voir	 ce 	 s 	 	 pic 	 s 	 	,	 e 	 t 	 	qu'il	y	en	a	trois	.
+il	y	a	un	autre	groupe	de	 personne 	 s 	 	qui	 semble 	 nt 	 	avoir	une	prise	ferme	sur	 l' 	 analyse 	 	de	 l' 	 équilibre 	 	,	parce	 qu'il 	 s 	 	ont	choisi	zéro	ou	un	.
+ mai 	 s 	 	ils	 perd 	 ent 	 	,	pas	vrai	?
+parce	que	 choisi 	 r 	 	un	nombre	aussi	faible	est	 ré 	 ellement 	 	un	mauvais	choix	si	les	 autre 	 s 	 	ne	font	pas	de	 l' 	 analyse 	 	de	 l' 	 équilibre 	 	.
+ils	 s 	 ont 	 	donc	 intelligent 	 s 	 	,	 mai 	 s 	 	 pauvre 	 s 	 	.
+où	 s 	 e 	 	 passe 	 nt 	 	 ce 	 s 	 	 chose 	 s 	 	dans	le	cerveau	?
+une	étude	de	_UNK_	 e 	 t 	 	nagel	donne	une	réponse	nette	 e 	 t 	 	 intéressant 	 e 	 	.
+ils	ont	fait	 joue 	 r 	 	ce	jeu	à	des	 individu 	 s 	 	alors	 qu'il 	 s 	 	étaient	 scanné 	 s 	 	sous	irm	,	 e 	 t 	 	dans	deux	 condition 	 s 	 	:	dans	 certain 	 s 	 	 essai 	 s 	 	on	leur	dit	 qu'il 	 s 	 	 joue 	 nt 	 	avec	une	autre	personne	qui	joue	en	ce	moment	même	 e 	 t 	 	avec	qui	les	choix	 s 	 e 	 ront 	 	 associé 	 s 	 	à	la	fin	,	 détermi 	 nant 	 	les	 gain 	 s 	 	.
+dans	 d' 	 autre 	 s 	 	 essai 	 s 	 	,	on	leur	dit	 qu'il 	 s 	 	 joue 	 nt 	 	contre	 l' 	 ordinateur 	 	.
+ils	 s 	 ont 	 	 choisi 	 s 	 	 aléatoire 	 ment 	 	.
+ce	que	vous	voyez	ici	est	une	 sous 	 traction 	 	des	 zone 	 s 	 	dans	 les 	 quelle 	 s 	 	il	y	a	le	plus	 d' 	 activité 	 	 cérébr 	 ale 	 	quand	vous	 joue 	 z 	 	contre	des	 autre 	 s 	 	 gen 	 s 	 	que	quand	vous	 joue 	 z 	 	contre	 l' 	 ordinateur 	 	.
+ e 	 t 	 	vous	voyez	 l' 	 activité 	 	dans	 certain 	 es 	 	 région 	 s 	 	que	nous	avons	 vue 	 s 	 	aujourd'hui	,	le	cortex	 pré 	 frontal 	 	 média 	 l 	 	,	 dors 	 o 	 média 	 l 	 	,	le	cortex	 pré 	 frontal 	 	_UNK_	,	le	cortex	 cin 	 gu 	 laire 	 	antérieur	,	une	zone	qui	est	 impliqu 	 ée 	 	dans	de	 nombre 	 ux 	 	 type 	 s 	 	de	 ré 	 solution 	 	de	conflit	,	comme	si	vous	 joui 	 ez 	 	à	``	 jac 	 ques 	 	a	dit	``	,	 e 	 t 	 	aussi	le	 carre 	 four 	 	temporo	-	pariétal	droite	 e 	 t 	 	gauche	.
+il	 s 	 'agit 	 	de	 tout 	 es 	 	les	 zone 	 s 	 	qui	 s 	 ont 	 	 reconnu 	 es 	 	avec	une	quasi	-	certitude	comme	 fais 	 ant 	 	 parti 	 e 	 	de	ce	qui	est	appelé	un	circuit	de	la	``	 théo 	 rie 	 	de	 l' 	 esprit 	 	``	,	ou	``	circuit	de	 mental 	 isation 	 	``	.
+ autre 	 ment 	 	dit	,	c'est	un	circuit	qui	sert	à	imaginer	ce	que	 pour 	 raient 	 	faire	les	 autre 	 s 	 	 personne 	 s 	 	.
+donc	 voil 	 à 	 	 quelque 	 s 	 	-	 une 	 s 	 	des	 première 	 s 	 	 étude 	 s 	 	 analys 	 ant 	 	 ce 	 s 	 	liens	dans	la	 théo 	 rie 	 	des	jeux	.
+que	 s 	 e 	 	passe	-	t	-	il	avec	 ce 	 s 	 	 gen 	 re 	 s 	 	à	une	ou	deux	 étape 	 s 	 	?
+nous	 class 	 ons 	 	les	 sujet 	 s 	 	 s 	 e 	 lon 	 	leur	choix	,	 e 	 t 	 	puis	nous	 regard 	 ons 	 	la	différence	entre	 joue 	 r 	 	contre	des	 humain 	 s 	 	 e 	 t 	 	 joue 	 r 	 	contre	des	 ordinateur 	 s 	 	,	 e 	 t 	 	 quelle 	 s 	 	 zone 	 s 	 	du	cerveau	 s 	 ont 	 	 active 	 s 	 	dans	 ce 	 s 	 	deux	cas	.
+en	haut	vous	voyez	les	 joueur 	 s 	 	à	une	étape	.
+il	 n' 	 y 	 	a	 pratique 	 ment 	 	 aucun 	 e 	 	différence	.
+la	raison	est	 qu'il 	 s 	 	 traite 	 nt 	 	les	 autre 	 s 	 	 personne 	 s 	 	comme	un	ordinateur	,	donc	le	cerveau	fait	pareil	.
+pour	les	 joueur 	 s 	 	en	bas	,	vous	voyez	 tout 	 e 	 	 l' 	 activité 	 	dans	le	_UNK_	 dors 	 o 	 média 	 l 	 	.
+nous	 s 	 avons 	 	que	 ce 	 s 	 	 joueur 	 s 	 	à	deux	 étape 	 s 	 	 pro 	 cède 	 nt 	 	 diffé 	 re 	 ment 	 	.
+ main 	 tenant 	 	,	si	vous	 dev 	 iez 	 	prendre	du	 re 	 cul 	 	 e 	 t 	 	vous	``	que	 pouv 	 ons 	 	-	nous	faire	avec	 ce 	 tte 	 	 in 	 formation 	 	?	``	vous	 pourri 	 ez 	 	être	en	mesure	de	 regarde 	 r 	 	 l' 	 activité 	 	 cérébr 	 ale 	 	 e 	 t 	 	dire	,	``	 ce 	 tte 	 	personne	 s 	 era 	 	un	bon	joueur	de	 poke 	 r 	 	``	ou	,	``	 ce 	 tte 	 	personne	est	 social 	 ement 	 	naïve	``	 e 	 t 	 	nous	 pourri 	 ons 	 	aussi	être	en	mesure	 d' 	 étudier 	 	des	 chose 	 s 	 	comme	le	 développe 	 ment 	 	du	cerveau	des	 adolescent 	 s 	 	dès	que	nous	aurons	une	idée	de	 l' 	 endroit 	 	où	ce	circuit	existe	.
+très	bien	.	 prépare 	 z 	 	-	vous	.
+je	vous	épargne	de	 l' 	 activité 	 	 cérébr 	 ale 	 	,	parce	que	vous	 n' 	 avez 	 	pas	besoin	 d' 	 utiliser 	 	 vo 	 s 	 	 cellule 	 s 	 	 ci 	 liée 	 s 	 	.
+vous	 dev 	 ez 	 	utiliser	 ce 	 s 	 	 cellule 	 s 	 	pour	 ré 	 fléchir 	 	à	ce	jeu	.
+il	 s 	 'agit 	 	 d' 	 un 	 	jeu	de	 négocia 	 tion 	 	.
+deux	 joueur 	 s 	 	 scanné 	 s 	 	avec	des	 électro 	 des 	 	eeg	vont	 négocie 	 r 	 	de	un	à	six	 dollar 	 s 	 	.
+ s' 	 ils 	 	peuvent	le	faire	en	10	 seconde 	 s 	 	,	ils	 gagne 	 nt 	 	 effective 	 ment 	 	 ce 	 tte 	 	somme	.
+si	à	la	fin	des	10	 seconde 	 s 	 	ils	 n' 	 ont 	 	pas	conclu	un	accord	,	ils	ne	 gagne 	 nt 	 	rien	.
+c'est	un	 gen 	 re 	 	 d' 	 erreur 	 	 commun 	 e 	 	.
+un	joueur	,	celui	à	gauche	,	est	informé	de	 com 	 bien 	 	il	y	a	à	 négocie 	 r 	 	à	 cha 	 que 	 	essai	.
+les	deux	 joueur 	 s 	 	 joue 	 nt 	 	de	 nombre 	 ux 	 	 essai 	 s 	 	avec	des	 somme 	 s 	 	 différent 	 es 	 	à	 cha 	 que 	 	fois	.
+dans	ce	cas	,	_UNK_	 s 	 ait 	 	qu'il	y	a	4	 dollar 	 s 	 	.
+le	joueur	non	informé	ne	 s 	 ait 	 	pas	,	 mai 	 s 	 	il	 s 	 ait 	 	que	le	joueur	informé	 s 	 ait 	 	.
+donc	le	but	pour	le	joueur	non	informé	est	de	 s 	 e 	 	dire	:	``	est	-	ce	que	 ce 	 tte 	 	personne	est	 ré 	 ellement 	 	juste	,	ou	est	-	ce	 qu' 	 elle 	 	me	donne	une	offre	très	basse	dans	le	but	de	me	faire	penser	qu'il	 n' 	 y 	 	a	que	un	ou	deux	 dollar 	 s 	 	à	 partage 	 r 	 	?	``	 au 	 quel 	 	cas	le	joueur	non	informé	pourrait	 rejet 	 er 	 	 l' 	 offre 	 	 e 	 t 	 	ainsi	ne	pas	 arrive 	 r 	 	à	un	accord	.
+donc	il	y	a	ici	une	tension	entre	essayer	 d' 	 obtenir 	 	le	plus	 d' 	 argent 	 	en	 essay 	 ant 	 	de	 pousse 	 r 	 	 l' 	 autre 	 	joueur	à	donner	plus	 d' 	 argent 	 	.
+ e 	 t 	 	ils	 négocie 	 nt 	 	en	 dés 	 ignant 	 	un	nombre	qui	va	de	zéro	à	six	 dollar 	 s 	 	,	 e 	 t 	 	ils	 négocie 	 nt 	 	 com 	 bien 	 	le	joueur	non	informé	obtient	,	 e 	 t 	 	le	joueur	informé	gagne	le	reste	.
+c'est	donc	comme	une	 négocia 	 tion 	 	travail	/	gestion	dans	 la 	 quelle 	 	les	 travaille 	 urs 	 	ne	 connaisse 	 nt 	 	pas	le	 mont 	 ant 	 	des	 bénéfice 	 s 	 	de	la	 socié 	 té 	 	 privé 	 e 	 	,	n'est	-	ce	pas	,	 e 	 t 	 	ils	veulent	peut	-	être	tenir	le	coup	pour	plus	 d' 	 argent 	 	,	 mai 	 s 	 	la	compagnie	pourrait	 voul 	 oir 	 	donner	 l' 	 impression 	 	qu'il	y	a	très	peu	à	 partage 	 r 	 	:	``	je	vous	donne	le	plus	que	je	peux	.	``	 première 	 ment 	 	,	un	peu	de	 comporte 	 ment 	 	.	donc	un	groupe	de	 pair 	 es 	 	de	 sujet 	 s 	 	 joue 	 nt 	 	face	à	face	.
+nous	avons	 d' 	 autre 	 s 	 	 donné 	 es 	 	où	ils	 joue 	 nt 	 	ensemble	 mai 	 s 	 	par	ordinateur	.
+c'est	une	différence	 intéressant 	 e 	 	,	comme	vous	 pouv 	 ez 	 	 l' 	 imaginer 	 	.
+ mai 	 s 	 	un	groupe	de	 pair 	 es 	 	en	face	à	face	 s 	 e 	 	 s 	 ont 	 	mis	 d' 	 accord 	 	pour	 divise 	 r 	 	 l' 	 argent 	 	 équitable 	 ment 	 	à	 cha 	 que 	 	fois	.
+ ennuy 	 eux 	 	.	ce	n'est	pas	intéressant	_UNK_	.
+c'est	bon	pour	eux	.	ils	 s 	 e 	 	font	beaucoup	 d' 	 argent 	 	.
+ mai 	 s 	 	ce	qui	nous	intéresse	c'est	de	 s 	 avoir 	 	si	nous	 pouv 	 ons 	 	dire	quelque	chose	de	la	différence	entre	 accord 	 s 	 	 e 	 t 	 	 dés 	 accord 	 s 	 	.
+donc	voici	le	groupe	de	 sujet 	 s 	 	qui	ont	été	 sou 	 vent 	 	en	 dés 	 accord 	 	.
+ils	 s 	 e 	 	_UNK_	,	ne	 s 	 e 	 	mettent	pas	 d' 	 accord 	 	 e 	 t 	 	 s 	 e 	 	 retrouve 	 nt 	 	avec	moins	 d' 	 argent 	 	.
+ils	 pour 	 raient 	 	 particip 	 er 	 	à	 l' 	 émission 	 	de	 télé 	 vision 	 	``	real	housewives	``	.
+vous	voyez	sur	la	gauche	,	quand	la	somme	à	 divise 	 r 	 	est	un	,	deux	ou	trois	 dollar 	 s 	 	,	il	y	a	 dés 	 accord 	 	une	fois	sur	deux	,	 e 	 t 	 	quand	la	somme	est	de	quatre	,	cinq	ou	six	,	ils	 s 	 e 	 	mettent	 d' 	 accord 	 	assez	 sou 	 vent 	 	.
+cela	s'avère	être	quelque	chose	qui	est	 pré 	 dit 	 	par	un	type	très	compliqué	de	 théo 	 rie 	 	des	jeux	vous	 dev 	 riez 	 	venir	à	caltech	pour	apprendre	à	ce	sujet	.
+c'est	un	peu	trop	compliqué	à	expliqué	 main 	 tenant 	 	,	 mai 	 s 	 	la	 théo 	 rie 	 	dit	que	ce	 gen 	 re 	 	de	 comporte 	 ment 	 s 	 	doit	 s 	 e 	 	 pro 	 duire 	 	.
+ vot 	 re 	 	intuition	pourrait	vous	dire	cela	 égale 	 ment 	 	.
+ main 	 tenant 	 	,	je	vais	vous	 montre 	 r 	 	les	 résultat 	 s 	 	de	l'électro	-	 encéphalo 	 graphie 	 	.
+très	compliqué	.	le	cerveau	de	droite	est	celui	de	la	personne	non	 informé 	 e 	 	,	celui	de	gauche	est	_UNK_	.
+ r 	 appelez 	 	-	vous	que	nous	avons	scanné	les	deux	 cerveau 	 x 	 	au	même	moment	,	nous	 pouv 	 ons 	 	donc	étudier	 l' 	 activité 	 	 synchronisé 	 e 	 	dans	des	 zone 	 s 	 	 identique 	 s 	 	ou	 différent 	 es 	 	,	de	 man 	 ière 	 	 simultané 	 e 	 	,	juste	comme	si	vous	 voul 	 iez 	 	étudier	une	conversation	 e 	 t 	 	que	vous	_UNK_	deux	 personne 	 s 	 	 parl 	 ant 	 	ensemble	.
+vous	 attend 	 riez 	 	une	activité	 commun 	 e 	 	dans	les	 région 	 s 	 	du	 lan 	 gage 	 	 lorsqu' 	 ils 	 	 parle 	 nt 	 	 e 	 t 	 	 commun 	 ique 	 nt 	 	.
+les	 flèche 	 s 	 	 connecte 	 nt 	 	les	 région 	 s 	 	qui	 s 	 ont 	 	 active 	 s 	 	en	même	temps	 e 	 t 	 	la	direction	des	 flèche 	 s 	 	vont	des	 région 	 s 	 	qui	 s 	 ont 	 	 active 	 s 	 	en	premier	,	vers	les	 région 	 s 	 	qui	 s 	 ont 	 	 active 	 s 	 	plus	tard	.
+dans	ce	cas	,	si	vous	regardez	 attentive 	 ment 	 	,	la	 plu 	 part 	 	des	 flèche 	 s 	 	vont	de	droite	à	gauche	.
+c'est	comme	si	_UNK_	du	cerveau	du	sujet	non	informé	 s' 	 active 	 	en	premier	,	 e 	 t 	 	est	 en 	 suite 	 	suivi	par	 l' 	 activité 	 	du	cerveau	informé	.
+ e 	 t 	 	au	passage	,	il	 s 	 'agit 	 	 d' 	 essai 	 s 	 	où	des	 accord 	 s 	 	 s 	 ont 	 	 passé 	 s 	 	.
+il	 s 	 'agit 	 	ici	des	deux	 première 	 s 	 	 seconde 	 s 	 	.
+nous	 n' 	 avons 	 	pas	fini	 d' 	 analyse 	 r 	 	 ce 	 s 	 	 donné 	 es 	 	,	donc	nous	cherchons	 tou 	 jour 	 s 	 	,	 mai 	 s 	 	 l' 	 espoir 	 	est	de	pouvoir	 pré 	 dire 	 	dans	les	deux	 première 	 s 	 	 seconde 	 s 	 	 s' 	 ils 	 	vont	passer	un	accord	ou	non	.
+cela	pourrait	être	très	utile	pour	éviter	les	 litig 	 es 	 	,	les	 divorce 	 s 	 	 compliqué 	 s 	 	 e 	 t 	 	les	 chose 	 s 	 	du	 gen 	 re 	 	.
+ce	 s 	 ont 	 	tous	les	cas	dans	 les 	 quel 	 s 	 	beaucoup	est	perdu	à	cause	des	 retard 	 s 	 	 e 	 t 	 	des	 grève 	 s 	 	.
+voici	le	cas	où	un	 dés 	 accord 	 	 s 	 e 	 	produit	.
+vous	 pouv 	 ez 	 	voir	que	cela	semble	différent	de	_UNK_	.
+il	y	a	beaucoup	plus	de	 flèche 	 s 	 	.
+cela	signifie	que	les	 cerveau 	 x 	 	 s 	 ont 	 	 synchronisé 	 s 	 	plus	 étroite 	 ment 	 	en	 terme 	 s 	 	de	 simultané 	 ité 	 	de	 l' 	 activité 	 	,	 e 	 t 	 	les	 flèche 	 s 	 	vont	 clair 	 ement 	 	de	gauche	à	droite	.
+le	cerveau	informé	semble	 décid 	 er 	 	,	``	nous	allons	 prob 	 able 	 ment 	 	pas	 conclu 	 re 	 	 d' 	 accord 	 	ici	.	``	 e 	 t 	 	puis	arrive	 l' 	 activité 	 	du	cerveau	non	informé	.
+ en 	 suite 	 	je	vais	vous	 présent 	 er 	 	 quelque 	 s 	 	 pro 	 che 	 s 	 	.
+ils	 s 	 ont 	 	 poilu 	 s 	 	,	 puant 	 s 	 	,	 rapide 	 s 	 	 e 	 t 	 	 fort 	 s 	 	.
+vous	 pourri 	 ez 	 	 re 	 penser 	 	à	 vot 	 re 	 	dernier	thanksgiving	.
+peut	-	être	si	vous	aviez	un	chimpanzé	avec	vous	.
+charles	darwin	 e 	 t 	 	moi	 e 	 t 	 	vous	 somme 	 s 	 	 détaché 	 s 	 	de	 l' 	 arbre 	 	 généa 	 logique 	 	des	 chimpanzé 	 s 	 	il	y	a	environ	cinq	 million 	 s 	 	d'années	.
+ils	 s 	 ont 	 	 tou 	 jour 	 s 	 	 no 	 s 	 	 parent 	 s 	 	 génétique 	 s 	 	les	plus	 pro 	 che 	 s 	 	.
+nous	 partage 	 ons 	 	_UNK_	%	de	gènes	.
+nous	 partage 	 ons 	 	plus	de	gènes	avec	eux	que	les	 zèbre 	 s 	 	avec	les	 che 	 vaux 	 	.
+ e 	 t 	 	nous	 somme 	 s 	 	 égale 	 ment 	 	leur	cousin	le	plus	 pro 	 che 	 	.
+ils	ont	plus	de	 re 	 lation 	 	génétique	avec	nous	 qu' 	 avec 	 	les	 gorille 	 s 	 	.
+les	 différence 	 s 	 	de	 comporte 	 ment 	 	entre	 homme 	 s 	 	 e 	 t 	 	 chimpanzé 	 s 	 	 pour 	 raient 	 	nous	en	dire	beaucoup	sur	 l' 	 évolution 	 	du	cerveau	.
+il	 s 	 'agit 	 	 d' 	 un 	 	 fascin 	 ant 	 	test	de	mémoire	de	_UNK_	,	au	japon	,	du	 prima 	 te 	 	research	institute	,	où	ils	ont	beaucoup	mené	ce	type	de	recherche	.
+cela	remonte	assez	loin	.	ils	 s 	 ont 	 	 intéressé 	 s 	 	par	la	mémoire	de	travail	.
+les	 chimpanzé 	 s 	 	vont	voir	200	 milli 	 seconde 	 s 	 	--	c'est	rapide	,	c'est	huit	 image 	 s 	 	 animé 	 es 	 	--	des	 nombre 	 s 	 	un	,	deux	,	trois	,	quatre	,	cinq	.
+ en 	 suite 	 	ils	 dis 	 paraisse 	 nt 	 	 e 	 t 	 	 s 	 ont 	 	 rem 	 placé 	 s 	 	par	des	 carré 	 s 	 	 e 	 t 	 	les	 chimpanzé 	 s 	 	 doive 	 nt 	 	appuyer	sur	les	 carré 	 s 	 	qui	 correspond 	 ent 	 	aux	 nombre 	 s 	 	du	plus	petit	au	plus	grand	 af 	 in 	 	 d' 	 obtenir 	 	une	pomme	comme	récompense	.
+voyons	comment	ils	peuvent	faire	cela	.
+c'est	un	 je 	 une 	 	chimpanzé	.	les	jeunes	 s 	 ont 	 	 meilleur 	 s 	 	que	les	 vi 	 eux 	 	,	comme	les	 humain 	 s 	 	.
+ e 	 t 	 	ils	 s 	 ont 	 	très	 entraîné 	 s 	 	,	ils	ont	fait	cela	des	 milli 	 er 	 s 	 	de	fois	.
+évidemment	,	il	y	a	un	gros	effet	 d' 	 entraîne 	 ment 	 	,	comme	vous	 pouv 	 ez 	 	 l' 	 imaginer 	 	.
+vous	 pouv 	 ez 	 	 constat 	 er 	 	 qu'il 	 s 	 	 s 	 ont 	 	très	 bla 	 s 	 és 	 	 e 	 t 	 	font	cela	sans	effort	.
+non	 seul 	 ement 	 	ils	le	font	très	bien	,	 mai 	 s 	 	ils	le	font	de	 man 	 ière 	 	 paresse 	 use 	 	.
+non	?	qui	pense	qu'il	peut	 batt 	 re 	 	les	 chimpanzé 	 s 	 	?
+faux	.
+nous	 pouv 	 ons 	 	essayer	.	nous	allons	essayer	.	peut	-	être	que	nous	allons	essayer	.
+ok	,	donc	la	 parti 	 e 	 	 suiv 	 ante 	 	de	 ce 	 tte 	 	étude	,	je	vais	la	passer	 rapide 	 ment 	 	en	revue	,	est	 bas 	 ée 	 	sur	une	idée	de	_UNK_	_UNK_	.
+il	a	eu	 l' 	 idée 	 	audacieuse	--	ce	qu'il	appelle	 l' 	 hypothèse 	 	du	 com 	 promis 	 	cognitif	.
+nous	 s 	 avons 	 	que	les	 chimpanzé 	 s 	 	 s 	 ont 	 	plus	 rapide 	 s 	 	 e 	 t 	 	plus	 fort 	 s 	 	.
+ils	 s 	 ont 	 	aussi	_UNK_	par	le	 statu 	 s 	 	.
+ s 	 a 	 	pensée	était	que	peut	-	être	 qu'il 	 s 	 	ont	 préserv 	 é 	 	des	 activité 	 s 	 	 cérébr 	 ale 	 s 	 	 e 	 t 	 	ils	les	 entraîne 	 nt 	 	en	 grandi 	 ssant 	 	qui	 s 	 ont 	 	très	très	important	pour	eux	pour	 négocie 	 r 	 	leur	 statu 	 s 	 	 e 	 t 	 	 gagne 	 r 	 	,	ce	qui	ressemble	à	de	la	 ré 	 flexion 	 	stratégique	lors	de	la	 compéti 	 tion 	 	.
+nous	allons	donc	 vérifie 	 r 	 	cela	en	 fais 	 ant 	 	 joue 	 r 	 	 vrai 	 ment 	 	les	 chimpanzé 	 s 	 	à	un	jeu	en	 touch 	 ant 	 	deux	 écran 	 s 	 	 tactile 	 s 	 	.
+les	 chimpanzé 	 s 	 	 inter 	 agissent 	 	entre	eux	à	 vi 	 a 	 	les	 ordinateur 	 s 	 	.
+ils	vont	appuyer	à	gauche	ou	à	droite	.
+un	des	 chimpanzé 	 s 	 	est	appelé	 l' 	 apparieur 	 	.
+ils	 gagne 	 nt 	 	 s' 	 ils 	 	 appuie 	 nt 	 	sur	gauche	,	gauche	,	comme	le	 cherche 	 ur 	 	dans	un	jeu	de	cache	-	cache	,	ou	droite	,	droite	.
+le	 dés 	 apparieur 	 	veut	 dé 	 faire 	 	les	 pair 	 es 	 	.
+il	veut	appuyer	sur	 l' 	 écran 	 	opposé	au	chimpanzé	.
+ e 	 t 	 	les	 récompense 	 s 	 	 s 	 ont 	 	des	 cub 	 es 	 	de	pomme	.
+voici	comment	les	 théoricien 	 s 	 	des	jeux	voient	 ce 	 s 	 	 donné 	 es 	 	.
+c'est	un	graphique	du	 pourcent 	 age 	 	de	fois	où	 l' 	 apparieur 	 	 choisi 	 t 	 	droite	dans	 l' 	 axe 	 	des	x	,	 e 	 t 	 	le	 pourcent 	 age 	 	de	fois	 qu'il 	 s 	 	 prédis 	 ent 	 	droite	par	le	_UNK_	sur	 l' 	 axe 	 	des	y	.
+ici	,	un	point	 représent 	 e 	 	le	 comporte 	 ment 	 	 d' 	 une 	 	 pair 	 e 	 	de	 joueur 	 s 	 	,	 l' 	 un 	 	 essay 	 ant 	 	de	faire	 correspond 	 re 	 	,	 l' 	 autre 	 	 essay 	 ant 	 	de	faire	le	 con 	 traire 	 	.
+le	carré	ne	au	 milli 	 eu 	 	--	en	fait	ne	,	ch	 e 	 t 	 	_UNK_	--	 représent 	 ent 	 	trois	 théo 	 ries 	 	 différent 	 es 	 	de	 l' 	 équilibre 	 	de	nash	,	 e 	 t 	 	les	 autre 	 s 	 	,	vous	 dis 	 ent 	 	ce	que	 pré 	 dit 	 	la	 théo 	 rie 	 	,	 qu' 	 elles 	 	 dev 	 raient 	 	 correspond 	 re 	 	de	façon	égale	,	parce	que	si	vous	 joue 	 z 	 	gauche	trop	 sou 	 vent 	 	,	par	exemple	,	je	peux	exploiter	cela	si	je	suis	le	 dés 	 apparieur 	 	en	 joua 	 nt 	 	droite	.
+ e 	 t 	 	comme	vous	 pouv 	 ez 	 	le	voir	,	les	 chimpanzé 	 s 	 	,	 représent 	 és 	 	par	des	 tri 	 angle 	 s 	 	,	 s 	 ont 	 	 entouré 	 s 	 	,	 tourna 	 nt 	 	 auto 	 ur 	 	de	 ce 	 tte 	 	 pré 	 diction 	 	.
+ main 	 tenant 	 	 regard 	 ons 	 	les	 gain 	 s 	 	.
+nous	allons	 rend 	 re 	 	le	 paie 	 ment 	 	pour	le	choix	gauche	gauche	un	peu	plus	élevé	pour	 l' 	 apparieur 	 	.
+ main 	 tenant 	 	ils	 gagne 	 nt 	 	trois	 cub 	 es 	 	de	pomme	.
+ théo 	 r 	 iquement 	 	,	cela	 dev 	 rait 	 	 change 	 r 	 	le	 comporte 	 ment 	 	du	 dés 	 apparieur 	 	,	parce	que	ce	qu'il	 s 	 e 	 	passe	ici	,	c'est	que	le	 dés 	 apparieur 	 	va	penser	:	``	oh	,	ce	 gar 	 s 	 	va	 voul 	 oir 	 	la	grosse	récompense	,	donc	je	vais	droite	,	pour	être	sûr	qu'il	ne	 l' 	 ait 	 	pas	.	``	 e 	 t 	 	comme	vous	 pouv 	 ez 	 	le	voir	,	leur	 comporte 	 ment 	 	 s 	 e 	 	déplace	dans	la	direction	de	ce	 change 	 ment 	 	prévu	par	 l' 	 équilibre 	 	de	nash	.
+enfin	,	nous	avons	changé	les	 gain 	 s 	 	une	fois	de	plus	.
+ main 	 tenant 	 	,	c'est	quatre	 cub 	 es 	 	de	pomme	,	 e 	 t 	 	leur	 comporte 	 ment 	 	 s 	 e 	 	déplace	encore	une	fois	vers	 l' 	 équilibre 	 	de	nash	.
+ mai 	 s 	 	si	vous	faites	la	moyenne	sur	les	 chimpanzé 	 s 	 	,	ils	 s 	 ont 	 	très	très	 pro 	 che 	 s 	 	,	de	_UNK_	.
+ils	 s 	 ont 	 	plus	 pro 	 che 	 s 	 	que	 n' 	 importe 	 	quelle	autre	espèce	que	nous	avons	pu	 observe 	 r 	 	.
+ e 	 t 	 	les	 humain 	 s 	 	?	vous	pensez	que	vous	êtes	plus	intelligent	qu'un	chimpanzé	?
+voici	deux	 groupe 	 s 	 	 d' 	 humain 	 s 	 	en	vert	 e 	 t 	 	bleu	.
+ils	 s 	 ont 	 	plus	 pro 	 che 	 s 	 	de	_UNK_	.	ils	ne	 répond 	 ent 	 	pas	aux	 gain 	 s 	 	si	 étroite 	 ment 	 	,	 e 	 t 	 	aussi	si	vous	 étudie 	 z 	 	leur	apprentissage	dans	le	jeu	,	ils	ne	 s 	 ont 	 	pas	aussi	 sensible 	 s 	 	aux	 gain 	 s 	 	 précéde 	 nt 	 s 	 	.
+les	 chimpanzé 	 s 	 	 joue 	 nt 	 	 mi 	 eux 	 	que	les	 humain 	 s 	 	,	 mi 	 eux 	 	dans	le	sens	de	 l' 	 adhésion 	 	à	la	 théo 	 rie 	 	des	jeux	.
+ e 	 t 	 	il	 s 	 'agit 	 	de	deux	 groupe 	 s 	 	 différent 	 s 	 	 d' 	 humain 	 s 	 	du	japon	 e 	 t 	 	d'afrique	.	ils	 réplique 	 nt 	 	cela	 plu 	 tôt 	 	bien	.
+aucun	 d' 	 eux 	 	ne	 s 	 ont 	 	aussi	 pro 	 che 	 s 	 	que	les	 chimpanzé 	 s 	 	.
+voici	ce	que	nous	avons	appris	aujourd'hui	.
+les	 individu 	 s 	 	 semble 	 nt 	 	 effectue 	 r 	 	un	nombre	 limit 	 é 	 	de	 ré 	 flexion 	 	stratégique	en	 utilis 	 ant 	 	la	 théo 	 rie 	 	de	 l' 	 esprit 	 	.
+nous	avons	des	 preuve 	 s 	 	 préliminaire 	 s 	 	de	la	 négocia 	 tion 	 	que	des	 signa 	 ux 	 	 d' 	 alerte 	 	dans	le	cerveau	 pour 	 raient 	 	être	 utilisé 	 s 	 	pour	 pré 	 dire 	 	 s' 	 il 	 	va	y	avoir	un	 dés 	 accord 	 	 coût 	 eux 	 	,	 e 	 t 	 	les	 chimpanzé 	 s 	 	 s 	 ont 	 	de	 meilleur 	 s 	 	 compéti 	 teurs 	 	que	les	 humain 	 s 	 	,	à	en	 juge 	 r 	 	par	la	 théo 	 rie 	 	des	jeux	.
+merci	.
+

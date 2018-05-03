@@ -1,0 +1,154 @@
+guten_de morgen_de ._de
+ich_de bin_de heute_de hier_de ,_de um_de über_de autonome_de ,_de fliegende_de _UNK__de zu_de sprechen_de ._de
+nein_de ,_de wendige_de ,_de fliegende_de roboter_de wie_de diesen_de hier_de ._de
+ich_de würde_de ihnen_de gerne_de etwas_de über_de die_de herausforderungen_de bei_de ihrem_de bau_de erzählen_de und_de über_de die_de großartigen_de möglichkeiten_de für_de die_de anwendung_de dieser_de technologie_de ._de
+diese_de roboter_de sind_de verwandt_de mit_de unbemannten_de _UNK__de ._de
+die_de fahrzeuge_de ,_de die_de sie_de hier_de sehen_de ,_de sind_de jedoch_de sehr_de groß_de ._de
+sie_de wiegen_de tausende_de von_de kilos_de und_de sind_de wirklich_de nicht_de wendig_de ._de
+sie_de sind_de nicht_de einmal_de autonom_de ._de
+sie_de werden_de vielmehr_de von_de einer_de ganzen_de mannschaft_de geflogen_de ,_de die_de aus_de mehreren_de piloten_de ,_de technikern_de für_de die_de _UNK__de und_de _UNK__de bestehen_de kann_de ._de
+wir_de interessieren_de uns_de für_de die_de entwicklung_de von_de robotern_de wie_de diesem_de --_de und_de hier_de sind_de noch_de zwei_de bilder_de von_de robotern_de ,_de die_de man_de so_de im_de laden_de kaufen_de kann_de ._de
+das_de sind_de helikopter_de mit_de vier_de rotoren_de ,_de die_de etwa_de einen_de meter_de groß_de sind_de ._de und_de ein_de paar_de kilos_de wiegen_de ._de
+wir_de erweitern_de sie_de mit_de ein_de paar_de sensoren_de und_de prozessoren_de ,_de und_de diese_de roboter_de können_de drinnen_de fliegen_de ohne_de gps_de ._de
+der_de roboter_de ,_de den_de ich_de hier_de in_de meiner_de hand_de halte_de ,_de ist_de der_de hier_de ,_de und_de er_de wurde_de von_de zwei_de studenten_de gebaut_de ,_de alex_de und_de daniel_de ._de
+er_de wiegt_de nur_de etwas_de mehr_de als_de 50_de gramm_de ._de
+und_de hat_de einen_de energieverbrauch_de von_de 15_de watt_de ._de
+wie_de sie_de sehen_de können_de ,_de hat_de er_de einen_de durchmesser_de von_de etwa_de 20_de cm_de ._de
+lassen_de sie_de mich_de ihnen_de wirklich_de nur_de kurz_de erklären_de ,_de wie_de diese_de roboter_de funktionieren_de ._de
+er_de hat_de vier_de rotoren_de ._de
+wenn_de sich_de die_de rotoren_de mit_de der_de gleichen_de geschwindigkeit_de drehen_de ,_de schwebt_de der_de roboter_de ._de
+wenn_de sie_de die_de geschwindigkeit_de jedes_de _UNK__de erhöhen_de ,_de steigt_de der_de roboter_de auf_de und_de beschleunigt_de ._de
+natürlich_de ,_de wenn_de der_de roboter_de gekippt_de wäre_de ,_de also_de wenn_de er_de nicht_de ganz_de horizontal_de wäre_de ,_de würde_de er_de in_de diese_de richtung_de beschleunigen_de ._de
+um_de ihn_de zu_de kippen_de ,_de gibt_de es_de zwei_de möglichkeiten_de ._de
+in_de diesem_de bild_de hier_de sehen_de sie_de ,_de dass_de sich_de _UNK__de vier_de schneller_de dreht_de ._de und_de rotor_de zwei_de langsamer_de ._de
+und_de sobald_de das_de passiert_de ,_de entsteht_de ein_de moment_de ,_de das_de den_de roboter_de kippt_de ._de
+und_de andersrum_de ,_de wenn_de sie_de die_de geschwindigkeit_de von_de rotor_de drei_de erhöhen_de und_de die_de von_de rotor_de eins_de absenken_de kippt_de der_de roboter_de nach_de vorne_de ._de
+und_de schließlich_de ,_de wenn_de sie_de zwei_de gegenüberliegende_de rotoren_de schneller_de als_de das_de andere_de paar_de drehen_de ,_de dreht_de sich_de der_de roboter_de um_de die_de senkrechte_de achse_de ._de
+der_de eingebaute_de prozessor_de betrachtet_de im_de wesentlichen_de ,_de welche_de bewegungen_de ausgeführt_de werden_de müssen_de ,_de er_de kombiniert_de diese_de bewegungen_de und_de rechnet_de aus_de ,_de welche_de befehle_de zu_de den_de motoren_de geschickt_de werden_de müssen_de und_de das_de 600_de mal_de pro_de sekunde_de ._de
+und_de so_de funktionieren_de diese_de dinger_de grundsätzlich_de ._de
+einer_de der_de vorteile_de dieses_de designs_de ist_de ,_de dass_de wenn_de sie_de alles_de verkleinern_de ,_de die_de roboter_de viel_de _UNK__de werden_de ._de
+r_de ist_de hier_de die_de charakteristische_de länge_de des_de roboters_de
+es_de ist_de eigentlich_de der_de halbe_de durchmesser_de ._de
+und_de es_de gibt_de viele_de physikalische_de parameter_de ,_de die_de sich_de ändern_de ,_de sobald_de man_de r_de verringert_de ._de
+der_de wichtigste_de ist_de die_de trägheit_de oder_de der_de _UNK__de ._de
+es_de ist_de so_de ,_de dass_de die_de trägheit_de ,_de die_de die_de _UNK__de beeinflusst_de ,_de mit_de der_de fünften_de potenz_de von_de r_de skaliert_de ._de
+wenn_de sie_de nun_de r_de verkleinern_de ,_de nimmt_de die_de trägheit_de drastisch_de ab_de ._de
+ein_de ergebnis_de davon_de ist_de ,_de dass_de die_de _UNK__de ,_de hier_de mit_de dem_de griechischen_de buchstaben_de alpha_de bezeichnet_de ,_de mit_de 1_de über_de r_de verläuft_de ._de
+sie_de ist_de umgekehrt_de proportional_de zu_de r._de
+je_de kleiner_de sie_de sie_de machen_de ,_de desto_de schneller_de können_de sie_de drehen_de ._de
+das_de sollte_de bei_de diesen_de videos_de klar_de werden_de ._de
+unten_de rechts_de sehen_de sie_de einen_de roboter_de ,_de der_de einen_de _UNK__de -_de salto_de in_de weniger_de als_de einer_de halben_de sekunde_de vollführt_de ._de
+mehrere_de _UNK__de ,_de ein_de bisschen_de mehr_de zeit_de ._de
+die_de prozessoren_de bekommen_de rückmeldungen_de von_de den_de _UNK__de und_de gyroskopen_de an_de bord_de und_de berechnen_de ,_de wie_de ich_de vorhin_de schon_de gesagt_de habe_de ,_de 600_de mal_de pro_de sekunde_de befehle_de ,_de um_de den_de roboter_de zu_de stabilisieren_de ._de
+links_de sehen_de sie_de ,_de wie_de daniel_de den_de roboter_de in_de die_de luft_de wirft_de ._de
+und_de man_de sieht_de ,_de wie_de robust_de die_de kontrolle_de ist_de ._de
+egal_de wie_de sie_de ihn_de werfen_de ,_de der_de roboter_de fängt_de sich_de und_de kommt_de wieder_de zu_de ihm_de zurück_de ._de
+warum_de baut_de man_de solche_de roboter_de ?_de
+nun_de ,_de roboter_de wie_de diese_de haben_de viele_de anwendungen_de ._de
+man_de kann_de sie_de in_de gebäude_de wie_de dieses_de schicken_de um_de als_de erste_de nach_de _UNK__de zu_de suchen_de ,_de vielleicht_de nach_de biochemischen_de lecks_de zu_de suchen_de ,_de oder_de _UNK__de ._de
+man_de kann_de sie_de aber_de auch_de zum_de bauen_de einsetzen_de ._de
+hier_de sehen_de sie_de roboter_de ,_de die_de träger_de und_de säulen_de tragen_de und_de würfelförmige_de strukturen_de zusammenbauen_de ._de
+ich_de werde_de ihnen_de noch_de etwas_de mehr_de darüber_de erzählen_de ._de
+diese_de roboter_de können_de im_de _UNK__de eingesetzt_de werden_de ._de
+eines_de der_de probleme_de dieser_de kleinen_de roboter_de ist_de ihre_de geringe_de _UNK__de ._de
+daher_de wollen_de sie_de vielleicht_de mehrere_de roboter_de einsetzen_de ,_de um_de die_de ladung_de zu_de tragen_de ._de
+das_de ist_de ein_de bild_de von_de einem_de unserer_de letzten_de experimente_de --_de wobei_de das_de doch_de schon_de eine_de weile_de her_de ist_de --_de in_de sendai_de ,_de kurz_de nach_de dem_de erdbeben_de ._de
+roboter_de wie_de dieser_de konnten_de in_de _UNK__de gebäude_de geschickt_de werden_de ,_de um_de den_de schaden_de nach_de naturkatastrophen_de zu_de beurteilen_de ,_de oder_de in_de _UNK__de ,_de um_de eine_de _UNK__de aufzubauen_de ._de
+ein_de grundlegendes_de problem_de das_de die_de roboter_de lösen_de müssen_de ,_de wenn_de sie_de autonom_de sein_de sollen_de ,_de ist_de im_de grunde_de genommen_de ,_de wie_de sie_de von_de punkt_de a_de zu_de punkt_de b_de kommen_de ._de
+das_de ist_de eine_de ziemliche_de herausforderung_de da_de die_de dynamik_de so_de eines_de roboters_de recht_de kompliziert_de ist_de ._de
+tatsächlich_de leben_de sie_de in_de einem_de 12_de -_de dimensionalen_de raum_de ._de
+also_de benutzen_de wir_de einen_de kleinen_de trick_de ._de
+wir_de nehmen_de diesen_de gekrümmten_de 12_de -_de dimensionalen_de raum_de und_de wandeln_de ihn_de in_de einen_de flachen_de vier_de -_de dimensionalen_de raum_de um_de ._de
+und_de dieser_de vier_de -_de dimensionale_de raum_de besteht_de aus_de x_de ,_de y_de ,_de z_de und_de dem_de _UNK__de ._de
+der_de roboter_de also_de plant_de etwas_de ,_de das_de wir_de eine_de bahnkurve_de mit_de minimalem_de snap_de nennen_de ._de
+eine_de kurze_de auffrischung_de ihrer_de _UNK__de :_de es_de gibt_de den_de ort_de ,_de die_de geschwindigkeit_de als_de ableitung_de ,_de dann_de beschleunigung_de ,_de und_de dann_de kommt_de ruck_de ,_de und_de dann_de kommt_de "_de snap_de "_de ._de
+und_de dieser_de roboter_de minimiert_de snap_de ._de
+und_de was_de das_de im_de endeffekt_de ergibt_de ,_de ist_de eine_de glatte_de und_de _UNK__de bewegung_de ._de
+und_de er_de macht_de das_de ,_de während_de er_de hindernissen_de ausweicht_de ._de
+diese_de trajektorien_de mit_de minimalem_de snap_de in_de diesem_de flachen_de raum_de werden_de dann_de _UNK__de in_de diesen_de komplizierten_de 12_de -_de dimensionalen_de raum_de ,_de und_de das_de muss_de der_de roboter_de für_de die_de kontrolle_de und_de die_de spätere_de ausführung_de tun_de ._de
+lassen_de sie_de mich_de ein_de paar_de beispiele_de zeigen_de ,_de wie_de diese_de flugbahnen_de mit_de minimalem_de snap_de aussehen_de ._de
+in_de dem_de ersten_de video_de werden_de sie_de sehen_de ,_de wie_de der_de roboter_de von_de a_de nach_de b_de fliegt_de durch_de einen_de _UNK__de ._de
+der_de roboter_de ist_de offensichtlich_de in_de der_de lage_de ,_de jede_de bahnkurve_de auszuführen_de ._de
+das_de hier_de sind_de kreisförmige_de bahnkurven_de ,_de bei_de denen_de auf_de den_de roboter_de 2_de g_de wirken_de ._de
+oben_de befinden_de sich_de motion_de -_de capture_de -_de kameras_de ,_de die_de dem_de roboter_de 100_de mal_de pro_de sekunde_de sagen_de ,_de wo_de er_de ist_de ._de
+sie_de sagen_de dem_de roboter_de auch_de ,_de wo_de diese_de hindernisse_de sind_de ._de
+und_de diese_de hindernisse_de können_de sich_de auch_de bewegen_de ._de
+und_de hier_de sehen_de sie_de ,_de wie_de daniel_de diesen_de reifen_de in_de die_de luft_de wirft_de ,_de während_de der_de roboter_de die_de position_de vom_de reifen_de berechnet_de und_de versucht_de auszurechnen_de ,_de wie_de er_de am_de besten_de durch_de den_de reifen_de kommt_de ._de
+als_de akademiker_de müssen_de wir_de ständig_de durch_de reifen_de springen_de ,_de um_de sponsoren_de aufzutreiben_de ,_de und_de wir_de lassen_de unsere_de roboter_de das_de machen_de ._de
+außerdem_de kann_de der_de roboter_de sich_de abschnitte_de der_de flugbahnen_de merken_de ,_de die_de er_de lernt_de ,_de oder_de die_de vorher_de einprogrammiert_de wurden_de ._de
+hier_de sehen_de sie_de ,_de wie_de der_de roboter_de eine_de bewegung_de kombiniert_de ,_de um_de schwung_de zu_de holen_de und_de dann_de seine_de ausrichtung_de ändert_de und_de sich_de wieder_de fängt_de ._de
+er_de muss_de das_de machen_de ,_de da_de dieses_de loch_de im_de fenster_de nur_de etwas_de größer_de als_de die_de breite_de des_de roboters_de ist_de ._de
+also_de genau_de wie_de ein_de _UNK__de auf_de dem_de sprungbrett_de ,_de der_de _UNK__de um_de schwung_de zu_de holen_de und_de dann_de diese_de _UNK__de vollführt_de ,_de diesen_de _UNK__de salto_de und_de sich_de dann_de elegant_de wieder_de fängt_de ,_de dieser_de roboter_de macht_de im_de wesentlichen_de das_de gleiche_de ._de
+er_de weiß_de also_de wie_de man_de diese_de teile_de der_de bahnkurven_de kombiniert_de ,_de um_de diese_de ziemlich_de schwierigen_de aufgaben_de zu_de lösen_de ._de
+kurzer_de _UNK__de ._de
+einer_de der_de nachteile_de dieser_de kleinen_de roboter_de ist_de ihre_de größe_de ._de
+und_de ich_de habe_de ihnen_de schon_de vorhin_de gesagt_de ,_de dass_de wir_de vielleicht_de sehr_de viele_de roboter_de einsetzen_de wollen_de ,_de um_de die_de beschränkungen_de durch_de die_de größe_de zu_de umgehen_de ._de
+eine_de schwierigkeit_de ist_de ,_de wie_de kann_de man_de viele_de roboter_de koordinieren_de ?_de
+daher_de haben_de wir_de uns_de die_de natur_de angeschaut_de ._de
+ich_de möchte_de ihnen_de einen_de kurzen_de film_de zeigen_de ,_de von_de _UNK__de _UNK__de ,_de wie_de sie_de in_de professor_de stephen_de _UNK__de labor_de einen_de gegenstand_de tragen_de ._de
+das_de ist_de ein_de stück_de einer_de feige_de ._de
+sie_de können_de irgendein_de mit_de _UNK__de _UNK__de objekt_de hinlegen_de und_de die_de ameisen_de werden_de es_de zurück_de zum_de nest_de tragen_de ._de
+diese_de ameisen_de haben_de keinen_de zentralen_de koordinator_de ._de
+sie_de nehmen_de ihre_de nachbarn_de wahr_de ._de
+es_de gibt_de keine_de _UNK__de kommunikation_de ._de
+aber_de weil_de sie_de ihre_de nachbarn_de spüren_de und_de weil_de sie_de das_de objekt_de spüren_de ,_de haben_de sie_de eine_de implizite_de koordination_de innerhalb_de der_de gruppe_de ._de
+und_de diese_de art_de der_de koordination_de sollen_de auch_de unsere_de roboter_de haben_de ._de
+wenn_de wir_de also_de einen_de roboter_de haben_de ,_de der_de von_de seinen_de nachbarn_de umgeben_de ist_de --_de schauen_de wir_de uns_de roboter_de i_de und_de j_de an_de --_de was_de wir_de von_de den_de robotern_de wollen_de ,_de ist_de ,_de dass_de sie_de den_de abstand_de zwischen_de sich_de überwachen_de ,_de während_de sie_de in_de der_de formation_de fliegen_de ._de
+und_de dann_de muss_de man_de sicherstellen_de ,_de dass_de dieser_de abstand_de innerhalb_de akzeptabler_de schranken_de ist_de ._de
+die_de roboter_de überwachen_de also_de diesen_de fehler_de und_de berechnen_de die_de _UNK__de 100_de mal_de pro_de sekunde_de ,_de die_de dann_de in_de _UNK__de 600_de mal_de pro_de sekunde_de übersetzt_de werden_de ._de
+das_de muss_de auch_de auf_de eine_de dezentrale_de art_de geschehen_de ._de
+nochmal_de ,_de wenn_de sie_de sehr_de viele_de dieser_de roboter_de haben_de ,_de ist_de es_de unmöglich_de ,_de all_de diese_de informationen_de zentral_de zu_de koordinieren_de ,_de schnell_de genug_de ,_de damit_de die_de roboter_de die_de aufgabe_de lösen_de können_de ._de
+zusätzlich_de müssen_de die_de roboter_de ihre_de entscheidungen_de nur_de aufgrund_de der_de lokalen_de informationen_de fällen_de ,_de nämlich_de ,_de was_de sie_de von_de ihren_de nachbarn_de wahrnehmen_de ._de
+und_de schließlich_de bestehen_de wir_de darauf_de ,_de dass_de die_de roboter_de nicht_de wissen_de ,_de wer_de ihre_de nachbarn_de sind_de ._de
+das_de ist_de etwas_de ,_de das_de wir_de anonymität_de nennen_de ._de
+was_de ich_de ihnen_de als_de nächstes_de zeigen_de will_de ,_de ist_de ein_de video_de von_de 20_de dieser_de kleinen_de roboter_de ,_de wie_de sie_de in_de einer_de formation_de fliegen_de ._de
+sie_de überwachen_de die_de position_de ihrer_de nachbarn_de ._de
+und_de erhalten_de die_de formation_de ._de
+die_de formationen_de können_de sich_de ändern_de ._de
+sie_de können_de flache_de formationen_de sein_de ,_de sie_de können_de drei_de -_de dimensionale_de formationen_de sein_de ._de
+wie_de sie_de hier_de sehen_de können_de ,_de kollabieren_de sie_de von_de einer_de 3d_de -_de formation_de in_de eine_de ebene_de formation_de ._de
+und_de um_de durch_de hindernisse_de zu_de fliegen_de ,_de können_de sie_de ihre_de formation_de im_de flug_de anpassen_de ._de
+und_de sie_de sehen_de ,_de diese_de roboter_de kommen_de sich_de wirklich_de nah_de ._de
+wie_de sie_de hier_de bei_de dem_de flug_de in_de form_de einer_de acht_de sehen_de ,_de nähern_de sie_de sich_de bis_de auf_de wenige_de zentimeter_de ._de
+und_de trotz_de der_de aerodynamischen_de wechselwirkungen_de von_de diesen_de _UNK__de ,_de sind_de sie_de in_de der_de lage_de stabil_de zu_de fliegen_de ._de
+sobald_de man_de weiß_de ,_de wie_de man_de in_de einer_de formation_de fliegt_de ,_de kann_de man_de auch_de gemeinsam_de objekte_de anheben_de ._de
+das_de hier_de zeigt_de ,_de dass_de wir_de die_de _UNK__de verdoppeln_de ,_de verdreifachen_de ,_de vervierfachen_de können_de ,_de in_de dem_de wir_de sie_de dazu_de bringen_de ,_de teams_de zu_de bilden_de ,_de wie_de sie_de hier_de sehen_de können_de ._de
+einer_de der_de nachteile_de davon_de ist_de ,_de sobald_de sie_de alles_de vergrößern_de --_de also_de wenn_de sie_de viele_de roboter_de haben_de ,_de die_de das_de gleiche_de objekt_de tragen_de ,_de vergrößern_de sie_de damit_de die_de trägheit_de ,_de und_de damit_de zahlen_de sie_de einen_de preis_de ;_de sie_de sind_de nicht_de mehr_de so_de wendig_de ._de
+aber_de sie_de gewinnen_de einen_de zuwachs_de an_de traglast_de ._de
+eine_de andere_de _UNK__de ,_de die_de ich_de ihnen_de zeigen_de will_de --_de das_de ist_de wieder_de in_de unserem_de labor_de ._de
+das_de ist_de die_de arbeit_de von_de quentin_de lindsey_de ,_de der_de ein_de doktorand_de ist_de ._de
+sein_de algorithmus_de sagt_de diesen_de robotern_de ,_de wie_de sie_de autonom_de würfelförmige_de _UNK__de aus_de diesen_de streben_de bauen_de können_de ._de
+sein_de algorithmus_de sagt_de dem_de roboter_de ,_de welches_de stück_de er_de anheben_de soll_de ,_de und_de wann_de und_de wo_de er_de es_de platzieren_de soll_de ._de
+und_de in_de diesem_de video_de sehen_de sie_de --_de und_de es_de ist_de 10-_de oder_de 14_de -_de fach_de beschleunigt_de --_de sie_de sehen_de ,_de wie_de diese_de roboter_de drei_de verschiedene_de strukturen_de bauen_de ._de
+und_de wieder_de ,_de alles_de ist_de autonom_de ,_de und_de alles_de ,_de was_de quentin_de machen_de muss_de ,_de ist_de ihnen_de eine_de blaupause_de zu_de besorgen_de von_de dem_de design_de ,_de das_de er_de bauen_de will_de ._de
+all_de die_de experimente_de ,_de die_de sie_de bisher_de gesehen_de haben_de ,_de all_de diese_de demonstrationen_de ,_de wurden_de mit_de hilfe_de eines_de motion_de -_de capture_de -_de systems_de durchgeführt_de ._de
+was_de passiert_de also_de ,_de wenn_de man_de das_de labor_de verlässt_de ,_de und_de nach_de draußen_de in_de die_de wirkliche_de welt_de geht_de ?_de
+und_de was_de ,_de wenn_de es_de dort_de kein_de gps_de gibt_de ?_de
+dieser_de roboter_de wurde_de mit_de einer_de kamera_de ausgestattet_de ,_de und_de einem_de laser_de -_de _UNK__de ,_de einem_de laser_de -_de scanner_de ._de
+und_de er_de benutzt_de diese_de sensoren_de ,_de um_de eine_de karte_de der_de umgebung_de aufzubauen_de ._de
+diese_de karte_de besteht_de aus_de besonderen_de merkmalen_de wie_de türen_de ,_de fenster_de personen_de ,_de möbelstücke_de --_de und_de bestimmt_de dann_de seine_de position_de relativ_de zu_de diesen_de merkmalen_de ._de
+es_de gibt_de also_de kein_de globales_de koordinatensystem_de ._de
+das_de koordinatensystem_de basiert_de auf_de dem_de roboter_de ,_de wo_de er_de ist_de und_de was_de er_de anschaut_de ._de
+und_de er_de navigiert_de relativ_de zu_de diesen_de merkmalen_de ._de
+ich_de möchte_de in_de einem_de kurzen_de film_de algorithmen_de zeigen_de ,_de die_de von_de frank_de shen_de und_de professor_de nathan_de michael_de entwickelt_de werden_de ._de er_de zeigt_de ,_de wie_de ein_de roboter_de ein_de haus_de zum_de ersten_de mal_de betritt_de und_de im_de flug_de diese_de karte_de erstellt_de ._de
+dieser_de roboter_de findet_de heraus_de ,_de was_de diese_de merkmale_de sind_de ._de
+und_de erstellt_de die_de karte_de ._de
+er_de berechnet_de ,_de wo_de er_de sich_de relativ_de zu_de den_de merkmalen_de befindet_de ,_de und_de schätzt_de dann_de seine_de position_de 100_de mal_de pro_de sekunde_de ,_de was_de uns_de erlaubt_de ,_de die_de _UNK__de zu_de benutzen_de ,_de die_de ich_de vorher_de beschrieben_de habe_de ._de
+dieser_de roboter_de hier_de wird_de tatsächlich_de von_de frank_de ferngesteuert_de ._de
+aber_de der_de roboter_de kann_de auch_de alleine_de herausfinden_de ,_de wo_de er_de hin_de will_de ._de
+angenommen_de ,_de ich_de müsste_de ihn_de in_de ein_de gebäude_de schicken_de und_de ich_de wüsste_de überhaupt_de nicht_de ,_de wie_de es_de aussieht_de ,_de ich_de kann_de den_de roboter_de bitten_de ,_de hinein_de zu_de gehen_de ,_de eine_de karte_de zu_de erstellen_de wiederzukommen_de und_de mir_de zu_de sagen_de ,_de wie_de das_de gebäude_de aussieht_de ._de
+in_de diesem_de fall_de löst_de der_de roboter_de nicht_de nur_de das_de problem_de wie_de er_de von_de punkt_de a_de zu_de punkt_de b_de in_de dieser_de karte_de kommt_de ,_de sonder_de er_de findet_de auch_de heraus_de ,_de was_de der_de beste_de punkt_de b_de zu_de jedem_de zeitpunkt_de ist_de ._de
+im_de wesentlichen_de weiß_de er_de ,_de wohin_de er_de gehen_de muss_de ,_de um_de nach_de orten_de zu_de suchen_de ,_de über_de die_de er_de am_de wenigsten_de weiß_de ._de
+und_de auf_de diese_de weise_de erstellt_de er_de die_de karte_de ._de
+ich_de würde_de ihnen_de gern_de noch_de eine_de letzte_de anwendung_de zeigen_de ._de
+und_de es_de gibt_de viele_de anwendungen_de für_de diese_de technologie_de ._de
+ich_de bin_de ein_de professor_de und_de wir_de haben_de eine_de leidenschaft_de für_de die_de ausbildung_de ._de
+roboter_de wie_de dieser_de können_de wirklich_de den_de unterricht_de vom_de kindergarten_de bis_de zum_de schulabschluss_de _UNK__de ._de
+aber_de wir_de sind_de hier_de in_de südkalifornien_de ,_de in_de der_de nähe_de von_de los_de angeles_de ,_de daher_de muss_de ich_de am_de ende_de den_de fokus_de auf_de die_de unterhaltung_de richten_de ._de
+ich_de würde_de gerne_de mit_de einem_de musikvideo_de schließen_de ._de
+ich_de würde_de gerne_de die_de urheber_de vorstellen_de ,_de alex_de und_de daniel_de ,_de die_de dieses_de video_de gedreht_de haben_de ._de
+aber_de bevor_de ich_de das_de video_de _UNK__de ,_de möche_de ich_de ihnen_de sagen_de ,_de dass_de sie_de es_de in_de den_de letzten_de drei_de tagen_de gedreht_de haben_de ,_de nachdem_de chris_de sie_de angerufen_de hatte_de ._de
+und_de die_de roboter_de ,_de die_de im_de video_de spielen_de ,_de sind_de völlig_de autonom_de ._de
+sie_de werden_de neun_de roboter_de sehen_de ,_de die_de sechs_de verschiedene_de instrumente_de spielen_de ._de
+und_de natürlich_de wurde_de es_de exklusiv_de für_de ted_de 2012_de gemacht_de ._de
+schauen_de wir_de es_de uns_de an_de ._de

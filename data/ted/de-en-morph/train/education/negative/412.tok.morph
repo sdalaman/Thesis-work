@@ -1,0 +1,37 @@
+im	jahr	1952	 macht 	 e 	 	buckminster	fuller	 macht 	 e 	 	fur	das	_UNK_	 ein 	 en 	 	 besonder 	 s 	 	 mutig 	 en 	 	vorschlag	.
+es	war	 ein 	 e 	 	200	-	fuss	-	durchmesser	 geodätische 	 n 	 	kugel	um	über	den	east	river	in	new	york	city	 aus 	 gesetzt 	 	werden	,	in	voller	sicht	der	 vereint 	 en 	 	nationen	.
+es	war	 ein 	 e 	 	große	idee	,	das	ist	sicher	,	und	es	war	 ein 	 e 	 	idee	,	fuehlte	er	,	die	die	entscheidungsfindung	 dies 	 es 	 	gremiums	wirklich	 in 	 form 	 ieren 	 	und	tief	 berühr 	 en 	 	 konnt 	 e 	 	durch	animationen	von	 global 	 en 	 	daten	,	trends	und	 ander 	 e 	 	informationen	über	den	globus	,	auf	 dies 	 er 	 	kugel	.
+und	 heut 	 e 	 	,	45	jahre	später	,	wir	haben	eindeutig	nicht	 wenig 	 er 	 	bedarf	für	 dies 	 e 	 	art	von	klarheit	und	perspektive	,	 ab 	 er 	 	was	wir	haben	,	ist	 verbessert 	 e 	 	technologie	.
+ heut 	 e 	 	 brauch 	 en 	 	wir	nicht	 ein 	 e 	 	million	glühbirnen	zu	 ein 	 er 	 	 sphär 	 ische 	 	anzeige	zu	schaffen	.
+wir	können	leds	nutzen	.
+leds	sind	kleiner	,	sie	sind	 billig 	 er 	 	,	sie	halten	 lang 	 er 	 	an	,	sie	sind	 effizient 	 er 	 	.
+vor	allem	für	 dies 	 e 	 	,	sind	sie	 schnell 	 er 	 	.
+und	 dies 	 e 	 	geschwindigkeit	,	mit	der	 heutige 	 n 	 	_UNK_	-	mikro	-	controller	kombiniert	erlaubt	 un 	 s 	 	,	tatsächlich	zu	 simul 	 ieren 	 	,	in	 dies 	 em 	 	stück	,	über	17.000	leds	-	mit	 n 	 ur 	 	64	.
+und	die	art	und	weise	dies	 gesc 	 hieht 	 	,	ist	durch	das	phänomen	der	augenträgheit	.
+ ab 	 er 	 	während	 dies 	 er 	 	ring	dreht	sich	rund	1.700	u	/	min	-	das	ist	28	mal	pro	sekunde	.
+die	geschwindigkeit	des	äquators	ist	tatsächlich	etwa	60	meilen	pro	stunde	.
+es	gibt	vier	on	-	board	-	mikro	-	controller	die	,	 jede 	 s 	 	mal	 dies 	 en 	 	ring	dreht	sich	während	es	passiert	die	rückseite	der	anzeige	,	es	nimmt	 ein 	 e 	 	position	signal
+und	von	 dies 	 em 	 	,	die	on	-	board	-	mikro	-	controller	die	position	des	_UNK_	in	 all 	 en 	 	 punkt 	 en 	 	rund	um	die	revolution	_UNK_	und	anzeige	 beliebig 	 er 	 	bitmap	-	bilder	und	animationen	.
+ ab 	 er 	 	das	ist	eigentlich	 n 	 ur 	 	der	anfang	.
+neben	der	 höher 	 en 	 	auflösung	versionen	von	 dies 	 er 	 	anzeige	mein	vater	und	ich	arbeiten	an	 ein 	 em 	 	 neu 	 en 	 	 zu 	 m 	 	patent	_UNK_	design	für	 ein 	 e 	 	voll	volumetrische	anzeige	,	dass	das	 gleich 	 e 	 	phänomen	nutzt	.
+er	 er 	 reicht 	 	dies	durch	die	 rotieren 	 den 	 	leds	um	zwei	achsen	.
+wie	ihr	hier	sehen	könnt	,	das	ist	 ein 	 e 	 	11	-	zoll	-	durchmesser	platine	.
+ dies 	 e 	 	blöcke	stellen	leds	.
+und	wie	so	 konnt 	 e 	 	man	sehen	,	dass	 al 	 s 	 	die	platte	dreht	sich	um	 dies 	 er 	 	achse	,	es	wird	 ein 	 e 	 	lichtsplatte	 form 	 ieren 	 	,	die	wir	 kontroll 	 ieren 	 	können	.
+das	ist	 nicht 	 s 	 	 neu 	 es 	 	,	das	ist	ein	propeller	clock	.	das	ist	die	_UNK_	,	die	ihr	für	eure	auto	kaufen	können	.
+ ab 	 er 	 	was	neu	ist	,	ist	,	dass	,	wenn	wir	 dies 	 e 	 	platte	um	 dies 	 e 	 	achse	drehen	,	 jetz 	 t 	 	die	lichtsplatte	wird	eigentlich	 ein 	 er 	 	_UNK_	.
+und	wir	können	das	mit	mikro	-	controller	 kontroll 	 ieren 	 	und	 er 	 stellen 	 	 ein 	 e 	 	voll	 volumetrische 	 n 	 	,	 drei 	 dimensionalen 	 	anzeige	mit	 n 	 ur 	 	256	leds	.
+ jetz 	 t 	 	ist	 dies 	 es 	 	stück	 der 	 zeit 	 	in	bearbeitung	-	es	 er 	 schein 	 t 	 	in	mai	,	 ab 	 er 	 	was	wir	getan	haben	ist	,	dass	wir	zusammen	 ein 	 e 	 	 klein 	 e 	 	demo	gestellt	,	auf	die	übersetzung	von	 geometrisch 	 en 	 	 punkt 	 en 	 	in	 ein 	 e 	 	sphäre	zu	zeigen	.
+ich	habe	ein	 klein 	 es 	 	video	für	 e 	 uch 	 	,	 ab 	 er 	 	 be 	 denkt 	 	 e 	 uch 	 	,	dass	es	ist	ohne	 elektronisch 	 e 	 	regelung	,	und	es	ist	auch	 n 	 ur 	 	mit	vier	leds	.
+das	ist	tatsächlich	 n 	 ur 	 	etwa	1,5	prozent	von	was	die	 endgültig 	 e 	 	anzeige	in	may	sein	wird	.
+ al 	 so 	 	,	guck	mal	.
+und	hier	könnt	ihr	sehen	,	es	dreht	sicht	 n 	 ur 	 	um	die	 vertikal 	 e 	 	achse	,	einfach	kreise	.
+und	dann	,	 al 	 s 	 	die	 ander 	 e 	 	achse	 in 	 s 	 	spiel	kommt	,	 ver 	 schm 	 ieren 	 	sie	tatsächlich	in	 ein 	 em 	 	inhalt	.
+und	die	_UNK_	der	kamera	tatsächlich	ist	es	etwas	 wenig 	 er 	 	effektiv	in	 dies 	 em 	 	fall	.
+ ab 	 er 	 	 dies 	 es 	 	stück	 er 	 schein 	 t 	 	erst	im	mai	.
+es	wird	an	der	interactive	_UNK_	spring	show	 an 	 gezeigt 	 	,	in	greenwich	village	in	new	york	-	das	ist	für	die	öffentlichkeit	zugänglich	,	ich	 defin 	 itiv 	 	lade	 e 	 uch 	 	 all 	 e 	 	zu	kommen	und	 teil 	 nehmen 	 	ein	-	es	ist	 ein 	 e 	 	 fantastisch 	 e 	 	show	.
+es	gibt	 hundert 	 e 	 	von	studenten	innovatoren	mit	 phantastisch 	 en 	 	projekten	.
+ dies 	 es 	 	stück	,	tatsächlich	wird	in	der	sierra	simulcast	lounge	 an 	 gezeigt 	 	,	in	den	pausen	zwischen	 jetz 	 t 	 	und	ende	der	show	.
+ich	wurde	 gern 	 e 	 	mit	 e 	 uch 	 	reden	,	und	 e 	 uch 	 	 ein 	 laden 	 	herunter	zu	kommen	und	 ein 	 en 	 	 genauer 	 en 	 	blick	zu	werfen	.
+es	ist	 ein 	 e 	 	ehre	hier	zu	sein	,	danke	 s 	 ehr 	 	.
+

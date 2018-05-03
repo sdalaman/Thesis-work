@@ -1,0 +1,33 @@
+yaşadığımız_tr dünyayı_tr anlamak_tr için_tr ,_tr hikayeler_tr anlatırız_tr ._tr
+ve_tr bildiğimiz_tr gibi_tr web'i_tr tanımlamak_tr için_tr yeniden_tr düzenleme_tr ve_tr paylaşma_tr geldi_tr ,_tr şimdi_tr hepimiz_tr olayları_tr online_tr hale_tr getirmemizi_tr sağlayan_tr basit_tr araçlarla_tr bu_tr hikayenin_tr parçası_tr olabiliriz_tr ._tr
+ama_tr video_tr ihmal_tr edildi_tr ._tr web'e_tr küçük_tr bir_tr kutu_tr içinde_tr geldi_tr ve_tr orada_tr kaldı_tr ,_tr etrafındaki_tr veri_tr ve_tr içerikten_tr bütünüyle_tr bağını_tr _UNK__tr olarak_tr ._tr
+aslında_tr ,_tr on_tr yıl_tr boyunca_tr web_tr üzerindeki_tr videolarda_tr ,_tr tek_tr değişen_tr kutunun_tr boyutu_tr ve_tr resmin_tr kalitesi_tr oldu_tr ._tr
+popcorn_tr bunu_tr değiştiriyor_tr ._tr
+herhangi_tr birisinin_tr web_tr üzerinden_tr direk_tr olarak_tr çekilen_tr içerikle_tr videoyu_tr _UNK__tr sağlayan_tr online_tr bir_tr araç_tr ._tr
+popcorn_tr ile_tr yaratılan_tr videolar_tr ,_tr web'in_tr kendisi_tr gibi_tr olacak_tr :_tr dinamik_tr ,_tr linklerle_tr dolu_tr ,_tr bütünüyle_tr yeniden_tr düzenlenebilir_tr ve_tr son_tr olarak_tr çerçeveden_tr kurtulabilecek_tr ._tr
+size_tr bu_tr _UNK__tr sonuna_tr doğru_tr sunmak_tr için_tr üzerinde_tr çalıştığımız_tr bir_tr prototipin_tr demosunu_tr izlettirmek_tr istiyorum_tr ._tr
+tamamen_tr ücretsiz_tr olacak_tr ve_tr her_tr internet_tr _UNK__tr çalışabilecek_tr ._tr
+her_tr popcorn_tr üretimi_tr video_tr ile_tr başlar_tr ,_tr ben_tr de_tr bunun_tr için_tr _UNK__tr kullandığımız_tr haber_tr spikeri_tr şablonunu_tr kullanarak_tr 20_tr saniyelik_tr kısa_tr bir_tr klip_tr hazırladım_tr ._tr
+bunu_tr izleyelim_tr ._tr daha_tr sonra_tr geriye_tr gideceğiz_tr ve_tr nasıl_tr yaptığımı_tr anlatacağım_tr ._tr
+merhaba_tr ,_tr haber_tr _UNK__tr hoşgeldiniz_tr ._tr
+google_tr map_tr kullanarak_tr yerimi_tr ekledim_tr ve_tr harita_tr canlı_tr ,_tr _UNK__tr deneyin_tr ._tr
+canlı_tr linkler_tr ve_tr özel_tr ikonlar_tr içeren_tr açılır_tr pencereler_tr ekleyebilirsiniz_tr ,_tr ya_tr da_tr flickr_tr benzeri_tr herhangi_tr bir_tr web_tr servisinden_tr veri_tr çekebilirsiniz_tr ,_tr ya_tr da_tr tam_tr içeriğe_tr linkler_tr içeren_tr yazılar_tr ya_tr da_tr blog_tr yazıları_tr ekleyebilirsiniz_tr ._tr
+geriye_tr gidelim_tr ve_tr gördüklerinizi_tr göstereyim_tr ._tr çok_tr şey_tr içeriyordu_tr ._tr
+bu_tr zaman_tr çizelgesi_tr ,_tr ve_tr daha_tr önce_tr video_tr _UNK__tr ,_tr buna_tr aşinasınızdır_tr ,_tr ama_tr bu_tr sefer_tr zaman_tr _UNK__tr klipler_tr yerine_tr ,_tr videonun_tr içinde_tr gösterilen_tr web_tr olayları_tr var_tr ._tr
+şimdi_tr bu_tr popcorn_tr üretiminde_tr başlık_tr _UNK__tr var_tr ,_tr resim_tr içinde_tr resim_tr gösteren_tr google_tr map_tr haritamız_tr var_tr ,_tr ve_tr popcorn_tr haritanın_tr çerçeve_tr dışına_tr _UNK__tr ve_tr bütün_tr ekranı_tr _UNK__tr sağlıyor_tr ._tr
+başka_tr bilgiler_tr getiren_tr iki_tr açılır_tr pencere_tr ve_tr son_tr olarak_tr orjinal_tr yazıya_tr link_tr içeren_tr bir_tr yazı_tr var_tr ._tr
+google_tr _UNK__tr gidelim_tr ve_tr onu_tr nasıl_tr _UNK__tr göstereyim_tr ._tr
+bütün_tr yapacağınız_tr ,_tr zaman_tr çizelgesine_tr gitmek_tr ,_tr ilgili_tr nesneye_tr çift_tr tıklamak_tr ,_tr ve_tr ben_tr _UNK__tr olduğum_tr için_tr orası_tr olarak_tr ayarladım_tr ._tr
+başka_tr bir_tr yer_tr olarak_tr _UNK__tr ._tr
+popcorn_tr hemen_tr web_tr üzerinden_tr google_tr ile_tr konuşuyor_tr ,_tr haritayı_tr alıyor_tr ve_tr gösteriyor_tr ._tr
+ve_tr bu_tr sizin_tr _UNK__tr izleyen_tr insanlar_tr için_tr de_tr ,_tr tamamen_tr aynı_tr ._tr
+ve_tr canlı_tr ._tr resim_tr değil_tr ._tr üzerine_tr _UNK__tr ,_tr yakınlaştırabiliyorsunuz_tr ,_tr isterseniz_tr sokak_tr görünümüne_tr _UNK__tr ._tr
+videoda_tr canlı_tr bilgilendirme_tr eklemekten_tr bahsettim_tr ,_tr şimdi_tr onu_tr yapalım_tr ,_tr flickr'dan_tr canlı_tr bilgilendirme_tr ekleyelim_tr ._tr sağ_tr tarafa_tr gidin_tr ,_tr listedeki_tr seçeneklerden_tr _UNK__tr seçin_tr ve_tr zaman_tr çizelgesine_tr _UNK__tr ,_tr çizelgede_tr istediğiniz_tr bir_tr yere_tr koyun_tr ve_tr canlı_tr bilgilendirme_tr hemen_tr flickr'a_tr gidecek_tr ve_tr etiketlerle_tr ilgili_tr resimleri_tr çekmeye_tr başlayacak_tr ._tr yazılım_tr _UNK__tr küçük_tr atları_tr sevdikleri_tr için_tr ,_tr varsayılan_tr etiket_tr olarak_tr onu_tr ayarlamışlar_tr ._tr
+başka_tr bir_tr şey_tr deneyelim_tr ,_tr belki_tr bugünle_tr daha_tr fazla_tr ilgili_tr birşey_tr ._tr
+bunlar_tr _UNK__tr gelen_tr canlı_tr resimler_tr ._tr
+bu_tr videoyu_tr bir_tr hafta_tr sonra_tr gelip_tr yeniden_tr izlerseniz_tr ,_tr tamamıyla_tr farklı_tr olacak_tr ,_tr web_tr gibi_tr dinamik_tr olacak_tr ve_tr web_tr gibi_tr kaynağına_tr bağlı_tr olacak_tr ,_tr bağlantıya_tr tıklayın_tr ve_tr doğruca_tr flickr'a_tr gidip_tr kaynak_tr resmi_tr görebileceksiniz_tr ._tr
+burada_tr gördüğünüz_tr herşey_tr basit_tr web_tr blokları_tr kullanılarak_tr yapıldı_tr :_tr html_tr ,_tr _UNK__tr ve_tr javascript_tr ._tr
+yani_tr tamamen_tr yeniden_tr düzenlenebilir_tr ._tr ve_tr de_tr tescilli_tr yazılım_tr yok_tr ._tr tüm_tr ihtiyacınız_tr bir_tr web_tr tarayıcısı_tr ._tr
+web_tr üzerinde_tr izlediğimiz_tr her_tr videonun_tr web_tr gibi_tr çalıştığını_tr hayal_tr edin_tr ,_tr bütünüyle_tr yeniden_tr düzenlenebilir_tr ,_tr kaynak_tr içeriğine_tr linklerle_tr bağlı_tr ve_tr _UNK__tr herkes_tr için_tr etkileşimli_tr ._tr
+bence_tr popcorn_tr web_tr üzerinde_tr hikayeler_tr anlatma_tr yolumuzu_tr ve_tr yaşadığımız_tr dünyayı_tr anlama_tr yolunu_tr değiştirecek_tr ._tr
+teşekkür_tr ederim_tr ._tr

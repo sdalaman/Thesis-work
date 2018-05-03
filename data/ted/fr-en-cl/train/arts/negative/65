@@ -1,0 +1,75 @@
+je suis vraiment content d'être ici aujourd'hui , pour vous montrer ce qui va tout juste de sortir de nos laboratoires , littéralement , et je suis heureux que vous soyez les premiers à pouvoir le voir en direct , car je pense vraiment que cela va changer -- vraiment changer -- notre manière d'interagir avec les machines .
+voici une table à dessin rétro - projetée . elle fait 91 cm de diagonale , et est équipée d'un capteur multi - points . les capteurs tactiles ordinaires , présents dans les bornes ou les tableaux blancs interactifs , ne peuvent capter qu'un seul point à la fois .
+ceci vous permet de capter plusieurs points à la fois .
+je peux utiliser mes deux mains , je peux faire un accord , ou encore mieux utiliser mes dix doigts à la fois .
+comme cela .
+les capteurs multi - points ne sont pas complètement nouveaux .
+des personnes comme bill buxton s'en sont servi dans les années 80 .
+cependant , mon approche se sert de la haute résolution , est peu chère , et sûrement le plus important , très évolutive .
+la chose la plus excitante ici n'est donc pas la technologie , mais surtout les nouvelles possibilités d'accès .
+ce qui est vraiment intéressant est ce que l'on peut en faire , et le type d'interfaces que l'on peut construire . voyons ça .
+par exemple , voici une application de lampe à lave . vous voyez , j'utilise mes deux mains pour presser les bulles de lave les unes contre les autres .
+je peux injecter de la chaleur dans le système , ou le diviser avec deux doigts .
+c'est complètement intuitif , il n'y a pas de mode d'emploi .
+l'interface devient transparente .
+ceci a débuté sous la forme d'un économiseur d'écran fait par un des étudiants de notre laboratoire , _UNK_ rosenberg . mais sa véritable identité émerge ici .
+ce qui est génial dans un capteur multi - point , c'est que je peux faire cela avec autant de doigts que je veux , mais aussi , sous - entendu , avec plusieurs utilisateurs .
+chris peut donc interagir avec une autre partie de la lave , pendant que je joue ici . on peut imaginer un nouvel outil de sculpture , en chauffant la matière , la rendant malléable , puis en la laissant refroidir et se solidifier dans un certain état .
+google devrait avoir quelque chose comme ça dans leur hall .
+je vais vous montrer -- un exemple un peu plus concret , pendant que cela charge .
+voici une application de table lumineuse pour photographe .
+ici encore , je peux utiliser mes deux mains pour interagir et bouger les photos .
+encore mieux : avec deux doigts , je peux prendre une photo et l'étirer comme cela très facilement .
+je peux faire un panoramique , zoomer ou la tourner sans effort .
+je peux faire cela grossièrement avec mes deux mains , ou juste avec deux doigts de chacune de mes mains en même temps .
+si je prends l'ensemble , je peux faire la même chose -- l'étirer .
+je peux le faire en même temps , où je tiens ceci en bas , et je saisis l'autre côté , en _UNK_ ainsi .
+a nouveau , l'interface devient transparente .
+pas de mode d'emploi . c'est exactement que l'on attend , surtout si vous ne vous êtes jamais servi d'un ordinateur auparavant .
+avec des initiatives comme l'ordinateur à 100 dollars , l'idée me _UNK_ que nous créions une nouvelle génération d'utilisateurs se servant de l'interface standard que sont la souris et les fenêtres .
+je pense que ceci est vraiment la manière dont nous devrions interagir avec les machines désormais .
+bien sûr , je peux ajouter un clavier .
+et cela aussi , placer cela ici , et ça là .
+évidemment , c'est un clavier standard , mais je peux le redimensionner pour qu'il soit adapté à mes mains .
+c'est vraiment important , il n'y a plus de raison de nos jours pour que nous soyons obligés de notre adapter à un équipement .
+cela peut générer des troubles _UNK_ .
+la technologie étant si présente de nos jours , les interfaces devraient commencer à s'adapter à nous .
+très peu a été fait pour améliorer la manière d'interagir avec les interfaces de travail .
+ce clavier ne va très certainement pas dans la bonne direction .
+vous pouvez imaginer , plus tard , quand cette technologie sera mature , un clavier qui dérive en même temps que vos mains se déplacent , qui anticipe intelligemment sur quelle touche vous essayez de taper .
+n'est - ce pas génial ?
+public : où est votre laboratoire ?
+jeff han : je suis un chercheur de l'université de new york .
+voici un autre exemple d'application . prenez ces petites boules .
+elles _UNK_ mes mouvements . bien sûr , je peux le faire avec mes deux mains .
+elles sont sensibles à la pression , comme vous le voyez .
+mais ce qui super , à nouveau , c'est ce geste avec deux doigts pour zoomer très rapidement . puisque vous n'avez pas à passer sur un outil manuel ou la loupe , vous pouvez faire des choses sans vous arrêter , à plusieurs échelles , en même temps .
+je peux créer de grands objets ici , mais je peux retourner très vite au début , et créer des objets encore plus petits ici .
+ceci va devenir très important avec le développement de la visualisation des données . par exemple , rappelez - vous la présentation de hans rosling où il a vraiment mis l'accent sur ce que je pense depuis longtemps : nous avons des données nombreuses , mais , pour diverses raisons , inexploitées .
+nous n'y accédons pas vraiment . c'est pourquoi , à mon avis , nous serons aidés par des graphiques et des outils de visualisation et d'inférence .
+je pense donc que tout ça commencera grâce à de meilleures interfaces capables d'aller dans le détail des données , tout en pensant à la vue globale , ici .
+voici une autre application . elle s'appelle _UNK_ .
+c'est fait par la nasa . c'est -- nous avons tous vu google earth , c'est une version en logiciel libre . il y a des _UNK_ capables de charger différents ensembles de données que la nasa a _UNK_ au fil des ans .
+mais comme vous le voyez , je peux utiliser les mêmes gestes des doigts pour zoomer en profondeur sans rupture . pas d'interface , à nouveau .
+cela permet à n'importe qui de zoomer -- cela fait ce à quoi vous vous attendez , vous voyez ? encore , pas d'interface . elle disparaît tout simplement .
+je peux passer d'une vue à l'autre . c'est ce qui super avec cette application .
+voilà . la nasa est vraiment sympa . ils ont ces images hyper - spectrales qui sont _UNK_ pour -- c'est vraiment pratique pour déterminer l'usage végétal . bref , revenons à notre sujet .
+le grand intérêt des applications de cartographies -- ce n'est pas en 2d , plutôt en 3d . a nouveau , avec une interface multi - points , vous pouvez faire un geste ainsi -- et être capable d'incliner comme ça , ce n'est vraiment pas qu'un simple mouvement de déplacement en 2d .
+ce geste que nous avons développé , à nouveau , juste avec deux doigts , définit un axe d'inclinaison et vous pouvez incliner vers le haut ou le bas ainsi .
+c'est venu naturellement sur le moment , ce n'est probablement pas la bonne chose à faire , mais vous pouvez faire tellement de choses intéressantes avec ces interfaces .
+c'est aussi très amusant de jouer avec .
+la dernière chose que je veux vous montrer est -- je suis sûr que nous pouvons tous imaginer des applications de divertissement avec ceci .
+je suis un peu plus intéressé par les applications créatives .
+enfin , voici une application toute simple -- je dessine une courbe .
+quand je la ferme , cela devient un personnage .
+le truc sympa , c'est que je peux ajouter des points de contrôle .
+ensuite , je peux les manipuler avec mes deux doigts en même temps .
+regardez ce qui se passe .
+c'est comme une marionnette , où j'utilise tous les doigts possibles pour dessiner et créer -- il y a beaucoup de calculs derrière pour arriver à contrôler cet engrenage et obtenir le résultat voulu .
+en clair , cette technique pour manipuler ici un engrenage , avec plusieurs points de contrôle , est en fait l'état de l'art .
+cela vient juste de sortir à _UNK_ l'an dernier , mais c'est un super exemple du type de recherche que j'aime .
+toute cette puissance de calcul pour faire des choses utiles .
+intuitivement . exactement ce que vous attendez .
+la recherche sur l'interaction multi - point est très active en ce moment dans le domaine des interfaces homme - machine je ne suis pas tout seul , beaucoup de gens s'y mettent .
+cette technologie permettra à plus de gens de s'y mettre , je suis très impatient d'interagir avec vous tous dans les jours à venir et de voir comme cela pourra s'appliquer dans vos domaines respectifs .
+merci .

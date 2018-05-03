@@ -1,0 +1,152 @@
+good	 morn 	 ing 	 	.	i	'm	here	 to 	 day 	 	to	talk	about	autonomous	,	 fly 	 ing 	 	beach	 ball 	 s 	 	.
+no	,	 ag 	 ile 	 	 a 	 erial 	 	 robot 	 s 	 	like	 th 	 is 	 	one	.
+i	'd	like	to	tell	you	a	little	bit	about	the	 challeng 	 es 	 	in	building	these	and	some	of	the	 terr 	 ific 	 	 opport 	 un 	 ities 	 	for	 app 	 ly 	 ing 	 	 th 	 is 	 	technology	.
+so	these	 robot 	 s 	 	are	related	to	 un 	 mann 	 ed 	 	 a 	 erial 	 	 vehicle 	 s 	 	.
+ how 	 ever 	 	,	the	 vehicle 	 s 	 	you	see	here	are	big	.
+they	weigh	 thousand 	 s 	 	of	 pound 	 s 	 	,	are	not	by	any	 mean 	 s 	 	 ag 	 ile 	 	.
+they	're	not	even	autonomous	.
+in	fact	,	 man 	 y 	 	of	these	 vehicle 	 s 	 	are	 oper 	 ated 	 	by	flight	 crew 	 s 	 	that	can	include	 multi 	 ple 	 	 pilot 	 s 	 	,	 oper 	 ators 	 	of	 sensor 	 s 	 	and	mission	 coordi 	 nator 	 s 	 	.
+what	we	're	 interest 	 ed 	 	in	is	 develop 	 ing 	 	 robot 	 s 	 	like	 th 	 is 	 	--	and	here	are	two	other	 picture 	 s 	 	--	of	 robot 	 s 	 	that	you	can	buy	off	the	shelf	.
+so	these	are	 helicopter 	 s 	 	with	four	 rotor 	 s 	 	and	they	're	 rough 	 ly 	 	a	meter	or	so	in	scale	and	weigh	 s 	 ever 	 al 	 	 pound 	 s 	 	.
+and	so	we	 retro 	 fit 	 	these	with	 sensor 	 s 	 	and	 processor 	 s 	 	,	and	these	 robot 	 s 	 	can	fly	 in 	 door 	 s 	 	 with 	 out 	 	gps	.
+the	robot	i	'm	 hold 	 ing 	 	in	my	hand	is	 th 	 is 	 	one	,	and	it	's	 be 	 en 	 	 create 	 d 	 	by	two	 student 	 s 	 	,	alex	and	daniel	.
+so	 th 	 is 	 	 weigh 	 s 	 	a	little	more	than	a	tenth	of	a	pound	.
+it	 consum 	 es 	 	about	15	 watt 	 s 	 	of	power	.
+and	 a 	 s 	 	you	can	see	,	it	's	about	eight	 inch 	 es 	 	in	 dia 	 meter 	 	.
+so	let	me	give	you	just	a	 ver 	 y 	 	quick	 tutor 	 ial 	 	on	how	these	 robot 	 s 	 	work	.
+so	it	 ha 	 s 	 	four	 rotor 	 s 	 	.
+if	you	spin	these	 rotor 	 s 	 	at	the	same	speed	,	the	robot	 hover 	 s 	 	.
+if	you	 in 	 crease 	 	the	speed	of	each	of	these	 rotor 	 s 	 	,	then	the	robot	flies	up	,	it	 accele 	 rates 	 	up	.
+of	course	,	if	the	robot	 we 	 re 	 	 tilt 	 ed 	 	,	 inc 	 lined 	 	to	the	 horizon 	 tal 	 	,	then	it	would	 accele 	 rate 	 	in	 th 	 is 	 	direction	.
+so	to	get	it	to	tilt	,	there	's	one	of	two	ways	of	 do 	 ing 	 	it	.
+so	in	 th 	 is 	 	picture	you	see	that	rotor	four	is	 s 	 pinning 	 	 fast 	 er 	 	and	rotor	two	is	 s 	 pinning 	 	 s 	 lower 	 	.
+and	when	that	 happen 	 s 	 	there	's	moment	that	 cause 	 s 	 	 th 	 is 	 	robot	to	roll	.
+and	the	other	way	around	,	if	you	 in 	 crease 	 	the	speed	of	rotor	three	and	 de 	 crease 	 	the	speed	of	rotor	one	,	then	the	robot	 pitch 	 es 	 	forward	.
+and	then	 final 	 ly 	 	,	if	you	spin	 oppos 	 ite 	 	 pair 	 s 	 	of	 rotor 	 s 	 	 fast 	 er 	 	than	the	other	pair	,	then	the	robot	 yaw 	 s 	 	about	the	 vert 	 ical 	 	axis	.
+so	an	on	-	board	processor	 essential 	 ly 	 	 look 	 s 	 	at	what	 motion 	 s 	 	need	to	be	 execute 	 d 	 	and	 combine 	 s 	 	these	 motion 	 s 	 	and	 figure 	 s 	 	out	what	 command 	 s 	 	to	 s 	 end 	 	to	the	 motor 	 s 	 	600	 time 	 s 	 	a	second	.
+that	's	 bas 	 ically 	 	how	 th 	 is 	 	thing	 oper 	 ates 	 	.
+so	one	of	the	 advantage 	 s 	 	of	 th 	 is 	 	design	is	,	when	you	scale	 thing 	 s 	 	down	,	the	robot	 natural 	 ly 	 	 be 	 come 	 s 	 	 ag 	 ile 	 	.
+so	here	r	is	the	 character 	 istic 	 	length	of	the	robot	.
+it	's	 actual 	 ly 	 	half	the	 dia 	 meter 	 	.
+and	there	are	 lot 	 s 	 	of	physical	 parameter 	 s 	 	that	change	 a 	 s 	 	you	 reduc 	 e 	 	r	.
+the	one	that	's	the	most	 import 	 ant 	 	is	the	 in 	 ertia 	 	or	the	 resist 	 ance 	 	to	motion	.
+so	it	 turn 	 s 	 	out	,	the	 in 	 ertia 	 	,	which	 govern 	 s 	 	angular	motion	,	 scale 	 s 	 	 a 	 s 	 	a	fifth	power	of	r	.
+so	the	 small 	 er 	 	you	make	r	,	the	more	 dramat 	 ically 	 	the	 in 	 ertia 	 	 reduc 	 es 	 	.
+so	 a 	 s 	 	a	result	,	the	angular	 accele 	 ration 	 	,	 de 	 not 	 ed 	 	by	greek	letter	alpha	here	,	 go 	 es 	 	 a 	 s 	 	one	over	r	.
+it	's	 in 	 verse 	 ly 	 	 proportion 	 al 	 	to	r	.
+the	 small 	 er 	 	you	make	it	the	more	 quick 	 ly 	 	you	can	turn	.
+so	 th 	 is 	 	should	be	clear	in	these	 video 	 s 	 	.
+at	the	bottom	right	you	see	a	robot	 perform 	 ing 	 	a	360	degree	flip	in	less	than	half	a	second	.
+ multi 	 ple 	 	 flip 	 s 	 	,	a	little	more	time	.
+so	here	the	 process 	 es 	 	on	board	are	 get 	 ting 	 	 feed 	 back 	 	from	 accele 	 rometers 	 	and	gyros	on	board	and	 calcul 	 ating 	 	,	like	i	 s 	 aid 	 	before	,	 command 	 s 	 	at	600	 time 	 s 	 	a	second	to	 stabil 	 ize 	 	 th 	 is 	 	robot	.
+so	on	the	left	,	you	see	daniel	 throw 	 ing 	 	 th 	 is 	 	robot	up	 in 	 to 	 	the	air	.
+and	it	 show 	 s 	 	you	how	 ro 	 bust 	 	the	control	is	.
+no	matter	how	you	throw	it	,	the	robot	 re 	 cover 	 s 	 	and	 come 	 s 	 	back	to	him	.
+so	why	build	 robot 	 s 	 	like	 th 	 is 	 	?
+well	 robot 	 s 	 	like	 th 	 is 	 	have	 man 	 y 	 	 application 	 s 	 	.
+you	can	 s 	 end 	 	them	 in 	 side 	 	 building 	 s 	 	like	 th 	 is 	 	 a 	 s 	 	first	 respond 	 ers 	 	to	look	for	 intrud 	 ers 	 	,	 may 	 be 	 	look	for	 bio 	 chemical 	 	 leak 	 s 	 	,	 gas 	 eous 	 	 leak 	 s 	 	.
+you	can	 al 	 so 	 	use	them	for	 application 	 s 	 	like	construction	.
+so	here	are	 robot 	 s 	 	 carry 	 ing 	 	 beam 	 s 	 	,	 column 	 s 	 	and	 assem 	 bling 	 	cube	-	like	 structure 	 s 	 	.
+i	'll	tell	you	a	little	bit	more	about	 th 	 is 	 	.
+the	 robot 	 s 	 	can	be	used	for	 transport 	 ing 	 	 car 	 go 	 	.
+so	one	of	the	 problem 	 s 	 	with	these	small	 robot 	 s 	 	is	 the 	 ir 	 	 pay 	 load 	 	 carry 	 ing 	 	 cap 	 a 	 city 	 	.	so	you	might	want	to	have	 multi 	 ple 	 	 robot 	 s 	 	carry	 pay 	 load 	 s 	 	.
+ th 	 is 	 	is	a	picture	of	a	 re 	 cent 	 	experiment	we	did	--	 actual 	 ly 	 	not	so	 re 	 cent 	 	 any 	 more 	 	--	in	sendai	 short 	 ly 	 	after	the	 earth 	 quake 	 	.
+so	 robot 	 s 	 	like	 th 	 is 	 	could	be	 s 	 ent 	 	 in 	 to 	 	 collapse 	 d 	 	 building 	 s 	 	to	assess	the	damage	after	natural	 disaster 	 s 	 	,	or	 s 	 ent 	 	 in 	 to 	 	reactor	 building 	 s 	 	to	map	 radi 	 ation 	 	 level 	 s 	 	.
+so	one	fundamental	problem	that	the	 robot 	 s 	 	have	to	solve	if	they	're	to	be	autonomous	is	 essential 	 ly 	 	 figur 	 ing 	 	out	how	to	get	from	point	a	to	point	b	.
+so	 th 	 is 	 	 get 	 s 	 	a	little	 challeng 	 ing 	 	 be 	 cause 	 	the	 dynamic 	 s 	 	of	 th 	 is 	 	robot	are	 quit 	 e 	 	 complic 	 ated 	 	.
+in	fact	,	they	live	in	a	12	-	dimensional	space	.
+so	we	use	a	little	trick	.
+we	take	 th 	 is 	 	 curv 	 ed 	 	12	-	dimensional	space	and	transform	it	 in 	 to 	 	a	flat	four	-	dimensional	space	.
+and	that	four	-	dimensional	space	 consist 	 s 	 	of	x	,	y	,	z	and	then	the	yaw	angle	.
+and	so	what	the	robot	 do 	 es 	 	is	it	 plan 	 s 	 	what	we	call	a	 minim 	 um 	 	snap	 tra 	 ject 	 ory 	 	.
+so	to	 re 	 mind 	 	you	of	physics	,	you	have	position	,	 deriv 	 ative 	 	,	 velo 	 city 	 	,	then	 accele 	 ration 	 	,	and	then	 come 	 s 	 	jerk	and	then	 come 	 s 	 	snap	.	so	 th 	 is 	 	robot	 minim 	 ize 	 s 	 	snap	.
+so	what	that	 effective 	 ly 	 	 do 	 es 	 	is	 produce 	 s 	 	a	smooth	and	 grace 	 ful 	 	motion	.
+and	it	 do 	 es 	 	that	 avoid 	 ing 	 	 obstacle 	 s 	 	.
+so	these	 minim 	 um 	 	snap	 tra 	 ject 	 ories 	 	in	 th 	 is 	 	flat	space	are	then	 transform 	 ed 	 	back	 in 	 to 	 	 th 	 is 	 	 complic 	 ated 	 	12	-	dimensional	space	,	which	the	robot	must	do	for	control	and	then	 exec 	 ution 	 	.
+so	let	me	show	you	some	 ex 	 ample 	 s 	 	of	what	these	 minim 	 um 	 	snap	 tra 	 ject 	 ories 	 	look	like	.
+and	in	the	first	video	,	you	'll	see	the	robot	going	from	point	a	to	point	b	through	an	 inter 	 mediate 	 	point	.
+so	the	robot	is	 obvious 	 ly 	 	 cap 	 able 	 	of	 exec 	 uting 	 	any	 curv 	 e 	 	 tra 	 ject 	 ory 	 	.
+so	these	are	 circul 	 ar 	 	 tra 	 ject 	 ories 	 	where	the	robot	 pull 	 s 	 	about	two	g	's	.
+here	you	have	 over 	 head 	 	motion	capture	 camera 	 s 	 	on	the	top	that	tell	the	robot	where	it	is	100	 time 	 s 	 	a	second	.
+it	 al 	 so 	 	 tell 	 s 	 	the	robot	where	these	 obstacle 	 s 	 	are	.
+and	the	 obstacle 	 s 	 	can	be	moving	.
+and	here	you	'll	see	daniel	throw	 th 	 is 	 	hoop	 in 	 to 	 	the	air	,	while	the	robot	is	 calcul 	 ating 	 	the	position	of	the	hoop	and	 try 	 ing 	 	to	figure	out	how	to	best	go	through	the	hoop	.
+so	 a 	 s 	 	an	academic	,	we	're	 al 	 ways 	 	trained	to	be	able	to	jump	through	 hoop 	 s 	 	to	raise	 fund 	 ing 	 	for	our	 lab 	 s 	 	,	and	we	get	our	 robot 	 s 	 	to	do	that	.
+so	 an 	 other 	 	thing	the	robot	can	do	is	it	 remember 	 s 	 	 piece 	 s 	 	of	 tra 	 ject 	 ory 	 	that	it	 learn 	 s 	 	or	is	pre	-	 programm 	 ed 	 	.
+so	here	you	see	the	robot	 comb 	 in 	 ing 	 	a	motion	that	 build 	 s 	 	up	 moment 	 um 	 	and	then	 change 	 s 	 	 it 	 s 	 	 orient 	 ation 	 	and	then	 re 	 cover 	 s 	 	.
+so	it	 ha 	 s 	 	to	do	 th 	 is 	 	 be 	 cause 	 	 th 	 is 	 	gap	in	the	window	is	 on 	 ly 	 	 s 	 light 	 ly 	 	 large 	 r 	 	than	the	width	of	the	robot	.
+so	just	like	a	 div 	 er 	 	 stand 	 s 	 	on	a	 spring 	 board 	 	and	then	 jump 	 s 	 	off	it	to	gain	 moment 	 um 	 	,	and	then	 do 	 es 	 	 th 	 is 	 	 pirouett 	 e 	 	,	 th 	 is 	 	two	and	a	half	 some 	 rs 	 ault 	 	through	and	then	 grace 	 fully 	 	 re 	 cover 	 s 	 	,	 th 	 is 	 	robot	is	 bas 	 ically 	 	 do 	 ing 	 	that	.
+so	it	 know 	 s 	 	how	to	combine	little	bits	and	 piece 	 s 	 	of	 tra 	 ject 	 ories 	 	to	do	these	 fair 	 ly 	 	difficult	 task 	 s 	 	.
+so	i	want	change	 gear 	 s 	 	.
+so	one	of	the	 dis 	 advantage 	 s 	 	of	these	small	 robot 	 s 	 	is	 it 	 s 	 	 s 	 ize 	 	.
+and	i	told	you	 ear 	 lier 	 	that	we	may	want	to	employ	 lot 	 s 	 	and	 lot 	 s 	 	of	 robot 	 s 	 	to	 over 	 come 	 	the	 limit 	 ations 	 	of	 s 	 ize 	 	.
+so	one	 difficult 	 y 	 	is	how	do	you	coordinate	 lot 	 s 	 	of	these	 robot 	 s 	 	?
+and	so	here	we	 look 	 ed 	 	to	nature	.
+so	i	want	to	show	you	a	clip	of	aphaenogaster	desert	ants	in	professor	stephen	pratt	's	lab	 carry 	 ing 	 	an	object	.
+so	 th 	 is 	 	is	 actual 	 ly 	 	a	piece	of	fig	.
+ actual 	 ly 	 	you	take	any	object	 co 	 ated 	 	with	fig	juice	and	the	ants	will	carry	them	back	to	the	nest	.
+so	these	ants	do	n't	have	any	central	 coordi 	 nator 	 	.
+they	sense	 the 	 ir 	 	 neighbor 	 s 	 	.
+there	's	no	 ex 	 plicit 	 	communication	.
+but	 be 	 cause 	 	they	sense	the	 neighbor 	 s 	 	and	 be 	 cause 	 	they	sense	the	object	,	they	have	 im 	 plicit 	 	 coordi 	 nation 	 	 a 	 cross 	 	the	group	.
+so	 th 	 is 	 	is	the	kind	of	 coordi 	 nation 	 	we	want	our	 robot 	 s 	 	to	have	.
+so	when	we	have	a	robot	which	is	 surround 	 ed 	 	by	 neighbor 	 s 	 	--	and	let	's	look	at	robot	i	and	robot	j	--	what	we	want	the	 robot 	 s 	 	to	do	is	to	monitor	the	 separat 	 ion 	 	between	them	 a 	 s 	 	they	fly	in	 form 	 ation 	 	.
+and	then	you	want	to	make	 s 	 ure 	 	that	 th 	 is 	 	 separat 	 ion 	 	is	 with 	 in 	 	 accept 	 able 	 	 level 	 s 	 	.
+so	 aga 	 in 	 	the	 robot 	 s 	 	monitor	 th 	 is 	 	error	and	 calcul 	 ate 	 	the	control	 command 	 s 	 	100	 time 	 s 	 	a	second	,	which	then	 transl 	 ates 	 	to	the	motor	 command 	 s 	 	600	 time 	 s 	 	a	second	.
+so	 th 	 is 	 	 al 	 so 	 	 ha 	 s 	 	to	be	 d 	 one 	 	in	a	 de 	 central 	 ized 	 	way	.
+ aga 	 in 	 	,	if	you	have	 lot 	 s 	 	and	 lot 	 s 	 	of	 robot 	 s 	 	,	it	's	 im 	 possible 	 	to	coordinate	all	 th 	 is 	 	information	 central 	 ly 	 	fast	 en 	 ough 	 	in	order	for	the	 robot 	 s 	 	to	accomplish	the	task	.
+plus	the	 robot 	 s 	 	have	to	base	 the 	 ir 	 	 action 	 s 	 	 on 	 ly 	 	on	local	information	,	what	they	sense	from	 the 	 ir 	 	 neighbor 	 s 	 	.
+and	then	 final 	 ly 	 	,	we	insist	that	the	 robot 	 s 	 	be	agnostic	to	who	 the 	 ir 	 	 neighbor 	 s 	 	are	.
+so	 th 	 is 	 	is	what	we	call	 anonym 	 ity 	 	.
+so	what	i	want	to	show	you	next	is	a	video	of	20	of	these	little	 robot 	 s 	 	 fly 	 ing 	 	in	 form 	 ation 	 	.
+they	're	 monitor 	 ing 	 	 the 	 ir 	 	 neighbor 	 s 	 	'	position	.
+they	're	 maintain 	 ing 	 	 form 	 ation 	 	.
+the	 form 	 ations 	 	can	change	.
+they	can	be	 plan 	 ar 	 	 form 	 ations 	 	,	they	can	be	three	-	dimensional	 form 	 ations 	 	.
+ a 	 s 	 	you	can	see	here	,	they	collapse	from	a	three	-	dimensional	 form 	 ation 	 	 in 	 to 	 	 plan 	 ar 	 	 form 	 ation 	 	.
+and	to	fly	through	 obstacle 	 s 	 	they	can	adapt	the	 form 	 ations 	 	on	the	fly	.
+so	 aga 	 in 	 	,	these	 robot 	 s 	 	come	 re 	 ally 	 	close	together	.
+ a 	 s 	 	you	can	see	in	 th 	 is 	 	figure	-	eight	flight	,	they	come	 with 	 in 	 	 inch 	 es 	 	of	each	other	.
+and	 de 	 spite 	 	the	 aero 	 dynamic 	 	 interact 	 ions 	 	of	these	 propel 	 ler 	 	 blade 	 s 	 	,	they	're	able	to	maintain	 s 	 table 	 	flight	.
+so	once	you	know	how	to	fly	in	 form 	 ation 	 	,	you	can	 actual 	 ly 	 	pick	up	 object 	 s 	 	 co 	 operative 	 ly 	 	.
+so	 th 	 is 	 	just	 show 	 s 	 	that	we	can	double	,	triple	,	quadruple	the	robot	strength	by	just	 get 	 ting 	 	them	to	team	with	 neighbor 	 s 	 	,	 a 	 s 	 	you	can	see	here	.
+one	of	the	 dis 	 advantage 	 s 	 	of	 do 	 ing 	 	that	is	,	 a 	 s 	 	you	scale	 thing 	 s 	 	up	--	so	if	you	have	 lot 	 s 	 	of	 robot 	 s 	 	 carry 	 ing 	 	the	same	thing	,	you	're	 essential 	 ly 	 	 effective 	 ly 	 	increasing	the	 in 	 ertia 	 	,	and	 there 	 fore 	 	you	pay	a	price	;	they	're	not	 a 	 s 	 	 ag 	 ile 	 	.
+but	you	do	gain	in	 term 	 s 	 	of	 pay 	 load 	 	 carry 	 ing 	 	 cap 	 a 	 city 	 	.
+ an 	 other 	 	application	i	want	to	show	you	--	 aga 	 in 	 	,	 th 	 is 	 	is	in	our	lab	.
+ th 	 is 	 	is	work	 d 	 one 	 	by	quentin	lindsey	who	's	a	graduate	student	.
+so	his	algorithm	 essential 	 ly 	 	 tell 	 s 	 	these	 robot 	 s 	 	how	to	 autonomous 	 ly 	 	build	cubic	 structure 	 s 	 	from	truss	-	like	 element 	 s 	 	.
+so	his	algorithm	 tell 	 s 	 	the	robot	what	part	to	pick	up	,	when	and	where	to	place	it	.
+so	in	 th 	 is 	 	video	you	see	--	and	it	's	 s 	 ped 	 	up	10	,	14	 time 	 s 	 	--	you	see	three	different	 structure 	 s 	 	 be 	 ing 	 	built	by	these	 robot 	 s 	 	.
+and	 aga 	 in 	 	,	 every 	 thing 	 	is	autonomous	,	and	all	quentin	 ha 	 s 	 	to	do	is	to	get	them	a	 blue 	 print 	 	of	the	design	that	he	 want 	 s 	 	to	build	.
+so	all	these	 experiment 	 s 	 	you	've	 s 	 een 	 	thus	far	,	all	these	 demonst 	 ration 	 s 	 	,	have	 be 	 en 	 	 d 	 one 	 	with	the	help	of	motion	capture	 system 	 s 	 	.
+so	what	 happen 	 s 	 	when	you	 leav 	 e 	 	your	lab	and	you	go	 out 	 side 	 	 in 	 to 	 	the	real	world	?
+and	what	if	there	's	no	gps	?
+so	 th 	 is 	 	robot	is	 actual 	 ly 	 	 equi 	 pped 	 	with	a	camera	and	a	laser	 range 	 finder 	 	,	laser	scanner	.
+and	it	uses	these	 sensor 	 s 	 	to	build	a	map	of	the	environment	.
+what	that	map	 consist 	 s 	 	of	are	 feature 	 s 	 	--	like	 door 	 ways 	 	,	 window 	 s 	 	,	people	,	furniture	--	and	it	then	 figure 	 s 	 	out	where	 it 	 s 	 	position	is	with	respect	to	the	 feature 	 s 	 	.
+so	there	is	no	global	coordinate	system	.
+the	coordinate	system	is	defined	based	on	the	robot	,	where	it	is	and	what	it	's	looking	at	.
+and	it	 navig 	 ates 	 	with	respect	to	 t 	 hose 	 	 feature 	 s 	 	.
+so	i	want	to	show	you	a	clip	of	 algorithm 	 s 	 	 develop 	 ed 	 	by	frank	shen	and	professor	nathan	michael	that	 show 	 s 	 	 th 	 is 	 	robot	 enter 	 ing 	 	a	building	for	the	 ver 	 y 	 	first	time	and	creating	 th 	 is 	 	map	on	the	fly	.
+so	the	robot	then	 figure 	 s 	 	out	what	the	 feature 	 s 	 	are	.
+it	 build 	 s 	 	the	map	.
+it	 figure 	 s 	 	out	where	it	is	with	respect	to	the	 feature 	 s 	 	and	then	 estimate 	 s 	 	 it 	 s 	 	position	100	 time 	 s 	 	a	second	 allow 	 ing 	 	us	to	use	the	control	 algorithm 	 s 	 	that	i	 de 	 scribed 	 	to	you	 ear 	 lier 	 	.
+so	 th 	 is 	 	robot	is	 actual 	 ly 	 	 be 	 ing 	 	 command 	 ed 	 	 remote 	 ly 	 	by	frank	.
+but	the	robot	can	 al 	 so 	 	figure	out	where	to	go	on	 it 	 s 	 	own	.
+so	suppose	i	 we 	 re 	 	to	 s 	 end 	 	 th 	 is 	 	 in 	 to 	 	a	building	and	i	had	no	idea	what	 th 	 is 	 	building	 look 	 ed 	 	like	,	i	can	ask	 th 	 is 	 	robot	to	go	in	,	create	a	map	and	then	come	back	and	tell	me	what	the	building	 look 	 s 	 	like	.
+so	here	,	the	robot	is	not	 on 	 ly 	 	solving	the	problem	,	how	to	go	from	point	a	to	point	b	in	 th 	 is 	 	map	,	but	it	's	 figur 	 ing 	 	out	what	the	best	point	b	is	at	every	time	.
+so	 essential 	 ly 	 	it	 know 	 s 	 	where	to	go	to	look	for	 place 	 s 	 	that	have	the	 l 	 east 	 	information	.
+and	that	's	how	it	 populate 	 s 	 	 th 	 is 	 	map	.
+so	i	want	to	 leav 	 e 	 	you	with	one	last	application	.
+and	there	are	 man 	 y 	 	 application 	 s 	 	of	 th 	 is 	 	technology	.
+i	'm	a	professor	,	and	we	're	passionate	about	education	.
+ robot 	 s 	 	like	 th 	 is 	 	can	 re 	 ally 	 	change	the	way	we	do	k	through	12	education	.
+but	we	're	in	southern	california	,	close	to	los	angeles	,	so	i	have	to	conclude	with	 some 	 thing 	 	focused	on	 entertain 	 ment 	 	.
+i	want	to	conclude	with	a	music	video	.
+i	want	to	 introduc 	 e 	 	the	 creator 	 s 	 	,	alex	and	daniel	,	who	 create 	 d 	 	 th 	 is 	 	video	.
+so	before	i	play	 th 	 is 	 	video	,	i	want	to	tell	you	that	they	 create 	 d 	 	it	in	the	last	three	 day 	 s 	 	after	 get 	 ting 	 	a	call	from	chris	.
+and	the	 robot 	 s 	 	that	play	the	video	are	 complete 	 ly 	 	autonomous	.
+you	will	see	nine	 robot 	 s 	 	play	six	different	 instrument 	 s 	 	.
+and	of	course	,	it	's	made	 exclusive 	 ly 	 	for	ted	2012	.
+let	's	watch	.
+

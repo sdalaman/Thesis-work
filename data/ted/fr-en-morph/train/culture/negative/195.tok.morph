@@ -1,0 +1,210 @@
+je	veux	que	vous	 imagi 	 niez 	 	être	un	de	mes	 étudiant 	 s 	 	au	labo	.
+je	veux	que	vous	 cré 	 iez 	 	un	design	inspiré	 bio 	 logique 	 ment 	 	.
+ e 	 t 	 	 voil 	 à 	 	donc	le	défi	:	vous	allez	 m'aide 	 r 	 	à	créer	un	prototype	de	contact	 para 	 métré 	 	,	en	3d	 e 	 t 	 	dynamique	.
+ce	qui	 s 	 e 	 	traduit	par	:	m'aideriez	-	vous	à	 construi 	 re 	 	un	pied	?
+or	c'est	un	vrai	défi	 e 	 t 	 	je	veux	 ré 	 ellement 	 	que	vous	 m' 	 aid 	 iez 	 	.
+bien	sûr	,	pour	ce	défi	il	y	a	un	lot	à	 gagne 	 r 	 	.
+pas	 exacte 	 ment 	 	le	 pri 	 x 	 	ted	,	 mai 	 s 	 	en	 exclus 	 ivité 	 	,	un	t	-	shirt	de	 not 	 re 	 	labo	.
+alors	envoyez	-	moi	 vo 	 s 	 	 idée 	 s 	 	sur	la	façon	de	concevoir	un	pied	.
+si	on	veut	concevoir	un	pied	,	que	doit	-	on	faire	?
+on	doit	 d' 	 abord 	 	 s 	 avoir 	 	ce	 qu' 	 est 	 	un	pied	.
+dans	le	 diction 	 naire 	 	on	lit	,	``	extrémité	 inférieur 	 e 	 	 d' 	 une 	 	jambe	en	contact	direct	avec	le	sol	en	position	 de 	 bout 	 	ou	en	marche	``	c'est	la	 défini 	 tion 	 	 tradition 	 nelle 	 	.
+ mai 	 s 	 	pour	faire	une	 vrai 	 e 	 	recherche	,	que	 dev 	 ez 	 	-	vous	faire	?
+vous	 dev 	 ez 	 	étudier	la	 littér 	 a 	 ture 	 	 e 	 t 	 	voir	ce	 qu' 	 on 	 	 s 	 ait 	 	des	 pied 	 s 	 	.
+alors	vous	allez	étudier	la	 littér 	 a 	 ture 	 	.
+peut	-	être	que	vous	 connaisse 	 z 	 	bien	 ce 	 tte 	 	 littér 	 a 	 ture 	 	.
+le	problème	c'est	qu'il	y	a	beaucoup	de	 pied 	 s 	 	 différent 	 s 	 	.
+comment	faire	?
+il	faut	 observe 	 r 	 	tous	les	 pied 	 s 	 	 e 	 t 	 	extraire	des	 principe 	 s 	 	de	 fonctionne 	 ment 	 	.
+ e 	 t 	 	je	veux	que	vous	 m' 	 aid 	 iez 	 	à	le	faire	dans	ce	clip	vidéo	.
+en	 regard 	 ant 	 	,	 cherche 	 z 	 	des	 principe 	 s 	 	 e 	 t 	 	pensez	aussi	aux	 expérience 	 s 	 	que	vous	 pourri 	 ez 	 	 élabore 	 r 	 	 af 	 in 	 	de	 comprend 	 re 	 	le	 fonctionne 	 ment 	 	 d' 	 un 	 	pied	.
+voyez	-	vous	des	 thème 	 s 	 	 commun 	 s 	 	?	des	 principe 	 s 	 	?
+que	 fer 	 iez 	 	-	vous	?
+ quelle 	 s 	 	 expérience 	 s 	 	tenteriez	-	vous	?
+ w 	 ow 	 	.
+ not 	 re 	 	recherche	sur	la	 bio 	 mécanique 	 	du	 déplace 	 ment 	 	animal	nous	a	 per 	 mis 	 	de	créer	un	plan	 dé 	 taillé 	 	pour	un	pied	.
+c'est	un	design	inspiré	par	la	nature	 mai 	 s 	 	ce	n'est	pas	la	copie	 d' 	 un 	 	des	 pied 	 s 	 	que	 l' 	 on 	 	vient	de	voir	,	c'est	une	synthèse	des	 a 	 tout 	 s 	 	 secret 	 s 	 	de	 nombre 	 ux 	 	 pied 	 s 	 	 différent 	 s 	 	.
+on	 s 	 e 	 	rend	compte	que	les	animaux	peuvent	aller	 par 	 tout 	 	.
+ils	 s 	 e 	 	 déplace 	 nt 	 	sur	des	 sub 	 strat 	 s 	 	qui	 vari 	 ent 	 	--	comme	on	a	pu	le	voir	--	en	 prob 	 abilité 	 	de	contact	,	en	mouvement	de	surface	 e 	 t 	 	en	type	de	 point 	 s 	 	 d' 	 ancrage 	 	 présent 	 s 	 	.
+pour	étudier	comment	marche	un	pied	,	on	va	 de 	 voir 	 	 simule 	 r 	 	 ce 	 s 	 	 surface 	 s 	 	,	ou	 simule 	 r 	 	 ce 	 s 	 	 dé 	 bri 	 s 	 	.
+cela	fait	,	 voil 	 à 	 	une	nouvelle	expérience	 qu' 	 on 	 	a	 tenté 	 e 	 	:	on	a	 pri 	 s 	 	un	animal	 qu' 	 on 	 	a	fait	courir	--	 ce 	 tte 	 	araignée	--	sur	une	surface	où	99	%	de	la	zone	de	contact	a	été	 retiré 	 e 	 	 mai 	 s 	 	ça	ne	l'a	même	pas	 ralenti 	 e 	 	.
+elle	_UNK_	 tou 	 jour 	 s 	 	à	 l' 	 équivalent 	 	pour	nous	de	480	km	/	h	.
+alors	comment	fait	-	elle	?	 observe 	 z 	 	plus	 attentive 	 ment 	 	.
+quand	on	ralenti	50	fois	,	on	voit	comment	 s 	 a 	 	jambe	touche	le	 dé 	 bri 	 s 	 	simulé	.
+ s 	 a 	 	jambe	agit	comme	un	pied	.
+ e 	 t 	 	en	fait	,	elle	utilise	les	 autre 	 s 	 	 parti 	 es 	 	de	 s 	 a 	 	jambe	plus	 fréquem 	 ment 	 	que	le	pied	à	 propre 	 ment 	 	 parle 	 r 	 	.
+le	pied	est	réparti	le	long	de	 tout 	 e 	 	la	jambe	.
+vous	 pouv 	 ez 	 	faire	une	autre	expérience	avec	un	 ca 	 fard 	 	 au 	 quel 	 	vous	 re 	 ti 	 rez 	 	un	pied	.
+je	fais	passer	des	 ca 	 fard 	 s 	 	,	regardez	bien	 leur 	 s 	 	 pied 	 s 	 	.
+sans	pied	,	 voil 	 à 	 	ce	qui	 s 	 e 	 	passe	.	il	ne	 ralenti 	 t 	 	même	pas	.
+sans	 ce 	 t 	 	appui	,	il	peut	courir	 exacte 	 ment 	 	à	la	même	vitesse	.
+pas	de	problème	pour	le	 ca 	 fard 	 	--	 e 	 t 	 	leur	jambe	repousse	,	si	ça	vous	inquiète	.
+comment	font	-	ils	?
+regardez	bien	:	la	vidéo	est	 ralenti 	 e 	 	cent	fois	 e 	 t 	 	regardez	ce	qu'il	fait	du	reste	de	 s 	 a 	 	jambe	.
+elle	agit	,	encore	une	fois	,	comme	un	pied	réparti	.
+très	efficace	.
+la	question	ainsi	posée	est	,	ce	type	de	pied	est	il	courant	?
+la	première	fois	,	 l' 	 attitude 	 	de	 l' 	 animal 	 	 suiv 	 ant 	 	nous	a	_UNK_	.
+ messie 	 urs 	 	les	 journal 	 istes 	 	,	 ce 	 ci 	 	est	non	-	officiel	--	regardez	ce	que	 l' 	 on 	 	voit	!
+voici	une	pieuvre	 bi 	 pède 	 	 déguisé 	 e 	 	en	 no 	 ix 	 	de	coco	 roulant 	 e 	 	.
+elle	a	été	 dé 	 couvert 	 e 	 	par	christina	_UNK_	 e 	 t 	 	 filmé 	 e 	 	par	sea	 studio 	 s 	 	,	ici	-	même	à	monterey	.
+nous	avons	 égale 	 ment 	 	 dé 	 crit 	 	une	autre	espèce	de	pieuvre	 bi 	 pède 	 	.
+celle	-	ci	 s 	 e 	 	déguise	en	algue	 flott 	 ante 	 	.
+elle	marche	sur	deux	 jambe 	 s 	 	 e 	 t 	 	lève	 s 	 es 	 	bras	pour	 s 	 e 	 	 camouf 	 ler 	 	.
+ e 	 t 	 	regardez	ce	 qu' 	 elle 	 	fait	de	 s 	 es 	 	 pied 	 s 	 	pour	 traverse 	 r 	 	des	 terrain 	 s 	 	 difficile 	 s 	 	.
+elle	utilise	ce	beau	pied	réparti	,	 fais 	 ant 	 	comme	si	les	 obstacle 	 s 	 	 n'exist 	 aient 	 	même	pas	.
+ ré 	 ellement 	 	extraordinaire	.
+en	_UNK_	,	escher	fait	ce	dessin	.	il	 pens 	 ait 	 	avoir	créé	un	animal	 fant 	 ais 	 iste 	 	.
+ mai 	 s 	 	nous	 s 	 avons 	 	que	l'art	imite	la	vie	 e 	 t 	 	il	semble	que	la	nature	a	créé	 ce 	 t 	 	animal	il	y	a	3	 million 	 s 	 	d'années	.
+c'est	un	stomatopode	,	qui	ressemble	à	une	crevette	,	 e 	 t 	 	 voil 	 à 	 	comment	il	 s 	 e 	 	déplace	sur	les	 p 	 lage 	 s 	 	de	panama	:	il	roule	sur	lui	-	même	 e 	 t 	 	peut	même	 roule 	 r 	 	sur	une	pente	 ascendant 	 e 	 	.
+c'est	le	pied	réparti	ultime	;	son	corps	entier	est	utilisé	comme	un	pied	.
+alors	,	pour	 ajoute 	 r 	 	à	 not 	 re 	 	prototype	la	première	 fonction 	 nalité 	 	 important 	 e 	 	,	nous	 voul 	 ons 	 	en	faire	un	pied	à	contact	réparti	.
+non	 seul 	 ement 	 	pour	ce	 qu' 	 on 	 	appelle	le	pied	,	 mai 	 s 	 	pour	 tout 	 e 	 	la	jambe	,	 e 	 t 	 	même	le	corps	.
+est	-	ce	que	cela	peut	nous	aider	à	 dessin 	 er 	 	de	 nouveau 	 x 	 	 robot 	 s 	 	?
+nous	avons	été	inspiré	par	la	biologie	pour	ce	robot	appelé	rhex	,	construit	 ce 	 s 	 	 der 	 nières 	 	 année 	 s 	 	par	 d' 	 extraordinaire 	 s 	 	 ingénieur 	 s 	 	.
+le	pied	de	rhex	était	très	simple	au	début	,	 e 	 t 	 	il	a	évolué	 jus 	 qu' 	 à 	 	être	ce	demi	-	cercle	.
+ e 	 t 	 	pourquoi	?	la	vidéo	va	vous	le	 montre 	 r 	 	.
+regardez	comment	le	robot	utilise	 s 	 a 	 	jambe	pour	 surmonte 	 r 	 	les	 difficulté 	 s 	 	du	terrain	.
+ce	que	vous	voyez	,	c'est	 l' 	 utilisation 	 	de	la	jambe	semi	-	 circul 	 aire 	 	comme	un	pied	à	contact	réparti	.
+regardez	-	le	 dépasse 	 r 	 	ça	.
+on	le	voit	bien	dans	 ce 	 s 	 	 dé 	 bri 	 s 	 	.
+très	simple	 mai 	 s 	 	magnifique	.
+vous	avez	peut	-	être	 remarqu 	 e 	 	quelque	chose	 d' 	 autre 	 	quand	les	animaux	 cour 	 aient 	 	sur	ce	terrain	difficile	.
+mon	assistant	va	 m'aide 	 r 	 	pour	ce	coup	-	là	.
+quand	tu	 a 	 s 	 	touché	la	patte	du	 ca 	 fard 	 	--	on	peut	lui	trouver	un	micro	?
+quand	tu	 a 	 s 	 	touché	la	patte	du	 ca 	 fard 	 	,	qu'as	-	tu	senti	?
+tu	 a 	 s 	 	 remarqu 	 é 	 	quelque	chose	?
+garçon	:	c'est	 épine 	 ux 	 	.
+robert	full	:	 épine 	 ux 	 	 he 	 in 	 	?	très	 épine 	 ux 	 	même	?	ça	fait	un	peu	mal	.
+peut	-	être	que	tu	peux	le	donner	au	 conserv 	 ateur 	 	 e 	 t 	 	voir	 s' 	 il 	 	a	le	courage	de	le	 touche 	 r 	 	.
+chris	anderson	:	tu	 l'a 	 s 	 	touché	?
+rf	:	si	vous	regardez	 attentive 	 ment 	 	vous	 ver 	 rez 	 	des	 épine 	 s 	 	 e 	 t 	 	 jus 	 qu' 	 à 	 	 quelque 	 s 	 	 semaine 	 s 	 	,	personne	ne	 s 	 avait 	 	qu'il	y	en	avait	.
+ils	 s 	 e 	 	 s 	 ont 	 	dit	que	 c' 	 était 	 	un	moyen	de	défense	 e 	 t 	 	des	 capte 	 urs 	 	 sensoriel 	 s 	 	.
+nous	avons	 dé 	 couvert 	 	que	ce	n'est	pas	ça	--	 voil 	 à 	 	un	segment	_UNK_	.
+ils	 s 	 ont 	 	 prévu 	 s 	 	pour	 s 	 e 	 	 penche 	 r 	 	 facile 	 ment 	 	dans	une	direction	pour	 re 	 tirer 	 	la	jambe	des	 déc 	 ombre 	 s 	 	,	 mai 	 s 	 	ils	 s 	 e 	 	_UNK_	dans	 l' 	 autre 	 	direction	pour	 s' 	 appuyer 	 	sur	les	_UNK_	de	la	surface	.
+ ce 	 s 	 	 point 	 s 	 	 d' 	 ancrage 	 	ne	 manque 	 nt 	 	pas	aux	 crabe 	 s 	 	car	ils	 s 	 e 	 	 déplace 	 nt 	 	sur	du	 s 	 able 	 	--	 jus 	 qu' 	 à 	 	leur	arrivée	dans	 not 	 re 	 	labo	--	où	ils	 découvre 	 nt 	 	leur	problème	avec	ce	 gen 	 re 	 	de	 file 	 t 	 s 	 	,	parce	 qu'il 	 s 	 	 n' 	 ont 	 	pas	 d' 	 épine 	 s 	 	.
+les	 crabe 	 s 	 	 n' 	 ont 	 	pas	 d' 	 épine 	 s 	 	alors	ils	ont	des	 difficulté 	 s 	 	sur	ce	 gen 	 re 	 	de	terrain	abrupt	.
+ mai 	 s 	 	bien	sûr	,	nous	 pouv 	 ons 	 	 reméd 	 ier 	 	à	cela	,	car	nous	 pouv 	 ons 	 	créer	des	 épine 	 s 	 	 artificiel 	 les 	 	.
+nous	 pouv 	 ons 	 	fabriquer	des	 épine 	 s 	 	qui	 s' 	 accroche 	 nt 	 	aux	 dé 	 bri 	 s 	 	 synthé 	 tiques 	 	 e 	 t 	 	 s 	 e 	 	 couche 	 nt 	 	lors	du	 re 	 trait 	 	pour	les	 re 	 tirer 	 	 facile 	 ment 	 	.
+nous	avons	fait	cela	en	 fix 	 ant 	 	 ce 	 s 	 	 épine 	 s 	 	aux	 crabe 	 s 	 	,	comme	vous	le	voyez	ici	,	 e 	 t 	 	nous	les	avons	 testé 	 es 	 	.
+est	-	ce	que	nous	 com 	 prenons 	 	 vrai 	 ment 	 	ce	principe	de	mise	au	point	?	la	réponse	est	,	oui	!
+ ce 	 ci 	 	est	ralenti	20	fois	,	le	crabe	traverse	les	 déc 	 ombre 	 s 	 	à	 tout 	 e 	 	vitesse	.
+un	petit	peu	 mi 	 eux 	 	que	la	nature	.
+alors	à	 not 	 re 	 	prototype	,	nous	 dev 	 ons 	 	 ajoute 	 r 	 	des	 épine 	 s 	 	bien	_UNK_	.
+ ce 	 ci 	 	va	-	t	-	il	nous	aider	à	penser	un	design	plus	efficace	pour	des	 robot 	 s 	 	 grimpe 	 urs 	 	?
+ e 	 h 	 	bien	,	voici	rhex	,	qui	a	des	 problème 	 s 	 	sur	les	 ra 	 ils 	 	 lisse 	 s 	 	,	comme	on	le	voit	ici	.
+alors	pourquoi	ne	pas	 ajoute 	 r 	 	une	épine	?	mes	 collègue 	 s 	 	 l' 	 ont 	 	fait	à	u	penn	.
+dan	_UNK_	a	mis	des	 ongle 	 s 	 	 d' 	 acier 	 	--	une	version	très	simple	--	sur	le	robot	--	 e 	 t 	 	 voil 	 à 	 	rhex	qui	dépasse	 main 	 tenant 	 	 ce 	 s 	 	 ra 	 ils 	 	.	sans	problème	!
+comment	fait	-	il	?
+ ralenti 	 ssons 	 	la	vidéo	 e 	 t 	 	voyons	les	 épine 	 s 	 	en	action	.
+regardez	la	jambe	 pivot 	 er 	 	 e 	 t 	 	vous	voyez	le	robot	 s' 	 accroche 	 r 	 	juste	ici	.
+il	ne	 pouv 	 ait 	 	pas	le	faire	avant	,	il	 glissa 	 it 	 	,	 s 	 e 	 	_UNK_	 e 	 t 	 	_UNK_	.
+ regard 	 ons 	 	encore	,	juste	ici	--	succès	!
+ ce 	 ci 	 	dit	,	ce	pied	réparti	 e 	 t 	 	 ce 	 s 	 	 épine 	 s 	 	ne	 suffise 	 nt 	 	pas	pour	 grimpe 	 r 	 	des	 surface 	 s 	 	 vertical 	 es 	 	.
+c'est	très	,	très	difficile	.
+ mai 	 s 	 	regardez	 ce 	 s 	 	animaux	le	faire	!
+ l' 	 un 	 	de	ceux	que	je	vous	fais	passer	grimpe	des	 surface 	 s 	 	 vertical 	 es 	 	en	métal	lisse	.
+la	vitesse	à	 la 	 quelle 	 	il	le	fait	est	extraordinaire	--	 mai 	 s 	 	si	vous	 ralenti 	 ssez 	 	,	vous	voyez	quelque	chose	 d' 	 encore 	 	plus	extraordinaire	.
+c'est	un	secret	.	 l' 	 animal 	 	grimpe	très	bien	en	 glissa 	 nt 	 	 e 	 t 	 	regardez	--	il	 s 	 e 	 	 dé 	 brouille 	 	en	fait	très	mal	pour	 s' 	 accroche 	 r 	 	à	la	surface	.
+on	 di 	 rait 	 	 pres 	 que 	 	qu'il	nage	sur	 ce 	 tte 	 	surface	.
+on	peut	 mi 	 eux 	 	 représent 	 er 	 	ce	 comporte 	 ment 	 	si	on	le	regarde	comme	un	 fluid 	 e 	 	.
+le	pied	réparti	fonctionne	en	fait	comme	une	 ram 	 e 	 	.
+c'est	 égale 	 ment 	 	vrai	pour	ce	lézard	courant	sur	des	 s 	 ables 	 	 mouvant 	 s 	 	.
+regardez	 s 	 es 	 	 pied 	 s 	 	.
+ils	 fonctionne 	 nt 	 	comme	une	 ram 	 e 	 	même	si	 l' 	 interaction 	 	 s 	 e 	 	fait	avec	une	surface	 solid 	 e 	 	.
+c'est	assez	 pro 	 che 	 	de	la	 dé 	 couvert 	 e 	 	 d' 	 une 	 	de	mes	 ancienne 	 s 	 	 étudiant 	 es 	 	qui	a	compris	comment	les	 lézard 	 s 	 	 cour 	 ent 	 	sur	 l' 	 eau 	 	.
+ pouv 	 ons 	 	-	nous	utiliser	cela	pour	améliorer	 not 	 re 	 	robot	?
+martin	_UNK_	qui	travaille	 main 	 tenant 	 	chez	boston	dynamics	,	l'a	fait	.
+il	a	 pri 	 s 	 	 ce 	 tte 	 	idée	 e 	 t 	 	a	 trans 	 formé 	 	rhex	en	aqua	rhex	.
+ main 	 tenant 	 	 voil 	 à 	 	rhex	avec	des	 palme 	 s 	 	,	converti	en	robot	 nage 	 ur 	 	 extrême 	 ment 	 	 manœuvr 	 able 	 	.
+pour	les	 surface 	 s 	 	 inégal 	 es 	 	 ce 	 pendant 	 	,	les	animaux	ont	des	 griffe 	 s 	 	.
+ e 	 t 	 	vous	les	avez	 senti 	 es 	 	si	vous	les	avez	 attrapé 	 s 	 	.
+tu	les	 a 	 s 	 	 touché 	 s 	 	?
+ca	:	oui	rf	:	 e 	 t 	 	ils	 s' 	 accroche 	 nt 	 	très	bien	aux	 surface 	 s 	 	avec	 ce 	 s 	 	 griffe 	 s 	 	.
+mark	cutkosky	à	 l' 	 université 	 	de	stanford	,	un	de	mes	 collab 	 orateur 	 s 	 	,	est	un	ingénieur	extraordinaire	qui	a	développé	 ce 	 tte 	 	technique	 appelé 	 e 	 	shape	deposition	manufacturing	qui	consiste	à	 inclu 	 re 	 	des	 griffe 	 s 	 	dans	un	pied	artificiel	.
+ voil 	 à 	 	la	version	 simplifi 	 ée 	 	du	pied	 d' 	 un 	 	nouveau	robot	que	vous	 ver 	 rez 	 	tout	à	 l' 	 heure 	 	.
+alors	 r 	 ajout 	 ons 	 	des	 griffe 	 s 	 	à	 not 	 re 	 	prototype	.
+en	 regard 	 ant 	 	les	animaux	qui	_UNK_	dans	tous	 type 	 s 	 	de	 surface 	 s 	 	,	on	voit	 qu'il 	 s 	 	 utilise 	 nt 	 	des	 mécan 	 isme 	 s 	 	 hybride 	 s 	 	qui	 inclu 	 ent 	 	des	 griffe 	 s 	 	,	des	 épine 	 s 	 	,	des	 po 	 ils 	 	,	des	 coussin 	 ets 	 	 collant 	 s 	 	,	une	adhésion	 capill 	 aire 	 	 e 	 t 	 	 tout 	 e 	 	 sort 	 e 	 	 d' 	 autre 	 s 	 	 chose 	 s 	 	.
+ ce 	 s 	 	 mécan 	 isme 	 s 	 	viennent	de	 différent 	 s 	 	 insecte 	 s 	 	.
+ voil 	 à 	 	une	fourmi	qui	grimpe	une	surface	 vertical 	 e 	 	.
+ observ 	 ons 	 	 ce 	 tte 	 	fourmi	.
+voici	son	pied	.	vous	 pouv 	 ez 	 	voir	les	 po 	 ils 	 	,	les	 griffe 	 s 	 	 e 	 t 	 	 ce 	 tte 	 	chose	ici	.
+voici	le	pied	quand	il	est	en	 l' 	 air 	 	.
+regardez	ce	qui	arrive	quand	le	pied	 s 	 e 	 	pose	sur	 vot 	 re 	 	sandwich	.
+vous	voyez	ce	qui	 s 	 e 	 	passe	?
+ce	 coussin 	 e 	 t 	 	sort	.	 e 	 t 	 	c'est	là	que	 s 	 e 	 	 trouv 	 e 	 	la	colle	.
+voici	une	vue	du	dessous	 d' 	 un 	 	pied	de	fourmi	quand	les	 griffe 	 s 	 	ne	peuvent	 s' 	 accroche 	 r 	 	à	rien	,	le	 coussin 	 e 	 t 	 	sort	sans	que	la	fourmi	ne	fasse	quoi	que	ce	soit	.
+il	 s 	 e 	 	 projet 	 te 	 	tout	 simple 	 ment 	 	.
+ c' 	 était 	 	une	photo	dure	à	prendre	--	je	pense	que	c'est	un	pied	de	fourmi	sur	des	 fil 	 s 	 	très	 fin 	 s 	 	.
+c'est	assez	difficile	à	faire	.
+ voil 	 à 	 	à	quoi	cela	ressemble	de	très	près	--	voici	le	pied	de	la	fourmi	 e 	 t 	 	 voil 	 à 	 	la	colle	.
+on	a	 dé 	 couvert 	 	que	 ce 	 tte 	 	colle	est	 prob 	 able 	 ment 	 	une	 mix 	 ture 	 	_UNK_	 intéressant 	 e 	 	.
+cela	aide	 sûr 	 ement 	 	la	fourmi	à	tenir	.
+alors	nous	 r 	 ajout 	 ons 	 	des	 coussin 	 ets 	 	 collant 	 s 	 	à	 not 	 re 	 	prototype	.
+ main 	 tenant 	 	pour	les	 surface 	 s 	 	 lisse 	 s 	 	,	nous	 pourri 	 ons 	 	nous	 inspire 	 r 	 	de	cela	.
+ mai 	 s 	 	nous	avons	trouvé	 mi 	 eux 	 	.
+le	gecko	est	un	excellent	exemple	de	nano	-	technologie	dans	la	nature	.
+ voil 	 à 	 	 s 	 es 	 	 pied 	 s 	 	.
+ils	ont	 l' 	 air 	 	 pres 	 que 	 	extra	-	 terrestre 	 s 	 	.	le	secret	 aux 	 quel 	 s 	 	ils	 s'attach 	 ent 	 	implique	leur	 doigt 	 s 	 	 poilu 	 s 	 	.
+ils	peuvent	 grimpe 	 r 	 	une	surface	en	courant	à	un	mètre	par	seconde	,	 fais 	 ant 	 	30	pas	pendant	 ce 	 tte 	 	seconde	--	on	les	distingue	à	peine	.
+si	 l' 	 on 	 	 ralenti 	 t 	 	,	ils	 attache 	 nt 	 	 leur 	 s 	 	 pied 	 s 	 	à	8	 milli 	 seconde 	 s 	 	 e 	 t 	 	les	 détache 	 nt 	 	à	16	 milli 	 seconde 	 s 	 	.
+ e 	 t 	 	quand	vous	regardez	comment	ils	les	 détache 	 nt 	 	,	c'est	bizarre	.
+ils	_UNK_	leur	pied	hors	de	la	surface	comme	un	morceau	de	scotch	.
+très	étrange	.	comment	tiennent	-	ils	?
+en	 regard 	 ant 	 	 leur 	 s 	 	 pied 	 s 	 	,	on	voit	une	structure	 appelé 	 es 	 	_UNK_	qui	 ressemble 	 nt 	 	à	des	 feuille 	 s 	 	avec	des	 million 	 s 	 	de	 po 	 ils 	 	.
+ e 	 t 	 	 cha 	 que 	 	 po 	 il 	 	est	le	 pi 	 re 	 	cas	possible	de	 point 	 es 	 	 sèche 	 s 	 	 e 	 t 	 	 ca 	 ssante 	 s 	 	.
+entre	une	 cent 	 aine 	 	 e 	 t 	 	un	 milli 	 er 	 	de	 point 	 es 	 	 cassé 	 es 	 	,	qui	 permette 	 nt 	 	en	fait	un	contact	très	 pro 	 che 	 	avec	la	surface	.
+le	gecko	a	un	milliard	de	 ce 	 s 	 	 point 	 es 	 	de	200	 nano 	 mètre 	 s 	 	de	 longue 	 ur 	 	.
+ e 	 t 	 	ils	ne	tiennent	pas	grâce	à	de	la	colle	,	comme	le	 vel 	 cro 	 	ou	des	 vent 	 o 	 uses 	 	.
+nous	avons	 dé 	 couvert 	 	 qu'il 	 s 	 	 marche 	 nt 	 	grâce	à	de	 simple 	 s 	 	 force 	 s 	 	 inter 	 moléculaire 	 s 	 	.
+alors	à	 not 	 re 	 	prototype	,	nous	 r 	 ajout 	 ons 	 	des	 point 	 es 	 	 ca 	 ssante 	 s 	 	.
+ ce 	 ci 	 	à	inspiré	le	design	du	premier	scotch	auto	-	 nettoya 	 nt 	 	--	nous	 somme 	 s 	 	 fier 	 s 	 	que	le	brevet	ait	été	 dé 	 posé 	 	.
+voici	la	version	la	plus	simple	dans	la	nature	,	 e 	 t 	 	 voil 	 à 	 	la	 tent 	 ative 	 	de	mon	 collab 	 orateur 	 	ron	fearing	 d' 	 une 	 	version	 artificiel 	 le 	 	de	 ce 	 t 	 	adhésif	,	 fait 	 e 	 	de	 poly 	 ur 	 éthane 	 	.
+ e 	 t 	 	 voil 	 à 	 	la	première	 tent 	 ative 	 	de	le	faire	 fonctionne 	 r 	 	avec	un	poids	.
+il	y	a	un	grand	intérêt	pour	 ce 	 tte 	 	recherche	dans	de	 nombre 	 ux 	 	 domaine 	 s 	 	.
+vous	 pouv 	 ez 	 	imaginer	des	 milli 	 er 	 s 	 	 d' 	 utilisation 	 	,	j'en	suis	sûr	.
+beaucoup	de	 gen 	 s 	 	 l' 	 ont 	 	fait	 e 	 t 	 	nous	 somme 	 s 	 	 enthousi 	 aste 	 s 	 	à	 l' 	 idée 	 	de	 réalise 	 r 	 	 ce 	 ci 	 	pour	un	produit	.
+nous	avons	imaginé	des	 produit 	 s 	 	,	par	exemple	,	celui	-	ci	:	nous	avons	imaginé	un	 panse 	 ment 	 	 d' 	 inspiration 	 	 bio 	 logique 	 	en	 supprim 	 ant 	 	la	colle	.
+nous	avons	 pri 	 s 	 	des	 po 	 ils 	 	 d' 	 une 	 	 mu 	 e 	 	de	gecko	;	mis	trois	 roule 	 aux 	 	de	ceux	-	ci	ensemble	 e 	 t 	 	fabriqué	ce	 panse 	 ment 	 	.
+ voil 	 à 	 	un	étudiant	volontaire	--	nous	avons	30	000	 étudiant 	 s 	 	de	premier	cycle	que	nous	 pouv 	 ons 	 	 mobilise 	 r 	 	--	c'est	 seul 	 ement 	 	une	marque	au	 feu 	 tre 	 	rouge	.
+ mai 	 s 	 	cela	fait	un	 panse 	 ment 	 	incroyable	.
+il	est	_UNK_	,	peut	être	enlevé	 facile 	 ment 	 	,	ne	cause	pas	 d' 	 irri 	 tation 	 	 e 	 t 	 	 t 	 ient 	 	sous	 l' 	 eau 	 	.
+je	pense	que	c'est	un	exemple	extraordinaire	de	 l' 	 application 	 	 in 	 imaginable 	 	à	la	base	de	 recherche 	 s 	 	 effectué 	 es 	 	par	 curi 	 osité 	 	sur	la	façon	 do 	 nt 	 	les	animaux	 grimpe 	 nt 	 	sur	 certain 	 es 	 	 surface 	 s 	 	.
+c'est	juste	un	exemple	de	la	raison	pour	 la 	 quelle 	 	il	faut	 sou 	 tenir 	 	ce	type	de	recherche	curieuse	.
+ voil 	 à 	 	,	on	 re 	 tire 	 	le	 panse 	 ment 	 	.
+nous	avons	donc	redéfini	ce	 qu' 	 est 	 	un	pied	.
+la	question	est	de	 s 	 avoir 	 	si	nous	 pouv 	 ons 	 	utiliser	 ce 	 s 	 	 secret 	 s 	 	pour	 inspire 	 r 	 	le	design	 d' 	 un 	 	meilleur	pied	que	ceux	 vu 	 s 	 	dans	la	nature	?
+voici	le	nouveau	projet	:	nous	essayons	de	créer	le	premier	robot	 s 	 e 	 cour 	 iste 	 	 grimpe 	 ur 	 	--	sans	 vent 	 o 	 uses 	 	ni	 aimant 	 s 	 	--	qui	peut	 seul 	 ement 	 	 s 	 e 	 	 déplace 	 r 	 	sur	un	nombre	 limit 	 é 	 	de	type	de	 surface 	 s 	 	.
+je	 l' 	 ai 	 	appelé	rise	pour	``	robot	in	_UNK_	environment	``	--	pour	un	environnement	 d' 	 escalade 	 	--	 e 	 t 	 	nous	avons	une	équipe	incroyable	de	 bio 	 logistes 	 	 e 	 t 	 	 d' 	 ingénieur 	 s 	 	 cré 	 ant 	 	ce	robot	.
+ voil 	 à 	 	rise	.
+il	a	six	 patte 	 s 	 	 e 	 t 	 	une	 que 	 ue 	 	.	le	 voil 	 à 	 	sur	une	 b 	 arrière 	 	 e 	 t 	 	un	arbre	.
+ voil 	 à 	 	 s 	 es 	 	 premier 	 s 	 	pas	sur	un	plan	incliné	.
+vous	avez	le	son	?	on	peut	 l' 	 entendre 	 	 grimpe 	 r 	 	.
+le	 voil 	 à 	 	qui	grimpe	vers	vous	,	 effec 	 tu 	 ant 	 	 s 	 es 	 	 premier 	 s 	 	pas	sur	un	mur	.
+à	ce	moment	il	utilise	 seul 	 ement 	 	son	pied	le	plus	simple	,	ici	,	c'est	tout	à	fait	nouveau	.
+ mai 	 s 	 	nous	 pens 	 ons 	 	que	la	dynamique	 trouvé 	 e 	 	est	la	bonne	pour	le	robot	.
+mark	cutkosky	 ce 	 pendant 	 	,	mène	le	projet	un	peu	plus	loin	encore	.
+c'est	lui	qui	est	capable	de	 construi 	 re 	 	 ce 	 s 	 	 pied 	 s 	 	 e 	 t 	 	 doigt 	 s 	 	 manufactur 	 és 	 	.
+ l' 	 étape 	 	_UNK_	est	de	fabriquer	des	 doigt 	 s 	 	 adapté 	 s 	 	,	 d' 	 essayer 	 	de	 r 	 ajoute 	 r 	 	des	 épine 	 s 	 	 e 	 t 	 	des	 griffe 	 s 	 	 e 	 t 	 	de	les	 prépare 	 r 	 	pour	de	_UNK_	.
+ l' 	 idée 	 	est	de	 réussi 	 r 	 	 d' 	 abord 	 	les	 doigt 	 s 	 	 e 	 t 	 	un	pied	,	puis	de	 tente 	 r 	 	de	les	faire	 escalade 	 r 	 	 e 	 t 	 	 final 	 ement 	 	de	les	 ajoute 	 r 	 	à	un	robot	.
+ e 	 t 	 	c'est	 exacte 	 ment 	 	ce	qu'il	a	fait	.
+il	a	construit	en	fait	,	un	robot	-	pied	 grimpe 	 ur 	 	inspiré	par	la	nature	.
+voici	le	design	de	cutkosky	 e 	 t 	 	de	 s 	 es 	 	 incroyable 	 s 	 	 élève 	 s 	 	.
+ voil 	 à 	 	les	 doigt 	 s 	 	de	 pied 	 s 	 	mis	au	point	--	il	y	en	a	six	,	 e 	 t 	 	ils	 fonctionne 	 nt 	 	 s 	 e 	 lon 	 	les	 principe 	 s 	 	 discut 	 és 	 	 collect 	 ivement 	 	pour	le	prototype	.
+donc	il	 n' 	 y 	 	a	ni	 vent 	 o 	 uses 	 	,	ni	colle	,	 e 	 t 	 	il	 s 	 era 	 	à	terme	capable	,	une	fois	 r 	 attaché 	 	au	robot	--	inspiré	 bio 	 logique 	 ment 	 	comme	les	animaux	--	 d' 	 escalade 	 r 	 	tout	type	de	surface	.
+ici	vous	le	voyez	 gravi 	 r 	 	la	façade	 d' 	 un 	 	 bâti 	 ment 	 	à	stanford	.
+la	vidéo	est	 accélér 	 ée 	 	--	encore	une	fois	,	c'est	le	pied	qui	grimpe	.
+ce	n'est	pas	encore	le	robot	entier	,	nous	 somme 	 s 	 	en	train	 d' 	 y 	 	 travaille 	 r 	 	--	là	vous	voyez	comment	il	 s' 	 accroche 	 	.
+ ce 	 s 	 	 structure 	 s 	 	 mise 	 s 	 	au	point	 permette 	 nt 	 	aux	 épine 	 s 	 	,	aux	 coussin 	 ets 	 	de	 frotte 	 ment 	 	 e 	 t 	 	enfin	aux	 po 	 ils 	 	 adhésif 	 s 	 	de	 s' 	 accroche 	 r 	 	à	des	 surface 	 s 	 	très	 difficile 	 s 	 	 e 	 t 	 	 inégal 	 es 	 	.
+ e 	 t 	 	ils	ont	réussi	à	obtenir	ça	--	ici	c'est	 accélér 	 é 	 	20	fois	--	 pouv 	 ez 	 	-	vous	 l' 	 imaginer 	 	 escalade 	 r 	 	 e 	 t 	 	 sauve 	 r 	 	 quel 	 qu'un 	 	à	 l' 	 étage 	 	?	ok	?
+vous	 pouv 	 ez 	 	voir	 main 	 tenant 	 	que	ce	n'est	pas	impossible	.
+c'est	un	très	grand	défi	.	 mai 	 s 	 	nous	en	_UNK_	.
+pour	 fini 	 r 	 	:	nous	avons	utilisé	des	design	 naturel 	 s 	 	 secret 	 s 	 	en	 observ 	 ant 	 	la	construction	des	 pied 	 s 	 	.
+nous	avons	appris	que	nous	 dev 	 ons 	 	 réparti 	 r 	 	le	 contrô 	 le 	 	à	plusieurs	 petite 	 s 	 	 parti 	 es 	 	.
+il	ne	faut	pas	 compte 	 r 	 	 unique 	 ment 	 	sur	un	 contrô 	 le 	 	central	par	 l' 	 ordinateur 	 	,	 mai 	 s 	 	donner	du	 contrô 	 le 	 	 vi 	 a 	 	le	 régl 	 age 	 	des	 pied 	 s 	 	,	des	 patte 	 s 	 	 e 	 t 	 	même	du	corps	.
+la	nature	donne	des	 solution 	 s 	 	 hybride 	 s 	 	 e 	 t 	 	non	pas	une	solution	unique	à	 ce 	 s 	 	 problème 	 s 	 	,	 e 	 t 	 	elles	 s 	 ont 	 	 intégr 	 ées 	 	 e 	 t 	 	très	 résistant 	 es 	 	.
+ troisième 	 ment 	 	,	nous	 croy 	 ons 	 	 ferme 	 ment 	 	qu'il	ne	faut	pas	 imite 	 r 	 	la	nature	 mai 	 s 	 	 s' 	 inspire 	 r 	 	de	la	biologie	 e 	 t 	 	utiliser	 ce 	 s 	 	 nouveau 	 x 	 	 principe 	 s 	 	avec	les	 meilleur 	 s 	 	 solution 	 s 	 	 d' 	 ingénierie 	 	 existant 	 es 	 	pour	créer	--	 potentiel 	 lement 	 	--	quelque	chose	de	 mi 	 eux 	 	que	la	nature	.
+le	 messag 	 e 	 	est	très	clair	:	que	vous	vous	_UNK_	à	la	recherche	 fondamental 	 e 	 	de	base	sur	des	animaux	 intéressant 	 s 	 	,	 bizarre 	 s 	 	 e 	 t 	 	 incroyable 	 s 	 	,	ou	que	vous	 voul 	 iez 	 	 construi 	 re 	 	un	robot	 s 	 e 	 cour 	 iste 	 	qui	vous	 aide 	 ra 	 	pendant	un	 tremble 	 ment 	 	de	terre	ou	à	 sauve 	 r 	 	 quel 	 qu'un 	 	des	 flamme 	 s 	 	,	ou	que	vous	vous	 senti 	 ez 	 	 concern 	 é 	 	par	la	 médecin 	 e 	 	,	nous	 dev 	 ons 	 	 préserv 	 er 	 	le	design	de	la	nature	.
+ s 	 in 	 on 	 	 ce 	 s 	 	 secret 	 s 	 	 s 	 e 	 ront 	 	 perdu 	 s 	 	pour	 tou 	 jour 	 s 	 	.
+merci	.
+

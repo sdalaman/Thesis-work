@@ -1,0 +1,222 @@
+how_en many_en of_en you_en had_en to_en fill_en out_en some_en sort_en of_en web_en form_en where_en you_en 've_en been_en asked_en to_en read_en a_en distorted_en sequence_en of_en characters_en like_en this_en ?_en
+how_en many_en of_en you_en found_en it_en really_en ,_en really_en annoying_en ?_en
+okay_en ,_en outstanding_en ._en so_en i_en invented_en that_en ._en
+or_en i_en was_en one_en of_en the_en people_en who_en did_en it_en ._en
+that_en thing_en is_en called_en a_en captcha_en ._en
+and_en the_en reason_en it_en is_en there_en is_en to_en make_en sure_en you_en ,_en the_en entity_en filling_en out_en the_en form_en ,_en are_en actually_en a_en human_en and_en not_en some_en sort_en of_en computer_en program_en that_en was_en written_en to_en submit_en the_en form_en millions_en and_en millions_en of_en times_en ._en
+the_en reason_en it_en works_en is_en because_en humans_en ,_en at_en least_en non_en -_en visually_en -_en impaired_en humans_en ,_en have_en no_en trouble_en reading_en these_en distorted_en squiggly_en characters_en ,_en whereas_en computer_en programs_en simply_en ca_en n't_en do_en it_en as_en well_en yet_en ._en
+so_en for_en example_en ,_en in_en the_en case_en of_en ticketmaster_en ,_en the_en reason_en you_en have_en to_en type_en these_en distorted_en characters_en is_en to_en prevent_en scalpers_en from_en writing_en a_en program_en that_en can_en buy_en millions_en of_en tickets_en ,_en two_en at_en a_en time_en ._en
+captchas_en are_en used_en all_en over_en the_en internet_en ._en
+and_en since_en they_en 're_en used_en so_en often_en ,_en a_en lot_en of_en times_en the_en precise_en sequence_en of_en random_en characters_en that_en is_en shown_en to_en the_en user_en is_en not_en so_en fortunate_en ._en
+so_en this_en is_en an_en example_en from_en the_en yahoo_en registration_en page_en ._en
+the_en random_en characters_en that_en happened_en to_en be_en shown_en to_en the_en user_en were_en w_en ,_en a_en ,_en i_en ,_en t_en ,_en which_en ,_en of_en course_en ,_en spell_en a_en word_en ._en
+but_en the_en best_en part_en is_en the_en message_en that_en the_en yahoo_en help_en desk_en got_en about_en 20_en minutes_en later_en ._en
+text_en :_en "_en help_en !_en i_en 've_en been_en waiting_en for_en over_en 20_en minutes_en ,_en and_en nothing_en happens_en ._en "_en
+this_en person_en thought_en they_en needed_en to_en wait_en ._en
+this_en of_en course_en ,_en is_en not_en as_en bad_en as_en this_en poor_en person_en ._en
+captcha_en project_en is_en something_en that_en we_en did_en here_en at_en carnegie_en melllon_en over_en 10_en years_en ago_en ,_en and_en it_en 's_en been_en used_en everywhere_en ._en
+let_en me_en now_en tell_en you_en about_en a_en project_en that_en we_en did_en a_en few_en years_en later_en ,_en which_en is_en sort_en of_en the_en next_en evolution_en of_en captcha_en ._en
+this_en is_en a_en project_en that_en we_en call_en recaptcha_en ,_en which_en is_en something_en that_en we_en started_en here_en at_en carnegie_en mellon_en ,_en then_en we_en turned_en it_en into_en a_en startup_en company_en ._en
+and_en then_en about_en a_en year_en and_en a_en half_en ago_en ,_en google_en actually_en acquired_en this_en company_en ._en
+so_en let_en me_en tell_en you_en what_en this_en project_en started_en ._en
+so_en this_en project_en started_en from_en the_en following_en realization_en :_en it_en turns_en out_en that_en approximately_en 200_en million_en captchas_en are_en typed_en everyday_en by_en people_en around_en the_en world_en ._en
+when_en i_en first_en heard_en this_en ,_en i_en was_en quite_en proud_en of_en myself_en ._en
+i_en thought_en ,_en look_en at_en the_en impact_en that_en my_en research_en has_en had_en ._en
+but_en then_en i_en started_en feeling_en bad_en ._en
+see_en here_en 's_en the_en thing_en ,_en each_en time_en you_en type_en a_en captcha_en ,_en essentially_en you_en waste_en 10_en seconds_en of_en your_en time_en ._en
+and_en if_en you_en multiply_en that_en by_en 200_en million_en ,_en you_en get_en that_en humanity_en as_en a_en whole_en is_en wasting_en about_en 500,000_en hours_en every_en day_en typing_en these_en annoying_en captchas_en ._en
+so_en then_en i_en started_en feeling_en bad_en ._en
+and_en then_en i_en started_en thinking_en ,_en well_en ,_en of_en course_en ,_en we_en ca_en n't_en just_en get_en rid_en of_en captchas_en ,_en because_en the_en security_en of_en the_en web_en sort_en of_en depends_en on_en them_en ._en
+but_en then_en i_en started_en thinking_en ,_en is_en there_en any_en way_en we_en can_en use_en this_en effort_en for_en something_en that_en is_en good_en for_en humanity_en ?_en
+so_en see_en ,_en here_en 's_en the_en thing_en ._en
+while_en you_en 're_en typing_en a_en captcha_en ,_en during_en those_en 10_en seconds_en ,_en your_en brain_en is_en doing_en something_en amazing_en ._en
+your_en brain_en is_en doing_en something_en that_en computers_en cannot_en yet_en do_en ._en
+so_en can_en we_en get_en you_en to_en do_en useful_en work_en for_en those_en 10_en seconds_en ?_en
+another_en way_en of_en putting_en it_en is_en ,_en is_en there_en some_en humongous_en problem_en that_en we_en cannot_en yet_en get_en computers_en to_en solve_en ,_en yet_en we_en can_en split_en into_en tiny_en 10_en -_en second_en chunks_en such_en that_en each_en time_en somebody_en solves_en a_en captcha_en they_en solve_en a_en little_en bit_en of_en this_en problem_en ?_en
+and_en the_en answer_en to_en that_en is_en "_en yes_en ,_en "_en and_en this_en is_en what_en we_en 're_en doing_en now_en ._en
+so_en what_en you_en may_en not_en know_en is_en that_en nowadays_en while_en you_en 're_en typing_en a_en captcha_en ,_en not_en only_en are_en you_en authenticating_en yourself_en as_en a_en human_en ,_en but_en in_en addition_en you_en 're_en actually_en helping_en us_en to_en digitize_en books_en ._en
+so_en let_en me_en explain_en how_en this_en works_en ._en
+so_en there_en 's_en a_en lot_en of_en projects_en out_en there_en trying_en to_en digitize_en books_en ._en
+google_en has_en one_en ._en the_en internet_en archive_en has_en one_en ._en
+amazon_en ,_en now_en with_en the_en kindle_en ,_en is_en trying_en to_en digitize_en books_en ._en
+basically_en the_en way_en this_en works_en is_en you_en start_en with_en an_en old_en book_en ._en
+you_en 've_en seen_en those_en things_en ,_en right_en ?_en like_en a_en book_en ?_en
+so_en you_en start_en with_en a_en book_en ,_en and_en then_en you_en scan_en it_en ._en
+now_en scanning_en a_en book_en is_en like_en taking_en a_en digital_en photograph_en of_en every_en page_en of_en the_en book_en ._en
+it_en gives_en you_en an_en image_en for_en every_en page_en of_en the_en book_en ._en
+this_en is_en an_en image_en with_en text_en for_en every_en page_en of_en the_en book_en ._en
+the_en next_en step_en in_en the_en process_en is_en that_en the_en computer_en needs_en to_en be_en able_en to_en decipher_en all_en of_en the_en words_en in_en this_en image_en ._en
+that_en 's_en using_en a_en technology_en called_en ocr_en ,_en for_en optical_en character_en recognition_en ,_en which_en takes_en a_en picture_en of_en text_en and_en tries_en to_en figure_en out_en what_en text_en is_en in_en there_en ._en
+now_en the_en problem_en is_en that_en ocr_en is_en not_en perfect_en ._en
+especially_en for_en older_en books_en where_en the_en ink_en has_en faded_en and_en the_en pages_en have_en turned_en yellow_en ,_en ocr_en cannot_en recognize_en a_en lot_en of_en the_en words_en ._en
+for_en example_en ,_en for_en things_en that_en were_en written_en more_en than_en 50_en years_en ago_en ,_en the_en computer_en cannot_en recognize_en about_en 30_en percent_en of_en the_en words_en ._en
+so_en what_en we_en 're_en doing_en now_en is_en we_en 're_en taking_en all_en of_en the_en words_en that_en the_en computer_en cannot_en recognize_en and_en we_en 're_en getting_en people_en to_en read_en them_en for_en us_en while_en they_en 're_en typing_en a_en captcha_en on_en the_en internet_en ._en
+so_en the_en next_en time_en you_en type_en a_en captcha_en ,_en these_en words_en that_en you_en 're_en typing_en are_en actually_en words_en that_en are_en coming_en from_en books_en that_en are_en being_en digitized_en that_en the_en computer_en could_en not_en recognize_en ._en
+and_en now_en the_en reason_en we_en have_en two_en words_en nowadays_en instead_en of_en one_en is_en because_en ,_en you_en see_en ,_en one_en of_en the_en words_en is_en a_en word_en that_en the_en system_en just_en got_en out_en of_en a_en book_en ,_en it_en did_en n't_en know_en what_en it_en was_en ,_en and_en it_en 's_en going_en to_en present_en it_en to_en you_en ._en
+but_en since_en it_en does_en n't_en know_en the_en answer_en for_en it_en ,_en it_en cannot_en grade_en it_en for_en you_en ._en
+so_en what_en we_en do_en is_en we_en give_en you_en another_en word_en ,_en one_en for_en which_en the_en system_en does_en know_en the_en answer_en ._en
+we_en do_en n't_en tell_en you_en which_en one_en 's_en which_en ,_en and_en we_en say_en ,_en please_en type_en both_en ._en
+and_en if_en you_en type_en the_en correct_en word_en for_en the_en one_en for_en which_en the_en system_en already_en knows_en the_en answer_en ,_en it_en assumes_en you_en are_en human_en ,_en and_en it_en also_en gets_en some_en confidence_en that_en you_en typed_en the_en other_en word_en correctly_en ._en
+and_en if_en we_en repeat_en this_en process_en to_en like_en 10_en different_en people_en and_en all_en of_en them_en agree_en on_en what_en the_en new_en word_en is_en ,_en then_en we_en get_en one_en more_en word_en digitized_en accurately_en ._en
+so_en this_en is_en how_en the_en system_en works_en ._en
+and_en basically_en ,_en since_en we_en released_en it_en about_en three_en or_en four_en years_en ago_en ,_en a_en lot_en of_en websites_en have_en started_en switching_en from_en the_en old_en captcha_en where_en people_en wasted_en their_en time_en to_en the_en new_en captcha_en where_en people_en are_en helping_en to_en digitize_en books_en ._en
+so_en for_en example_en ,_en ticketmaster_en ._en
+so_en every_en time_en you_en buy_en tickets_en on_en ticketmaster_en ,_en you_en help_en to_en digitize_en a_en book_en ._en
+facebook_en :_en every_en time_en you_en add_en a_en friend_en or_en poke_en somebody_en ,_en you_en help_en to_en digitize_en a_en book_en ._en
+twitter_en and_en about_en 350,000_en other_en sites_en are_en all_en using_en recaptcha_en ._en
+and_en in_en fact_en ,_en the_en number_en of_en sites_en that_en are_en using_en recaptcha_en is_en so_en high_en that_en the_en number_en of_en words_en that_en we_en 're_en digitizing_en per_en day_en is_en really_en ,_en really_en large_en ._en
+it_en 's_en about_en 100_en million_en a_en day_en ,_en which_en is_en the_en equivalent_en of_en about_en two_en and_en a_en half_en million_en books_en a_en year_en ._en
+and_en this_en is_en all_en being_en done_en one_en word_en at_en a_en time_en by_en just_en people_en typing_en captchas_en on_en the_en internet_en ._en
+now_en of_en course_en ,_en since_en we_en 're_en doing_en so_en many_en words_en per_en day_en ,_en funny_en things_en can_en happen_en ._en
+and_en this_en is_en especially_en true_en because_en now_en we_en 're_en giving_en people_en two_en randomly_en chosen_en english_en words_en next_en to_en each_en other_en ._en
+so_en funny_en things_en can_en happen_en ._en
+for_en example_en ,_en we_en presented_en this_en word_en ._en
+it_en 's_en the_en word_en "_en christians_en "_en ;_en there_en 's_en nothing_en wrong_en with_en it_en ._en
+but_en if_en you_en present_en it_en along_en with_en another_en randomly_en chosen_en word_en ,_en bad_en things_en can_en happen_en ._en
+so_en we_en get_en this_en ._en
+but_en it_en 's_en even_en worse_en ,_en because_en the_en particular_en website_en where_en we_en showed_en this_en actually_en happened_en to_en be_en called_en the_en embassy_en of_en the_en kingdom_en of_en god_en ._en
+oops_en ._en
+here_en 's_en another_en really_en bad_en one_en ._en
+johnedwards.com_en so_en we_en keep_en on_en insulting_en people_en left_en and_en right_en everyday_en ._en
+now_en ,_en of_en course_en ,_en we_en 're_en not_en just_en insulting_en people_en ._en
+see_en here_en 's_en the_en thing_en ,_en since_en we_en 're_en presenting_en two_en randomly_en chosen_en words_en ,_en interesting_en things_en can_en happen_en ._en
+so_en this_en actually_en has_en given_en rise_en to_en a_en really_en big_en internet_en meme_en that_en tens_en of_en thousands_en of_en people_en have_en participated_en in_en ,_en which_en is_en called_en captcha_en art_en ._en
+i_en 'm_en sure_en some_en of_en you_en have_en heard_en about_en it_en ._en
+here_en 's_en how_en it_en works_en ._en
+imagine_en you_en 're_en using_en the_en internet_en and_en you_en see_en a_en captcha_en that_en you_en think_en is_en somewhat_en peculiar_en ,_en like_en this_en captcha_en ._en
+then_en what_en you_en 're_en supposed_en to_en do_en is_en you_en take_en a_en screen_en shot_en of_en it_en ._en
+then_en of_en course_en ,_en you_en fill_en out_en the_en captcha_en because_en you_en help_en us_en digitize_en a_en book_en ._en
+but_en then_en ,_en first_en you_en take_en a_en screen_en shot_en ,_en and_en then_en you_en draw_en something_en that_en is_en related_en to_en it_en ._en
+that_en 's_en how_en it_en works_en ._en
+there_en are_en tens_en of_en thousands_en of_en these_en ._en
+some_en of_en them_en are_en very_en cute_en ._en
+some_en of_en them_en are_en funnier_en ._en
+and_en some_en of_en them_en ,_en like_en paleontological_en shvisle_en ,_en they_en contain_en snoop_en dogg_en ._en
+okay_en ,_en so_en this_en is_en my_en favorite_en number_en of_en recaptcha_en ._en
+so_en this_en is_en the_en favorite_en thing_en that_en i_en like_en about_en this_en whole_en project_en ._en
+this_en is_en the_en number_en of_en distinct_en people_en that_en have_en helped_en us_en digitize_en at_en least_en one_en word_en out_en of_en a_en book_en through_en recaptcha_en :_en 750_en million_en ,_en which_en is_en a_en little_en over_en 10_en percent_en of_en the_en world_en 's_en population_en ,_en has_en helped_en us_en digitize_en human_en knowledge_en ._en
+and_en it_en is_en numbers_en like_en these_en that_en motivate_en my_en research_en agenda_en ._en
+so_en the_en question_en that_en motivates_en my_en research_en is_en the_en following_en :_en if_en you_en look_en at_en humanity_en 's_en large_en -_en scale_en achievements_en ,_en these_en really_en big_en things_en that_en humanity_en has_en gotten_en together_en and_en done_en historically_en --_en like_en for_en example_en ,_en building_en the_en pyramids_en of_en egypt_en or_en the_en panama_en canal_en or_en putting_en a_en man_en on_en the_en moon_en --_en there_en is_en a_en curious_en fact_en about_en them_en ,_en and_en it_en is_en that_en they_en were_en all_en done_en with_en about_en the_en same_en number_en off_en people_en ._en
+it_en 's_en weird_en ;_en they_en were_en all_en done_en with_en about_en 100,000_en people_en ._en
+and_en the_en reason_en for_en that_en is_en because_en ,_en before_en the_en internet_en ,_en coordinating_en more_en than_en 100,000_en people_en ,_en let_en alone_en paying_en them_en ,_en was_en essentially_en impossible_en ._en
+but_en now_en with_en the_en internet_en ,_en i_en 've_en just_en shown_en you_en a_en project_en where_en we_en 've_en gotten_en 750_en million_en people_en to_en help_en us_en digitize_en human_en knowledge_en ._en
+so_en the_en question_en that_en motivates_en my_en research_en is_en ,_en if_en we_en can_en put_en a_en man_en on_en the_en moon_en with_en 100,000_en ,_en what_en can_en we_en do_en with_en 100_en million_en ?_en
+so_en based_en on_en this_en question_en ,_en we_en 've_en had_en a_en lot_en of_en different_en projects_en that_en we_en 've_en been_en working_en on_en ._en
+let_en me_en tell_en you_en about_en one_en that_en i_en 'm_en most_en excited_en about_en ._en
+this_en is_en something_en that_en we_en 've_en been_en semi_en -_en quietly_en working_en on_en for_en the_en last_en year_en and_en a_en half_en or_en so_en ._en
+it_en has_en n't_en yet_en been_en launched_en ._en it_en 's_en called_en duolingo_en ._en
+since_en it_en has_en n't_en been_en launched_en ,_en shhhhh_en !_en
+yeah_en ,_en i_en can_en trust_en you_en 'll_en do_en that_en ._en
+so_en this_en is_en the_en project_en ._en here_en 's_en how_en it_en started_en ._en
+it_en started_en with_en me_en posing_en a_en question_en to_en my_en graduate_en student_en ,_en severin_en hacker_en ._en
+okay_en ,_en that_en 's_en severin_en hacker_en ._en
+so_en i_en posed_en the_en question_en to_en my_en graduate_en student_en ._en
+by_en the_en way_en ,_en you_en did_en hear_en me_en correctly_en ;_en his_en last_en name_en is_en hacker_en ._en
+so_en i_en posed_en this_en question_en to_en him_en :_en how_en can_en we_en get_en 100_en million_en people_en translating_en the_en web_en into_en every_en major_en language_en for_en free_en ?_en
+okay_en ,_en so_en there_en 's_en a_en lot_en of_en things_en to_en say_en about_en this_en question_en ._en
+first_en of_en all_en ,_en translating_en the_en web_en ._en
+so_en right_en now_en the_en web_en is_en partitioned_en into_en multiple_en languages_en ._en
+a_en large_en fraction_en of_en it_en is_en in_en english_en ._en
+if_en you_en do_en n't_en know_en any_en english_en ,_en you_en ca_en n't_en access_en it_en ._en
+but_en there_en 's_en large_en fractions_en in_en other_en different_en languages_en ,_en and_en if_en you_en do_en n't_en know_en those_en languages_en ,_en you_en ca_en n't_en access_en it_en ._en
+so_en i_en would_en like_en to_en translate_en all_en of_en the_en web_en ,_en or_en at_en least_en most_en of_en the_en web_en ,_en into_en every_en major_en language_en ._en
+so_en that_en 's_en what_en i_en would_en like_en to_en do_en ._en
+now_en some_en of_en you_en may_en say_en ,_en why_en ca_en n't_en we_en use_en computers_en to_en translate_en ?_en
+why_en ca_en n't_en we_en use_en machine_en translation_en ?_en
+machine_en translation_en nowadays_en is_en starting_en to_en translate_en some_en sentences_en here_en and_en there_en ._en
+why_en ca_en n't_en we_en use_en it_en to_en translate_en the_en whole_en web_en ?_en
+well_en the_en problem_en with_en that_en is_en that_en it_en 's_en not_en yet_en good_en enough_en and_en it_en probably_en wo_en n't_en be_en for_en the_en next_en 15_en to_en 20_en years_en ._en
+it_en makes_en a_en lot_en of_en mistakes_en ._en
+even_en when_en it_en does_en n't_en make_en a_en mistake_en ,_en since_en it_en makes_en so_en many_en mistakes_en ,_en you_en do_en n't_en know_en whether_en to_en trust_en it_en or_en not_en ._en
+so_en let_en me_en show_en you_en an_en example_en of_en something_en that_en was_en translated_en with_en a_en machine_en ._en
+actually_en it_en was_en a_en forum_en post_en ._en
+it_en was_en somebody_en who_en was_en trying_en to_en ask_en a_en question_en about_en javascript_en ._en
+it_en was_en translated_en from_en japanese_en into_en english_en ._en
+so_en i_en 'll_en just_en let_en you_en read_en ._en
+this_en person_en starts_en apologizing_en for_en the_en fact_en that_en it_en 's_en translated_en with_en a_en computer_en ._en
+so_en the_en next_en sentence_en is_en is_en going_en to_en be_en the_en preamble_en to_en the_en question_en ._en
+so_en he_en 's_en just_en explaining_en something_en ._en
+remember_en ,_en it_en 's_en a_en question_en about_en javascript_en ._en
+then_en comes_en the_en first_en part_en of_en the_en question_en ._en
+then_en comes_en my_en favorite_en part_en of_en the_en question_en ._en
+and_en then_en comes_en the_en ending_en ,_en which_en is_en my_en favorite_en part_en of_en the_en whole_en thing_en ._en
+okay_en ,_en so_en computer_en translation_en ,_en not_en yet_en good_en enough_en ._en
+so_en back_en to_en the_en question_en ._en
+so_en we_en need_en people_en to_en translate_en the_en whole_en web_en ._en
+so_en now_en the_en next_en question_en you_en may_en have_en is_en ,_en well_en why_en ca_en n't_en we_en just_en pay_en people_en to_en do_en this_en ?_en
+we_en could_en pay_en professional_en language_en translators_en to_en translate_en the_en whole_en web_en ._en
+we_en could_en do_en that_en ._en
+unfortunately_en ,_en it_en would_en be_en extremely_en expensive_en ._en
+for_en example_en ,_en translating_en a_en tiny_en ,_en tiny_en fraction_en of_en the_en whole_en web_en ,_en wikipedia_en ,_en into_en one_en other_en language_en ,_en spanish_en ._en
+wikipedia_en exists_en in_en spanish_en ,_en but_en it_en 's_en very_en small_en compared_en to_en the_en size_en of_en english_en ._en
+it_en 's_en about_en 20_en percent_en of_en the_en size_en of_en english_en ._en
+if_en we_en wanted_en to_en translate_en the_en other_en 80_en percent_en into_en spanish_en ,_en it_en would_en cost_en at_en least_en 50_en million_en dollars_en --_en and_en this_en is_en at_en even_en the_en most_en exploited_en ,_en outsourcing_en country_en out_en there_en ._en
+so_en it_en would_en be_en very_en expensive_en ._en
+so_en what_en we_en want_en to_en do_en is_en we_en want_en to_en get_en 100_en million_en people_en translating_en the_en web_en into_en every_en major_en language_en for_en free_en ._en
+now_en if_en this_en is_en what_en you_en want_en to_en do_en ,_en you_en pretty_en quickly_en realize_en you_en 're_en going_en to_en run_en into_en two_en pretty_en big_en hurdles_en ,_en two_en big_en obstacles_en ._en
+the_en first_en one_en is_en a_en lack_en of_en bilinguals_en ._en
+so_en i_en do_en n't_en even_en know_en if_en there_en exists_en 100_en million_en people_en out_en there_en using_en the_en web_en who_en are_en bilingual_en enough_en to_en help_en us_en translate_en ._en
+that_en 's_en a_en big_en problem_en ._en
+the_en other_en problem_en you_en 're_en going_en to_en run_en into_en is_en a_en lack_en of_en motivation_en ._en
+how_en are_en we_en going_en to_en motivate_en people_en to_en actually_en translate_en the_en web_en for_en free_en ?_en
+normally_en ,_en you_en have_en to_en pay_en people_en to_en do_en this_en ._en
+so_en how_en are_en we_en going_en to_en motivate_en them_en to_en do_en it_en for_en free_en ?_en
+now_en when_en we_en were_en starting_en to_en think_en about_en this_en ,_en we_en were_en blocked_en by_en these_en two_en things_en ._en
+but_en then_en we_en realized_en ,_en there_en 's_en actually_en a_en way_en to_en solve_en both_en these_en problems_en with_en the_en same_en solution_en ._en
+there_en 's_en a_en way_en to_en kill_en two_en birds_en with_en one_en stone_en ._en
+and_en that_en is_en to_en transform_en language_en translation_en into_en something_en that_en millions_en of_en people_en want_en to_en do_en ,_en and_en that_en also_en helps_en with_en the_en problem_en of_en lack_en of_en bilinguals_en ,_en and_en that_en is_en language_en education_en ._en
+so_en it_en turns_en out_en that_en today_en ,_en there_en are_en over_en 1.2_en billion_en people_en learning_en a_en foreign_en language_en ._en
+people_en really_en ,_en really_en want_en to_en learn_en a_en foreign_en language_en ._en
+and_en it_en 's_en not_en just_en because_en they_en 're_en being_en forced_en to_en do_en so_en in_en school_en ._en
+for_en example_en ,_en in_en the_en united_en states_en alone_en ,_en there_en are_en over_en five_en million_en people_en who_en have_en paid_en over_en $_en 500_en for_en software_en to_en learn_en a_en new_en language_en ._en
+so_en people_en really_en ,_en really_en want_en to_en learn_en a_en new_en language_en ._en
+so_en what_en we_en 've_en been_en working_en on_en for_en the_en last_en year_en and_en a_en half_en is_en a_en new_en website_en --_en it_en 's_en called_en duolingo_en --_en where_en the_en basic_en idea_en is_en people_en learn_en a_en new_en language_en for_en free_en while_en simultaneously_en translating_en the_en web_en ._en
+and_en so_en basically_en they_en 're_en learning_en by_en doing_en ._en
+so_en the_en way_en this_en works_en is_en whenever_en you_en 're_en a_en just_en a_en beginner_en ,_en we_en give_en you_en very_en ,_en very_en simple_en sentences_en ._en
+there_en 's_en ,_en of_en course_en ,_en a_en lot_en of_en very_en simple_en sentences_en on_en the_en web_en ._en
+we_en give_en you_en very_en ,_en very_en simple_en sentences_en along_en with_en what_en each_en word_en means_en ._en
+and_en as_en you_en translate_en them_en ,_en and_en as_en you_en see_en how_en other_en people_en translate_en them_en ,_en you_en start_en learning_en the_en language_en ._en
+and_en as_en you_en get_en more_en and_en more_en advanced_en ,_en we_en give_en you_en more_en and_en more_en complex_en sentences_en to_en translate_en ._en
+but_en at_en all_en times_en ,_en you_en 're_en learning_en by_en doing_en ._en
+now_en the_en crazy_en thing_en about_en this_en method_en is_en that_en it_en actually_en really_en works_en ._en
+first_en of_en all_en ,_en people_en are_en really_en ,_en really_en learning_en a_en language_en ._en
+we_en 're_en mostly_en done_en building_en it_en ,_en and_en now_en we_en 're_en testing_en it_en ._en
+people_en really_en can_en learn_en a_en language_en with_en it_en ._en
+and_en they_en learn_en it_en about_en as_en well_en as_en the_en leading_en language_en learning_en software_en ._en
+so_en people_en really_en do_en learn_en a_en language_en ._en
+and_en not_en only_en do_en they_en learn_en it_en as_en well_en ,_en but_en actually_en it_en 's_en way_en more_en interesting_en ._en
+because_en you_en see_en with_en duolingo_en ,_en people_en are_en actually_en learning_en with_en real_en content_en ._en
+as_en opposed_en to_en learning_en with_en made_en -_en up_en sentences_en ,_en people_en are_en learning_en with_en real_en content_en ,_en which_en is_en inherently_en interesting_en ._en
+so_en people_en really_en do_en learn_en a_en language_en ._en
+but_en perhaps_en more_en surprisingly_en ,_en the_en translations_en that_en we_en get_en from_en people_en using_en the_en site_en ,_en even_en though_en they_en 're_en just_en beginners_en ,_en the_en translations_en that_en we_en get_en are_en as_en accurate_en as_en those_en of_en professional_en language_en translators_en ,_en which_en is_en very_en surprising_en ._en
+so_en let_en me_en show_en you_en one_en example_en ._en
+this_en is_en a_en sentence_en that_en was_en translated_en from_en german_en into_en english_en ._en
+the_en top_en is_en the_en german_en ._en
+the_en middle_en is_en an_en english_en translation_en that_en was_en done_en by_en somebody_en who_en was_en a_en professional_en english_en translator_en who_en we_en paid_en 20_en cents_en a_en word_en for_en this_en translation_en ._en
+and_en the_en bottom_en is_en a_en translation_en by_en users_en of_en duolingo_en ,_en none_en of_en whom_en knew_en any_en german_en before_en they_en started_en using_en the_en site_en ._en
+you_en can_en see_en ,_en it_en 's_en pretty_en much_en perfect_en ._en
+now_en of_en course_en ,_en we_en play_en a_en trick_en here_en to_en make_en the_en translations_en as_en good_en as_en professional_en language_en translators_en ._en
+we_en combine_en the_en translations_en of_en multiple_en beginners_en to_en get_en the_en quality_en of_en a_en single_en professional_en translator_en ._en
+now_en even_en though_en we_en 're_en combining_en the_en translations_en ,_en the_en site_en actually_en can_en translate_en pretty_en fast_en ._en
+so_en let_en me_en show_en you_en ,_en this_en is_en our_en estimates_en of_en how_en fast_en we_en could_en translate_en wikipedia_en from_en english_en into_en spanish_en ._en
+remember_en ,_en this_en is_en 50_en million_en dollars_en -_en worth_en of_en value_en ._en
+so_en if_en we_en wanted_en to_en translate_en wikipedia_en into_en spanish_en ,_en we_en could_en do_en it_en in_en five_en weeks_en with_en 100,000_en active_en users_en ._en
+and_en we_en could_en do_en it_en in_en about_en 80_en hours_en with_en a_en million_en active_en users_en ._en
+since_en all_en the_en projects_en that_en my_en group_en has_en worked_en on_en so_en far_en have_en gotten_en millions_en of_en users_en ,_en we_en 're_en hopeful_en that_en we_en 'll_en be_en able_en to_en translate_en extremely_en fast_en with_en this_en project_en ._en
+now_en the_en thing_en that_en i_en 'm_en most_en excited_en about_en with_en duolingo_en is_en i_en think_en this_en provides_en a_en fair_en business_en model_en for_en language_en education_en ._en
+so_en here_en 's_en the_en thing_en :_en the_en current_en business_en model_en for_en language_en education_en is_en the_en student_en pays_en ,_en and_en in_en particular_en ,_en the_en student_en pays_en rosetta_en stone_en 500_en dollars_en ._en
+that_en 's_en the_en current_en business_en model_en ._en
+the_en problem_en with_en this_en business_en model_en is_en that_en 95_en percent_en of_en the_en world_en 's_en population_en does_en n't_en have_en 500_en dollars_en ._en
+so_en it_en 's_en extremely_en unfair_en towards_en the_en poor_en ._en
+this_en is_en totally_en biased_en towards_en the_en rich_en ._en
+now_en see_en ,_en in_en duolingo_en ,_en because_en while_en you_en learn_en you_en 're_en actually_en creating_en value_en ,_en you_en 're_en translating_en stuff_en --_en which_en for_en example_en ,_en we_en could_en charge_en somebody_en for_en translations_en ._en
+so_en this_en is_en how_en we_en could_en monetize_en this_en ._en
+since_en people_en are_en creating_en value_en while_en they_en 're_en learning_en ,_en they_en do_en n't_en have_en to_en pay_en their_en money_en ,_en they_en pay_en with_en their_en time_en ._en
+but_en the_en magical_en thing_en here_en is_en that_en they_en 're_en paying_en with_en their_en time_en ,_en but_en that_en is_en time_en that_en would_en have_en had_en to_en have_en been_en spent_en anyways_en learning_en the_en language_en ._en
+so_en the_en nice_en thing_en about_en duolingo_en is_en i_en think_en it_en provides_en a_en fair_en business_en model_en --_en one_en that_en does_en n't_en discriminate_en against_en poor_en people_en ._en
+so_en here_en 's_en the_en site_en ._en thank_en you_en ._en
+so_en here_en 's_en the_en site_en ._en
+we_en have_en n't_en yet_en launched_en ,_en but_en if_en you_en go_en there_en ,_en you_en can_en sign_en up_en to_en be_en part_en of_en our_en private_en beta_en ,_en which_en is_en probably_en going_en to_en start_en in_en about_en three_en or_en four_en weeks_en ._en
+we_en have_en n't_en yet_en launched_en this_en duolingo_en ._en
+by_en the_en way_en ,_en i_en 'm_en the_en one_en talking_en here_en ,_en but_en actually_en duolingo_en is_en the_en work_en of_en a_en really_en awesome_en team_en ,_en some_en of_en whom_en are_en here_en ._en
+so_en thank_en you_en ._en

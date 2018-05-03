@@ -1,0 +1,187 @@
+mon	nom	est	jonathan	zittrain	,	et	dans	mes	derniers	travaux	,	j'ai	été	un	peu	pessimiste	.
+donc	je	me	suis	dit	que	ce	matin	j'allais	tenter	d'être	optimiste	,	et	de	donner	une	raison	d'espérer	dans	le	futur	d'internet	en	partant	de	son	état	actuel	.
+on	pourrait	croire	qu'il	y	a	moins	d'espoir	aujourd'hui	qu'autrefois	.
+les	gens	sont	moins	gentils	.	il	y	a	moins	de	confiance	autour	de	nous	.
+je	ne	sais	pas	.	comme	exemple	,	nous	pourrions	effectuer	un	test	ici	-	même	.
+combien	de	personnes	ont	déjà	fait	de	l'autostop	?
+ok	.	combien	de	personnes	ont	fait	de	l'autostop	au	cours	de	ces	10	dernières	années	?
+parfait	.	donc	,	qu'est	-	ce	qui	a	changé	?
+sûrement	pas	les	transports	en	commun	.
+voici	donc	une	raison	de	penser	que	nous	serions	sur	le	déclin	,	allant	dans	la	mauvaise	direction	.
+cependant	je	veux	vous	donner	trois	exemples	afin	de	tenter	de	prouver	que	la	tendance	est	en	fait	dans	l'autre	direction	et	qu'internet	la	soutient	ainsi	.
+exemple	numéro	un	:	internet	lui	-	même	.
+voici	trois	des	fondateurs	d'internet	.
+en	fait	ils	étaient	camarades	de	classe	dans	le	même	lycée	situé	dans	la	banlieue	de	los	angeles	dans	les	années	60	.
+vous	avez	sûrement	été	à	un	club	de	français	ou	de	débat	.
+eux	allaient	à	un	club	intitulé	``	construisons	un	réseau	global	``	,	qui	a	finalement	très	bien	fonctionné	.
+ils	sont	photographiés	ici	pour	la	rétrospective	de	newsweek	sur	les	25	ans	d'internet	.
+et	comme	vous	pouvez	le	constater	,	ce	sont	essentiellement	des	gens	bizarres	.
+ils	avaient	une	grande	limitation	et	une	grande	liberté	quand	ils	essayaient	de	concevoir	un	réseau	global	.
+la	limitation	était	qu'ils	n'avaient	pas	du	tout	d'argent	.
+pas	de	capital	à	investir	,	un	capital	capable	,	pour	un	réseau	physique	,	de	fournir	,	du	jour	au	lendemain	,	des	camions	,	des	personnes	et	un	nœud	d'interconnexion	pour	déplacer	des	paquets	.
+ils	n'avaient	rien	de	cela	.
+cependant	ils	avaient	une	extraordinaire	liberté	,	en	cela	qu'ils	n'avaient	pas	à	le	rentabiliser	.
+internet	n'a	pas	de	business	plan	;	il	n'en	a	jamais	eu	.
+pas	de	pdg	,	pas	d'entreprise	responsable	,	à	titre	individuel	,	de	sa	construction	.
+a	la	place	,	des	gens	se	réunissent	,	pour	faire	quelque	chose	d'amusant	,	plutôt	parce	qu'on	leur	avait	demandé	,	que	parce	qu'ils	espéraient	gagner	beaucoup	d'argent	au	final	.
+cette	éthique	a	conduit	à	une	architecture	réseau	,	une	structure	qui	n'était	pas	comme	les	autres	réseaux	informatiques	de	l'époque	.
+c'était	si	inhabituel	,	en	fait	,	qu'on	a	dit	qu'il	n'était	pas	évident	qu'internet	puisse	fonctionner	.
+jusqu'en	1992	,	ibm	était	connu	pour	sa	position	:	il	était	impossible	de	construire	un	réseau	d'entreprise	utilisant	le	protocole	ip	.
+et	même	certains	ingénieurs	d'internet	disent	aujourd'hui	que	toute	la	chose	est	un	projet	pilote	et	qu'il	doit	encore	faire	ses	preuves	.
+c'est	pourquoi	la	mascotte	d'internet	,	s'il	y	en	avait	une	,	serait	un	bourdon	.
+car	le	rapport	``	fourrure	sur	envergure	``	du	bourdon	est	beaucoup	trop	élevé	pour	qu'il	soit	capable	de	voler	.
+et	pourtant	,	mystérieusement	,	il	arrive	à	voler	.
+je	suis	heureux	de	vous	annoncer	,	que	,	grâce	à	des	financements	gouvernementaux	massifs	,	il	y	a	trois	ans	nous	avons	finalement	mis	en	évidence	comment	les	abeilles	volent	.
+c'est	très	compliqué	,	mais	il	s'avère	qu'elles	battent	très	vite	des	ailes	.
+quelle	est	donc	cette	étrange	configuration	architecturale	qui	permet	au	réseau	de	fonctionner	et	le	rend	si	inhabituel	?
+eh	bien	,	pour	faire	circuler	des	données	d'un	endroit	à	l'autre	--	encore	une	fois	,	ce	n'est	pas	comme	la	livraison	d'un	paquet	.
+c'est	plutôt	comme	un	pogo	.
+imaginez	,	vous	faites	partie	d'un	réseau	et	vous	êtes	à	un	évènement	sportif	.
+vous	êtes	assis	dans	des	rangées	comme	celles	-	ci	,	et	quelqu'un	demande	une	bière	,	et	elle	est	livrée	au	bout	de	l'allée	.
+votre	devoir	de	voisin	est	de	faire	passer	la	bière	,	au	péril	de	votre	pantalon	,	pour	l'amener	à	destination	.
+personne	ne	vous	paie	pour	le	faire	.
+cela	fait	juste	partie	de	votre	devoir	de	voisin	.
+d'une	certaine	manière	,	c'est	exactement	comme	ça	que	les	paquets	circulent	sur	internet	,	avec	parfois	jusqu'à	25	ou	30	sauts	,	avec	les	entités	intermédiaires	qui	font	circuler	les	données	sans	avoir	d'obligation	particulière	,	_UNK_	ou	légale	,	avec	_UNK_	initial	,	ou	le	destinataire	.
+maintenant	,	bien	sûr	,	dans	un	pogo	il	est	difficile	de	spécifier	une	destination	.
+cela	nécessite	beaucoup	de	confiance	,	mais	ce	n'est	pas	comme	si	,	``	j'essaye	d'aller	à	_UNK_	s'il	vous	plaît	``	.
+internet	a	besoin	_UNK_	et	de	directions	.
+il	s'avère	qu'il	n'y	a	pas	de	carte	globale	d'internet	.
+a	la	place	,	encore	une	fois	,	c'est	comme	si	nous	étions	tous	assis	au	cinéma	,	mais	où	nous	pouvons	uniquement	voir	dans	le	brouillard	les	gens	juste	à	côté	de	nous	.
+comment	faisons	-	nous	pour	déterminer	qui	est	où	?
+nous	nous	tournons	vers	la	personne	sur	la	droite	,	et	disons	à	cette	personne	ce	que	nous	voyons	sur	notre	gauche	.
+et	vice	versa	.
+ils	peuvent	enregistrer	,	transmettre	,	répéter	.	et	en	un	clin	d'œil	,	vous	avez	une	idée	générale	d'où	sont	les	choses	.
+c'est	ainsi	que	_UNK_	et	le	routage	internet	fonctionnent	réellement	.
+c'est	un	système	qui	repose	sur	la	gentillesse	et	la	confiance	,	cela	le	rend	aussi	très	délicat	et	vulnérable	.
+dans	de	rares	mais	frappantes	occasions	,	un	simple	mensonge	émis	par	juste	une	entité	dans	ce	nid	d'abeilles	peut	conduire	à	de	vrais	problèmes	.
+par	exemple	,	l'an	passé	,	le	gouvernement	du	pakistan	a	demandé	à	ses	fournisseurs	d'accès	internet	d'empêcher	les	citoyens	du	pakistan	d'accéder	à	youtube	.
+il	y	avait	une	vidéo	que	le	gouvernement	n'aimait	pas	et	il	voulait	être	sûr	qu'elle	était	bloquée	.
+c'est	un	phénomène	courant	.	partout	les	gouvernements	essaient	souvent	de	bloquer	,	filtrer	et	censurer	du	contenu	sur	internet	.
+eh	bien	un	fai	au	pakistan	a	choisi	d'effectuer	le	blocage	de	ses	abonnés	d'une	façon	plutôt	inhabituelle	.
+il	faisait	en	sorte	--	de	la	même	façon	que	l'on	vous	demanderait	,	si	vous	faisiez	partie	d'internet	,	de	déclarer	ce	que	vous	voyez	autour	de	vous	--	il	faisait	en	sorte	de	répondre	,	qu'en	fait	,	il	avait	soudainement	réalisé	qu'il	était	youtube	.
+``	c'est	correct	,	``	ça	disait	,	``	je	suis	youtube	.	``
+ce	qui	voulait	dire	que	des	paquets	de	données	d'abonnés	allant	sur	youtube	s'arrêtaient	au	fai	,	car	ils	pensaient	qu'ils	y	étaient	déjà	.
+et	le	fai	les	rejetait	sans	les	ouvrir	car	le	but	était	de	les	bloquer	.
+mais	ça	ne	s'arrêtait	pas	là	.
+vous	voyez	,	cette	configuration	a	été	faite	d'un	clic	,	qui	était	répercuté	,	un	seul	clic	.
+quand	vous	faites	l'analyse	a	_UNK_	de	cet	évènement	,	vous	avez	à	un	moment	youtube	fonctionnant	parfaitement	.
+puis	,	juste	après	,	vous	avez	le	faux	youtube	qui	apparaît	.
+en	deux	minutes	,	cette	configuration	est	propagée	ailleurs	et	youtube	est	bloqué	partout	dans	le	monde	.
+si	vous	étiez	assis	à	oxford	,	en	angleterre	,	essayant	d'accéder	à	youtube	,	vos	paquets	allaient	au	pakistan	et	n'en	revenaient	pas	.
+maintenant	pensez	seulement	à	ce	sujet	.
+un	des	sites	web	les	plus	populaires	au	monde	dirigé	par	la	plus	puissante	entreprise	au	monde	,	et	il	n'y	avait	rien	que	youtube	ou	google	puissent	particulièrement	faire	à	propos	de	cela	.
+cependant	,	d'une	certaine	manière	,	en	deux	heures	,	le	problème	était	résolu	.
+comment	c'est	arrivé	?
+eh	bien	,	comme	indice	important	,	tournons	nous	vers	_UNK_	,	l'association	des	opérateurs	de	réseaux	en	amérique	du	nord	.
+un	groupe	de	personnes	qui	,	par	une	belle	journée	d'été	,	entrent	dans	une	salle	sans	fenêtres	,	se	mettent	à	leurs	terminaux	pour	lire	leurs	e-mails	et	messages	avec	cette	police	de	caractères	,	et	discutent	à	propos	de	réseaux	.
+certains	d'entre	eux	sont	des	cadres	intermédiaires	chez	des	fai	partout	dans	le	monde	.
+voici	le	message	où	l'un	d'entre	eux	dit	,	``	il	semblerait	qu'on	ait	quelque	chose	.	nous	avons	affaire	à	un	détournement	de	youtube	!
+ceci	n'est	pas	un	exercice	.	ce	n'est	pas	seulement	_UNK_	des	ingénieurs	de	youtube	.	je	le	jure	.
+il	se	passe	quelque	chose	au	pakistan	.	``
+ils	se	sont	réunis	afin	d'aider	à	trouver	le	problème	et	le	résoudre	.
+c'est	un	peu	comme	si	votre	maison	prenait	feu	.
+la	mauvaise	nouvelle	:	il	n'y	a	pas	de	pompiers	.
+la	bonne	nouvelle	:	des	inconnus	apparaissent	de	nulle	part	,	éteignent	le	feu	,	et	repartent	sans	attendre	le	moindre	paiement	ou	gloire	.
+j'ai	tenté	de	réfléchir	au	modèle	adéquat	pour	décrire	ce	type	de	bonne	action	par	ces	geek	inconnus	.
+vous	savez	,	c'est	comme	s'il	se	mettait	à	_UNK_	et	que	les	gens	soient	prêts	à	aider	.
+il	s'avère	que	ce	modèle	est	omniprésent	,	si	vous	y	regardez	de	plus	près	.
+exemple	numéro	deux	:	wikipedia	.
+si	un	homme	nommé	jimbo	venait	vous	voir	en	2001	et	disait	,	``	j'ai	eu	une	super	idée	!	nous	commençons	avec	sept	articles	,	n'importe	qui	peut	éditer	n'importe	quoi	,	n'importe	quand	,	et	nous	obtiendrons	une	superbe	encyclopédie	!	hein	?
+sûr	.	l'idée	la	plus	stupide	jamais	émise	.
+en	fait	,	wikipedia	est	une	idée	si	profondément	stupide	que	même	jimbo	ne	l'a	jamais	eue	.
+l'idée	de	jimbo	était	_UNK_	.
+cela	allait	être	totalement	traditionnel	.	il	paierait	les	gens	parce	qu'il	_UNK_	un	type	bien	,	l'argent	reviendrait	aux	gens	et	ils	écriraient	les	articles	.
+le	wiki	fut	introduit	afin	que	chacun	puisse	faire	des	suggestions	sur	les	parutions	--	presque	comme	une	arrière	-	pensée	,	une	antichambre	.
+finalement	_UNK_	s'est	développée	pour	englober	la	totalité	du	projet	.
+et	aujourd'hui	,	wikipedia	est	si	omniprésent	que	vous	pouvez	le	trouver	sur	des	menus	de	restaurants	chinois	.
+je	n'invente	rien	.
+j'ai	une	théorie	que	je	peux	expliquer	plus	tard	.
+il	suffit	de	dire	que	pour	l'instant	je	préfère	mon	wikipedia	sauté	à	la	_UNK_	avec	des	poivrons	.
+mais	wikipedia	ne	fonctionne	pas	seulement	spontanément	.
+comment	fonctionne	-	t	-	il	réellement	?	il	y	a	une	antichambre	,	en	quelque	sorte	sans	fenêtre	,	métaphoriquement	parlant	.
+et	il	y	a	un	groupe	de	personnes	qui	,	en	une	journée	ensoleillée	,	seraient	plutôt	à	l'intérieur	et	_UNK_	le	tableau	d'affichage	de	l'administrateur	,	lui	-	même	une	page	wiki	que	tout	le	monde	peut	éditer	.
+vous	inscrivez	simplement	vos	problèmes	sur	la	page	.
+cela	fait	penser	à	la	description	de	l'histoire	``	un	fichu	évènement	après	un	autre	``	,	non	?
+numéro	un	:	``	édition	_UNK_	par	l'utilisateur	andyvphil	.	``
+mes	excuses	,	andyvphil	,	si	vous	êtes	ici	aujourd'hui	.
+je	ne	prend	pas	parti	.
+``	_UNK_	m'a	attaqué	pour	avoir	supprimé	ses	changements	.	``
+voici	ma	favorite	:	``	une	longue	histoire	.	``
+il	s'avère	qu'il	y	a	plus	de	gens	vérifiant	cette	page	de	problèmes	et	désirant	les	résoudre	qu'il	y	a	de	problèmes	sur	la	page	.
+c'est	ce	qui	permet	à	wikipedia	de	rester	à	flot	.
+a	tout	moment	,	wikipedia	est	approximativement	à	45	minutes	d'une	destruction	totale	.
+il	y	a	des	_UNK_	,	essayant	de	transformer	chaque	article	en	une	publicité	pour	une	montre	_UNK_	.
+c'est	cette	mince	ligne	de	geek	qui	maintient	le	tout	en	état	.
+pas	parce	que	c'est	un	travail	,	ni	parce	que	c'est	une	carrière	,	mais	parce	que	c'est	une	demande	.
+c'est	quelque	chose	qu'ils	se	sentent	poussés	à	faire	car	ils	s'y	intéressent	.
+ils	se	réunissent	même	dans	des	groupes	tels	que	l	'	``	unité	de	lutte	contre	le	vandalisme	``	--	``	civisme	,	maturité	,	responsabilité	``	--	juste	pour	nettoyer	les	pages	.
+cela	vous	fait	vous	demander	s'il	y	avait	,	par	exemple	,	une	énorme	convention	star	trek	extrêmement	populaire	un	week	-	end	,	qui	tiendrait	la	boutique	?
+donc	ce	que	nous	voyons	,	ce	que	nous	voyons	dans	ce	phénomène	est	quelque	chose	que	le	cinglé	ex	-	ingénieur	routier	hans	_UNK_	a	découvert	aux	pays	-	bas	,	et	ici	à	south	_UNK_	,	que	parfois	si	on	supprime	certaines	règles	extérieures	,	panneaux	et	tout	le	reste	,	vous	pouvez	finalement	vous	retrouver	avec	un	environnement	plus	sûr	dans	lequel	les	gens	peuvent	fonctionner	,	et	dans	lequel	ils	sont	plus	humains	les	uns	avec	les	autres	.
+ils	réalisent	qu'ils	doivent	assumer	la	responsabilité	de	leurs	actes	.
+wikipedia	a	compris	cela	.
+certains	d'entre	vous	se	rappellent	peut	-	être	du	star	wars	kid	,	le	pauvre	adolescent	qui	s'est	filmé	avec	un	ramasse	-	balle	de	golf	,	comme	si	c'était	un	sabre	laser	.
+le	film	,	sans	qu'il	le	permettre	,	ou	même	d'abord	sans	qu'il	l'ait	su	,	s'est	retrouvé	sur	internet	.
+une	vidéo	très	très	virale	.	extrêmement	populaire	.
+complètement	_UNK_	pour	lui	.
+elle	est	même	devenue	encyclopédique	,	wikipedia	devait	faire	un	article	à	propos	de	star	wars	kid	.
+chaque	article	sur	wikipedia	a	une	page	de	discussion	correspondante	.
+sur	la	page	de	discussion	il	y	avait	de	longs	débats	entre	les	_UNK_	,	quant	à	savoir	si	son	vrai	nom	devait	apparaître	dans	l'article	.
+vous	pouvez	lire	les	arguments	de	chaque	camp	.
+voici	juste	un	extrait	de	quelques	-	uns	.
+ils	ont	finalement	décidé	,	pas	à	l'unanimité	bien	sûr	,	de	ne	pas	inclure	son	vrai	nom	,	bien	que	la	plupart	des	reportages	l'aient	fait	.
+ils	pensaient	juste	que	ce	n'était	pas	bien	.
+c'était	une	bonne	action	.
+depuis	ce	jour	,	la	page	pour	star	wars	kid	a	un	avertissement	dans	le	coin	droit	disant	que	vous	n'avez	pas	le	droit	de	mettre	son	vrai	nom	sur	la	page	.
+si	vous	le	faites	,	cela	sera	immédiatement	enlevé	,	par	des	gens	qui	peuvent	avoir	désapprouvé	la	décision	originelle	,	mais	en	respectent	le	résultat	,	et	travaillent	pour	qu'il	reste	parce	qu'ils	croient	en	quelque	chose	de	plus	important	que	leur	propre	opinion	.
+en	tant	_UNK_	,	je	dois	dire	que	ces	gars	sont	en	train	d'inventer	la	loi	et	la	jurisprudence	et	tout	le	reste	à	mesure	qu'ils	avancent	.
+ce	n'est	pas	seulement	limité	à	wikipedia	.
+nous	le	voyons	sur	des	blogs	un	peu	partout	.
+voici	la	couverture	d'un	business	week	de	2005	.
+ouah	.	les	blogs	sont	en	train	de	changer	nos	affaires	.
+je	sais	qu'ils	ont	l'air	ridicule	.	et	bien	sûr	ils	ont	l'air	bête	.
+ils	ont	démarré	toutes	sortes	de	projets	stupides	.
+voici	mon	blog	stupide	préféré	:	_UNK_	vous	leur	envoyez	une	photo	de	votre	chat	s'il	ressemble	à	hitler	.
+oui	je	sais	.	numéro	quatre	,	vous	imaginez	-	vous	rentrer	tous	les	soirs	à	la	maison	retrouver	un	tel	pareil	?
+mais	alors	,	vous	pouvez	voir	le	même	genre	de	fantaisie	appliqué	à	des	gens	.
+voici	un	blog	consacré	aux	portraits	_UNK_	.
+celui	-	ci	dit	,	``	pré	_UNK_	avec	une	clôture	de	bois	en	zigzag	est	-	ce	une	carcasse	animale	derrière	elle	?	``
+vous	vous	dites	:	``	je	pense	que	c'est	une	carcasse	d'animal	derrière	elle	.	``
+et	ainsi	de	suite	.
+mais	si	vous	cliquez	sur	celle	-	ci	:	``	image	retirée	à	la	demande	du	propriétaire	``	.
+voilà	.	image	retirée	à	la	demande	du	propriétaire	.
+finalement	,	quelqu'un	qui	a	été	tourné	en	ridicule	,	a	écrit	au	type	désagréable	qui	s'occupe	du	site	,	sans	menace	légale	,	sans	offre	de	paiement	,	mais	juste	:	``	hé	,	ça	ne	vous	dérange	pas	?	``
+la	personne	a	dit	,	``	non	,	c'est	bon	.	``
+je	crois	que	nous	pouvons	construire	des	architectures	en	ligne	pour	faire	que	de	telles	demandes	humaines	soient	beaucoup	plus	faciles	à	effectuer	,	pour	que	chacun	d'entre	nous	comprenne	que	les	données	que	nous	trouvons	en	ligne	,	des	choses	que	l'on	peut	copier	,	coller	et	transmettre	,	représentent	en	fait	l'émotion	humaine	,	un	travail	,	un	résultat	,	et	d'être	en	mesure	,	à	un	certain	moment	,	de	décider	comment	nous	voulons	les	traiter	.
+je	pense	même	que	ça	peut	être	utilisé	dans	le	monde	réel	.
+nous	pourrions	finir	un	jour	,	dans	un	monde	rempli	de	plus	en	plus	de	capteurs	,	de	caméras	vous	filmant	partout	,	mettant	peut	-	être	cela	en	ligne	--	avec	une	badge	sur	la	poitrine	disant	,	``	vous	savez	,	je	ne	veux	pas	.	``
+la	technologie	fera	en	sorte	que	l'auteur	de	la	photo	sera	averti	plus	tard	que	cette	personne	a	demandé	à	être	contactée	avant	que	cela	ne	prenne	plus	d'envergure	,	si	cela	ne	vous	dérange	pas	.
+l'auteur	de	la	photo	pourra	décider	comment	traiter	cette	demande	et	décider	s'il	doit	la	respecter	.
+dans	le	monde	réel	,	nous	voyons	des	_UNK_	comme	celle	au	pakistan	.
+nous	avons	maintenant	la	possibilité	de	construire	des	systèmes	,	afin	que	les	gens	puissent	signaler	cette	censure	lorsqu'elle	arrive	.
+ce	n'est	plus	seulement	:	``	je	ne	sais	pas	.	je	n'y	arrive	pas	.	je	crois	que	je	vais	passer	à	autre	chose	,	``	mais	soudainement	une	conscience	collective	de	ce	qui	est	bloqué	et	censuré	en	ligne	.
+on	parle	de	la	technologie	imitant	la	vie	imitant	la	technologie	,	ou	peut	-	être	l'inverse	:	un	chercheur	de	l'université	de	new	york	a	pris	ici	des	petits	robots	en	carton	avec	des	visages	souriants	dessus	et	un	moteur	qui	les	pousse	en	avant	avec	un	drapeau	derrière	indiquant	la	destination	désirée	.
+ça	disait	,	``	pouvez	-	vous	m'aider	à	y	aller	?	``
+il	les	a	lâchés	dans	les	rues	de	manhattan	.
+ils	financent	n'importe	quoi	de	nos	jours	.
+voici	la	liste	de	plus	de	43	personnes	qui	ont	aidé	à	diriger	le	robot	qui	n'a	pas	pu	s'orienter	et	le	remettre	sur	son	chemin	,	d'un	coin	du	washington	square	park	à	un	autre	.
+cela	nous	mène	à	l'exemple	numéro	trois	:	l'auto	-	stop	.
+je	ne	suis	pas	si	sûr	que	l'auto	-	stop	soit	mort	.
+pourquoi	?	voici	le	tableau	de	covoiturage	de	craigslist	.
+si	c'était	appelé	le	tableau	d'auto	-	stop	de	craigslist	on	entendrait	les	mouches	voler	.
+mais	c'est	un	tableau	de	covoiturage	,	c'est	fondamentalement	la	même	chose	.
+pourquoi	les	gens	l'utilisent	?
+je	ne	sais	pas	.	peut	-	être	qu'ils	pensent	que	,	euh	,	les	tueurs	ne	_UNK_	pas	?
+non	.	je	pense	que	la	bonne	réponse	est	une	fois	que	vous	la	_UNK_	,	après	avoir	surmonté	les	attentes	_UNK_	d'un	projet	raté	qui	a	eu	son	heure	de	gloire	,	mais	qui	,	sans	raison	précise	,	a	_UNK_	,	vous	pouvez	en	fait	réanimer	la	gentillesse	humaine	et	le	partage	tels	que	craigslist	les	représente	.
+on	peut	également	le	constater	avec	quelque	chose	comme	,	_UNK_	couchsurfing	:	l'idée	d'un	type	en	fin	de	compte	,	de	réunir	des	gens	qui	vont	dans	un	endroit	lointain	et	désireraient	dormir	sur	le	canapé	d'un	étranger	gratuitement	,	avec	des	gens	vivant	loin	,	qui	désireraient	que	quelqu'un	d'inconnu	dorme	sur	leur	canapé	gratuitement	.
+c'est	une	idée	géniale	.
+c'est	une	abeille	qui	,	oui	,	vole	.
+c'est	impressionnant	le	nombre	de	couchsurfing	réussis	.
+si	vous	vous	posez	la	question	:	non	,	il	n'y	a	eu	aucun	décès	connu	associé	au	couchsurfing	.
+même	si	,	bien	sûr	,	le	système	de	réputation	,	pour	le	moment	,	fonctionne	en	laissant	un	rapport	après	votre	expérience	de	couchsurfing	.
+il	y	a	donc	un	moyen	de	biaiser	le	système	.
+mon	empressement	,	ma	pensée	,	est	qu'internet	n'est	pas	juste	une	somme	d'informations	.
+ce	n'est	pas	un	nom	.	c'est	un	verbe	.
+quand	vous	allez	dessus	,	si	vous	écoutez	,	regardez	soigneusement	et	d'assez	près	,	vous	allez	découvrir	que	cette	information	est	en	train	de	vous	dire	quelque	chose	.
+cela	dit	que	ce	que	nous	avons	entendu	hier	,	_UNK_	nous	l'a	dit	.
+cela	nous	dit	:	``	marchons	.	``	merci	beaucoup	.
+

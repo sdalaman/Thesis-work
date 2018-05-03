@@ -1,0 +1,194 @@
+moi_fr je_fr pense_fr que_fr les_fr données_fr peuvent_fr en_fr fait_fr nous_fr rendre_fr plus_fr humains_fr ._fr
+nous_fr récoltons_fr et_fr créons_fr toutes_fr sortes_fr de_fr données_fr sur_fr notre_fr environnement_fr de_fr vie_fr ,_fr et_fr cela_fr nous_fr permet_fr de_fr raconter_fr des_fr histoires_fr étonnantes_fr ._fr
+récemment_fr ,_fr un_fr sage_fr théoricien_fr des_fr medias_fr a_fr _UNK__fr ,_fr "_fr la_fr culture_fr du_fr 19ème_fr siècle_fr était_fr définie_fr par_fr le_fr roman_fr ,_fr la_fr culture_fr du_fr 20ème_fr siècle_fr était_fr définie_fr par_fr le_fr cinéma_fr ,_fr et_fr la_fr culture_fr du_fr 21ème_fr siècle_fr sera_fr définie_fr par_fr l'interface_fr ._fr "_fr
+et_fr je_fr crois_fr que_fr cela_fr va_fr se_fr vérifier_fr ._fr
+nos_fr vies_fr sont_fr _UNK__fr par_fr les_fr données_fr ,_fr et_fr la_fr présentation_fr des_fr ces_fr données_fr est_fr pour_fr nous_fr une_fr opportunité_fr de_fr créer_fr des_fr interfaces_fr étonnantes_fr qui_fr racontent_fr de_fr grandes_fr histoires_fr ._fr
+je_fr vais_fr donc_fr vous_fr montrer_fr quelques_fr -_fr uns_fr des_fr projets_fr sur_fr lesquels_fr j'ai_fr travaillé_fr ces_fr deux_fr dernières_fr années_fr et_fr qui_fr reflètent_fr nos_fr vies_fr et_fr nos_fr systèmes_fr ._fr
+voici_fr un_fr projet_fr nommé_fr flight_fr patterns_fr ._fr
+ce_fr que_fr vous_fr voyez_fr là_fr est_fr le_fr trafic_fr aérien_fr au_fr -_fr dessus_fr de_fr l'amérique_fr du_fr nord_fr pendant_fr 24h_fr ._fr
+comme_fr vous_fr voyez_fr ,_fr tout_fr se_fr fond_fr jusqu'à_fr devenir_fr noir_fr ,_fr et_fr vous_fr voyez_fr les_fr gens_fr s'endormir_fr ._fr
+après_fr ça_fr ,_fr vous_fr voyez_fr sur_fr la_fr côte_fr ouest_fr des_fr avions_fr qui_fr traversent_fr ,_fr les_fr vols_fr à_fr l'oeil_fr rouge_fr vers_fr la_fr côte_fr est._fr
+et_fr vous_fr allez_fr voir_fr tout_fr le_fr monde_fr _UNK__fr sur_fr la_fr côte_fr est_fr ,_fr suivis_fr par_fr les_fr vols_fr européens_fr qui_fr arrivent_fr dans_fr le_fr coin_fr en_fr haut_fr à_fr droite_fr ._fr
+tout_fr le_fr monde_fr migre_fr de_fr la_fr côte_fr est_fr à_fr la_fr côte_fr ouest_fr ._fr
+vous_fr voyez_fr san_fr francisco_fr et_fr los_fr angeles_fr commencer_fr leur_fr voyage_fr vers_fr hawaii_fr dans_fr le_fr coin_fr en_fr bas_fr à_fr gauche_fr ._fr
+je_fr pense_fr que_fr c'est_fr une_fr chose_fr de_fr dire_fr qu'il_fr y_fr a_fr 140_fr 000_fr avions_fr suivis_fr par_fr le_fr gouvernement_fr fédéral_fr à_fr un_fr instant_fr donné_fr ,_fr et_fr c'est_fr une_fr autre_fr chose_fr de_fr voir_fr ce_fr système_fr dans_fr son_fr flux_fr et_fr reflux_fr ._fr
+c'est_fr une_fr prise_fr de_fr vue_fr accélérée_fr de_fr l'exacte_fr même_fr donnée_fr ,_fr mais_fr je_fr l'ai_fr codée_fr en_fr couleur_fr par_fr type_fr ,_fr pour_fr que_fr l'on_fr puisse_fr voir_fr la_fr diversité_fr des_fr avions_fr dans_fr le_fr ciel_fr au_fr -_fr dessus_fr de_fr nos_fr têtes_fr ._fr
+et_fr j'ai_fr commencé_fr à_fr faire_fr ces_fr vues_fr et_fr je_fr les_fr ai_fr intégrées_fr à_fr google_fr maps_fr vous_fr pouvez_fr zoomer_fr et_fr voir_fr chaque_fr aéroport_fr et_fr les_fr motifs_fr qui_fr se_fr dessinent_fr ._fr
+ici_fr nous_fr voyons_fr que_fr le_fr blanc_fr représente_fr les_fr basses_fr altitudes_fr ,_fr et_fr le_fr bleu_fr ce_fr sont_fr les_fr altitudes_fr plus_fr élevées_fr ._fr
+et_fr vous_fr pouvez_fr zoomer_fr ._fr là_fr ,_fr c'est_fr une_fr vue_fr d'atlanta_fr ._fr
+vous_fr pouvez_fr voir_fr ici_fr un_fr important_fr aéroport_fr de_fr fret_fr ,_fr et_fr il_fr y_fr a_fr toutes_fr sortes_fr d'activités_fr là_fr -_fr bas_fr ._fr
+vous_fr pouvez_fr aussi_fr basculer_fr d'une_fr altitude_fr à_fr l'autre_fr par_fr modèle_fr et_fr fabricant_fr ._fr
+voyez_fr ,_fr encore_fr ,_fr la_fr diversité_fr ._fr
+et_fr vous_fr pouvez_fr faire_fr défiler_fr l'ensemble_fr et_fr voir_fr quelques_fr -_fr uns_fr des_fr différents_fr aéroports_fr et_fr leurs_fr différents_fr motifs_fr ._fr
+voilà_fr une_fr vue_fr en_fr remontant_fr la_fr côte_fr est._fr
+vous_fr voyez_fr un_fr peu_fr du_fr chaos_fr qui_fr anime_fr new_fr york_fr avec_fr les_fr contrôleurs_fr aériens_fr qui_fr doivent_fr gérer_fr tous_fr ces_fr aéroports_fr majeurs_fr proches_fr les_fr uns_fr des_fr autres_fr ._fr
+en_fr dézoomant_fr très_fr vite_fr nous_fr voyons_fr ,_fr à_fr nouveau_fr ,_fr les_fr etats_fr -_fr unis_fr --_fr vous_fr avez_fr la_fr floride_fr en_fr bas_fr à_fr droite_fr ._fr
+en_fr se_fr déplaçant_fr jusqu'à_fr la_fr côte_fr ouest_fr ,_fr vous_fr voyez_fr san_fr francisco_fr et_fr los_fr angeles_fr --_fr de_fr grandes_fr zones_fr à_fr faible_fr trafic_fr le_fr long_fr du_fr nevada_fr et_fr de_fr l'arizona_fr ._fr
+et_fr nous_fr voici_fr là_fr ,_fr à_fr los_fr angeles_fr et_fr long_fr beach_fr en_fr bas_fr ._fr
+j'ai_fr aussi_fr commencé_fr jeter_fr un_fr oeil_fr aux_fr différents_fr paramètres_fr ,_fr car_fr on_fr peut_fr choisir_fr ce_fr que_fr l'on_fr veut_fr extraire_fr des_fr données_fr ._fr
+voilà_fr une_fr vue_fr comparant_fr les_fr vols_fr _UNK__fr et_fr descendants_fr ._fr
+et_fr vous_fr voyez_fr ,_fr dans_fr le_fr temps_fr ,_fr comment_fr les_fr aéroports_fr changent_fr ._fr
+vous_fr voyez_fr les_fr motifs_fr persistants_fr qui_fr commencent_fr à_fr se_fr développer_fr en_fr bas_fr de_fr l'écran_fr ._fr
+et_fr vous_fr voyez_fr finalement_fr l'aéroport_fr qui_fr change_fr vraiment_fr de_fr directions_fr ._fr
+voilà_fr un_fr autre_fr projet_fr sur_fr lequel_fr j'ai_fr travaillé_fr avec_fr le_fr sensible_fr cities_fr lab_fr du_fr mit_fr ._fr
+voilà_fr une_fr vue_fr des_fr communications_fr internationales_fr ._fr
+et_fr voilà_fr comment_fr new_fr york_fr communique_fr avec_fr d'autres_fr villes_fr internationales_fr ._fr
+et_fr nous_fr avons_fr mis_fr cela_fr en_fr place_fr comme_fr un_fr globe_fr en_fr live_fr au_fr musée_fr d'art_fr moderne_fr de_fr new_fr york_fr à_fr l'occasion_fr de_fr l'exposition_fr design_fr the_fr _UNK__fr mind_fr ._fr
+et_fr il_fr a_fr été_fr alimenté_fr par_fr un_fr flux_fr pendant_fr 24h_fr ,_fr donc_fr on_fr pouvait_fr voir_fr la_fr relation_fr évoluer_fr ,_fr et_fr des_fr infos_fr démographiques_fr qui_fr provenaient_fr des_fr données_fr at&t_fr et_fr se_fr révélaient_fr ._fr
+voici_fr un_fr autre_fr projet_fr sur_fr lequel_fr j'ai_fr travaillé_fr avec_fr le_fr sensible_fr cities_fr lab_fr et_fr _UNK__fr ._fr
+et_fr cela_fr montre_fr des_fr sms_fr envoyés_fr dans_fr la_fr ville_fr d'amsterdam_fr ._fr
+vous_fr voyez_fr le_fr flux_fr et_fr reflux_fr quotidien_fr des_fr gens_fr qui_fr envoient_fr des_fr sms_fr des_fr différentes_fr parties_fr de_fr la_fr ville_fr jusqu'à_fr l'approche_fr du_fr nouvel_fr an_fr où_fr tout_fr le_fr monde_fr dit_fr "_fr bonne_fr année_fr !_fr "_fr
+donc_fr c'est_fr un_fr outil_fr interactif_fr que_fr vous_fr pouvez_fr déplacer_fr partout_fr ,_fr pour_fr voir_fr différentes_fr parties_fr de_fr la_fr ville_fr ._fr
+ici_fr nous_fr observons_fr un_fr autre_fr événement_fr ._fr on_fr l'appelle_fr le_fr jour_fr de_fr la_fr reine_fr ._fr
+là_fr encore_fr ,_fr vous_fr avez_fr ce_fr flux_fr et_fr reflux_fr quotidien_fr des_fr gens_fr qui_fr envoient_fr des_fr sms_fr des_fr différentes_fr parties_fr de_fr la_fr ville_fr ._fr
+et_fr vous_fr allez_fr voir_fr des_fr gens_fr se_fr rassembler_fr dans_fr le_fr centre_fr -_fr ville_fr pour_fr faire_fr la_fr fête_fr la_fr veille_fr comme_fr ça_fr se_fr passe_fr juste_fr là_fr ._fr
+ensuite_fr vous_fr voyez_fr les_fr gens_fr faire_fr la_fr fête_fr le_fr lendemain_fr ._fr
+et_fr vous_fr pouvez_fr faire_fr pause_fr et_fr avancer_fr et_fr reculer_fr pour_fr voir_fr différentes_fr phases_fr ._fr
+passons_fr maintenant_fr à_fr quelque_fr chose_fr de_fr totalement_fr différent_fr ._fr
+certains_fr d'entre_fr vous_fr connaissent_fr peut_fr -_fr être_fr ._fr
+voici_fr la_fr machine_fr à_fr jouer_fr aux_fr échecs_fr du_fr baron_fr wolfgang_fr von_fr _UNK__fr ._fr
+c'est_fr un_fr robot_fr étonnant_fr qui_fr joue_fr très_fr bien_fr aux_fr échecs_fr ,_fr sauf_fr pour_fr un_fr détail_fr :_fr ce_fr n'est_fr pas_fr du_fr tout_fr un_fr robot_fr ._fr
+c'est_fr en_fr fait_fr un_fr homme_fr sans_fr jambes_fr qui_fr est_fr assis_fr dans_fr cette_fr boite_fr et_fr contrôle_fr ce_fr joueur_fr d'échecs_fr ._fr
+cela_fr a_fr inspiré_fr un_fr web_fr service_fr d'amazon_fr appelé_fr le_fr turc_fr mécanique_fr --_fr d'après_fr le_fr nom_fr de_fr ce_fr type_fr ._fr
+et_fr c'est_fr basé_fr sur_fr le_fr postulat_fr que_fr certaines_fr choses_fr sont_fr faciles_fr pour_fr les_fr gens_fr ,_fr mais_fr vraiment_fr compliquées_fr pour_fr les_fr ordinateurs_fr ._fr
+alors_fr ils_fr ont_fr fait_fr ce_fr web_fr service_fr et_fr dit_fr "_fr n'importe_fr quel_fr programmeur_fr peut_fr écrire_fr un_fr bout_fr de_fr code_fr et_fr puiser_fr dans_fr les_fr esprits_fr de_fr milliers_fr de_fr gens_fr ._fr "_fr
+mon_fr côté_fr nerd_fr a_fr pensé_fr "_fr wahou_fr ,_fr c'est_fr fou_fr ._fr
+je_fr peux_fr puiser_fr dans_fr les_fr esprits_fr de_fr milliers_fr de_fr gens_fr ._fr "_fr
+et_fr mon_fr autre_fr côté_fr nerd_fr a_fr pensé_fr "_fr c'est_fr horrible_fr ._fr c'est_fr totalement_fr bizarre_fr ._fr
+qu'est_fr -_fr ce_fr que_fr ça_fr implique_fr pour_fr le_fr futur_fr de_fr l'humanité_fr ,_fr que_fr nous_fr sommes_fr tous_fr branchés_fr à_fr ce_fr _UNK__fr ?_fr "_fr
+j'étais_fr sans_fr doute_fr un_fr peu_fr extrême_fr ._fr
+mais_fr qu'est_fr -_fr ce_fr que_fr ça_fr veut_fr dire_fr quand_fr nous_fr n'avons_fr pas_fr le_fr contexte_fr pour_fr ce_fr sur_fr quoi_fr nous_fr travaillons_fr et_fr nous_fr faisons_fr juste_fr ces_fr petites_fr tâches_fr ._fr
+alors_fr j'ai_fr créé_fr cet_fr outil_fr pour_fr dessiner_fr ._fr
+j'ai_fr demandé_fr aux_fr gens_fr de_fr dessiner_fr un_fr mouton_fr qui_fr regarde_fr à_fr gauche_fr ._fr
+et_fr j'ai_fr dit_fr "_fr je_fr vous_fr payerai_fr 2_fr cents_fr pour_fr votre_fr contribution_fr ._fr "_fr
+et_fr j'ai_fr commencé_fr à_fr collectionner_fr les_fr moutons_fr ._fr
+j'ai_fr réuni_fr beaucoup_fr ,_fr beaucoup_fr de_fr moutons_fr différents_fr ._fr
+des_fr tas_fr de_fr moutons_fr ._fr
+j'ai_fr pris_fr les_fr premiers_fr 10_fr 000_fr moutons_fr que_fr j'avais_fr réunis_fr ,_fr et_fr je_fr les_fr ai_fr mis_fr sur_fr un_fr site_fr appelé_fr _UNK__fr où_fr vous_fr pouvez_fr en_fr fait_fr acheter_fr des_fr collections_fr de_fr 20_fr moutons_fr ._fr
+vous_fr ne_fr pouvez_fr pas_fr choisir_fr un_fr mouton_fr à_fr l'unité_fr mais_fr vous_fr pouvez_fr acheter_fr un_fr block_fr de_fr vignettes_fr comme_fr matière_fr première_fr ._fr
+et_fr juxtaposée_fr à_fr la_fr grille_fr vous_fr pouvez_fr vous_fr en_fr passant_fr la_fr souris_fr sur_fr chaque_fr mouton_fr ,_fr l'humanité_fr derrière_fr cet_fr immense_fr processus_fr mécanique_fr ._fr
+je_fr pense_fr qu'il_fr y_fr a_fr quelque_fr chose_fr de_fr vraiment_fr intéressant_fr à_fr regarder_fr les_fr gens_fr passer_fr par_fr ce_fr labeur_fr créatif_fr --_fr quelque_fr chose_fr qui_fr nous_fr parle_fr à_fr tous_fr ,_fr ce_fr processus_fr créatif_fr d'essayer_fr d'inventer_fr quelque_fr chose_fr à_fr partir_fr de_fr rien_fr ._fr
+je_fr trouve_fr que_fr c'était_fr vraiment_fr intéressant_fr de_fr mettre_fr en_fr regard_fr cette_fr humanité_fr avec_fr cette_fr grille_fr massive_fr et_fr disséminée_fr ._fr
+c'est_fr assez_fr étonnant_fr ce_fr que_fr certaines_fr personnes_fr ont_fr fait_fr ._fr
+voici_fr quelques_fr statistiques_fr sur_fr le_fr projet_fr ._fr
+un_fr taux_fr _UNK__fr de_fr 11_fr moutons_fr par_fr jour_fr ce_fr que_fr représente_fr un_fr salaire_fr de_fr 69_fr cents_fr par_fr heure_fr ._fr
+662_fr moutons_fr ont_fr été_fr rejetés_fr car_fr ils_fr _UNK__fr pas_fr dans_fr les_fr critères_fr et_fr on_fr les_fr a_fr sortis_fr du_fr troupeau_fr ._fr
+le_fr temps_fr passé_fr à_fr dessiner_fr allait_fr de_fr 4_fr secondes_fr à_fr 46_fr minutes_fr ._fr
+cela_fr vous_fr donne_fr une_fr idée_fr des_fr différents_fr types_fr de_fr motivations_fr et_fr d'engagement_fr ._fr
+et_fr il_fr y_fr a_fr eu_fr 7_fr 599_fr contributeurs_fr au_fr projet_fr ,_fr en_fr tout_fr cas_fr qui_fr avaient_fr une_fr adresse_fr ip_fr unique_fr --_fr ça_fr représente_fr à_fr peu_fr près_fr le_fr nombre_fr de_fr personnes_fr qui_fr ont_fr contribué_fr ._fr
+mais_fr un_fr seul_fr de_fr ces_fr 7_fr 599_fr personnes_fr a_fr dit_fr ceci_fr ._fr
+ce_fr qui_fr m'a_fr plutôt_fr surpris_fr ._fr
+je_fr m'attendais_fr à_fr ce_fr que_fr les_fr gens_fr se_fr demandent_fr "_fr pourquoi_fr j'ai_fr choisi_fr un_fr mouton_fr ?_fr "_fr
+et_fr je_fr trouve_fr que_fr c'est_fr une_fr question_fr plutôt_fr pertinente_fr ._fr
+et_fr il_fr y_fr a_fr beaucoup_fr de_fr raisons_fr pour_fr lesquelles_fr j'ai_fr choisi_fr un_fr mouton_fr ._fr
+le_fr mouton_fr a_fr été_fr le_fr premier_fr animal_fr qui_fr a_fr été_fr élevé_fr avec_fr des_fr produits_fr dérivés_fr produits_fr mécaniquement_fr ,_fr le_fr premier_fr qui_fr a_fr été_fr sélectionné_fr pour_fr ses_fr caractéristiques_fr de_fr reproduction_fr ,_fr le_fr premier_fr qui_fr a_fr été_fr cloné_fr ._fr
+manifestement_fr nous_fr voyons_fr les_fr moutons_fr comme_fr des_fr suiveurs_fr ._fr
+ensuite_fr il_fr y_fr a_fr la_fr référence_fr au_fr "_fr petit_fr prince_fr "_fr où_fr le_fr narrateur_fr demande_fr au_fr prince_fr de_fr dessiner_fr un_fr mouton_fr ._fr
+il_fr dessine_fr un_fr mouton_fr après_fr l'autre_fr ._fr
+le_fr narrateur_fr ne_fr _UNK__fr que_fr quand_fr il_fr dessine_fr une_fr boite_fr ._fr
+et_fr il_fr dit_fr "_fr tu_fr n'as_fr pas_fr besoin_fr de_fr dessiner_fr un_fr mouton_fr scientifiquement_fr exact_fr ._fr
+ce_fr qui_fr compte_fr c'est_fr ton_fr interprétation_fr et_fr faire_fr quelque_fr chose_fr de_fr différent_fr ._fr "_fr
+et_fr j'aime_fr ça_fr ._fr
+voici_fr un_fr extrait_fr des_fr temps_fr modernes_fr de_fr charlie_fr chaplin_fr ._fr
+cela_fr montre_fr charlie_fr chaplin_fr aux_fr prises_fr avec_fr quelques_fr changements_fr majeurs_fr pendant_fr la_fr révolution_fr industrielle_fr ._fr
+il_fr n'y_fr avait_fr plus_fr de_fr fabricants_fr de_fr chaussures_fr ,_fr mais_fr il_fr y_fr avait_fr des_fr gens_fr qui_fr _UNK__fr des_fr semelles_fr sur_fr les_fr chaussures_fr ._fr
+et_fr l'idée_fr globale_fr de_fr la_fr relation_fr de_fr chacun_fr à_fr son_fr travail_fr ,_fr avait_fr beaucoup_fr changé_fr ._fr
+alors_fr j'ai_fr pensé_fr que_fr c'était_fr une_fr vidéo_fr intéressante_fr qu'on_fr pouvait_fr découper_fr en_fr 16_fr morceaux_fr et_fr je_fr les_fr ai_fr injectés_fr dans_fr le_fr turc_fr mécanique_fr avec_fr un_fr outil_fr de_fr dessin_fr ._fr
+cela_fr a_fr permis_fr en_fr fait_fr --_fr ce_fr que_fr vous_fr voyez_fr à_fr gauche_fr est_fr l'image_fr originale_fr ,_fr et_fr à_fr droite_fr vous_fr voyez_fr cette_fr image_fr interprétée_fr par_fr 16_fr personnes_fr qui_fr n'avaient_fr aucune_fr idée_fr de_fr ce_fr qu'ils_fr étaient_fr en_fr train_fr de_fr faire_fr ._fr
+et_fr ça_fr a_fr été_fr l'inspiration_fr pour_fr un_fr projet_fr sur_fr lequel_fr j'ai_fr travaillé_fr avec_fr mon_fr ami_fr _UNK__fr _UNK__fr ._fr
+nous_fr avons_fr décidé_fr d'utiliser_fr le_fr turc_fr mécanique_fr pour_fr sa_fr raison_fr d'être_fr précise_fr ,_fr qui_fr était_fr de_fr rapporter_fr de_fr l'argent_fr ._fr
+alors_fr nous_fr avons_fr pris_fr une_fr centaine_fr de_fr dollars_fr et_fr les_fr avons_fr divisé_fr en_fr 10_fr 000_fr morceaux_fr minuscules_fr et_fr nous_fr les_fr avons_fr placés_fr dans_fr le_fr turc_fr mécanique_fr ._fr
+nous_fr avons_fr demandé_fr aux_fr gens_fr dire_fr ce_fr qu'ils_fr voyaient_fr ._fr
+mais_fr là_fr il_fr n'y_fr avait_fr pas_fr de_fr critère_fr de_fr "_fr mouton_fr ressemblant_fr "_fr ._fr
+les_fr gens_fr ,_fr s'ils_fr tiraient_fr un_fr personnage_fr en_fr bâtons_fr ou_fr un_fr smiley_fr ,_fr ça_fr entrait_fr dans_fr le_fr billet_fr ._fr
+donc_fr ce_fr que_fr vous_fr voyez_fr est_fr vraiment_fr une_fr représentation_fr de_fr la_fr manière_fr dont_fr les_fr gens_fr ont_fr bien_fr fait_fr ce_fr qui_fr leur_fr était_fr demandé_fr ._fr
+nous_fr avons_fr donc_fr pris_fr ces_fr cent_fr billets_fr d'un_fr dollar_fr ,_fr et_fr nous_fr les_fr avons_fr mis_fr sur_fr un_fr site_fr appelé_fr _UNK__fr ,_fr où_fr vous_fr pouvez_fr passer_fr en_fr revue_fr toutes_fr les_fr contributions_fr individuelles_fr ._fr
+et_fr vous_fr pouvez_fr aussi_fr échanger_fr des_fr vrais_fr billets_fr de_fr cent_fr dollars_fr contre_fr des_fr faux_fr billets_fr de_fr cent_fr dollars_fr et_fr faire_fr un_fr don_fr au_fr projet_fr _UNK__fr dollar_fr laptop_fr ,_fr qui_fr est_fr aussi_fr connu_fr désormais_fr sous_fr le_fr nom_fr un_fr laptop_fr par_fr enfant_fr ._fr
+voilà_fr encore_fr toutes_fr les_fr différentes_fr contributions_fr ._fr
+vous_fr voyez_fr que_fr certains_fr ont_fr fait_fr de_fr très_fr beaux_fr rendus_fr pointillés_fr comme_fr celui_fr -_fr ci_fr en_fr haut_fr --_fr ils_fr ont_fr passé_fr du_fr temps_fr à_fr faire_fr des_fr versions_fr réalistes_fr ._fr
+et_fr d'autres_fr ont_fr dessiné_fr des_fr personnages_fr en_fr bâtons_fr ou_fr des_fr smileys_fr ._fr
+ici_fr à_fr droite_fr au_fr milieu_fr vous_fr voyez_fr le_fr type_fr qui_fr écrit_fr "_fr $_fr _UNK__fr !!!_fr _UNK__fr ?_fr "_fr
+c'est_fr tout_fr ce_fr que_fr vous_fr me_fr donnez_fr pour_fr ça_fr ?_fr
+bon_fr ,_fr le_fr dernier_fr projet_fr turc_fr mécanique_fr dont_fr je_fr vais_fr vous_fr parler_fr porte_fr le_fr nom_fr de_fr bicyclette_fr construite_fr pour_fr 2000_fr ._fr
+c'est_fr une_fr collaboration_fr avec_fr mon_fr ami_fr daniel_fr _UNK__fr ._fr
+vous_fr reconnaîtrez_fr peut_fr -_fr être_fr ces_fr deux_fr types_fr ._fr
+ce_fr sont_fr max_fr _UNK__fr et_fr john_fr kelly_fr du_fr bell_fr labs_fr dans_fr les_fr années_fr 60_fr où_fr ils_fr ont_fr créé_fr la_fr chanson_fr "_fr daisy_fr bell_fr "_fr ,_fr qui_fr a_fr été_fr le_fr premier_fr ordinateur_fr chantant_fr au_fr monde_fr ._fr
+vous_fr reconnaîtrez_fr peut_fr -_fr être_fr dans_fr "_fr 2001_fr :_fr l'odyssée_fr de_fr l'espace_fr "_fr quand_fr hal_fr est_fr en_fr train_fr de_fr mourir_fr à_fr la_fr fin_fr et_fr commence_fr à_fr chanter_fr cette_fr chanson_fr comme_fr une_fr référence_fr au_fr moment_fr où_fr les_fr ordinateurs_fr sont_fr devenus_fr humains_fr ._fr
+donc_fr nous_fr avons_fr reproduit_fr cette_fr chanson_fr ._fr
+voilà_fr à_fr quoi_fr ça_fr ressemblait_fr ._fr
+nous_fr avons_fr décomposé_fr toutes_fr les_fr notes_fr et_fr les_fr phonèmes_fr dans_fr la_fr chanson_fr ._fr
+daisy_fr bell_fr :_fr ♫_fr daisy_fr ,_fr daisy_fr ..._fr ♫_fr aaron_fr koblin_fr :_fr et_fr nous_fr avons_fr pris_fr toutes_fr les_fr pièces_fr unitaires_fr ,_fr et_fr nous_fr les_fr avons_fr entrées_fr dans_fr une_fr autre_fr requête_fr turc_fr ._fr
+voici_fr à_fr quoi_fr ça_fr ressemblerait_fr si_fr vous_fr alliez_fr sur_fr le_fr site_fr ._fr
+vous_fr tapez_fr votre_fr code_fr ,_fr et_fr testez_fr d'abord_fr votre_fr micro_fr ._fr
+on_fr vous_fr fournirait_fr un_fr simple_fr clip_fr audio_fr ._fr
+et_fr alors_fr vous_fr feriez_fr de_fr votre_fr mieux_fr pour_fr le_fr recréer_fr avec_fr votre_fr propre_fr voix_fr ._fr
+après_fr l'avoir_fr visualisé_fr et_fr confirmé_fr comme_fr votre_fr contribution_fr ,_fr vous_fr pourriez_fr le_fr soumettre_fr au_fr turc_fr mécanique_fr sans_fr aucun_fr contexte_fr additionnel_fr ._fr
+et_fr voici_fr ce_fr que_fr nous_fr avons_fr reçu_fr du_fr tout_fr premier_fr jeu_fr de_fr _UNK__fr ._fr
+enregistrement_fr en_fr cours_fr :_fr ♫_fr daisy_fr ,_fr daisy_fr ♫_fr ♫_fr give_fr me_fr your_fr answer_fr do_fr ♫_fr ♫_fr i_fr 'm_fr half_fr crazy_fr ♫_fr ♫_fr all_fr for_fr the_fr love_fr of_fr you_fr ♫_fr ♫_fr it_fr ca_fr n't_fr be_fr a_fr stylish_fr marriage_fr ♫_fr ♫_fr i_fr ca_fr n't_fr afford_fr a_fr carriage_fr ♫_fr ♫_fr but_fr you_fr _UNK__fr look_fr sweet_fr upon_fr the_fr seat_fr ♫_fr ♫_fr of_fr a_fr bicycle_fr built_fr for_fr two_fr ♫_fr ak_fr :_fr alors_fr james_fr _UNK__fr a_fr cette_fr idée_fr de_fr la_fr sagesse_fr des_fr foules_fr ,_fr qui_fr dit_fr qu'un_fr groupe_fr de_fr gens_fr est_fr plus_fr intelligent_fr que_fr n'importe_fr quel_fr individu_fr ._fr
+nous_fr voulions_fr voir_fr comment_fr ceci_fr s'applique_fr au_fr _UNK__fr ,_fr à_fr la_fr création_fr de_fr musique_fr distribuée_fr ,_fr où_fr personne_fr n'a_fr la_fr moindre_fr idée_fr de_fr ce_fr sur_fr quoi_fr il_fr travaille_fr ._fr
+donc_fr si_fr vous_fr allez_fr sur_fr _UNK__fr vous_fr pouvez_fr vraiment_fr entendre_fr ce_fr que_fr ça_fr donne_fr tout_fr ensemble_fr ._fr
+désolé_fr pour_fr ça_fr ._fr
+_UNK__fr :_fr ♫_fr daisy_fr ,_fr daisy_fr ♫_fr ♫_fr give_fr me_fr your_fr answer_fr do_fr ♫_fr ♫_fr i_fr 'm_fr half_fr crazy_fr ♫_fr ♫_fr all_fr for_fr the_fr love_fr of_fr you_fr ♫_fr ♫_fr it_fr ca_fr n't_fr be_fr a_fr stylish_fr marriage_fr ♫_fr ♫_fr i_fr ca_fr n't_fr afford_fr a_fr carriage_fr ♫_fr ♫_fr but_fr you_fr 'd_fr look_fr sweet_fr upon_fr the_fr seat_fr ♫_fr ♫_fr of_fr a_fr bicycle_fr built_fr for_fr two_fr ♫_fr ak_fr :_fr alors_fr en_fr revenant_fr en_fr arrière_fr un_fr instant_fr ,_fr quand_fr j'étais_fr à_fr ucla_fr à_fr l'université_fr ,_fr je_fr travaillais_fr aussi_fr au_fr center_fr for_fr _UNK__fr network_fr _UNK__fr ._fr
+et_fr je_fr _UNK__fr un_fr logiciel_fr pour_fr les_fr scanners_fr à_fr laser_fr visuel_fr ._fr
+donc_fr principalement_fr du_fr mouvement_fr dans_fr un_fr espace_fr 3d_fr ._fr
+et_fr un_fr réalisateur_fr de_fr l.a._fr appelé_fr james_fr frost_fr l'a_fr vu_fr et_fr a_fr dit_fr "_fr attendez_fr une_fr minute_fr ._fr
+vous_fr voulez_fr dire_fr qu'on_fr peut_fr tourner_fr un_fr clip_fr musical_fr sans_fr utiliser_fr de_fr vidéo_fr ?_fr "_fr
+et_fr on_fr a_fr fait_fr exactement_fr ça_fr ._fr
+nous_fr avons_fr fait_fr une_fr vidéo_fr musicale_fr d'un_fr de_fr mes_fr groupes_fr favoris_fr ,_fr radiohead_fr ._fr
+et_fr je_fr crois_fr qu'une_fr de_fr mes_fr parties_fr préférées_fr du_fr projet_fr ce_fr n'était_fr pas_fr de_fr tourner_fr une_fr vidéo_fr avec_fr des_fr lasers_fr ,_fr mais_fr le_fr fait_fr de_fr le_fr rendre_fr open_fr source_fr ,_fr et_fr comment_fr nous_fr l'avons_fr sorti_fr en_fr tant_fr que_fr projet_fr google_fr code_fr avec_fr lequel_fr les_fr gens_fr pouvaient_fr télécharger_fr un_fr paquet_fr de_fr données_fr et_fr du_fr code_fr source_fr pour_fr construire_fr leur_fr propre_fr version_fr ._fr
+et_fr les_fr gens_fr ont_fr fait_fr des_fr choses_fr étonnantes_fr ._fr
+voici_fr deux_fr de_fr mes_fr préférées_fr :_fr le_fr tableau_fr d'affichage_fr thom_fr yorke_fr et_fr un_fr lego_fr thom_fr yorke_fr ._fr
+une_fr chaîne_fr youtube_fr entière_fr où_fr les_fr gens_fr postent_fr des_fr contenus_fr vraiment_fr intéressants_fr ._fr
+plus_fr récemment_fr ,_fr quelqu'un_fr a_fr même_fr imprimé_fr en_fr 3d_fr la_fr tête_fr de_fr thom_fr yorke_fr qui_fr fait_fr un_fr peu_fr peur_fr ,_fr mais_fr est_fr assez_fr sympa_fr ._fr
+alors_fr avec_fr tous_fr ces_fr gens_fr qui_fr produisent_fr tant_fr de_fr choses_fr étonnantes_fr et_fr comprennent_fr vraiment_fr ce_fr sur_fr quoi_fr ils_fr travaillaient_fr j'avais_fr vraiment_fr envie_fr d'essayer_fr de_fr faire_fr un_fr projet_fr collaboratif_fr où_fr les_fr gens_fr travailleraient_fr ensemble_fr pour_fr construire_fr quelque_fr chose_fr ._fr
+et_fr j'ai_fr rencontré_fr un_fr réalisateur_fr musical_fr ,_fr chris_fr milk_fr ._fr
+et_fr nous_fr avons_fr commencé_fr à_fr lancer_fr des_fr idées_fr pour_fr faire_fr un_fr projet_fr de_fr vidéo_fr musicale_fr collaborative_fr ._fr
+mais_fr nous_fr savions_fr que_fr nous_fr avions_fr vraiment_fr besoin_fr de_fr la_fr bonne_fr personne_fr pour_fr rallier_fr tout_fr le_fr monde_fr derrière_fr elle_fr et_fr donner_fr envie_fr de_fr construire_fr ._fr
+alors_fr nous_fr avons_fr mis_fr l'idée_fr en_fr veilleuse_fr quelques_fr mois_fr ._fr
+et_fr il_fr a_fr fini_fr par_fr parler_fr à_fr rick_fr rubin_fr ,_fr qui_fr terminait_fr l'album_fr de_fr johnny_fr cash_fr "_fr ai_fr n't_fr no_fr grave_fr ._fr "_fr
+les_fr paroles_fr du_fr morceau_fr principal_fr sont_fr "_fr aucune_fr tombe_fr ne_fr peut_fr plaquer_fr mon_fr corps_fr au_fr sol_fr "_fr alors_fr nous_fr avons_fr pensé_fr que_fr c'était_fr le_fr projet_fr idéal_fr pour_fr construire_fr un_fr mémorial_fr collaboratif_fr et_fr une_fr résurrection_fr virtuelle_fr pour_fr johnny_fr cash_fr ._fr
+alors_fr j'ai_fr fait_fr équipe_fr avec_fr mon_fr bon_fr ami_fr ricardo_fr _UNK__fr aussi_fr connu_fr sous_fr le_fr nom_fr de_fr m._fr _UNK__fr ,_fr qui_fr est_fr un_fr bien_fr meilleur_fr programmeur_fr que_fr moi_fr ,_fr et_fr il_fr a_fr fait_fr cet_fr étonnant_fr outil_fr de_fr dessin_fr en_fr flash_fr ._fr
+comme_fr vous_fr le_fr savez_fr ,_fr une_fr animation_fr est_fr une_fr série_fr d'images_fr ._fr
+et_fr ce_fr que_fr nous_fr avons_fr fait_fr c'est_fr couper_fr des_fr séquences_fr d'archives_fr de_fr johnny_fr cash_fr ,_fr et_fr à_fr 8_fr images_fr par_fr seconde_fr ,_fr nous_fr avons_fr permis_fr à_fr des_fr gens_fr de_fr dessiner_fr une_fr image_fr unique_fr qui_fr serait_fr intégrée_fr dans_fr cette_fr vidéo_fr musicale_fr qui_fr change_fr de_fr façon_fr dynamique_fr ._fr
+bien_fr ,_fr je_fr n'ai_fr pas_fr le_fr temps_fr de_fr vous_fr le_fr montrer_fr en_fr entier_fr ,_fr mais_fr je_fr voulais_fr vous_fr montrer_fr deux_fr courts_fr extraits_fr ._fr
+l'un_fr est_fr le_fr début_fr du_fr clip_fr vidéo_fr ._fr
+et_fr juste_fr après_fr vous_fr verrez_fr un_fr clip_fr court_fr où_fr des_fr gens_fr qui_fr ont_fr contribué_fr au_fr projet_fr en_fr parlent_fr brièvement_fr ._fr
+johnny_fr cash_fr :_fr ♫_fr there_fr ai_fr n't_fr no_fr grave_fr ♫_fr ♫_fr can_fr hold_fr my_fr body_fr down_fr ♫_fr ♫_fr there_fr ai_fr n't_fr no_fr grave_fr ♫_fr ♫_fr can_fr hold_fr body_fr down_fr ♫_fr ♫_fr when_fr i_fr _UNK__fr the_fr _UNK__fr sound_fr ♫_fr ♫_fr i_fr 'm_fr going_fr to_fr ride_fr right_fr out_fr of_fr the_fr ground_fr ♫_fr ♫_fr ai_fr n't_fr no_fr grave_fr ♫_fr ♫_fr can_fr hold_fr my_fr body_fr ..._fr ♫_fr ak_fr :_fr quelle_fr meilleure_fr manière_fr de_fr rendre_fr hommage_fr à_fr l'homme_fr que_fr de_fr faire_fr quelque_fr chose_fr pour_fr une_fr de_fr ses_fr chansons_fr ._fr
+collaborateur_fr :_fr j'ai_fr été_fr vraiment_fr triste_fr quand_fr il_fr est_fr mort_fr ._fr
+et_fr je_fr me_fr suis_fr dit_fr que_fr ça_fr serait_fr merveilleux_fr ça_fr serait_fr vraiment_fr super_fr de_fr faire_fr quelque_fr chose_fr en_fr sa_fr mémoire_fr ._fr
+collaborateur_fr 2_fr :_fr ça_fr fait_fr vraiment_fr de_fr son_fr dernier_fr enregistrement_fr un_fr mémorial_fr vivant_fr ,_fr qui_fr respire_fr ._fr
+_UNK__fr 3_fr :_fr que_fr toutes_fr les_fr images_fr soient_fr dessinées_fr par_fr des_fr fans_fr ,_fr chaque_fr image_fr individuelle_fr ,_fr ça_fr donne_fr une_fr impression_fr très_fr puissante_fr à_fr l'ensemble_fr ._fr
+collaborateur_fr 4_fr :_fr j'ai_fr vu_fr tout_fr le_fr monde_fr du_fr japon_fr ,_fr du_fr venezuela_fr ,_fr aux_fr etats_fr -_fr unis_fr ,_fr à_fr knoxville_fr ,_fr tennessee_fr ._fr
+collaborateur_fr 5_fr :_fr c'est_fr tellement_fr différent_fr d'image_fr en_fr image_fr ,_fr c'est_fr vraiment_fr personnel_fr ._fr
+collaborateur_fr 6_fr :_fr en_fr regardant_fr cette_fr vidéo_fr dans_fr ma_fr chambre_fr ,_fr je_fr me_fr voyais_fr dans_fr l'incompréhension_fr au_fr début_fr ._fr
+et_fr j'ai_fr travaillé_fr et_fr travaillé_fr sur_fr les_fr problèmes_fr ,_fr jusqu'à_fr ce_fr que_fr mes_fr petites_fr batailles_fr de_fr détails_fr dans_fr l'image_fr commencent_fr à_fr toutes_fr se_fr résoudre_fr ._fr
+alors_fr je_fr vois_fr le_fr moment_fr où_fr je_fr sais_fr ce_fr que_fr je_fr suis_fr en_fr train_fr de_fr faire_fr ,_fr et_fr beaucoup_fr de_fr lumière_fr et_fr d'ombre_fr entre_fr ._fr
+et_fr curieusement_fr ,_fr c'est_fr aussi_fr ce_fr que_fr j'aime_fr dans_fr la_fr musique_fr de_fr johnny_fr cash_fr ._fr
+c'est_fr la_fr somme_fr de_fr sa_fr vie_fr ,_fr toutes_fr les_fr choses_fr qui_fr étaient_fr arrivées_fr --_fr les_fr mauvaises_fr ,_fr les_fr bonnes_fr ._fr
+vous_fr entendez_fr la_fr vie_fr d'une_fr personne_fr ._fr
+ak_fr :_fr si_fr vous_fr allez_fr sur_fr le_fr site_fr _UNK__fr ,_fr ce_fr que_fr vous_fr verrez_fr c'est_fr la_fr vidéo_fr ci_fr -_fr dessus_fr ._fr
+et_fr en_fr -_fr dessous_fr ce_fr sont_fr les_fr images_fr individuelles_fr que_fr les_fr gens_fr ont_fr _UNK__fr pour_fr le_fr projet_fr ._fr
+donc_fr ce_fr n'est_fr pas_fr du_fr tout_fr un_fr travail_fr fini_fr ,_fr c'est_fr un_fr projet_fr toujours_fr ouvert_fr auquel_fr les_fr gens_fr peuvent_fr continuer_fr à_fr collaborer_fr ._fr
+si_fr vous_fr passez_fr la_fr souris_fr sur_fr n'importe_fr laquelle_fr de_fr ces_fr vignettes_fr individuelles_fr ,_fr vous_fr verrez_fr la_fr personne_fr qui_fr a_fr dessiné_fr cette_fr image_fr et_fr où_fr elle_fr se_fr trouve_fr géographiquement_fr ._fr
+et_fr si_fr vous_fr en_fr trouvez_fr une_fr qui_fr vous_fr intéresse_fr ,_fr vous_fr pouvez_fr cliquer_fr dessus_fr et_fr ouvrir_fr une_fr fiche_fr d'information_fr où_fr vous_fr pouvez_fr lui_fr donner_fr une_fr note_fr ,_fr ce_fr l'aide_fr à_fr remonter_fr dans_fr la_fr liste_fr ._fr
+vous_fr pouvez_fr aussi_fr voir_fr comment_fr elle_fr a_fr été_fr dessinée_fr ._fr
+là_fr encore_fr ,_fr vous_fr pouvez_fr jouer_fr la_fr vidéo_fr et_fr vous_fr la_fr contribution_fr personnelle_fr ._fr
+en_fr plus_fr de_fr ça_fr ,_fr sont_fr _UNK__fr le_fr nom_fr de_fr l'artiste_fr ,_fr sa_fr localisation_fr ,_fr le_fr temps_fr qu'il_fr a_fr mis_fr à_fr dessiner_fr l'image_fr ._fr
+et_fr vous_fr pouvez_fr choisir_fr un_fr style_fr ._fr celle_fr -_fr ci_fr a_fr été_fr _UNK__fr "_fr _UNK__fr ._fr "_fr
+il_fr y_fr a_fr un_fr tas_fr de_fr styles_fr différents_fr ._fr
+et_fr vous_fr pouvez_fr arranger_fr la_fr vidéo_fr de_fr beaucoup_fr de_fr façons_fr différentes_fr ._fr
+vous_fr pouvez_fr dire_fr "_fr je_fr veux_fr voir_fr la_fr version_fr _UNK__fr ou_fr la_fr version_fr schématique_fr ou_fr la_fr version_fr réaliste_fr ._fr "_fr
+et_fr voici_fr encore_fr la_fr version_fr abstraite_fr ,_fr qui_fr finit_fr de_fr façon_fr un_fr peu_fr folle_fr ._fr
+bien_fr ._fr le_fr dernier_fr projet_fr dont_fr je_fr veux_fr vous_fr parler_fr est_fr une_fr autre_fr collaboration_fr avec_fr chris_fr milk_fr ._fr
+elle_fr s'appelle_fr "_fr the_fr wilderness_fr downtown_fr ._fr "_fr
+c'est_fr une_fr vidéo_fr musicale_fr pour_fr the_fr _UNK__fr fire_fr ._fr
+chris_fr et_fr moi_fr -_fr même_fr étions_fr très_fr surpris_fr du_fr potentiel_fr actuel_fr avec_fr les_fr navigateurs_fr web_fr modernes_fr ,_fr avec_fr _UNK__fr 5_fr audio_fr et_fr vidéo_fr et_fr la_fr puissance_fr du_fr javascript_fr pour_fr un_fr rendu_fr incroyablement_fr rapide_fr ._fr
+et_fr nous_fr voulions_fr promouvoir_fr l'idée_fr d'une_fr vidéo_fr musicale_fr faite_fr pour_fr le_fr web_fr au_fr -_fr delà_fr de_fr la_fr fenêtre_fr _UNK__fr ou_fr _UNK__fr et_fr essayer_fr de_fr la_fr faire_fr jouer_fr et_fr la_fr chorégraphier_fr partout_fr dans_fr l'écran_fr ._fr
+mais_fr plus_fr important_fr encore_fr ,_fr je_fr pense_fr ,_fr nous_fr voulions_fr vraiment_fr faire_fr une_fr expérience_fr différente_fr du_fr projet_fr johnny_fr cash_fr ,_fr où_fr nous_fr aurions_fr un_fr petit_fr groupe_fr de_fr personnes_fr passant_fr beaucoup_fr de_fr temps_fr pour_fr produire_fr quelque_fr chose_fr pour_fr tous_fr ._fr
+et_fr si_fr nous_fr avions_fr un_fr engagement_fr très_fr bas_fr ,_fr mais_fr arrivions_fr à_fr créer_fr quelque_fr chose_fr d'unique_fr pour_fr chaque_fr contributeur_fr ?_fr
+le_fr projet_fr commence_fr en_fr vous_fr demandant_fr d'entrer_fr l'adresse_fr où_fr vous_fr avez_fr grandi_fr ._fr
+et_fr vous_fr tapez_fr l'adresse_fr --_fr et_fr ça_fr crée_fr une_fr vidéo_fr musicale_fr spécialement_fr pour_fr vous_fr ,_fr en_fr intégrant_fr des_fr images_fr de_fr google_fr maps_fr et_fr streetview_fr dans_fr l'expérience_fr elle_fr -_fr même_fr ._fr
+vous_fr devriez_fr vraiment_fr voir_fr ça_fr chez_fr vous_fr en_fr tapant_fr votre_fr propre_fr adresse_fr mais_fr je_fr vais_fr vous_fr donner_fr un_fr petit_fr aperçu_fr de_fr ce_fr à_fr quoi_fr vous_fr pouvez_fr vous_fr attendre_fr ._fr
+_UNK__fr butler_fr :_fr ♫aujourd'hui_fr nos_fr vies_fr changent_fr vite♫_fr ♫aujourd'hui_fr nos_fr vies_fr changent_fr vite♫_fr ♫j'espère_fr que_fr quelque_fr chose_fr de_fr pur_fr peut_fr durer♫_fr ♫j'espère_fr que_fr quelque_fr chose_fr de_fr pur_fr peut_fr durer♫_fr ♫ooh_fr on_fr attendait♫_fr ♫ooh_fr on_fr attendait♫_fr ♫ooh_fr on_fr attendait♫_fr ♫parfois_fr ça_fr n'arrivait_fr jamais♫_fr ♫parfois_fr ça_fr n'arrivait_fr jamais♫_fr toujours_fr à_fr évoluer_fr dans_fr la_fr douleur_fr on_fr l'attendait_fr on_fr l'attendait_fr on_fr l'attendait_fr ak_fr :_fr alors_fr je_fr crois_fr que_fr s'il_fr y_fr a_fr une_fr chose_fr à_fr retenir_fr de_fr ma_fr présentation_fr d'aujourd'hui_fr ,_fr c'est_fr qu'une_fr interface_fr peut_fr être_fr un_fr outil_fr puissant_fr de_fr narration_fr ._fr
+et_fr alors_fr que_fr nous_fr collectons_fr de_fr plus_fr en_fr plus_fr de_fr données_fr personnelles_fr et_fr sociales_fr pertinentes_fr nous_fr avons_fr une_fr opportunité_fr ,_fr et_fr peut_fr -_fr être_fr même_fr une_fr obligation_fr de_fr maintenir_fr l'humanité_fr et_fr de_fr raconter_fr des_fr histoires_fr étonnantes_fr en_fr explorant_fr et_fr en_fr collaborant_fr ensemble_fr ._fr
+merci_fr beaucoup_fr ._fr

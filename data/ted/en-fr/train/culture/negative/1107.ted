@@ -1,0 +1,109 @@
+the_en idea_en behind_en the_en stuxnet_en computer_en worm_en is_en actually_en quite_en simple_en ._en
+we_en do_en n't_en want_en iran_en to_en get_en the_en bomb_en ._en
+their_en major_en asset_en for_en developing_en nuclear_en weapons_en is_en the_en natanz_en uranium_en enrichment_en facility_en ._en
+the_en gray_en boxes_en that_en you_en see_en ,_en these_en are_en real_en -_en time_en control_en systems_en ._en
+now_en if_en we_en manage_en to_en compromise_en these_en systems_en that_en control_en drive_en speeds_en and_en valves_en ,_en we_en can_en actually_en cause_en a_en lot_en of_en problems_en with_en the_en centrifuge_en ._en
+the_en gray_en boxes_en do_en n't_en run_en windows_en software_en ;_en they_en are_en a_en completely_en different_en technology_en ._en
+but_en if_en we_en manage_en to_en place_en a_en good_en windows_en virus_en on_en a_en notebook_en that_en is_en used_en by_en a_en maintenance_en engineer_en to_en configure_en this_en gray_en box_en ,_en then_en we_en are_en in_en business_en ._en
+and_en this_en is_en the_en plot_en behind_en stuxnet_en ._en
+so_en we_en start_en with_en a_en windows_en dropper_en ._en
+the_en payload_en goes_en onto_en the_en gray_en box_en ,_en damages_en the_en centrifuge_en ,_en and_en the_en iranian_en nuclear_en program_en is_en delayed_en --_en mission_en accomplished_en ._en
+that_en 's_en easy_en ,_en huh_en ?_en
+i_en want_en to_en tell_en you_en how_en we_en found_en that_en out_en ._en
+when_en we_en started_en our_en research_en on_en stuxnet_en six_en months_en ago_en ,_en it_en was_en completely_en unknown_en what_en the_en purpose_en of_en this_en thing_en was_en ._en
+the_en only_en thing_en that_en was_en known_en is_en it_en 's_en very_en ,_en very_en complex_en on_en the_en windows_en part_en ,_en the_en dropper_en part_en ,_en used_en multiple_en zero_en -_en day_en vulnerabilities_en ._en
+and_en it_en seemed_en to_en want_en to_en do_en something_en with_en these_en gray_en boxes_en ,_en these_en real_en -_en time_en control_en systems_en ._en
+so_en that_en got_en our_en attention_en ,_en and_en we_en started_en a_en lab_en project_en where_en we_en infected_en our_en environment_en with_en stuxnet_en and_en checked_en this_en thing_en out_en ._en
+and_en then_en some_en very_en funny_en things_en happened_en ._en
+stuxnet_en behaved_en like_en a_en lab_en rat_en that_en did_en n't_en like_en our_en cheese_en --_en _UNK__en ,_en but_en did_en n't_en want_en to_en eat_en ._en
+did_en n't_en make_en sense_en to_en me_en ._en
+and_en after_en we_en experimented_en with_en different_en flavors_en of_en cheese_en ,_en i_en realized_en ,_en well_en ,_en this_en is_en a_en directed_en attack_en ._en
+it_en 's_en completely_en directed_en ._en
+the_en dropper_en is_en _UNK__en actively_en on_en the_en gray_en box_en if_en a_en specific_en configuration_en is_en found_en ,_en and_en even_en if_en the_en actual_en program_en code_en that_en it_en 's_en trying_en to_en infect_en is_en actually_en running_en on_en that_en target_en ._en
+and_en if_en not_en ,_en stuxnet_en does_en nothing_en ._en
+so_en that_en really_en got_en my_en attention_en ,_en and_en we_en started_en to_en work_en on_en this_en nearly_en around_en the_en clock_en ,_en because_en i_en thought_en ,_en "_en well_en ,_en we_en do_en n't_en know_en what_en the_en target_en is_en ._en
+it_en could_en be_en ,_en let_en 's_en say_en for_en example_en ,_en a_en u.s._en power_en plant_en ,_en or_en a_en chemical_en plant_en in_en germany_en ._en
+so_en we_en better_en find_en out_en what_en the_en target_en is_en soon_en ._en "_en
+so_en we_en extracted_en and_en _UNK__en the_en attack_en code_en ,_en and_en we_en discovered_en that_en it_en 's_en structured_en in_en two_en digital_en bombs_en --_en a_en smaller_en one_en and_en a_en bigger_en one_en ._en
+and_en we_en also_en saw_en that_en they_en are_en very_en professionally_en engineered_en by_en people_en who_en obviously_en had_en all_en insider_en information_en ._en
+they_en knew_en all_en the_en bits_en and_en bites_en that_en they_en had_en to_en attack_en ._en
+they_en probably_en even_en know_en the_en shoe_en size_en of_en the_en operator_en ._en
+so_en they_en know_en everything_en ._en
+and_en if_en you_en have_en heard_en that_en the_en dropper_en of_en stuxnet_en is_en complex_en and_en high_en -_en tech_en ,_en let_en me_en tell_en you_en this_en :_en the_en payload_en is_en rocket_en science_en ._en
+it_en 's_en way_en above_en everything_en that_en we_en have_en ever_en seen_en before_en ._en
+here_en you_en see_en a_en sample_en of_en this_en actual_en attack_en code_en ._en
+we_en are_en talking_en about_en --_en around_en about_en 15,000_en lines_en of_en code_en ._en
+looks_en pretty_en much_en like_en old_en -_en style_en assembly_en language_en ._en
+and_en i_en want_en to_en tell_en you_en how_en we_en were_en able_en to_en make_en sense_en out_en of_en this_en code_en ._en
+so_en what_en we_en were_en looking_en for_en is_en ,_en first_en of_en all_en ,_en system_en function_en calls_en ,_en because_en we_en know_en what_en they_en do_en ._en
+and_en then_en we_en were_en looking_en for_en timers_en and_en data_en structures_en and_en trying_en to_en relate_en them_en to_en the_en real_en world_en --_en to_en potential_en real_en world_en targets_en ._en
+so_en we_en do_en need_en target_en theories_en that_en we_en can_en prove_en or_en disprove_en ._en
+in_en order_en to_en get_en target_en theories_en ,_en we_en remember_en that_en it_en 's_en definitely_en hardcore_en sabotage_en ,_en it_en must_en be_en a_en high_en -_en value_en target_en and_en it_en is_en most_en likely_en located_en in_en iran_en ,_en because_en that_en 's_en where_en most_en of_en the_en infections_en had_en been_en reported_en ._en
+now_en you_en do_en n't_en find_en several_en thousand_en targets_en in_en that_en area_en ._en
+it_en basically_en boils_en down_en to_en the_en _UNK__en nuclear_en power_en plant_en and_en to_en the_en natanz_en fuel_en enrichment_en plant_en ._en
+so_en i_en told_en my_en assistant_en ,_en "_en get_en me_en a_en list_en of_en all_en centrifuge_en and_en power_en plant_en experts_en from_en our_en client_en base_en ._en "_en
+and_en i_en phoned_en them_en up_en and_en picked_en their_en brain_en in_en an_en effort_en to_en match_en their_en expertise_en with_en what_en we_en found_en in_en code_en and_en data_en ._en
+and_en that_en worked_en pretty_en well_en ._en
+so_en we_en were_en able_en to_en associate_en the_en small_en digital_en warhead_en with_en the_en rotor_en control_en ._en
+the_en rotor_en is_en that_en moving_en part_en within_en the_en centrifuge_en ,_en that_en black_en object_en that_en you_en see_en ._en
+and_en if_en you_en manipulate_en the_en speed_en of_en this_en rotor_en ,_en you_en are_en actually_en able_en to_en crack_en the_en rotor_en and_en eventually_en even_en have_en the_en centrifuge_en explode_en ._en
+what_en we_en also_en saw_en is_en that_en the_en goal_en of_en the_en attack_en was_en really_en to_en do_en it_en slowly_en and_en creepy_en --_en obviously_en in_en an_en effort_en to_en drive_en maintenance_en engineers_en crazy_en ,_en that_en they_en would_en not_en be_en able_en to_en figure_en this_en out_en quickly_en ._en
+the_en big_en digital_en warhead_en --_en we_en had_en a_en shot_en at_en this_en by_en looking_en very_en closely_en at_en data_en and_en data_en structures_en ._en
+so_en for_en example_en ,_en the_en number_en 164_en really_en stands_en out_en in_en that_en code_en ;_en you_en ca_en n't_en overlook_en it_en ._en
+i_en started_en to_en research_en scientific_en literature_en on_en how_en these_en centrifuges_en are_en actually_en built_en in_en natanz_en and_en found_en they_en are_en structured_en in_en what_en is_en called_en a_en cascade_en ,_en and_en each_en cascade_en holds_en 164_en centrifuges_en ._en
+so_en that_en made_en sense_en ,_en that_en was_en a_en match_en ._en
+and_en it_en even_en got_en better_en ._en
+these_en centrifuges_en in_en iran_en are_en subdivided_en into_en 15_en ,_en what_en is_en called_en ,_en stages_en ._en and_en guess_en what_en we_en found_en in_en the_en attack_en code_en ?_en
+an_en almost_en identical_en structure_en ._en
+so_en again_en ,_en that_en was_en a_en real_en good_en match_en ._en
+and_en this_en gave_en us_en very_en high_en confidence_en for_en what_en we_en were_en looking_en at_en ._en
+now_en do_en n't_en get_en me_en wrong_en here_en ,_en it_en did_en n't_en go_en like_en this_en ._en
+these_en results_en have_en been_en obtained_en over_en several_en weeks_en of_en really_en hard_en labor_en ._en
+and_en we_en often_en went_en into_en just_en a_en dead_en end_en and_en had_en to_en recover_en ._en
+anyway_en ,_en so_en we_en figured_en out_en that_en both_en digital_en warheads_en were_en actually_en aiming_en at_en one_en and_en the_en same_en target_en ,_en but_en from_en different_en angles_en ._en
+the_en small_en warhead_en is_en taking_en one_en cascade_en ,_en and_en spinning_en up_en the_en rotors_en and_en slowing_en them_en down_en ,_en and_en the_en big_en warhead_en is_en talking_en to_en six_en cascades_en and_en manipulating_en valves_en ._en
+so_en in_en all_en ,_en we_en are_en very_en confident_en that_en we_en have_en actually_en determined_en what_en the_en target_en is_en ._en
+it_en is_en natanz_en ,_en and_en it_en is_en only_en natanz_en ._en
+so_en we_en do_en n't_en have_en to_en worry_en that_en other_en targets_en might_en be_en hit_en by_en stuxnet_en ._en
+here_en 's_en some_en very_en cool_en stuff_en that_en we_en saw_en --_en really_en knocked_en my_en socks_en off_en ._en
+down_en there_en is_en the_en gray_en box_en ,_en and_en on_en the_en top_en you_en see_en the_en centrifuges_en ._en
+now_en what_en this_en thing_en does_en is_en it_en intercepts_en the_en input_en values_en from_en sensors_en --_en so_en for_en example_en ,_en from_en pressure_en sensors_en and_en vibration_en sensors_en --_en and_en it_en provides_en legitimate_en program_en code_en ,_en which_en is_en still_en running_en during_en the_en attack_en ,_en with_en fake_en input_en data_en ._en
+and_en as_en a_en matter_en of_en fact_en ,_en this_en fake_en input_en data_en is_en actually_en prerecorded_en by_en stuxnet_en ._en
+so_en it_en 's_en just_en like_en from_en the_en hollywood_en movies_en where_en during_en the_en heist_en ,_en the_en observation_en camera_en is_en fed_en with_en prerecorded_en video_en ._en
+that_en 's_en cool_en ,_en huh_en ?_en
+the_en idea_en here_en is_en obviously_en not_en only_en to_en fool_en the_en operators_en in_en the_en control_en room_en ._en it_en actually_en is_en much_en more_en dangerous_en and_en aggressive_en ._en
+the_en idea_en is_en to_en circumvent_en a_en digital_en safety_en system_en ._en
+we_en need_en digital_en safety_en systems_en where_en a_en human_en operator_en could_en not_en act_en quick_en enough_en ._en
+so_en for_en example_en ,_en in_en a_en power_en plant_en ,_en when_en your_en big_en steam_en turbine_en gets_en too_en over_en speed_en ,_en you_en must_en open_en relief_en valves_en within_en a_en millisecond_en ._en
+obviously_en ,_en this_en cannot_en be_en done_en by_en a_en human_en operator_en ._en
+so_en this_en is_en where_en we_en need_en digital_en safety_en systems_en ._en
+and_en when_en they_en are_en compromised_en ,_en then_en real_en bad_en things_en can_en happen_en ._en
+your_en plant_en can_en blow_en up_en ._en
+and_en neither_en your_en operators_en nor_en your_en safety_en system_en will_en notice_en it_en ._en
+that_en 's_en scary_en ._en
+but_en it_en gets_en worse_en ._en
+and_en this_en is_en very_en important_en ,_en what_en i_en 'm_en going_en to_en say_en ._en think_en about_en this_en :_en
+this_en attack_en is_en generic_en ._en
+it_en does_en n't_en have_en anything_en to_en do_en ,_en in_en specifics_en ,_en with_en centrifuges_en ,_en with_en uranium_en enrichment_en ._en
+so_en it_en would_en work_en as_en well_en ,_en for_en example_en ,_en in_en a_en power_en plant_en or_en in_en an_en automobile_en factory_en ._en
+it_en is_en generic_en ._en
+and_en you_en do_en n't_en have_en --_en as_en an_en attacker_en --_en you_en do_en n't_en have_en to_en deliver_en this_en payload_en by_en a_en usb_en stick_en ,_en as_en we_en saw_en it_en in_en the_en case_en of_en stuxnet_en ._en
+you_en could_en also_en use_en conventional_en worm_en technology_en for_en spreading_en ._en
+just_en spread_en it_en as_en wide_en as_en possible_en ._en
+and_en if_en you_en do_en that_en ,_en what_en you_en end_en up_en with_en is_en a_en cyber_en weapon_en of_en mass_en destruction_en ._en
+that_en 's_en the_en consequence_en that_en we_en have_en to_en face_en ._en
+so_en unfortunately_en ,_en the_en biggest_en number_en of_en targets_en for_en such_en attacks_en are_en not_en in_en the_en middle_en east_en ._en
+they_en 're_en in_en the_en united_en states_en and_en europe_en and_en in_en japan_en ._en
+so_en all_en of_en the_en green_en areas_en ,_en these_en are_en your_en target_en -_en rich_en environments_en ._en
+we_en have_en to_en face_en the_en consequences_en ,_en and_en we_en better_en start_en to_en prepare_en right_en now_en ._en
+thanks_en ._en
+chris_en anderson_en :_en i_en 've_en got_en a_en question_en ._en
+ralph_en ,_en it_en 's_en been_en quite_en widely_en reported_en that_en people_en assume_en that_en mossad_en is_en the_en main_en entity_en behind_en this_en ._en
+is_en that_en your_en opinion_en ?_en
+ralph_en langner_en :_en okay_en ,_en you_en really_en want_en to_en hear_en that_en ?_en
+yeah_en ._en okay_en ._en
+my_en opinion_en is_en that_en the_en mossad_en is_en involved_en ,_en but_en that_en the_en leading_en force_en is_en not_en israel_en ._en
+so_en the_en leading_en force_en behind_en that_en is_en the_en cyber_en superpower_en ._en
+there_en is_en only_en one_en ,_en and_en that_en 's_en the_en united_en states_en --_en fortunately_en ,_en fortunately_en ._en
+because_en otherwise_en ,_en our_en problems_en would_en even_en be_en bigger_en ._en
+ca_en :_en thank_en you_en for_en scaring_en the_en living_en _UNK__en out_en of_en us_en ._en thank_en you_en ,_en ralph_en ._en

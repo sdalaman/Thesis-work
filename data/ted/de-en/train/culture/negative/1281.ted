@@ -1,0 +1,41 @@
+lassen_de sie_de mich_de ihnen_de rezero_de vorstellen_de ._de
+dieser_de kleine_de kerl_de wurde_de von_de einer_de gruppe_de von_de 10_de studenten_de im_de grundstudium_de am_de labor_de für_de autonome_de systeme_de an_de der_de _UNK__de in_de zürich_de entwickelt_de ._de
+unser_de roboter_de gehört_de zu_de einer_de _UNK__de namens_de _UNK__de ,_de ballroboter_de ._de
+anstelle_de von_de rädern_de balanciert_de und_de bewegt_de sich_de so_de ein_de ballbot_de auf_de einem_de einzelnen_de ball_de ._de
+die_de _UNK__de eines_de solchen_de systems_de sind_de ,_de dass_de es_de einen_de einzigen_de _UNK__de am_de boden_de gibt_de ._de
+das_de bedeutet_de ,_de der_de roboter_de ist_de _UNK__de instabil_de ._de
+es_de ist_de ,_de als_de ob_de ich_de versuche_de ,_de auf_de einem_de fuß_de zu_de stehen_de ._de
+sie_de mögen_de sich_de fragen_de ,_de wo_de liegt_de der_de nutzen_de eines_de instabilen_de roboters_de ?_de
+nun_de ,_de wir_de werden_de ihnen_de das_de gleich_de erklären_de ._de
+lassen_de sie_de mich_de erst_de ausführen_de ,_de wie_de rezero_de tatsächlich_de in_de balance_de bleibt_de ._de
+rezero_de hält_de seine_de balance_de ,_de indem_de er_de konstant_de seinen_de _UNK__de mit_de einem_de sensor_de berechnet_de ._de
+dann_de wirkt_de er_de dem_de entgegen_de und_de vermeidet_de einen_de sturz_de ,_de indem_de er_de die_de motoren_de dementsprechend_de dreht_de ._de
+das_de geschieht_de 160_de mal_de pro_de sekunde_de und_de wenn_de in_de diesem_de prozess_de irgendetwas_de schief_de geht_de ,_de fiele_de rezero_de sofort_de zu_de boden_de ._de
+nun_de ,_de um_de sich_de zu_de bewegen_de und_de zu_de balancieren_de ,_de muss_de rezero_de den_de ball_de drehen_de ._de
+der_de ball_de wird_de von_de drei_de speziellen_de rädern_de angetrieben_de ,_de die_de es_de rezero_de erlauben_de ,_de sich_de in_de jede_de richtung_de zu_de bewegen_de und_de sich_de auch_de gleichzeitig_de um_de seine_de eigene_de achse_de zu_de drehen_de ._de
+durch_de seine_de instabilität_de ist_de rezero_de immer_de in_de bewegung_de ._de der_de trick_de ist_de wie_de folgt_de :_de
+es_de ist_de tatsächlich_de genau_de diese_de instabilität_de ,_de die_de einem_de roboter_de erlaubt_de ,_de sich_de sehr_de [_de dynamisch_de ]_de zu_de bewegen_de ._de
+lassen_de sie_de uns_de ein_de wenig_de spielen_de ._de
+sie_de haben_de sich_de vielleicht_de gefragt_de ,_de was_de geschieht_de ,_de wenn_de ich_de dem_de roboter_de einen_de kleinen_de schubs_de gebe_de ._de
+in_de diesem_de modus_de versucht_de er_de ,_de seine_de position_de zu_de halten_de ._de
+für_de die_de nächste_de demonstration_de möchte_de ich_de ihnen_de meine_de kollegen_de vorstellen_de :_de michael_de am_de computer_de und_de thomas_de ,_de der_de mir_de hier_de auf_de der_de bühne_de helfen_de wird_de ._de
+im_de nächsten_de modus_de ist_de rezero_de passiv_de und_de wir_de können_de ihn_de herumschieben_de ._de
+beinahe_de ohne_de _UNK__de kann_de ich_de seine_de position_de und_de geschwindigkeit_de kontrollieren_de ._de
+ich_de kann_de ihn_de auch_de zum_de drehen_de bringen_de ._de
+im_de nächsten_de modus_de können_de wir_de rezero_de dazu_de bringen_de ,_de einer_de person_de zu_de folgen_de ._de
+er_de hält_de nun_de eine_de konstante_de distanz_de zu_de thomas_de ._de
+das_de geschieht_de mit_de hilfe_de eines_de _UNK__de ,_de der_de oben_de auf_de rezero_de montiert_de ist_de ._de
+mit_de derselben_de methode_de können_de wir_de ihn_de auch_de dazu_de bringen_de ,_de eine_de person_de zu_de umkreisen_de ._de
+wir_de nennen_de das_de den_de _UNK__de modus_de ._de
+gut_de ,_de vielen_de dank_de dir_de ,_de thomas_de ._de
+nun_de ,_de wozu_de dient_de diese_de technologie_de ?_de
+für_de den_de moment_de ist_de es_de ein_de experiment_de ,_de aber_de lassen_de sie_de mich_de ihnen_de einige_de mögliche_de anwendungen_de zeigen_de ._de
+rezero_de könnte_de in_de ausstellungen_de oder_de parks_de eingesetzt_de werden_de ._de
+mit_de einem_de monitor_de könnte_de er_de die_de leute_de informieren_de ,_de oder_de sie_de auf_de unterhaltsame_de und_de spaßige_de art_de _UNK__de ._de
+in_de einem_de krankenhaus_de könnte_de das_de gerät_de dazu_de verwendet_de werden_de ,_de medizinische_de apparate_de herumzutragen_de ._de
+dank_de des_de ballbot_de -_de systems_de hat_de es_de einen_de sehr_de kleinen_de fußabdruck_de und_de ist_de auch_de sehr_de einfach_de zu_de bewegen_de ._de
+und_de natürlich_de ,_de wer_de möchte_de nicht_de einmal_de auf_de einem_de von_de diesen_de dingern_de reiten_de ._de
+das_de sind_de eher_de die_de praktischen_de anwendungen_de ._de
+aber_de es_de liegt_de auch_de eine_de gewisse_de schönheit_de in_de dieser_de technologie_de ._de
+danke_de ._de
+vielen_de dank_de ._de

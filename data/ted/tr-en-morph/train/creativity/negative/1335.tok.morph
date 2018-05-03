@@ -1,0 +1,141 @@
+bugün	 gerçek 	 ten 	 	de	 internet 	 ten 	 	ürünler	 i 	 ndirip 	 	-	 internet 	 ten 	 	ürün	 veri 	 si 	 	 deme 	 m 	 	gerekiyor	-	belki	onun	 ayar 	 larıyla 	 	 oyna 	 yıp 	 	kendi	_UNK_	veya	kendi	_UNK_	göre	_UNK_	bu	 bilgi 	 yi 	 	 siz 	 in 	 	için	o	 nokta 	 da 	 	üretecek	bir	masaüstü	 makine 	 sine 	 	_UNK_	 mümkün 	 dür 	 	.
+biz	 gerçek 	 ten 	 	 siz 	 in 	 	için	çok	 hızlı 	 ca 	 	bir	fiziksel	nesne	 ürete 	 biliriz 	 	.
+ve	bunu	 yapabilme 	 mizin 	 	sebebi	de	şu	 a 	 nda 	 	 gelişme 	 kte 	 	olan	ve	_UNK_	imalat	veya	3	boyutlu	baskı	 de 	 diğimiz 	 	 teknoloji 	 dir 	 	.
+bu	bir	3d	yazıcı	.
+bunlar	 nerede 	 yse 	 	30	yıldır	 etraf 	 ta 	 	 olma 	 larına 	 	 rağ 	 men 	 	,	ki	bunu	 düşünme 	 k 	 	çok	hayret	verici	,	 kamu 	 sal 	 	 alanlar 	 a 	 	daha	yeni	 girme 	 ye 	 	 başladı 	 lar 	 	.
+ genel 	 de 	 	,	ürün	 data 	 sını 	 	alır	,	burada	 kalem 	 in 	 	_UNK_	olduğu	gibi	,	ki	bu	da	 ürünü 	 n 	 	3	boyutlu	 hali 	 nin 	 	 geometri 	 k 	 	 tasarımı 	 dır 	 	,	ve	biz	bu	 veri 	 yi 	 	 malzeme 	 yle 	 	birlikte	bir	 makine 	 ye 	 	 geçirir 	 iz 	 	.
+ve	bu	 makine 	 nin 	 	içinde	olan	bir	işlem	 ürünü 	 n 	 	katman	katman	 üretildi 	 ği 	 	 anlamı 	 na 	 	gelir	.
+ve	biz	bu	somut	ürünü	 orada 	 n 	 	 kullanım 	 a 	 	hazır	bir	şekilde	çıkarır	veya	belki	de	başka	bir	şey	ile	 birleştire 	 biliriz 	 	.
+ama	eğer	bu	 makine 	 ler 	 	 yaklaşı 	 k 	 	30	yıldır	_UNK_	biz	neden	onları	 bilmiyor 	 uz 	 	:
+çünkü	bunlar	 genel 	 de 	 	fazla	verimsiz	,	 ulaşıla 	 maz 	 	,	 yeter 	 i 	 	kadar	hızlı	değil	ve	çok	 pahalı 	 ydılar 	 	.
+ama	bugün	,	onların	daha	 başarı 	 lı 	 	bir	hale	 geldik 	 leri 	 	bir	 gerçek 	 tir 	 	.
+pek	çok	engel	 yı 	 kılıyor 	 	.
+bu	da	 de 	 mek 	 	oluyor	ki	,	 siz 	 ler 	 	de	şu	dakika	olmasa	bile	 yakın 	 da 	 	bu	 makine 	 lerden 	 	 biri 	 ne 	 	_UNK_	.
+ve	bu	 üretimi 	 n 	 	 yapı 	 sını 	 	ve	 kesinlik 	 le 	 	bizim	 hayatımız 	 ı 	 	ve	 işimiz 	 i 	 	ve	de	 çocuk 	 larımızın 	 	 hayat 	 ını 	 	 değiştire 	 cek 	 	ve	 boz 	 acak 	 	.
+ pek 	 i 	 	bu	nasıl	çalışıyor	?
+genel	olarak	bir	cad	 veri 	 si 	 	okuyor	,	ki	bu	da	profesyonel	ürün	tasarım	 program 	 larında 	 	 oluştur 	 ulan 	 	bir	ürün	tasarım	 veri 	 sidir 	 	.
+ve	siz	burada	bir	 mühendis 	 in 	 	--	bu	bir	mimar	veya	profesyonel	ürün	 tasarımcı 	 sı 	 	da	olabilir	--	bir	ürünü	3	boyutlu	olarak	 hazırladı 	 ğını 	 	 göre 	 bilirsiniz 	 	.
+ve	bu	 veri 	 ler 	 	,	 ürünü 	 n 	 	 tamam 	 ının 	 	iki	boyutlu	temsil	 edile 	 bilecek 	 	şekilde	 dilim 	 ler 	 	 hali 	 ne 	 	_UNK_	bir	 makine 	 ye 	 	 gönder 	 iliyor 	 	-	 nerede 	 yse 	 	bir	_UNK_	_UNK_	gibi	.
+bu	 veri 	 ler 	 	,	 ürünü 	 n 	 	 temel 	 inden 	 	 baş 	 layarak 	 	,	katman	katman	,	 makine 	 den 	 	 geçir 	 iliyor 	 	ve	malzeme	de	her	yeni	 katma 	 nın 	 	eski	 katma 	 nın 	 	 üzeri 	 ni 	 	 doldura 	 cak 	 	şekilde	 eklen 	 mesi 	 	 işlem 	 iyle 	 	katman	 üstü 	 ne 	 	katman	olarak	 yerleştir 	 iliyor 	 	.
+bu	 yerleştir 	 ilen 	 	malzeme	ya	sıvı	 form 	 da 	 	ya	da	ürün	 pu 	 dra 	 	 formu 	 nda 	 	başlıyor	.
+ve	birleştirme	 işlem 	 i 	 	ya	 erit 	 ip 	 	 yerleştir 	 erek 	 	ya	da	 yerleştir 	 ip 	 	_UNK_	 yapıla 	 bilir 	 	.
+bu	durumda	,	eos	 tarafı 	 ndan 	 	 geliştir 	 ilmiş 	 	bir	lazer	_UNK_	 makine 	 si 	 	 görüyor 	 uz 	 	.
+bu	aslında	 malzeme 	 nin 	 	olduğu	yeni	 katman 	 ı 	 	lazer	 kullan 	 arak 	 	eski	katman	ile	_UNK_	.
+ve	zaman	 geçtik 	 çe 	 	--	aslında	oldukça	 hızlı 	 ca 	 	,	birkaç	saat	içinde	--	 makine 	 den 	 	 çıkar 	 ıp 	 	 kullanım 	 a 	 	hazır	somut	bir	ürün	 yapa 	 biliriz 	 	.
+ve	bu	çok	 sıra 	 dışı 	 	bir	fikir	,	ama	bugün	bu	bir	gerçek	.
+yani	şu	 a 	 nda 	 	 ekran 	 da 	 	 ekran 	 da 	 	gördüğünüz	 ürünleri 	 n 	 	hepsi	aynı	bu	şekilde	 yapılmış 	 tı 	 	.
+hepsi	3	boyutlu	 bas 	 ıldı 	 	.
+ve	 göre 	 biliyorsunuz 	 	ki	,	 bun 	 ların 	 	 çeşit 	 leri 	 	_UNK_	 paslan 	 maz 	 	 çe 	 likten 	 	yapılmış	_UNK_	,	plastik	telefon	_UNK_	mesela	medikal	 derece 	 li 	 	 titanyum 	 dan 	 	yapılmış	omurilik	_UNK_	ve	motor	 parça 	 larına 	 	kadar	değişiyor	.
+ama	bu	 ürünleri 	 n 	 	 hepsi 	 yle 	 	ilgili	_UNK_	şey	 bun 	 ların 	 	çok	,	çok	girift	 olma 	 larıdır 	 	.
+tasarımı	oldukça	 sıra 	 dışı 	 	.
+ data 	 yı 	 	3d	 formu 	 nda 	 	 aldığımız 	 dan 	 	ve	 makine 	 den 	 	 geçme 	 den 	 	önce	_UNK_	 ö 	 türü 	 	biz	 gerçek 	 ten 	 	de	diğer	bütün	üretim	 teknoloji 	 lerinden 	 	daha	girift	 yapı 	 lar 	 	 ürete 	 biliyoruz 	 	--	ya	da	aslında	başka	türlü	üretimi	 tamam 	 en 	 	imkansız	olan	 yapı 	 lar 	 	.
+ve	hareket	eden	 bileşen 	 leri 	 	olan	 parça 	 lar 	 	,	_UNK_	ve	parça	içinde	 parça 	 lar 	 	 ürete 	 bilirsiniz 	 	.
+bu	 yüz 	 den 	 	,	bazı	 durum 	 larda 	 	,	manuel	 işgücü 	 ne 	 	 duyul 	 an 	 	ihtiyacı	 tamam 	 en 	 	 orta 	 dan 	 	 kaldıra 	 biliriz 	 	.
+bu	 kul 	 ağa 	 	harika	geliyor	.
+bu	harika	.
+bugün	bunlar	gibi	 yapı 	 lar 	 	 oluştura 	 n 	 	3d	_UNK_	sahip	 ola 	 biliriz 	 	.
+bu	 nerede 	 yse 	 	ü	ç	metre	 yüksekliği 	 nde 	 	.
+ve	bu	,	yapay	_UNK_	her	 biri 	 nin 	 	kalınlığı	beş	milimetre	ile	10	 m 	 m 	 	arasında	olan	katman	üzerine	katman	şeklinde	 ekle 	 yip 	 	 yapı 	 yı 	 	 yavaş 	 ça 	 	 büyüte 	 rek 	 	 oluştur 	 ulmuş 	 tur 	 	.
+bu	bir	 mimar 	 lık 	 	 firma 	 sı 	 	olan	_UNK_	 tarafı 	 ndan 	 	 oluştur 	 ulmuş 	 tur 	 	.
+ve	bunun	 gerçek 	 ten 	 	 için 	 e 	 	 gire 	 bilirsiniz 	 	.
+ve	 spektrum 	 un 	 	diğer	 ucu 	 nda 	 	 i 	 se 	 	bir	_UNK_	 bulunmakta 	 dır 	 	.
+bu	 yaklaşı 	 k 	 	dört	_UNK_	 oluşa 	 n 	 	 katman 	 lar 	 	_UNK_	 oluştur 	 ulmuş 	 tur 	 	.
+yani	 gerçek 	 ten 	 	de	çözünürlük	son	derece	inanılmaz	.
+bugün	 el 	 de 	 	 edebileceği 	 niz 	 	detay	 gerçek 	 ten 	 	hayret	verici	.
+ pek 	 i 	 	bunu	kim	kullanıyor	?
+ genel 	 de 	 	,	ürünleri	çok	çabuk	_UNK_	 ö 	 türü 	 	,	ürün	 tasarımcı 	 ları 	 	veya	bir	 ürünü 	 n 	 	 prototip 	 ini 	 	isteyen	ve	 hızlı 	 ca 	 	 üret 	 ip 	 	 tekrarlaya 	 n 	 	 her 	 hangi 	 	biri	 tarafı 	 ndan 	 	 kullan 	 ılıyor 	 	.
+ve	aslında	bu	 teknoloji 	 nin 	 	en	inanılmaz	yanı	 ısmarla 	 ma 	 	ürünleri	 toplu 	 ca 	 	 ürete 	 biliyor 	 	 olma 	 nız 	 	.
+ölçek	 ekonomi 	 leri 	 	çok	 az 	 dır 	 	.
+bu	 yüz 	 den 	 	bir	 kere 	 lik 	 	 şey 	 leri 	 	şimdi	çok	kolay	 ürete 	 bilirsiniz 	 	.
+ mimar 	 lar 	 	,	 örneği 	 n 	 	,	 bina 	 ların 	 	 prototip 	 lerini 	 	 oluşturma 	 k 	 	 istiyor 	 lar 	 	.
+ yi 	 ne 	 	 göre 	 biliyorsunuz 	 	ki	bu	berlin'deki	free	üniversitesi'nin	bir	 bina 	 sı 	 	ve	foster	ve	 ortak 	 ları 	 	 tarafı 	 ndan 	 	 tasarlanmış 	 tı 	 	.
+ yi 	 ne 	 	,	başka	 hiç 	 bir 	 	şekilde	inşa	edilemez	.
+ve	bunu	el	ile	inşa	_UNK_	bile	çok	 zor 	 dur 	 	.
+şimdi	bu	bir	motor	parçası	.
+bu	within	technologies	 ad 	 lı 	 	bir	firma	ve	_UNK_	_UNK_	 tarafı 	 ndan 	 	 geliştir 	 ilmiş 	 tir 	 	.
+bu	 tasarımı 	 n 	 	içinde	çok	,	çok	,	çok	 detay 	 lı 	 	.
+şimdi	3d	baskı	 tasarım 	 da 	 	bütün	 engel 	 leri 	 	 kaldır 	 arak 	 	seri	 üretimi 	 n 	 	 kısıt 	 larına 	 	karşı	meydan	okuyor	.
+eğer	burada	 gerçek 	 ten 	 	 buluna 	 n 	 	ürünü	_UNK_	bunun	 içinde 	 n 	 	birkaç	soğutma	 kanal 	 ının 	 	 geçtiği 	 ni 	 	yani	daha	verimli	bir	ürün	olduğunu	 göre 	 bilirsiniz 	 	.
+bunu	standard	üretim	 teknik 	 leriyle 	 	 oluştura 	 mazsınız 	 	,	el	yapımı	olarak	 dene 	 seniz 	 	bile	.
+bu	daha	verimli	çünkü	biz	 ürünü 	 n 	 	içinde	 sıvı 	 yı 	 	 soğutma 	 ya 	 	 yaraya 	 n 	 	_UNK_	 oluştura 	 biliyoruz 	 	.
+ve	bu	 hava 	 cılık 	 	ve	otomotiv	 tarafı 	 ndan 	 	 kullan 	 ılıyor 	 	.
+bu	daha	hafif	bir	parça	ve	daha	az	malzeme	israfı	yapıyor	.
+yani	tüm	performans	ve	 verimli 	 liği 	 	standard	seri	üretim	 ürünleri 	 ni 	 	geçiyor	.
+ve	bu	çok	 detay 	 lı 	 	 yapı 	 lar 	 	oluşturma	 fikri 	 ni 	 	alıp	_UNK_	 yapı 	 lara 	 	 uygulaya 	 bilir 	 	ve	 implant 	 lar 	 	içinde	 kullana 	 biliriz 	 	.
+ genel 	 de 	 	bir	implant	daha	 gözenek 	 li 	 	 olduğu 	 nda 	 	 vücut 	 ta 	 	daha	 etkili 	 dir 	 	çünkü	vücut	 doku 	 larımız 	 	onun	 için 	 e 	 	_UNK_	.
+reddetme	 ihtimal 	 i 	 	daha	 az 	 dır 	 	.
+ama	bunu	standart	 yol 	 larla 	 	 oluşturma 	 k 	 	çok	 zor 	 dur 	 	.
+3d	baskı	ile	bugün	 görüyor 	 uz 	 	ki	çok	daha	iyi	 implant 	 lar 	 	 oluştura 	 biliyoruz 	 	.
+ve	aslında	,	tek	 sefer 	 lik 	 	ürünler	ve	 ısmarla 	 ma 	 	ürünleri	toplu	olarak	 ürete 	 bildiğimiz 	 	için	 birey 	 lere 	 	özel	 implant 	 lar 	 	 ürete 	 biliyoruz 	 	.
+yani	 göre 	 bildiğiniz 	 	gibi	,	bu	teknoloji	ve	bu	 makine 	 den 	 	 çıka 	 n 	 	 şey 	 lerin 	 	 kalite 	 si 	 	 olağan 	 üstü 	 	.
+ve	biz	bunun	son	ürünler	için	 kullanıldığı 	 nı 	 	görmeye	 başlıyor 	 uz 	 	.
+ve	aslında	,	detay	daha	_UNK_	kalite	 iyi 	 leşiyor 	 	,	 makine 	 lerin 	 	 fiyat 	 ı 	 	düşüyor	ve	daha	hızlı	hale	 geliyor 	 lar 	 	.
+bunlar	ayrıca	bir	 masaüstü 	 ne 	 	 sığa 	 cak 	 	kadar	 küçük 	 ler 	 	.
+kendi	 kendi 	 nize 	 	üretim	 yapabileceği 	 niz 	 	bir	 makine 	 yi 	 	bugün	_UNK_	 ala 	 bilirsiniz 	 	ki	bu	gayet	inanılmaz	.
+ama	bu	bir	 soru 	 yu 	 	kaçınılmaz	kılıyor	,	neden	 hepimiz 	 in 	 	evinde	 bir 	 er 	 	tane	yok	?
+çünkü	,	basit	 şekli 	 yle 	 	,	bugün	burada	çoğumuz	3d	 yazıcı 	 nın 	 	 oku 	 duğu 	 	 veri 	 yi 	 	nasıl	 oluştura 	 cağımızı 	 	 bilmiyor 	 uz 	 	.
+ben	 siz 	 e 	 	bir	3d	yazıcı	 verse 	 m 	 	 istediği 	 niz 	 	şeyi	 yapma 	 sı 	 	için	onu	nasıl	_UNK_	 bile 	 mezsiniz 	 	.
+ama	bugün	bu	 engel 	 leri 	 	 orta 	 dan 	 	 kaldıra 	 n 	 	çok	ve	çok	daha	fazla	teknoloji	,	yazılım	ve	 süreç 	 ler 	 	var	.
+i̇nanıyorum	ki	şu	 a 	 nda 	 	bunun	kaçınılmaz	olduğu	bir	 d 	 evrilme 	 	 noktasında 	 yız 	 	.
+bu	teknoloji	 gerçek 	 ten 	 	de	 üretimi 	 n 	 	 yapı 	 sını 	 	 boz 	 acak 	 	ve	 inanıyor 	 um 	 	ki	 üretim 	 de 	 	bir	 devrim 	 e 	 	sebep	olacak	.
+yani	bugün	,	 internet 	 ten 	 	ürünler	 indire 	 bilirsiniz 	 	--	_UNK_	 ola 	 bilecek 	 	 her 	 hangi 	 	bir	şey	,	 kalem 	 ler 	 	,	_UNK_	,	 li 	 mon 	 	_UNK_	gibi	.
+google	_UNK_	gibi	 yazılım 	 lar 	 	 kullan 	 arak 	 	bu	ürünleri	çok	kolay	bir	şekilde	 sıfır 	 dan 	 	 oluştura 	 bilirsiniz 	 	.
+3d	baskı	ayrıca	 internet 	 ten 	 	yedek	parça	 i 	 ndirmek 	 	için	 kullanıla 	 bilir 	 	.
+yani	hayal	edin	ki	,	 di 	 yelim 	 	,	 eviniz 	 de 	 	bir	hoover	var	ve	bozuldu	.	 siz 	 in 	 	bir	yedek	 parça 	 ya 	 	 ihtiyacı 	 nız 	 	var	,	ama	 farkediyor 	 sunuz 	 	ki	hoover	 üretim 	 den 	 	 kaldır 	 ılmış 	 	.
+hayal	edebiliyor	musunuz	--	ki	bu	gerçek	--	 internet 	 e 	 	 gir 	 ip 	 	o	yedek	 parça 	 yı 	 	 üretim 	 den 	 	 kaldır 	 ılmış 	 	o	 ürünü 	 n 	 	_UNK_	olduğu	bir	 veritabanı 	 ndan 	 	 bulduğu 	 nuzu 	 	ve	bu	 bilgi 	 yi 	 	,	 veri 	 yi 	 	,	 i 	 ndirip 	 	talep	üzerine	,	 kullanım 	 a 	 	hazır	bir	şekilde	bu	ürünü	 eviniz 	 de 	 	_UNK_	?
+ve	aslında	,	biz	bu	 şey 	 lerle 	 	yedek	parça	 ürete 	 bildiğimiz 	 	için	 makine 	 ler 	 	tam	 anlamı 	 yla 	 	kendi	 kendi 	 lerini 	 	 üretiyor 	 lar 	 	.
+ makine 	 lerin 	 	 kendi 	 lerini 	 	 üretme 	 lerini 	 	 sağlıyor 	 sunuz 	 	.
+bunlar	bir	çeşit	masaüstü	 yazıcı 	 sı 	 	olan	bir	_UNK_	 makine 	 sinin 	 	 parça 	 ları 	 	.
+ama	benim	 şirketim 	 i 	 	en	çok	 ilgilendi 	 ren 	 	şey	tek	 benzer 	 siz 	 	 parça 	 ları 	 	toplu	bir	şekilde	 ürete 	 biliyor 	 	 olduğunu 	 z 	 	gerçeği	.
+binlerce	milyon	 tane 	 si 	 	için	çalışma	 yapma 	 ya 	 	veya	 enje 	 kte 	 	 edile 	 rek 	 	_UNK_	için	çin'e	 gönderme 	 ye 	 	gerek	yok	.
+bunu	 olduğunu 	 z 	 	yerde	fiziksel	bir	şekilde	 yapa 	 bilirsiniz 	 	.
+biz	 toplum 	 a 	 	 kişiselleşti 	 rmenin 	 	bir	sonraki	 nesli 	 ni 	 	 suna 	 biliriz 	 	.
+bu	şu	 a 	 nda 	 	mümkün	olan	bir	şey	,	 ürünü 	 nüzün 	 	nasıl	 görünme 	 sini 	 	 istediği 	 nize 	 	göre	onu	 di 	 rek 	 	olarak	_UNK_	.
+hepimiz	 kişisel 	 leştirme 	 	veya	 özel 	 leştirme 	 	 fikri 	 yle 	 	 aşina 	 yız 	 	.
+nike	gibi	 marka 	 lar 	 	bunu	yapıyor	.
+ interneti 	 n 	 	her	yerinde	var	.
+aslında	,	bütün	büyük	 marka 	 lar 	 	 siz 	 in 	 	günlük	 baz 	 da 	 	onların	 ürünleri 	 yle 	 	 etkileşim 	 e 	 	_UNK_	mümkün	kılıyor	--	mesela	smart	car	``	dan	_UNK_	,	ray	_UNK_	kadar	hepsi	.
+ama	bu	 gerçek 	 ten 	 	toplu	 kişisel 	 leştirme 	 	değil	;	bunlar	değişken	ürün	olarak	 bilin 	 iyor 	 	,	yani	aynı	 ürünü 	 n 	 	 çeşit 	 leri 	 	.
+ yapabildiği 	 niz 	 	 gerçek 	 ten 	 	şu	 a 	 nda 	 	_UNK_	 etkileme 	 k 	 	ve	 ürünü 	 nüzün 	 	 şekli 	 ni 	 	 man 	 ipule 	 	etmek	.
+ siz 	 lerden 	 	emin	değilim	ama	benim	öyle	 tecrübe 	 lerim 	 	oldu	ki	bir	 mağaza 	 ya 	 	 girdiği 	 m 	 	ve	tam	da	ne	 istediği 	 mi 	 	bildiğim	ve	 evi 	 min 	 	tam	 neresi 	 nde 	 	 dura 	 cağını 	 	bildiğim	o	mükemmel	 lamba 	 yı 	 	 bulma 	 k 	 	için	her	 yer 	 di 	 	 ara 	 dığım 	 	,	ve	o	doğru	şeyi	bir	türlü	 bula 	 madığım 	 	,	veya	 kendi 	 me 	 	hediye	olarak	 alma 	 k 	 	 istediği 	 m 	 	o	kusursuz	_UNK_	 bula 	 madığım 	 	 tecrübe 	 ler 	 	.
+hayal	edin	ki	bir	marka	ile	bir	ilişki	 kuru 	 p 	 	 etkileşim 	 e 	 	 geçe 	 bilir 	 	ve	 böyle 	 likle 	 	 alma 	 k 	 	üzere	 olduğunu 	 z 	 	 ürün 	 e 	 	kendi	kişisel	 özellikler 	 inizi 	 	 vere 	 bilirsiniz 	 	.
+siz	bugün	böyle	bir	ürünü	böyle	bir	 yazılım 	 la 	 	 indire 	 bilir 	 	ve	ürünü	3d	olarak	 göre 	 bilirsiniz 	 	.
+bu	bir	_UNK_	_UNK_	 tür 	 den 	 	bir	3d	 veri 	 sidir 	 	.
+bu	bir	lamba	.
+ve	tasarımı	_UNK_	 başlaya 	 bilirsiniz 	 	.
+ ürünü 	 n 	 	ne	renk	 ola 	 cağını 	 	 hat 	 ta 	 	ne	 malzeme 	 den 	 	 ola 	 cağını 	 	 yönete 	 bilirsiniz 	 	.
+ve	 hat 	 ta 	 	,	 ürünü 	 n 	 	şekil	_UNK_	bile	belli	 sınır 	 lar 	 	içinde	dahil	 ola 	 bilirsiniz 	 	.
+çünkü	açık	bir	şekilde	halk	profesyonel	ürün	 tasarımcı 	 ları 	 	değil	.
+bu	yazılım	parçası	 birey 	 i 	 	olası	 sınır 	 lar 	 	içinde	 tuta 	 caktır 	 	.
+ve	biri	bu	ürünü	kendi	 kişisel 	 leştirilmiş 	 	 tasarımı 	 yla 	 	 alma 	 k 	 	için	hazır	 olduğu 	 nda 	 	``	_UNK_	``	 tuşu 	 na 	 	basar	ve	bu	veri	3d	 yazıcı 	 ların 	 	 oku 	 duğu 	 	 veri 	 ye 	 	_UNK_	,	 muhtemel 	 en 	 	 biri 	 nin 	 	_UNK_	,	bir	3d	 yazıcı 	 ya 	 	 gönder 	 ilir 	 	.
+ama	ben	bunun	hemen	olduğunu	 düşünmüyor 	 um 	 	.
+bunun	yakın	 zaman 	 da 	 	 ola 	 cağını 	 	 düşünmüyor 	 um 	 	.
+ olma 	 sı 	 	daha	mümkün	olan	,	ve	bugün	bunu	 görüyor 	 uz 	 	,	 veri 	 nin 	 	bir	yerel	üretim	 merkezi 	 ne 	 	 gönder 	 ilmesi 	 dir 	 	.
+bu	da	daha	az	karbon	ayak	izi	 de 	 mektir 	 	.
+biz	şimdi	,	ürünleri	 dünya 	 nın 	 	 ö 	 bür 	 	 ucu 	 na 	 	 gönderme 	 k 	 	yerine	 veri 	 leri 	 	internet	 üzerinde 	 n 	 	 gönder 	 iyoruz 	 	.
+burada	ürün	üretilme	hali	.
+ göre 	 bilirsiniz 	 	ki	,	bu	 makine 	 den 	 	tek	parça	olarak	çıktı	ve	 elektronik 	 ler 	 	 sonra 	 dan 	 	 yerleştir 	 ildi 	 	.
+bu	,	 göre 	 bileceğiniz 	 	gibi	,	bu	lamba	.
+yani	 veri 	 ye 	 	sahip	 olduğunu 	 z 	 	 süre 	 ce 	 	 isteği 	 niz 	 	üzerine	 parça 	 yı 	 	 ürete 	 bilirsiniz 	 	.
+ve	bunu	sadece	estetik	 özel 	 leştirme 	 	için	 kullanma 	 nıza 	 	gerek	yok	,	bunu	 fonksiyon 	 el 	 	 özel 	 leştirme 	 	için	de	_UNK_	,	 vücudu 	 n 	 	 bölüm 	 lerini 	 	 tara 	 yıp 	 	ona	tam	 otura 	 cak 	 	şeyler	 ürete 	 bilirsiniz 	 	.
+yani	bunu	protez	gibi	 şey 	 lerde 	 	 kullana 	 biliriz 	 	,	ki	bu	da	 tamam 	 en 	 	 birey 	 in 	 	_UNK_	 özel 	 dir 	 	.
+ya	da	o	birey	için	çok	 belir 	 li 	 	 protez 	 ler 	 	 oluştura 	 biliriz 	 	.
+bugün	dişleri	 ta 	 rıyoruz 	 	,	siz	de	 dişleri 	 nizi 	 	_UNK_	ve	bu	 yöntem 	 le 	 	yapılmış	 siz 	 e 	 	uygun	diş	 kaplama 	 sı 	 	 yaptı 	 rabilirsiniz 	 	.
+siz	_UNK_	 bekler 	 ken 	 	,	bir	makine	 siz 	 in 	 	için	 sessiz 	 ce 	 	çalışıyor	ve	bunu	_UNK_	 yerleştirme 	 ye 	 	hazır	ediyor	olacak	.
+ve	şimdi	implant	oluşturma	,	veri	tarama	,	 biri 	 nin 	 	mri	 tarama 	 sı 	 	fikri	3d	 veri 	 ye 	 	 dönüştürüle 	 bilir 	 	ve	biz	de	onlar	için	spesifik	 implant 	 lar 	 	 oluştura 	 biliriz 	 	.
+ve	bu	fikri	de	 vücudu 	 muzda 	 	 ne 	 lerin 	 	 ola 	 cağını 	 	oluşturma	 fikri 	 ne 	 	 uygulaya 	 biliriz 	 	.
+biliyorsunuz	ki	bu	bir	çift	akciğer	ve	_UNK_	ağacı	.
+bu	çok	_UNK_	.
+bunu	başka	hiç	bir	şekilde	 yarata 	 maz 	 	ve	taklit	 edemez 	 siniz 	 	.
+ama	mri	_UNK_	birlikte	,	bu	ürünü	,	gördüğünüz	gibi	,	çok	girift	bir	şekilde	 yapa 	 biliriz 	 	.
+bu	 yöntem 	 i 	 	 kullan 	 arak 	 	,	 sektörü 	 n 	 	 öncü 	 leri 	 	bugün	 katman 	 larla 	 	hücre	oluşturuyor	.
+yani	_UNK_	biri	,	 örneği 	 n 	 	,	dr.	anthony	atala	,	vücut	 parça 	 ları 	 	 oluşturma 	 k 	 	için	 hücre 	 leri 	 	 katman 	 larla 	 	 oluşturma 	 k 	 	üzerinde	çalışıyor	--	 mesane 	 ler 	 	,	_UNK_	,	 böbrek 	 ler 	 	.
+şimdi	bu	halk	için	hazır	olan	bir	şey	değil	,	ama	üzerinde	 çalış 	 ılan 	 	bir	süreç	.
+yani	_UNK_	 olursa 	 k 	 	,	hepimiz	_UNK_	.
+ hepimiz 	 in 	 	farklı	 tercih 	 leri 	 	,	farklı	 ihtiyaç 	 ları 	 	var	.
+biz	farklı	 şey 	 lerden 	 	 hoşlanıyor 	 uz 	 	.
+hepimiz	farklı	_UNK_	ve	_UNK_	de	 ay 	 ne 	 n 	 	öyle	.
+i̇şletmeler	farklı	şeyler	istiyor	.
+ aklı 	 mda 	 	hiç	 şüphe 	 siz 	 	 inanıyor 	 um 	 	ki	bu	teknoloji	bir	üretim	 devrim 	 ine 	 	sebep	olacak	ve	bildiğimiz	 üretimi 	 n 	 	 yapı 	 sını 	 	 değiştire 	 cek 	 	.
+teşekkür	ederim	.
+

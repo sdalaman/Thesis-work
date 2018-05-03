@@ -1,0 +1,209 @@
+şu	an	oxford'da	geliştirmekte	olduğumuz	teknoloji	hakkında	konuşacağım	,	bunun	bilgisayar	oyunlarının	ve	hollywood	filmlerinin	yapılış	şeklini	değiştireceğine	inanıyoruz	.
+bu	teknoloji	,	insanların	taklidini	yapmak	.
+bu	taklit	edilmiş	bir	vücut	ve	vücudu	kontrol	etmek	için	taklit	edilmiş	bir	sinir	sistemi	ile	insanı	taklit	etmek	.
+şimdi	,	teknoloji	hakkında	daha	çok	konuşmadan	önce	,	şu	anda	bilgisayar	oyunlarında	insan	karakterlerinin	nasıl	_UNK_	bir	bakalım	.
+bu	klip	grand	theft	auto	3	oyunundan	.
+bunu	dün	kısaca	görmüştük	.
+aslında	bu	çok	iyi	bir	oyun	.
+tüm	zamanların	en	başarılı	oyunlarından	biri	.
+ama	bu	oyunda	gördüğünüz	şey	tüm	animasyonların	tekrardan	ibaret	olması	.
+hemen	hemen	hepsi	aynı	gözüküyor	.
+burada	karakteri	tekrar	ve	tekrar	bir	duvara	karşı	yürütüyorum	.
+ve	her	seferinde	aynı	göründüğünü	görebilirsiniz	.
+bunun	asıl	sebebi	bu	karakterlerin	aslında	gerçek	karakterler	olmamaları	.
+bunlar	karakterlerin	grafiksel	olarak	_UNK_	halleri	.
+bu	animasyonu	yaratmak	için	bir	_UNK_	animatör	gerçek	hayatta	ne	olacağını	tahmin	etmeli	ve	daha	sonra	ona	göre	bu	sahnenin	animasyonunu	yapmalı	.
+animatör	oturuyor	,	canlandırıyor	ve	gerçekte	ne	olacağını	tahmin	etmeye	çalışıyor	,	sonra	da	bu	animasyonlar	oyunun	belli	bölümlerinde	tekrar	tekrar	gösteriliyor	.
+sonuç	olarak	da	gerçek	etkileşim	sağlanamıyor	.
+elde	ettiğiniz	tek	şey	aşağı	yukarı	belli	zamanlarda	tekrar	edilen	animasyonlar	.
+aynı	zamanda	,	oyunlarda	çok	fazla	derecede	şaşırtıcı	olamıyorlar	çünkü	,	en	azından	karakter	açısından	,	karaktere	ne	kadar	canlılık	veriyorsanız	oyundan	da	onu	alabiliyorsunuz	.
+oyunda	tam	bir	gerçekçilik	olmuyor	.
+üçüncü	olarak	,	dediğim	gibi	,	bu	sebeplerden	animasyonların	çoğu	tekrara	dönüşüyor	.
+bundan	kurtulmanın	tek	yolu	gerçekten	insan	vücudunu	ve	biraz	da	vücudu	kontrol	eden	beyindeki	sinir	sistemlerini	taklit	etmek	.
+belki	size	farkın	ne	olduğunu	göstermek	için	hızlıca	bir	şeyler	gösterebilirim	--	çünkü	,	bu	çok	ufak	bir	fark	.
+eğer	chris'i	bu	şekilde	itersem	o	buna	tepki	verecek	.
+eğer	onu	başka	bir	açıdan	itersem	farklı	bir	tepki	verecek	,	çünkü	fiziksel	bir	vücuda	sahip	ve	çünkü	vücudunu	kontrol	eden	motor	becerilere	sahip	.
+bu	çok	ufak	bir	şey	.
+bu	bilgisayar	oyunlarından	o	anda	alabildiğiniz	bir	şey	değil	.
+çok	teşekkürler	.	chris	anderson	:	bu	kadar	mı	?
+torsten	reil	:	evet	,	bu	kadar	.
+i̇şte	bu	taklit	etmeye	çalıştığımız	şey	--	özellikle	chris	değil	,	genel	olarak	insanlar	.
+bir	süre	önce	oxford	üniversitesi'nde	bunun	üzerinde	çalışmaya	başladık	,	ve	çok	basitten	başlamaya	çalıştık	.
+denediğimiz	şey	bir	çöp	adama	nasıl	yürüyeceğini	öğretmeye	çalışmaktı	.
+burada	ekranda	görebilirsiniz	,	o	çöp	adam	fiziksel	olarak	canlandırıldı	.
+yani	yerçekimine	maruz	kalıyor	,	eklemleri	var	,	vs.	vs	.
+eğer	onu	_UNK_	bu	şekilde	yere	düşecektir	.
+i̇şin	önemli	kısmı	onun	içine	konulan	ve	onun	çalışmasını	sağlayan	yapay	zeka	_UNK_	.
+bunun	için	de	,	yürüme	yetimizi	kontrol	eden	_UNK_	bulunan	sinir	sistemimizden	esinlenerek	sinirsel	ağı	kullandık	.
+buna	nöral	ağ	deniyor	.
+bunu	da	_UNK_	sonra	esas	kısım	o	ağa	nasıl	yürüyeceğini	_UNK_	.
+bunun	için	yapay	evrimi	--	genetik	algoritmayı	--	kullandık	.
+bunun	hakkında	dün	bir	şeyler	duyduk	ve	sanırım	çoğunuz	buna	zaten	aşina	.
+ama	kısaca	,	fikir	şöyle	diyebiliriz	,	büyük	sayılarda	farklı	karakterler	yaratıyorsunuz	,	bizim	durumumuzda	nöral	ağlar	,	başlangıçta	bunların	hepsi	rastgele	oluşturuluyor	.
+bunları	alıyorsunuz	--	bizim	durumumuzda	bu	iki	ayaklı	yaratığın	sanal	kaslarını	--	ve	ilginç	şeyler	olacağını	umut	ediyorsunuz	.
+başlangıçta	hapsi	çok	sıkıcı	oluyorlar	.
+çoğu	hareket	bile	etmiyor	,	ama	bazıları	küçük	adımlar	atabiliyor	.
+onlar	daha	sonra	algoritma	tarafından	_UNK_	_UNK_	de	belirlemek	için	mutasyon	ve	tekrar	kombine	etme	ile	yeniden	_UNK_	.
+ve	bu	süreci	ta	ki	yürüyen	bir	şeye	sahip	olana	kadar	tekrar	ve	tekrar	yapıyorsunuz	--	bu	durumda	,	bu	şekilde	düz	_UNK_	kadar	.
+yaptığımızın	arkasında	yatan	fikir	buydu	.
+buna	başladığımızda	bir	akşam	ben	simülasyonu	oluşturdum	.
+canlandırmayı	yapmak	3-4	saatimi	aldı	.
+ertesi	sabah	kalktım	,	bilgisayara	gittim	ve	sonuçlara	baktım	ve	düz	çizgide	yürüyen	bir	şeyler	olur	ümidi	taşıyordum	,	az	önce	gösterdiğim	gibi	,	onun	yerine	karşılaştığım	buydu	.
+yani	bu	bizim	için	çizim	masasına	geri	dönmek	demekti	.
+sonunda	onu	çalışır	hale	getirdik	,	orasında	ve	_UNK_	biraz	ayar	yaptıktan	sonra	.
+ve	bu	da	başarılı	bir	çalışmanın	örneği	.
+birazdan	göreceğiniz	şey	yapay	evrimi	kullanarak	yürümeyi	öğrenen	bir	,	iki	ayaklı	.
+başlangıçta	hiç	yürüyemiyordu	ama	zamanla	daha	iyiye	gitti	.
+i̇şte	bu	hiç	yürüyemeyen	.
+şimdi	,	beş	kez	evrim	prosesini	_UNK_	sonra	,	genetik	algoritma	birazcık	daha	iyi	hale	geliyor	.
+10.	jenerasyon	ve	birkaç	adım	daha	atabiliyor	.	yine	de	tam	olmamış	.
+ama	20.	den	sonra	düz	bir	çizgide	düşmeden	yürüyebiliyor	.
+bu	bizim	için	büyük	bir	ilerleme	idi	.
+akademik	açıdan	zorlu	bir	proje	idi	ve	bu	seviyeye	ulaştıktan	sonra	bu	yaklaşım	ile	başka	şeyler	deneyip	yapabileceğimize	dair	kendimize	güvenimiz	oluştu	--	özellikle	vücudu	ve	onu	kontrol	eden	sinir	sistemini	taklit	_UNK_	dair	güvenimiz	.
+şimdi	,	bu	aşamada	bunun	online	dünyası	ve	bilgisayar	oyunları	için	çok	heyecan	verici	olduğu	netlik	kazandı	.
+burada	gördüğünüz	orada	dikilen	bir	karakter	ve	onun	yoluna	koyduğumuz	bir	engel	.
+gördüğünüz	gibi	,	engelin	üstüne	doğru	düşüyor	.
+i̇lginç	olan	ise	,	eğer	engeli	birazcık	sağa	_UNK_	,	şu	an	yapıyorum	,	işte	,	bu	kez	farklı	bir	şekilde	düşüyor	.
+ve	engeli	biraz	daha	hareket	ettirirsem	,	yeniden	farklı	bir	şekilde	düşecek	.
+bu	arada	,	burada	yukarıda	gördüğünüz	sanal	kasların	içine	yerleştirilmiş	sinirsel	hareketlenmeler	.
+evet	.	teşekkürler	.
+bu	_UNK_	gibi	gözükebilir	ama	aslında	çok	önemli	çünkü	bu	interaktif	veya	sanal	dünya	da	her	an	karşılaşabileceğiniz	bir	şey	değil	.
+bu	aşamada	,	bir	şirket	kurmaya	ve	bunu	daha	ileri	götürmeye	karar	verdik	çünkü	belli	ki	bu	sadece	basit	bir	tıknaz	iki	ayaklı	.
+yapmak	istediğimiz	şey	tamamen	bir	insan	vücudu	idi
+ve	bunun	için	şirketi	kurduk	.
+bunun	üstünde	çalışması	için	fizikçilerden	,	yazılım	mühendislerinden	ve	_UNK_	oluşan	bir	takım	işe	aldık	ve	de	yapmamız	gereken	ilk	şey	bir	insan	vücudu	yaratmaktı	.
+normal	bir	makinede	_UNK_	için	oldukça	hızlı	olması	ve	iyi	gözükmesi	içinde	oldukça	doğru	gözüküyor	olması	gerekiyor	.
+bu	yüzden	bu	işe	bir	miktar	_UNK_	bilgi	kattık	ve	olabildiğince	gerçekçi	yapmaya	çalıştık	.
+burada	ekranda	gördüğünüz	vücudun	çok	sade	bir	sanal	görüntüsü	.
+söylemeliyim	ki	,	saç	,	kıyafet	ve	benzeri	şeyleri	eklemek	çok	kolay	ama	bizim	burada	yaptığımız	hareketlere	odaklanabilmek	için	çok	sade	bir	görüntü	üzerinde	çalışmak	.
+birazdan	,	bu	karakteri	çok	azıcık	iteceğim	ve	ne	olduğunu	hep	birlikte	göreceğiz	.
+aslında	,	ilginç	bir	şey	değil	.
+yere	düşüyor	ama	bir	bez	bebek	gibi	düşüyor	.
+bunun	sebebi	de	onun	herhangi	bir	zekaya	sahip	olmaması	.
+ona	yapay	zeka	eklediğinizde	olay	daha	ilginç	bir	hale	geliyor	.
+şimdi	bu	karakter	vücudunun	üst	kısımlarında	motor	becerilere	sahip	.	bu	örnekte	,	bacaklarda	yok	.
+ama	ne	yapıyor	--	şimdi	onu	tekrar	iteceğim	.
+kendiliğinden	itildiğini	fark	edecek	.
+ellerini	_UNK_	.
+_UNK_	yöne	doğru	dönecek	ve	kendini	durdurmaya	çalışacak	.
+i̇şte	bu	şekilde	.
+yapay	zekayı	vücudunun	alt	kısımlarına	da	eklediğinizde	işler	ilginçleşmeye	başlıyor	.
+burada	aynı	_UNK_	var	.
+şimdi	biraz	daha	hızlı	iteceğim	,	chris'i	_UNK_	daha	hızlı	.
+_UNK_	bir	darbe	aldığını	göreceksiniz	.
+geriye	doğru	adım	atıyor	--	dengesini	yeniden	sağlamaya	çalışıyor	,	düşeceğini	düşündüğü	yere	bakmaya	çalışıyor	.
+bunu	tekrar	göstereceğim	.
+ve	sonunda	zemine	düşüyor	.
+bu	karakteri	şimdi	benim	yaptığım	gibi	farklı	açılardan	_UNK_	gerçekten	eğlenceli	olmaya	başlıyor	.
+bu	şu	anda	yapabileceğiniz	bir	şey	değil	.
+şu	anda	oyunlarda	sadece	boş	bilgisayar	grafikleri	var	.
+buradaki	şey	ise	gerçek	bir	canlandırma	.	size	göstermek	istediğim	bu	.
+burada	yine	az	_UNK_	gösterdiğim	özelliklere	sahip	aynı	karakter	var	,	ama	bu	sefer	onu	farklı	bir	yönden	iteceğim	.
+önce	sağdan	iterek	başlıyorum	.
+bu	arada	bunlar	ne	olduğunu	görebilelim	diye	yavaşlatılmış	çekimler	.
+şimdi	görüntü	açısı	biraz	değişti	verdiği	tepkiyi	tam	olarak	görebilmeniz	için	.
+tekrar	bir	darbe	,	bu	sefer	önden	.
+ve	farklı	bir	şekilde	düştüğünü	görüyorsunuz	.
+şimdi	de	soldan	.	ve	yine	farklı	düşüyor	.
+bunu	görmek	bizim	için	gerçekten	heyecan	vericiydi	.
+bunu	ilk	kez	görüyorduk	.
+burası	da	bunun	açıkça	gösterildiği	ilk	yer	çünkü	biraz	_UNK_	yapıyorduk	bunu	.
+bunu	henüz	kimseye	göstermedim	.
+şimdi	komik	bir	şey	.	bu	karakteri	eğer	--	bu	tahta	versiyonu	,	ama	aynı	yapay	zekaya	sahip	--	ama	bunu	buz	gibi	kaygan	bir	zemin	üstüne	koyarsak	ne	olur	.
+bunu	sadece	eğlenmek	için	yaptık	,	neler	olduğunu	görmek	için	.
+ve	olan	tam	olarak	bu	.
+bunun	bizim	yaptığımız	şeyle	bir	ilgisi	yok	.
+sadece	az	önce	bahsettiğimiz	karakteri	aldık	,	kaygan	bir	yüzeye	koyduk	ve	ortaya	çıkan	sonuç	budur	.
+ve	de	bu	,	bu	yaklaşım	hakkında	gerçekten	etkileyici	olan	şey	.
+film	_UNK_	ve	oyun	_UNK_	gidip	bu	teknolojiyi	gösterdiğimizde	çok	iyi	karşılık	aldık	.
+ve	bize	aciliyetle	sanal	_UNK_	ihtiyaç	duyduklarını	söylediler	.
+çünkü	dublörlük	çok	tehlikeli	ve	çok	pahalı	ve	birçok	dublör	sahnesi	var	ki	dublörlerin	göz	göre	göre	_UNK_	izin	_UNK_	için	_UNK_	.
+bu	yüzden	de	dublörün	dijital	versiyonunu	istediler	bu	da	geçtiğimiz	birkaç	ay	üzerinde	çalıştığımız	konu	oldu	.
+bu	da	birkaç	hafta	içinde	çıkaracağımız	ilk	ürünümüz	.
+burada	da	az	önce	dövülen	bu	adamın	birkaç	basit	sahnesini	görüyoruz	.
+i̇nsanların	istediği	bu	.	biz	de	onlara	bunu	veriyoruz	.
+gördüğünüz	gibi	,	her	zaman	tepki	veriyor	.
+bu	ölü	bir	beden	değil	.	burada	gördüğümüz	,	gücü	hisseden	ve	kafasını	korumaya	çalışan	bir	vücut	.
+sadece	bence	biraz	fazla	_UNK_	.
+o	karakter	için	üzüntü	hissediyorsunuz	,	bunu	o	kadar	çok	gördük	ki	aslında	artık	_UNK_	.
+bu	arada	,	bundan	daha	kötü	videolarda	var	ama	...
+burada	bir	başkası	.
+i̇nsanların	istediği	bir	şey	de	bir	patlama	,	karaktere	uygulanacak	güçlü	bir	etki	ve	karakterin	buna	havada	tepki	vermesi	.
+güçsüz	gibi	gözüken	bir	karakter	değil	aksine	bir	aksiyon	filminde	kullanabileceğiniz	sertlikte	bir	karakter	aynı	zamanda	havada	canlı	gözükecek	.
+şimdi	bu	karaktere	bir	güç	çarpacak	,	o	havadayken	bunu	fark	edecek	ve	düştüğü	yönde	kollarını	uzatmaya	çalışacak	ve	bunu	_UNK_	.
+bu	bir	açı	,	bu	farklı	bir	açı	.
+bunun	ile	ulaştığımız	_UNK_	filmlerde	kullanmak	için	yeterli	olduğunu	düşünüyoruz	.
+bir	de	biraz	farklı	bir	animasyona	göz	atalım	.
+bunu	şu	anda	bizim	geliştirdiğimiz	yazılımı	kullanan	bir	animasyon	şirketinden	dün	gece	aldım	.
+gördüğünüz	ile	tamamen	aynı	özelliklere	sahip	ama	sadece	biraz	daha	iyi	hale	getirilmiş	versiyonu	.
+eğer	karaktere	dikkatli	bakarsanız	bir	çok	beden	hareketinin	olduğunu	görürsünüz	,	bu	hareketlerden	hiçbirini	eskiden	_UNK_	.
+animatörlerin	bunları	gerçekten	canlandırması	gerekiyordu	.
+burada	ise	hepsi	kendiliğinden	oluyor	.
+bu	biraz	farklı	bir	açı	,	ve	tekrar	yavaş	çekim	versiyonu	.
+bu	inanılmaz	derecede	hızlı	.	gerçek	zaman	süresinde	yaşanıyor	.
+gözlerinizin	önünde	bu	simülasyonu	gerçek	zamanlı	olarak	oynatabilirsiniz	.
+şu	anda	böyle	bir	şeyi	yapmak	herhalde	birkaç	gününüzü	alır	.
+i̇stedikleri	bir	diğer	hareket	de	bu	.
+neden	istediklerinden	pek	emin	değilim	ama	yaptık	yine	de	.
+kullanılan	tekniğin	gücünü	gösteren	basit	bir	hareket	.
+burada	karakterin	elleri	boşlukta	sabit	bir	noktaya	tutunmuş	ve	karakter	orada	_UNK_	_UNK_	.
+canlı	ve	gerçekçi	gözüküyor	.
+o	adam	için	_UNK_	.
+bu	daha	da	kötüsü	--	dün	gece	bana	gelen	diğer	bir	video	--	biraz	daha	gerçekçi	hale	getirirseniz	.
+bunu	şimdi	size	ne	kadar	gerçekçi	ve	canlı	_UNK_	hissettirmek	için	_UNK_	.
+ve	bu	vücuttaki	sanal	kasların	çalışması	için	yapay	zekanın	kullanıldığı	fiziksel	bir	simülasyon	.
+ek	olarak	biraz	da	gülmek	için	biraz	daha	karmaşık	bir	dublör	sahnesi	yarattık	,	en	ünlü	dublör	sahnelerinden	biri	james	_UNK_	bir	barajdan	aşağıya	atlayıp	daha	sonra	bungee	tarafından	_UNK_	.
+burada	kısa	bir	klip	var	.
+evet	burada	görebilirsiniz	.
+burada	gerçek	dublör	kullanıyorlar	çok	tehlikeli	bir	sahne	.
+sanırım	sunday	times	tarafından	en	etkileyici	dublör	sahnesi	seçildi	.
+bu	karaktere	baktık	ve	kendimize	şu	soruyu	sorduk	,	``	biz	de	bunu	yapabilir	miyiz	?
+bu	karakterin	fiziksel	simülasyonunu	yapabilir	miyiz	,	yapay	zeka	kullanarak	,	karaktere	yapay	zekayı	ekleyerek	,	sanal	kaslarını	çalıştırarak	,	barajdan	aşağı	atlayışını	canlandırarak	,	daha	sonra	hava	dalışını	,	ve	bir	bungee	tarafından	_UNK_	?
+yaptık	.	i̇ki	saatimizi	aldı	bu	simülasyonu	yaratmak	.
+ve	işte	böyle	bir	şey	ortaya	çıktı	.
+daha	üstünde	çalışılması	gerekiyor	.	bu	ilk	safhaları	ve	bunu	gerçekten	eğlence	için	yaptık	,	ne	yapabildiğimizi	görmek	için	.
+geçtiğimiz	birkaç	ayda	bulduğumuz	şey	bu	tekniğin	son	derece	güçlü	olduğu	.
+bu	_UNK_	elde	_UNK_	biz	bile	şaşırdık	.
+sıklıkla	daha	önceden	_UNK_	birçok	şeye	rastlıyoruz	.
+bununla	şu	anda	yapabileceğimiz	birçok	şey	var	.
+dediğim	gibi	,	ilk	şey	sanal	dublör	olacak	.
+birkaç	stüdyo	sanal	dublörler	yaratmak	için	bu	yazılımı	kullanıyor	şu	anda	,	ve	yakında	bunları	önemli	_UNK_	perdede	göreceksiniz	.
+i̇kincisi	ise	video	oyunları	.
+bu	teknoloji	ile	video	oyunları	farklı	gözükecek	ve	çok	farklı	_UNK_	.
+i̇lk	kez	son	derece	interaktif	olarak	hisseden	aktörlere	ve	gerçekten	tepki	veren	gerçek	_UNK_	sahip	olacaksınız	.
+bence	bu	çok	heyecan	verici	olacak	.
+büyük	ihtimalle	gittikçe	interaktif	bir	hale	gelen	spor	oyunları	ile	başlayacak	.
+ama	şahsen	bu	teknolojinin	online	dünyada	kullanılacak	olması	beni	heyecanlandırıyor	,	tom	_UNK_	bize	gösterdiği	gibi	.
+i̇leride	oyunlardan	alacağınız	_UNK_	derecesi	bugüne	kıyasla	çok	daha	farklı	olacak	bence	.
+aradığımız	ve	ilgilendiğimiz	üçüncü	şey	de	simülasyon	.
+birkaç	simülasyon	şirketi	bizle	iletişim	kurdu	,	ama	aralarında	gelecek	ay	başlayacağımız	bir	proje	bizi	çok	heyecanlandırdı	,	bu	da	teknolojimizin	,	beyin	felci	geçirmiş	çocukların	_UNK_	yardım	etmek	ve	çocuklar	üzerindeki	ameliyatların	sonuçlarının	ne	olacağının	tahmininde	kullanılması	için	.
+bildiğiniz	gibi	,	bir	operasyonun	_UNK_	ne	olacağını	öngörmek	ve	çocuğun	yürüyüş	şeklini	düzeltmeye	çalışmak	oldukça	zor	.
+klasik	söylenen	söz	,	sanırım	,	olsa	olsa	tahmin	edilemezdir	,	şu	anda	insanların	sonuç	için	düşündüğü	budur	.
+bu	yazılım	ile	yapmak	istediğimiz	_UNK_	bir	alet	tedarik	etmek	.
+bir	çocuğun	hareket	tarzını	_UNK_	ve	ameliyat	da	o	simülasyon	üzerinden	ilerleyecek	ve	gerçekten	bir	operasyona	_UNK_	önce	yürüyüş	şeklini	geliştirmek	için	farklı	yollar	denenecek	.
+bu	duyduğumuzda	bizi	çok	heyecanlandıran	bir	proje	idi	ve	önümüzdeki	ay	başlıyoruz	.
+bu	sadece	başlangıç
+şu	an	birkaç	farklı	konuda	çalışıyoruz	.
+yapay	zeka	,	tam	bir	insan	vücudunu	canlandırmak	için	yeteri	kadar	iyi	değil	.
+vücut	için	yeterli	ama	tüm	motor	becerilerimiz	için	değil	.
+bence	,	eğer	bir	_UNK_	_UNK_	oraya	vardık	diyebiliriz	.
+şu	an	ona	sahip	değiliz	ama	eminim	ki	ilerleyen	safhalarda	ona	da	ulaşacağız	.
+size	son	olarak	göstermek	istediğim	şey	,	kazara	sahip	olduğumuz	_UNK_	.
+bu	yaratılan	ve	geliştirilen	bir	yapay	zeka	çizgisi	--	yarı	geliştirilmiş	aslında	--	dengeyi	geliştirebilmek	için	yapıldı	.
+bu	şekli	tekmeliyoruz	ve	onun	da	dengesini	korumaya	çalışıyor	olması	gerekiyor	.
+sonunda	ortaya	çıkacağını	sandığımız	düşünce	buydu	.
+ama	sonunda	ortaya	çıkan	bu	oldu	.
+enteresan	olarak	bu	şeyin	kafası	yok	,	neden	olduğunu	ben	de	bilmiyorum	.
+bu	bizim	oraya	yerleştirdiğimiz	bir	şey	değildi	.
+o	bu	dansı	kendiliğinden	yaratmaya	başladı	.
+söylemem	gerekir	ki	,	benden	çok	daha	iyi	bir	dansçı	.
+bir	süre	sonra	gördüğünüz	ise	--	bence	_UNK_	zirve	yapıyor	.
+i̇şte	burada	.
+bunların	hepsi	kendiliğinden	oldu	.	biz	bir	şey	_UNK_	.
+burada	sadece	_UNK_	kendi	yarattığı	şeyleri	görüyorsunuz	.
+yani	--	teşekkürler	.
+tam	olarak	john	_UNK_	değil	henüz	ama	üzerinde	çalışıyoruz	,	ayırdığınız	zaman	için	teşekkür	ederim	.
+teşekkürler
+chris	anderson	:	muazzam	.	bu	gerçekten	müthişti	.
+torsten	reil	:	teşekkürler	.
+

@@ -1,0 +1,196 @@
+so_en i_en think_en data_en can_en actually_en make_en us_en more_en human_en ._en
+we_en 're_en collecting_en and_en creating_en all_en kinds_en of_en data_en about_en how_en we_en 're_en living_en our_en lives_en ,_en and_en it_en 's_en enabling_en us_en to_en tell_en some_en amazing_en stories_en ._en
+recently_en ,_en a_en wise_en media_en theorist_en tweeted_en ,_en "_en the_en 19th_en century_en culture_en was_en defined_en by_en the_en novel_en ,_en the_en 20th_en century_en culture_en was_en defined_en by_en the_en cinema_en ,_en and_en the_en culture_en of_en the_en 21st_en century_en will_en be_en defined_en by_en the_en interface_en ._en "_en
+and_en i_en believe_en this_en is_en going_en to_en prove_en true_en ._en
+our_en lives_en are_en being_en driven_en by_en data_en ,_en and_en the_en presentation_en of_en that_en data_en is_en an_en opportunity_en for_en us_en to_en make_en some_en amazing_en interfaces_en that_en tell_en great_en stories_en ._en
+so_en i_en 'm_en going_en to_en show_en you_en a_en few_en of_en the_en projects_en that_en i_en 've_en been_en working_en on_en over_en the_en last_en couple_en years_en that_en reflect_en on_en our_en lives_en and_en our_en systems_en ._en
+this_en is_en a_en project_en called_en flight_en patterns_en ._en
+what_en you_en 're_en looking_en at_en is_en airplane_en traffic_en over_en north_en america_en for_en a_en 24_en -_en hour_en period_en ._en
+as_en you_en see_en ,_en everything_en starts_en to_en fade_en to_en black_en ,_en and_en you_en see_en people_en going_en to_en sleep_en ._en
+followed_en by_en that_en ,_en you_en see_en on_en the_en west_en coast_en planes_en moving_en across_en ,_en the_en red_en -_en eye_en flights_en to_en the_en east_en coast_en ._en
+and_en you_en 'll_en see_en everybody_en waking_en up_en on_en the_en east_en coast_en ,_en followed_en by_en european_en flights_en coming_en in_en the_en upper_en right_en -_en hand_en corner_en ._en
+everybody_en 's_en moving_en from_en the_en east_en coast_en to_en the_en west_en coast_en ._en
+you_en see_en san_en francisco_en and_en los_en angeles_en start_en to_en make_en their_en journeys_en down_en to_en hawaii_en in_en the_en lower_en left_en -_en hand_en corner_en ._en
+i_en think_en it_en 's_en one_en thing_en to_en say_en there_en 's_en 140,000_en planes_en being_en monitored_en by_en the_en federal_en government_en at_en any_en one_en time_en ,_en and_en it_en 's_en another_en thing_en to_en see_en that_en system_en as_en it_en ebbs_en and_en flows_en ._en
+this_en is_en a_en time_en -_en lapse_en image_en of_en that_en exact_en same_en data_en ,_en but_en i_en 've_en color_en -_en coded_en it_en by_en type_en ,_en so_en you_en can_en see_en the_en diversity_en of_en aircraft_en that_en are_en in_en the_en skies_en above_en us_en ._en
+and_en i_en started_en making_en these_en ,_en and_en i_en put_en them_en into_en google_en maps_en and_en allow_en you_en to_en zoom_en in_en and_en see_en individual_en airports_en and_en the_en patterns_en that_en are_en occurring_en there_en ._en
+so_en here_en we_en can_en see_en the_en white_en represents_en low_en altitudes_en ,_en and_en the_en blue_en are_en higher_en altitudes_en ._en
+and_en you_en can_en zoom_en in_en ._en this_en is_en taking_en a_en look_en at_en atlanta_en ._en
+you_en can_en see_en this_en is_en a_en major_en shipping_en airport_en ,_en and_en there_en 's_en all_en kinds_en of_en activity_en there_en ._en
+you_en can_en also_en toggle_en between_en altitude_en for_en model_en and_en manufacturer_en ._en
+see_en again_en ,_en the_en diversity_en ._en
+and_en you_en can_en scroll_en around_en and_en see_en some_en of_en the_en different_en airports_en and_en the_en different_en patterns_en that_en they_en have_en ._en
+this_en is_en scrolling_en up_en the_en east_en coast_en ._en
+you_en can_en see_en some_en of_en the_en chaos_en that_en 's_en happening_en in_en new_en york_en with_en the_en air_en traffic_en controllers_en having_en to_en deal_en with_en all_en those_en major_en airports_en next_en to_en each_en other_en ._en
+so_en zooming_en back_en out_en real_en quick_en ,_en we_en see_en ,_en again_en ,_en the_en u.s._en --_en you_en get_en florida_en down_en in_en the_en right_en -_en hand_en corner_en ._en
+moving_en across_en to_en the_en west_en coast_en ,_en you_en see_en san_en francisco_en and_en los_en angeles_en --_en big_en low_en -_en traffic_en zones_en across_en nevada_en and_en arizona_en ._en
+and_en that_en 's_en us_en down_en there_en in_en l.a._en and_en long_en beach_en on_en the_en bottom_en ._en
+i_en started_en taking_en a_en look_en as_en well_en at_en different_en perimeters_en ,_en because_en you_en can_en choose_en what_en you_en want_en to_en pull_en out_en from_en the_en data_en ._en
+this_en is_en looking_en at_en ascending_en versus_en descending_en flights_en ._en
+and_en you_en can_en see_en ,_en over_en time_en ,_en the_en ways_en the_en airports_en change_en ._en
+you_en see_en the_en holding_en patterns_en that_en start_en to_en develop_en in_en the_en bottom_en of_en the_en screen_en ._en
+and_en you_en can_en see_en ,_en eventually_en the_en airport_en actually_en flips_en directions_en ._en
+so_en this_en is_en another_en project_en that_en i_en worked_en on_en with_en the_en sensible_en cities_en lab_en at_en mit_en ._en
+this_en is_en visualizing_en international_en communications_en ._en
+so_en it_en 's_en how_en new_en york_en communicates_en with_en other_en international_en cities_en ._en
+and_en we_en set_en this_en up_en as_en a_en live_en globe_en in_en the_en museum_en of_en modern_en art_en in_en new_en york_en for_en the_en design_en the_en elastic_en mind_en exhibition_en ._en
+and_en it_en had_en a_en live_en feed_en with_en a_en 24_en -_en hour_en offset_en ,_en so_en you_en could_en see_en the_en changing_en relationship_en and_en some_en demographic_en info_en coming_en through_en at&t_en 's_en data_en and_en revealing_en itself_en ._en
+this_en is_en another_en project_en i_en worked_en on_en with_en sensible_en cities_en lab_en and_en currentcity.org_en ._en
+and_en it_en 's_en visualizing_en sms_en messages_en being_en sent_en in_en the_en city_en of_en amsterdam_en ._en
+so_en you_en 're_en seeing_en the_en daily_en ebb_en and_en flow_en of_en people_en sending_en sms_en messages_en from_en different_en parts_en of_en the_en city_en ,_en until_en we_en approach_en new_en year_en 's_en eve_en ,_en where_en everybody_en says_en ,_en "_en happy_en new_en year_en !_en "_en
+so_en this_en is_en an_en interactive_en tool_en that_en you_en can_en move_en around_en and_en see_en different_en parts_en of_en the_en city_en ._en
+this_en is_en looking_en at_en another_en event_en ._en this_en is_en called_en queen_en 's_en day_en ._en
+so_en again_en ,_en you_en get_en this_en daily_en ebb_en and_en flow_en of_en people_en sending_en sms_en messages_en from_en different_en parts_en of_en the_en city_en ._en
+and_en then_en you_en 're_en going_en to_en see_en people_en start_en to_en gather_en in_en the_en center_en of_en the_en city_en to_en celebrate_en the_en night_en before_en ,_en which_en happens_en right_en here_en ._en
+and_en then_en you_en can_en see_en people_en celebrating_en the_en next_en day_en ._en
+and_en you_en can_en pause_en it_en and_en step_en back_en and_en forth_en and_en see_en different_en phases_en ._en
+so_en now_en on_en to_en something_en completely_en different_en ._en
+some_en of_en you_en may_en recognize_en this_en ._en
+this_en is_en baron_en wolfgang_en von_en kempelen_en 's_en mechanical_en chess_en playing_en machine_en ._en
+and_en it_en 's_en this_en amazing_en robot_en that_en plays_en chess_en extremely_en well_en ,_en except_en for_en one_en thing_en :_en it_en 's_en not_en a_en robot_en at_en all_en ._en
+there_en 's_en actually_en a_en legless_en man_en that_en sits_en in_en that_en box_en and_en controls_en this_en chess_en player_en ._en
+this_en was_en the_en inspiration_en for_en a_en web_en service_en by_en amazon_en called_en the_en mechanical_en turk_en --_en named_en after_en this_en guy_en ._en
+and_en it_en 's_en based_en on_en the_en premise_en that_en there_en are_en certain_en things_en that_en are_en easy_en for_en people_en ,_en but_en really_en difficult_en for_en computers_en ._en
+so_en they_en made_en this_en web_en service_en and_en said_en ,_en "_en any_en programmer_en can_en write_en a_en piece_en of_en software_en and_en tap_en into_en the_en minds_en of_en thousands_en of_en people_en ._en "_en
+the_en nerdy_en side_en of_en me_en thought_en ,_en "_en wow_en ,_en this_en is_en amazing_en ._en
+i_en can_en tap_en into_en thousands_en of_en people_en 's_en minds_en ._en "_en
+and_en the_en other_en nerdy_en side_en of_en me_en thought_en ,_en "_en this_en is_en horrible_en ._en this_en is_en completely_en bizarre_en ._en
+what_en does_en this_en mean_en for_en the_en future_en of_en mankind_en ,_en where_en we_en 're_en all_en plugged_en into_en this_en borg_en ?_en "_en
+i_en was_en probably_en being_en a_en little_en extreme_en ._en
+but_en what_en does_en this_en mean_en when_en we_en have_en no_en context_en for_en what_en it_en is_en that_en we_en 're_en working_en on_en ,_en and_en we_en 're_en just_en doing_en these_en little_en labors_en ?_en
+so_en i_en created_en this_en drawing_en tool_en ._en
+i_en asked_en people_en to_en draw_en a_en sheep_en facing_en to_en the_en left_en ._en
+and_en i_en said_en ,_en "_en i_en 'll_en pay_en you_en two_en cents_en for_en your_en contribution_en ._en "_en
+and_en i_en started_en collecting_en sheep_en ._en
+and_en i_en collected_en a_en lot_en ,_en a_en lot_en of_en different_en sheep_en ._en
+lots_en of_en sheep_en ._en
+i_en took_en the_en first_en 10,000_en sheep_en that_en i_en collected_en ,_en and_en i_en put_en them_en on_en a_en website_en called_en thesheepmarket.com_en where_en you_en can_en actually_en buy_en collections_en of_en 20_en sheep_en ._en
+you_en ca_en n't_en pick_en individual_en sheep_en ,_en but_en you_en can_en buy_en a_en single_en plate_en block_en of_en stamps_en as_en a_en commodity_en ._en
+and_en juxtaposed_en against_en this_en grid_en ,_en you_en see_en actually_en ,_en by_en rolling_en over_en each_en individual_en one_en ,_en the_en humanity_en behind_en this_en hugely_en mechanical_en process_en ._en
+i_en think_en there_en 's_en something_en really_en interesting_en to_en watching_en people_en as_en they_en go_en through_en this_en creative_en toil_en --_en something_en we_en can_en all_en relate_en to_en ,_en this_en creative_en process_en of_en trying_en to_en come_en up_en with_en something_en from_en nothing_en ._en
+i_en think_en it_en was_en really_en interesting_en to_en juxtapose_en this_en humanity_en versus_en this_en massive_en distributed_en grid_en ._en
+kind_en of_en amazing_en what_en some_en people_en did_en ._en
+so_en here_en 's_en a_en few_en statistics_en from_en the_en project_en ._en
+approximate_en collection_en rate_en of_en 11_en sheep_en per_en hour_en ,_en which_en would_en make_en a_en working_en wage_en of_en 69_en cents_en per_en hour_en ._en
+there_en were_en 662_en rejected_en sheep_en that_en did_en n't_en meet_en "_en sheep_en -_en like_en "_en criteria_en and_en were_en thrown_en out_en of_en the_en flock_en ._en
+the_en amount_en of_en time_en spent_en drawing_en ranged_en from_en four_en seconds_en to_en 46_en minutes_en ._en
+that_en gives_en you_en an_en idea_en of_en the_en different_en types_en of_en motivations_en and_en dedication_en ._en
+and_en there_en were_en 7,599_en people_en that_en contributed_en to_en the_en project_en ,_en or_en were_en unique_en ip_en addresses_en --_en so_en about_en how_en many_en people_en contributed_en ._en
+but_en only_en one_en of_en them_en out_en of_en the_en 7,599_en said_en this_en ._en
+which_en i_en was_en pretty_en surprised_en by_en ._en
+i_en expected_en people_en to_en be_en wondering_en ,_en "_en why_en did_en i_en draw_en a_en sheep_en ?_en "_en
+and_en i_en think_en it_en 's_en a_en pretty_en valid_en question_en ._en
+and_en there_en 's_en a_en lot_en of_en reasons_en why_en i_en chose_en sheep_en ._en
+sheep_en were_en the_en first_en animal_en to_en be_en raised_en from_en mechanically_en processed_en byproducts_en ,_en the_en first_en to_en be_en selectively_en bred_en for_en production_en traits_en ,_en the_en first_en animal_en to_en be_en cloned_en ._en
+obviously_en ,_en we_en think_en of_en sheep_en as_en followers_en ._en
+and_en there_en 's_en this_en reference_en to_en "_en le_en petit_en prince_en "_en where_en the_en narrator_en asks_en the_en prince_en to_en draw_en a_en sheep_en ._en
+he_en draws_en sheep_en after_en sheep_en ._en
+the_en narrator_en 's_en only_en appeased_en when_en he_en draws_en a_en box_en ._en
+and_en he_en says_en ,_en "_en it_en 's_en not_en about_en a_en scientific_en rendering_en of_en a_en sheep_en ._en
+it_en 's_en about_en your_en own_en interpretation_en and_en doing_en something_en different_en ._en "_en
+and_en i_en like_en that_en ._en
+so_en this_en is_en a_en clip_en from_en charlie_en chaplin_en 's_en "_en modern_en times_en ._en "_en
+it_en 's_en showing_en charlie_en chaplin_en dealing_en with_en some_en of_en the_en major_en changes_en during_en the_en industrial_en revolution_en ._en
+so_en there_en were_en no_en longer_en shoe_en makers_en ,_en but_en now_en there_en are_en people_en slapping_en soles_en on_en people_en 's_en shoes_en ._en
+and_en the_en whole_en idea_en of_en one_en 's_en relationship_en to_en their_en work_en changed_en a_en lot_en ._en
+so_en i_en thought_en this_en was_en an_en interesting_en clip_en to_en divide_en into_en 16_en pieces_en and_en feed_en into_en the_en mechanical_en turk_en with_en a_en drawing_en tool_en ._en
+this_en basically_en allowed_en --_en what_en you_en see_en on_en the_en left_en side_en is_en the_en original_en frame_en ,_en and_en on_en the_en right_en side_en you_en see_en that_en frame_en as_en interpreted_en by_en 16_en people_en who_en have_en no_en idea_en what_en it_en is_en they_en 're_en doing_en ._en
+and_en this_en was_en the_en inspiration_en for_en a_en project_en that_en i_en worked_en on_en with_en my_en friend_en takashi_en kawashima_en ._en
+we_en decided_en to_en use_en the_en mechanical_en turk_en for_en exactly_en what_en it_en was_en meant_en for_en ,_en which_en is_en making_en money_en ._en
+so_en we_en took_en a_en hundred_en dollar_en bill_en and_en divided_en it_en into_en 10,000_en teeny_en pieces_en ,_en and_en we_en fed_en those_en into_en the_en mechanical_en turk_en ._en
+we_en asked_en people_en to_en draw_en what_en it_en was_en that_en they_en saw_en ._en
+but_en here_en there_en was_en no_en sheep_en -_en like_en criteria_en ._en
+people_en ,_en if_en they_en drew_en a_en stick_en figure_en or_en a_en smiley_en face_en ,_en it_en actually_en made_en it_en into_en the_en bill_en ._en
+so_en what_en you_en see_en is_en actually_en a_en representation_en of_en how_en well_en people_en did_en what_en it_en was_en they_en were_en asked_en to_en do_en ._en
+so_en we_en took_en these_en hundred_en dollar_en bills_en ,_en and_en we_en put_en them_en on_en a_en website_en called_en tenthousandscents.com_en ,_en where_en you_en can_en browse_en through_en and_en see_en all_en the_en individual_en contributions_en ._en
+and_en you_en can_en also_en trade_en real_en hundred_en -_en dollar_en bills_en for_en fake_en hundred_en -_en dollar_en bills_en and_en make_en a_en donation_en to_en the_en hundred_en dollar_en laptop_en project_en ,_en which_en is_en now_en known_en as_en one_en laptop_en per_en child_en ._en
+this_en is_en again_en showing_en all_en the_en different_en contributions_en ._en
+you_en see_en some_en people_en did_en beautiful_en stipple_en renderings_en ,_en like_en this_en one_en on_en top_en --_en spent_en a_en long_en time_en making_en realistic_en versions_en ._en
+and_en other_en people_en would_en draw_en stick_en figures_en or_en smiley_en faces_en ._en
+here_en on_en the_en right_en -_en hand_en side_en in_en the_en middle_en you_en see_en this_en one_en guy_en writing_en ,_en "_en $_en 0.01_en !!!_en really_en ?_en "_en
+that_en 's_en all_en i_en 'm_en getting_en paid_en for_en this_en ?_en
+so_en the_en last_en mechanical_en turk_en project_en i_en 'm_en going_en to_en talk_en to_en you_en about_en is_en called_en bicycle_en built_en for_en 2000_en ._en
+this_en is_en a_en collaboration_en with_en my_en friend_en daniel_en massey_en ._en
+you_en may_en recognize_en these_en two_en guys_en ._en
+this_en is_en max_en mathews_en and_en john_en kelly_en from_en bell_en labs_en in_en the_en '60s_en ,_en where_en they_en created_en the_en song_en "_en daisy_en bell_en ,_en "_en which_en was_en the_en world_en 's_en first_en singing_en computer_en ._en
+you_en may_en recognize_en it_en from_en "_en 2001_en :_en a_en space_en odyssey_en ._en "_en
+when_en hal_en 's_en dying_en at_en the_en end_en of_en the_en film_en he_en starts_en singing_en this_en song_en ,_en as_en a_en reference_en to_en when_en computers_en became_en human_en ._en
+so_en we_en resynthesized_en this_en song_en ._en
+this_en is_en what_en that_en sounded_en like_en ._en
+we_en broke_en down_en all_en the_en individual_en notes_en in_en the_en singing_en as_en well_en as_en the_en phonemes_en in_en the_en singing_en ._en
+daisy_en bell_en :_en ♫_en daisy_en ,_en daisy_en ..._en ♫_en aaron_en koblin_en :_en and_en we_en took_en all_en of_en those_en individual_en pieces_en ,_en and_en we_en fed_en them_en into_en another_en turk_en request_en ._en
+this_en is_en what_en it_en would_en look_en like_en if_en you_en went_en to_en the_en site_en ._en
+you_en type_en in_en your_en code_en ,_en but_en you_en first_en test_en your_en mic_en ._en
+you_en 'd_en be_en fed_en a_en simple_en audio_en clip_en ._en
+and_en then_en you_en 'd_en do_en your_en best_en to_en recreate_en that_en with_en your_en own_en voice_en ._en
+after_en previewing_en it_en and_en confirming_en it_en 's_en what_en you_en submitted_en ,_en you_en could_en submit_en it_en into_en the_en mechanical_en turk_en with_en no_en other_en context_en ._en
+and_en this_en is_en what_en we_en first_en got_en back_en from_en the_en very_en first_en set_en of_en submissions_en ._en
+recording_en :_en ♫_en daisy_en ,_en daisy_en ♫_en ♫_en give_en me_en your_en answer_en do_en ♫_en ♫_en i_en 'm_en half_en crazy_en ♫_en ♫_en all_en for_en the_en love_en of_en you_en ♫_en ♫_en it_en ca_en n't_en be_en a_en stylish_en marriage_en ♫_en ♫_en i_en ca_en n't_en afford_en a_en carriage_en ♫_en ♫_en but_en you_en 'll_en look_en sweet_en upon_en the_en seat_en ♫_en ♫_en of_en a_en bicycle_en built_en for_en two_en ♫_en ak_en :_en so_en james_en surowieki_en has_en this_en idea_en of_en the_en wisdom_en of_en crowds_en ,_en that_en says_en that_en a_en whole_en bunch_en of_en people_en are_en smarter_en than_en any_en individual_en ._en
+we_en wanted_en to_en see_en how_en this_en applies_en to_en collaborative_en ,_en distributed_en music_en making_en ,_en where_en nobody_en has_en any_en idea_en what_en it_en is_en they_en 're_en working_en on_en ._en
+so_en if_en you_en go_en to_en the_en bicyclebuiltfortwothousand.com_en you_en can_en actually_en hear_en what_en all_en this_en sounds_en like_en together_en ._en
+i_en 'm_en sorry_en for_en this_en ._en
+chorus_en :_en ♫_en daisy_en ,_en daisy_en ♫_en ♫_en give_en me_en your_en answer_en do_en ♫_en ♫_en i_en 'm_en half_en crazy_en ♫_en ♫_en all_en for_en the_en love_en of_en you_en ♫_en ♫_en it_en ca_en n't_en be_en a_en stylish_en marriage_en ♫_en ♫_en i_en ca_en n't_en afford_en a_en carriage_en ♫_en ♫_en but_en you_en 'd_en look_en sweet_en upon_en the_en seat_en ♫_en ♫_en of_en a_en bicycle_en built_en for_en two_en ♫_en ak_en :_en so_en stepping_en back_en for_en a_en quick_en second_en ,_en when_en i_en was_en at_en ucla_en going_en to_en grad_en school_en ,_en i_en was_en also_en working_en at_en a_en place_en called_en the_en center_en for_en embedded_en network_en sensing_en ._en
+and_en i_en was_en writing_en software_en to_en visualize_en laser_en scanners_en ._en
+so_en basically_en motion_en through_en 3d_en space_en ._en
+and_en this_en was_en seen_en by_en a_en director_en in_en l.a._en named_en james_en frost_en who_en said_en ,_en "_en wait_en a_en minute_en ._en
+you_en mean_en we_en can_en shoot_en a_en music_en video_en without_en actually_en using_en any_en video_en ?_en "_en
+so_en we_en did_en exactly_en that_en ._en
+we_en made_en a_en music_en video_en for_en one_en of_en my_en favorite_en bands_en ,_en radiohead_en ._en
+and_en i_en think_en one_en of_en my_en favorite_en parts_en of_en this_en project_en was_en not_en just_en shooting_en a_en video_en with_en lasers_en ,_en but_en we_en also_en open_en sourced_en it_en ,_en and_en we_en made_en it_en released_en as_en a_en google_en code_en project_en ,_en where_en people_en could_en download_en a_en bunch_en of_en the_en data_en and_en some_en source_en code_en to_en build_en their_en own_en versions_en of_en it_en ._en
+and_en people_en were_en making_en some_en amazing_en things_en ._en
+this_en is_en actually_en two_en of_en my_en favorites_en :_en the_en pin_en -_en board_en thom_en yorke_en and_en a_en lego_en thom_en yorke_en ._en
+a_en whole_en youtube_en channel_en of_en people_en submitting_en really_en interesting_en content_en ._en
+more_en recently_en ,_en somebody_en even_en 3d_en -_en printed_en thom_en yorke_en 's_en head_en ,_en which_en is_en a_en little_en creepy_en ,_en but_en pretty_en cool_en ._en
+so_en with_en everybody_en making_en so_en much_en amazing_en stuff_en and_en actually_en understanding_en what_en it_en was_en they_en were_en working_en on_en ,_en i_en was_en really_en interested_en in_en trying_en to_en make_en a_en collaborative_en project_en where_en people_en were_en working_en together_en to_en build_en something_en ._en
+and_en i_en met_en a_en music_en video_en director_en named_en chris_en milk_en ._en
+and_en we_en started_en bouncing_en around_en ideas_en to_en make_en a_en collaborative_en music_en video_en project_en ._en
+but_en we_en knew_en we_en really_en needed_en the_en right_en person_en to_en kind_en of_en rally_en behind_en and_en build_en something_en for_en ._en
+so_en we_en put_en the_en idea_en on_en the_en back_en burner_en for_en a_en few_en months_en ._en
+and_en he_en ended_en up_en talking_en to_en rick_en rubin_en ,_en who_en was_en finishing_en up_en johnny_en cash_en 's_en final_en album_en called_en "_en ai_en n't_en no_en grave_en ._en "_en
+the_en lyrics_en to_en the_en leading_en track_en are_en "_en ai_en n't_en no_en grave_en can_en hold_en my_en body_en down_en ._en "_en
+so_en we_en thought_en this_en was_en the_en perfect_en project_en to_en build_en a_en collaborative_en memorial_en and_en a_en virtual_en resurrection_en for_en johnny_en cash_en ._en
+so_en i_en teamed_en up_en with_en my_en good_en friend_en ricardo_en cabello_en ,_en also_en known_en as_en mr._en doob_en ,_en who_en 's_en a_en much_en better_en programmer_en than_en i_en am_en ,_en and_en he_en made_en this_en amazing_en flash_en drawing_en tool_en ._en
+as_en you_en know_en ,_en an_en animation_en is_en a_en series_en of_en images_en ._en
+so_en what_en we_en did_en was_en cross_en -_en cut_en a_en bunch_en of_en archival_en footage_en of_en johnny_en cash_en ,_en and_en at_en eight_en frames_en a_en second_en ,_en we_en allowed_en individuals_en to_en draw_en a_en single_en frame_en that_en would_en get_en woven_en into_en this_en dynamically_en changing_en music_en video_en ._en
+so_en i_en do_en n't_en have_en time_en to_en play_en the_en entire_en thing_en for_en you_en ,_en but_en i_en want_en to_en show_en you_en two_en short_en clips_en ._en
+one_en is_en the_en beginning_en of_en the_en music_en video_en ._en
+and_en that_en 's_en going_en to_en be_en followed_en by_en a_en short_en clip_en of_en people_en who_en have_en already_en contributed_en to_en the_en project_en talking_en about_en it_en briefly_en ._en
+johnny_en cash_en :_en ♫_en there_en ai_en n't_en no_en grave_en ♫_en ♫_en can_en hold_en my_en body_en down_en ♫_en ♫_en there_en ai_en n't_en no_en grave_en ♫_en ♫_en can_en hold_en body_en down_en ♫_en ♫_en when_en i_en hear_en the_en trumpet_en sound_en ♫_en ♫_en i_en 'm_en going_en to_en ride_en right_en out_en of_en the_en ground_en ♫_en ♫_en ai_en n't_en no_en grave_en ♫_en ♫_en can_en hold_en my_en body_en ..._en ♫_en ak_en :_en what_en better_en way_en to_en pay_en tribute_en to_en the_en man_en than_en to_en make_en something_en for_en one_en of_en his_en songs_en ._en
+collaborator_en :_en i_en felt_en really_en sad_en when_en he_en died_en ._en
+and_en i_en just_en thought_en it_en 'd_en be_en wonderful_en ,_en it_en 'd_en be_en really_en nice_en to_en contribute_en something_en to_en his_en memory_en ._en
+collaborator_en two_en :_en it_en really_en allows_en this_en last_en recording_en of_en his_en to_en be_en a_en living_en ,_en breathing_en memorial_en ._en
+collaborator_en three_en :_en for_en all_en of_en the_en frames_en to_en be_en drawn_en by_en fans_en ,_en each_en individual_en frame_en ,_en it_en 's_en got_en a_en very_en powerful_en feeling_en to_en it_en ._en
+collaborator_en four_en :_en i_en 've_en seen_en everybody_en from_en japan_en ,_en venezuela_en ,_en to_en the_en states_en ,_en to_en knoxville_en ,_en tennessee_en ._en
+collaborator_en five_en :_en as_en much_en as_en is_en different_en from_en frame_en to_en frame_en ,_en it_en really_en is_en personal_en ._en
+collaborator_en six_en :_en watching_en the_en video_en in_en my_en room_en ,_en i_en could_en see_en me_en not_en understanding_en at_en the_en beginning_en of_en it_en ._en
+and_en i_en just_en worked_en and_en worked_en through_en problems_en ,_en until_en my_en little_en wee_en battles_en that_en i_en was_en fighting_en within_en the_en picture_en all_en began_en to_en resolve_en themselves_en ._en
+you_en can_en actually_en see_en the_en point_en when_en i_en know_en what_en i_en 'm_en doing_en ,_en and_en a_en lot_en of_en light_en and_en dark_en comes_en into_en it_en ._en
+and_en in_en a_en weird_en way_en ,_en that_en 's_en what_en i_en actually_en like_en about_en johnny_en cash_en 's_en music_en as_en well_en ._en
+it_en 's_en the_en sum_en total_en of_en his_en life_en ,_en all_en the_en things_en that_en had_en happened_en --_en the_en bad_en things_en ,_en the_en good_en things_en ._en
+you_en 're_en hearing_en a_en person_en 's_en life_en ._en
+ak_en :_en so_en if_en you_en go_en to_en the_en website_en johnnycashproject.com_en ,_en what_en you_en 'll_en see_en is_en the_en video_en playing_en above_en ._en
+and_en below_en it_en are_en all_en the_en individual_en frames_en that_en people_en have_en been_en submitting_en to_en the_en project_en ._en
+so_en this_en is_en n't_en finished_en at_en all_en ,_en but_en it_en 's_en an_en ongoing_en project_en where_en people_en can_en continue_en to_en collaborate_en ._en
+if_en you_en roll_en over_en any_en one_en of_en those_en individual_en thumbnails_en ,_en you_en can_en see_en the_en person_en who_en drew_en that_en individual_en thumbnail_en and_en where_en they_en were_en located_en ._en
+and_en if_en you_en find_en one_en that_en you_en 're_en interested_en in_en ,_en you_en can_en actually_en click_en on_en it_en and_en open_en up_en an_en information_en panel_en where_en you_en 're_en able_en to_en rate_en that_en frame_en ,_en which_en helps_en it_en bubble_en up_en to_en the_en top_en ._en
+and_en you_en can_en also_en see_en the_en way_en that_en it_en was_en drawn_en ._en
+again_en ,_en you_en can_en get_en the_en playback_en and_en personal_en contribution_en ._en
+in_en addition_en to_en that_en ,_en it_en 's_en listed_en ,_en the_en artist_en 's_en name_en ,_en the_en location_en ,_en how_en long_en they_en spent_en drawing_en it_en ._en
+and_en you_en can_en pick_en a_en style_en ._en so_en this_en one_en was_en tagged_en "_en abstract_en ._en "_en
+but_en there_en 's_en a_en bunch_en of_en different_en styles_en ._en
+and_en you_en can_en sort_en the_en video_en a_en number_en of_en different_en ways_en ._en
+you_en can_en say_en ,_en "_en i_en want_en to_en see_en the_en pointillist_en version_en or_en the_en sketchy_en version_en or_en the_en realistic_en version_en ._en
+and_en then_en this_en is_en ,_en again_en ,_en the_en abstract_en version_en ,_en which_en ends_en up_en getting_en a_en little_en bit_en crazy_en ._en
+so_en the_en last_en project_en i_en want_en to_en talk_en to_en you_en about_en is_en another_en collaboration_en with_en chris_en milk_en ._en
+and_en this_en is_en called_en "_en the_en wilderness_en downtown_en ._en "_en
+it_en 's_en an_en online_en music_en video_en for_en the_en arcade_en fire_en ._en
+chris_en and_en i_en were_en really_en amazed_en by_en the_en potential_en now_en with_en modern_en web_en browsers_en ,_en where_en you_en have_en html_en 5_en audio_en and_en video_en and_en the_en power_en of_en javascript_en to_en render_en amazingly_en fast_en ._en
+and_en we_en wanted_en to_en push_en the_en idea_en of_en the_en music_en video_en that_en was_en meant_en for_en the_en web_en beyond_en the_en four_en -_en by_en -_en three_en or_en sixteen_en -_en by_en -_en nine_en window_en and_en try_en to_en make_en it_en play_en out_en and_en choreograph_en throughout_en the_en screen_en ._en
+but_en most_en importantly_en ,_en i_en think_en ,_en we_en really_en wanted_en to_en make_en an_en experience_en that_en was_en unlike_en the_en johnny_en cash_en project_en ,_en where_en you_en had_en a_en small_en group_en of_en people_en spending_en a_en lot_en of_en time_en to_en contribute_en something_en for_en everyone_en ._en
+what_en if_en we_en had_en a_en very_en low_en commitment_en ,_en but_en delivered_en something_en individually_en unique_en to_en each_en person_en who_en contributed_en ?_en
+so_en the_en project_en starts_en off_en by_en asking_en you_en to_en enter_en the_en address_en of_en the_en home_en where_en you_en grew_en up_en ._en
+and_en you_en type_en in_en the_en address_en --_en it_en actually_en creates_en a_en music_en video_en specifically_en for_en you_en ,_en pulling_en in_en google_en maps_en and_en streetview_en images_en into_en the_en experience_en itself_en ._en
+so_en this_en should_en really_en be_en seen_en at_en home_en with_en you_en typing_en in_en your_en own_en address_en ,_en but_en i_en 'm_en going_en to_en give_en you_en a_en little_en preview_en of_en what_en you_en can_en expect_en ._en
+win_en butler_en :_en ♫_en now_en our_en lives_en are_en changing_en fast_en ♫_en ♫_en now_en our_en lives_en are_en changing_en fast_en ♫_en ♫_en hope_en that_en something_en pure_en can_en last_en ♫_en ♫_en hope_en that_en something_en pure_en can_en last_en ♫_en ♫_en ooh_en we_en used_en to_en wait_en ♫_en ♫_en ooh_en we_en used_en to_en wait_en ♫_en ♫_en ooh_en we_en used_en to_en wait_en ♫_en ♫_en sometimes_en it_en never_en came_en ♫_en ♫_en sometimes_en it_en never_en came_en ♫_en ♫_en still_en moving_en through_en the_en pain_en ♫_en ♫_en we_en used_en to_en wait_en for_en it_en ♫_en ♫_en we_en used_en to_en wait_en for_en it_en ♫_en ♫_en we_en used_en to_en wait_en for_en it_en ♫_en ak_en :_en so_en i_en think_en ,_en if_en there_en 's_en one_en thing_en to_en take_en away_en from_en my_en talk_en today_en ,_en it_en 's_en that_en an_en interface_en can_en be_en a_en powerful_en narrative_en device_en ._en
+and_en as_en we_en collect_en more_en and_en more_en personally_en and_en socially_en relevant_en data_en ,_en we_en have_en an_en opportunity_en ,_en and_en maybe_en even_en an_en obligation_en ,_en to_en maintain_en the_en humanity_en and_en tell_en some_en amazing_en stories_en as_en we_en explore_en and_en collaborate_en together_en ._en
+thanks_en a_en lot_en ._en

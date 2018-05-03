@@ -1,0 +1,72 @@
+il y a environ un an et demi stephen lawler qui a lui aussi fait une conférence ici à ted en 2007 au sujet de virtual earth m'a fait venir pour devenir l'architecte de bing maps , le projet de cartographie en ligne de microsoft .
+pendant les deux dernières années et demie , nous avons travaillé très dur pour redéfinir la manière dont les cartographies en ligne fonctionnent .
+et nous voyons vraiment ça de façon très différente des sites qui proposent des cartes et des directions et auxquels on est habitués .
+la première chose que vous remarquerez à propos du site de cartographie , est simplement la fluidité du zoom et du défilement , qui , si vous êtes familier avec _UNK_ c'est de là que ça vient .
+créer une carte est , bien sûr , plus que simplement la cartographie , c'est aussi de l'imagerie .
+donc , quand nous zoomons au - delà d'un certain niveau on arrive à une sorte de vue virtuelle à 45 degrés du genre sim city .
+on peut la regarder depuis n'importe lequel des points _UNK_ , pour voir la structure en 3d de la ville et de ses façades .
+maintenant , nous voyons cet espace , cet environnement en 3d comme un canevas sur lequel toutes sortes d'applications peuvent se greffer .
+et les directions en sont juste un exemple .
+si vous cliquez ici , vous verrez quelques unes de celles que l'on vient juste de sortir ces derniers mois , depuis que nous avons lancé ce produit .
+par exemple , quelques jours après la catastrophe en haïti , nous avions une carte du tremblement de terre qui montrait des vues aériennes avant et après .
+cette fantastique application que je n'ai pas le temps de vous montrer incorpore les blogs hyper - locaux en temps réel et joint ces histoires , ces billets aux endroits mentionnés dans les blogs .
+c'est merveilleux .
+mais je vais vous montrer d'autres choses qui sont impressionnantes .
+donc nous voyons les images bien sûr , mais pas seulement les vues aériennes .
+ces petites bulles vertes représentent des photosynths créés par les utilisateurs .
+je ne vais pas entrer dans le détail , mais ces photosynths sont intégrés dans la carte .
+tout ce qui est encadré en bleu représente les zones où nous avons aussi pris des vues terrestres .
+et donc , quand vous vous rapprochez du sol -- merci . quand vous vous rapprochez du sol et que vous voyez cette sorte d'image panoramique , la première chose que vous remarquerez c'est que ce n'est pas seulement une image , il y a autant d'éléments tri - _UNK_ dans cet environement qu'il y en a dans la ville en 3d que nous avons vu du ciel , donc si je clique sur quelque chose pour le voir de plus près , alors la transition peut être rendue comme cela grâce à toute cette géométrie , à toute cette recherche en 3d qui est derrière ce modèle .
+maintenant je vais vous montrer une appli très sympa pour laquelle nous avons collaboré avec nos amis de flickr .
+elle prend les images géo - localisées de flickr et utilise des processus similaires aux photosynths pour connecter ces images aux nôtres , pour -- je ne suis pas sûr que ce soit l'image que je voulais cliquer , mais -- mais regardez -- c'est , bien sûr , un site touristique populaire , et il y a beaucoup de photos de cet endroit , et ces photos ont été prises à différents moments .
+celle - ci à été prise vers 17 heures .
+donc ça c'est la photo de flickr , ça c'est notre imagerie .
+et vous voyez comment ces images venant des utilisateurs s'intègrent presque _UNK_ au coeur de la carte elle - même .
+merci .
+il y a plusieurs raisons pour lesquelles ceci est intéressant et l'une d'elles , bien sûr , est de pouvoir voyager dans le temps .
+et je ne vais pas vous montrer maintenant de superbes images historiques mais il y en a aussi avec des chevaux et des _UNK_ et tout ça .
+mais ce qui est formidable avec ça , c'est que non seulement cela enrichit cette représentation virtuelle du monde avec des éléments qui viennent des utilisateurs , mais c'est aussi la base de la réalité augmentée , et c'est quelque chose que je vais vous montrer dans un instant .
+je viens juste de faire une transition en intérieur . c'est intéressant aussi .
+d'accord , remarquez que maintenant il y a toit au - dessus de nous .
+nous sommes à l'intérieur du marché de pike place .
+et c'est quelque chose que nous somme capables de faire avec un appareil dans un sac à dos .
+donc nous ne prenons pas seulement des images dans la rue , avec cet appareil photo sur le toit de voitures , nous prenons aussi des images à l'intérieur .
+a partir de là nous sommes capables de faire la même sorte d'intégration , non seulement d'images , mais aussi de vidéos .
+et c'est quelque chose que nous allons essayer de faire maintenant pour le première fois , en direct , et ça , ça fait vraiment peur .
+d'accord .
+bien , les gars , vous êtes là ?
+bien . j'appuie dessus . j'appuie sur " lecture " .
+je suis en direct . bien . c'est parti .
+donc , voici nos amis au marché pike place , le labo .
+ils transmettent ça en direct .
+bien , georges , peux - tu reculer et filmer le coin du marché ?
+parce que je veux vous montrer un point d'intérêt .
+non , non , de l'autre côté .
+oui , oui , retourne vers le coin . vers le coin .
+je ne veux pas encore vous voir les gars .
+d'accord , d'accord . retour vers le coin . retour vers le coin , vers le coin .
+d'accord , c'est pas grave .
+ce que je voulais vous montrer c'est ces points d'intérêt là , par dessus l'image , parce que ça vous donne une idée de comment , si vous êtes à cet endroit ....
+vous pouvez voir ça comme -- c'est aller un pas plus loin que la réalité augmentée .
+hey les gars qu'est - ce que vous -- oh , désolé .
+nous faisons deux ...
+d'accord , je _UNK_ maintenant ...
+nous faisons deux choses différentes ici .
+l'une est de prendre cette vraie ...
+d'accord , laissez moi remercier l'équipe .
+ils ont fait un boulot fantastique à faire marcher tout ça .
+je vais les abandonner maintenant et retourner à l'extérieur .
+et pendant que je me dirige vers l'extérieur , je mentionnerai juste que dans le cas présent nous utilisons ça pour la téléprésence , mais vous pouvez aussi l'utiliser immédiatement , pour la réalité augmentée .
+quand vous l'utilisez sur le champ , cela veut dire que vous êtes capable d'accéder à toutes les métadonnées et les informations sur le monde .
+et ici , nous faisons la démarche supplémentaire d'émettre aussi cette information .
+et au fait c'était transmis sur un réseau _UNK_ depuis le marché .
+bien , et maintenant il y a un dernier ted talk que microsoft a fait ces dernières années .
+et c'est curtis wong , le worldwide telescope .
+donc nous allons partir vers les bennes , où il est traditionnel , après une longue journée au marché , d'aller faire une pause , et de regarder le ciel .
+ça c'est l'intégration du worldwide telescope avec nos cartes .
+c'est le temps -- merci -- c'est le temps présent , mais si nous effaçons le temps , alors on peut voir à quoi le ciel ressemblera à différentes heures , et nous pouvons avoir toutes ces informations très détaillées sur des heures différentes , à des dates différentes .
+elevons un peu la lune dans le ciel , peut - être que nous changeons la date .
+je voudrais zoomer un peu sur la lune .
+donc c'est une complète représentation astronomique du ciel intégrée avec la terre .
+bien , maintenant je dépasse mon temps de parole , donc je dois m'arrêter .
+merci beaucoup à tous .

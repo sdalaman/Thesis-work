@@ -1,0 +1,140 @@
+bugün_tr gerçekten_tr de_tr internetten_tr ürünler_tr indirip_tr -_tr internetten_tr ürün_tr verisi_tr demem_tr gerekiyor_tr -_tr belki_tr onun_tr ayarlarıyla_tr oynayıp_tr kendi_tr _UNK__tr veya_tr kendi_tr _UNK__tr göre_tr _UNK__tr bu_tr bilgiyi_tr sizin_tr için_tr o_tr noktada_tr üretecek_tr bir_tr masaüstü_tr makinesine_tr _UNK__tr mümkündür_tr ._tr
+biz_tr gerçekten_tr sizin_tr için_tr çok_tr hızlıca_tr bir_tr fiziksel_tr nesne_tr üretebiliriz_tr ._tr
+ve_tr bunu_tr yapabilmemizin_tr sebebi_tr de_tr şu_tr anda_tr gelişmekte_tr olan_tr ve_tr _UNK__tr imalat_tr veya_tr 3_tr boyutlu_tr baskı_tr dediğimiz_tr teknolojidir_tr ._tr
+bu_tr bir_tr 3d_tr yazıcı_tr ._tr
+bunlar_tr neredeyse_tr 30_tr yıldır_tr etrafta_tr olmalarına_tr rağmen_tr ,_tr ki_tr bunu_tr düşünmek_tr çok_tr hayret_tr verici_tr ,_tr kamusal_tr alanlara_tr daha_tr yeni_tr girmeye_tr başladılar_tr ._tr
+genelde_tr ,_tr ürün_tr datasını_tr alır_tr ,_tr burada_tr kalemin_tr _UNK__tr olduğu_tr gibi_tr ,_tr ki_tr bu_tr da_tr ürünün_tr 3_tr boyutlu_tr halinin_tr geometrik_tr tasarımıdır_tr ,_tr ve_tr biz_tr bu_tr veriyi_tr malzemeyle_tr birlikte_tr bir_tr makineye_tr geçiririz_tr ._tr
+ve_tr bu_tr makinenin_tr içinde_tr olan_tr bir_tr işlem_tr ürünün_tr katman_tr katman_tr üretildiği_tr anlamına_tr gelir_tr ._tr
+ve_tr biz_tr bu_tr somut_tr ürünü_tr oradan_tr kullanıma_tr hazır_tr bir_tr şekilde_tr çıkarır_tr veya_tr belki_tr de_tr başka_tr bir_tr şey_tr ile_tr birleştirebiliriz_tr ._tr
+ama_tr eğer_tr bu_tr makineler_tr yaklaşık_tr 30_tr yıldır_tr _UNK__tr biz_tr neden_tr onları_tr bilmiyoruz_tr :_tr
+çünkü_tr bunlar_tr genelde_tr fazla_tr verimsiz_tr ,_tr ulaşılamaz_tr ,_tr yeteri_tr kadar_tr hızlı_tr değil_tr ve_tr çok_tr pahalıydılar_tr ._tr
+ama_tr bugün_tr ,_tr onların_tr daha_tr başarılı_tr bir_tr hale_tr geldikleri_tr bir_tr gerçektir_tr ._tr
+pek_tr çok_tr engel_tr yıkılıyor_tr ._tr
+bu_tr da_tr demek_tr oluyor_tr ki_tr ,_tr sizler_tr de_tr şu_tr dakika_tr olmasa_tr bile_tr yakında_tr bu_tr makinelerden_tr birine_tr _UNK__tr ._tr
+ve_tr bu_tr üretimin_tr yapısını_tr ve_tr kesinlikle_tr bizim_tr hayatımızı_tr ve_tr işimizi_tr ve_tr de_tr çocuklarımızın_tr hayatını_tr değiştirecek_tr ve_tr bozacak_tr ._tr
+peki_tr bu_tr nasıl_tr çalışıyor_tr ?_tr
+genel_tr olarak_tr bir_tr cad_tr verisi_tr okuyor_tr ,_tr ki_tr bu_tr da_tr profesyonel_tr ürün_tr tasarım_tr programlarında_tr oluşturulan_tr bir_tr ürün_tr tasarım_tr verisidir_tr ._tr
+ve_tr siz_tr burada_tr bir_tr mühendisin_tr --_tr bu_tr bir_tr mimar_tr veya_tr profesyonel_tr ürün_tr tasarımcısı_tr da_tr olabilir_tr --_tr bir_tr ürünü_tr 3_tr boyutlu_tr olarak_tr hazırladığını_tr görebilirsiniz_tr ._tr
+ve_tr bu_tr veriler_tr ,_tr ürünün_tr tamamının_tr iki_tr boyutlu_tr temsil_tr edilebilecek_tr şekilde_tr dilimler_tr haline_tr _UNK__tr bir_tr makineye_tr gönderiliyor_tr -_tr neredeyse_tr bir_tr _UNK__tr _UNK__tr gibi_tr ._tr
+bu_tr veriler_tr ,_tr ürünün_tr temelinden_tr başlayarak_tr ,_tr katman_tr katman_tr ,_tr makineden_tr geçiriliyor_tr ve_tr malzeme_tr de_tr her_tr yeni_tr katmanın_tr eski_tr katmanın_tr üzerini_tr dolduracak_tr şekilde_tr eklenmesi_tr işlemiyle_tr katman_tr üstüne_tr katman_tr olarak_tr yerleştiriliyor_tr ._tr
+bu_tr yerleştirilen_tr malzeme_tr ya_tr sıvı_tr formda_tr ya_tr da_tr ürün_tr pudra_tr formunda_tr başlıyor_tr ._tr
+ve_tr birleştirme_tr işlemi_tr ya_tr eritip_tr yerleştirerek_tr ya_tr da_tr yerleştirip_tr _UNK__tr yapılabilir_tr ._tr
+bu_tr durumda_tr ,_tr eos_tr tarafından_tr geliştirilmiş_tr bir_tr lazer_tr _UNK__tr makinesi_tr görüyoruz_tr ._tr
+bu_tr aslında_tr malzemenin_tr olduğu_tr yeni_tr katmanı_tr lazer_tr kullanarak_tr eski_tr katman_tr ile_tr _UNK__tr ._tr
+ve_tr zaman_tr geçtikçe_tr --_tr aslında_tr oldukça_tr hızlıca_tr ,_tr birkaç_tr saat_tr içinde_tr --_tr makineden_tr çıkarıp_tr kullanıma_tr hazır_tr somut_tr bir_tr ürün_tr yapabiliriz_tr ._tr
+ve_tr bu_tr çok_tr sıradışı_tr bir_tr fikir_tr ,_tr ama_tr bugün_tr bu_tr bir_tr gerçek_tr ._tr
+yani_tr şu_tr anda_tr ekranda_tr ekranda_tr gördüğünüz_tr ürünlerin_tr hepsi_tr aynı_tr bu_tr şekilde_tr yapılmıştı_tr ._tr
+hepsi_tr 3_tr boyutlu_tr basıldı_tr ._tr
+ve_tr görebiliyorsunuz_tr ki_tr ,_tr bunların_tr çeşitleri_tr _UNK__tr paslanmaz_tr çelikten_tr yapılmış_tr _UNK__tr ,_tr plastik_tr telefon_tr _UNK__tr mesela_tr medikal_tr dereceli_tr titanyumdan_tr yapılmış_tr omurilik_tr _UNK__tr ve_tr motor_tr parçalarına_tr kadar_tr değişiyor_tr ._tr
+ama_tr bu_tr ürünlerin_tr hepsiyle_tr ilgili_tr _UNK__tr şey_tr bunların_tr çok_tr ,_tr çok_tr girift_tr olmalarıdır_tr ._tr
+tasarımı_tr oldukça_tr sıradışı_tr ._tr
+datayı_tr 3d_tr formunda_tr aldığımızdan_tr ve_tr makineden_tr geçmeden_tr önce_tr _UNK__tr ötürü_tr biz_tr gerçekten_tr de_tr diğer_tr bütün_tr üretim_tr teknolojilerinden_tr daha_tr girift_tr yapılar_tr üretebiliyoruz_tr --_tr ya_tr da_tr aslında_tr başka_tr türlü_tr üretimi_tr tamamen_tr imkansız_tr olan_tr yapılar_tr ._tr
+ve_tr hareket_tr eden_tr bileşenleri_tr olan_tr parçalar_tr ,_tr _UNK__tr ve_tr parça_tr içinde_tr parçalar_tr üretebilirsiniz_tr ._tr
+bu_tr yüzden_tr ,_tr bazı_tr durumlarda_tr ,_tr manuel_tr işgücüne_tr duyulan_tr ihtiyacı_tr tamamen_tr ortadan_tr kaldırabiliriz_tr ._tr
+bu_tr kulağa_tr harika_tr geliyor_tr ._tr
+bu_tr harika_tr ._tr
+bugün_tr bunlar_tr gibi_tr yapılar_tr oluşturan_tr 3d_tr _UNK__tr sahip_tr olabiliriz_tr ._tr
+bu_tr neredeyse_tr ü_tr ç_tr metre_tr yüksekliğinde_tr ._tr
+ve_tr bu_tr ,_tr yapay_tr _UNK__tr her_tr birinin_tr kalınlığı_tr beş_tr milimetre_tr ile_tr 10_tr mm_tr arasında_tr olan_tr katman_tr üzerine_tr katman_tr şeklinde_tr ekleyip_tr yapıyı_tr yavaşça_tr büyüterek_tr oluşturulmuştur_tr ._tr
+bu_tr bir_tr mimarlık_tr firması_tr olan_tr _UNK__tr tarafından_tr oluşturulmuştur_tr ._tr
+ve_tr bunun_tr gerçekten_tr içine_tr girebilirsiniz_tr ._tr
+ve_tr spektrumun_tr diğer_tr ucunda_tr ise_tr bir_tr _UNK__tr bulunmaktadır_tr ._tr
+bu_tr yaklaşık_tr dört_tr _UNK__tr oluşan_tr katmanlar_tr _UNK__tr oluşturulmuştur_tr ._tr
+yani_tr gerçekten_tr de_tr çözünürlük_tr son_tr derece_tr inanılmaz_tr ._tr
+bugün_tr elde_tr edebileceğiniz_tr detay_tr gerçekten_tr hayret_tr verici_tr ._tr
+peki_tr bunu_tr kim_tr kullanıyor_tr ?_tr
+genelde_tr ,_tr ürünleri_tr çok_tr çabuk_tr _UNK__tr ötürü_tr ,_tr ürün_tr tasarımcıları_tr veya_tr bir_tr ürünün_tr prototipini_tr isteyen_tr ve_tr hızlıca_tr üretip_tr tekrarlayan_tr herhangi_tr biri_tr tarafından_tr kullanılıyor_tr ._tr
+ve_tr aslında_tr bu_tr teknolojinin_tr en_tr inanılmaz_tr yanı_tr ısmarlama_tr ürünleri_tr topluca_tr üretebiliyor_tr olmanız_tr ._tr
+ölçek_tr ekonomileri_tr çok_tr azdır_tr ._tr
+bu_tr yüzden_tr bir_tr kerelik_tr şeyleri_tr şimdi_tr çok_tr kolay_tr üretebilirsiniz_tr ._tr
+mimarlar_tr ,_tr örneğin_tr ,_tr binaların_tr prototiplerini_tr oluşturmak_tr istiyorlar_tr ._tr
+yine_tr görebiliyorsunuz_tr ki_tr bu_tr berlin'deki_tr free_tr üniversitesi'nin_tr bir_tr binası_tr ve_tr foster_tr ve_tr ortakları_tr tarafından_tr tasarlanmıştı_tr ._tr
+yine_tr ,_tr başka_tr hiçbir_tr şekilde_tr inşa_tr edilemez_tr ._tr
+ve_tr bunu_tr el_tr ile_tr inşa_tr _UNK__tr bile_tr çok_tr zordur_tr ._tr
+şimdi_tr bu_tr bir_tr motor_tr parçası_tr ._tr
+bu_tr within_tr technologies_tr adlı_tr bir_tr firma_tr ve_tr _UNK__tr _UNK__tr tarafından_tr geliştirilmiştir_tr ._tr
+bu_tr tasarımın_tr içinde_tr çok_tr ,_tr çok_tr ,_tr çok_tr detaylı_tr ._tr
+şimdi_tr 3d_tr baskı_tr tasarımda_tr bütün_tr engelleri_tr kaldırarak_tr seri_tr üretimin_tr kısıtlarına_tr karşı_tr meydan_tr okuyor_tr ._tr
+eğer_tr burada_tr gerçekten_tr bulunan_tr ürünü_tr _UNK__tr bunun_tr içinden_tr birkaç_tr soğutma_tr kanalının_tr geçtiğini_tr yani_tr daha_tr verimli_tr bir_tr ürün_tr olduğunu_tr görebilirsiniz_tr ._tr
+bunu_tr standard_tr üretim_tr teknikleriyle_tr oluşturamazsınız_tr ,_tr el_tr yapımı_tr olarak_tr deneseniz_tr bile_tr ._tr
+bu_tr daha_tr verimli_tr çünkü_tr biz_tr ürünün_tr içinde_tr sıvıyı_tr soğutmaya_tr yarayan_tr _UNK__tr oluşturabiliyoruz_tr ._tr
+ve_tr bu_tr havacılık_tr ve_tr otomotiv_tr tarafından_tr kullanılıyor_tr ._tr
+bu_tr daha_tr hafif_tr bir_tr parça_tr ve_tr daha_tr az_tr malzeme_tr israfı_tr yapıyor_tr ._tr
+yani_tr tüm_tr performans_tr ve_tr verimliliği_tr standard_tr seri_tr üretim_tr ürünlerini_tr geçiyor_tr ._tr
+ve_tr bu_tr çok_tr detaylı_tr yapılar_tr oluşturma_tr fikrini_tr alıp_tr _UNK__tr yapılara_tr uygulayabilir_tr ve_tr implantlar_tr içinde_tr kullanabiliriz_tr ._tr
+genelde_tr bir_tr implant_tr daha_tr gözenekli_tr olduğunda_tr vücutta_tr daha_tr etkilidir_tr çünkü_tr vücut_tr dokularımız_tr onun_tr içine_tr _UNK__tr ._tr
+reddetme_tr ihtimali_tr daha_tr azdır_tr ._tr
+ama_tr bunu_tr standart_tr yollarla_tr oluşturmak_tr çok_tr zordur_tr ._tr
+3d_tr baskı_tr ile_tr bugün_tr görüyoruz_tr ki_tr çok_tr daha_tr iyi_tr implantlar_tr oluşturabiliyoruz_tr ._tr
+ve_tr aslında_tr ,_tr tek_tr seferlik_tr ürünler_tr ve_tr ısmarlama_tr ürünleri_tr toplu_tr olarak_tr üretebildiğimiz_tr için_tr bireylere_tr özel_tr implantlar_tr üretebiliyoruz_tr ._tr
+yani_tr görebildiğiniz_tr gibi_tr ,_tr bu_tr teknoloji_tr ve_tr bu_tr makineden_tr çıkan_tr şeylerin_tr kalitesi_tr olağanüstü_tr ._tr
+ve_tr biz_tr bunun_tr son_tr ürünler_tr için_tr kullanıldığını_tr görmeye_tr başlıyoruz_tr ._tr
+ve_tr aslında_tr ,_tr detay_tr daha_tr _UNK__tr kalite_tr iyileşiyor_tr ,_tr makinelerin_tr fiyatı_tr düşüyor_tr ve_tr daha_tr hızlı_tr hale_tr geliyorlar_tr ._tr
+bunlar_tr ayrıca_tr bir_tr masaüstüne_tr sığacak_tr kadar_tr küçükler_tr ._tr
+kendi_tr kendinize_tr üretim_tr yapabileceğiniz_tr bir_tr makineyi_tr bugün_tr _UNK__tr alabilirsiniz_tr ki_tr bu_tr gayet_tr inanılmaz_tr ._tr
+ama_tr bu_tr bir_tr soruyu_tr kaçınılmaz_tr kılıyor_tr ,_tr neden_tr hepimizin_tr evinde_tr birer_tr tane_tr yok_tr ?_tr
+çünkü_tr ,_tr basit_tr şekliyle_tr ,_tr bugün_tr burada_tr çoğumuz_tr 3d_tr yazıcının_tr okuduğu_tr veriyi_tr nasıl_tr oluşturacağımızı_tr bilmiyoruz_tr ._tr
+ben_tr size_tr bir_tr 3d_tr yazıcı_tr versem_tr istediğiniz_tr şeyi_tr yapması_tr için_tr onu_tr nasıl_tr _UNK__tr bilemezsiniz_tr ._tr
+ama_tr bugün_tr bu_tr engelleri_tr ortadan_tr kaldıran_tr çok_tr ve_tr çok_tr daha_tr fazla_tr teknoloji_tr ,_tr yazılım_tr ve_tr süreçler_tr var_tr ._tr
+i̇nanıyorum_tr ki_tr şu_tr anda_tr bunun_tr kaçınılmaz_tr olduğu_tr bir_tr devrilme_tr noktasındayız_tr ._tr
+bu_tr teknoloji_tr gerçekten_tr de_tr üretimin_tr yapısını_tr bozacak_tr ve_tr inanıyorum_tr ki_tr üretimde_tr bir_tr devrime_tr sebep_tr olacak_tr ._tr
+yani_tr bugün_tr ,_tr internetten_tr ürünler_tr indirebilirsiniz_tr --_tr _UNK__tr olabilecek_tr herhangi_tr bir_tr şey_tr ,_tr kalemler_tr ,_tr _UNK__tr ,_tr limon_tr _UNK__tr gibi_tr ._tr
+google_tr _UNK__tr gibi_tr yazılımlar_tr kullanarak_tr bu_tr ürünleri_tr çok_tr kolay_tr bir_tr şekilde_tr sıfırdan_tr oluşturabilirsiniz_tr ._tr
+3d_tr baskı_tr ayrıca_tr internetten_tr yedek_tr parça_tr indirmek_tr için_tr kullanılabilir_tr ._tr
+yani_tr hayal_tr edin_tr ki_tr ,_tr diyelim_tr ,_tr evinizde_tr bir_tr hoover_tr var_tr ve_tr bozuldu_tr ._tr sizin_tr bir_tr yedek_tr parçaya_tr ihtiyacınız_tr var_tr ,_tr ama_tr farkediyorsunuz_tr ki_tr hoover_tr üretimden_tr kaldırılmış_tr ._tr
+hayal_tr edebiliyor_tr musunuz_tr --_tr ki_tr bu_tr gerçek_tr --_tr internete_tr girip_tr o_tr yedek_tr parçayı_tr üretimden_tr kaldırılmış_tr o_tr ürünün_tr _UNK__tr olduğu_tr bir_tr veritabanından_tr bulduğunuzu_tr ve_tr bu_tr bilgiyi_tr ,_tr veriyi_tr ,_tr indirip_tr talep_tr üzerine_tr ,_tr kullanıma_tr hazır_tr bir_tr şekilde_tr bu_tr ürünü_tr evinizde_tr _UNK__tr ?_tr
+ve_tr aslında_tr ,_tr biz_tr bu_tr şeylerle_tr yedek_tr parça_tr üretebildiğimiz_tr için_tr makineler_tr tam_tr anlamıyla_tr kendi_tr kendilerini_tr üretiyorlar_tr ._tr
+makinelerin_tr kendilerini_tr üretmelerini_tr sağlıyorsunuz_tr ._tr
+bunlar_tr bir_tr çeşit_tr masaüstü_tr yazıcısı_tr olan_tr bir_tr _UNK__tr makinesinin_tr parçaları_tr ._tr
+ama_tr benim_tr şirketimi_tr en_tr çok_tr ilgilendiren_tr şey_tr tek_tr benzersiz_tr parçaları_tr toplu_tr bir_tr şekilde_tr üretebiliyor_tr olduğunuz_tr gerçeği_tr ._tr
+binlerce_tr milyon_tr tanesi_tr için_tr çalışma_tr yapmaya_tr veya_tr enjekte_tr edilerek_tr _UNK__tr için_tr çin'e_tr göndermeye_tr gerek_tr yok_tr ._tr
+bunu_tr olduğunuz_tr yerde_tr fiziksel_tr bir_tr şekilde_tr yapabilirsiniz_tr ._tr
+biz_tr topluma_tr kişiselleştirmenin_tr bir_tr sonraki_tr neslini_tr sunabiliriz_tr ._tr
+bu_tr şu_tr anda_tr mümkün_tr olan_tr bir_tr şey_tr ,_tr ürününüzün_tr nasıl_tr görünmesini_tr istediğinize_tr göre_tr onu_tr direk_tr olarak_tr _UNK__tr ._tr
+hepimiz_tr kişiselleştirme_tr veya_tr özelleştirme_tr fikriyle_tr aşinayız_tr ._tr
+nike_tr gibi_tr markalar_tr bunu_tr yapıyor_tr ._tr
+internetin_tr her_tr yerinde_tr var_tr ._tr
+aslında_tr ,_tr bütün_tr büyük_tr markalar_tr sizin_tr günlük_tr bazda_tr onların_tr ürünleriyle_tr etkileşime_tr _UNK__tr mümkün_tr kılıyor_tr --_tr mesela_tr smart_tr car_tr "_tr dan_tr _UNK__tr ,_tr ray_tr _UNK__tr kadar_tr hepsi_tr ._tr
+ama_tr bu_tr gerçekten_tr toplu_tr kişiselleştirme_tr değil_tr ;_tr bunlar_tr değişken_tr ürün_tr olarak_tr biliniyor_tr ,_tr yani_tr aynı_tr ürünün_tr çeşitleri_tr ._tr
+yapabildiğiniz_tr gerçekten_tr şu_tr anda_tr _UNK__tr etkilemek_tr ve_tr ürününüzün_tr şeklini_tr manipule_tr etmek_tr ._tr
+sizlerden_tr emin_tr değilim_tr ama_tr benim_tr öyle_tr tecrübelerim_tr oldu_tr ki_tr bir_tr mağazaya_tr girdiğim_tr ve_tr tam_tr da_tr ne_tr istediğimi_tr bildiğim_tr ve_tr evimin_tr tam_tr neresinde_tr duracağını_tr bildiğim_tr o_tr mükemmel_tr lambayı_tr bulmak_tr için_tr her_tr yerdi_tr aradığım_tr ,_tr ve_tr o_tr doğru_tr şeyi_tr bir_tr türlü_tr bulamadığım_tr ,_tr veya_tr kendime_tr hediye_tr olarak_tr almak_tr istediğim_tr o_tr kusursuz_tr _UNK__tr bulamadığım_tr tecrübeler_tr ._tr
+hayal_tr edin_tr ki_tr bir_tr marka_tr ile_tr bir_tr ilişki_tr kurup_tr etkileşime_tr geçebilir_tr ve_tr böylelikle_tr almak_tr üzere_tr olduğunuz_tr ürüne_tr kendi_tr kişisel_tr özelliklerinizi_tr verebilirsiniz_tr ._tr
+siz_tr bugün_tr böyle_tr bir_tr ürünü_tr böyle_tr bir_tr yazılımla_tr indirebilir_tr ve_tr ürünü_tr 3d_tr olarak_tr görebilirsiniz_tr ._tr
+bu_tr bir_tr _UNK__tr _UNK__tr türden_tr bir_tr 3d_tr verisidir_tr ._tr
+bu_tr bir_tr lamba_tr ._tr
+ve_tr tasarımı_tr _UNK__tr başlayabilirsiniz_tr ._tr
+ürünün_tr ne_tr renk_tr olacağını_tr hatta_tr ne_tr malzemeden_tr olacağını_tr yönetebilirsiniz_tr ._tr
+ve_tr hatta_tr ,_tr ürünün_tr şekil_tr _UNK__tr bile_tr belli_tr sınırlar_tr içinde_tr dahil_tr olabilirsiniz_tr ._tr
+çünkü_tr açık_tr bir_tr şekilde_tr halk_tr profesyonel_tr ürün_tr tasarımcıları_tr değil_tr ._tr
+bu_tr yazılım_tr parçası_tr bireyi_tr olası_tr sınırlar_tr içinde_tr tutacaktır_tr ._tr
+ve_tr biri_tr bu_tr ürünü_tr kendi_tr kişiselleştirilmiş_tr tasarımıyla_tr almak_tr için_tr hazır_tr olduğunda_tr "_tr _UNK__tr "_tr tuşuna_tr basar_tr ve_tr bu_tr veri_tr 3d_tr yazıcıların_tr okuduğu_tr veriye_tr _UNK__tr ,_tr muhtemelen_tr birinin_tr _UNK__tr ,_tr bir_tr 3d_tr yazıcıya_tr gönderilir_tr ._tr
+ama_tr ben_tr bunun_tr hemen_tr olduğunu_tr düşünmüyorum_tr ._tr
+bunun_tr yakın_tr zamanda_tr olacağını_tr düşünmüyorum_tr ._tr
+olması_tr daha_tr mümkün_tr olan_tr ,_tr ve_tr bugün_tr bunu_tr görüyoruz_tr ,_tr verinin_tr bir_tr yerel_tr üretim_tr merkezine_tr gönderilmesidir_tr ._tr
+bu_tr da_tr daha_tr az_tr karbon_tr ayak_tr izi_tr demektir_tr ._tr
+biz_tr şimdi_tr ,_tr ürünleri_tr dünyanın_tr öbür_tr ucuna_tr göndermek_tr yerine_tr verileri_tr internet_tr üzerinden_tr gönderiyoruz_tr ._tr
+burada_tr ürün_tr üretilme_tr hali_tr ._tr
+görebilirsiniz_tr ki_tr ,_tr bu_tr makineden_tr tek_tr parça_tr olarak_tr çıktı_tr ve_tr elektronikler_tr sonradan_tr yerleştirildi_tr ._tr
+bu_tr ,_tr görebileceğiniz_tr gibi_tr ,_tr bu_tr lamba_tr ._tr
+yani_tr veriye_tr sahip_tr olduğunuz_tr sürece_tr isteğiniz_tr üzerine_tr parçayı_tr üretebilirsiniz_tr ._tr
+ve_tr bunu_tr sadece_tr estetik_tr özelleştirme_tr için_tr kullanmanıza_tr gerek_tr yok_tr ,_tr bunu_tr fonksiyonel_tr özelleştirme_tr için_tr de_tr _UNK__tr ,_tr vücudun_tr bölümlerini_tr tarayıp_tr ona_tr tam_tr oturacak_tr şeyler_tr üretebilirsiniz_tr ._tr
+yani_tr bunu_tr protez_tr gibi_tr şeylerde_tr kullanabiliriz_tr ,_tr ki_tr bu_tr da_tr tamamen_tr bireyin_tr _UNK__tr özeldir_tr ._tr
+ya_tr da_tr o_tr birey_tr için_tr çok_tr belirli_tr protezler_tr oluşturabiliriz_tr ._tr
+bugün_tr dişleri_tr tarıyoruz_tr ,_tr siz_tr de_tr dişlerinizi_tr _UNK__tr ve_tr bu_tr yöntemle_tr yapılmış_tr size_tr uygun_tr diş_tr kaplaması_tr yaptırabilirsiniz_tr ._tr
+siz_tr _UNK__tr beklerken_tr ,_tr bir_tr makine_tr sizin_tr için_tr sessizce_tr çalışıyor_tr ve_tr bunu_tr _UNK__tr yerleştirmeye_tr hazır_tr ediyor_tr olacak_tr ._tr
+ve_tr şimdi_tr implant_tr oluşturma_tr ,_tr veri_tr tarama_tr ,_tr birinin_tr mri_tr taraması_tr fikri_tr 3d_tr veriye_tr dönüştürülebilir_tr ve_tr biz_tr de_tr onlar_tr için_tr spesifik_tr implantlar_tr oluşturabiliriz_tr ._tr
+ve_tr bu_tr fikri_tr de_tr vücudumuzda_tr nelerin_tr olacağını_tr oluşturma_tr fikrine_tr uygulayabiliriz_tr ._tr
+biliyorsunuz_tr ki_tr bu_tr bir_tr çift_tr akciğer_tr ve_tr _UNK__tr ağacı_tr ._tr
+bu_tr çok_tr _UNK__tr ._tr
+bunu_tr başka_tr hiç_tr bir_tr şekilde_tr yaratamaz_tr ve_tr taklit_tr edemezsiniz_tr ._tr
+ama_tr mri_tr _UNK__tr birlikte_tr ,_tr bu_tr ürünü_tr ,_tr gördüğünüz_tr gibi_tr ,_tr çok_tr girift_tr bir_tr şekilde_tr yapabiliriz_tr ._tr
+bu_tr yöntemi_tr kullanarak_tr ,_tr sektörün_tr öncüleri_tr bugün_tr katmanlarla_tr hücre_tr oluşturuyor_tr ._tr
+yani_tr _UNK__tr biri_tr ,_tr örneğin_tr ,_tr dr._tr anthony_tr atala_tr ,_tr vücut_tr parçaları_tr oluşturmak_tr için_tr hücreleri_tr katmanlarla_tr oluşturmak_tr üzerinde_tr çalışıyor_tr --_tr mesaneler_tr ,_tr _UNK__tr ,_tr böbrekler_tr ._tr
+şimdi_tr bu_tr halk_tr için_tr hazır_tr olan_tr bir_tr şey_tr değil_tr ,_tr ama_tr üzerinde_tr çalışılan_tr bir_tr süreç_tr ._tr
+yani_tr _UNK__tr olursak_tr ,_tr hepimiz_tr _UNK__tr ._tr
+hepimizin_tr farklı_tr tercihleri_tr ,_tr farklı_tr ihtiyaçları_tr var_tr ._tr
+biz_tr farklı_tr şeylerden_tr hoşlanıyoruz_tr ._tr
+hepimiz_tr farklı_tr _UNK__tr ve_tr _UNK__tr de_tr aynen_tr öyle_tr ._tr
+i̇şletmeler_tr farklı_tr şeyler_tr istiyor_tr ._tr
+aklımda_tr hiç_tr şüphesiz_tr inanıyorum_tr ki_tr bu_tr teknoloji_tr bir_tr üretim_tr devrimine_tr sebep_tr olacak_tr ve_tr bildiğimiz_tr üretimin_tr yapısını_tr değiştirecek_tr ._tr
+teşekkür_tr ederim_tr ._tr

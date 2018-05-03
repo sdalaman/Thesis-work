@@ -1,0 +1,41 @@
+sizi_tr rezero_tr ile_tr tanıştırayım_tr ._tr
+bu_tr küçük_tr dostumuz_tr ,_tr _UNK__tr -_tr _UNK__tr otonom_tr sistemler_tr laboratuvarı'nda_tr 10_tr üniversite_tr _UNK__tr oluşan_tr bir_tr grup_tr tarafından_tr geliştirildi_tr ._tr
+robotumuz_tr _UNK__tr adı_tr verilen_tr bir_tr robot_tr ailesine_tr mensup_tr ._tr
+tekerlekler_tr yerine_tr ,_tr bir_tr ballbot_tr robotu_tr tek_tr bir_tr top_tr üzerinde_tr dengede_tr duruyor_tr ve_tr hareket_tr ediyor_tr ._tr
+böyle_tr bir_tr sistemin_tr temel_tr özelliği_tr ,_tr yere_tr yalnız_tr bir_tr zemin_tr noktası_tr olması_tr ._tr
+bu_tr da_tr robotun_tr doğuştan_tr dengesiz_tr olduğu_tr anlamına_tr geliyor_tr ._tr
+örneğin_tr benim_tr tek_tr ayak_tr üstünde_tr durmaya_tr çalışmam_tr gibi_tr ._tr
+kendinize_tr şunu_tr sorabilirsiniz_tr ,_tr dengesiz_tr bir_tr robot_tr ne_tr işe_tr yarar_tr ?_tr
+bunu_tr birazdan_tr açıklayacağız_tr ._tr
+öncelikle_tr rezero'nun_tr sahiden_tr nasıl_tr dengesini_tr koruduğunu_tr açıklayayım_tr ._tr
+rezero_tr eğim_tr açısını_tr bir_tr sensör_tr ile_tr sürekli_tr ölçerek_tr dengesini_tr koruyor_tr ._tr
+sonra_tr etkisiz_tr hale_tr geliyor_tr ve_tr motorunu_tr uygun_tr olarak_tr aktive_tr ederek_tr düşmesini_tr önlüyor_tr ._tr
+bu_tr saniyede_tr 160_tr kez_tr gerçekleşiyor_tr ,_tr ve_tr eğer_tr bu_tr süreçte_tr herhangi_tr birşey_tr başarısızlığa_tr uğrarsa_tr ,_tr rezero_tr anında_tr yere_tr düşer_tr ._tr
+hareket_tr etmesi_tr ve_tr dengede_tr durması_tr için_tr ,_tr rezero'nun_tr topu_tr _UNK__tr gerekli_tr ._tr
+top_tr rezero'nun_tr herhangi_tr bir_tr yöne_tr doğru_tr ve_tr aynı_tr zamanda_tr kendi_tr ekseni_tr etrafında_tr hareket_tr etmesini_tr sağlayan_tr ü_tr ç_tr özel_tr tekerlek_tr tarafından_tr sürülüyor_tr ._tr
+dengesizliği_tr yüzünden_tr ,_tr rezero_tr sürekli_tr hareket_tr halinde_tr ._tr i̇şte_tr işin_tr sırrı_tr burada_tr ._tr
+gerçekten_tr bir_tr robotun_tr çok_tr dinamik_tr bir_tr şekilde_tr hareket_tr etmesini_tr tam_tr da_tr bu_tr dengesizlik_tr sağlıyor_tr ._tr
+hadi_tr biraz_tr oynayalım_tr ._tr
+robotu_tr biraz_tr _UNK__tr ne_tr olduğunu_tr merak_tr etmiş_tr olabilirsiniz_tr ._tr
+bu_tr modunda_tr ,_tr konumunu_tr korumaya_tr çalışıyor_tr ._tr
+bir_tr sonraki_tr demo_tr için_tr ,_tr meslektaşlarım_tr bilgisayar_tr başındaki_tr michael_tr ve_tr sahnede_tr bana_tr yardım_tr eden_tr _UNK__tr takdim_tr etmek_tr istiyorum_tr ._tr
+bir_tr sonraki_tr modunda_tr ,_tr rezero_tr pasif_tr ,_tr ve_tr onu_tr hareket_tr ettirebiliriz_tr ._tr
+neredeyse_tr hiç_tr kuvvet_tr kullanmadan_tr ,_tr konumunu_tr ve_tr _UNK__tr kontrol_tr edebiliyorum_tr ._tr
+onu_tr ayrıca_tr döndürebilirim_tr ._tr
+bir_tr sonraki_tr modunda_tr ,_tr rezero'nun_tr bir_tr insanı_tr takip_tr ettirebiliyoruz_tr ._tr
+şu_tr an_tr thomas_tr ile_tr arasında_tr sabit_tr bir_tr mesafe_tr tutuyor_tr ._tr
+bu_tr rezero'nun_tr başında_tr takılı_tr bir_tr lazer_tr sensör_tr ile_tr çalışıyor_tr ._tr
+aynı_tr yöntem_tr ile_tr ,_tr bir_tr insanın_tr etrafında_tr dolaşmasını_tr da_tr sağlayabiliyoruz_tr ._tr
+biz_tr buna_tr _UNK__tr modu_tr diyoruz_tr ._tr
+peki_tr ,_tr teşekkürler_tr ,_tr thomas_tr ._tr
+peki_tr ,_tr bu_tr teknolojinin_tr faydası_tr nedir_tr ?_tr
+şimdilik_tr ,_tr bu_tr bir_tr deney_tr ,_tr ama_tr izin_tr verin_tr size_tr bazı_tr olası_tr gelecek_tr uygulamalarını_tr göstereyim_tr ._tr
+rezero_tr sergilerde_tr ya_tr da_tr parklarda_tr kullanılabilir_tr ._tr
+bir_tr ekran_tr ile_tr insanları_tr bilgilendirebilir_tr ya_tr da_tr onlara_tr eğlenceli_tr bir_tr şekilde_tr etrafı_tr gösterebilir_tr ._tr
+bir_tr hastanede_tr ,_tr bu_tr cihaz_tr tıbbi_tr malzeme_tr taşımak_tr için_tr kullanılabilir_tr ._tr
+ballbot_tr sisteminden_tr dolayı_tr ,_tr çok_tr küçük_tr bir_tr ayakizine_tr sahip_tr ve_tr hareket_tr ettirmesi_tr de_tr kolay_tr ._tr
+ve_tr elbette_tr ,_tr kim_tr bunlardan_tr birini_tr sürmek_tr istemez_tr ki_tr ._tr
+bunlar_tr daha_tr çok_tr pratik_tr uygulamalar_tr ._tr
+ama_tr bu_tr teknoloji_tr içerisinde_tr kuşkusuz_tr bir_tr güzellik_tr barındırıyor_tr ._tr
+teşekkürler_tr ._tr
+teşekkürler_tr ._tr

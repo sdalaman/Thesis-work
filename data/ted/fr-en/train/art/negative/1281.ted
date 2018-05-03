@@ -1,0 +1,40 @@
+laissez_fr -_fr moi_fr vous_fr présenter_fr rezero_fr ._fr
+ce_fr petit_fr ami_fr a_fr été_fr développé_fr par_fr un_fr groupe_fr de_fr 10_fr étudiants_fr du_fr laboratoire_fr des_fr systèmes_fr autonomes_fr à_fr l'école_fr polytechnique_fr fédérale_fr de_fr zurich_fr ._fr
+notre_fr robot_fr appartient_fr à_fr une_fr famille_fr de_fr robots_fr qui_fr s'appelle_fr _UNK__fr ._fr
+a_fr la_fr place_fr des_fr roues_fr ,_fr un_fr ballbot_fr se_fr tient_fr en_fr équilibre_fr et_fr se_fr déplace_fr sur_fr une_fr boule_fr ._fr
+la_fr principale_fr caractéristique_fr de_fr ce_fr système_fr est_fr qu'il_fr y_fr a_fr qu'un_fr seul_fr point_fr de_fr contact_fr avec_fr le_fr sol_fr ._fr
+cela_fr signifie_fr que_fr le_fr robot_fr est_fr en_fr soi_fr instable_fr ._fr
+c'est_fr un_fr peu_fr comme_fr si_fr je_fr devais_fr me_fr tenir_fr sur_fr un_fr pied_fr ._fr
+vous_fr pourriez_fr vous_fr demander_fr ,_fr quelle_fr est_fr l'utilité_fr d'un_fr robot_fr instable_fr ?_fr
+nous_fr allons_fr vous_fr l'expliquer_fr tout_fr de_fr suite_fr ._fr
+avant_fr tout_fr ,_fr laissez_fr -_fr moi_fr vous_fr expliquer_fr comment_fr rezero_fr se_fr tient_fr en_fr fait_fr en_fr équilibre_fr ._fr
+rezero_fr se_fr tient_fr en_fr équilibre_fr en_fr mesurant_fr constamment_fr son_fr inclinaison_fr avec_fr un_fr détecteur_fr ._fr
+ensuite_fr il_fr se_fr _UNK__fr et_fr évite_fr de_fr basculer_fr en_fr utilisant_fr ses_fr moteurs_fr de_fr façon_fr appropriée_fr ._fr
+ça_fr se_fr produit_fr 160_fr fois_fr par_fr seconde_fr ,_fr et_fr si_fr quelque_fr chose_fr ne_fr marche_fr pas_fr dans_fr le_fr processus_fr ,_fr rezero_fr tombe_fr immédiatement_fr par_fr terre_fr ._fr
+pour_fr se_fr déplacer_fr et_fr se_fr tenir_fr en_fr équilibre_fr ,_fr rezero_fr doit_fr tourner_fr la_fr boule_fr ._fr
+la_fr boule_fr est_fr _UNK__fr par_fr trois_fr roues_fr spéciales_fr qui_fr permettent_fr à_fr rezero_fr de_fr se_fr déplacer_fr dans_fr n'importe_fr quelle_fr direction_fr et_fr se_fr déplacer_fr également_fr sur_fr son_fr axe_fr en_fr même_fr temps_fr ._fr
+a_fr cause_fr de_fr son_fr instabilité_fr ,_fr rezero_fr est_fr toujours_fr en_fr mouvement_fr ._fr voici_fr le_fr secret_fr ._fr
+c'est_fr précisément_fr cette_fr instabilité_fr qui_fr permet_fr au_fr robot_fr de_fr se_fr déplacer_fr de_fr manière_fr très_fr dynamique_fr ._fr
+jouons_fr un_fr peu_fr ._fr
+vous_fr vous_fr êtes_fr peut_fr -_fr être_fr demandé_fr ce_fr qui_fr se_fr passerait_fr si_fr je_fr _UNK__fr un_fr peu_fr le_fr robot_fr ._fr
+dans_fr ce_fr mode_fr ,_fr il_fr essaye_fr de_fr maintenir_fr sa_fr position_fr ._fr
+pour_fr la_fr prochaine_fr démo_fr ,_fr j'aimerais_fr vous_fr présenter_fr mes_fr collègues_fr michael_fr ,_fr à_fr l'ordinateur_fr ,_fr et_fr thomas_fr qui_fr me_fr donne_fr un_fr coup_fr de_fr main_fr sur_fr scène_fr ._fr
+dans_fr le_fr mode_fr suivant_fr ,_fr rezero_fr est_fr passif_fr ,_fr et_fr nous_fr pouvons_fr le_fr déplacer_fr ._fr
+presque_fr sans_fr aucune_fr force_fr je_fr peux_fr contrôler_fr sa_fr position_fr et_fr sa_fr vitesse_fr ._fr
+je_fr peux_fr même_fr le_fr faire_fr tourner_fr ._fr
+dans_fr le_fr mode_fr suivant_fr ,_fr nous_fr pouvons_fr le_fr faire_fr suivre_fr une_fr personne_fr ._fr
+là_fr il_fr maintient_fr une_fr distance_fr constante_fr avec_fr thomas_fr ._fr
+ça_fr marche_fr avec_fr un_fr détecteur_fr laser_fr monté_fr au_fr sommet_fr de_fr rezero_fr ._fr
+avec_fr la_fr même_fr méthode_fr ,_fr nous_fr pouvons_fr aussi_fr le_fr faire_fr tourner_fr autour_fr d'une_fr personne_fr ._fr
+nous_fr appelons_fr cela_fr le_fr mode_fr _UNK__fr ._fr
+très_fr bien_fr ,_fr merci_fr ,_fr thomas_fr ._fr
+quelle_fr est_fr l'utilité_fr de_fr cette_fr technologie_fr ?_fr
+pour_fr l'instant_fr ,_fr c'est_fr une_fr expérience_fr mais_fr laissez_fr -_fr moi_fr vous_fr montrer_fr quelques_fr applications_fr futures_fr possibles_fr ._fr
+rezero_fr pourrait_fr être_fr utilisé_fr dans_fr des_fr expositions_fr ou_fr des_fr parcs_fr ._fr
+avec_fr un_fr écran_fr il_fr pourrait_fr informer_fr les_fr personnes_fr ou_fr les_fr faire_fr visiter_fr de_fr manière_fr amusante_fr et_fr divertissante_fr ._fr
+dans_fr un_fr hôpital_fr ,_fr cet_fr appareil_fr pourrait_fr être_fr utilisé_fr pour_fr transporter_fr les_fr équipements_fr médicaux_fr ._fr
+grâce_fr au_fr système_fr ballbot_fr ,_fr il_fr a_fr un_fr faible_fr _UNK__fr et_fr se_fr déplace_fr facilement_fr ._fr
+et_fr bien_fr sûr_fr ,_fr qui_fr ne_fr _UNK__fr pas_fr faire_fr un_fr tour_fr sur_fr un_fr de_fr ces_fr appareils_fr ._fr
+ce_fr sont_fr des_fr applications_fr plus_fr pratiques_fr ._fr
+mais_fr il_fr y_fr a_fr aussi_fr une_fr certaine_fr beauté_fr dans_fr cette_fr technologie_fr ._fr
+merci_fr ._fr

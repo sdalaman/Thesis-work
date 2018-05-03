@@ -1,0 +1,183 @@
+comment se fait - il , comment pouvons - nous étudier cette flore virale qui nous entoure , et aider la médecine ?
+comment pouvons - nous transformer notre connaissance cumulative de la _UNK_ en un simple test de diagnostique , portable et unique .
+je veux transformer tout ce que nous savons aujourd'hui sur la détection des virus et sur l'éventail des virus existant en , comment dirai - je , une petite puce .
+quand nous avons commencé à réfléchir à ce projet -- comment fabriquer un test de diagnostique unique pour dépister tous les agents pathogènes à la fois -- eh bien , cette idée posait plusieurs problèmes .
+tout d'abord , les virus sont assez complexes , mais ils évoluent aussi très rapidement .
+ceci est un picornavirus .
+les picornavirus -- ce sont des choses dont font partie le rhume commun et la polio , ce genre de choses .
+ce que vous voyez , c'est la coque du virus , et la couleur jaune représente les parties du virus qui évoluent très , très vite , et les parties bleues n'évoluent pas très vite .
+quand on réfléchit à la fabrication d'un réactif de détection de tous les virus , habituellement c'est l'évolution rapide qui pose problème , car comment pouvons - nous détecter des choses si elles changent constamment ?
+mais l'évolution est un équilibre : là où vous avez des changements rapides , vous avez aussi de _UNK_ - conservation -- des choses qui ne changent pratiquement jamais .
+et donc nous avons étudié cela d'un peu plus près , et je vais maintenant vous montrer des données .
+c'est un truc simple que l'on peut faire sur un ordinateur dans son bureau .
+j'ai pris une poignée de ces petits picornavirus , tels que le rhume commun , la polio , et ainsi de suite , et je les ai simplement _UNK_ en petits segments , et ainsi j'ai pris ce premier exemple , qui s'appelle le virus coxsackie , et je l'ai simplement décomposé en petites fenêtres .
+et je colorie ces petites fenêtres en bleu si un autre virus possède une séquence identique dans son génome à celle de ce virus .
+ces séquences tout en haut -- qui ne codent même pas de protéine , soit dit en passant -- sont pratiquement entièrement identiques pour tous ceux - ci , donc je peux utiliser cette séquence comme un marqueur pour dépister un large éventail de virus , sans avoir besoin de fabriquer quelque chose pour chacun .
+bon , par ici il y a une grande diversité : c'est là que les choses évoluent rapidement .
+là en bas vous pouvez voir une évolution plus lente : moins de diversité .
+bon , une fois que l'on arrive ici , voyons , le virus de la paralysie aiguë de l'abeille -- probablement un qu'il ne fait pas bon d'avoir si vous êtes une abeille -- ce virus ne partage pratiquement aucune similarité avec le virus coxsackie , mais je peux vous garantir que les séquences qui sont le plus conservées , parmi ces virus à la droite de l'écran le sont dans des régions identiques tout en haut .
+donc nous pouvons incarner ces régions d'ultra - conservation tout au long de l'évolution -- la manière dont ces virus ont évolués -- en choisissant simplement des éléments d'adn ou d'arn dans ces régions pour les représenter sur notre puce en tant que réactifs de dépistage .
+ok , donc c'est ce que nous avons fait , mais comment allons - nous faire cela ?
+bon , pendant longtemps , depuis que j'étais en troisième cycle à l'université , je me suis amusé à fabriquer des puces adn -- c'est à dire , à imprimer de l'adn sur du verre .
+et c'est ce qu'on voit ici : ces petits grains de sel sont simplement de l'adn fixé sur du verre , et je peux donc en mettre des milliers sur notre puce en verre et les utiliser comme des réactifs de détection .
+nous avons amené notre puce chez hewlett - packard et avons utilisé leur microscope à force atomique sur un de ces points , et voici ce que l'on voit : on peut vraiment voir les brins d'adn couchés sur le verre ici .
+donc , on imprime juste de l'adn sur du verre - ces petits trucs plats -- et ils vont servir de marqueurs pour agents pathogènes .
+ok , je fabrique des petits robots dans le laboratoire pour fabriquer ces puces , et j'aime beaucoup disséminer la technologie .
+si vous avez assez d'argent pour vous acheter une toyota _UNK_ , vous pouvez aussi construire un de ceux là , et nous avons mis un manuel détaillé sur internet , entièrement gratuit , avec des pièces standard du commerce -- on peut construire une machine à fabriquer des puces adn dans son garage .
+voici la partie qui traite de ce bouton capital , le bouton d'arrêt en cas d'urgence .
+toute machine importante doit avoir un gros bouton rouge .
+mais en réalité , c'est assez solide .
+on peut vraiment fabriquer des puces adn dans son garage , et décoder des programmes génétiques assez rapidement . c'est très amusant .
+et donc ce que nous avons fait -- et c'est vraiment un super projet -- nous avons simplement commencé par faire une puce des virus respiratoires .
+j'en ai parlé -- vous savez , quand on va dans un centre de consultation et qu'on ne diagnostique pas ce que l'on a ?
+bon , en gros nous avons mis tous les virus respiratoires humains sur une puce , et nous avons rajouté le virus de l'herpès pour faire bonne mesure -- après tout , pourquoi pas ?
+la première chose que l'on fait en tant que scientifique est de s'assurer que ça marche .
+et donc nous avons simplement pris des cellules de culture tissulaire et nous les avons infectées avec plusieurs virus , et nous les prenons et nous marquons de façon fluorescente l'acide nucléique , le matériel génétique qui provient de ces cellules de culture tissulaire -- principalement viral -- et on le met sur la puce pour voir où il se colle .
+or , si les séquences d'adn correspondent , ils se collent ensemble , et donc nous pouvons regarder les points .
+et si les points s'éclairent , nous savons qu'il y a un certain virus là dedans .
+voilà ce à quoi ressemble vraiment une de ces puces , et ces points rouges sont en fait des signaux qui proviennent des virus .
+et chaque point représente une famille de virus différente ou une espèce de virus différente .
+et donc , c'est une façon compliquée de regarder les choses , donc je vais juste coder ça comme des petits codes barres regroupés par famille , pour que l'on puisse voir les résultats de façon intuitive .
+voilà ce que nous avons fait , nous avons pris des cellules de culture tissulaire et les avons infectées avec des adénovirus , et vous pouvez voir ce petit code barre jaune à côté des adénovirus .
+et , de même , nous les avons infectées avec le virus para - grippal de type 3 -- c'est un paramyxovirus -- et vous voyez un petit code barre ici .
+et ensuite nous nous sommes occupé du virus respiratoire syncytial .
+c'est partout un fléau pour les crèches -- c'est comme une épidémie de crottes du nez .
+vous pouvez voir -- vous pouvez voir que ce code barre est de la même famille , mais qu'il est distinct de la para - grippe de type 3 , lequel vous donne un très mauvais rhume .
+et ainsi nous obtenons des signatures uniques , une empreinte pour chaque virus .
+polio et rhino : ils sont dans la même famille , très proches l'un de l'autre .
+rhino est le rhume commun , et vous savez tous ce qu'est la polio , et vous pouvez voir que ces signatures sont distinctes .
+et le virus de l'herpès associé au sarcome de _UNK_ nous donne une jolie petite signature ici en - bas .
+et ainsi ce n'est pas n'importe quelle bande ou truc qui nous dit que nous avons un virus d'un type particulier ici ; c'est le code barre qui dans son ensemble le représente entièrement .
+d'accord , je peux voir un rhinovirus -- et voici un agrandissement du petit code barre du rhinovirus -- mais qu'en est - il des différents rhinovirus ?
+comment est - ce que je sais quel rhinovirus j'ai ?
+il y a 102 variantes connues du rhume commun , et il n'y en a que 102 parce que les gens ont en eu marre de les recueillir : il y en a simplement de nouveaux qui apparaissent chaque année .
+et donc voici quatre rhinovirus différents , et vous pouvez voir , même à l'oeil nu , sans aucun de ces programmes informatiques sophistiqués de reconnaissance des formes , que vous pouvez distinguer chacun de ces codes barres des autres .
+bon , c'est un peu de la triche , parce que je connais la séquence génétique de tous ces rhinovirus et j'ai en fait conçu cette puce expressément pour être capable de les distinguer , mais qu'en est - il des rhinovirus qui n'ont jamais vu un _UNK_ génétique ?
+nous ne savons pas quelle est leur séquence , on les a juste sortis du terrain .
+donc , voici quatre rhinovirus dont on ne connait rien -- personne ne les a jamais _UNK_ -- et vous pouvez aussi voir que l'on obtient des modèles uniques et reconnaissables .
+on peut imaginer construire une collection , réelle ou virtuelle , des empreintes de chaque virus .
+mais ça aussi c'est un combat gagné d'avance , vous savez , n'est - ce pas ?
+on a des cellules de culture tissulaire : il y a une tonne de virus .
+qu'en est - il des vrais gens ?
+on ne peut pas contrôler les vrais gens , comme vous le savez probablement .
+on n'a aucune idée de ce que quelqu'un va tousser dans un gobelet , et c'est probablement vraiment complexe , n'est - ce pas ?
+il peut y avoir beaucoup de bactéries , il peut y avoir plus d'un virus , et il y a certainement du matériel génétique de l'hôte , donc comment aborde t - on cela ?
+et comment faisons - nous un contrôle positif dans ce cas ?
+eh bien , c'est assez simple .
+ça c'est moi , subissant un lavage nasal .
+et l'idée c'est , inoculons expérimentalement un virus à des personnes et ainsi nous -- ceci a été approuvé par le comité d'éthique médicale , au fait , ils sont payés .
+et en gros nous inoculons expérimentalement aux gens le virus du rhume commun .
+ou , encore mieux , prenons simplement des gens directement des urgences -- des infections communautaires des voies respiratoires non définies .
+vous n'avez pas idée de tout ce que nous voyons arriver .
+bien , commençons d'abord par le contrôle positif , celui où nous savons que la personne était en bonne santé .
+on leur fait une injection de virus dans le nez , voyons ce qui arrive .
+premier jour : rien ne se passe .
+ils sont en bonne santé ; ils sont propres -- c'est incroyable .
+en fait , on pensait que les voies _UNK_ pourraient être pleines de virus même quand on se balade en bonne santé .
+elles sont plutôt propres . si on est en bonne santé , on est en assez bonne santé .
+troisième jour : on obtient un modèle de rhinovirus très marqué , et ça ressemble beaucoup à ce que nous obtenons en labo quand nous faisons notre expérience avec une culture tissulaire .
+donc c'est super , mais encore une fois , c'est de la triche , d'accord ?
+on injecte une tonne de virus dans le nez de ce type . donc -- -- je veux dire , nous voulions que ça marche . je veux dire , il a vraiment eu un rhume .
+bon , et les gens qui viennent directement de l'extérieur ?
+voici donc deux individus représentés par leurs codes d'identité anonymes .
+tous les deux ont des rhinovirus ; nous n'avons jamais vu ce modèle en labo .
+nous séquençons une partie de leurs virus ; ce sont de nouveaux rhinovirus que vraiment personne n'a jamais vu .
+rappelez - vous , nos séquences conservées malgré l'évolution que nous utilisons sur cette puce nous permettent de détecter des virus même non - caractérisés ou nouveaux , parce que nous sélectionnons ce qui est conservé tout au long de l'évolution .
+voici un autre type . vous pouvez jouer au jeu du diagnostic .
+ces différents blocs représentent les différents virus de cette famille de paramyxovirus , donc vous pouvez prendre ces blocs un par un et voir où est le signal .
+bien , il n'a pas la maladie de carré des chiens , ce qui est probablement une bonne chose .
+mais quand on arrive au bloc numéro neuf , on voit ce virus syncytial respiratoire .
+peut - être ont - ils des enfants . et puis on peut aussi voir le membre de la famille qui est lié : on peut voir ici le sous - type b du _UNK_ .
+bon , c'est super .
+voici un autre individu , pour lequel on a prélevé des échantillons sur deux jours différents -- visites répétées au centre de consultation .
+cet individu a le virus paragrippal de type 1 , et on peut voir qu'il y a cette petite bande par ici pour le virus de sendai : c'est la _UNK_ de la souris .
+la parenté génétique est très proche là . c'est très amusant .
+donc , nous avons construit la puce .
+nous avons fabriqué une puce sur laquelle il y a tous les virus connus .
+pourquoi pas ? tous les virus de plantes , tous les virus d'insectes , tous les virus marins .
+tout ce que nous avons pu obtenir de la banque de gènes genbank -- qui est le dépôt national des séquences .
+maintenant nous utilisons cette puce . et pour quoi l'utilisons - nous ?
+bon , d'abord , quand on a une grosse puce comme celle - ci , on a besoin d'un peu plus d'informatique , donc nous avons conçu un système pour faire le diagnostique automatiquement .
+et l'idée c'est que , nous avons simplement des modèles virtuels -- parce que nous n'aurons jamais des échantillons de chaque virus ; cela serait pratiquement impossible . mais nous pouvons obtenir des modèles virtuels , et les comparer au résultat observé , qui est un mélange très complexe , et suggérer une sorte de note qui donne la probabilité que ce soit un rhinovirus ou autre chose .
+et voici à quoi ça ressemble .
+si , par exemple , on utilise une cellule de culture qui est infectée de façon chronique avec un papillome , voici ce qui s'affiche sur l'ordinateur , et notre algorithme dit qu'il s'agit probablement du papillome de type 18 .
+et c'est , en fait , ce avec quoi ces cellules - là sont infectées de façon chronique .
+bon , faisons quelque chose d'un peu plus difficile .
+nous mettons le _UNK_ dans le centre de consultation .
+quand quelqu'un se présente , et que l'hôpital ne sait pas quoi faire parce qu'ils ne peuvent pas faire de diagnostique , ils nous appellent .
+voilà l'idée , et nous la mettons en place dans la région de san francisco .
+et donc , il y a trois semaines ce cas nous a été signalé .
+nous avons une femme de 28 ans en bonne santé , qui n'a pas voyagé , [ indistinct ] , qui ne fume pas , qui ne boit pas .
+10 jours de fièvre , de sueurs nocturnes , _UNK_ sanglantes -- elle crache du sang -- de douleurs musculaires .
+elle est allée au centre de consultation , et ils lui ont donné des antibiotiques , bien , et puis ils l'ont renvoyée chez elle .
+elle est revenue après dix jours de fièvre -- elle a toujours de la fièvre -- et elle souffre _UNK_ -- elle n'a pas beaucoup d'oxygène dans les poumons .
+ils lui ont fait un ct scan .
+un poumon normal est tout bleu et noir ici .
+tout ce blanc -- ce n'est pas bon .
+cette sorte de formation en arbre et en bourgeons indique qu'il y a une inflammation ; il y a probablement une infection .
+ok . donc la patiente a alors été traitée avec une _UNK_ , un antibiotique de troisième génération , et de la _UNK_ , et le troisième jour , ça n'avait rien fait : elle _UNK_ vers une insuffisance aigüe .
+ils ont dû _UNK_ , donc ils lui ont mis un tube dans la gorge et ils ont commencé à la ventiler mécaniquement .
+elle ne pouvait plus respirer par elle - même .
+que faire maintenant ? pas d'idée .
+changer les antibiotiques , donc ils lui ont donné un autre antibiotique , et du tamiflu , qui -- ce n'est pas clair pourquoi ils pensaient qu'elle avait la grippe -- mais ils l'ont mise sous tamiflu .
+et le sixième jour , ils ont pratiquement jeté l'éponge .
+on pratique une biopsie pulmonaire ouverte quand on n'a pas d'autres choix .
+il y a un taux de mortalité de huit pour cent du simple fait de pratiquer cette intervention , et donc en fait -- et que nous apprend - elle ?
+ce que vous regardez c'est sa biopsie pulmonaire ouverte .
+je ne suis pas un pathologiste , mais on ne peut pas en déduire grand chose .
+tout ce qu'on peut dire c'est qu'il y a un _UNK_ important : _UNK_ .
+ce n'était pas révélateur : c'est ce que dit le rapport du pathologiste .
+et donc , ils lui firent subir quels tests ?
+ils ont leur propres tests , bien sûr , et donc ils lui ont fait subir 70 tests différents , pour toutes les sortes de bactérie , _UNK_ et virus que l'on peut acheter tout prêts : sras , _UNK_ , vih , _UNK_ -- tous ceux - là .
+tout est revenu négatif . plus de 100.000 dollars de tests .
+je veux dire , ils ont fait le maximum pour cette femme .
+et en fait ils nous ont appelés lors de son huitième jour d'hospitalisation .
+ils nous donnèrent une aspiration _UNK_ -- vous savez , un peu de liquide prélevé dans la gorge , venant du tube qu'ils lui avaient mis là -- et il nous le donnèrent .
+nous l'avons mis sur la puce ; qu'avons nous vu ? et bien , nous avons vu le virus paragrippal de type 4 .
+mais , qu'est - ce - que ça peut bien être le virus paragrippal de type 4 ?
+personne ne fait de contrôle pour le virus paragrippal de type _UNK_ personne ne s'en soucie .
+en fait , il n'a pas vraiment été séquencé tant que ca.
+on n'en a séquencé qu'un petit bout .
+il n'y a pratiquement pas eu de recherche épidémiologique ni d'études à son sujet .
+personne ne l'a même envisagé , parce que personne n'avait la moindre idée qu'il pouvait provoquer une insuffisance respiratoire .
+et pourquoi cela ? la simple habitude . il n'y a pas de donnés -- pas de données qui montrent s'il provoque une maladie grave ou bénigne .
+manifestement , nous avons le cas d'une personne en bonne santé qui va de plus en plus mal .
+ok , c'est le compte rendu d'un cas .
+je vais vous dire une dernière chose dans les deux minutes qui restent qui n'a pas été publiée -- cela va être rendu public demain -- et c'est un exemple intéressant d'utilisation de cette puce pour trouver quelque chose de nouveau et ouvrir une nouvelle voie .
+le cancer de la prostate . je n'ai pas besoin de vous donner plein de statistiques sur le cancer de la prostate . la plupart d'entre vous les connaissent déjà : la troisième cause de décès par cancer aux etats - unis .
+beaucoup de facteurs de risque , mais il y a une prédisposition génétique au cancer de la prostate .
+dans peut - être 10 pour cent des cancers de la prostate , il y a des gens qui y sont _UNK_ .
+et le premier gène qui a été cartographié dans les études d'association sur ça , le cancer de la prostate chez l'homme jeune , était le gène qui s'appelle rnasel .
+qu'est - ce que c'est ? c'est une enzyme antivirale .
+donc nous restons assis à réfléchir , pourquoi les hommes qui ont cette mutation , un défaut dans le système de défense antiviral , _UNK_ - ils un cancer de la prostate ?
+ça n'est pas logique -- sauf si , peut - être , il y a un virus .
+donc , nous avons mis des tumeurs -- et nous avons maintenant plus de 100 tumeurs -- sur notre puce .
+et nous savons qui a ou non un rnasel défectueux .
+et je vous montre ici le signal sur la puce , et je vous le montre pour le bloc des _UNK_ de rétrovirus .
+et ce que je vous dis ici à partir du signal est que les hommes qui ont une mutation de cette enzyme antivirale , et qui ont une tumeur , ont souvent -- 40 pour cent des cas -- une signature qui révèle un nouveau rétrovirus .
+ok , c'est plutôt fou . qu'est - ce c'est ?
+donc , nous _UNK_ le virus en entier .
+d'abord , je vous dirai qu'une rapide prévision automatisée nous a dit qu'il était très semblable à un virus de souris .
+mais ça ne nous dit pas grand chose , donc nous l'avons vraiment cloné en entier .
+et le génome que je vous montre juste ici ?
+c'est un rétrovirus gamma classique , mais il est totalement nouveau ; on ne l'avait jamais vu avant .
+son plus proche parent vient , en fait , des souris , et donc nous l'appelons un rétrovirus _UNK_ , parce qu'il infecte une autre espèce que les souris .
+et ceci est un petit arbre phylogénétique pour voir quelles sont ses relations de parenté avec les autres virus .
+et ensuite nous avons fait cela pour de nombreux patients , et nous pouvons dire que toutes ces infections sont indépendantes .
+ils ont tous le même virus , mais ils sont suffisamment différents pour qu'on ait des raisons de croire qu'ils ont été infecté indépendamment .
+est - ce vraiment dans les tissus . et je finirai là - dessus . oui .
+nous prenons des coupes de ces biopsies de tissus _UNK_ et utilisons ce matériel pour localiser vraiment les virus , et nous trouvons ici des cellules qui contiennent des particules virales .
+ces types ont vraiment ce virus .
+ce virus provoque - t - il le cancer de la prostate ?
+rien de ce que je dis ici n'implique la causalité . je ne sais pas .
+est - ce un lien vers _UNK_ ? je ne sais pas .
+est - ce parce que ces types sont davantage sujets aux virus ?
+c'est possible . et ça peut n'avoir rien à voir avec le cancer .
+mais maintenant ça ouvre une voie .
+nous avons une forte association entre la présence de ce virus et une mutation génétique que l'on a liée au cancer .
+voilà où nous en sommes .
+donc , je crains que ça pose plus de questions que ça ne donne de réponses , mais ça , vous savez , c'est le point fort de la science .
+tout cela est fait par les gens dans le labo ; pour la majeure partie je ne peux pas m'en attribuer le mérite .
+c'est une collaboration entre moi - même et don .
+c'est le type qui a commencé le projet dans mon labo , et lui c'est le type qui a fait les trucs sur la prostate .
+merci beaucoup .

@@ -1,0 +1,42 @@
+c'est	un	rêve	de	 l' 	 humanité 	 	,	de	 vole 	 r 	 	comme	un	oiseau	.
+les	oiseaux	 s 	 ont 	 	très	 agile 	 s 	 	.
+ils	ne	 vole 	 nt 	 	pas	avec	des	 composant 	 s 	 	_UNK_	,	ils	 vole 	 nt 	 	 unique 	 ment 	 	en	battant	 leur 	 s 	 	 aile 	 s 	 	.
+nous	avons	donc	 observ 	 é 	 	les	oiseaux	,	 e 	 t 	 	nous	avons	 essay 	 é 	 	de	faire	une	maquette	qui	soit	 puissant 	 e 	 	,	 ultra 	 légère 	 	,	qui	ait	 d' 	 excellent 	 es 	 	 qualit 	 és 	 	 aéro 	 dynamique 	 s 	 	,	 e 	 t 	 	qui	vole	de	façon	autonome	 unique 	 ment 	 	en	battant	des	 aile 	 s 	 	.
+alors	 qu' 	 y 	 	avait	-	il	de	 mi 	 eux 	 	à	utiliser	que	le	 go 	 é 	 land 	 	 argent 	 é 	 	,	avec	 s 	 a 	 	 liber 	 té 	 	,	 d 	 écriv 	 ant 	 	des	 cercle 	 s 	 	 e 	 t 	 	 plonge 	 ant 	 	au	dessus	de	la	mer	,	 e 	 t 	 	le	prendre	comme	modèle	?
+nous	avons	donc	formé	une	équipe	.
+il	y	a	des	 général 	 istes 	 	 e 	 t 	 	aussi	des	 spécial 	 istes 	 	de	 l' 	 aéro 	 dynamique 	 	 e 	 t 	 	de	la	 fabri 	 cation 	 	de	 plan 	 eurs 	 	.
+il	 s' 	 agissait 	 	de	 construi 	 re 	 	une	maquette	 ultra 	 légère 	 	qui	vole	en	intérieur	 e 	 t 	 	qui	 puis 	 s 	 e 	 	 vole 	 r 	 	au	dessus	de	 vo 	 s 	 	 tête 	 s 	 	.
+alors	vous	 dev 	 rez 	 	faire	attention	tout	à	 l' 	 heure 	 	.
+ e 	 t 	 	 c' 	 était 	 	un	problème	,	pour	le	 construi 	 re 	 	assez	léger	 af 	 in 	 	qu'il	ne	 ble 	 sse 	 	personne	 s' 	 il 	 	venait	à	 tombe 	 r 	 	.
+alors	pourquoi	faisons	-	nous	ça	?
+nous	 somme 	 s 	 	une	 socié 	 té 	 	dans	le	domaine	de	 l' 	 automat 	 isation 	 	,	 e 	 t 	 	nous	 aimer 	 ions 	 	faire	des	 structure 	 s 	 	très	 légère 	 s 	 	parce	 qu' 	 elles 	 	 consomm 	 ent 	 	peu	 d' 	 énergie 	 	.
+ e 	 t 	 	nous	 aimer 	 ions 	 	en	apprendre	plus	sur	la	 pneu 	 ma 	 tique 	 	 e 	 t 	 	les	 phénomène 	 s 	 	_UNK_	 d' 	 air 	 	.
+ j' 	 aimerais 	 	 main 	 tenant 	 	que	vous	 mett 	 iez 	 	 vo 	 s 	 	 ceintu 	 re 	 s 	 	de	sécurité	 e 	 t 	 	 vo 	 s 	 	 casque 	 s 	 	.
+nous	allons	essayer	de	faire	 vole 	 r 	 	un	smartbird	.
+merci	.
+nous	 pouv 	 ons 	 	donc	 main 	 tenant 	 	 regarde 	 r 	 	le	smartbird	de	près	.
+en	voici	un	sans	peau	.
+les	 aile 	 s 	 	ont	une	envergure	 d' 	 environ 	 	2	 mètre 	 s 	 	.
+il	mesure	1,6	mètre	de	long	,	 e 	 t 	 	pèse	 seul 	 ement 	 	450	 gramme 	 s 	 	.
+il	est	 entière 	 ment 	 	en	fibre	de	carbone	.
+au	 mi 	 lieu 	 	nous	avons	un	moteur	,	avec	aussi	une	roue	 dent 	 ée 	 	.
+ e 	 t 	 	nous	utilisons	la	roue	 dent 	 ée 	 	pour	 transfére 	 r 	 	la	 circul 	 ation 	 	du	moteur	.
+donc	à	 l' 	 intérieur 	 	du	moteur	,	il	y	a	trois	 capte 	 urs 	 	à	effet	hall	,	nous	 s 	 avons 	 	donc	 exacte 	 ment 	 	où	 s 	 e 	 	 trouv 	 e 	 	 l' 	 aile 	 	.
+ e 	 t 	 	si	 main 	 tenant 	 	nous	faisons	un	 batt 	 ement 	 	vertical	...
+nous	avons	la	possibilité	de	 vole 	 r 	 	comme	un	oiseau	.
+ e 	 t 	 	si	on	descend	,	on	a	une	 grand 	 e 	 	surface	de	 pro 	 pulsion 	 	.
+ e 	 t 	 	si	on	 mont 	 e 	 	,	les	 aile 	 s 	 	ne	 s 	 ont 	 	pas	si	 grand 	 es 	 	,	 e 	 t 	 	 mont 	 er 	 	est	plus	facile	.
+ce	que	nous	avons	fait	 en 	 suite 	 	,	ou	les	 défi 	 s 	 	que	nous	avons	 relevé 	 s 	 	,	 c' 	 était 	 	de	 coordonne 	 r 	 	ce	mouvement	.
+nous	 dev 	 ons 	 	 tourne 	 r 	 	,	 mont 	 er 	 	 e 	 t 	 	 descend 	 re 	 	.
+nous	avons	une	aile	en	deux	 parti 	 es 	 	.
+avec	une	aile	en	deux	 parti 	 es 	 	nous	mettons	la	 port 	 ance 	 	sur	la	 parti 	 e 	 	 supérieur 	 e 	 	de	 l' 	 aile 	 	,	 e 	 t 	 	nous	mettons	la	 pro 	 pulsion 	 	sur	la	 parti 	 e 	 	 inférieur 	 e 	 	de	 l' 	 aile 	 	.
+nous	voyons	 égale 	 ment 	 	comment	 mesure 	 r 	 	 l' 	 efficience 	 	 aéro 	 dynamique 	 	.
+il	nous	 f 	 allait 	 	 connaît 	 re 	 	 l' 	 efficience 	 	_UNK_	pour	pouvoir	 calcul 	 er 	 	 l' 	 efficience 	 	 aéro 	 dynamique 	 	.
+par	conséquent	,	elle	augmente	entre	la	torsion	passive	 e 	 t 	 	la	torsion	active	,	de	30	%	à	80	%	.
+ce	que	nous	 dev 	 ons 	 	faire	 en 	 suite 	 	,	c'est	 contrô 	 ler 	 	 e 	 t 	 	 régul 	 er 	 	 tout 	 e 	 	la	structure	.
+c'est	 seul 	 ement 	 	si	on	la	 contrô 	 le 	 	 e 	 t 	 	on	la	 régul 	 e 	 	 qu' 	 on 	 	obtient	 ce 	 tte 	 	efficience	 aéro 	 dynamique 	 	.
+la	consommation	 global 	 e 	 	 d' 	 énergie 	 	est	 d' 	 environ 	 	25	 watt 	 s 	 	au	 dé 	 coll 	 age 	 	 e 	 t 	 	entre	16	 e 	 t 	 	18	 watt 	 s 	 	en	vol	.
+merci	.
+bruno	giussani	:	je	pense	que	nous	 dev 	 rions 	 	le	faire	 vole 	 r 	 	encore	une	fois	.
+markus	fischer	:	oui	,	bien	sûr	.
+

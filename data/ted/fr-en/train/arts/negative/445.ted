@@ -1,0 +1,183 @@
+comment_fr se_fr fait_fr -_fr il_fr ,_fr comment_fr pouvons_fr -_fr nous_fr étudier_fr cette_fr flore_fr virale_fr qui_fr nous_fr entoure_fr ,_fr et_fr aider_fr la_fr médecine_fr ?_fr
+comment_fr pouvons_fr -_fr nous_fr transformer_fr notre_fr connaissance_fr cumulative_fr de_fr la_fr _UNK__fr en_fr un_fr simple_fr test_fr de_fr diagnostique_fr ,_fr portable_fr et_fr unique_fr ._fr
+je_fr veux_fr transformer_fr tout_fr ce_fr que_fr nous_fr savons_fr aujourd'hui_fr sur_fr la_fr détection_fr des_fr virus_fr et_fr sur_fr l'éventail_fr des_fr virus_fr existant_fr en_fr ,_fr comment_fr dirai_fr -_fr je_fr ,_fr une_fr petite_fr puce_fr ._fr
+quand_fr nous_fr avons_fr commencé_fr à_fr réfléchir_fr à_fr ce_fr projet_fr --_fr comment_fr fabriquer_fr un_fr test_fr de_fr diagnostique_fr unique_fr pour_fr dépister_fr tous_fr les_fr agents_fr pathogènes_fr à_fr la_fr fois_fr --_fr eh_fr bien_fr ,_fr cette_fr idée_fr posait_fr plusieurs_fr problèmes_fr ._fr
+tout_fr d'abord_fr ,_fr les_fr virus_fr sont_fr assez_fr complexes_fr ,_fr mais_fr ils_fr évoluent_fr aussi_fr très_fr rapidement_fr ._fr
+ceci_fr est_fr un_fr picornavirus_fr ._fr
+les_fr picornavirus_fr --_fr ce_fr sont_fr des_fr choses_fr dont_fr font_fr partie_fr le_fr rhume_fr commun_fr et_fr la_fr polio_fr ,_fr ce_fr genre_fr de_fr choses_fr ._fr
+ce_fr que_fr vous_fr voyez_fr ,_fr c'est_fr la_fr coque_fr du_fr virus_fr ,_fr et_fr la_fr couleur_fr jaune_fr représente_fr les_fr parties_fr du_fr virus_fr qui_fr évoluent_fr très_fr ,_fr très_fr vite_fr ,_fr et_fr les_fr parties_fr bleues_fr n'évoluent_fr pas_fr très_fr vite_fr ._fr
+quand_fr on_fr réfléchit_fr à_fr la_fr fabrication_fr d'un_fr réactif_fr de_fr détection_fr de_fr tous_fr les_fr virus_fr ,_fr habituellement_fr c'est_fr l'évolution_fr rapide_fr qui_fr pose_fr problème_fr ,_fr car_fr comment_fr pouvons_fr -_fr nous_fr détecter_fr des_fr choses_fr si_fr elles_fr changent_fr constamment_fr ?_fr
+mais_fr l'évolution_fr est_fr un_fr équilibre_fr :_fr là_fr où_fr vous_fr avez_fr des_fr changements_fr rapides_fr ,_fr vous_fr avez_fr aussi_fr de_fr _UNK__fr -_fr conservation_fr --_fr des_fr choses_fr qui_fr ne_fr changent_fr pratiquement_fr jamais_fr ._fr
+et_fr donc_fr nous_fr avons_fr étudié_fr cela_fr d'un_fr peu_fr plus_fr près_fr ,_fr et_fr je_fr vais_fr maintenant_fr vous_fr montrer_fr des_fr données_fr ._fr
+c'est_fr un_fr truc_fr simple_fr que_fr l'on_fr peut_fr faire_fr sur_fr un_fr ordinateur_fr dans_fr son_fr bureau_fr ._fr
+j'ai_fr pris_fr une_fr poignée_fr de_fr ces_fr petits_fr picornavirus_fr ,_fr tels_fr que_fr le_fr rhume_fr commun_fr ,_fr la_fr polio_fr ,_fr et_fr ainsi_fr de_fr suite_fr ,_fr et_fr je_fr les_fr ai_fr simplement_fr _UNK__fr en_fr petits_fr segments_fr ,_fr et_fr ainsi_fr j'ai_fr pris_fr ce_fr premier_fr exemple_fr ,_fr qui_fr s'appelle_fr le_fr virus_fr coxsackie_fr ,_fr et_fr je_fr l'ai_fr simplement_fr décomposé_fr en_fr petites_fr fenêtres_fr ._fr
+et_fr je_fr colorie_fr ces_fr petites_fr fenêtres_fr en_fr bleu_fr si_fr un_fr autre_fr virus_fr possède_fr une_fr séquence_fr identique_fr dans_fr son_fr génome_fr à_fr celle_fr de_fr ce_fr virus_fr ._fr
+ces_fr séquences_fr tout_fr en_fr haut_fr --_fr qui_fr ne_fr codent_fr même_fr pas_fr de_fr protéine_fr ,_fr soit_fr dit_fr en_fr passant_fr --_fr sont_fr pratiquement_fr entièrement_fr identiques_fr pour_fr tous_fr ceux_fr -_fr ci_fr ,_fr donc_fr je_fr peux_fr utiliser_fr cette_fr séquence_fr comme_fr un_fr marqueur_fr pour_fr dépister_fr un_fr large_fr éventail_fr de_fr virus_fr ,_fr sans_fr avoir_fr besoin_fr de_fr fabriquer_fr quelque_fr chose_fr pour_fr chacun_fr ._fr
+bon_fr ,_fr par_fr ici_fr il_fr y_fr a_fr une_fr grande_fr diversité_fr :_fr c'est_fr là_fr que_fr les_fr choses_fr évoluent_fr rapidement_fr ._fr
+là_fr en_fr bas_fr vous_fr pouvez_fr voir_fr une_fr évolution_fr plus_fr lente_fr :_fr moins_fr de_fr diversité_fr ._fr
+bon_fr ,_fr une_fr fois_fr que_fr l'on_fr arrive_fr ici_fr ,_fr voyons_fr ,_fr le_fr virus_fr de_fr la_fr paralysie_fr aiguë_fr de_fr l'abeille_fr --_fr probablement_fr un_fr qu'il_fr ne_fr fait_fr pas_fr bon_fr d'avoir_fr si_fr vous_fr êtes_fr une_fr abeille_fr --_fr ce_fr virus_fr ne_fr partage_fr pratiquement_fr aucune_fr similarité_fr avec_fr le_fr virus_fr coxsackie_fr ,_fr mais_fr je_fr peux_fr vous_fr garantir_fr que_fr les_fr séquences_fr qui_fr sont_fr le_fr plus_fr conservées_fr ,_fr parmi_fr ces_fr virus_fr à_fr la_fr droite_fr de_fr l'écran_fr le_fr sont_fr dans_fr des_fr régions_fr identiques_fr tout_fr en_fr haut_fr ._fr
+donc_fr nous_fr pouvons_fr incarner_fr ces_fr régions_fr d'ultra_fr -_fr conservation_fr tout_fr au_fr long_fr de_fr l'évolution_fr --_fr la_fr manière_fr dont_fr ces_fr virus_fr ont_fr évolués_fr --_fr en_fr choisissant_fr simplement_fr des_fr éléments_fr d'adn_fr ou_fr d'arn_fr dans_fr ces_fr régions_fr pour_fr les_fr représenter_fr sur_fr notre_fr puce_fr en_fr tant_fr que_fr réactifs_fr de_fr dépistage_fr ._fr
+ok_fr ,_fr donc_fr c'est_fr ce_fr que_fr nous_fr avons_fr fait_fr ,_fr mais_fr comment_fr allons_fr -_fr nous_fr faire_fr cela_fr ?_fr
+bon_fr ,_fr pendant_fr longtemps_fr ,_fr depuis_fr que_fr j'étais_fr en_fr troisième_fr cycle_fr à_fr l'université_fr ,_fr je_fr me_fr suis_fr amusé_fr à_fr fabriquer_fr des_fr puces_fr adn_fr --_fr c'est_fr à_fr dire_fr ,_fr à_fr imprimer_fr de_fr l'adn_fr sur_fr du_fr verre_fr ._fr
+et_fr c'est_fr ce_fr qu'on_fr voit_fr ici_fr :_fr ces_fr petits_fr grains_fr de_fr sel_fr sont_fr simplement_fr de_fr l'adn_fr fixé_fr sur_fr du_fr verre_fr ,_fr et_fr je_fr peux_fr donc_fr en_fr mettre_fr des_fr milliers_fr sur_fr notre_fr puce_fr en_fr verre_fr et_fr les_fr utiliser_fr comme_fr des_fr réactifs_fr de_fr détection_fr ._fr
+nous_fr avons_fr amené_fr notre_fr puce_fr chez_fr hewlett_fr -_fr packard_fr et_fr avons_fr utilisé_fr leur_fr microscope_fr à_fr force_fr atomique_fr sur_fr un_fr de_fr ces_fr points_fr ,_fr et_fr voici_fr ce_fr que_fr l'on_fr voit_fr :_fr on_fr peut_fr vraiment_fr voir_fr les_fr brins_fr d'adn_fr couchés_fr sur_fr le_fr verre_fr ici_fr ._fr
+donc_fr ,_fr on_fr imprime_fr juste_fr de_fr l'adn_fr sur_fr du_fr verre_fr -_fr ces_fr petits_fr trucs_fr plats_fr --_fr et_fr ils_fr vont_fr servir_fr de_fr marqueurs_fr pour_fr agents_fr pathogènes_fr ._fr
+ok_fr ,_fr je_fr fabrique_fr des_fr petits_fr robots_fr dans_fr le_fr laboratoire_fr pour_fr fabriquer_fr ces_fr puces_fr ,_fr et_fr j'aime_fr beaucoup_fr disséminer_fr la_fr technologie_fr ._fr
+si_fr vous_fr avez_fr assez_fr d'argent_fr pour_fr vous_fr acheter_fr une_fr toyota_fr _UNK__fr ,_fr vous_fr pouvez_fr aussi_fr construire_fr un_fr de_fr ceux_fr là_fr ,_fr et_fr nous_fr avons_fr mis_fr un_fr manuel_fr détaillé_fr sur_fr internet_fr ,_fr entièrement_fr gratuit_fr ,_fr avec_fr des_fr pièces_fr standard_fr du_fr commerce_fr --_fr on_fr peut_fr construire_fr une_fr machine_fr à_fr fabriquer_fr des_fr puces_fr adn_fr dans_fr son_fr garage_fr ._fr
+voici_fr la_fr partie_fr qui_fr traite_fr de_fr ce_fr bouton_fr capital_fr ,_fr le_fr bouton_fr d'arrêt_fr en_fr cas_fr d'urgence_fr ._fr
+toute_fr machine_fr importante_fr doit_fr avoir_fr un_fr gros_fr bouton_fr rouge_fr ._fr
+mais_fr en_fr réalité_fr ,_fr c'est_fr assez_fr solide_fr ._fr
+on_fr peut_fr vraiment_fr fabriquer_fr des_fr puces_fr adn_fr dans_fr son_fr garage_fr ,_fr et_fr décoder_fr des_fr programmes_fr génétiques_fr assez_fr rapidement_fr ._fr c'est_fr très_fr amusant_fr ._fr
+et_fr donc_fr ce_fr que_fr nous_fr avons_fr fait_fr --_fr et_fr c'est_fr vraiment_fr un_fr super_fr projet_fr --_fr nous_fr avons_fr simplement_fr commencé_fr par_fr faire_fr une_fr puce_fr des_fr virus_fr respiratoires_fr ._fr
+j'en_fr ai_fr parlé_fr --_fr vous_fr savez_fr ,_fr quand_fr on_fr va_fr dans_fr un_fr centre_fr de_fr consultation_fr et_fr qu'on_fr ne_fr diagnostique_fr pas_fr ce_fr que_fr l'on_fr a_fr ?_fr
+bon_fr ,_fr en_fr gros_fr nous_fr avons_fr mis_fr tous_fr les_fr virus_fr respiratoires_fr humains_fr sur_fr une_fr puce_fr ,_fr et_fr nous_fr avons_fr rajouté_fr le_fr virus_fr de_fr l'herpès_fr pour_fr faire_fr bonne_fr mesure_fr --_fr après_fr tout_fr ,_fr pourquoi_fr pas_fr ?_fr
+la_fr première_fr chose_fr que_fr l'on_fr fait_fr en_fr tant_fr que_fr scientifique_fr est_fr de_fr s'assurer_fr que_fr ça_fr marche_fr ._fr
+et_fr donc_fr nous_fr avons_fr simplement_fr pris_fr des_fr cellules_fr de_fr culture_fr tissulaire_fr et_fr nous_fr les_fr avons_fr infectées_fr avec_fr plusieurs_fr virus_fr ,_fr et_fr nous_fr les_fr prenons_fr et_fr nous_fr marquons_fr de_fr façon_fr fluorescente_fr l'acide_fr nucléique_fr ,_fr le_fr matériel_fr génétique_fr qui_fr provient_fr de_fr ces_fr cellules_fr de_fr culture_fr tissulaire_fr --_fr principalement_fr viral_fr --_fr et_fr on_fr le_fr met_fr sur_fr la_fr puce_fr pour_fr voir_fr où_fr il_fr se_fr colle_fr ._fr
+or_fr ,_fr si_fr les_fr séquences_fr d'adn_fr correspondent_fr ,_fr ils_fr se_fr collent_fr ensemble_fr ,_fr et_fr donc_fr nous_fr pouvons_fr regarder_fr les_fr points_fr ._fr
+et_fr si_fr les_fr points_fr s'éclairent_fr ,_fr nous_fr savons_fr qu'il_fr y_fr a_fr un_fr certain_fr virus_fr là_fr dedans_fr ._fr
+voilà_fr ce_fr à_fr quoi_fr ressemble_fr vraiment_fr une_fr de_fr ces_fr puces_fr ,_fr et_fr ces_fr points_fr rouges_fr sont_fr en_fr fait_fr des_fr signaux_fr qui_fr proviennent_fr des_fr virus_fr ._fr
+et_fr chaque_fr point_fr représente_fr une_fr famille_fr de_fr virus_fr différente_fr ou_fr une_fr espèce_fr de_fr virus_fr différente_fr ._fr
+et_fr donc_fr ,_fr c'est_fr une_fr façon_fr compliquée_fr de_fr regarder_fr les_fr choses_fr ,_fr donc_fr je_fr vais_fr juste_fr coder_fr ça_fr comme_fr des_fr petits_fr codes_fr barres_fr regroupés_fr par_fr famille_fr ,_fr pour_fr que_fr l'on_fr puisse_fr voir_fr les_fr résultats_fr de_fr façon_fr intuitive_fr ._fr
+voilà_fr ce_fr que_fr nous_fr avons_fr fait_fr ,_fr nous_fr avons_fr pris_fr des_fr cellules_fr de_fr culture_fr tissulaire_fr et_fr les_fr avons_fr infectées_fr avec_fr des_fr adénovirus_fr ,_fr et_fr vous_fr pouvez_fr voir_fr ce_fr petit_fr code_fr barre_fr jaune_fr à_fr côté_fr des_fr adénovirus_fr ._fr
+et_fr ,_fr de_fr même_fr ,_fr nous_fr les_fr avons_fr infectées_fr avec_fr le_fr virus_fr para_fr -_fr grippal_fr de_fr type_fr 3_fr --_fr c'est_fr un_fr paramyxovirus_fr --_fr et_fr vous_fr voyez_fr un_fr petit_fr code_fr barre_fr ici_fr ._fr
+et_fr ensuite_fr nous_fr nous_fr sommes_fr occupé_fr du_fr virus_fr respiratoire_fr syncytial_fr ._fr
+c'est_fr partout_fr un_fr fléau_fr pour_fr les_fr crèches_fr --_fr c'est_fr comme_fr une_fr épidémie_fr de_fr crottes_fr du_fr nez_fr ._fr
+vous_fr pouvez_fr voir_fr --_fr vous_fr pouvez_fr voir_fr que_fr ce_fr code_fr barre_fr est_fr de_fr la_fr même_fr famille_fr ,_fr mais_fr qu'il_fr est_fr distinct_fr de_fr la_fr para_fr -_fr grippe_fr de_fr type_fr 3_fr ,_fr lequel_fr vous_fr donne_fr un_fr très_fr mauvais_fr rhume_fr ._fr
+et_fr ainsi_fr nous_fr obtenons_fr des_fr signatures_fr uniques_fr ,_fr une_fr empreinte_fr pour_fr chaque_fr virus_fr ._fr
+polio_fr et_fr rhino_fr :_fr ils_fr sont_fr dans_fr la_fr même_fr famille_fr ,_fr très_fr proches_fr l'un_fr de_fr l'autre_fr ._fr
+rhino_fr est_fr le_fr rhume_fr commun_fr ,_fr et_fr vous_fr savez_fr tous_fr ce_fr qu'est_fr la_fr polio_fr ,_fr et_fr vous_fr pouvez_fr voir_fr que_fr ces_fr signatures_fr sont_fr distinctes_fr ._fr
+et_fr le_fr virus_fr de_fr l'herpès_fr associé_fr au_fr sarcome_fr de_fr _UNK__fr nous_fr donne_fr une_fr jolie_fr petite_fr signature_fr ici_fr en_fr -_fr bas_fr ._fr
+et_fr ainsi_fr ce_fr n'est_fr pas_fr n'importe_fr quelle_fr bande_fr ou_fr truc_fr qui_fr nous_fr dit_fr que_fr nous_fr avons_fr un_fr virus_fr d'un_fr type_fr particulier_fr ici_fr ;_fr c'est_fr le_fr code_fr barre_fr qui_fr dans_fr son_fr ensemble_fr le_fr représente_fr entièrement_fr ._fr
+d'accord_fr ,_fr je_fr peux_fr voir_fr un_fr rhinovirus_fr --_fr et_fr voici_fr un_fr agrandissement_fr du_fr petit_fr code_fr barre_fr du_fr rhinovirus_fr --_fr mais_fr qu'en_fr est_fr -_fr il_fr des_fr différents_fr rhinovirus_fr ?_fr
+comment_fr est_fr -_fr ce_fr que_fr je_fr sais_fr quel_fr rhinovirus_fr j'ai_fr ?_fr
+il_fr y_fr a_fr 102_fr variantes_fr connues_fr du_fr rhume_fr commun_fr ,_fr et_fr il_fr n'y_fr en_fr a_fr que_fr 102_fr parce_fr que_fr les_fr gens_fr ont_fr en_fr eu_fr marre_fr de_fr les_fr recueillir_fr :_fr il_fr y_fr en_fr a_fr simplement_fr de_fr nouveaux_fr qui_fr apparaissent_fr chaque_fr année_fr ._fr
+et_fr donc_fr voici_fr quatre_fr rhinovirus_fr différents_fr ,_fr et_fr vous_fr pouvez_fr voir_fr ,_fr même_fr à_fr l'oeil_fr nu_fr ,_fr sans_fr aucun_fr de_fr ces_fr programmes_fr informatiques_fr sophistiqués_fr de_fr reconnaissance_fr des_fr formes_fr ,_fr que_fr vous_fr pouvez_fr distinguer_fr chacun_fr de_fr ces_fr codes_fr barres_fr des_fr autres_fr ._fr
+bon_fr ,_fr c'est_fr un_fr peu_fr de_fr la_fr triche_fr ,_fr parce_fr que_fr je_fr connais_fr la_fr séquence_fr génétique_fr de_fr tous_fr ces_fr rhinovirus_fr et_fr j'ai_fr en_fr fait_fr conçu_fr cette_fr puce_fr expressément_fr pour_fr être_fr capable_fr de_fr les_fr distinguer_fr ,_fr mais_fr qu'en_fr est_fr -_fr il_fr des_fr rhinovirus_fr qui_fr n'ont_fr jamais_fr vu_fr un_fr _UNK__fr génétique_fr ?_fr
+nous_fr ne_fr savons_fr pas_fr quelle_fr est_fr leur_fr séquence_fr ,_fr on_fr les_fr a_fr juste_fr sortis_fr du_fr terrain_fr ._fr
+donc_fr ,_fr voici_fr quatre_fr rhinovirus_fr dont_fr on_fr ne_fr connait_fr rien_fr --_fr personne_fr ne_fr les_fr a_fr jamais_fr _UNK__fr --_fr et_fr vous_fr pouvez_fr aussi_fr voir_fr que_fr l'on_fr obtient_fr des_fr modèles_fr uniques_fr et_fr reconnaissables_fr ._fr
+on_fr peut_fr imaginer_fr construire_fr une_fr collection_fr ,_fr réelle_fr ou_fr virtuelle_fr ,_fr des_fr empreintes_fr de_fr chaque_fr virus_fr ._fr
+mais_fr ça_fr aussi_fr c'est_fr un_fr combat_fr gagné_fr d'avance_fr ,_fr vous_fr savez_fr ,_fr n'est_fr -_fr ce_fr pas_fr ?_fr
+on_fr a_fr des_fr cellules_fr de_fr culture_fr tissulaire_fr :_fr il_fr y_fr a_fr une_fr tonne_fr de_fr virus_fr ._fr
+qu'en_fr est_fr -_fr il_fr des_fr vrais_fr gens_fr ?_fr
+on_fr ne_fr peut_fr pas_fr contrôler_fr les_fr vrais_fr gens_fr ,_fr comme_fr vous_fr le_fr savez_fr probablement_fr ._fr
+on_fr n'a_fr aucune_fr idée_fr de_fr ce_fr que_fr quelqu'un_fr va_fr tousser_fr dans_fr un_fr gobelet_fr ,_fr et_fr c'est_fr probablement_fr vraiment_fr complexe_fr ,_fr n'est_fr -_fr ce_fr pas_fr ?_fr
+il_fr peut_fr y_fr avoir_fr beaucoup_fr de_fr bactéries_fr ,_fr il_fr peut_fr y_fr avoir_fr plus_fr d'un_fr virus_fr ,_fr et_fr il_fr y_fr a_fr certainement_fr du_fr matériel_fr génétique_fr de_fr l'hôte_fr ,_fr donc_fr comment_fr aborde_fr t_fr -_fr on_fr cela_fr ?_fr
+et_fr comment_fr faisons_fr -_fr nous_fr un_fr contrôle_fr positif_fr dans_fr ce_fr cas_fr ?_fr
+eh_fr bien_fr ,_fr c'est_fr assez_fr simple_fr ._fr
+ça_fr c'est_fr moi_fr ,_fr subissant_fr un_fr lavage_fr nasal_fr ._fr
+et_fr l'idée_fr c'est_fr ,_fr inoculons_fr expérimentalement_fr un_fr virus_fr à_fr des_fr personnes_fr et_fr ainsi_fr nous_fr --_fr ceci_fr a_fr été_fr approuvé_fr par_fr le_fr comité_fr d'éthique_fr médicale_fr ,_fr au_fr fait_fr ,_fr ils_fr sont_fr payés_fr ._fr
+et_fr en_fr gros_fr nous_fr inoculons_fr expérimentalement_fr aux_fr gens_fr le_fr virus_fr du_fr rhume_fr commun_fr ._fr
+ou_fr ,_fr encore_fr mieux_fr ,_fr prenons_fr simplement_fr des_fr gens_fr directement_fr des_fr urgences_fr --_fr des_fr infections_fr communautaires_fr des_fr voies_fr respiratoires_fr non_fr définies_fr ._fr
+vous_fr n'avez_fr pas_fr idée_fr de_fr tout_fr ce_fr que_fr nous_fr voyons_fr arriver_fr ._fr
+bien_fr ,_fr commençons_fr d'abord_fr par_fr le_fr contrôle_fr positif_fr ,_fr celui_fr où_fr nous_fr savons_fr que_fr la_fr personne_fr était_fr en_fr bonne_fr santé_fr ._fr
+on_fr leur_fr fait_fr une_fr injection_fr de_fr virus_fr dans_fr le_fr nez_fr ,_fr voyons_fr ce_fr qui_fr arrive_fr ._fr
+premier_fr jour_fr :_fr rien_fr ne_fr se_fr passe_fr ._fr
+ils_fr sont_fr en_fr bonne_fr santé_fr ;_fr ils_fr sont_fr propres_fr --_fr c'est_fr incroyable_fr ._fr
+en_fr fait_fr ,_fr on_fr pensait_fr que_fr les_fr voies_fr _UNK__fr pourraient_fr être_fr pleines_fr de_fr virus_fr même_fr quand_fr on_fr se_fr balade_fr en_fr bonne_fr santé_fr ._fr
+elles_fr sont_fr plutôt_fr propres_fr ._fr si_fr on_fr est_fr en_fr bonne_fr santé_fr ,_fr on_fr est_fr en_fr assez_fr bonne_fr santé_fr ._fr
+troisième_fr jour_fr :_fr on_fr obtient_fr un_fr modèle_fr de_fr rhinovirus_fr très_fr marqué_fr ,_fr et_fr ça_fr ressemble_fr beaucoup_fr à_fr ce_fr que_fr nous_fr obtenons_fr en_fr labo_fr quand_fr nous_fr faisons_fr notre_fr expérience_fr avec_fr une_fr culture_fr tissulaire_fr ._fr
+donc_fr c'est_fr super_fr ,_fr mais_fr encore_fr une_fr fois_fr ,_fr c'est_fr de_fr la_fr triche_fr ,_fr d'accord_fr ?_fr
+on_fr injecte_fr une_fr tonne_fr de_fr virus_fr dans_fr le_fr nez_fr de_fr ce_fr type_fr ._fr donc_fr --_fr --_fr je_fr veux_fr dire_fr ,_fr nous_fr voulions_fr que_fr ça_fr marche_fr ._fr je_fr veux_fr dire_fr ,_fr il_fr a_fr vraiment_fr eu_fr un_fr rhume_fr ._fr
+bon_fr ,_fr et_fr les_fr gens_fr qui_fr viennent_fr directement_fr de_fr l'extérieur_fr ?_fr
+voici_fr donc_fr deux_fr individus_fr représentés_fr par_fr leurs_fr codes_fr d'identité_fr anonymes_fr ._fr
+tous_fr les_fr deux_fr ont_fr des_fr rhinovirus_fr ;_fr nous_fr n'avons_fr jamais_fr vu_fr ce_fr modèle_fr en_fr labo_fr ._fr
+nous_fr séquençons_fr une_fr partie_fr de_fr leurs_fr virus_fr ;_fr ce_fr sont_fr de_fr nouveaux_fr rhinovirus_fr que_fr vraiment_fr personne_fr n'a_fr jamais_fr vu_fr ._fr
+rappelez_fr -_fr vous_fr ,_fr nos_fr séquences_fr conservées_fr malgré_fr l'évolution_fr que_fr nous_fr utilisons_fr sur_fr cette_fr puce_fr nous_fr permettent_fr de_fr détecter_fr des_fr virus_fr même_fr non_fr -_fr caractérisés_fr ou_fr nouveaux_fr ,_fr parce_fr que_fr nous_fr sélectionnons_fr ce_fr qui_fr est_fr conservé_fr tout_fr au_fr long_fr de_fr l'évolution_fr ._fr
+voici_fr un_fr autre_fr type_fr ._fr vous_fr pouvez_fr jouer_fr au_fr jeu_fr du_fr diagnostic_fr ._fr
+ces_fr différents_fr blocs_fr représentent_fr les_fr différents_fr virus_fr de_fr cette_fr famille_fr de_fr paramyxovirus_fr ,_fr donc_fr vous_fr pouvez_fr prendre_fr ces_fr blocs_fr un_fr par_fr un_fr et_fr voir_fr où_fr est_fr le_fr signal_fr ._fr
+bien_fr ,_fr il_fr n'a_fr pas_fr la_fr maladie_fr de_fr carré_fr des_fr chiens_fr ,_fr ce_fr qui_fr est_fr probablement_fr une_fr bonne_fr chose_fr ._fr
+mais_fr quand_fr on_fr arrive_fr au_fr bloc_fr numéro_fr neuf_fr ,_fr on_fr voit_fr ce_fr virus_fr syncytial_fr respiratoire_fr ._fr
+peut_fr -_fr être_fr ont_fr -_fr ils_fr des_fr enfants_fr ._fr et_fr puis_fr on_fr peut_fr aussi_fr voir_fr le_fr membre_fr de_fr la_fr famille_fr qui_fr est_fr lié_fr :_fr on_fr peut_fr voir_fr ici_fr le_fr sous_fr -_fr type_fr b_fr du_fr _UNK__fr ._fr
+bon_fr ,_fr c'est_fr super_fr ._fr
+voici_fr un_fr autre_fr individu_fr ,_fr pour_fr lequel_fr on_fr a_fr prélevé_fr des_fr échantillons_fr sur_fr deux_fr jours_fr différents_fr --_fr visites_fr répétées_fr au_fr centre_fr de_fr consultation_fr ._fr
+cet_fr individu_fr a_fr le_fr virus_fr paragrippal_fr de_fr type_fr 1_fr ,_fr et_fr on_fr peut_fr voir_fr qu'il_fr y_fr a_fr cette_fr petite_fr bande_fr par_fr ici_fr pour_fr le_fr virus_fr de_fr sendai_fr :_fr c'est_fr la_fr _UNK__fr de_fr la_fr souris_fr ._fr
+la_fr parenté_fr génétique_fr est_fr très_fr proche_fr là_fr ._fr c'est_fr très_fr amusant_fr ._fr
+donc_fr ,_fr nous_fr avons_fr construit_fr la_fr puce_fr ._fr
+nous_fr avons_fr fabriqué_fr une_fr puce_fr sur_fr laquelle_fr il_fr y_fr a_fr tous_fr les_fr virus_fr connus_fr ._fr
+pourquoi_fr pas_fr ?_fr tous_fr les_fr virus_fr de_fr plantes_fr ,_fr tous_fr les_fr virus_fr d'insectes_fr ,_fr tous_fr les_fr virus_fr marins_fr ._fr
+tout_fr ce_fr que_fr nous_fr avons_fr pu_fr obtenir_fr de_fr la_fr banque_fr de_fr gènes_fr genbank_fr --_fr qui_fr est_fr le_fr dépôt_fr national_fr des_fr séquences_fr ._fr
+maintenant_fr nous_fr utilisons_fr cette_fr puce_fr ._fr et_fr pour_fr quoi_fr l'utilisons_fr -_fr nous_fr ?_fr
+bon_fr ,_fr d'abord_fr ,_fr quand_fr on_fr a_fr une_fr grosse_fr puce_fr comme_fr celle_fr -_fr ci_fr ,_fr on_fr a_fr besoin_fr d'un_fr peu_fr plus_fr d'informatique_fr ,_fr donc_fr nous_fr avons_fr conçu_fr un_fr système_fr pour_fr faire_fr le_fr diagnostique_fr automatiquement_fr ._fr
+et_fr l'idée_fr c'est_fr que_fr ,_fr nous_fr avons_fr simplement_fr des_fr modèles_fr virtuels_fr --_fr parce_fr que_fr nous_fr n'aurons_fr jamais_fr des_fr échantillons_fr de_fr chaque_fr virus_fr ;_fr cela_fr serait_fr pratiquement_fr impossible_fr ._fr mais_fr nous_fr pouvons_fr obtenir_fr des_fr modèles_fr virtuels_fr ,_fr et_fr les_fr comparer_fr au_fr résultat_fr observé_fr ,_fr qui_fr est_fr un_fr mélange_fr très_fr complexe_fr ,_fr et_fr suggérer_fr une_fr sorte_fr de_fr note_fr qui_fr donne_fr la_fr probabilité_fr que_fr ce_fr soit_fr un_fr rhinovirus_fr ou_fr autre_fr chose_fr ._fr
+et_fr voici_fr à_fr quoi_fr ça_fr ressemble_fr ._fr
+si_fr ,_fr par_fr exemple_fr ,_fr on_fr utilise_fr une_fr cellule_fr de_fr culture_fr qui_fr est_fr infectée_fr de_fr façon_fr chronique_fr avec_fr un_fr papillome_fr ,_fr voici_fr ce_fr qui_fr s'affiche_fr sur_fr l'ordinateur_fr ,_fr et_fr notre_fr algorithme_fr dit_fr qu'il_fr s'agit_fr probablement_fr du_fr papillome_fr de_fr type_fr 18_fr ._fr
+et_fr c'est_fr ,_fr en_fr fait_fr ,_fr ce_fr avec_fr quoi_fr ces_fr cellules_fr -_fr là_fr sont_fr infectées_fr de_fr façon_fr chronique_fr ._fr
+bon_fr ,_fr faisons_fr quelque_fr chose_fr d'un_fr peu_fr plus_fr difficile_fr ._fr
+nous_fr mettons_fr le_fr _UNK__fr dans_fr le_fr centre_fr de_fr consultation_fr ._fr
+quand_fr quelqu'un_fr se_fr présente_fr ,_fr et_fr que_fr l'hôpital_fr ne_fr sait_fr pas_fr quoi_fr faire_fr parce_fr qu'ils_fr ne_fr peuvent_fr pas_fr faire_fr de_fr diagnostique_fr ,_fr ils_fr nous_fr appellent_fr ._fr
+voilà_fr l'idée_fr ,_fr et_fr nous_fr la_fr mettons_fr en_fr place_fr dans_fr la_fr région_fr de_fr san_fr francisco_fr ._fr
+et_fr donc_fr ,_fr il_fr y_fr a_fr trois_fr semaines_fr ce_fr cas_fr nous_fr a_fr été_fr signalé_fr ._fr
+nous_fr avons_fr une_fr femme_fr de_fr 28_fr ans_fr en_fr bonne_fr santé_fr ,_fr qui_fr n'a_fr pas_fr voyagé_fr ,_fr [_fr indistinct_fr ]_fr ,_fr qui_fr ne_fr fume_fr pas_fr ,_fr qui_fr ne_fr boit_fr pas_fr ._fr
+10_fr jours_fr de_fr fièvre_fr ,_fr de_fr sueurs_fr nocturnes_fr ,_fr _UNK__fr sanglantes_fr --_fr elle_fr crache_fr du_fr sang_fr --_fr de_fr douleurs_fr musculaires_fr ._fr
+elle_fr est_fr allée_fr au_fr centre_fr de_fr consultation_fr ,_fr et_fr ils_fr lui_fr ont_fr donné_fr des_fr antibiotiques_fr ,_fr bien_fr ,_fr et_fr puis_fr ils_fr l'ont_fr renvoyée_fr chez_fr elle_fr ._fr
+elle_fr est_fr revenue_fr après_fr dix_fr jours_fr de_fr fièvre_fr --_fr elle_fr a_fr toujours_fr de_fr la_fr fièvre_fr --_fr et_fr elle_fr souffre_fr _UNK__fr --_fr elle_fr n'a_fr pas_fr beaucoup_fr d'oxygène_fr dans_fr les_fr poumons_fr ._fr
+ils_fr lui_fr ont_fr fait_fr un_fr ct_fr scan_fr ._fr
+un_fr poumon_fr normal_fr est_fr tout_fr bleu_fr et_fr noir_fr ici_fr ._fr
+tout_fr ce_fr blanc_fr --_fr ce_fr n'est_fr pas_fr bon_fr ._fr
+cette_fr sorte_fr de_fr formation_fr en_fr arbre_fr et_fr en_fr bourgeons_fr indique_fr qu'il_fr y_fr a_fr une_fr inflammation_fr ;_fr il_fr y_fr a_fr probablement_fr une_fr infection_fr ._fr
+ok_fr ._fr donc_fr la_fr patiente_fr a_fr alors_fr été_fr traitée_fr avec_fr une_fr _UNK__fr ,_fr un_fr antibiotique_fr de_fr troisième_fr génération_fr ,_fr et_fr de_fr la_fr _UNK__fr ,_fr et_fr le_fr troisième_fr jour_fr ,_fr ça_fr n'avait_fr rien_fr fait_fr :_fr elle_fr _UNK__fr vers_fr une_fr insuffisance_fr aigüe_fr ._fr
+ils_fr ont_fr dû_fr _UNK__fr ,_fr donc_fr ils_fr lui_fr ont_fr mis_fr un_fr tube_fr dans_fr la_fr gorge_fr et_fr ils_fr ont_fr commencé_fr à_fr la_fr ventiler_fr mécaniquement_fr ._fr
+elle_fr ne_fr pouvait_fr plus_fr respirer_fr par_fr elle_fr -_fr même_fr ._fr
+que_fr faire_fr maintenant_fr ?_fr pas_fr d'idée_fr ._fr
+changer_fr les_fr antibiotiques_fr ,_fr donc_fr ils_fr lui_fr ont_fr donné_fr un_fr autre_fr antibiotique_fr ,_fr et_fr du_fr tamiflu_fr ,_fr qui_fr --_fr ce_fr n'est_fr pas_fr clair_fr pourquoi_fr ils_fr pensaient_fr qu'elle_fr avait_fr la_fr grippe_fr --_fr mais_fr ils_fr l'ont_fr mise_fr sous_fr tamiflu_fr ._fr
+et_fr le_fr sixième_fr jour_fr ,_fr ils_fr ont_fr pratiquement_fr jeté_fr l'éponge_fr ._fr
+on_fr pratique_fr une_fr biopsie_fr pulmonaire_fr ouverte_fr quand_fr on_fr n'a_fr pas_fr d'autres_fr choix_fr ._fr
+il_fr y_fr a_fr un_fr taux_fr de_fr mortalité_fr de_fr huit_fr pour_fr cent_fr du_fr simple_fr fait_fr de_fr pratiquer_fr cette_fr intervention_fr ,_fr et_fr donc_fr en_fr fait_fr --_fr et_fr que_fr nous_fr apprend_fr -_fr elle_fr ?_fr
+ce_fr que_fr vous_fr regardez_fr c'est_fr sa_fr biopsie_fr pulmonaire_fr ouverte_fr ._fr
+je_fr ne_fr suis_fr pas_fr un_fr pathologiste_fr ,_fr mais_fr on_fr ne_fr peut_fr pas_fr en_fr déduire_fr grand_fr chose_fr ._fr
+tout_fr ce_fr qu'on_fr peut_fr dire_fr c'est_fr qu'il_fr y_fr a_fr un_fr _UNK__fr important_fr :_fr _UNK__fr ._fr
+ce_fr n'était_fr pas_fr révélateur_fr :_fr c'est_fr ce_fr que_fr dit_fr le_fr rapport_fr du_fr pathologiste_fr ._fr
+et_fr donc_fr ,_fr ils_fr lui_fr firent_fr subir_fr quels_fr tests_fr ?_fr
+ils_fr ont_fr leur_fr propres_fr tests_fr ,_fr bien_fr sûr_fr ,_fr et_fr donc_fr ils_fr lui_fr ont_fr fait_fr subir_fr 70_fr tests_fr différents_fr ,_fr pour_fr toutes_fr les_fr sortes_fr de_fr bactérie_fr ,_fr _UNK__fr et_fr virus_fr que_fr l'on_fr peut_fr acheter_fr tout_fr prêts_fr :_fr sras_fr ,_fr _UNK__fr ,_fr vih_fr ,_fr _UNK__fr --_fr tous_fr ceux_fr -_fr là_fr ._fr
+tout_fr est_fr revenu_fr négatif_fr ._fr plus_fr de_fr 100.000_fr dollars_fr de_fr tests_fr ._fr
+je_fr veux_fr dire_fr ,_fr ils_fr ont_fr fait_fr le_fr maximum_fr pour_fr cette_fr femme_fr ._fr
+et_fr en_fr fait_fr ils_fr nous_fr ont_fr appelés_fr lors_fr de_fr son_fr huitième_fr jour_fr d'hospitalisation_fr ._fr
+ils_fr nous_fr donnèrent_fr une_fr aspiration_fr _UNK__fr --_fr vous_fr savez_fr ,_fr un_fr peu_fr de_fr liquide_fr prélevé_fr dans_fr la_fr gorge_fr ,_fr venant_fr du_fr tube_fr qu'ils_fr lui_fr avaient_fr mis_fr là_fr --_fr et_fr il_fr nous_fr le_fr donnèrent_fr ._fr
+nous_fr l'avons_fr mis_fr sur_fr la_fr puce_fr ;_fr qu'avons_fr nous_fr vu_fr ?_fr et_fr bien_fr ,_fr nous_fr avons_fr vu_fr le_fr virus_fr paragrippal_fr de_fr type_fr 4_fr ._fr
+mais_fr ,_fr qu'est_fr -_fr ce_fr -_fr que_fr ça_fr peut_fr bien_fr être_fr le_fr virus_fr paragrippal_fr de_fr type_fr 4_fr ?_fr
+personne_fr ne_fr fait_fr de_fr contrôle_fr pour_fr le_fr virus_fr paragrippal_fr de_fr type_fr _UNK__fr personne_fr ne_fr s'en_fr soucie_fr ._fr
+en_fr fait_fr ,_fr il_fr n'a_fr pas_fr vraiment_fr été_fr séquencé_fr tant_fr que_fr ca._fr
+on_fr n'en_fr a_fr séquencé_fr qu'un_fr petit_fr bout_fr ._fr
+il_fr n'y_fr a_fr pratiquement_fr pas_fr eu_fr de_fr recherche_fr épidémiologique_fr ni_fr d'études_fr à_fr son_fr sujet_fr ._fr
+personne_fr ne_fr l'a_fr même_fr envisagé_fr ,_fr parce_fr que_fr personne_fr n'avait_fr la_fr moindre_fr idée_fr qu'il_fr pouvait_fr provoquer_fr une_fr insuffisance_fr respiratoire_fr ._fr
+et_fr pourquoi_fr cela_fr ?_fr la_fr simple_fr habitude_fr ._fr il_fr n'y_fr a_fr pas_fr de_fr donnés_fr --_fr pas_fr de_fr données_fr qui_fr montrent_fr s'il_fr provoque_fr une_fr maladie_fr grave_fr ou_fr bénigne_fr ._fr
+manifestement_fr ,_fr nous_fr avons_fr le_fr cas_fr d'une_fr personne_fr en_fr bonne_fr santé_fr qui_fr va_fr de_fr plus_fr en_fr plus_fr mal_fr ._fr
+ok_fr ,_fr c'est_fr le_fr compte_fr rendu_fr d'un_fr cas_fr ._fr
+je_fr vais_fr vous_fr dire_fr une_fr dernière_fr chose_fr dans_fr les_fr deux_fr minutes_fr qui_fr restent_fr qui_fr n'a_fr pas_fr été_fr publiée_fr --_fr cela_fr va_fr être_fr rendu_fr public_fr demain_fr --_fr et_fr c'est_fr un_fr exemple_fr intéressant_fr d'utilisation_fr de_fr cette_fr puce_fr pour_fr trouver_fr quelque_fr chose_fr de_fr nouveau_fr et_fr ouvrir_fr une_fr nouvelle_fr voie_fr ._fr
+le_fr cancer_fr de_fr la_fr prostate_fr ._fr je_fr n'ai_fr pas_fr besoin_fr de_fr vous_fr donner_fr plein_fr de_fr statistiques_fr sur_fr le_fr cancer_fr de_fr la_fr prostate_fr ._fr la_fr plupart_fr d'entre_fr vous_fr les_fr connaissent_fr déjà_fr :_fr la_fr troisième_fr cause_fr de_fr décès_fr par_fr cancer_fr aux_fr etats_fr -_fr unis_fr ._fr
+beaucoup_fr de_fr facteurs_fr de_fr risque_fr ,_fr mais_fr il_fr y_fr a_fr une_fr prédisposition_fr génétique_fr au_fr cancer_fr de_fr la_fr prostate_fr ._fr
+dans_fr peut_fr -_fr être_fr 10_fr pour_fr cent_fr des_fr cancers_fr de_fr la_fr prostate_fr ,_fr il_fr y_fr a_fr des_fr gens_fr qui_fr y_fr sont_fr _UNK__fr ._fr
+et_fr le_fr premier_fr gène_fr qui_fr a_fr été_fr cartographié_fr dans_fr les_fr études_fr d'association_fr sur_fr ça_fr ,_fr le_fr cancer_fr de_fr la_fr prostate_fr chez_fr l'homme_fr jeune_fr ,_fr était_fr le_fr gène_fr qui_fr s'appelle_fr rnasel_fr ._fr
+qu'est_fr -_fr ce_fr que_fr c'est_fr ?_fr c'est_fr une_fr enzyme_fr antivirale_fr ._fr
+donc_fr nous_fr restons_fr assis_fr à_fr réfléchir_fr ,_fr pourquoi_fr les_fr hommes_fr qui_fr ont_fr cette_fr mutation_fr ,_fr un_fr défaut_fr dans_fr le_fr système_fr de_fr défense_fr antiviral_fr ,_fr _UNK__fr -_fr ils_fr un_fr cancer_fr de_fr la_fr prostate_fr ?_fr
+ça_fr n'est_fr pas_fr logique_fr --_fr sauf_fr si_fr ,_fr peut_fr -_fr être_fr ,_fr il_fr y_fr a_fr un_fr virus_fr ._fr
+donc_fr ,_fr nous_fr avons_fr mis_fr des_fr tumeurs_fr --_fr et_fr nous_fr avons_fr maintenant_fr plus_fr de_fr 100_fr tumeurs_fr --_fr sur_fr notre_fr puce_fr ._fr
+et_fr nous_fr savons_fr qui_fr a_fr ou_fr non_fr un_fr rnasel_fr défectueux_fr ._fr
+et_fr je_fr vous_fr montre_fr ici_fr le_fr signal_fr sur_fr la_fr puce_fr ,_fr et_fr je_fr vous_fr le_fr montre_fr pour_fr le_fr bloc_fr des_fr _UNK__fr de_fr rétrovirus_fr ._fr
+et_fr ce_fr que_fr je_fr vous_fr dis_fr ici_fr à_fr partir_fr du_fr signal_fr est_fr que_fr les_fr hommes_fr qui_fr ont_fr une_fr mutation_fr de_fr cette_fr enzyme_fr antivirale_fr ,_fr et_fr qui_fr ont_fr une_fr tumeur_fr ,_fr ont_fr souvent_fr --_fr 40_fr pour_fr cent_fr des_fr cas_fr --_fr une_fr signature_fr qui_fr révèle_fr un_fr nouveau_fr rétrovirus_fr ._fr
+ok_fr ,_fr c'est_fr plutôt_fr fou_fr ._fr qu'est_fr -_fr ce_fr c'est_fr ?_fr
+donc_fr ,_fr nous_fr _UNK__fr le_fr virus_fr en_fr entier_fr ._fr
+d'abord_fr ,_fr je_fr vous_fr dirai_fr qu'une_fr rapide_fr prévision_fr automatisée_fr nous_fr a_fr dit_fr qu'il_fr était_fr très_fr semblable_fr à_fr un_fr virus_fr de_fr souris_fr ._fr
+mais_fr ça_fr ne_fr nous_fr dit_fr pas_fr grand_fr chose_fr ,_fr donc_fr nous_fr l'avons_fr vraiment_fr cloné_fr en_fr entier_fr ._fr
+et_fr le_fr génome_fr que_fr je_fr vous_fr montre_fr juste_fr ici_fr ?_fr
+c'est_fr un_fr rétrovirus_fr gamma_fr classique_fr ,_fr mais_fr il_fr est_fr totalement_fr nouveau_fr ;_fr on_fr ne_fr l'avait_fr jamais_fr vu_fr avant_fr ._fr
+son_fr plus_fr proche_fr parent_fr vient_fr ,_fr en_fr fait_fr ,_fr des_fr souris_fr ,_fr et_fr donc_fr nous_fr l'appelons_fr un_fr rétrovirus_fr _UNK__fr ,_fr parce_fr qu'il_fr infecte_fr une_fr autre_fr espèce_fr que_fr les_fr souris_fr ._fr
+et_fr ceci_fr est_fr un_fr petit_fr arbre_fr phylogénétique_fr pour_fr voir_fr quelles_fr sont_fr ses_fr relations_fr de_fr parenté_fr avec_fr les_fr autres_fr virus_fr ._fr
+et_fr ensuite_fr nous_fr avons_fr fait_fr cela_fr pour_fr de_fr nombreux_fr patients_fr ,_fr et_fr nous_fr pouvons_fr dire_fr que_fr toutes_fr ces_fr infections_fr sont_fr indépendantes_fr ._fr
+ils_fr ont_fr tous_fr le_fr même_fr virus_fr ,_fr mais_fr ils_fr sont_fr suffisamment_fr différents_fr pour_fr qu'on_fr ait_fr des_fr raisons_fr de_fr croire_fr qu'ils_fr ont_fr été_fr infecté_fr indépendamment_fr ._fr
+est_fr -_fr ce_fr vraiment_fr dans_fr les_fr tissus_fr ._fr et_fr je_fr finirai_fr là_fr -_fr dessus_fr ._fr oui_fr ._fr
+nous_fr prenons_fr des_fr coupes_fr de_fr ces_fr biopsies_fr de_fr tissus_fr _UNK__fr et_fr utilisons_fr ce_fr matériel_fr pour_fr localiser_fr vraiment_fr les_fr virus_fr ,_fr et_fr nous_fr trouvons_fr ici_fr des_fr cellules_fr qui_fr contiennent_fr des_fr particules_fr virales_fr ._fr
+ces_fr types_fr ont_fr vraiment_fr ce_fr virus_fr ._fr
+ce_fr virus_fr provoque_fr -_fr t_fr -_fr il_fr le_fr cancer_fr de_fr la_fr prostate_fr ?_fr
+rien_fr de_fr ce_fr que_fr je_fr dis_fr ici_fr n'implique_fr la_fr causalité_fr ._fr je_fr ne_fr sais_fr pas_fr ._fr
+est_fr -_fr ce_fr un_fr lien_fr vers_fr _UNK__fr ?_fr je_fr ne_fr sais_fr pas_fr ._fr
+est_fr -_fr ce_fr parce_fr que_fr ces_fr types_fr sont_fr davantage_fr sujets_fr aux_fr virus_fr ?_fr
+c'est_fr possible_fr ._fr et_fr ça_fr peut_fr n'avoir_fr rien_fr à_fr voir_fr avec_fr le_fr cancer_fr ._fr
+mais_fr maintenant_fr ça_fr ouvre_fr une_fr voie_fr ._fr
+nous_fr avons_fr une_fr forte_fr association_fr entre_fr la_fr présence_fr de_fr ce_fr virus_fr et_fr une_fr mutation_fr génétique_fr que_fr l'on_fr a_fr liée_fr au_fr cancer_fr ._fr
+voilà_fr où_fr nous_fr en_fr sommes_fr ._fr
+donc_fr ,_fr je_fr crains_fr que_fr ça_fr pose_fr plus_fr de_fr questions_fr que_fr ça_fr ne_fr donne_fr de_fr réponses_fr ,_fr mais_fr ça_fr ,_fr vous_fr savez_fr ,_fr c'est_fr le_fr point_fr fort_fr de_fr la_fr science_fr ._fr
+tout_fr cela_fr est_fr fait_fr par_fr les_fr gens_fr dans_fr le_fr labo_fr ;_fr pour_fr la_fr majeure_fr partie_fr je_fr ne_fr peux_fr pas_fr m'en_fr attribuer_fr le_fr mérite_fr ._fr
+c'est_fr une_fr collaboration_fr entre_fr moi_fr -_fr même_fr et_fr don_fr ._fr
+c'est_fr le_fr type_fr qui_fr a_fr commencé_fr le_fr projet_fr dans_fr mon_fr labo_fr ,_fr et_fr lui_fr c'est_fr le_fr type_fr qui_fr a_fr fait_fr les_fr trucs_fr sur_fr la_fr prostate_fr ._fr
+merci_fr beaucoup_fr ._fr

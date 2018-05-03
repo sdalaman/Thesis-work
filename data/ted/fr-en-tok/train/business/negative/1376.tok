@@ -1,0 +1,152 @@
+bonjour	je	suis	ici	aujourd'hui	pour	parler	de	ballons	de	plage	volants	et	autonomes	.
+non	,	de	robots	aériens	agiles	comme	celui	-	ci	.
+je	voudrais	vous	parler	des	défis	rencontrés	lors	de	leur	construction	et	de	quelques	-	unes	des	possibilités	formidables	d'application	de	cette	technologie	.
+donc	,	ces	robots	sont	apparentés	à	des	drones	.
+cependant	,	les	drones	que	vous	voyez	ici	sont	grands	.
+ils	pèsent	des	tonnes	,	ne	sont	pas	du	tout	agiles	.
+ils	ne	sont	même	pas	autonomes	.
+en	fait	,	bon	nombre	de	ces	véhicules	sont	_UNK_	par	des	équipes	de	pilotage	qui	peuvent	compter	des	pilotes	,	des	opérateurs	de	capteurs	et	plusieurs	_UNK_	de	mission	.
+ce	qui	nous	intéresse	,	c'est	le	développement	de	robots	de	ce	genre	-	et	voici	deux	autres	photos	-	des	robots	qu'on	peut	acheter	dans	le	commerce	.
+ce	sont	donc	des	hélicoptères	à	quatre	rotors	et	ils	font	à	peu	près	un	mètre	et	pèsent	plusieurs	kilos	.
+nous	leur	ajoutons	des	capteurs	et	des	processeurs	,	et	ces	robots	peuvent	voler	en	intérieur	sans	gps	.
+le	robot	que	je	tiens	dans	ma	main	est	de	ce	type	,	et	il	a	été	créé	par	deux	étudiants	,	alex	et	daniel	.
+il	pèse	un	peu	plus	d'un	vingtième	de	kilo	.
+il	consomme	environ	15	watts	d'électricité	.
+comme	vous	pouvez	le	voir	,	il	fait	environ	20	cm	de	diamètre	.
+laissez	-	moi	vous	montrer	rapidement	comment	ces	robots	fonctionnent	.
+un	robot	dispose	donc	de	quatre	rotors	.
+si	vous	faites	tourner	ces	rotors	à	la	même	vitesse	,	le	robot	plane	.
+si	vous	augmentez	la	vitesse	de	chacun	de	ces	rotors	,	alors	le	robot	s'envole	,	il	s'élève	en	accélérant	.
+bien	sûr	,	si	on	faisait	basculer	le	robot	,	si	on	_UNK_	à	l'horizontale	,	alors	il	_UNK_	dans	cette	direction	.
+donc	,	pour	le	faire	basculer	,	voici	l'une	des	deux	façons	de	le	faire	.
+donc	,	sur	cette	image	vous	voyez	que	le	rotor	n°	4	tourne	plus	vite	et	que	le	rotor	n°	2	tourne	plus	lentement	.
+quand	c'est	le	cas	,	il	y	a	un	_UNK_	qui	fait	basculer	le	robot	.
+et	dans	l'autre	sens	,	si	vous	augmentez	la	vitesse	du	rotor	n°3	et	diminuez	la	vitesse	du	rotor	n°1	,	alors	le	robot	bascule	en	avant	.
+enfin	,	si	vous	faites	tourner	des	paires	de	rotors	opposés	plus	vite	que	l'autre	paire	,	alors	le	robot	s'oriente	sur	l'axe	vertical	.
+donc	,	un	processeur	embarqué	s'intéresse	essentiellement	aux	mouvements	qui	doivent	être	exécutés	et	combine	ces	mouvements	et	calcule	quelles	commandes	envoyer	aux	moteurs	600	fois	par	seconde	.
+c'est	en	gros	comme	ça	que	ça	fonctionne	.
+donc	,	l'un	des	avantages	de	cette	conception	c'est	que	quand	on	réduit	la	taille	globale	,	le	robot	devient	naturellement	agile	.
+donc	ici	r	est	la	longueur	caractéristique	du	robot	.
+c'est	la	moitié	du	diamètre	,	en	fait	.
+et	il	y	a	beaucoup	de	paramètres	physiques	qui	changent	quand	on	réduit	r	.
+celui	qui	est	le	plus	important	est	l'inertie	ou	la	résistance	au	mouvement	.
+ainsi	,	il	s'avère	que	l'inertie	,	qui	gouverne	le	mouvement	angulaire	,	se	met	à	l'échelle	r	puissance	5	.
+donc	plus	vous	réduisez	r	,	plus	l'inertie	se	réduit	de	façon	spectaculaire	.
+donc	,	l'accélération	angulaire	,	désignée	ici	par	la	lettre	grecque	alpha	,	devient	un	sur	r	.
+elle	est	inversement	proportionnelle	à	r	.
+plus	on	la	réduit	,	plus	on	peut	tourner	vite	.
+cela	devrait	apparaître	clairement	dans	ces	vidéos	.
+en	bas	à	droite	,	on	peut	voir	un	robot	effectuer	un	tonneau	de	360	degrés	en	moins	d'une	demi	-	seconde	.
+des	tonneaux	multiples	,	un	peu	plus	de	temps	.
+donc	,	ici	,	les	processus	embarqués	reçoivent	les	retours	des	accéléromètres	et	des	gyroscopes	embarqués	et	calculent	,	comme	je	l'ai	dit	avant	,	les	commandes	600	fois	par	seconde	pour	stabiliser	ce	robot	.
+donc	,	sur	la	gauche	,	vous	voyez	daniel	jeter	ce	robot	en	l'air	.
+et	ça	vous	montre	la	robustesse	du	contrôle	.
+peu	importe	comment	on	le	jette	,	le	robot	récupère	et	revient	à	lui	.
+alors	,	pourquoi	construire	des	robots	comme	celui	-	ci	?
+des	robots	de	ce	genre	ont	de	nombreuses	applications	.
+on	peut	les	envoyer	à	l'intérieur	de	bâtiments	comme	celui	-	ci	comme	premiers	intervenants	à	la	recherche	_UNK_	,	peut	-	être	à	la	recherche	de	fuites	biochimiques	,	de	fuites	de	gaz	.
+on	peut	aussi	les	utiliser	pour	des	applications	comme	la	construction	.
+voici	des	robots	qui	transportent	des	poutres	,	des	colonnes	et	qui	assemblent	des	structures	cubiques	.
+je	vais	vous	en	dire	un	peu	plus	à	ce	sujet	.
+les	robots	peuvent	être	utilisés	pour	le	transport	de	fret	.
+donc	,	l'un	des	problèmes	avec	ces	petits	robots	est	leur	capacité	de	charge	utile	donc	,	il	faudra	peut	-	être	avoir	plusieurs	robots	pour	transporter	des	charges	utiles	.
+ceci	est	une	photo	d'une	expérience	récente	plus	si	récente	que	ça	en	fait	à	sendai	peu	de	temps	après	le	tremblement	de	terre	.
+des	robots	comme	celui	-	ci	pourraient	être	envoyés	dans	les	bâtiments	_UNK_	pour	évaluer	les	dégâts	après	les	catastrophes	naturelles	,	ou	envoyés	dans	les	bâtiments	réacteurs	pour	cartographier	les	niveaux	de	radiation	.
+un	problème	fondamental	que	les	robots	doivent	résoudre	s'ils	veulent	être	autonomes	est	en	gros	de	trouver	comment	aller	du	point	a	au	point	b	.
+cela	devient	un	peu	difficile	parce	que	la	dynamique	de	ce	robot	est	assez	compliquée	.
+en	fait	,	ils	vivent	dans	un	espace	à	12	dimensions	.
+alors	,	nous	utilisons	une	petite	astuce	.
+nous	profitons	de	cet	espace	courbe	à	12	dimensions	et	le	transformons	en	un	espace	plat	à	quatre	dimensions	.
+et	cet	espace	à	quatre	dimensions	se	compose	de	x	,	y	,	z	et	de	l'angle	d'orientation	.
+et	alors	ce	robot	planifie	ce	que	nous	appelons	une	trajectoire	de	décrochage	minimum	.
+un	rappel	de	physique	,	vous	avez	la	position	,	la	dérivée	,	la	vitesse	,	puis	l'accélération	,	puis	vient	la	_UNK_	puis	vient	le	décrochage	donc	,	ce	robot	minimise	le	décrochage	.
+cela	produit	effectivement	un	mouvement	doux	et	gracieux	.
+le	tout	en	évitant	les	obstacles	.
+ces	trajectoires	de	décrochage	minimum	dans	cet	espace	plat	sont	ensuite	transformées	à	nouveau	dans	cet	espace	complexe	à	12	dimensions	,	ce	que	le	robot	doit	faire	pour	le	contrôle	et	l'exécution	.
+alors	laissez	-	moi	vous	montrer	quelques	exemples	de	ce	à	quoi	ressemblent	ces	trajectoires	de	décrochage	minimum	.
+et	dans	la	première	vidéo	,	vous	verrez	le	robot	aller	du	point	a	au	point	b	par	un	point	intermédiaire	.
+ainsi	,	le	robot	est	évidemment	capable	d'exécuter	n'importe	quelle	trajectoire	courbe	.
+ce	sont	donc	des	trajectoires	circulaires	où	le	robot	subit	environ	deux	g	.
+ici	vous	avez	des	caméras	de	captation	de	mouvement	sur	le	dessus	qui	disent	au	robot	où	il	se	trouve	100	fois	par	seconde	.
+elles	disent	aussi	au	robot	où	sont	ces	obstacles	.
+et	les	obstacles	peuvent	être	en	mouvement	.
+et	ici	,	vous	verrez	daniel	jeter	ce	cerceau	dans	l'air	,	tandis	que	le	robot	calcule	la	position	du	cerceau	et	essaye	de	trouver	la	meilleure	façon	de	passer	à	travers	le	cerceau	.
+en	tant	qu'universitaire	,	on	nous	forme	toujours	à	réussir	les	épreuves	de	sélection	afin	de	lever	des	fonds	pour	nos	labos	,	et	ce	sont	nos	robots	qui	le	font	pour	nous	.
+autre	chose	que	le	robot	peut	faire	:	il	se	souvient	des	bouts	de	trajectoire	qu'il	apprend	ou	qui	sont	pré	-	programmés	.
+ici	vous	pouvez	voir	le	robot	effectuer	un	mouvement	qui	exige	d'accumuler	de	la	vitesse	de	modifier	son	orientation	,	puis	de	se	redresser	.
+donc	,	il	doit	le	faire	parce	que	cette	ouverture	dans	la	fenêtre	est	à	peine	supérieure	à	la	largeur	du	robot	.
+alors	,	tout	comme	un	plongeur	sur	un	tremplin	se	jette	pour	gagner	de	la	vitesse	,	et	puis	fait	sa	_UNK_	,	ces	deux	_UNK_	et	demi	et	puis	il	récupère	facilement	,	c'est	en	gros	ce	que	ce	robot	fait	.
+il	sait	comment	combiner	de	petits	bouts	de	trajectoires	pour	effectuer	ces	tâches	assez	difficiles	.
+je	veux	changer	de	vitesse	.
+l'un	des	inconvénients	de	ces	petits	robots	est	leur	taille	.
+et	je	vous	l'ai	dit	plus	tôt	:	on	peut	vouloir	employer	des	tas	de	robots	pour	surmonter	les	limitations	de	taille	.
+donc	,	une	difficulté	est	de	savoir	comment	coordonner	un	bon	nombre	de	ces	robots	?
+et	ici	nous	nous	sommes	tournés	vers	la	nature	.
+je	tiens	donc	à	vous	montrer	une	vidéo	des	fourmis	du	désert	_UNK_	dans	le	laboratoire	du	professeur	stephen	pratt	portant	un	objet	.
+c'est	en	fait	un	morceau	de	figue	.
+en	fait	,	vous	prenez	un	objet	quelconque	enduit	de	jus	de	figue	et	les	fourmis	vont	le	ramener	au	nid	.
+ces	fourmis	n'ont	pas	de	_UNK_	central	.
+elles	repèrent	leurs	voisins	.
+il	n'y	a	pas	de	communication	explicite	.
+mais	parce	qu'elles	repèrent	les	voisins	et	parce	qu'elles	repèrent	l'objet	,	elles	ont	une	coordination	implicite	au	sein	du	groupe	.
+c'est	le	genre	de	coordination	que	nous	voulons	pour	nos	robots	.
+lorsque	nous	avons	un	robot	qui	est	entouré	par	des	voisins	-	et	regardons	le	robot	i	et	le	robot	j	-	ce	que	nous	voulons	que	les	robots	fassent	c'est	surveiller	la	distance	qui	les	sépare	quand	ils	volent	en	formation	.
+et	puis	,	on	veut	s'assurer	que	cette	distance	est	dans	des	limites	acceptables	.
+encore	une	fois	,	les	robots	surveillent	cette	erreur	et	calculent	les	commandes	de	contrôle	100	fois	par	seconde	,	ce	qui	se	traduit	alors	par	des	commandes	motrices	600	fois	par	seconde	.
+cela	doit	aussi	se	faire	d'une	manière	décentralisée	.
+encore	une	fois	,	si	vous	avez	des	tas	de	robots	,	il	est	impossible	de	coordonner	toutes	ces	informations	de	façon	centrale	assez	vite	pour	que	les	robots	accomplissent	la	tâche	.
+en	plus	les	robots	sont	amenées	à	fonder	leurs	actions	uniquement	sur	des	informations	locales	,	ce	qu'ils	repèrent	de	leurs	voisins	.
+et	enfin	,	nous	tenons	à	ce	que	les	robots	ne	sachent	pas	l'identité	exacte	de	leurs	voisins	.
+c'est	ce	que	nous	appelons	l'anonymat	.
+je	veux	vous	montrer	maintenant	une	vidéo	de	20	de	ces	petits	robots	volant	en	formation	.
+ils	surveillent	la	position	de	leurs	voisins	.
+ils	maintiennent	la	formation	.
+les	formations	peuvent	changer	.
+ces	formations	peuvent	être	_UNK_	,	elles	peuvent	être	tridimensionnelles	.
+comme	vous	pouvez	le	voir	ici	,	ils	se	replient	d'une	formation	en	trois	dimensions	dans	la	formation	_UNK_	.
+et	pour	voler	à	travers	les	obstacles	ils	peuvent	s'adapter	aux	formations	à	la	volée	.
+encore	une	fois	,	ces	robots	sont	très	rapprochés	.
+comme	vous	pouvez	le	voir	dans	ce	vol	en	huit	,	ils	viennent	à	quelques	centimètres	les	uns	des	autres	.
+et	malgré	les	interactions	aérodynamiques	des	pales	de	l'hélice	,	ils	sont	en	mesure	de	maintenir	un	vol	stable	.
+une	fois	que	vous	savez	comment	voler	en	formation	,	vous	pouvez	effectivement	ramasser	des	objets	en	collaboration	.
+cela	montre	simplement	que	nous	pouvons	doubler	,	tripler	,	quadrupler	la	force	des	robots	en	les	amenant	à	s'associer	avec	leurs	voisins	,	comme	vous	pouvez	le	voir	ici	.
+un	des	inconvénients	de	faire	ça	est	,	que	comme	on	augmente	l'échelle	globale	--	si	on	a	beaucoup	de	robots	qui	transportent	la	même	chose	,	en	fait	on	augmente	l'inertie	,	et	donc	on	subit	la	conséquence	,	ils	ne	sont	pas	aussi	agiles	.
+mais	on	y	gagne	en	capacité	de	transport	de	charge	utile	.
+une	autre	application	que	je	souhaite	vous	montrer	-	une	fois	de	plus	,	c'est	dans	notre	laboratoire	.
+ce	travail	est	effectué	par	quentin	lindsey	qui	est	un	étudiant	de	troisième	cycle	.
+son	algorithme	dit	essentiellement	à	ces	robots	comment	construire	de	manière	autonome	des	structures	cubiques	à	partir	d'éléments	de	type	treillis	.
+son	algorithme	indique	au	robot	quelle	partie	ramasser	,	quand	et	où	la	placer	.
+dans	cette	vidéo	vous	voyez	-	et	c'est	accéléré	10	,	14	fois	-	vous	voyez	ces	robots	en	train	de	construire	trois	structures	différentes	.
+et	là	encore	,	tout	est	autonome	,	et	tout	ce	que	quentin	doit	faire	est	de	leur	donner	un	plan	de	ce	qu'il	veut	construire	.
+toutes	ces	expériences	que	vous	avez	vues	jusqu'à	présent	,	toutes	ces	manifestations	,	ont	été	réalisées	avec	l'aide	de	systèmes	de	captation	de	mouvement	.
+que	se	passe	-	t	-	il	lorsque	vous	quittez	votre	laboratoire	et	vous	aller	dehors	dans	le	monde	réel	?
+et	si	il	n'y	a	pas	de	gps	?
+donc	,	ce	robot	est	en	fait	équipé	d'une	caméra	et	d'un	pointeur	laser	h	,	un	scanner	laser	.
+et	il	utilise	ces	capteurs	pour	élaborer	une	carte	de	l'environnement	.
+la	carte	se	compose	de	caractéristiques	--	comme	des	portes	,	fenêtres	,	les	gens	,	les	meubles	-	et	ensuite	il	calcule	sa	position	par	rapport	aux	caractéristiques	.
+il	n'y	a	pas	de	système	de	coordonnées	global	.
+le	système	de	coordonnées	est	défini	d'après	le	robot	,	où	il	se	trouve	et	ce	qu'il	regarde	.
+et	il	navigue	en	fonction	de	ces	caractéristiques	.
+je	tiens	donc	à	vous	montrer	un	clip	des	algorithmes	développés	par	frank	shen	et	le	professeur	nathan	michael	qui	montre	ce	robot	qui	entre	dans	un	bâtiment	pour	la	première	fois	et	crée	cette	carte	à	la	volée	.
+le	robot	détermine	ensuite	les	caractéristiques	.
+il	élabore	la	carte	.
+il	calcule	où	il	se	trouve	en	fonction	des	caractéristiques	et	estime	alors	sa	position	100	fois	par	seconde	nous	permettant	d'utiliser	les	algorithmes	de	contrôle	que	je	vous	ai	décrits	plus	tôt	.
+donc	,	ce	robot	est	en	fait	commandé	à	distance	par	frank	.
+mais	le	robot	peut	aussi	calculer	où	aller	tout	seul	.
+supposons	donc	que	je	doive	l'envoyer	dans	un	bâtiment	et	je	n'aie	aucune	idée	de	ce	à	quoi	ce	bâtiment	ressemble	,	je	peux	demander	à	ce	robot	d'entrer	,	d'élaborer	une	carte	et	puis	de	revenir	et	de	me	dire	à	quoi	le	bâtiment	ressemble	.
+ici	,	le	robot	résout	non	seulement	le	problème	,	comment	aller	du	point	a	,	au	point	b	sur	cette	carte	mais	il	calcule	quel	est	le	meilleur	point	b	à	chaque	fois	.
+donc	,	essentiellement	,	il	sait	où	aller	pour	trouver	les	endroits	qui	ont	le	moins	d'informations	.
+et	c'est	comme	ça	qu'il	remplit	cette	carte	.
+je	vais	finir	avec	une	dernière	application	.
+et	il	y	a	de	nombreuses	applications	de	cette	technologie	.
+je	suis	professeur	,	et	nous	sommes	passionnés	par	l'éducation	.
+des	robots	comme	celui	-	là	peuvent	vraiment	changer	la	façon	dont	nous	pratiquons	l'éducation	secondaire	.
+mais	nous	sommes	en	californie	du	sud	,	près	de	los	angeles	,	je	dois	donc	conclure	avec	quelque	chose	_UNK_	sur	le	divertissement	.
+je	voudrais	conclure	avec	un	clip	musical	.
+je	tiens	à	présenter	les	créateurs	,	alex	et	daniel	,	qui	ont	conçu	cette	vidéo	.
+avant	de	jouer	cette	vidéo	,	je	tiens	à	vous	dire	qu'ils	l'ont	créée	au	cours	des	trois	derniers	jours	après	avoir	reçu	un	appel	de	chris	.
+et	les	robots	qui	jouent	la	vidéo	sont	complètement	autonomes	.
+vous	verrez	neuf	robots	qui	jouent	six	instruments	différents	.
+et	bien	sûr	,	le	clip	est	une	exclusivité	pour	ted	2012	.
+regardons	.
+

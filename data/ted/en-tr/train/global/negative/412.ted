@@ -1,0 +1,36 @@
+in_en 1962_en ,_en buckminster_en fuller_en presented_en the_en particularly_en audacious_en proposal_en for_en the_en geoscope_en ._en
+it_en was_en a_en 200_en -_en foot_en diameter_en geodesic_en sphere_en to_en be_en suspended_en over_en the_en east_en river_en in_en new_en york_en city_en ,_en in_en full_en view_en of_en the_en united_en nations_en ._en
+it_en was_en a_en big_en idea_en ,_en for_en sure_en ,_en and_en it_en was_en one_en that_en he_en felt_en could_en truly_en inform_en and_en deeply_en affect_en the_en decision_en making_en of_en this_en body_en through_en animations_en of_en global_en data_en ,_en trends_en and_en other_en information_en regarding_en the_en globe_en ,_en on_en this_en sphere_en ._en
+and_en today_en ,_en 45_en years_en later_en ,_en we_en clearly_en have_en no_en less_en need_en for_en this_en kind_en of_en clarity_en and_en perspective_en ,_en but_en what_en we_en do_en have_en is_en improved_en technology_en ._en
+today_en we_en do_en n't_en need_en one_en million_en light_en bulbs_en to_en create_en a_en spherical_en display_en ._en
+we_en can_en use_en leds_en ._en
+leds_en are_en smaller_en ,_en they_en 're_en cheaper_en ,_en they_en 're_en longer_en lasting_en ,_en they_en 're_en more_en efficient_en ._en
+most_en importantly_en for_en this_en ,_en they_en 're_en faster_en ._en
+and_en this_en speed_en ,_en combined_en with_en today_en 's_en high_en -_en performance_en micro_en -_en controllers_en ,_en allows_en us_en to_en actually_en simulate_en ,_en in_en this_en piece_en ,_en over_en 17,000_en leds_en --_en using_en just_en 64_en ._en
+and_en the_en way_en this_en happens_en is_en through_en the_en phenomenon_en of_en persistence_en of_en vision_en ._en
+but_en as_en this_en ring_en rotates_en at_en about_en 1,700_en rpm_en --_en that_en 's_en 28_en times_en per_en second_en ._en
+the_en equator_en 's_en speed_en is_en actually_en about_en 60_en miles_en per_en hour_en ._en
+there_en are_en four_en on_en -_en board_en micro_en -_en controllers_en that_en ,_en each_en time_en this_en ring_en rotates_en it_en ,_en as_en it_en passes_en the_en rear_en of_en the_en display_en ,_en it_en picks_en up_en a_en position_en signal_en ._en
+and_en from_en that_en ,_en the_en on_en -_en board_en micro_en -_en controllers_en can_en extrapolate_en the_en position_en of_en the_en ring_en at_en all_en points_en around_en the_en revolution_en and_en display_en arbitrary_en bitmap_en images_en and_en animations_en ._en
+but_en this_en is_en really_en just_en the_en beginning_en ._en
+in_en addition_en to_en higher_en resolution_en versions_en of_en this_en display_en ,_en my_en father_en and_en i_en are_en working_en on_en a_en new_en patent_en -_en pending_en design_en for_en a_en fully_en volumetric_en display_en using_en the_en same_en phenomenon_en ._en
+it_en achieves_en this_en by_en rotating_en leds_en about_en two_en axes_en ._en
+so_en as_en you_en can_en see_en here_en ,_en this_en is_en a_en ,_en eleven_en -_en inch_en diameter_en circuit_en board_en ._en
+these_en blocks_en represent_en leds_en ._en
+and_en so_en you_en could_en see_en that_en as_en this_en disc_en rotates_en about_en this_en axis_en ,_en it_en will_en create_en a_en disc_en of_en light_en that_en we_en can_en control_en ._en
+that_en 's_en nothing_en new_en :_en that_en 's_en a_en propeller_en clock_en ;_en that_en 's_en the_en rims_en that_en you_en can_en buy_en for_en your_en car_en ._en
+but_en what_en is_en new_en is_en that_en ,_en when_en we_en rotate_en this_en disc_en about_en this_en axis_en ,_en this_en disc_en of_en light_en actually_en becomes_en a_en sphere_en of_en light_en ._en
+and_en so_en we_en can_en control_en that_en with_en micro_en -_en controllers_en and_en create_en a_en fully_en volumetric_en ,_en three_en -_en dimensional_en display_en with_en just_en 256_en leds_en ._en
+now_en this_en piece_en is_en currently_en in_en process_en --_en due_en out_en in_en may_en --_en but_en what_en we_en 've_en done_en is_en we_en 've_en put_en together_en a_en small_en demo_en ,_en just_en to_en show_en the_en geometric_en translation_en of_en points_en into_en a_en sphere_en ._en
+i_en 've_en got_en a_en little_en video_en to_en show_en you_en ,_en but_en keep_en in_en mind_en that_en this_en is_en with_en no_en electronic_en control_en ,_en and_en this_en is_en also_en with_en only_en four_en leds_en ._en
+this_en is_en actually_en only_en about_en 1.5_en percent_en of_en what_en the_en final_en display_en will_en be_en in_en may_en ._en
+so_en ,_en take_en a_en look_en ._en
+and_en here_en you_en can_en see_en it_en 's_en rotating_en about_en the_en vertical_en axis_en only_en ,_en creating_en circles_en ._en
+and_en then_en ,_en as_en the_en other_en axis_en kicks_en in_en ,_en those_en actually_en blur_en into_en a_en volume_en ._en
+and_en the_en shutter_en speed_en of_en the_en camera_en actually_en makes_en it_en slightly_en less_en effective_en in_en this_en case_en ._en
+but_en this_en piece_en is_en due_en out_en in_en may_en ._en
+it_en 'll_en be_en on_en display_en at_en the_en interactive_en telecommunications_en spring_en show_en in_en greenwich_en village_en in_en new_en york_en city_en --_en that_en 's_en open_en to_en the_en public_en ,_en definitely_en invite_en you_en all_en to_en come_en and_en attend_en --_en it_en 's_en a_en fantastic_en show_en ._en
+there_en are_en hundreds_en of_en student_en innovators_en with_en fantastic_en projects_en ._en
+this_en piece_en ,_en actually_en ,_en will_en be_en on_en display_en down_en in_en the_en sierra_en simulcast_en lounge_en in_en the_en breaks_en between_en now_en and_en the_en end_en of_en the_en show_en ._en
+so_en i_en 'd_en love_en to_en talk_en to_en you_en all_en ,_en and_en invite_en you_en to_en come_en down_en and_en take_en a_en closer_en look_en ._en
+it_en 's_en an_en honor_en to_en be_en here_en ._en thanks_en very_en much_en ._en

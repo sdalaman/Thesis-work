@@ -1,0 +1,165 @@
+for_en the_en last_en 10_en years_en ,_en i_en 've_en been_en spending_en my_en time_en trying_en to_en figure_en out_en how_en and_en why_en human_en beings_en assemble_en themselves_en into_en social_en networks_en ._en
+and_en the_en kind_en of_en social_en network_en i_en 'm_en talking_en about_en is_en not_en the_en recent_en online_en variety_en ,_en but_en rather_en ,_en the_en kind_en of_en social_en networks_en that_en human_en beings_en have_en been_en assembling_en for_en hundreds_en of_en thousands_en of_en years_en ,_en ever_en since_en we_en emerged_en from_en the_en african_en savannah_en ._en
+so_en ,_en i_en form_en friendships_en and_en co_en -_en worker_en and_en sibling_en and_en relative_en relationships_en with_en other_en people_en who_en in_en turn_en have_en similar_en relationships_en with_en other_en people_en ._en
+and_en this_en spreads_en on_en out_en endlessly_en into_en a_en distance_en ._en
+and_en you_en get_en a_en network_en that_en looks_en like_en this_en ._en
+every_en dot_en is_en a_en person_en ._en
+every_en line_en between_en them_en is_en a_en relationship_en between_en two_en people_en --_en different_en kinds_en of_en relationships_en ._en
+and_en you_en can_en get_en this_en kind_en of_en vast_en fabric_en of_en humanity_en ,_en in_en which_en we_en 're_en all_en embedded_en ._en
+and_en my_en colleague_en ,_en james_en fowler_en and_en i_en have_en been_en studying_en for_en quite_en sometime_en what_en are_en the_en mathematical_en ,_en social_en ,_en biological_en and_en psychological_en rules_en that_en govern_en how_en these_en networks_en are_en assembled_en and_en what_en are_en the_en similar_en rules_en that_en govern_en how_en they_en operate_en ,_en how_en they_en affect_en our_en lives_en ._en
+but_en recently_en ,_en we_en 've_en been_en wondering_en whether_en it_en might_en be_en possible_en to_en take_en advantage_en of_en this_en insight_en ,_en to_en actually_en find_en ways_en to_en improve_en the_en world_en ,_en to_en do_en something_en better_en ,_en to_en actually_en fix_en things_en ,_en not_en just_en understand_en things_en ._en
+so_en one_en of_en the_en first_en things_en we_en thought_en we_en would_en tackle_en would_en be_en how_en we_en go_en about_en predicting_en epidemics_en ._en
+and_en the_en current_en state_en of_en the_en art_en in_en predicting_en an_en epidemic_en --_en if_en you_en 're_en the_en cdc_en or_en some_en other_en national_en body_en --_en is_en to_en sit_en in_en the_en middle_en where_en you_en are_en and_en collect_en data_en from_en physicians_en and_en laboratories_en in_en the_en field_en that_en report_en the_en prevalence_en or_en the_en incidence_en of_en certain_en conditions_en ._en
+so_en ,_en so_en and_en so_en patients_en have_en been_en diagnosed_en with_en something_en ,_en or_en other_en patients_en have_en been_en diagnosed_en ,_en and_en all_en these_en data_en are_en fed_en into_en a_en central_en repository_en ,_en with_en some_en delay_en ._en
+and_en if_en everything_en goes_en smoothly_en ,_en one_en to_en two_en weeks_en from_en now_en you_en 'll_en know_en where_en the_en epidemic_en was_en today_en ._en
+and_en actually_en ,_en about_en a_en year_en or_en so_en ago_en ,_en there_en was_en this_en promulgation_en of_en the_en idea_en of_en google_en flu_en trends_en ,_en with_en respect_en to_en the_en flu_en ,_en where_en by_en looking_en at_en people_en 's_en searching_en behavior_en today_en ,_en we_en could_en know_en where_en the_en flu_en --_en
+what_en the_en status_en of_en the_en epidemic_en was_en today_en ,_en what_en 's_en the_en prevalence_en of_en the_en epidemic_en today_en ._en
+but_en what_en i_en 'd_en like_en to_en show_en you_en today_en is_en a_en means_en by_en which_en we_en might_en get_en not_en just_en rapid_en warning_en about_en an_en epidemic_en ,_en but_en also_en actually_en early_en detection_en of_en an_en epidemic_en ._en
+and_en ,_en in_en fact_en ,_en this_en idea_en can_en be_en used_en not_en just_en to_en predict_en epidemics_en of_en germs_en ,_en but_en also_en to_en predict_en epidemics_en of_en all_en sorts_en of_en kinds_en ._en
+for_en example_en ,_en anything_en that_en spreads_en by_en a_en form_en of_en social_en contagion_en could_en be_en understood_en in_en this_en way_en ,_en from_en abstract_en ideas_en on_en the_en left_en like_en patriotism_en ,_en or_en altruism_en ,_en or_en religion_en to_en practices_en like_en dieting_en behavior_en ,_en or_en book_en purchasing_en ,_en or_en drinking_en ,_en or_en bicycle_en -_en helmet_en [_en and_en ]_en other_en safety_en practices_en ,_en or_en products_en that_en people_en might_en buy_en ,_en purchases_en of_en electronic_en goods_en ,_en anything_en in_en which_en there_en 's_en kind_en of_en an_en interpersonal_en spread_en ._en
+a_en kind_en of_en a_en diffusion_en of_en innovation_en could_en be_en understood_en and_en predicted_en by_en the_en mechanism_en i_en 'm_en going_en to_en show_en you_en now_en ._en
+so_en ,_en as_en all_en of_en you_en probably_en know_en ,_en the_en classic_en way_en of_en thinking_en about_en this_en is_en the_en diffusion_en -_en of_en -_en innovation_en ,_en or_en the_en adoption_en curve_en ._en
+so_en here_en on_en the_en y_en -_en axis_en ,_en we_en have_en the_en percent_en of_en the_en people_en affected_en ,_en and_en on_en the_en x_en -_en axis_en ,_en we_en have_en time_en ._en
+and_en at_en the_en very_en beginning_en ,_en not_en too_en many_en people_en are_en affected_en ,_en and_en you_en get_en this_en classic_en sigmoidal_en ,_en or_en s_en -_en shaped_en ,_en curve_en ._en
+and_en the_en reason_en for_en this_en shape_en is_en that_en at_en the_en very_en beginning_en ,_en let_en 's_en say_en one_en or_en two_en people_en are_en infected_en ,_en or_en affected_en by_en the_en thing_en and_en then_en they_en affect_en ,_en or_en infect_en ,_en two_en people_en ,_en who_en in_en turn_en affect_en four_en ,_en eight_en ,_en 16_en and_en so_en forth_en ,_en and_en you_en get_en the_en epidemic_en growth_en phase_en of_en the_en curve_en ._en
+and_en eventually_en ,_en you_en saturate_en the_en population_en ._en
+there_en are_en fewer_en and_en fewer_en people_en who_en are_en still_en available_en that_en you_en might_en infect_en ,_en and_en then_en you_en get_en the_en plateau_en of_en the_en curve_en ,_en and_en you_en get_en this_en classic_en sigmoidal_en curve_en ._en
+and_en this_en holds_en for_en germs_en ,_en ideas_en ,_en product_en adoption_en ,_en behaviors_en ,_en and_en the_en like_en ._en
+but_en things_en do_en n't_en just_en diffuse_en in_en human_en populations_en at_en random_en ._en
+they_en actually_en diffuse_en through_en networks_en ._en
+because_en ,_en as_en i_en said_en ,_en we_en live_en our_en lives_en in_en networks_en ,_en and_en these_en networks_en have_en a_en particular_en kind_en of_en a_en structure_en ._en
+now_en if_en you_en look_en at_en a_en network_en like_en this_en --_en
+this_en is_en 105_en people_en ._en
+and_en the_en lines_en represent_en --_en the_en dots_en are_en the_en people_en ,_en and_en the_en lines_en represent_en friendship_en relationships_en ._en
+you_en might_en see_en that_en people_en occupy_en different_en locations_en within_en the_en network_en ._en
+and_en there_en are_en different_en kinds_en of_en relationships_en between_en the_en people_en ._en
+you_en could_en have_en friendship_en relationships_en ,_en sibling_en relationships_en ,_en spousal_en relationships_en ,_en co_en -_en worker_en relationships_en ,_en neighbor_en relationships_en and_en the_en like_en ._en
+and_en different_en sorts_en of_en things_en spread_en across_en different_en sorts_en of_en ties_en ._en
+for_en instance_en ,_en sexually_en transmitted_en diseases_en will_en spread_en across_en sexual_en ties_en ._en
+or_en ,_en for_en instance_en ,_en people_en 's_en smoking_en behavior_en might_en be_en influenced_en by_en their_en friends_en ._en
+or_en their_en altruistic_en or_en their_en charitable_en giving_en behavior_en might_en be_en influenced_en by_en their_en coworkers_en ,_en or_en by_en their_en neighbors_en ._en
+but_en not_en all_en positions_en in_en the_en network_en are_en the_en same_en ._en
+so_en if_en you_en look_en at_en this_en ,_en you_en might_en immediately_en grasp_en that_en different_en people_en have_en different_en numbers_en of_en connections_en ._en
+some_en people_en have_en one_en connection_en ,_en some_en have_en two_en ,_en some_en have_en six_en ,_en some_en have_en 10_en connections_en ._en
+and_en this_en is_en called_en the_en "_en degree_en "_en of_en a_en node_en ,_en or_en the_en number_en of_en connections_en that_en a_en node_en has_en ._en
+but_en in_en addition_en ,_en there_en 's_en something_en else_en ._en
+so_en ,_en if_en you_en look_en at_en nodes_en a_en and_en b_en ,_en they_en both_en have_en six_en connections_en ._en
+but_en if_en you_en can_en see_en this_en image_en [_en of_en the_en network_en ]_en from_en a_en bird_en 's_en eye_en view_en ,_en you_en can_en appreciate_en that_en there_en 's_en something_en very_en different_en about_en nodes_en a_en and_en b._en
+so_en ,_en let_en me_en ask_en you_en this_en --_en i_en can_en cultivate_en this_en intuition_en by_en asking_en a_en question_en --_en who_en would_en you_en rather_en be_en if_en a_en deadly_en germ_en was_en spreading_en through_en the_en network_en ,_en a_en or_en b_en ?_en
+nicholas_en christakis_en :_en b_en ,_en it_en 's_en obvious_en ._en
+b_en is_en located_en on_en the_en edge_en of_en the_en network_en ._en
+now_en ,_en who_en would_en you_en rather_en be_en if_en a_en juicy_en piece_en of_en gossip_en were_en spreading_en through_en the_en network_en ?_en
+a._en and_en you_en have_en an_en immediate_en appreciation_en that_en a_en is_en going_en to_en be_en more_en likely_en to_en get_en the_en thing_en that_en 's_en spreading_en and_en to_en get_en it_en sooner_en by_en virtue_en of_en their_en structural_en location_en within_en the_en network_en ._en
+a_en ,_en in_en fact_en ,_en is_en more_en central_en ,_en and_en this_en can_en be_en formalized_en mathematically_en ._en
+so_en ,_en if_en we_en want_en to_en track_en something_en that_en was_en spreading_en through_en a_en network_en ,_en what_en we_en ideally_en would_en like_en to_en do_en is_en to_en set_en up_en sensors_en on_en the_en central_en individuals_en within_en the_en network_en ,_en including_en node_en a_en ,_en monitor_en those_en people_en that_en are_en right_en there_en in_en the_en middle_en of_en the_en network_en ,_en and_en somehow_en get_en an_en early_en detection_en of_en whatever_en it_en is_en that_en is_en spreading_en through_en the_en network_en ._en
+so_en if_en you_en saw_en them_en contract_en a_en germ_en or_en a_en piece_en of_en information_en ,_en you_en would_en know_en that_en ,_en soon_en enough_en ,_en everybody_en was_en about_en to_en contract_en this_en germ_en or_en this_en piece_en of_en information_en ._en
+and_en this_en would_en be_en much_en better_en than_en monitoring_en six_en randomly_en chosen_en people_en ,_en without_en reference_en to_en the_en structure_en of_en the_en population_en ._en
+and_en in_en fact_en ,_en if_en you_en could_en do_en that_en ,_en what_en you_en would_en see_en is_en something_en like_en this_en ._en
+on_en the_en left_en -_en hand_en panel_en ,_en again_en ,_en we_en have_en the_en s_en -_en shaped_en curve_en of_en adoption_en ._en
+in_en the_en dotted_en red_en line_en ,_en we_en show_en what_en the_en adoption_en would_en be_en in_en the_en random_en people_en ,_en and_en in_en the_en left_en -_en hand_en line_en ,_en shifted_en to_en the_en left_en ,_en we_en show_en what_en the_en adoption_en would_en be_en in_en the_en central_en individuals_en within_en the_en network_en ._en
+on_en the_en y_en -_en axis_en is_en the_en cumulative_en instances_en of_en contagion_en ,_en and_en on_en the_en x_en -_en axis_en is_en the_en time_en ._en
+and_en on_en the_en right_en -_en hand_en side_en ,_en we_en show_en the_en same_en data_en ,_en but_en here_en with_en daily_en incidence_en ._en
+and_en what_en we_en show_en here_en is_en --_en like_en ,_en here_en --_en very_en few_en people_en are_en affected_en ,_en more_en and_en more_en and_en more_en and_en up_en to_en here_en ,_en and_en here_en 's_en the_en peak_en of_en the_en epidemic_en ._en
+but_en shifted_en to_en the_en left_en is_en what_en 's_en occurring_en in_en the_en central_en individuals_en ._en
+and_en this_en difference_en in_en time_en between_en the_en two_en is_en the_en early_en detection_en ,_en the_en early_en warning_en we_en can_en get_en ,_en about_en an_en impending_en epidemic_en in_en the_en human_en population_en ._en
+the_en problem_en ,_en however_en ,_en is_en that_en mapping_en human_en social_en networks_en is_en not_en always_en possible_en ._en
+it_en can_en be_en expensive_en ,_en not_en feasible_en ,_en unethical_en ,_en or_en ,_en frankly_en ,_en just_en not_en possible_en to_en do_en such_en a_en thing_en ._en
+so_en ,_en how_en can_en we_en figure_en out_en who_en the_en central_en people_en are_en in_en a_en network_en without_en actually_en mapping_en the_en network_en ?_en
+what_en we_en came_en up_en with_en was_en an_en idea_en to_en exploit_en an_en old_en fact_en ,_en or_en a_en known_en fact_en ,_en about_en social_en networks_en ,_en which_en goes_en like_en this_en :_en do_en you_en know_en that_en your_en friends_en have_en more_en friends_en than_en you_en do_en ?_en
+your_en friends_en have_en more_en friends_en than_en you_en do_en ,_en
+and_en this_en is_en known_en as_en the_en friendship_en paradox_en ._en
+imagine_en a_en very_en popular_en person_en in_en the_en social_en network_en --_en like_en a_en party_en host_en who_en has_en hundreds_en of_en friends_en --_en and_en a_en misanthrope_en who_en has_en just_en one_en friend_en ,_en and_en you_en pick_en someone_en at_en random_en from_en the_en population_en ;_en they_en were_en much_en more_en likely_en to_en know_en the_en party_en host_en ._en
+and_en if_en they_en nominate_en the_en party_en host_en as_en their_en friend_en ,_en that_en party_en host_en has_en a_en hundred_en friends_en ,_en therefore_en ,_en has_en more_en friends_en than_en they_en do_en ._en
+and_en this_en ,_en in_en essence_en ,_en is_en what_en 's_en known_en as_en the_en friendship_en paradox_en ._en
+the_en friends_en of_en randomly_en chosen_en people_en have_en higher_en degree_en ,_en and_en are_en more_en central_en than_en the_en random_en people_en themselves_en ._en
+and_en you_en can_en get_en an_en intuitive_en appreciation_en for_en this_en if_en you_en imagine_en just_en the_en people_en at_en the_en perimeter_en of_en the_en network_en ._en
+if_en you_en pick_en this_en person_en ,_en the_en only_en friend_en they_en have_en to_en nominate_en is_en this_en person_en ,_en who_en ,_en by_en construction_en ,_en must_en have_en at_en least_en two_en and_en typically_en more_en friends_en ._en
+and_en that_en happens_en at_en every_en peripheral_en node_en ._en
+and_en in_en fact_en ,_en it_en happens_en throughout_en the_en network_en as_en you_en move_en in_en ,_en everyone_en you_en pick_en ,_en when_en they_en nominate_en a_en random_en --_en
+when_en a_en random_en person_en nominates_en a_en friend_en of_en theirs_en ,_en you_en move_en closer_en to_en the_en center_en of_en the_en network_en ._en
+so_en ,_en we_en thought_en we_en would_en exploit_en this_en idea_en in_en order_en to_en study_en whether_en we_en could_en predict_en phenomena_en within_en networks_en ._en
+because_en now_en ,_en with_en this_en idea_en we_en can_en take_en a_en random_en sample_en of_en people_en ,_en have_en them_en nominate_en their_en friends_en ,_en those_en friends_en would_en be_en more_en central_en ,_en and_en we_en could_en do_en this_en without_en having_en to_en map_en the_en network_en ._en
+and_en we_en tested_en this_en idea_en with_en an_en outbreak_en of_en h_en 1n1_en flu_en at_en harvard_en college_en in_en the_en fall_en and_en winter_en of_en 2009_en ,_en just_en a_en few_en months_en ago_en ._en
+we_en took_en 1,300_en randomly_en selected_en undergraduates_en ,_en we_en had_en them_en nominate_en their_en friends_en ,_en and_en we_en followed_en both_en the_en random_en students_en and_en their_en friends_en daily_en in_en time_en to_en see_en whether_en or_en not_en they_en had_en the_en flu_en epidemic_en ._en
+and_en we_en did_en this_en passively_en by_en looking_en at_en whether_en or_en not_en they_en 'd_en gone_en to_en university_en health_en services_en ._en
+and_en also_en ,_en we_en had_en them_en [_en actively_en ]_en email_en us_en a_en couple_en of_en times_en a_en week_en ._en
+exactly_en what_en we_en predicted_en happened_en ._en
+so_en the_en random_en group_en is_en in_en the_en red_en line_en ._en
+the_en epidemic_en in_en the_en friends_en group_en has_en shifted_en to_en the_en left_en ,_en over_en here_en ._en
+and_en the_en difference_en in_en the_en two_en is_en 16_en days_en ._en
+by_en monitoring_en the_en friends_en group_en ,_en we_en could_en get_en 16_en days_en advance_en warning_en of_en an_en impending_en epidemic_en in_en this_en human_en population_en ._en
+now_en ,_en in_en addition_en to_en that_en ,_en if_en you_en were_en an_en analyst_en who_en was_en trying_en to_en study_en an_en epidemic_en or_en to_en predict_en the_en adoption_en of_en a_en product_en ,_en for_en example_en ,_en what_en you_en could_en do_en is_en you_en could_en pick_en a_en random_en sample_en of_en the_en population_en ,_en also_en have_en them_en nominate_en their_en friends_en and_en follow_en the_en friends_en and_en follow_en both_en the_en randoms_en and_en the_en friends_en ._en
+among_en the_en friends_en ,_en the_en first_en evidence_en you_en saw_en of_en a_en blip_en above_en zero_en in_en adoption_en of_en the_en innovation_en ,_en for_en example_en ,_en would_en be_en evidence_en of_en an_en impending_en epidemic_en ._en
+or_en you_en could_en see_en the_en first_en time_en the_en two_en curves_en diverged_en ,_en as_en shown_en on_en the_en left_en ._en
+when_en did_en the_en randoms_en --_en when_en did_en the_en friends_en take_en off_en and_en leave_en the_en randoms_en ,_en and_en [_en when_en did_en ]_en their_en curve_en start_en shifting_en ?_en
+and_en that_en ,_en as_en indicated_en by_en the_en white_en line_en ,_en occurred_en 46_en days_en before_en the_en peak_en of_en the_en epidemic_en ._en
+so_en this_en would_en be_en a_en technique_en whereby_en we_en could_en get_en more_en than_en a_en month_en -_en and_en -_en a_en -_en half_en warning_en about_en a_en flu_en epidemic_en in_en a_en particular_en population_en ._en
+i_en should_en say_en that_en how_en far_en advanced_en a_en notice_en one_en might_en get_en about_en something_en depends_en on_en a_en host_en of_en factors_en ._en
+it_en could_en depend_en on_en the_en nature_en of_en the_en pathogen_en --_en different_en pathogens_en ,_en using_en this_en technique_en ,_en you_en 'd_en get_en different_en warning_en --_en or_en other_en phenomena_en that_en are_en spreading_en ,_en or_en frankly_en ,_en on_en the_en structure_en of_en the_en human_en network_en ._en
+now_en in_en our_en case_en ,_en although_en it_en was_en n't_en necessary_en ,_en we_en could_en also_en actually_en map_en the_en network_en of_en the_en students_en ._en
+so_en ,_en this_en is_en a_en map_en of_en 714_en students_en and_en their_en friendship_en ties_en ._en
+and_en in_en a_en minute_en now_en ,_en i_en 'm_en going_en to_en put_en this_en map_en into_en motion_en ._en
+we_en 're_en going_en to_en take_en daily_en cuts_en through_en the_en network_en for_en 120_en days_en ._en
+the_en red_en dots_en are_en going_en to_en be_en cases_en of_en the_en flu_en ,_en and_en the_en yellow_en dots_en are_en going_en to_en be_en friends_en of_en the_en people_en with_en the_en flu_en ._en
+and_en the_en size_en of_en the_en dots_en is_en going_en to_en be_en proportional_en to_en how_en many_en of_en their_en friends_en have_en the_en flu_en ._en
+so_en bigger_en dots_en mean_en more_en of_en your_en friends_en have_en the_en flu_en ._en
+and_en if_en you_en look_en at_en this_en image_en --_en here_en we_en are_en now_en in_en september_en the_en 13th_en --_en you_en 're_en going_en to_en see_en a_en few_en cases_en light_en up_en ._en
+you_en 're_en going_en to_en see_en kind_en of_en blooming_en of_en the_en flu_en in_en the_en middle_en ._en
+here_en we_en are_en on_en october_en the_en 19th_en ._en
+the_en slope_en of_en the_en epidemic_en curve_en is_en approaching_en now_en ,_en in_en november_en ._en
+bang_en ,_en bang_en ,_en bang_en ,_en bang_en ,_en bang_en --_en you_en 're_en going_en to_en see_en lots_en of_en blooming_en in_en the_en middle_en ,_en and_en then_en you_en 're_en going_en to_en see_en a_en sort_en of_en leveling_en off_en ,_en fewer_en and_en fewer_en cases_en towards_en the_en end_en of_en december_en ._en
+and_en this_en type_en of_en a_en visualization_en can_en show_en that_en epidemics_en like_en this_en take_en root_en and_en affect_en central_en individuals_en first_en ,_en before_en they_en affect_en others_en ._en
+now_en ,_en as_en i_en 've_en been_en suggesting_en ,_en this_en method_en is_en not_en restricted_en to_en germs_en ,_en but_en actually_en to_en anything_en that_en spreads_en in_en populations_en ._en
+information_en spreads_en in_en populations_en ,_en
+norms_en can_en spread_en in_en populations_en ,_en
+behaviors_en can_en spread_en in_en populations_en ._en
+and_en by_en behaviors_en ,_en i_en can_en mean_en things_en like_en criminal_en behavior_en ,_en or_en voting_en behavior_en ,_en or_en health_en care_en behavior_en ,_en like_en smoking_en ,_en or_en vaccination_en ,_en or_en product_en adoption_en ,_en or_en other_en kinds_en of_en behaviors_en that_en relate_en to_en interpersonal_en influence_en ._en
+if_en i_en 'm_en likely_en to_en do_en something_en that_en affects_en others_en around_en me_en ,_en this_en technique_en can_en get_en early_en warning_en or_en early_en detection_en about_en the_en adoption_en within_en the_en population_en ._en
+the_en key_en thing_en is_en that_en for_en it_en to_en work_en ,_en there_en has_en to_en be_en interpersonal_en influence_en ._en
+it_en cannot_en be_en because_en of_en some_en broadcast_en mechanism_en affecting_en everyone_en uniformly_en ._en
+now_en the_en same_en insights_en can_en also_en be_en exploited_en --_en with_en respect_en to_en networks_en --_en can_en also_en be_en exploited_en in_en other_en ways_en ,_en for_en example_en ,_en in_en the_en use_en of_en targeting_en specific_en people_en for_en interventions_en ._en
+so_en ,_en for_en example_en ,_en most_en of_en you_en are_en probably_en familiar_en with_en the_en notion_en of_en herd_en immunity_en ._en
+so_en ,_en if_en we_en have_en a_en population_en of_en a_en thousand_en people_en ,_en and_en we_en want_en to_en make_en the_en population_en immune_en to_en a_en pathogen_en ,_en we_en do_en n't_en have_en to_en immunize_en every_en single_en person_en ._en
+if_en we_en immunize_en 960_en of_en them_en ,_en it_en 's_en as_en if_en we_en had_en immunized_en a_en hundred_en [_en percent_en ]_en of_en them_en ._en
+because_en even_en if_en one_en or_en two_en of_en the_en non_en -_en immune_en people_en gets_en infected_en ,_en there_en 's_en no_en one_en for_en them_en to_en infect_en ._en
+they_en are_en surrounded_en by_en immunized_en people_en ._en
+so_en 96_en percent_en is_en as_en good_en as_en 100_en percent_en ._en
+well_en ,_en some_en other_en scientists_en have_en estimated_en what_en would_en happen_en if_en you_en took_en a_en 30_en percent_en random_en sample_en of_en these_en 1000_en people_en ,_en 300_en people_en and_en immunized_en them_en ._en
+would_en you_en get_en any_en population_en -_en level_en immunity_en ?_en
+and_en the_en answer_en is_en no._en
+but_en if_en you_en took_en this_en 30_en percent_en ,_en these_en 300_en people_en and_en had_en them_en nominate_en their_en friends_en and_en took_en the_en same_en number_en of_en vaccine_en doses_en and_en vaccinated_en the_en friends_en of_en the_en 300_en --_en the_en 300_en friends_en --_en you_en can_en get_en the_en same_en level_en of_en herd_en immunity_en as_en if_en you_en had_en vaccinated_en 96_en percent_en of_en the_en population_en at_en a_en much_en greater_en efficiency_en ,_en with_en a_en strict_en budget_en constraint_en ._en
+and_en similar_en ideas_en can_en be_en used_en ,_en for_en instance_en ,_en to_en target_en distribution_en of_en things_en like_en bed_en nets_en in_en the_en developing_en world_en ._en
+if_en we_en could_en understand_en the_en structure_en of_en networks_en in_en villages_en ,_en we_en could_en target_en to_en whom_en to_en give_en the_en interventions_en to_en foster_en these_en kinds_en of_en spreads_en ._en
+or_en ,_en frankly_en ,_en for_en advertising_en with_en all_en kinds_en of_en products_en ._en
+if_en we_en could_en understand_en how_en to_en target_en ,_en it_en could_en affect_en the_en efficiency_en of_en what_en we_en 're_en trying_en to_en achieve_en ._en
+and_en in_en fact_en ,_en we_en can_en use_en data_en from_en all_en kinds_en of_en sources_en nowadays_en [_en to_en do_en this_en ]_en ._en
+this_en is_en a_en map_en of_en eight_en million_en phone_en users_en in_en a_en european_en country_en ._en
+every_en dot_en is_en a_en person_en ,_en and_en every_en line_en represents_en a_en volume_en of_en calls_en between_en the_en people_en ._en
+and_en we_en can_en use_en such_en data_en ,_en that_en 's_en being_en passively_en obtained_en ,_en to_en map_en these_en whole_en countries_en and_en understand_en who_en is_en located_en where_en within_en the_en network_en ._en
+without_en actually_en having_en to_en query_en them_en at_en all_en ,_en we_en can_en get_en this_en kind_en of_en a_en structural_en insight_en ._en
+and_en other_en sources_en of_en information_en ,_en as_en you_en 're_en no_en doubt_en aware_en are_en available_en about_en such_en features_en ,_en from_en email_en interactions_en ,_en online_en interactions_en ,_en online_en social_en networks_en and_en so_en forth_en ._en
+and_en in_en fact_en ,_en we_en are_en in_en the_en era_en of_en what_en i_en would_en call_en "_en massive_en -_en passive_en "_en data_en collection_en efforts_en ._en
+they_en 're_en all_en kinds_en of_en ways_en we_en can_en use_en massively_en collected_en data_en to_en create_en sensor_en networks_en to_en follow_en the_en population_en ,_en understand_en what_en 's_en happening_en in_en the_en population_en ,_en and_en intervene_en in_en the_en population_en for_en the_en better_en ._en
+because_en these_en new_en technologies_en tell_en us_en not_en just_en who_en is_en talking_en to_en whom_en ,_en but_en where_en everyone_en is_en ,_en and_en what_en they_en 're_en thinking_en based_en on_en what_en they_en 're_en uploading_en on_en the_en internet_en ,_en and_en what_en they_en 're_en buying_en based_en on_en their_en purchases_en ._en
+and_en all_en this_en administrative_en data_en can_en be_en pulled_en together_en and_en processed_en to_en understand_en human_en behavior_en in_en a_en way_en we_en never_en could_en before_en ._en
+so_en ,_en for_en example_en ,_en we_en could_en use_en truckers_en '_en purchases_en of_en fuel_en ._en
+so_en the_en truckers_en are_en just_en going_en about_en their_en business_en ,_en and_en they_en 're_en buying_en fuel_en ._en
+and_en we_en see_en a_en blip_en up_en in_en the_en truckers_en '_en purchases_en of_en fuel_en ,_en and_en we_en know_en that_en a_en recession_en is_en about_en to_en end_en ._en
+or_en we_en can_en monitor_en the_en velocity_en with_en which_en people_en are_en moving_en with_en their_en phones_en on_en a_en highway_en ,_en and_en the_en phone_en company_en can_en see_en ,_en as_en the_en velocity_en is_en slowing_en down_en ,_en that_en there_en 's_en a_en traffic_en jam_en ._en
+and_en they_en can_en feed_en that_en information_en back_en to_en their_en subscribers_en ,_en but_en only_en to_en their_en subscribers_en on_en the_en same_en highway_en located_en behind_en the_en traffic_en jam_en !_en
+or_en we_en can_en monitor_en doctors_en prescribing_en behaviors_en ,_en passively_en ,_en and_en see_en how_en the_en diffusion_en of_en innovation_en with_en pharmaceuticals_en occurs_en within_en [_en networks_en of_en ]_en doctors_en ._en
+or_en again_en ,_en we_en can_en monitor_en purchasing_en behavior_en in_en people_en and_en watch_en how_en these_en types_en of_en phenomena_en can_en diffuse_en within_en human_en populations_en ._en
+and_en there_en are_en three_en ways_en ,_en i_en think_en ,_en that_en these_en massive_en -_en passive_en data_en can_en be_en used_en ._en
+one_en is_en fully_en passive_en ,_en like_en i_en just_en described_en --_en as_en in_en ,_en for_en instance_en ,_en the_en trucker_en example_en ,_en where_en we_en do_en n't_en actually_en intervene_en in_en the_en population_en in_en any_en way_en ._en
+one_en is_en quasi_en -_en active_en ,_en like_en the_en flu_en example_en i_en gave_en ,_en where_en we_en get_en some_en people_en to_en nominate_en their_en friends_en and_en then_en passively_en monitor_en their_en friends_en --_en do_en they_en have_en the_en flu_en ,_en or_en not_en ?_en --_en and_en then_en get_en warning_en ._en
+or_en another_en example_en would_en be_en ,_en if_en you_en 're_en a_en phone_en company_en ,_en you_en figure_en out_en who_en 's_en central_en in_en the_en network_en and_en you_en ask_en those_en people_en ,_en "_en look_en ,_en will_en you_en just_en text_en us_en your_en fever_en every_en day_en ?_en
+just_en text_en us_en your_en temperature_en ._en "_en
+and_en collect_en vast_en amounts_en of_en information_en about_en people_en 's_en temperature_en ,_en but_en from_en centrally_en located_en individuals_en ._en
+and_en be_en able_en ,_en on_en a_en large_en scale_en ,_en to_en monitor_en an_en impending_en epidemic_en with_en very_en minimal_en input_en from_en people_en ._en
+or_en ,_en finally_en ,_en it_en can_en be_en more_en fully_en active_en --_en as_en i_en know_en subsequent_en speakers_en will_en also_en talk_en about_en today_en --_en where_en people_en might_en globally_en participate_en in_en wikis_en ,_en or_en photographing_en ,_en or_en monitoring_en elections_en ,_en and_en upload_en information_en in_en a_en way_en that_en allows_en us_en to_en pool_en information_en in_en order_en to_en understand_en social_en processes_en and_en social_en phenomena_en ._en
+in_en fact_en ,_en the_en availability_en of_en these_en data_en ,_en i_en think_en ,_en heralds_en a_en kind_en of_en new_en era_en of_en what_en i_en and_en others_en would_en like_en to_en call_en "_en computational_en social_en science_en ._en "_en
+it_en 's_en sort_en of_en like_en when_en galileo_en invented_en --_en or_en ,_en did_en n't_en invent_en --_en came_en to_en use_en a_en telescope_en and_en could_en see_en the_en heavens_en in_en a_en new_en way_en ,_en or_en leeuwenhoek_en became_en aware_en of_en the_en microscope_en --_en or_en actually_en invented_en --_en and_en could_en see_en biology_en in_en a_en new_en way_en ._en
+but_en now_en we_en have_en access_en to_en these_en kinds_en of_en data_en that_en allow_en us_en to_en understand_en social_en processes_en and_en social_en phenomena_en in_en an_en entirely_en new_en way_en that_en was_en never_en before_en possible_en ._en
+and_en with_en this_en science_en ,_en we_en can_en understand_en how_en exactly_en the_en whole_en comes_en to_en be_en greater_en than_en the_en sum_en of_en its_en parts_en ._en
+and_en actually_en ,_en we_en can_en use_en these_en insights_en to_en improve_en society_en and_en improve_en human_en well_en -_en being_en ._en
+thank_en you_en ._en

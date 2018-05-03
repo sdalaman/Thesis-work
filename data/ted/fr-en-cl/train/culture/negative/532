@@ -1,0 +1,102 @@
+nous avons beau suivre , par les médias , les nouvelles d'iraq , d'afghanistan , de sierra leone , les conflits nous semblent incompréhensibles .
+et c'est certainement comme ça qu'ils me paraissaient quand j'ai commencé ce projet .
+mais en tant que physicien , je me suis dit , bon si vous me donnez quelques données , je pourrais peut - être comprendre cela . donnez nous de quoi démarrer .
+donc , en tant que néo - zélandais naïf , je me suis dit , et bien je vais aller au pentagone .
+pouvez vous me donner quelques informations ?
+non . j'ai donc dû réfléchir un peu plus .
+j'étais en train de regarder le journal télévisé un soir a oxford .
+et j'ai regardé en bas les dépêches sur ma chaîne favorite .
+et j'ai vu qu'il y avait là de l'information .
+il y avait des données dans les flux d'informations que l'on consomme .
+tout ce bruit autour de nous contient en fait des informations .
+je me suis donc pris à penser que , nous avions peut - être ici quelque chose comme des renseignements " open source " .
+si on parvient à rassembler suffisamment de ces flux d'informations , on pourra peut - être commencer à comprendre la guerre .
+c'est donc précisément ce que j'ai fait . on a commencé par constituer une équipe , une équipe de scientifiques inter - disciplinaires , _UNK_ , de mathématiciens .
+on a rassemblé ces gens et on a commencé à essayer de résoudre ce problème .
+nous avons procédé en trois étapes .
+notre première étape a été de collecter . on a utilisé 130 sources d'informations différentes -- des rapports d'ong aux journaux et aux journaux télévisés .
+on a rassemblé ces données brutes et on les a filtrées .
+on en a extrait les informations clés pour construire une base de données .
+cette base contenait l'heure des attaques , le lieu , la taille et les armes utilisées .
+tout est dans les flux d'informations que l'on consomme au quotidien , il suffit juste de savoir comment l'en extraire .
+et lorsque ce fut fait , on a pu commencer à faire des choses sympas .
+et si on regardait la distribution de la taille des attaques ?
+qu'est ce que cela nous dirait ?
+alors on a commencé à faire cela . et vous pouvez voir ici , sur l'axe horizontal , le nombre de personnes tuées dans une attaque ou la taille de l'attaque .
+et sur l'axe vertical vous avez le nombre d'attaques .
+on a donc tracé des informations là dessus .
+vous voyez une sorte de distribution aléatoire -- environ 67 attaques où une personne a été tuée , ou 47 attaques où sept personnes ont été tuées .
+on a fait la même chose pour l'irak .
+et on ne savait pas , pour l'irak , ce qu'on allait trouver .
+il s'avère que ce que nous avons découvert était plutôt surprenant .
+vous prenez tout le conflit , tout le chaos , tout le bruit , et de cela vient cette distribution mathématique précise de la manière dont les attaques sont ordonnées dans ce conflit .
+cela nous a sidéré .
+pourquoi un conflit comme l'irak aurait ceci comme signature fondamentale ?
+pourquoi y aurait - il de l'ordre dans la guerre ?
+nous ne comprenions pas vraiment .
+nous pensions que peut - être il y avait quelque chose de spécial à propos de l'irak .
+alors on a regardé quelques autres conflits en plus .
+on a regardé en colombie , en afghanistan , et au sénégal .
+et le même motif émergeait de chaque conflit .
+cela n'était pas censé arriver .
+ce sont des guerres différentes , avec des factions religieuses différentes , des factions politiques différentes et des problèmes socio - économiques différents .
+et pourtant les motifs fondamentaux sous - jacentes sont les mêmes .
+alors nous avons balayé un peu plus large .
+on a cherché dans le monde toutes les données sur lesquelles on pouvait mettre la main .
+du pérou à l'indonésie , nous avons encore observé ce même motif .
+et on s'est rendu compte que non seulement ces distributions étaient des lignes droites , mais les pentes de ces droites se _UNK_ autour de cette valeur de alpha égale a 2,5 .
+et on pouvait définir une équation permettant de prévoir la probabilité d'une attaque .
+ce que l'on est en train de dire ici c'est que la probabilité d'une attaque tuant un nombre x de personnes dans un pays comme l'irak est égale à une constante fois la taille de cette attaque , elle même élevée à la puissance de moins alpha .
+et moins alpha est la pente de cette droite que je vous ai montré plus tôt .
+alors quoi ?
+ce sont des données , des statistiques . que nous disent - elles à propos de ces conflits ?
+ce fut un défi que nous avons dû affronter en tant que physiciens .
+comment expliquons nous cela ?
+et ce que nous avons réellement découvert c'est que alpha si on y réfléchi vraiment , est la structure organisationnelle de l'insurrection .
+alpha est la distribution de la taille des attaques , qui est réellement la distribution de la force du groupe effectuant ces attaques .
+nous nous sommes donc intéressé à des processus de dynamiques de groupe -- la _UNK_ et la fragmentation .
+des groupes qui se forment . des groupes qui se séparent .
+et nous avons cherché à mettre des nombres là - dessus . peut - on le simuler ?
+peut on créer un motif du genre de ceux observés dans des endroits comme l'irak ?
+il s'avère que nous avons fait un travail convenable .
+nous pouvons lancer ces simulations .
+nous pouvons recréer cela en utilisant des processus de dynamiques de groupe pour expliquer les motifs observés dans tous les conflits n'importe où dans le monde .
+donc , qu'est ce qu'il se passe ?
+pourquoi ces conflits différents -- qui semblent différents ont les mêmes motifs ?
+maintenant ce que je pense qu'il se passe est que les forces _UNK_ , elles évoluent dans le temps . elles s'adaptent .
+et il semblerait qu'il n'y ait qu'une solution pour combattre un ennemi bien plus puissant .
+et si vous ne trouvez pas cette solution en tant que force insurgée , vous n'existez pas .
+donc chaque force insurgée actuelle , chaque conflit actuel , va ressembler à quelque chose comme ça .
+voila ce que nous pensons qu'il se passe .
+allons plus loin , comment changer cela ?
+comment terminer une guerre comme l'iraq ?
+a quoi cela ressemble t - il ?
+alpha est la structure . il est dans un état stable à 2.5 .
+voilà à quoi ressemblent les guerres lorsqu'elles continuent .
+nous devons changer cela .
+nous pouvons l'augmenter .
+les forces deviennent plus _UNK_ .
+elles sont plus nombreuses , mais elles sont plus faibles .
+ou nous le diminuons .
+elles sont plus solides . il y a moins de groupes .
+mais peut être vous pourrez vous asseoir et leur parler .
+donc ce graphique ci , que je vais vous montrer maintenant .
+personne ne l'a vu auparavant . c'est littéralement quelque chose que nous avons achevé la semaine dernière .
+et nous voyons l'évolution de alpha au cours du temps .
+nous voyons cela démarrer . et nous voyons cela grandir jusqu'à l'état stable _UNK_ à toutes les guerres autour du monde .
+et il reste stable pendant l'invasion de _UNK_ jusqu'au bombardements de _UNK_ , pendant les élections _UNK_ de 2006 .
+et le système devient perturbé . il monte vers un état fragmenté .
+ç à c'est lorsque la présence militaire s'est renforcée .
+et selon les personnes interrogées , le renforcement était supposé le pousser à monter encore plus loin .
+l'opposé s'est produit .
+les groupes devinrent plus forts .
+ils devinrent plus robustes .
+donc je me dis , génial , cela va continuer à baisser .
+on va pouvoir leur parler . on va pouvoir arriver à une solution . l'opposé s'est produit .
+il a ré - augmenté . les groupes sont plus fragmentés .
+et ceci me dit une ou deux choses .
+ou bien nous sommes revenus au point de départ , et le renforcement n'a eu aucun effet .
+ou bien finalement les groupes ont été fragmentés à un point où on peut commencer à peut être songer à partir .
+je ne sais pas quelle est la réponse à cela .
+mais je sais que nous devrions observer la structure de l'insurrection pour répondre à cette question .
+merci .

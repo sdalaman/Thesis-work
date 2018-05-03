@@ -1,0 +1,44 @@
+so	,	where	are	the	 robot 	 s 	 	?
+we	've	 be 	 en 	 	told	for	40	 year 	 s 	 	 al 	 ready 	 	that	they	're	coming	soon	.
+ ver 	 y 	 	soon	they	'll	be	 do 	 ing 	 	 every 	 thing 	 	for	us	.	they	'll	be	 cook 	 ing 	 	,	 clean 	 ing 	 	,	 buy 	 ing 	 	 thing 	 s 	 	,	 shop 	 ping 	 	,	building	.	but	they	are	n't	here	.
+ mean 	 while 	 	,	we	have	 il 	 legal 	 	 im 	 migrant 	 s 	 	 do 	 ing 	 	all	the	work	,	but	we	do	n't	have	any	 robot 	 s 	 	.
+so	what	can	we	do	about	that	?	what	can	we	say	?
+so	i	want	to	give	a	little	bit	of	a	different	 per 	 spect 	 ive 	 	of	how	we	can	 per 	 hap 	 s 	 	look	at	these	 thing 	 s 	 	in	a	little	bit	of	a	different	way	.
+and	 th 	 is 	 	is	an	x	-	ray	picture	of	a	real	beetle	,	and	a	swiss	watch	,	back	from	'88	.	you	look	at	that	--	what	was	true	then	is	 certain 	 ly 	 	true	 to 	 day 	 	.
+we	can	still	make	the	 piece 	 s 	 	.	we	can	make	the	right	 piece 	 s 	 	.	we	can	make	the	 circuit 	 ry 	 	of	the	right	 computation 	 al 	 	power	,	but	we	ca	n't	 actual 	 ly 	 	put	them	together	to	make	 some 	 thing 	 	that	will	 actual 	 ly 	 	work	and	be	 a 	 s 	 	 adapt 	 ive 	 	 a 	 s 	 	these	 system 	 s 	 	.
+so	let	's	try	to	look	at	it	from	a	different	 per 	 spect 	 ive 	 	.
+let	's	summon	the	best	 design 	 er 	 	,	the	mother	of	all	 design 	 ers 	 	.	let	's	see	what	evolution	can	do	for	us	.
+so	we	threw	in	--	we	 create 	 d 	 	a	primordial	soup	with	 lot 	 s 	 	of	 piece 	 s 	 	of	 robot 	 s 	 	--	with	 bar 	 s 	 	,	with	 motor 	 s 	 	,	with	 neuro 	 ns 	 	.
+put	them	all	together	,	and	put	all	 th 	 is 	 	under	kind	of	natural	 s 	 election 	 	,	under	mutation	,	and	 reward 	 ed 	 	 thing 	 s 	 	for	how	well	they	can	move	forward	.
+a	 ver 	 y 	 	simple	task	,	and	it	's	 interest 	 ing 	 	to	see	what	kind	of	 thing 	 s 	 	came	out	of	that	.
+so	if	you	look	,	you	can	see	a	lot	of	different	 machine 	 s 	 	come	out	of	 th 	 is 	 	.	they	all	move	around	.	they	all	crawl	in	different	ways	,	and	you	can	see	on	the	right	,	that	we	 actual 	 ly 	 	made	a	couple	of	these	 thing 	 s 	 	,	and	they	work	in	 re 	 ality 	 	.	these	are	not	 ver 	 y 	 	fantastic	 robot 	 s 	 	,	but	they	 evolv 	 ed 	 	to	do	 exact 	 ly 	 	what	we	reward	them	for	:	for	moving	forward	.	so	that	was	all	 d 	 one 	 	in	 simul 	 ation 	 	,	but	we	can	 al 	 so 	 	do	that	on	a	real	machine	.
+here	's	a	physical	robot	that	we	 actual 	 ly 	 	have	a	population	of	 brain 	 s 	 	,	 com 	 pet 	 ing 	 	,	or	 evolv 	 ing 	 	on	the	machine	.
+it	's	like	a	rodeo	show	.	they	all	get	a	ride	on	the	machine	,	and	they	get	 reward 	 ed 	 	for	how	fast	or	how	far	they	can	make	the	machine	move	forward	.
+and	you	can	see	these	 robot 	 s 	 	are	not	ready	to	take	over	the	world	yet	,	but	they	 gradu 	 ally 	 	learn	how	to	move	forward	,	and	they	do	 th 	 is 	 	 autonomous 	 ly 	 	.
+so	in	these	two	 ex 	 ample 	 s 	 	,	we	had	 bas 	 ically 	 	 machine 	 s 	 	that	 learn 	 ed 	 	how	to	walk	in	 simul 	 ation 	 	,	and	 al 	 so 	 	 machine 	 s 	 	that	 learn 	 ed 	 	how	to	walk	in	 re 	 ality 	 	.
+but	i	want	to	show	you	a	different	approach	,	and	 th 	 is 	 	is	 th 	 is 	 	robot	over	here	,	which	 ha 	 s 	 	four	 leg 	 s 	 	.	it	 ha 	 s 	 	eight	 motor 	 s 	 	,	four	on	the	 knee 	 s 	 	and	four	on	the	hip	.
+it	 ha 	 s 	 	 al 	 so 	 	two	tilt	 sensor 	 s 	 	that	tell	the	machine	which	way	it	's	 tilt 	 ing 	 	.
+but	 th 	 is 	 	machine	 do 	 es 	 	n't	know	what	it	 look 	 s 	 	like	.
+you	look	at	it	and	you	see	it	 ha 	 s 	 	four	 leg 	 s 	 	,	the	machine	 do 	 es 	 	n't	know	if	it	's	a	snake	,	if	it	's	a	tree	,	it	 do 	 es 	 	n't	have	any	idea	what	it	 look 	 s 	 	like	,	but	it	's	going	to	try	to	find	that	out	.
+ initi 	 ally 	 	,	it	 do 	 es 	 	some	random	motion	,	and	then	it	tries	to	figure	out	what	it	might	look	like	.	and	you	're	 see 	 ing 	 	a	lot	of	 thing 	 s 	 	 pass 	 ing 	 	through	 it 	 s 	 	 mind 	 s 	 	,	a	lot	of	self	-	 model 	 s 	 	that	try	to	explain	the	relationship	between	 actu 	 ation 	 	and	 sens 	 ing 	 	.	it	then	tries	to	do	a	second	action	that	 create 	 s 	 	the	most	 disagree 	 ment 	 	among	 predict 	 ions 	 	of	these	 alter 	 native 	 	 model 	 s 	 	,	like	a	scientist	in	a	lab	.	then	it	 do 	 es 	 	that	and	tries	to	explain	that	,	and	prune	out	 it 	 s 	 	self	-	 model 	 s 	 	.
+ th 	 is 	 	is	the	last	cycle	,	and	you	can	see	it	's	 pre 	 tty 	 	much	 figur 	 ed 	 	out	what	 it 	 s 	 	self	 look 	 s 	 	like	.	and	once	it	 ha 	 s 	 	a	self	-	model	,	it	can	use	that	to	 der 	 ive 	 	a	pattern	of	 loco 	 motion 	 	.
+so	what	you	're	 see 	 ing 	 	here	are	a	couple	of	 machine 	 s 	 	--	a	pattern	of	 loco 	 motion 	 	.
+we	 we 	 re 	 	 hop 	 ing 	 	that	it	 was 	 s 	 	going	to	have	a	kind	of	 e 	 vil 	 	,	 spider 	 y 	 	walk	,	but	 in 	 stead 	 	it	 create 	 d 	 	 th 	 is 	 	 pre 	 tty 	 	 lam 	 e 	 	way	of	moving	forward	.
+but	when	you	look	at	that	,	you	have	to	remember	that	 th 	 is 	 	machine	did	not	do	any	physical	 trial 	 s 	 	on	how	to	move	forward	,	nor	did	it	have	a	model	of	 it 	 self 	 	.
+it	kind	of	 figur 	 ed 	 	out	what	it	 look 	 s 	 	like	,	and	how	to	move	forward	,	and	then	 actual 	 ly 	 	 tri 	 ed 	 	that	out	.
+so	,	we	'll	move	forward	to	a	different	idea	.
+so	that	was	what	 happen 	 ed 	 	when	we	had	a	couple	of	--	that	's	what	 happen 	 ed 	 	when	you	had	a	couple	of	--	ok	,	ok	,	ok	--	--	they	do	n't	like	each	other	.	so
+there	's	a	different	robot	.
+that	's	what	 happen 	 ed 	 	when	the	 robot 	 s 	 	 actual 	 ly 	 	are	 reward 	 ed 	 	for	 do 	 ing 	 	 some 	 thing 	 	.
+what	 happen 	 s 	 	if	you	do	n't	reward	them	for	 any 	 thing 	 	,	you	just	throw	them	in	?
+so	we	have	these	 cube 	 s 	 	,	like	the	 dia 	 gram 	 	 show 	 ed 	 	here	.
+the	cube	can	swivel	,	or	flip	on	 it 	 s 	 	side	,	and	we	just	throw	1,000	of	these	 cube 	 s 	 	 in 	 to 	 	a	soup	--	 th 	 is 	 	is	in	 simul 	 ation 	 	--	and	do	n't	reward	them	for	 any 	 thing 	 	,	we	just	let	them	flip	.	we	pump	energy	 in 	 to 	 	 th 	 is 	 	and	see	what	 happen 	 s 	 	in	a	couple	of	 mutation 	 s 	 	.
+so	,	 initi 	 ally 	 	 noth 	 ing 	 	 happen 	 s 	 	,	they	're	just	 flip 	 ping 	 	around	there	.
+but	after	a	 ver 	 y 	 	short	while	,	you	can	see	these	blue	 thing 	 s 	 	on	the	right	there	begin	to	take	over	.
+they	begin	to	self	-	replicate	.	so	in	 ab 	 s 	 ence 	 	of	any	reward	,	the	intrinsic	reward	is	self	-	 replica 	 tion 	 	.
+and	we	've	 actual 	 ly 	 	built	a	couple	of	these	,	and	 th 	 is 	 	is	part	of	a	 large 	 r 	 	robot	made	out	of	these	 cube 	 s 	 	.	it	's	an	 accele 	 rated 	 	view	,	where	you	can	see	the	robot	 actual 	 ly 	 	 carry 	 ing 	 	out	some	of	 it 	 s 	 	 replica 	 tion 	 	process	.
+so	you	're	 feed 	 ing 	 	it	with	more	material	--	 cube 	 s 	 	in	 th 	 is 	 	case	--	and	more	energy	,	and	it	can	make	 an 	 other 	 	robot	.
+so	of	course	,	 th 	 is 	 	is	a	 ver 	 y 	 	 crud 	 e 	 	machine	,	but	we	're	 work 	 ing 	 	on	a	micro	-	scale	version	of	these	,	and	 hope 	 fully 	 	the	 cube 	 s 	 	will	be	like	a	powder	that	you	pour	in	.
+ok	,	so	what	can	we	learn	?	these	 robot 	 s 	 	are	of	course	not	 ver 	 y 	 	 use 	 ful 	 	in	 them 	 s 	 elves 	 	,	but	they	might	teach	us	 some 	 thing 	 	about	how	we	can	build	better	 robot 	 s 	 	,	and	 per 	 hap 	 s 	 	how	 human 	 s 	 	,	 animal 	 s 	 	,	create	self	-	 model 	 s 	 	and	learn	.
+and	one	of	the	 thing 	 s 	 	that	i	think	is	 import 	 ant 	 	is	that	we	have	to	get	away	from	 th 	 is 	 	idea	of	 design 	 ing 	 	the	 machine 	 s 	 	 manual 	 ly 	 	,	but	 actual 	 ly 	 	let	them	evolve	and	learn	,	like	children	,	and	 per 	 hap 	 s 	 	that	's	the	way	we	'll	get	there	.	thank	you	.
+

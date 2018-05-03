@@ -1,0 +1,108 @@
+i	'm	going	to	talk	to	you	 to 	 day 	 	about	the	design	of	medical	technology	for	low	resource	 setting 	 s 	 	.
+i	 stud 	 y 	 	health	 system 	 s 	 	in	these	 count 	 ries 	 	.
+and	one	of	the	major	 gap 	 s 	 	in	care	,	 al 	 most 	 	 a 	 cross 	 	the	board	,	is	access	to	safe	 s 	 urge 	 ry 	 	.
+now	one	of	the	major	 bottle 	 neck 	 s 	 	that	we	've	found	that	's	sort	of	 prevent 	 ing 	 	both	the	access	in	the	first	place	and	the	 safe 	 ty 	 	of	 t 	 hose 	 	 s 	 urge 	 ries 	 	that	do	happen	is	 an 	 est 	 hesia 	 	.
+and	 actual 	 ly 	 	,	it	's	the	model	that	we	expect	to	work	for	 deliver 	 ing 	 	 an 	 est 	 hesia 	 	in	these	 environment 	 s 	 	.
+here	we	have	a	scene	that	you	would	find	in	any	 oper 	 ating 	 	room	 a 	 cross 	 	the	u.s.	or	any	other	 develop 	 ed 	 	country	.
+in	the	 back 	 ground 	 	there	is	a	 ver 	 y 	 	 sophistic 	 ated 	 	 an 	 est 	 hesia 	 	machine	.
+and	 th 	 is 	 	machine	is	able	to	 en 	 able 	 	 s 	 urge 	 ry 	 	and	 s 	 ave 	 	 live 	 s 	 	 be 	 cause 	 	it	was	designed	with	 th 	 is 	 	environment	in	mind	.
+in	order	to	 oper 	 ate 	 	,	 th 	 is 	 	machine	 need 	 s 	 	a	number	of	 thing 	 s 	 	that	 th 	 is 	 	hospital	 ha 	 s 	 	to	 off 	 er 	 	.
+it	 need 	 s 	 	an	 extrem 	 e 	 ly 	 	well	-	trained	 anesthesio 	 logist 	 	with	 year 	 s 	 	of	training	with	complex	 machine 	 s 	 	to	help	her	monitor	the	 flow 	 s 	 	of	the	gas	and	keep	her	 patient 	 s 	 	safe	and	 anesthet 	 ized 	 	 through 	 out 	 	the	 s 	 urge 	 ry 	 	.
+it	's	a	 delic 	 ate 	 	machine	running	on	computer	 algorithm 	 s 	 	,	and	it	 need 	 s 	 	special	care	,	tlc	,	to	keep	it	up	and	running	,	and	it	's	going	to	break	 pre 	 tty 	 	 eas 	 ily 	 	.
+and	when	it	 do 	 es 	 	,	it	 need 	 s 	 	a	team	of	 bio 	 medical 	 	 engineer 	 s 	 	who	understand	 it 	 s 	 	 complex 	 ities 	 	,	can	fix	it	,	can	source	the	 part 	 s 	 	and	keep	it	saving	 live 	 s 	 	.
+it	's	a	 pre 	 tty 	 	expensive	machine	.
+it	 need 	 s 	 	a	hospital	 who 	 s 	 e 	 	budget	can	allow	it	to	support	one	machine	 cost 	 ing 	 	 up 	 ward 	 s 	 	of	50	or	$	100,000	.
+and	 per 	 hap 	 s 	 	most	 obvious 	 ly 	 	,	and	 per 	 hap 	 s 	 	most	 import 	 ant 	 ly 	 	--	and	the	path	to	 con 	 cept 	 s 	 	that	we	've	heard	about	kind	of	 illustr 	 ate 	 	 th 	 is 	 	--	it	 need 	 s 	 	 infra 	 structure 	 	that	can	supply	an	 un 	 interrupt 	 ed 	 	source	of	 electric 	 ity 	 	,	of	 compress 	 ed 	 	oxygen	and	other	medical	 suppli 	 es 	 	that	are	so	critical	to	the	 function 	 ing 	 	of	 th 	 is 	 	machine	.
+in	other	 word 	 s 	 	,	 th 	 is 	 	machine	 requir 	 es 	 	a	lot	of	stuff	that	 th 	 is 	 	hospital	can	not	 off 	 er 	 	.
+ th 	 is 	 	is	the	 electric 	 al 	 	supply	for	a	hospital	in	 r 	 ural 	 	malawi	.
+in	 th 	 is 	 	hospital	,	there	is	one	person	 qual 	 ified 	 	to	deliver	 an 	 est 	 hesia 	 	,	and	she	's	 qual 	 ified 	 	 be 	 cause 	 	she	 ha 	 s 	 	12	,	 may 	 be 	 	18	 month 	 s 	 	of	training	in	 an 	 est 	 hesia 	 	.
+in	the	hospital	and	in	the	entire	region	there	's	not	a	single	 bio 	 medical 	 	engineer	.
+so	when	 th 	 is 	 	machine	 break 	 s 	 	,	the	 machine 	 s 	 	they	have	to	work	with	break	,	they	've	got	to	try	and	figure	it	out	,	but	most	of	the	time	,	that	's	the	end	of	the	road	.
+ t 	 hose 	 	 machine 	 s 	 	go	the	proverbial	 junk 	 yard 	 	.
+and	the	price	tag	of	the	machine	that	i	 ment 	 ion 	 ed 	 	could	represent	 may 	 be 	 	a	quarter	or	a	third	of	the	annual	 oper 	 ating 	 	budget	for	 th 	 is 	 	hospital	.
+and	 final 	 ly 	 	,	i	think	you	can	see	that	 infra 	 structure 	 	is	not	 ver 	 y 	 	strong	.
+ th 	 is 	 	hospital	is	 connect 	 ed 	 	to	a	 ver 	 y 	 	weak	power	grid	,	one	that	 go 	 es 	 	down	 frequent 	 ly 	 	.
+so	it	 run 	 s 	 	 frequent 	 ly 	 	,	the	entire	hospital	,	just	on	a	 gene 	 rator 	 	.
+and	you	can	imagine	,	the	 gene 	 rator 	 	 break 	 s 	 	down	or	 run 	 s 	 	out	of	fuel	.
+and	the	world	bank	 s 	 ees 	 	 th 	 is 	 	and	 estimate 	 s 	 	that	a	hospital	in	 th 	 is 	 	setting	in	a	low	-	income	country	can	expect	up	to	18	power	 out 	 age 	 s 	 	 similar 	 ly 	 	 compress 	 ed 	 	oxygen	and	other	medical	 suppli 	 es 	 	are	 re 	 ally 	 	a	 luxur 	 y 	 	and	can	often	be	out	of	stock	for	 month 	 s 	 	or	even	a	year	.
+so	it	 seem 	 s 	 	crazy	,	but	the	model	that	we	have	right	now	is	taking	 t 	 hose 	 	 machine 	 s 	 	that	 we 	 re 	 	designed	for	that	first	environment	that	i	 show 	 ed 	 	you	and	 don 	 ating 	 	or	selling	them	to	 hospital 	 s 	 	in	 th 	 is 	 	environment	.
+it	's	not	just	 in 	 appropriate 	 	,	it	 be 	 come 	 s 	 	 re 	 ally 	 	 un 	 safe 	 	.
+one	of	our	 partner 	 s 	 	at	johns	hopkins	was	 observ 	 ing 	 	 s 	 urge 	 ries 	 	in	sierra	leone	about	a	year	ago	.
+and	the	first	 s 	 urge 	 ry 	 	of	the	day	 happen 	 ed 	 	to	be	an	 obstetric 	 al 	 	case	.
+a	woman	came	in	,	she	 need 	 ed 	 	an	 emerge 	 ncy 	 	c	-	section	to	 s 	 ave 	 	her	life	and	the	life	of	her	baby	.
+and	 every 	 thing 	 	 beg 	 an 	 	 pre 	 tty 	 	 auspicious 	 ly 	 	.
+the	surgeon	was	on	call	and	 scrub 	 bed 	 	in	.
+the	nurse	was	there	.
+she	was	able	to	 anesthet 	 ize 	 	her	 quick 	 ly 	 	,	and	it	was	 import 	 ant 	 	 be 	 cause 	 	of	the	 emerge 	 ncy 	 	nature	of	the	 situ 	 ation 	 	.
+and	 every 	 thing 	 	 beg 	 an 	 	well	 un 	 til 	 	the	power	went	out	.
+and	now	in	the	middle	of	 th 	 is 	 	 s 	 urge 	 ry 	 	,	the	surgeon	is	 rac 	 ing 	 	against	the	clock	to	finish	his	case	,	which	he	can	do	--	he	's	got	a	 head 	 lamp 	 	.
+but	the	nurse	is	 liter 	 ally 	 	running	around	a	 dark 	 ened 	 	 oper 	 ating 	 	theater	 try 	 ing 	 	to	find	 any 	 thing 	 	she	can	use	to	 anesthet 	 ize 	 	her	patient	,	to	keep	her	patient	 a 	 sleep 	 	.
+ be 	 cause 	 	her	machine	 do 	 es 	 	n't	work	when	there	's	no	power	.
+and	now	 th 	 is 	 	routine	 s 	 urge 	 ry 	 	that	 man 	 y 	 	of	you	have	 prob 	 ably 	 	 experience 	 d 	 	,	and	 other 	 s 	 	are	 prob 	 ably 	 	the	product	of	,	 ha 	 s 	 	now	 be 	 come 	 	a	 tra 	 ged 	 y 	 	.
+and	what	's	so	 frust 	 rating 	 	is	 th 	 is 	 	is	not	a	 s 	 ing 	 ular 	 	event	;	 th 	 is 	 	 happen 	 s 	 	 a 	 cross 	 	the	 develop 	 ing 	 	world	.
+35	million	 s 	 urge 	 ries 	 	are	 attempt 	 ed 	 	every	year	 with 	 out 	 	safe	 an 	 est 	 hesia 	 	.
+my	 col 	 league 	 	,	dr.	paul	fenton	,	was	living	 th 	 is 	 	 re 	 ality 	 	.
+he	was	the	chief	of	 anesthesio 	 logy 	 	in	a	hospital	in	malawi	,	a	 teach 	 ing 	 	hospital	.
+he	went	to	work	every	day	in	an	 oper 	 ating 	 	theater	like	 th 	 is 	 	one	,	 try 	 ing 	 	to	deliver	 an 	 est 	 hesia 	 	and	teach	 other 	 s 	 	how	to	do	so	using	that	same	 equi 	 p 	 ment 	 	that	 be 	 came 	 	so	 un 	 reli 	 able 	 	,	and	 frank 	 ly 	 	 un 	 safe 	 	,	in	his	hospital	.
+and	after	 ump 	 teen 	 	 s 	 urge 	 ries 	 	and	,	you	can	imagine	,	 re 	 ally 	 	 un 	 speak 	 able 	 	 tra 	 ged 	 y 	 	,	he	just	 s 	 aid 	 	,	``	that	's	it	.	i	'm	 d 	 one 	 	.	that	's	 en 	 ough 	 	.
+there	 ha 	 s 	 	to	be	 some 	 thing 	 	better	.	``
+so	he	took	a	walk	down	the	hall	to	where	they	threw	all	 t 	 hose 	 	 machine 	 s 	 	that	had	just	 crap 	 ped 	 	out	on	them	--	i	think	that	's	the	scientific	term	--	and	he	just	 start 	 ed 	 	 tinker 	 ing 	 	.
+he	took	one	part	from	here	and	 an 	 other 	 	from	there	,	and	he	 tri 	 ed 	 	to	come	up	with	a	machine	that	would	work	in	the	 re 	 ality 	 	that	he	was	facing	.
+and	what	he	came	up	with	was	 th 	 is 	 	guy	,	the	prototype	for	the	universal	 an 	 est 	 hesia 	 	machine	--	a	machine	that	would	work	and	 anesthet 	 ize 	 	his	 patient 	 s 	 	no	matter	the	 circum 	 stance 	 s 	 	that	his	hospital	had	to	 off 	 er 	 	.
+here	it	is	back	at	home	at	that	same	hospital	,	 develop 	 ed 	 	a	little	further	,	12	 year 	 s 	 	 lat 	 er 	 	,	 work 	 ing 	 	on	 patient 	 s 	 	from	 pediatric 	 s 	 	to	 geriatric 	 s 	 	.
+now	let	me	show	you	a	little	bit	about	how	 th 	 is 	 	machine	 work 	 s 	 	.
+ vo 	 ila 	 	!
+here	she	is	.
+when	you	have	 electric 	 ity 	 	,	 every 	 thing 	 	in	 th 	 is 	 	machine	 begin 	 s 	 	in	the	base	.
+there	's	a	built	-	in	oxygen	 concent 	 rator 	 	down	there	.
+now	you	've	heard	me	 ment 	 ion 	 	oxygen	a	few	 time 	 s 	 	at	 th 	 is 	 	point	.
+ essential 	 ly 	 	,	to	deliver	 an 	 est 	 hesia 	 	,	you	want	 a 	 s 	 	 pur 	 e 	 	oxygen	 a 	 s 	 	possible	,	 be 	 cause 	 	 event 	 ual 	 ly 	 	you	're	going	to	 di 	 lute 	 	it	 essential 	 ly 	 	with	the	gas	.
+and	the	 mix 	 ture 	 	that	the	patient	 inhal 	 es 	 	 need 	 s 	 	to	be	at	 l 	 east 	 	a	certain	 percent 	 age 	 	oxygen	or	else	it	can	 be 	 come 	 	 danger 	 ous 	 	.
+but	so	in	here	when	there	's	 electric 	 ity 	 	,	the	oxygen	 concent 	 rator 	 	 take 	 s 	 	in	room	air	.
+now	we	know	room	air	is	 glor 	 iously 	 	free	,	it	is	abundant	,	and	it	's	 al 	 ready 	 	21	percent	oxygen	.
+so	all	 th 	 is 	 	 concent 	 rator 	 	 do 	 es 	 	is	take	that	room	air	in	,	filter	it	and	 s 	 end 	 	95	percent	 pur 	 e 	 	oxygen	up	and	 a 	 cross 	 	here	where	it	 mix 	 es 	 	with	the	 anesthet 	 ic 	 	agent	.
+now	before	that	 mix 	 ture 	 	 hit 	 s 	 	the	patient	's	 lung 	 s 	 	,	it	's	going	to	pass	by	here	--	you	ca	n't	see	it	,	but	there	's	an	oxygen	sensor	here	--	that	's	going	to	read	out	on	 th 	 is 	 	screen	the	 percent 	 age 	 	of	oxygen	 be 	 ing 	 	 deliver 	 ed 	 	.
+now	if	you	do	n't	have	power	,	or	,	god	forbid	,	the	power	 cut 	 s 	 	out	in	the	middle	of	 s 	 urge 	 ry 	 	,	 th 	 is 	 	machine	 transit 	 ions 	 	 autom 	 at 	 ically 	 	,	 with 	 out 	 	even	 hav 	 ing 	 	to	touch	it	,	to	 draw 	 ing 	 	in	room	air	from	 th 	 is 	 	 in 	 let 	 	.
+ every 	 thing 	 	else	is	the	same	.
+the	 on 	 ly 	 	 differ 	 ence 	 	is	that	now	you	're	 on 	 ly 	 	 work 	 ing 	 	with	21	percent	oxygen	.
+now	that	used	to	be	a	 danger 	 ous 	 	 guess 	 ing 	 	game	,	 be 	 cause 	 	you	 on 	 ly 	 	 k 	 new 	 	if	you	had	 give 	 n 	 	too	little	oxygen	once	 some 	 thing 	 	bad	 happen 	 ed 	 	.
+but	we	've	put	a	long	-	life	 batt 	 ery 	 	 back 	 up 	 	on	here	.
+ th 	 is 	 	is	the	 on 	 ly 	 	part	that	's	 batt 	 ery 	 	 back 	 ed 	 	up	.
+but	 th 	 is 	 	 give 	 s 	 	control	to	the	 provide 	 r 	 	,	 whet 	 her 	 	there	's	power	or	not	,	 be 	 cause 	 	they	can	adjust	the	flow	based	on	the	 percent 	 age 	 	of	oxygen	they	see	that	they	're	giving	 the 	 ir 	 	patient	.
+in	both	 case 	 s 	 	,	 whet 	 her 	 	you	have	power	or	not	,	 some 	 time 	 s 	 	the	patient	 need 	 s 	 	help	 breath 	 ing 	 	.
+it	's	just	a	 re 	 ality 	 	of	 an 	 est 	 hesia 	 	.	the	 lung 	 s 	 	can	be	 paralyze 	 d 	 	.
+and	so	we	've	just	 add 	 ed 	 	 th 	 is 	 	manual	 bel 	 low 	 s 	 	.
+we	've	 s 	 een 	 	 s 	 urge 	 ries 	 	for	three	or	four	 hour 	 s 	 	to	 ventil 	 ate 	 	the	patient	on	 th 	 is 	 	.
+so	it	's	a	 straight 	 forward 	 	machine	.
+i	shudder	to	say	simple	;	it	's	 straight 	 forward 	 	.
+and	it	's	by	design	.
+and	you	do	not	need	to	be	a	 high 	 ly 	 	trained	,	 special 	 ized 	 	 anesthesio 	 logist 	 	to	use	 th 	 is 	 	machine	,	which	is	good	 be 	 cause 	 	,	in	these	 r 	 ural 	 	 di 	 strict 	 	 hospital 	 s 	 	,	you	're	not	going	to	get	that	level	of	training	.
+it	's	 al 	 so 	 	designed	for	the	environment	that	it	will	be	used	in	.
+ th 	 is 	 	is	an	 inc 	 red 	 ibly 	 	 rug 	 ged 	 	machine	.
+it	 ha 	 s 	 	to	stand	up	to	the	heat	and	the	wear	and	tear	that	 happen 	 s 	 	in	 hospital 	 s 	 	in	these	 r 	 ural 	 	 di 	 strict 	 s 	 	.
+and	so	it	's	not	going	to	break	 ver 	 y 	 	 eas 	 ily 	 	,	but	if	it	 do 	 es 	 	,	 virtual 	 ly 	 	every	piece	in	 th 	 is 	 	machine	can	be	 swap 	 ped 	 	out	and	 replace 	 d 	 	with	a	 h 	 ex 	 	wrench	and	a	 screw 	 driver 	 	.
+and	 final 	 ly 	 	,	it	's	 afford 	 able 	 	.
+ th 	 is 	 	machine	 come 	 s 	 	in	at	an	eighth	of	the	cost	of	the	 convention 	 al 	 	machine	that	i	 show 	 ed 	 	you	 ear 	 lier 	 	.
+so	in	other	 word 	 s 	 	,	what	we	have	here	is	a	machine	that	can	 en 	 able 	 	 s 	 urge 	 ry 	 	and	 s 	 ave 	 	 live 	 s 	 	 be 	 cause 	 	it	was	designed	for	 it 	 s 	 	environment	,	just	like	the	first	machine	i	 show 	 ed 	 	you	.
+but	we	're	not	content	to	stop	there	.
+is	it	 work 	 ing 	 	?
+is	 th 	 is 	 	the	design	that	's	going	to	work	in	place	?
+well	we	've	 s 	 een 	 	good	 result 	 s 	 	so	far	.
+ th 	 is 	 	is	in	13	 hospital 	 s 	 	in	four	 count 	 ries 	 	,	and	since	2010	,	we	've	 d 	 one 	 	well	over	2,000	 s 	 urge 	 ries 	 	with	no	 clinic 	 ally 	 	 advers 	 e 	 	 event 	 s 	 	.
+so	we	're	 thrill 	 ed 	 	.
+ th 	 is 	 	 re 	 ally 	 	 seem 	 s 	 	like	a	cost	-	effective	,	 scal 	 able 	 	solution	to	a	problem	that	's	 re 	 ally 	 	pervasive	.
+but	we	still	want	to	be	 s 	 ure 	 	that	 th 	 is 	 	is	the	most	effective	and	safe	 de 	 vice 	 	that	we	can	be	 put 	 ting 	 	 in 	 to 	 	 hospital 	 s 	 	.
+so	to	do	that	we	've	 launch 	 ed 	 	a	number	of	 partner 	 ship 	 s 	 	with	ngos	and	 un 	 ive 	 rs 	 ities 	 	to	gather	data	on	the	user	 inter 	 face 	 	,	on	the	 type 	 s 	 	of	 s 	 urge 	 ries 	 	it	's	appropriate	for	and	ways	we	can	enhance	the	 de 	 vice 	 	 it 	 self 	 	.
+one	of	 t 	 hose 	 	 partner 	 ship 	 s 	 	is	with	johns	hopkins	just	here	in	baltimore	.
+they	have	a	 re 	 ally 	 	cool	 an 	 est 	 hesia 	 	 simul 	 ation 	 	lab	out	in	baltimore	.
+so	we	're	taking	 th 	 is 	 	machine	and	 re 	 creating 	 	some	of	the	 oper 	 ating 	 	theater	 cri 	 s 	 es 	 	that	 th 	 is 	 	machine	might	face	in	one	of	the	 hospital 	 s 	 	that	it	's	 intend 	 ed 	 	for	,	and	in	a	 contain 	 ed 	 	,	safe	environment	,	 evalu 	 ating 	 	 it 	 s 	 	 effective 	 ness 	 	.
+we	're	then	able	to	 compar 	 e 	 	the	 result 	 s 	 	from	that	 stud 	 y 	 	with	real	world	experience	,	 be 	 cause 	 	we	're	 put 	 ting 	 	two	of	these	in	 hospital 	 s 	 	that	johns	hopkins	 work 	 s 	 	with	in	sierra	leone	,	 in 	 clud 	 ing 	 	the	hospital	where	that	 emerge 	 ncy 	 	c	-	section	 happen 	 ed 	 	.
+so	i	've	 talk 	 ed 	 	a	lot	about	 an 	 est 	 hesia 	 	,	and	i	tend	to	do	that	.
+i	think	it	is	 inc 	 red 	 ibly 	 	 fasci 	 nating 	 	and	an	 import 	 ant 	 	component	of	health	.
+and	it	 re 	 ally 	 	 seem 	 s 	 	 per 	 iph 	 er 	 al 	 	,	we	never	think	about	it	,	 un 	 til 	 	we	do	n't	have	access	to	it	,	and	then	it	 be 	 come 	 s 	 	a	 gate 	 keeper 	 	.
+who	 get 	 s 	 	 s 	 urge 	 ry 	 	and	who	 do 	 es 	 	n't	?
+who	 get 	 s 	 	safe	 s 	 urge 	 ry 	 	and	who	 do 	 es 	 	n't	?
+but	you	know	,	it	's	just	one	of	so	 man 	 y 	 	ways	that	design	,	appropriate	design	,	can	have	an	impact	on	health	 out 	 come 	 s 	 	.
+if	more	people	in	the	health	 deliver 	 y 	 	space	 re 	 ally 	 	 work 	 ing 	 	on	some	of	these	 challeng 	 es 	 	in	low	-	income	 count 	 ries 	 	could	start	 the 	 ir 	 	design	process	,	 the 	 ir 	 	solution	search	,	from	 out 	 side 	 	of	that	proverbial	box	and	 in 	 side 	 	of	the	hospital	--	in	other	 word 	 s 	 	,	if	we	could	design	for	the	environment	that	 exist 	 s 	 	in	so	 man 	 y 	 	 part 	 s 	 	of	the	world	,	 ra 	 ther 	 	than	the	one	that	we	 wish 	 ed 	 	 exist 	 ed 	 	--	we	might	just	 s 	 ave 	 	a	lot	of	 live 	 s 	 	.
+thank	you	 ver 	 y 	 	much	.
+

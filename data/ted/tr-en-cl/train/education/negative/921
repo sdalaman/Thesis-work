@@ -1,0 +1,83 @@
+şu ana kadar , makineler ile olan iletişimimiz hep kasıtlı ve direk yapılarla _UNK_ .
+i̇ster ışıkları açmak için kullandığımız anahtarlar gibi basit yapılar , isterse robotları programlamak gibi karmaşık yapılar olsun , makinelere bir şey yaptırabilmek için her zaman bir komut veya komutlar zinciri vermemiz gerekti .
+diğer yandan , insanlar arasındaki iletişim , çok daha karmaşık ve ilginç çünkü bizler görünenin ifade _UNK_ haricinde çok daha fazlasını hesaba katıyoruz .
+bir başkası ile yaptığımız konuşmada yüz _UNK_ , vücut dilini gözlemliyor , duyguları ve heyecanları _UNK_ .
+aslında bu karar verme sürecimizin büyük bir kısmını oluşturuyor .
+hedefimiz , insanlar arasındaki bu tamamen yeni etkileşim alanını insan - bilgisayar etkileşimine tanıtmak , böylece de , bilgisayarlar sadece onlara verdiğiniz komutları _UNK_ aynı zamanda sizin _UNK_ ve duygusal deneyimlerinize de karşılık _UNK_ .
+bunu yapmak için , doğal yollarla beynimiz tarafından üretilen bu sinyalleri tercüme etmekten daha iyi olan yöntem de kontrol ve deneyim için bulunan merkezimiz .
+kulağa çok iyi bir fikir gibi geliyor , ama bu görev _UNK_ da bahsettiği gibi iki sebepten ötürü çok kolay değil : i̇lki , algılama algoritması .
+beynimiz milyarlarca aktif nörondan ibarettir , sinir hücrelerini uç uca eklediğinizde 170,000 km. oluyor .
+bu nöronlar birbiri ile etkileşime _UNK_ kimyasal tepkime , gözlemlenebilir ölçüde elektriksel _UNK_ ortaya çıkarıyor .
+beyin _UNK_ büyük bir bölümü beynimizin dış katmanından _UNK_ . beynimizin yüzeyi , zeka kapasitemizi mümkün olabildiğince arttırmak için büyük ölçüde katlı bir yapıya sahiptir .
+bu kortikal _UNK_ elektriksel _UNK_ yüzeyinin yorumlanması konusunda önemli bir sorun teşkil ediyor .
+herbir kişinin korteksi farklı bir şekilde _UNK_ , sanki parmak izlerimiz gibi .
+yani , sinyaller beynin aynı kısmından geliyor olsalar bile , zamanla beynin yapısı _UNK_ , bunun bireyler arasındaki fiziksel konumu çok farklı olabiliyor , hatta tek yumurta ikizlerinde bile .
+yüzey _UNK_ geriye hiçbir tutarlılık kalmıyor .
+en büyük _UNK_ _UNK_ yeniden düz hale _UNK_ bir algoritma _UNK_ , böylece sinyalleri kaynaklarına daha yakın bir şekilde görüntüleyebiliyoruz , bu da kalabalık bir toplumda _UNK_ mümkün kılıyor .
+i̇kinci büyük zorluk da beyin dalgalarını ölçmek için kullanılan alet .
+eeg ölçümleri genellikle _UNK_ oklardan oluşan bir saç ağı içerir , bu resimde de gördüğünüz gibi .
+bir teknisyen geçirgen bir jel veya tutkal yardımı ile elektrotları kafa derisine yerleştiriyor ve bu genellikle kafa derisinin aşınmaya karşı hazırlayan bir süreçten sonra yapılıyor .
+bu süreçler çok zaman alıyor ve de uygulanması en rahat süreçler değiller .
+daha da önemlisi , bu sistemler on binlerce dolara mal oluyor .
+bununla birlikte , sahneye geçen senenin konuşmacılarından olan evan _UNK_ davet ediyorum , kendisi bu geliştirmekte olduğumuz aleti sizlere göstermem için bana yardımcı olmayı kabul etti .
+bu gördüğünüz alet 14 kanallı , yüksek ses duyarlılığı olan eeg elde etme sistemi .
+kafa derisini hazırlamak için bir süreç gerektirmiyor , ya da geçirgen jel veya tutkal .
+kafaya yerleştirmek ve _UNK_ _UNK_ başlamak sadece birkaç dakikamızı alıyor .
+aynı zamanda kablosuz , böylece size hareket etme özgürlüğü sunuyor .
+ve de geleneksel eeg sistemlerinin on binlerce dolarlık maliyetini düşündüğünüzde , bu başlık sadece birkaç yüz dolara mal oluyor .
+şimdi algılama algoritması .
+yüz mimikleri -- daha önce duygusal deneyimlerde de bahsettiğim gibi -- şimdilik , bazı hassasiyet _UNK_ ile _UNK_ müsait olacak şekilde çalışmaya uygun olarak dizayn edildi .
+ama elimizdeki kısıtlı zamanda , sizlere , zihninizde sanal nesneleri hareket ettirme yeteneğiniz olan kasti düşünceleri göstermek istiyorum .
+şimdi , evan bu sisteme yabancı olduğu için , yapmamız gereken ilk şey onun için bir profil yaratmak .
+tabi ki _UNK_ değil -- " yeni kullanıcı " ekleyelim .
+evan . tamam .
+bu kasti düşünceler ile yapmamız gereken ilk şey nötr bir sinyal ile çalışmaya başlamak .
+nötr ile evan'ın özellikle yapması gereken hiçbir şey yok .
+sadece _UNK_ , rahatlamış bir durumda .
+bunu yapmamızın sebebi bir temel ya da beyninin normal durumunu belirlemek , çünkü her beyin farklıdır .
+bunu yapmak sekiz saniye sürüyor . bu yapıldığına göre , hareket - bazlı bir olay seçebiliriz .
+evan aklında kolaylıkla _UNK_ bir şey seç .
+evan grant : " çekmek " seçeneği .
+tan le : tamam , o zaman küpü çekelim .
+buradaki fikir şöyle ; evan'ın , objenin ekranın ön kısmına geldiğini hayal etmesi gerekiyor . ve ekranda da bir gelişim çubuğu var , o bunu yaparken ekran boyunca ilerleyecek .
+i̇lk seferinde , hiçbir şey olmayacak , çünkü sistemin onun " çekme " yi nasıl düşündüğü konusunda bir fikri yok .
+ama bu düşünceyi tüm sekiz saniye boyunca devam ettir .
+şimdi , bir , iki , ü ç , başla .
+tamam .
+bunu kabul ettiğimizde , küp canlanacak .
+şimdi bakalım , evan gerçekten onu çektiğini hayal edebilmiş mi .
+oh , bravo !
+bu çok şaşırtıcıydı .
+çok fazla zamanımız yok , o yüzden _UNK_ gerçekten zor bir şey yapmasını isteyeceğim .
+bu isteyeceğim gerçekten zor , çünkü fiziksel dünyada varolmayan bir şeyi canlandırmasını isteyeceğim .
+" kaybolma " .
+yani istenen , en azından hareket bazlı olaylarda , bunu sürekli yapıyoruz , o yüzden _UNK_ .
+ama " kaybolma " ile hiçbir benzerlik yok . şimdi evan , burada yapman gereken küpün yavaşça kaybolduğunu hayal etmek .
+az öncekinin benzeri . bir , iki , ü ç , başla .
+tamam , bunu dene şimdi .
+aman allahım , gerçekten çok iyi .
+bunu bir daha deneyelim .
+eg : konsantrasyonumu _UNK_ .
+tl : ama gerçekten işe yaradığını görüyoruz , hem de çok kısa bir süre kafasında tutmasına rağmen .
+söylediğim gibi , bunu hayal etmek çok zor bir süreç .
+bunun en güzel yanı da bu yazılıma sadece onun " kaybolma " yı nasıl düşündüğünü bir kez örnek olarak vermiş olmamız .
+sanki burada algoritmayı öğrenen bir makine var . teşekkürler .
+çok iyi iş _UNK_ .
+teşekkürler evan , teknolojiyi tanıtmak için mükemmel bir örnek oldun .
+fark etmiş olabileceğiniz gibi , bu yazılımda bir aşama sistemi mevcut , yani evan veya bir başka kullanıcı sistem ile daha aşina olduğunda algılamalarını eklemeye devam edebilirler , böylece sistem farklı düşünceleri ayırt edebilmeye başlayabiliyor .
+ve de bu algıları öğrettiğiniz zaman , bu düşünceler herhangi başka bir bilgisayar platformuna , uygulamasına ya da aletine _UNK_ veya _UNK_ .
+sizlere birkaç örnek göstermek istiyorum , çünkü bu arayüz için mümkün olan birçok uygulama mevcut .
+oyunlarda ve sanal dünyada , mesela , yüz _UNK_ doğal olarak ve sezgisel olarak bir avatarı veya sanal bir karakteri kontrol etmek için kullanılabilir .
+tabii ki , sihrin fantezisini tecrübe edebilir zihniniz ile dünyayı kontrol edebilirsiniz .
+aynı zamanda , renkler , ışıklar , sesler ve efektler , o an yaşadığınız deneyimleri yükseltmek için duygusal durumunuza eş zamanlı olarak karşılık verebilirler .
+ve de dünyadan bazı araştırmacı ve geliştiricilerin geliştirdikleri uygulamalar , robotlar ve basit makineler ile , örneğin -- bu örnekte , oyuncak bir helikopteri zihninizde _UNK_ düşünerek uçurmak .
+teknoloji aynı zamanda gerçek yaşama uygulamalarına da uygulanabilir -- bu örnekte , akıllı bir ev .
+kontrol sisteminin kullanıcı _UNK_ perdeleri açmak ya da kapamak .
+ve tabi ki ışıklar -- açmak ya da kapamak .
+ve son olarak , gerçekten yaşam değiştirecek uygulamalar , örneğin elektrikli tekerlekli sandalyeyi kontrol etmek gibi .
+bu örnekte , yüz mimikleri hareket komutları olarak kullanıldılar .
+man : sağa gitmek için sağ gözünü kırp .
+sola dönmek için , sol gözünü kırp
+düz gitmek için gülümse .
+tl : gerçekten -- çok teşekkürler .
+şu an sadece mümkün olan şeylerin yüzeyini _UNK_ . toplumun katkısıyla , ve dünyanın her tarafından araştırmacıların ve _UNK_ dahil olması ile , umarız teknolojinin buradan yola çıkarak gittiği yönü _UNK_ yardım edeceksiniz . çok teşekkürler .

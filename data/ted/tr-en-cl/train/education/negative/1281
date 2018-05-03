@@ -1,0 +1,41 @@
+sizi rezero ile tanıştırayım .
+bu küçük dostumuz , _UNK_ - _UNK_ otonom sistemler laboratuvarı'nda 10 üniversite _UNK_ oluşan bir grup tarafından geliştirildi .
+robotumuz _UNK_ adı verilen bir robot ailesine mensup .
+tekerlekler yerine , bir ballbot robotu tek bir top üzerinde dengede duruyor ve hareket ediyor .
+böyle bir sistemin temel özelliği , yere yalnız bir zemin noktası olması .
+bu da robotun doğuştan dengesiz olduğu anlamına geliyor .
+örneğin benim tek ayak üstünde durmaya çalışmam gibi .
+kendinize şunu sorabilirsiniz , dengesiz bir robot ne işe yarar ?
+bunu birazdan açıklayacağız .
+öncelikle rezero'nun sahiden nasıl dengesini koruduğunu açıklayayım .
+rezero eğim açısını bir sensör ile sürekli ölçerek dengesini koruyor .
+sonra etkisiz hale geliyor ve motorunu uygun olarak aktive ederek düşmesini önlüyor .
+bu saniyede 160 kez gerçekleşiyor , ve eğer bu süreçte herhangi birşey başarısızlığa uğrarsa , rezero anında yere düşer .
+hareket etmesi ve dengede durması için , rezero'nun topu _UNK_ gerekli .
+top rezero'nun herhangi bir yöne doğru ve aynı zamanda kendi ekseni etrafında hareket etmesini sağlayan ü ç özel tekerlek tarafından sürülüyor .
+dengesizliği yüzünden , rezero sürekli hareket halinde . i̇şte işin sırrı burada .
+gerçekten bir robotun çok dinamik bir şekilde hareket etmesini tam da bu dengesizlik sağlıyor .
+hadi biraz oynayalım .
+robotu biraz _UNK_ ne olduğunu merak etmiş olabilirsiniz .
+bu modunda , konumunu korumaya çalışıyor .
+bir sonraki demo için , meslektaşlarım bilgisayar başındaki michael ve sahnede bana yardım eden _UNK_ takdim etmek istiyorum .
+bir sonraki modunda , rezero pasif , ve onu hareket ettirebiliriz .
+neredeyse hiç kuvvet kullanmadan , konumunu ve _UNK_ kontrol edebiliyorum .
+onu ayrıca döndürebilirim .
+bir sonraki modunda , rezero'nun bir insanı takip ettirebiliyoruz .
+şu an thomas ile arasında sabit bir mesafe tutuyor .
+bu rezero'nun başında takılı bir lazer sensör ile çalışıyor .
+aynı yöntem ile , bir insanın etrafında dolaşmasını da sağlayabiliyoruz .
+biz buna _UNK_ modu diyoruz .
+peki , teşekkürler , thomas .
+peki , bu teknolojinin faydası nedir ?
+şimdilik , bu bir deney , ama izin verin size bazı olası gelecek uygulamalarını göstereyim .
+rezero sergilerde ya da parklarda kullanılabilir .
+bir ekran ile insanları bilgilendirebilir ya da onlara eğlenceli bir şekilde etrafı gösterebilir .
+bir hastanede , bu cihaz tıbbi malzeme taşımak için kullanılabilir .
+ballbot sisteminden dolayı , çok küçük bir ayakizine sahip ve hareket ettirmesi de kolay .
+ve elbette , kim bunlardan birini sürmek istemez ki .
+bunlar daha çok pratik uygulamalar .
+ama bu teknoloji içerisinde kuşkusuz bir güzellik barındırıyor .
+teşekkürler .
+teşekkürler .

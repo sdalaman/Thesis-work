@@ -1,0 +1,32 @@
+ceci est un projet en cours basé sur certains commentaires faits lors du congrès ted , il y a 2 ans , sur la nécessité de conserver des vaccins .
+[ sur cette planète ] [ 1.6 milliards de personnes ] [ n'ont pas accès à l'électricité ] [ à la _UNK_ ] [ ou aux énergies stockées . ] [ ceci est un problème ] [ cela a des conséquences sur : ] [ la transmission des maladies ] [ le stockage de nourriture et de médicaments ] [ et la qualité de vie . ] [ voici le plan : une réfrigération peu _UNK_ qui n'utilise aucune source d'électricité ... ] [ ... de propane , de gaz , de kérosène ou d'autres combustibles ] [ c'est le moment pour un petit cours de thermodynamique ] [ et à l'histoire du réfrigérateur à absorption à cycles _UNK_ . ] il y a 29 ans , j'avais ce prof de thermo qui parlait d'absorption et de réfrigération .
+cela fait parti des choses qui me sont restées en tête .
+c'était très proche du moteur stirling : c'était génial , mais on ne savait pas quoi faire avec .
+cela avait été inventé en 1858 par ferdinand _UNK_ , mais il ne pouvait rien construire avec à cause des outils de l'époque .
+ce canadien un peu fou , powell _UNK_ _UNK_ cette chose appelée _UNK_ en 1928 , c'était vraiment une idée ingénieuse , je vais vous expliquer pourquoi ça n'a pas marché , mais voici d'abord comment cela fonctionne .
+il y a deux sphères qui sont séparées à distance .
+l'une présente un fluide de travail , constitué d'eau et _UNK_ et l'autre est un condensateur .
+vous chauffez un côté , le côté chaud .
+l'ammoniaque s'évapore et se _UNK_ de l'autre côté .
+vous le laissez refroidir à température ambiante , puis , alors que l'ammoniaque s'évapore à nouveau et se mélange à l'eau du côté qui était précédemment chaud , cela produit un puissant effet refroidissant .
+c'était une idee géniale qui n'a absolument pas fonctionné : tout a explosé .
+en utilisant l'ammoniaque , on obtient des pressions très élevées si on le chauffe _UNK_ .
+cela atteignait les _UNK_ . l'ammoniaque était toxique . il s'en _UNK_ partout .
+mais c'était une idée très intéressante .
+ce qui est bien en 2006 , c'est qu'on peut faire pas mal de travail avancé en informatique .
+alors nous avons impliqué tout le département de thermodynamique à stanford .
+nous avons beaucoup travaillé la dynamique des fluides par simulation informatique .
+nous avons prouvé que la plupart des tables de réfrigération de l'ammoniaque étaient fausses .
+nous avons trouvé des _UNK_ non toxiques qui fonctionnaient à de basses pressions .
+nous avons fait venir une équipe d'angleterre -- il se trouve qu'il y a apparemment beaucoup de gens géniaux en matière de réfrigération en angleterre -- et nous avons construit une plate - forme d'essai , et avons prouvé qu'en fait il était possible de fabriquer un réfrigérateur non - toxique à basse pression .
+donc voici comment ça marche .
+on le place sur un feu de cuisson .
+la plupart des gens ont des feux de cuisson dans le monde , que ce soit à partir de bouse de chameau ou de bois .
+on le laisse chauffer pendant environ 30 minutes , puis refroidir pendant une heure .
+on le met dans un récipient et cela va réfrigérer pendant 24 heures .
+cela ressemble à ça . celui - ci est le cinquième prototype . il n'est pas encore complétement fini .
+il pèse environ 3,6 kg , et fonctionne comme ceci : on le met dans un récipient de 15 litres , ce qui fait environ trois gallons , et il refroidira jusqu'à atteindre une température proche du gel , trois degrés au - dessus de zéro .
+ceci pendant 24 heures et dans un environnement de 30 degrés celsius . et ce n'est vraiment pas cher .
+nous pensons pouvoir les produire en grande quantité pour 25 dollars , et à petite échelle pour 40 dollars .
+et nous pensons que nous pouvons faire en sorte que la réfrigération soit accessible à tous .
+merci .

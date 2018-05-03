@@ -1,0 +1,69 @@
+size bugün üretim sektörünün geleceğinden bahsetmek istiyorum .
+ben , pek yakında binalar ve makinelerin kendiliğinden _UNK_ _UNK_ ve kendi kendilerini _UNK_ inanıyorum .
+şimdi size imalat sanayinin şu andaki durumunu anlatacağım . daha sonra da bunun doğal sistemlerle _UNK_ yapacağım .
+_UNK_ mevcut teknoloji ile _UNK_ yapıyoruz . bu yapılar , yapımı iki buçuk yıl süren 500.000 ile _UNK_ arasında parçadan oluşan etkileyici teknolojileri içermektedir .
+bizleri uzaya götürebilecek harika araçlar var . bunların da yapımı yaklaşık beş yıl alıyor ve 2.5 milyon parçadan oluşuyorlar .
+diğer taraftan doğal sistemlere bakacak olursak örneğin proteinlerin iki milyon çeşidinin olduğunu ve 10.000 nanosaniyede _UNK_ görürüz . aynı şekilde , yaklaşık bir saat içinde _UNK_ , ü ç milyon temel baz çiftine sahip dna örneği de var .
+doğal sistemler işte bu örneklerde olduğu gibi karmaşık yapıda olmalarına rağmen oldukça verimli çalışmaktadırlar . yani bizim yapabileceğimiz herhangi bir şeyden çok daha verimli çalışırlar ve çok daha karmaşık _UNK_ .
+enerji bakımından _UNK_ derecede daha verimlidirler .
+hemen hemen hiç hata yapma ihtimalleri yoktur .
+yaşamlarının devamı için kendi kendilerini _UNK_ .
+görüldüğü gibi doğal sistemlerde olağanüstü ilginç bir durum söz konusudur .
+eğer bu durumu bizim yapı sistemimize taşıma imkanımız olursa , yapı yöntemimiz ile ilgili heyecan verici gelişmeler söz konusu olabilir .
+ve bence burada kilit nokta kendiliğinden kurulma işlemidir .
+eğer kendiliğinden kurulma işlemini kendi yaşantımızda kullanmak istersek dört önemli faktörü göz önünde bulundurmamız gerekir .
+bunlardan birincisi , yapmak istediğimiz şeylerin yani bina ve makinelerin karmaşık yapılarını _UNK_ .
+bu yapıları basit parçalara bölerek dizilimlerini _UNK_ . yani bir anlamda binaların dna'larını çıkarmalıyız .
+daha sonra da bu dizilimleri alıp onları _UNK_ veya yeniden _UNK_ programlanabilir parçalar yapmalıyız .
+bunları aktif hale geçirecek yani program aracılığı ile bu parçaların _UNK_ sağlayacak enerjiye de ihtiyacımız olacak .
+ve son olarak da , istediğimiz şeyi başarılı bir biçimde ürettiğimizden emin olmak için bir tür hata denetim mekanizmasına gereksinimimiz var .
+şimdi sizlere bu kendiliğinden kurulma sürecinin gelecekte başarılı olabilmesi için benim ve diğer çalışma arkadaşlarımın mit'de üzerinde çalıştığımız birkaç projeden bahsedeceğim .
+bunlardan ilk ikisi _UNK_ ve _UNK_ _UNK_ .
+bu ikisi büyük ölçekli yeniden _UNK_ robotlara yönelik _UNK_ . bu robotlar 8 fit ve 12 fit uzunluğunda proteinleri temsil etmektedir .
+i̇çlerine mekanik elektrik cihazlar yani sensörler yerleştirilmiştir .
+önce ne derecede kıvrımlar istediğinizi hesaplıyorsunuz . yani _UNK_ kıvrım açılarını _UNK_ . bunlar , eksi 120 , eksi 120 , 0 , 0 , 120 , eksi 120 gibi açılar veya _UNK_ oluşuyor ve bu dizilim bilgisini yaylar aracılığı ile _UNK_ .
+her birim kendine gelen mesajı algılıyor -- mesela eksi 120 olsun . o açı kadar dönüyor ve konumunu kontrol edip bilgilerini yanındaki diziye geçiriyor .
+bu gördükleriniz bu proje için çalışan zeki araştırmacılar , mühendisler ve tasarımcılar .
+ve sanırım bu örnekler şu soruyu gündeme getiriyor : bu çalışmalar gerçek ölçeğe uyarlanabilir mi ?
+yani bu 8 fit büyüklüğündeki robotu yapmak için binlerce dolar ve yüklü işgücü harcandı .
+bunu gerçek ölçeğe uygun yapabilir miyiz ? yani herbir parça içine de robotlar yerleştirebilir miyiz ?
+bahsettiğim ikinci robot buna cevap verir nitelikte olup pasif yapıyı örnek alıyor yani pasif biçimde programlama ile şekil değiştirebilme imkanı sağlıyor .
+fakat bir aşama daha ileri gidip gerçek hesaplama yapmaya girişiyor .
+esasen , burada hesaplamanın en temel yapı taşı olan dijital mantık kapısı parçalara _UNK_ .
+örneğin bu bir 've değil kapısı ' .
+burada sizin hesaplarınızı yapacak kapı olan bir tetrahedron ve iki adet girdi _UNK_ görüyorsunuz .
+bunlardan birisi , parçalar imal edilirken kullanıcıdan gelen girdiler içindir .
+diğeri ise daha önce yerleştirilmiş olan parçadan gelen girdidir .
+böylece size ü ç boyutlu bir çıktı ulaşır .
+bu , kullanıcının bu parçaları istediği biçimde _UNK_ anlamına gelmektedir .
+kapı tetrahedron daha önce yapılanları ve şu anda _UNK_ komutları hesaplar .
+ve sonunda ü ç - boyutlu uzayda aşağıya ve yukarıya doğru hareket etmeye başlar .
+mesela sol tarafta gördüğünüz [ _UNK_ ] girdisi 0 çıktısına karşılık gelir ve aşağı doğru hareket ettirir .
+sağ taraftaki şekilde de [ _UNK_ ] girdisi 1 çıktısına karşılık gelir ve yukarı hareket ettirir .
+aslında bütün bu örnekler ileride yapmak _UNK_ bir prototipi niteliğindedir .
+yani bunlar _UNK_ bilgilerin tamamını muhafaza ediyorlar .
+bu da bir anlamda bir tür kendini _UNK_ yöntemine sahip olduğumuzu gösteriyor .
+ben bunu kendi kendine çoğalma diye adlandırıyorum çünkü yapı , ilki ile tamamen aynı özellikleri barındırıyor .
+eğer hata olduğunu _UNK_ parçalardan birini değiştirebilirsiniz .
+bu hatayı nasıl _UNK_ ile ilgili tüm bilgiler _UNK_ .
+yani sistemde bunları okuyabilecek parçalar var ve bu bilgiler bire bir size sunulabilir .
+bu sisteme doğrudan yerleştirilmiştir ve harici bir _UNK_ gerek yoktur .
+size göstereceğim son örnek ' meyilli zincirler ' projesidir ve bu proje , pasif kendi - kurulabilen sistemlerle ilgili şu anda var olan en ilginç örnektir .
+bu sistem yeniden _UNK_ ve _UNK_ özellikleriyle birlikte tamamen edilgen bir sistem haline getirilmiştir .
+basit anlamda , bu sistem bir elemanlar zinciri gibidir .
+herbir eleman tamamen birbiriyle aynı ve meyillidir .
+yani her zincir veya her eleman sağa veya sola dönme eğilimindedir .
+siz zinciri kurarken , aslında aynı zamanda onu programlıyorsunuz da .
+bir anlamda , herbir birimin sağa veya sola döneceğini de tanımlamış oluyorsunuz .
+bu sebeple , zinciri _UNK_ programlandığı biçimde kıvrılır ve katlanır . mesela bu _UNK_ spiral bir şekil oluşurken _UNK_ yan yana iki adet küp oluşur .
+bu zincire pasif olarak ü ç boyutlu herhangi bir şekil programlayabilirsiniz . i̇ki veya tek boyutlu da olabilir .
+peki bu bize gelecekle ilgili ne fikir verir ?
+şahsen , bunun bize gelecekte fiziki yapıların , binaların ve makinelerin kendi kendine kurulumları , _UNK_ ve onarımları ile ilgili yeni olanaklar sağlayacağını düşünüyorum .
+bu parçalarda programlanabilir yeni özellikler mevcut .
+bu sebeple , hesaplama açısından yeni _UNK_ da sunuyor .
+_UNK_ hesaplamalar olacak .
+binaların , _UNK_ , makinelerin yani her bir yapı taşının hesaplama yapabildiğini düşünün .
+müthiş birşey . paralel ve dağıtılmış hesaplama gücü ve yeni tasarım imkanları olacak .
+oldukça heyecan verici bir potansiyele sahip .
+öyle zannediyorum ki size tanıttığım bu projeler eğer bu teknolojileri hayata geçirebilirsek gelecekteki kendi kendine kurulan sistemler için sadece küçük birer adım niteliğinde kalacaktır .
+teşekkürler .

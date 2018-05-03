@@ -1,0 +1,202 @@
+also_de ,_de der_de erste_de roboter_de über_de den_de ich_de sprechen_de will_de heißt_de strider_de ._de
+das_de steht_de für_de _UNK__de _UNK__de dynamischer_de experimenteller_de roboter_de ._de
+es_de ist_de ein_de roboter_de ,_de der_de drei_de beine_de hat_de ,_de dies_de ist_de von_de der_de natur_de inspiriert_de
+aber_de haben_de sie_de schon_de einmal_de irgendetwas_de in_de der_de natur_de gesehen_de ein_de tier_de gesehen_de ,_de das_de drei_de beine_de hat_de ?_de
+wahrscheinlich_de nicht_de ._de also_de ,_de warum_de ich_de nenne_de ihn_de dann_de einen_de biologisch_de inspirierten_de roboter_de ?_de wie_de könnte_de das_de funktionieren_de ?_de
+aber_de zuerst_de wollen_de wir_de einen_de blick_de auf_de die_de popkultur_de werfen_de ._de
+sie_de kennen_de also_de h.g._de wells_de _UNK__de der_de welten_de als_de buch_de und_de film_de ._de
+und_de was_de sie_de hier_de sehen_de können_de ist_de ein_de sehr_de beliebtes_de videospiel_de in_de der_de fiktion_de werden_de diese_de außerirdischen_de als_de _UNK__de roboter_de ,_de welche_de die_de erde_de _UNK__de beschrieben_de ._de
+aber_de mein_de roboter_de strider_de ,_de bewegt_de sich_de nicht_de auf_de diese_de weise_de ._de
+dies_de ist_de also_de ,_de eine_de tatsächliche_de dynamisch_de simulierte_de animation_de ._de
+ich_de werde_de ihnen_de nun_de zeigen_de wie_de der_de roboter_de funktioniert_de ._de
+er_de dreht_de seinen_de körper_de um_de 180_de grad_de ._de er_de schwingt_de einen_de fuß_de zwischen_de den_de beiden_de andern_de hindurch_de ,_de um_de den_de fall_de abzufangen_de ._de
+so_de geht_de er_de also_de ._de aber_de sehen_de sie_de nur_de auf_de uns_de die_de menschen_de ,_de wir_de gehen_de auf_de zwei_de füßen_de ,_de wir_de benutzen_de nicht_de wirklich_de unsere_de muskeln_de um_de den_de fuß_de zu_de heben_de und_de wie_de ein_de roboter_de zu_de gehen_de ._de stimmts_de ?_de
+was_de wir_de tatsächlich_de tun_de ,_de ist_de unseren_de fuß_de nach_de vorne_de zu_de bewegen_de und_de den_de fall_de zu_de abfangen_de ,_de wieder_de aufzustehen_de ,_de den_de fuß_de nach_de vorne_de zu_de bewegen_de und_de wieder_de den_de fall_de zu_de abfangen_de ._de
+man_de bedient_de sich_de des_de im_de eigenen_de körperbau_de eingebauten_de _UNK__de ,_de genauso_de wie_de ein_de pendel_de ._de
+wir_de nennen_de dies_de das_de konzept_de der_de fortbewegung_de durch_de passives_de kräftespiel_de ._de
+was_de sie_de tun_de ,_de wenn_de sie_de aufstehen_de ist_de ,_de potentielle_de energie_de umwandeln_de zu_de kinetischer_de energie_de ,_de potentielle_de energie_de zu_de kinetischer_de energie_de ._de
+es_de ist_de ein_de prozess_de des_de ständigen_de _UNK__de ._de
+und_de obwohl_de es_de nichts_de in_de der_de natur_de gibt_de ,_de dass_de so_de aussieht_de wie_de das_de ,_de wurden_de wir_de tatsächlich_de von_de der_de biologie_de inspiriert_de ._de und_de weil_de wir_de die_de gesetzmäßigkeiten_de des_de gehens_de an_de diesem_de roboter_de angewendet_de haben_de ,_de ist_de es_de ein_de biologisch_de inspirierter_de roboter_de ._de
+was_de sie_de hier_de sehen_de können_de ,_de ist_de was_de wir_de als_de nächstes_de tun_de wollen_de ._de
+wir_de wollen_de die_de beine_de zusammenfalten_de und_de ihn_de über_de weite_de distanzen_de schießen_de ._de
+und_de er_de verwendet_de die_de beine_de ,_de es_de sieht_de fast_de aus_de wie_de in_de star_de wars_de um_de beim_de landen_de den_de stoß_de abzufangen_de und_de er_de beginnt_de zu_de gehen_de ._de
+was_de sie_de hier_de sehen_de ,_de dieses_de gelbe_de ding_de ,_de das_de ist_de kein_de _UNK__de ,_de
+das_de wird_de nur_de benutzt_de um_de zu_de zeigen_de ,_de dass_de wenn_de man_de kameras_de hat_de oder_de andere_de sensoren_de weil_de er_de hoch_de ist_de ,_de er_de ist_de 1_de meter_de 80_de groß_de ,_de man_de über_de hindernisse_de über_de büsche_de und_de dererlei_de hinwegsehen_de kann_de ._de
+wir_de halben_de also_de zwei_de prototypen_de ._de
+die_de erste_de version_de ,_de die_de hintere_de ,_de das_de ist_de strider_de i._de
+der_de vordere_de ,_de der_de kleinere_de ,_de ist_de strider_de ii_de ._de
+das_de problem_de ,_de welches_de wir_de mit_de strider_de i_de hatten_de ist_de ,_de dass_de das_de gehäuse_de einfach_de zu_de schwer_de war_de ._de wir_de hatten_de zu_de viele_de motoren_de ,_de sie_de wissen_de schon_de ,_de welche_de die_de gelenke_de _UNK__de und_de dergleichen_de ._de
+also_de entschieden_de wir_de uns_de einen_de mechanischen_de mechanismus_de einzubauen_de mit_de dessen_de hilfe_de wir_de und_de all_de die_de motoren_de sparen_de konnten_de ._de und_de mit_de einem_de einzigen_de motor_de können_de wir_de all_de diese_de bewegungen_de koordinieren_de ._de
+wir_de benutzen_de mechanik_de ,_de um_de dieses_de problem_de zu_de lösen_de anstelle_de von_de mechatronik_de ._de
+mit_de dieser_de anpassung_de ist_de der_de obere_de teil_de des_de _UNK__de leicht_de genug_de um_de im_de labor_de zu_de gehen_de ._de dies_de war_de der_de erste_de äußerst_de erfolgreiche_de schritt_de ._de
+er_de ist_de noch_de nicht_de perfekt_de ._de sein_de kaffee_de fällt_de hinunter_de ,_de wir_de haben_de als_de noch_de eine_de menge_de arbeit_de vor_de uns_de
+der_de zweite_de roboter_de über_de den_de ich_de sprechen_de möchte_de heißt_de impass_de ._de
+das_de steht_de für_de intelligentes_de mobiles_de plattform_de system_de mit_de beweglichen_de speichen_de ._de
+es_de ist_de also_de ein_de rad_de -_de fuß_de -_de hybrid_de -_de roboter_de ._de
+denken_de sie_de an_de ein_de _UNK__de rad_de oder_de ein_de _UNK__de aber_de die_de speichen_de bewegen_de sich_de unabhängig_de voneinander_de in_de und_de aus_de der_de _UNK__de er_de ist_de also_de ein_de rad_de -_de fuß_de -_de hybrid_de ._de
+wir_de erfinden_de hier_de tatsächlich_de das_de rad_de neu_de ._de
+ich_de werde_de ihnen_de zeigen_de wie_de er_de funktioniert_de ._de
+also_de ,_de in_de diesem_de video_de zeigen_de wir_de eine_de methode_de ,_de die_de _UNK__de verfahren_de genannt_de wird_de ._de
+lediglich_de die_de berührungssensoren_de an_de den_de füßen_de benutzend_de ,_de versucht_de er_de über_de sich_de veränderndes_de terrain_de zu_de gehen_de ,_de ein_de _UNK__de terrain_de das_de sich_de _UNK__de und_de verändern_de lässt_de ._de
+und_de nur_de durch_de _UNK__de informationen_de überquert_de er_de derartiges_de terrain_de ._de
+aber_de wenn_de er_de sehr_de extremes_de terrain_de überqueren_de soll_de ,_de in_de diesem_de fall_de hat_de das_de hindernis_de mehr_de als_de die_de dreifache_de höhe_de des_de roboters_de ,_de schaltet_de der_de er_de auf_de einen_de planungs_de -_de modus_de um_de ,_de in_de diesem_de verwendet_de er_de eine_de laser_de -_de _UNK__de und_de kameras_de ,_de um_de das_de hindernis_de und_de dessen_de größe_de zu_de erfassen_de und_de dann_de plant_de er_de vorsichtig_de die_de bewegung_de der_de _UNK__de und_de stimmt_de diese_de so_de auf_de einander_de ab_de ,_de dass_de er_de sich_de auf_de diese_de ausnehmend_de beeindruckende_de weise_de fortbewegen_de kann_de ._de
+sie_de haben_de wahrscheinlich_de bis_de jetzt_de nichts_de dergleichen_de gesehen_de ._de
+dies_de ist_de ein_de hoch_de mobiler_de roboter_de ,_de den_de wir_de entwickelt_de und_de impass_de genannt_de haben_de
+ah_de !_de ist_de das_de nicht_de cool_de ?_de
+wenn_de sie_de mit_de dem_de auto_de fahren_de ,_de wenn_de sie_de ihr_de auto_de lenken_de ,_de verwenden_de sie_de eine_de methode_de ,_de welche_de _UNK__de genannt_de wird_de ._de
+die_de _UNK__de rotieren_de auf_de diese_de weise_de ._de
+für_de die_de meisten_de _UNK__de roboter_de wird_de eine_de methode_de verwendet_de ,_de die_de man_de _UNK__de nennt_de ,_de bei_de ihr_de drehen_de sich_de das_de rechte_de und_de das_de linke_de rad_de in_de verschiedene_de richtungen_de ._de
+impass_de kann_de sich_de verschiedenster_de arten_de der_de fortbewegung_de bedienen_de ._de
+zum_de beispiel_de :_de in_de diesem_de fall_de ,_de obwohl_de das_de linke_de und_de das_de rechte_de rad_de mit_de einer_de einzigen_de achse_de verbunden_de sind_de und_de sich_de daher_de gleich_de schnell_de drehen_de ,_de
+ändern_de wir_de einfach_de die_de länge_de der_de _UNK__de ,_de
+das_de beeinflusst_de den_de durchmesser_de und_de dann_de dreht_de er_de sich_de links_de und_de dreht_de sich_de nach_de rechts_de ._de
+dies_de sind_de nur_de beispiele_de einiger_de netter_de dinge_de ,_de die_de wir_de tun_de können_de mit_de impass_de ._de
+dieser_de roboter_de heißt_de climber_de kabel_de -_de _UNK__de intelligenter_de passend_de _UNK__de roboter_de mit_de gliedmaßen_de ._de
+ich_de habe_de also_de mit_de vielen_de nasa_de jpl_de wissenschaftlern_de gesprochen_de ,_de jpl_de ist_de berühmt_de für_de die_de mars_de _UNK__de ._de und_de die_de wissenschaftler_de ,_de die_de geologen_de sagen_de mir_de immer_de ,_de dass_de die_de _UNK__de interessante_de wissenschaft_de ,_de die_de wissenschaftlich_de interessanten_de gebiete_de ,_de immer_de an_de klippen_de sind_de ._de
+aber_de die_de jetzigen_de rover_de können_de diese_de nicht_de erreichen_de ,_de
+also_de ,_de machte_de ich_de mich_de ,_de inspiriert_de von_de dem_de was_de sie_de wollten_de ,_de daran_de einen_de roboter_de zu_de bauen_de ,_de der_de klippen_de mit_de strukturen_de erklettern_de kann_de ._de
+also_de ,_de dies_de ist_de climber_de ._de
+so_de funktioniert_de er_de :_de er_de hat_de drei_de beine_de ._de wahrscheinlich_de ist_de es_de schwer_de zu_de erkennen_de ,_de aber_de er_de hat_de eine_de seilwinde_de und_de ein_de seil_de an_de der_de oberseite_de und_de er_de versucht_de die_de beste_de stelle_de für_de seinen_de fuß_de zu_de finden_de ._de
+wenn_de er_de sie_de gefunden_de hat_de dann_de errechnet_de er_de fast_de gleichzeitig_de die_de _UNK__de ,_de und_de wie_de viel_de kraft_de er_de auf_de die_de oberfläche_de übertragen_de muss_de um_de nicht_de _UNK__de oder_de _UNK__de ._de
+wenn_de er_de sicher_de steht_de ,_de hebt_de er_de ein_de bein_de und_de mithilfe_de der_de seilwinde_de ist_de es_de möglich_de ,_de derartige_de oberflächen_de hinauf_de zu_de klettern_de ._de
+auch_de finden_de -_de und_de -_de retten_de -_de missionen_de ._de
+vor_de fünf_de jahren_de arbeitete_de ich_de tatsächlich_de bei_de nasa_de jpl_de ,_de während_de eines_de _UNK__de ._de
+und_de dort_de gab_de es_de schon_de damals_de einen_de _UNK__de roboter_de namens_de _UNK__de ._de
+also_de dieser_de hier_de basiert_de tatsächlich_de darauf_de ._de dieser_de roboter_de heißt_de mars_de ,_de multi_de -_de _UNK__de roboter_de system_de ._de er_de ist_de also_de ein_de _UNK__de roboter_de ._de
+wir_de haben_de unseren_de anpassungsfähigen_de gang_de -_de planer_de entwickelt_de ._de
+hier_de haben_de wir_de eine_de wirklich_de interessante_de ladung_de ._de
+die_de studenten_de machen_de gern_de blödsinn_de ._de und_de hier_de können_de sie_de sehen_de wie_de er_de über_de _UNK__de terrain_de geht_de ._de
+er_de versucht_de auf_de _UNK__de terrain_de zu_de gehen_de ,_de einem_de _UNK__de ,_de abhängig_de von_de der_de feuchtigkeit_de oder_de der_de größe_de der_de sandkörner_de verändert_de sich_de die_de das_de rechenmodell_de für_de das_de _UNK__de ._de
+daher_de versucht_de er_de seinen_de gang_de anzupassen_de um_de derartiges_de terrain_de zu_de überqueren_de ._de
+und_de er_de kann_de auch_de ein_de paar_de lustige_de sachen_de ._de wie_de sie_de sich_de sicher_de vorstellen_de können_de ,_de
+haben_de wir_de eine_de menge_de besucher_de in_de unserem_de labor_de ._de
+wenn_de die_de besucher_de also_de kommen_de ,_de geht_de mars_de zum_de computer_de ,_de beginnt_de zu_de schreiben_de :_de "_de hallo_de mein_de name_de ist_de mars_de ._de
+willkommen_de bei_de romela_de ,_de dem_de roboter_de mechanik_de labor_de von_de virgina_de tech_de ._de "_de
+dies_de roboter_de ist_de ein_de amöben_de -_de roboter_de ._de
+nun_de ,_de wir_de haben_de nicht_de genug_de zeit_de um_de uns_de mit_de den_de technischen_de details_de zu_de beschäftigen_de ,_de ich_de will_de ihnen_de einfach_de ein_de paar_de der_de experimente_de zeigen_de ._de
+dies_de ist_de eine_de frühe_de machbarkeitsstudie_de ._de
+wir_de speichern_de potentielle_de energie_de in_de der_de elastischen_de hülle_de und_de versetzen_de ihn_de in_de bewegung_de ._de
+oder_de wir_de benutzten_de ein_de seil_de unter_de spannung_de ,_de um_de ihn_de vorwärts_de und_de rückwärts_de zu_de bewegen_de ._de er_de heißt_de _UNK__de ._de
+wir_de haben_de auch_de mit_de ein_de wissenschaftlern_de und_de ingenieuren_de vom_de _UNK__de _UNK__de um_de eine_de chemisch_de gesteuerten_de version_de dieses_de amöben_de -_de roboters_de zu_de entwickeln_de ._de
+wir_de vermischen_de also_de etwas_de mit_de irgendetwas_de anderem_de und_de wie_de durch_de magie_de ,_de bewegt_de er_de sich_de ,_de der_de tropfen_de ._de
+dieser_de roboter_de ist_de ein_de sehr_de neues_de projekt_de ._de er_de heißt_de raphael_de ._de
+robotische_de _UNK__de hand_de mit_de elastischen_de _UNK__de
+es_de gibt_de sehr_de viele_de sehr_de nette_de ,_de sehr_de gute_de _UNK__de auf_de dem_de markt_de ._de
+das_de einzige_de problem_de ist_de ,_de dass_de sie_de zu_de teuer_de sind_de ,_de zehntausende_de dollars_de ._de
+daher_de sind_de sie_de für_de die_de verwendung_de als_de prothesen_de nicht_de all_de zu_de praktikabel_de ,_de weil_de sie_de nicht_de erschwinglich_de sind_de ._de
+wir_de wollen_de dieses_de problem_de auf_de eine_de sehr_de andere_de weise_de angehen_de ._de
+anstelle_de von_de elektrischen_de motoren_de und_de elektrischen_de _UNK__de verwenden_de wir_de druckluft_de ._de
+wir_de entwickelten_de diese_de neuartigen_de _UNK__de für_de gelenke_de ._de
+sie_de sind_de _UNK__de ._de man_de kann_de tatsächlich_de die_de kraft_de verändern_de ,_de indem_de man_de einfach_de den_de luftdruck_de ändert_de ._de
+und_de er_de kann_de tatsächlich_de eine_de getränkedose_de zerdrücken_de ._de
+er_de kann_de sehr_de zerbrechliche_de objekte_de aufheben_de ,_de wie_de ein_de rohes_de ei_de oder_de in_de diesem_de fall_de eine_de glühbirne_de ._de
+und_de das_de beste_de ist_de ,_de es_de hat_de nur_de 200$_de gekostet_de den_de ersten_de prototypen_de herzustellen_de ._de
+dieser_de roboter_de gehört_de eigentlich_de einer_de _UNK__de an_de ,_de die_de wir_de hydras_de nennen_de ,_de über_de grade_de -_de von_de -_de freiheit_de frei_de -_de bewegliche_de roboter_de -_de schlange_de ._de
+dieser_de roboter_de kann_de strukturen_de erklettern_de ._de
+dies_de ist_de der_de arm_de eines_de hydras_de ._de
+er_de ist_de ein_de roboterarm_de mit_de 12_de _UNK__de ._de
+aber_de die_de coole_de sache_de daran_de ist_de die_de benutzerschnittstelle_de ._de
+dieses_de kabel_de dort_de ,_de besteht_de aus_de glasfaser_de ._de
+und_de diese_de studentin_de ,_de sie_de verwendet_de es_de vermutlich_de zum_de ersten_de mal_de ,_de aber_de sie_de kann_de ihn_de auf_de die_de verschiedensten_de weisen_de bewegen_de ._de
+zum_de beispiel_de im_de irak_de ,_de sie_de wissen_de schon_de ,_de im_de kriegsgebiet_de gibt_de es_de _UNK__de ._de derzeit_de schickt_de man_de ein_de ferngesteuertes_de _UNK__de fahrzeug_de ._de
+und_de es_de kostet_de viel_de zeit_de und_de geld_de um_de den_de operator_de zu_de lehren_de diesen_de komplexen_de arm_de zu_de bedienen_de ._de
+in_de diesem_de fall_de verläuft_de das_de sehr_de intuitiv_de ._de diese_de studentin_de ,_de die_de ihn_de wahrscheinlich_de zum_de ersten_de mal_de benutzt_de ,_de führt_de sehr_de komplexe_de _UNK__de aus_de ,_de sie_de hebt_de objekte_de auf_de und_de _UNK__de mit_de ihnen_de einfach_de so_de ,_de sehr_de intuitiv_de ._de
+nun_de ,_de dieser_de roboter_de ist_de unser_de derzeitiger_de _UNK__de ._de
+es_de gibt_de wirklich_de einen_de _UNK__de für_de diesen_de roboter_de ,_de darwin_de ,_de dynamischer_de _UNK__de roboter_de mit_de intelligenz_de ._de
+wie_de sie_de wissen_de interessieren_de wir_de uns_de sehr_de für_de humanoide_de roboter_de ,_de den_de menschlichen_de gang_de ,_de daher_de haben_de wir_de beschlossen_de einen_de kleinen_de humanoiden_de roboter_de zu_de bauen_de ._de
+das_de war_de 2004_de ,_de zu_de dieser_de zeit_de war_de das_de ziemlich_de revolutionär_de ._de
+es_de war_de mehr_de eine_de _UNK__de welche_de art_de von_de motoren_de sollten_de wir_de verwenden_de ?_de
+ist_de es_de tatsächlich_de möglich_de ?_de
+dieser_de hier_de hat_de keinerlei_de sensoren_de ._de
+es_de läuft_de nach_de einer_de _UNK__de ._de
+für_de diejenigen_de unter_de ihnen_de ,_de die_de wahrscheinlich_de wissen_de ,_de wenn_de man_de keine_de sensoren_de hat_de und_de es_de irgendwelche_de störungen_de gibt_de ,_de sie_de wissen_de ja_de was_de passiert_de ._de
+basierend_de auf_de diesem_de erfolg_de ,_de im_de nächsten_de jahr_de gingen_de wir_de das_de genaue_de mechanische_de design_de an_de beginnend_de bei_de der_de _UNK__de ._de
+und_de siehe_de da_de darwin_de i_de wurde_de 2005_de geboren_de ._de
+er_de kann_de aufstehen_de ,_de er_de geht_de ,_de sehr_de eindrucksvoll_de ._de
+aber_de wie_de sie_de sehen_de können_de hängt_de er_de noch_de immer_de an_de einer_de nabelschnur_de ._de das_de heißt_de wir_de verwenden_de noch_de immer_de eine_de externe_de energiequelle_de und_de externe_de _UNK__de ._de
+im_de jahr_de 2006_de also_de ,_de war_de es_de zeit_de wirklich_de spaß_de zu_de haben_de ._de
+verpassen_de wir_de ihm_de intelligenz_de ._de wir_de gegen_de ihm_de all_de die_de rechenleistung_de die_de er_de braucht_de ,_de einen_de 1.5_de gigahertz_de pentium_de m_de chip_de zwei_de firewire_de -_de kameras_de ,_de acht_de _UNK__de ,_de einen_de beschleunigungsmesser_de ,_de vier_de _UNK__de -_de sensoren_de auf_de den_de füßen_de ,_de lithium_de -_de ionen_de -_de _UNK__de
+und_de nun_de war_de darwin_de ii_de vollständig_de selbstständig_de ._de
+er_de ist_de nicht_de ferngesteuert_de
+es_de gibt_de keine_de _UNK__de ._de er_de sieht_de sich_de um_de sucht_de den_de ball_de ,_de schaut_de sich_de um_de ,_de sucht_de nach_de dem_de ball_de und_de er_de versucht_de fußball_de zu_de spielen_de ,_de unabhängige_de ,_de künstliche_de intelligenz_de ._de
+mal_de sehen_de wie_de er_de sich_de macht_de ._de dies_de war_de unser_de aller_de erster_de versuch_de ,_de und_de ...._de video_de :_de _UNK__de !_de
+und_de es_de gibt_de tatsächlich_de einen_de wettbewerb_de der_de sich_de _UNK__de nennt_de ._de
+ich_de weiß_de nicht_de wie_de viele_de von_de ihnen_de schon_de vom_de _UNK__de gehört_de haben_de ._de
+es_de handelt_de sich_de um_de ein_de unabhängiges_de roboter_de _UNK__de
+und_de das_de ziel_de des_de _UNK__de ,_de das_de tatsächliche_de ziel_de ist_de es_de ,_de im_de jahr_de 2050_de unabhängige_de humanoide_de roboter_de in_de originalgröße_de zu_de haben_de ,_de die_de fußball_de gegen_de die_de menschlichen_de _UNK__de spielen_de und_de gewinnen_de ._de
+das_de ist_de ein_de wirkliches_de ziel_de ._de es_de ist_de ein_de sehr_de ehrgeiziges_de ziel_de ,_de aber_de glauben_de fest_de ,_de dass_de wir_de es_de erreichen_de können_de ._de
+so_de ,_de das_de war_de letztes_de jahr_de in_de china_de ._de
+wir_de waren_de das_de erste_de team_de aus_de den_de vereinigten_de staaten_de das_de sich_de qualifiziert_de hat_de für_de den_de wettbewerb_de humanoider_de roboter_de ._de
+dieses_de jahr_de war_de er_de in_de österreich_de ._de
+sie_de werden_de nun_de das_de tatsächliche_de spiel_de sehen_de ,_de drei_de gegen_de drei_de ,_de vollständig_de unabhängig_de ._de
+na_de bitte_de ._de ja_de !_de
+die_de roboter_de finden_de und_de spielen_de ,_de teams_de spielen_de zusammen_de ._de
+es_de ist_de sehr_de eindrucksvoll_de ._de es_de ist_de ein_de echtes_de _UNK__de verpackt_de in_de einem_de sehr_de spannenden_de wettbewerb_de ._de
+was_de sie_de hier_de sehen_de können_de ist_de wunderschön_de den_de louis_de _UNK__de cup_de pokal_de ._de
+also_de ,_de der_de ist_de für_de den_de besten_de humanoiden_de ,_de und_de wir_de wünschen_de uns_de ihn_de als_de erstes_de us_de -_de amerikanisches_de team_de zu_de gewinnen_de ,_de nächstes_de jahr_de ,_de also_de halten_de sie_de uns_de die_de daumen_de ._de
+danke_de sehr_de ._de
+darwin_de hat_de auch_de viele_de andere_de talente_de ._de
+letztes_de jahr_de dirigierte_de er_de tatsächlich_de das_de _UNK__de symphonie_de orchester_de beim_de _UNK__de ._de
+dies_de ist_de die_de nächste_de _UNK__de darwin_de iv_de ,_de er_de ist_de schlauer_de ,_de schneller_de und_de stärker_de ._de
+und_de er_de versucht_de mit_de seinen_de fähigkeiten_de anzugeben_de ._de "_de ich_de bin_de ein_de macho_de ,_de ich_de bin_de stark_de "_de
+ich_de kann_de sogar_de jackie_de chan_de nachmachen_de kampfsport_de -_de bewegungen_de ._de
+und_de er_de geht_de davon_de ._de dies_de ist_de also_de darwin_de iv_de ,_de
+wiederum_de ist_de er_de in_de der_de lobby_de zu_de sehen_de ._de
+wir_de glauben_de tatsächlich_de ,_de dass_de dies_de der_de erste_de laufende_de humanoide_de roboter_de in_de den_de us_de sein_de wird_de ._de also_de ,_de bleiben_de sie_de dran_de ._de
+in_de ordnung_de ,_de ich_de habe_de ihnen_de also_de einige_de der_de spannenden_de roboter_de gezeigt_de an_de denen_de wir_de arbeiten_de ._de
+aber_de was_de ist_de das_de geheimnis_de unseres_de erfolges_de ?_de
+wie_de kommen_de wir_de auf_de all_de diese_de ideen_de ?_de
+woher_de nehmen_de wir_de all_de die_de ideen_de ?_de
+wir_de haben_de ein_de vollkommen_de _UNK__de fahrzeug_de ,_de dass_de in_de der_de stadt_de fahren_de kann_de ._de wir_de gewannen_de eine_de halbe_de million_de dollar_de bei_de der_de darpa_de urban_de _UNK__de ._de
+wir_de haben_de auch_de das_de weltweit_de erst_de fahrzeug_de ,_de dass_de von_de blinden_de gefahren_de werden_de kann_de ._de
+wir_de nennen_de das_de die_de blinder_de -_de fahrer_de -_de herausforderung_de ,_de sehr_de spannende_de sache_de
+und_de viele_de andere_de _UNK__de über_de die_de ich_de sprechen_de möchte_de ._de
+dies_de sind_de allein_de die_de preise_de ,_de die_de wir_de im_de herbst_de 2007_de gewonnen_de haben_de ,_de bei_de roboter_de wettbewerben_de und_de dererlei_de ._de
+also_de wir_de haben_de fünf_de geheimnisse_de ._de
+erstens_de ,_de woher_de haben_de wir_de unsere_de inspiration_de
+woher_de bekommen_de wir_de diesen_de funken_de der_de _UNK__de
+dies_de ist_de eine_de wahre_de geschichte_de ,_de meine_de eigene_de geschichte_de ._de
+wenn_de ich_de nachts_de in_de bett_de gehe_de ,_de um_de 3_de oder_de 4_de in_de der_de früh_de ,_de lege_de ich_de mich_de nieder_de und_de schließe_de meine_de augen_de und_de ich_de sehe_de diese_de linien_de und_de kreise_de and_de andere_de formen_de herum_de schweben_de
+und_de diese_de gliedern_de sich_de und_de formen_de diese_de mechanismen_de ._de
+und_de ich_de denke_de :_de "_de ah_de das_de ist_de cool_de ._de "_de
+also_de ,_de habe_de ich_de gleich_de neben_de meinem_de bett_de ein_de notizbuch_de ,_de ein_de tagebuch_de ,_de mit_de einem_de speziellen_de stift_de ,_de der_de ein_de led_de -_de licht_de hat_de ,_de weil_de ich_de das_de licht_de ,_de um_de meine_de frau_de nicht_de zu_de wecken_de ,_de nicht_de einschalten_de will_de ._de
+also_de ,_de ich_de sehe_de das_de alles_de und_de schreibe_de alles_de auf_de und_de zeichne_de dinge_de und_de dann_de gehe_de ich_de schlafen_de ._de
+jeden_de morgen_de ,_de ist_de die_de erste_de sache_de ,_de die_de ich_de mache_de --_de noch_de vor_de meinem_de ersten_de kaffee_de --_de bevor_de ich_de mir_de die_de zähne_de _UNK__de ,_de öffne_de ich_de mein_de notizbuch_de ._de
+oft_de ist_de es_de leer_de ,_de aber_de manchmal_de finde_de ich_de etwas_de das_de totaler_de schwachsinn_de ist_de ,_de aber_de meistens_de kann_de ich_de nicht_de einmal_de meine_de eigene_de handschrift_de lesen_de ._de
+na_de ja_de ,_de 4_de in_de der_de früh_de ,_de was_de kann_de man_de schon_de erwarten_de ,_de stimmts_de ?_de
+ich_de muss_de also_de entziffern_de was_de ich_de geschrieben_de habe_de ._de
+aber_de manchmal_de sehe_de ich_de diese_de geniale_de idee_de dort_de und_de ich_de habe_de diesen_de "_de eureka_de -_de moment_de "_de
+ich_de laufe_de direkt_de in_de meinem_de _UNK__de ,_de setze_de mich_de an_de meinem_de computer_de ,_de tippe_de die_de ideen_de ein_de und_de mache_de skizzen_de und_de ich_de habe_de eine_de datenbank_de voller_de ideen_de ._de
+wenn_de uns_de also_de jemand_de fragt_de ob_de wir_de eine_de idee_de zur_de lösung_de eines_de problems_de haben_de versuche_de ich_de eine_de übereinstimmung_de mit_de meinen_de möglichen_de ideen_de zu_de finden_de und_de das_de problem_de kann_de ,_de wenn_de es_de eine_de übereinstimmung_de gibt_de und_de wir_de einen_de vorschlag_de einreichen_de gefördert_de werden_de und_de so_de starten_de wir_de unsere_de projekte_de ._de
+aber_de nur_de von_de einem_de funken_de der_de vorstellungskraft_de zu_de sprechen_de ist_de nicht_de genug_de ._de
+wie_de entwickeln_de wir_de diese_de ideen_de weiter_de ?_de
+in_de unserem_de labor_de romela_de ,_de dem_de roboter_de mechanik_de labor_de ,_de haben_de wir_de diese_de fantastischen_de brainstorming_de -_de sitzungen_de ._de
+wir_de treffen_de uns_de also_de und_de wir_de besprechen_de die_de probleme_de und_de die_de sozialen_de probleme_de und_de reden_de darüber_de ._de
+aber_de bevor_de wir_de anfangen_de ,_de setzen_de wir_de eine_de goldene_de regel_de fest_de
+diese_de regel_de ist_de :_de "_de niemand_de kritisiert_de eines_de anderen_de ideen_de ._de
+niemand_de kritisiert_de irgendeine_de meinung_de ._de "_de
+das_de ist_de wichtig_de ,_de denn_de oft_de fürchten_de sich_de studenten_de oder_de sind_de sich_de nicht_de sicher_de wie_de andere_de denken_de mögen_de über_de ihre_de meinungen_de und_de gedanken_de ._de
+wenn_de man_de das_de macht_de ist_de es_de unglaublich_de wie_de sehr_de sich_de die_de studenten_de öffnen_de ._de
+sie_de haben_de diese_de absolut_de wahnsinnigen_de ,_de coolen_de ,_de verrückten_de brillanten_de ideen_de ,_de der_de ganze_de raum_de ist_de wie_de unter_de spannung_de mit_de kreativer_de energie_de ._de
+und_de so_de entwickeln_de wir_de unsere_de ideen_de ._de
+gut_de ,_de uns_de geht_de die_de zeit_de aus_de und_de ich_de will_de noch_de über_de eine_de andere_de sache_de reden_de ._de sie_de wissen_de ,_de dass_de das_de der_de funke_de der_de idee_de und_de die_de entwicklung_de nicht_de genug_de sind_de ._de
+da_de gab_de es_de einen_de großartigen_de ted_de -_de moment_de ,_de ich_de denke_de es_de war_de sir_de ken_de robinson_de ,_de oder_de ?_de
+er_de sprach_de darüber_de wie_de wir_de kinder_de erziehen_de sollten_de und_de dass_de schule_de kreativität_de zerstört_de ._de
+nun_de ,_de es_de gibt_de tatsächlich_de zwei_de seiten_de der_de geschichte_de ._de
+man_de kann_de nicht_de alles_de erreichen_de nur_de mit_de genialen_de ideen_de und_de kreativität_de und_de hervorragender_de bau_de -_de intuition_de ._de
+wenn_de man_de über_de das_de basteln_de hinaus_de will_de und_de wenn_de man_de über_de das_de hobby_de roboter_de hinaus_de will_de und_de die_de wirklich_de großen_de herausforderungen_de der_de robotik_de angehen_de will_de mithilfe_de _UNK__de forschung_de ,_de brauchen_de wir_de mehr_de als_de nur_de das_de ._de das_de ist_de wo_de die_de schule_de ins_de spiel_de kommt_de ._de
+wenn_de batman_de gegen_de die_de bösewicht_de kämpft_de ,_de dann_de hat_de er_de seinen_de _UNK__de und_de seinen_de _UNK__de und_de all_de diese_de verschiedenen_de ausrüstungsgegenstände_de ._de
+für_de uns_de _UNK__de ,_de ingenieure_de und_de wissenschaftler_de ,_de sind_de diese_de ausrüstungsgegenstände_de ,_de _UNK__de und_de sparten_de über_de die_de wir_de in_de der_de schule_de lernen_de ._de
+mathe_de ,_de differenzieren_de ._de
+ich_de habe_de lineare_de algebra_de ,_de naturwissenschaften_de ,_de physik_de ,_de heutzutage_de sogar_de chemie_de und_de biologie_de ,_de wie_de sie_de gesehen_de haben_de ._de
+dies_de sind_de all_de die_de werkzeuge_de ,_de die_de wir_de brauchen_de ._de
+das_de heißt_de ,_de je_de mehr_de ausrüstungsgegenstände_de für_de batman_de man_de hat_de desto_de effektiver_de bekämpft_de batman_de die_de bösen_de für_de uns_de sind_de es_de mehr_de werkzeuge_de um_de derartige_de probleme_de anzugehen_de ._de
+auf_de diese_de art_de ist_de bildung_de sehr_de wichtig_de
+also_de geht_de es_de nicht_de nur_de darum_de sonder_de nur_de darum_de ,_de man_de muss_de auch_de sehr_de sehr_de hart_de arbeiten_de ._de
+ich_de sage_de also_de immer_de zu_de meinen_de schülern_de arbeitet_de schlau_de ,_de dann_de arbeitet_de hart_de ._de
+dieses_de bild_de im_de hintergrund_de ,_de das_de wurde_de um_de 3_de in_de der_de früh_de gemacht_de ._de
+ich_de garantiere_de wenn_de man_de um_de 3_de oder_de 4_de in_de der_de früh_de in_de unser_de labor_de kommt_de dann_de arbeiten_de dort_de studenten_de ,_de und_de das_de nicht_de weil_de ich_de es_de ihnen_de befehle_de sonder_de ,_de weil_de wir_de zu_de viel_de spaß_de haben_de ._de
+was_de uns_de zu_de unserem_de letzten_de thema_de führt_de ._de vergiss_de nicht_de spaß_de zu_de haben_de ._de
+das_de ist_de das_de tatsächliche_de geheimnis_de unseres_de erfolges_de ._de wir_de haben_de zu_de viel_de spaß_de ._de
+ich_de glaube_de fest_de daran_de ,_de dass_de man_de die_de höchste_de produktivität_de erreicht_de wenn_de man_de spaß_de hat_de ._de und_de das_de ist_de was_de wir_de tun_de ._de
+bitte_de sehr_de ._de vielen_de dank_de ._de

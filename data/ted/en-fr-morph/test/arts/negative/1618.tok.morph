@@ -1,0 +1,133 @@
+i	'm	a	brain	scientist	,	and	 a 	 s 	 	a	brain	scientist	,	i	'm	 actual 	 ly 	 	 interest 	 ed 	 	in	how	the	brain	 learn 	 s 	 	,	and	i	'm	 e 	 special 	 ly 	 	 interest 	 ed 	 	in	a	 possibil 	 ity 	 	of	making	our	 brain 	 s 	 	 smart 	 er 	 	,	better	and	 fast 	 er 	 	.
+ th 	 is 	 	is	in	 th 	 is 	 	 con 	 text 	 	i	'm	going	to	tell	you	about	video	 game 	 s 	 	.	when	we	say	video	 game 	 s 	 	,	most	of	you	think	about	children	.
+it	's	true	.	ninety	percent	of	children	do	play	video	 game 	 s 	 	.
+but	let	's	be	frank	.
+when	the	 kid 	 s 	 	are	in	bed	,	who	is	in	front	of	the	playstation	?
+most	of	you	.	the	average	age	of	a	 gam 	 er 	 	is	33	 year 	 s 	 	old	,	not	eight	 year 	 s 	 	old	,	and	in	fact	,	if	we	look	at	the	 project 	 ed 	 	 demo 	 graphic 	 s 	 	of	video	game	play	,	the	video	game	 player 	 s 	 	of	 to 	 mor 	 row 	 	are	 old 	 er 	 	 adult 	 s 	 	.
+so	video	[	 gam 	 ing 	 	]	is	pervasive	 through 	 out 	 	our	 socie 	 ty 	 	.
+it	is	 clear 	 ly 	 	here	to	stay	.	it	 ha 	 s 	 	an	 amaz 	 ing 	 	impact	on	our	 every 	 day 	 	life	.	consider	these	 statistic 	 s 	 	released	by	activision	.	after	one	month	of	 re 	 lease 	 	of	the	game	``	call	of	duty	:	black	ops	,	``	it	had	 be 	 en 	 	 play 	 ed 	 	for	68,000	 year 	 s 	 	 world 	 wide 	 	,	right	?
+would	any	of	you	complain	if	 th 	 is 	 	was	the	case	about	 do 	 ing 	 	linear	algebra	?
+so	what	we	are	 ask 	 ing 	 	in	the	lab	is	,	how	can	we	leverage	that	power	?
+now	i	want	to	step	back	a	bit	.
+i	know	most	of	you	have	had	the	experience	of	coming	back	home	and	 find 	 ing 	 	your	 kid 	 s 	 	 play 	 ing 	 	these	 kind 	 s 	 	of	 game 	 s 	 	.
+the	name	of	the	game	is	to	get	after	your	 ene 	 my 	 	zombie	bad	 guy 	 s 	 	before	they	get	to	you	,	right	?
+and	i	'm	 al 	 most 	 	 s 	 ure 	 	most	of	you	have	thought	,	``	oh	,	come	on	,	ca	n't	you	do	 some 	 thing 	 	more	intelligent	than	 shoot 	 ing 	 	at	zombies	?	``
+i	'd	like	you	to	put	 th 	 is 	 	kind	of	knee	-	jerk	 re 	 action 	 	in	the	 con 	 text 	 	of	what	you	would	have	thought	if	you	had	found	your	girl	 play 	 ing 	 	sudoku	or	your	boy	 read 	 ing 	 	shakespeare	.	right	?
+most	 parent 	 s 	 	would	find	that	great	.
+well	,	i	'm	not	going	to	tell	you	that	 play 	 ing 	 	video	 game 	 s 	 	 day 	 s 	 	in	and	 day 	 s 	 	out	is	 actual 	 ly 	 	good	for	your	health	.
+it	's	not	,	and	binging	is	never	good	.
+but	i	'm	going	to	 argu 	 e 	 	that	in	 reason 	 able 	 	 dose 	 s 	 	,	 actual 	 ly 	 	the	 ver 	 y 	 	game	i	 show 	 ed 	 	you	at	the	 begin 	 ning 	 	,	 t 	 hose 	 	action	-	 pack 	 ed 	 	 shoot 	 er 	 	 game 	 s 	 	have	 quit 	 e 	 	 power 	 ful 	 	 effect 	 s 	 	and	positive	 effect 	 s 	 	on	 man 	 y 	 	different	 a 	 spect 	 s 	 	of	our	behavior	.
+there	's	not	one	week	that	 go 	 es 	 	 with 	 out 	 	some	major	 head 	 lines 	 	in	the	media	about	 whet 	 her 	 	video	 game 	 s 	 	are	good	or	bad	for	you	,	right	?	you	're	all	 bombard 	 ed 	 	with	that	.
+i	'd	like	to	put	 th 	 is 	 	kind	of	friday	night	bar	 discuss 	 ion 	 	 a 	 side 	 	and	get	you	to	 actual 	 ly 	 	step	 in 	 to 	 	the	lab	.
+what	we	do	in	the	lab	is	 actual 	 ly 	 	measure	 direct 	 ly 	 	,	in	a	 quant 	 itative 	 	fashion	,	what	is	the	impact	of	video	 game 	 s 	 	on	the	brain	.
+and	so	i	'm	going	to	take	a	few	 ex 	 ample 	 s 	 	from	our	work	.
+one	first	 say 	 ing 	 	that	i	'm	 s 	 ure 	 	you	all	have	heard	is	the	fact	that	too	much	screen	time	 make 	 s 	 	your	 eye 	 sight 	 	 wo 	 rse 	 	.
+that	's	a	 state 	 ment 	 	about	vision	.
+there	may	be	vision	 scientist 	 s 	 	among	you	.
+we	 actual 	 ly 	 	know	how	to	test	that	 state 	 ment 	 	.
+we	can	step	 in 	 to 	 	the	lab	and	measure	how	good	your	vision	is	.
+well	,	guess	what	?	people	that	do	n't	play	a	lot	of	action	 game 	 s 	 	,	that	do	n't	 actual 	 ly 	 	 s 	 pend 	 	a	lot	of	time	in	front	of	 screen 	 s 	 	,	have	normal	,	or	what	we	call	 correct 	 ive 	 	-	to	-	normal	vision	.	that	's	 ok 	 a 	 y 	 	.
+the	issue	is	what	 happen 	 s 	 	with	these	 guy 	 s 	 	that	 actual 	 ly 	 	indulge	 in 	 to 	 	 play 	 ing 	 	video	 game 	 s 	 	like	five	 hour 	 s 	 	per	week	,	10	 hour 	 s 	 	per	week	,	15	 hour 	 s 	 	per	week	.
+by	that	 state 	 ment 	 	,	 the 	 ir 	 	vision	should	be	 re 	 ally 	 	bad	,	right	?
+guess	what	?	 the 	 ir 	 	vision	is	 re 	 ally 	 	,	 re 	 ally 	 	good	.
+it	's	better	than	 t 	 hose 	 	that	do	n't	play	.
+and	it	's	better	in	two	different	ways	.
+the	first	way	is	that	they	're	 actual 	 ly 	 	able	to	 re 	 solve 	 	small	detail	in	the	 con 	 text 	 	of	 cl 	 utter 	 	,	and	 th 	 ough 	 	that	 mean 	 s 	 	 be 	 ing 	 	able	to	read	the	fine	print	on	a	prescription	 ra 	 ther 	 	than	using	 magn 	 ifier 	 	 glass 	 es 	 	,	you	can	 actual 	 ly 	 	do	it	with	just	your	 eye 	 sight 	 	.
+the	other	way	that	they	are	better	is	 actual 	 ly 	 	 be 	 ing 	 	able	to	 re 	 solve 	 	different	 level 	 s 	 	of	gray	.
+imagine	you	're	 driv 	 ing 	 	in	a	fog	.	that	 make 	 s 	 	a	 differ 	 ence 	 	between	 see 	 ing 	 	the	car	in	front	of	you	and	 avoid 	 ing 	 	the	accident	,	or	 get 	 ting 	 	 in 	 to 	 	an	accident	.
+so	we	're	 actual 	 ly 	 	 lever 	 aging 	 	that	work	to	develop	 game 	 s 	 	for	 patient 	 s 	 	with	low	vision	,	and	to	have	an	impact	on	 re 	 training 	 	 the 	 ir 	 	brain	to	see	better	.
+ clear 	 ly 	 	,	when	it	 come 	 s 	 	to	action	video	 game 	 s 	 	,	screen	time	 do 	 es 	 	n't	make	your	 eye 	 sight 	 	 wo 	 rse 	 	.
+ an 	 other 	 	 say 	 ing 	 	that	i	'm	 s 	 ure 	 	you	have	all	heard	around	:	video	 game 	 s 	 	lead	to	attention	 problem 	 s 	 	and	 great 	 er 	 	distractability	.
+ ok 	 a 	 y 	 	,	we	know	how	to	measure	attention	in	the	lab	.
+i	'm	 actual 	 ly 	 	going	to	give	you	an	 ex 	 ample 	 	of	how	we	do	so	.
+i	'm	going	to	ask	you	to	 particip 	 ate 	 	,	so	you	're	going	to	have	to	 actual 	 ly 	 	play	the	game	with	me	.	i	'm	going	to	show	you	 color 	 ed 	 	 word 	 s 	 	.	i	want	you	to	shout	out	the	color	of	the	ink	.
+right	?	so	 th 	 is 	 	is	the	first	 ex 	 ample 	 	.
+[	``	chair	``	]	 o 	 range 	 	,	good	.	[	``	table	``	]	green	.
+[	``	board	``	]	audience	:	red	.	daphne	bavelier	:	red	.
+[	``	horse	``	]	db	:	yellow	.	audience	:	yellow	.
+[	``	yellow	``	]	db	:	red	.	audience	:	yellow	.
+[	``	blue	``	]	db	:	yellow	.
+ ok 	 a 	 y 	 	,	you	get	my	point	,	right	?
+you	're	 get 	 ting 	 	better	,	but	it	's	hard	.	why	is	it	hard	?
+ be 	 cause 	 	i	 introduc 	 ed 	 	a	conflict	between	the	word	 it 	 self 	 	and	 it 	 s 	 	color	.
+how	good	your	attention	is	 determine 	 s 	 	 actual 	 ly 	 	how	fast	you	 re 	 solve 	 	that	conflict	,	so	the	young	 guy 	 s 	 	here	at	the	top	of	 the 	 ir 	 	game	 prob 	 ably 	 	,	like	,	did	a	little	better	than	some	of	us	that	are	 old 	 er 	 	.
+what	we	can	show	is	that	when	you	do	 th 	 is 	 	kind	of	task	with	people	that	play	a	lot	of	action	 game 	 s 	 	,	they	 actual 	 ly 	 	 re 	 solve 	 	the	conflict	 fast 	 er 	 	.
+so	 clear 	 ly 	 	 play 	 ing 	 	 t 	 hose 	 	action	 game 	 s 	 	 do 	 es 	 	n't	lead	to	attention	 problem 	 s 	 	.
+ actual 	 ly 	 	,	 t 	 hose 	 	action	video	game	 player 	 s 	 	have	 man 	 y 	 	other	 advantage 	 s 	 	in	 term 	 s 	 	of	attention	,	and	one	 a 	 spect 	 	of	attention	which	is	 al 	 so 	 	 improv 	 ed 	 	for	the	better	is	our	ability	to	track	 object 	 s 	 	around	in	the	world	.
+ th 	 is 	 	is	 some 	 thing 	 	we	use	all	the	time	.	when	you	're	 driv 	 ing 	 	,	you	're	 track 	 ing 	 	,	 keep 	 ing 	 	track	of	the	 car 	 s 	 	around	you	.
+you	're	 al 	 so 	 	 keep 	 ing 	 	track	of	the	pedestrian	,	the	running	dog	,	and	that	's	how	you	can	 actual 	 ly 	 	be	safe	 driv 	 ing 	 	,	right	?
+in	the	lab	,	we	get	people	to	come	to	the	lab	,	 s 	 it 	 	in	front	of	a	computer	screen	,	and	we	give	them	little	 task 	 s 	 	that	i	'm	going	to	get	you	to	do	 aga 	 in 	 	.
+you	're	going	to	see	yellow	happy	 face 	 s 	 	and	a	few	 s 	 ad 	 	blue	 face 	 s 	 	.	these	are	children	in	the	schoolyard	in	geneva	 dur 	 ing 	 	a	recess	 dur 	 ing 	 	the	winter	.	most	 kid 	 s 	 	are	happy	.	it	's	 actual 	 ly 	 	recess	.
+but	a	few	 kid 	 s 	 	are	 s 	 ad 	 	and	blue	 be 	 cause 	 	they	've	 for 	 gotten 	 	 the 	 ir 	 	coat	.
+ every 	 body 	 	 begin 	 s 	 	to	move	around	,	and	your	task	is	to	keep	track	of	who	had	a	coat	at	the	 begin 	 ning 	 	and	who	did	n't	.	so	i	'm	just	going	to	show	you	an	 ex 	 ample 	 	where	there	is	 on 	 ly 	 	one	 s 	 ad 	 	kid	.	it	's	easy	 be 	 cause 	 	you	can	 actual 	 ly 	 	track	it	with	your	 eye 	 s 	 	.	you	can	track	,	you	can	track	,	and	then	when	it	 stop 	 s 	 	,	and	there	is	a	question	mark	,	and	i	ask	you	,	did	 th 	 is 	 	kid	have	a	coat	or	not	?
+was	it	yellow	 initi 	 ally 	 	or	blue	?
+i	hear	a	few	yellow	.	good	.	so	most	of	you	have	a	brain	.
+i	'm	now	going	to	ask	you	to	do	the	task	,	but	now	with	a	little	more	 challeng 	 ing 	 	task	.	there	are	going	to	be	three	of	them	that	are	blue	.	do	n't	move	your	 eye 	 s 	 	.
+ pleas 	 e 	 	do	n't	move	your	 eye 	 s 	 	.	keep	your	 eye 	 s 	 	 fix 	 ated 	 	and	expand	,	pull	your	attention	.	that	's	the	 on 	 ly 	 	way	you	can	 actual 	 ly 	 	do	it	.	if	you	move	your	 eye 	 s 	 	,	you	're	 doom 	 ed 	 	.
+yellow	or	blue	?
+audience	:	yellow	.	db	:	good	.
+so	your	typical	normal	young	adult	can	have	a	span	of	about	three	or	four	 object 	 s 	 	of	attention	.
+that	's	what	we	just	did	.	your	action	video	game	player	 ha 	 s 	 	a	span	of	about	six	to	seven	 object 	 s 	 	of	attention	,	which	is	what	is	 show 	 n 	 	in	 th 	 is 	 	video	here	.
+that	's	for	you	 guy 	 s 	 	,	action	video	game	 player 	 s 	 	.
+a	bit	more	 challeng 	 ing 	 	,	right	?
+yellow	or	blue	?	blue	.	we	have	some	people	that	are	serious	out	there	.	 yea 	 h 	 	.
+good	.	so	in	the	same	way	that	we	 actual 	 ly 	 	see	the	 effect 	 s 	 	of	video	 game 	 s 	 	on	people	's	behavior	,	we	can	use	brain	 im 	 aging 	 	and	look	at	the	impact	of	video	 game 	 s 	 	on	the	brain	,	and	we	do	find	 man 	 y 	 	 change 	 s 	 	,	but	the	main	 change 	 s 	 	are	 actual 	 ly 	 	to	the	brain	 network 	 s 	 	that	control	attention	.	so	one	part	is	the	 par 	 ietal 	 	cortex	which	is	 ver 	 y 	 	well	known	to	control	the	 orient 	 ation 	 	of	attention	.
+the	other	one	is	the	frontal	lobe	,	which	 control 	 s 	 	how	we	sustain	attention	,	and	 an 	 other 	 	one	is	the	 an 	 terior 	 	 c 	 ing 	 ulate 	 	,	which	 control 	 s 	 	how	we	 al 	 locate 	 	and	 regulat 	 e 	 	attention	and	 re 	 solve 	 	conflict	.
+now	,	when	we	do	brain	 im 	 aging 	 	,	we	find	that	all	three	of	these	 network 	 s 	 	are	 actual 	 ly 	 	much	more	efficient	in	people	that	play	action	 game 	 s 	 	.
+ th 	 is 	 	 actual 	 ly 	 	 lead 	 s 	 	me	to	a	 ra 	 ther 	 	 counter 	 intuitive 	 	 find 	 ing 	 	in	the	 liter 	 ature 	 	about	technology	and	the	brain	.
+you	all	know	about	 multi 	 task 	 ing 	 	.	you	all	have	 be 	 en 	 	 fault 	 y 	 	of	 multi 	 task 	 ing 	 	when	you	're	 driv 	 ing 	 	and	you	pick	up	your	 cell 	 phone 	 	.	bad	idea	.	 ver 	 y 	 	bad	idea	.
+why	?	 be 	 cause 	 	 a 	 s 	 	your	attention	 shift 	 s 	 	to	your	cell	phone	,	you	are	 actual 	 ly 	 	 lo 	 s 	 ing 	 	the	 cap 	 a 	 city 	 	to	react	 swift 	 ly 	 	to	the	car	 bra 	 king 	 	in	front	of	you	,	and	so	you	're	much	more	 like 	 ly 	 	to	get	 engag 	 ed 	 	 in 	 to 	 	a	car	accident	.
+now	,	we	can	measure	that	kind	of	 skill 	 s 	 	in	the	lab	.
+we	 obvious 	 ly 	 	do	n't	ask	people	to	drive	around	and	see	how	 man 	 y 	 	car	 accident 	 s 	 	they	have	.	that	would	be	a	little
+ cost 	 ly 	 	 pro 	 position 	 	.	but	we	design	 task 	 s 	 	on	the	computer	where	we	can	measure	,	to	 milli 	 second 	 	 accu 	 racy 	 	,	how	good	they	are	at	 s 	 witch 	 ing 	 	from	one	task	to	 an 	 other 	 	.
+when	we	do	that	,	we	 actual 	 ly 	 	find	that	people	that	play	a	lot	of	action	 game 	 s 	 	are	 re 	 ally 	 	,	 re 	 ally 	 	good	.
+they	 s 	 witch 	 	 re 	 ally 	 	fast	,	 ver 	 y 	 	 swift 	 ly 	 	.	they	pay	a	 ver 	 y 	 	small	cost	.
+now	i	'd	like	you	to	remember	that	result	,	and	put	it	in	the	 con 	 text 	 	of	 an 	 other 	 	group	of	technology	 user 	 s 	 	,	a	group	which	is	 actual 	 ly 	 	much	 revere 	 d 	 	by	 socie 	 ty 	 	,	which	are	people	that	engage	in	 multi 	 media 	 	-	tasking	.
+what	is	 multi 	 media 	 	-	tasking	?	it	's	the	fact	that	most	of	us	,	most	of	our	children	,	are	 engag 	 ed 	 	with	 listen 	 ing 	 	to	music	at	the	same	time	 a 	 s 	 	they	're	 do 	 ing 	 	search	on	the	web	at	the	same	time	 a 	 s 	 	they	're	 chat 	 ting 	 	on	facebook	with	 the 	 ir 	 	 friend 	 s 	 	.
+that	's	a	 multi 	 media 	 	-	tasker	.
+there	was	a	first	 stud 	 y 	 	 d 	 one 	 	by	 col 	 league 	 s 	 	at	stanford	and	that	we	 replicate 	 d 	 	that	 show 	 ed 	 	that	 t 	 hose 	 	people	that	identify	 a 	 s 	 	 be 	 ing 	 	high	 multi 	 media 	 	-	taskers	are	 absolute 	 ly 	 	 a 	 by 	 s 	 mal 	 	at	 multi 	 task 	 ing 	 	.
+when	we	measure	them	in	the	lab	,	they	're	 re 	 ally 	 	bad	.
+right	?	so	these	 kind 	 s 	 	of	 result 	 s 	 	 re 	 ally 	 	 make 	 s 	 	two	main	 point 	 s 	 	.
+the	first	one	is	that	not	all	media	are	 create 	 d 	 	equal	.
+you	ca	n't	 compar 	 e 	 	the	effect	of	 multi 	 media 	 	-	tasking	and	the	effect	of	 play 	 ing 	 	action	 game 	 s 	 	.	they	have	 total 	 ly 	 	different	 effect 	 s 	 	on	different	 a 	 spect 	 s 	 	of	cognition	,	 per 	 ception 	 	and	attention	.
+even	 with 	 in 	 	video	 game 	 s 	 	,	i	'm	 tell 	 ing 	 	you	right	now	about	these	action	-	 pack 	 ed 	 	video	 game 	 s 	 	.
+different	video	 game 	 s 	 	have	a	different	effect	on	your	 brain 	 s 	 	.
+so	we	 actual 	 ly 	 	need	to	step	 in 	 to 	 	the	lab	and	 re 	 ally 	 	measure	what	is	the	effect	of	each	video	game	.
+the	other	 less 	 on 	 	is	that	general	 wis 	 dom 	 	 car 	 ries 	 	no	weight	.
+i	 show 	 ed 	 	that	to	you	 al 	 ready 	 	,	like	we	 look 	 ed 	 	at	the	fact	that	 de 	 spite 	 	a	lot	of	screen	time	,	 t 	 hose 	 	action	 gam 	 ers 	 	have	a	lot	of	 ver 	 y 	 	good	vision	,	etc	.
+here	,	what	was	 re 	 ally 	 	 s 	 tri 	 king 	 	is	that	these	 under 	 graduate 	 s 	 	that	 actual 	 ly 	 	report	 engag 	 ing 	 	in	a	lot	of	high	 multi 	 media 	 	-	tasking	are	 con 	 vince 	 d 	 	they	 ac 	 ed 	 	the	test	.
+so	you	show	them	 the 	 ir 	 	data	,	you	show	them	they	are	bad	and	they	're	like	,	``	not	possible	.	``	you	know	,	they	have	 th 	 is 	 	sort	of	gut	 feel 	 ing 	 	that	,	 re 	 ally 	 	,	they	are	 do 	 ing 	 	 re 	 ally 	 	,	 re 	 ally 	 	good	.
+that	's	 an 	 other 	 	argument	for	why	we	need	to	step	 in 	 to 	 	the	lab	and	 re 	 ally 	 	measure	the	impact	of	technology	on	the	brain	.
+now	in	a	sense	,	when	we	think	about	the	effect	of	video	 game 	 s 	 	on	the	brain	,	it	's	 ver 	 y 	 	similar	to	the	effect	of	wine	on	the	health	.
+there	are	some	 ver 	 y 	 	poor	uses	of	wine	.	there	are	some	 ver 	 y 	 	poor	uses	of	video	 game 	 s 	 	.	but	when	 consum 	 ed 	 	in	 reason 	 able 	 	 dose 	 s 	 	,	and	at	the	right	age	,	wine	can	be	 ver 	 y 	 	good	for	health	.	there	are	 actual 	 ly 	 	specific	 molecule 	 s 	 	that	have	 be 	 en 	 	identified	in	red	wine	 a 	 s 	 	 lead 	 ing 	 	to	 great 	 er 	 	life	 expect 	 ancy 	 	.
+so	it	's	the	same	way	,	like	 t 	 hose 	 	action	video	 game 	 s 	 	have	a	number	of	 ing 	 red 	 ient 	 s 	 	that	are	 actual 	 ly 	 	 re 	 ally 	 	 power 	 ful 	 	for	brain	 plastic 	 ity 	 	,	 learn 	 ing 	 	,	attention	,	vision	,	etc	.	,	and	so	we	need	and	we	're	 work 	 ing 	 	on	 understand 	 ing 	 	what	are	 t 	 hose 	 	active	 ing 	 red 	 ient 	 s 	 	so	that	we	can	 re 	 ally 	 	then	leverage	them	to	deliver	better	 game 	 s 	 	,	either	for	education	or	for	 rehabilit 	 ation 	 	of	 patient 	 s 	 	.
+now	 be 	 cause 	 	we	are	 interest 	 ed 	 	in	 hav 	 ing 	 	an	impact	for	education	or	 rehabilit 	 ation 	 	of	 patient 	 s 	 	,	we	are	 actual 	 ly 	 	not	that	 interest 	 ed 	 	in	how	 t 	 hose 	 	of	you	that	 choos 	 e 	 	to	play	video	 game 	 s 	 	for	 man 	 y 	 	 hour 	 s 	 	on	end	perform	.
+i	'm	much	more	 interest 	 ed 	 	in	taking	any	of	you	and	 show 	 ing 	 	that	by	forcing	you	to	play	an	action	game	,	i	can	 actual 	 ly 	 	change	your	vision	for	the	better	,	 whet 	 her 	 	you	want	to	play	that	action	game	or	not	,	right	?
+that	's	the	point	of	 rehabilit 	 ation 	 	or	education	.
+most	of	the	 kid 	 s 	 	do	n't	go	to	school	 say 	 ing 	 	,	``	great	,	two	 hour 	 s 	 	of	math	!	``
+so	that	's	 re 	 ally 	 	the	crux	of	the	research	,	and	to	do	that	,	we	need	to	go	one	more	step	.
+and	one	more	step	is	to	do	training	 stud 	 ies 	 	.
+so	let	me	 illustr 	 ate 	 	that	step	with	a	task	which	is	 call 	 ed 	 	mental	 rot 	 ation 	 	.
+mental	 rot 	 ation 	 	is	a	task	where	i	'm	going	to	ask	you	,	and	 aga 	 in 	 	you	're	going	to	do	the	task	,	to	look	at	 th 	 is 	 	shape	.	 stud 	 y 	 	it	,	it	's	a	target	shape	,	and	i	'm	going	to	present	to	you	four	different	 shape 	 s 	 	.
+one	of	these	four	different	 shape 	 s 	 	is	 actual 	 ly 	 	a	 rot 	 ated 	 	version	of	 th 	 is 	 	shape	.	i	want	you	to	tell	me	which	one	:	the	first	one	,	second	one	,	third	one	or	fourth	one	?
+ ok 	 a 	 y 	 	,	i	'll	help	you	.	fourth	one	.
+one	more	.	get	 t 	 hose 	 	 brain 	 s 	 	 work 	 ing 	 	.	come	on	.
+that	's	our	target	shape	.
+third	.	good	!	 th 	 is 	 	is	hard	,	right	?
+like	,	the	reason	that	i	 ask 	 ed 	 	you	to	do	that	is	 be 	 cause 	 	you	 re 	 ally 	 	feel	your	brain	cringing	,	right	?
+it	 do 	 es 	 	n't	 re 	 ally 	 	feel	like	 play 	 ing 	 	 mind 	 less 	 	action	video	 game 	 s 	 	.
+well	,	what	we	do	in	these	training	 stud 	 ies 	 	is	,	people	come	to	the	lab	,	they	do	 task 	 s 	 	like	 th 	 is 	 	one	,	we	then	force	them	to	play	10	 hour 	 s 	 	of	action	 game 	 s 	 	.
+they	do	n't	play	10	 hour 	 s 	 	of	action	 game 	 s 	 	in	a	row	.
+they	do	 distribut 	 ed 	 	practice	,	so	little	 shot 	 s 	 	of	40	 minute 	 s 	 	 s 	 ever 	 al 	 	 day 	 s 	 	over	a	period	of	two	 week 	 s 	 	.
+then	,	once	they	are	 d 	 one 	 	with	the	training	,	they	come	back	a	few	 day 	 s 	 	 lat 	 er 	 	and	they	are	tested	 aga 	 in 	 	on	a	similar	type	of	mental	 rot 	 ation 	 	task	.	so	 th 	 is 	 	is	work	from	a	 col 	 league 	 	in	toronto	.	what	they	 show 	 ed 	 	is	that	,	 initi 	 ally 	 	,	you	know	,	 subject 	 s 	 	perform	where	they	are	 expect 	 ed 	 	to	perform	 give 	 n 	 	 the 	 ir 	 	age	.	after	two	 week 	 s 	 	of	training	on	action	video	 game 	 s 	 	,	they	 actual 	 ly 	 	perform	better	,	and	the	 improve 	 ment 	 	is	still	there	five	 month 	 s 	 	after	 hav 	 ing 	 	 d 	 one 	 	the	training	.	that	's	 re 	 ally 	 	,	 re 	 ally 	 	 import 	 ant 	 	.
+why	?	 be 	 cause 	 	i	told	you	we	want	to	use	these	 game 	 s 	 	for	education	or	for	 rehabilit 	 ation 	 	.	we	need	to	have	 effect 	 s 	 	that	are	going	to	be	long	-	 last 	 ing 	 	.
+now	,	at	 th 	 is 	 	point	,	a	number	of	you	are	 prob 	 ably 	 	 wonder 	 ing 	 	well	,	what	are	you	 wait 	 ing 	 	for	,	to	put	on	the	market	a	game	that	would	be	good	for	the	attention	of	my	 grand 	 mother 	 	and	that	she	would	 actual 	 ly 	 	enjoy	,	or	a	game	that	would	be	great	to	 rehabilit 	 ate 	 	the	vision	of	my	 grand 	 son 	 	who	 ha 	 s 	 	amblyopia	,	for	 ex 	 ample 	 	?
+well	,	we	're	 work 	 ing 	 	on	it	,	but	here	is	a	 challeng 	 e 	 	.
+there	are	brain	 scientist 	 s 	 	like	me	that	are	 begin 	 ning 	 	to	understand	what	are	the	good	 ing 	 red 	 ient 	 s 	 	in	 game 	 s 	 	to	promote	positive	 effect 	 s 	 	,	and	that	's	what	i	'm	going	to	call	the	 broc 	 coli 	 	side	of	the	 equ 	 ation 	 	.
+there	is	an	 entertain 	 ment 	 	 soft 	 ware 	 	industry	which	is	 extrem 	 e 	 ly 	 	deft	at	coming	up	with	 appeal 	 ing 	 	 product 	 s 	 	that	you	ca	n't	resist	.
+that	's	the	chocolate	side	of	the	 equ 	 ation 	 	.
+the	issue	is	we	need	to	put	the	two	together	,	and	it	's	a	little	bit	like	with	food	.
+who	 re 	 ally 	 	 want 	 s 	 	to	eat	chocolate	-	 cover 	 ed 	 	 broc 	 coli 	 	?
+ non 	 e 	 	of	you	.	and	you	 prob 	 ably 	 	have	had	that	 feel 	 ing 	 	,	right	,	 pick 	 ing 	 	up	an	education	game	and	sort	of	 feel 	 ing 	 	,	hmm	,	you	know	,	it	's	not	 re 	 ally 	 	 f 	 un 	 	,	it	's	not	 re 	 ally 	 	 engag 	 ing 	 	.	so	what	we	need	is	 re 	 ally 	 	a	new	brand	of	chocolate	,	a	brand	of	chocolate	that	is	 ir 	 resist 	 ible 	 	,	that	you	 re 	 ally 	 	want	to	play	,	but	that	 ha 	 s 	 	all	the	 ing 	 red 	 ient 	 s 	 	,	the	good	 ing 	 red 	 ient 	 s 	 	that	are	 extra 	 cted 	 	from	the	 broc 	 coli 	 	that	you	ca	n't	 recogn 	 ize 	 	but	are	still	 work 	 ing 	 	on	your	 brain 	 s 	 	.	and	we	're	 work 	 ing 	 	on	it	,	but	it	 take 	 s 	 	brain	 scientist 	 s 	 	to	come	and	to	get	together	,	people	that	work	in	the	 entertain 	 ment 	 	 soft 	 ware 	 	industry	,	and	 publish 	 ers 	 	,	so	these	are	not	people	that	 usual 	 ly 	 	meet	every	day	,	but	it	's	 actual 	 ly 	 	 do 	 able 	 	,	and	we	are	on	the	right	track	.
+i	'd	like	to	 leav 	 e 	 	you	with	that	thought	,	and	thank	you	for	your	attention	.
+

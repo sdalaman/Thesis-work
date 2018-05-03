@@ -1,0 +1,209 @@
+i	'm	going	to	talk	about	a	technology	that	we	're	 develop 	 ing 	 	at	oxford	now	,	that	we	think	is	going	to	change	the	way	that	computer	 game 	 s 	 	and	hollywood	 movie 	 s 	 	are	 be 	 ing 	 	made	.
+that	technology	is	 simul 	 ating 	 	 human 	 s 	 	.
+it	's	 simul 	 ated 	 	 human 	 s 	 	with	a	 simul 	 ated 	 	body	and	a	 simul 	 ated 	 	nervous	system	to	control	that	body	.
+now	,	before	i	talk	more	about	that	technology	,	let	's	have	a	quick	look	at	what	human	 character 	 s 	 	look	like	at	the	moment	in	computer	 game 	 s 	 	.
+ th 	 is 	 	is	a	clip	from	a	game	 call 	 ed 	 	``	grand	 t 	 heft 	 	auto	3.	``
+we	 al 	 ready 	 	saw	that	 brief 	 ly 	 	 yester 	 day 	 	.
+and	what	you	can	see	is	--	it	is	 actual 	 ly 	 	a	 ver 	 y 	 	good	game	.
+it	's	one	of	the	most	 success 	 ful 	 	 game 	 s 	 	of	all	time	.
+but	what	you	'll	see	is	that	all	the	 anim 	 ations 	 	in	 th 	 is 	 	game	are	 ver 	 y 	 	 repetit 	 ive 	 	.
+they	 pre 	 tty 	 	much	look	the	same	.
+i	've	made	him	run	 in 	 to 	 	a	wall	here	,	over	and	over	 aga 	 in 	 	.
+and	you	can	see	he	 look 	 s 	 	 al 	 ways 	 	the	same	.
+the	reason	for	that	is	that	these	 character 	 s 	 	are	 actual 	 ly 	 	not	real	 character 	 s 	 	.
+they	are	a	graphical	 visual 	 ization 	 	of	a	character	.
+to	produce	these	 anim 	 ations 	 	,	an	 anim 	 ator 	 	at	a	studio	 ha 	 s 	 	to	 anticip 	 ate 	 	what	's	going	to	happen	in	the	actual	game	,	and	then	 ha 	 s 	 	to	animate	that	 part 	 icular 	 	sequence	.
+so	,	he	or	she	 s 	 it 	 s 	 	down	,	 animate 	 s 	 	it	,	and	tries	to	 anticip 	 ate 	 	what	's	going	to	happen	,	and	then	these	 part 	 icular 	 	 anim 	 ations 	 	are	just	 play 	 ed 	 	back	at	appropriate	 time 	 s 	 	in	the	computer	game	.
+now	,	the	result	of	that	is	that	you	ca	n't	have	real	 inter 	 activity 	 	.
+all	you	have	is	 anim 	 ations 	 	that	are	 play 	 ed 	 	back	at	more	or	less	the	appropriate	 time 	 s 	 	.
+it	 al 	 so 	 	 mean 	 s 	 	that	 game 	 s 	 	are	n't	 re 	 ally 	 	going	to	be	 a 	 s 	 	surprising	 a 	 s 	 	they	could	be	,	 be 	 cause 	 	you	 on 	 ly 	 	get	out	of	it	,	at	 l 	 east 	 	in	 term 	 s 	 	of	the	character	,	what	you	 actual 	 ly 	 	put	 in 	 to 	 	it	.
+there	's	no	real	emergence	there	.
+and	 third 	 ly 	 	,	 a 	 s 	 	i	 s 	 aid 	 	,	most	of	the	 anim 	 ations 	 	are	 ver 	 y 	 	 repetit 	 ive 	 	 be 	 cause 	 	of	that	.
+now	,	the	 on 	 ly 	 	way	to	get	around	that	is	to	 actual 	 ly 	 	 simul 	 ate 	 	the	human	body	and	to	 simul 	 ate 	 	that	bit	of	the	nervous	system	of	the	brain	that	 control 	 s 	 	that	body	.
+and	 may 	 be 	 	,	if	i	could	have	you	for	a	quick	 demonst 	 ration 	 	to	show	what	the	 differ 	 ence 	 	is	--	 be 	 cause 	 	,	i	mean	,	it	's	 ver 	 y 	 	,	 ver 	 y 	 	trivial	.
+if	i	push	chris	a	bit	,	like	 th 	 is 	 	,	for	 ex 	 ample 	 	,	he	'll	react	to	it	.
+if	i	push	him	from	a	different	angle	,	he	'll	react	to	it	 different 	 ly 	 	,	and	that	's	 be 	 cause 	 	he	 ha 	 s 	 	a	physical	body	,	and	 be 	 cause 	 	he	 ha 	 s 	 	the	motor	 skill 	 s 	 	to	control	that	body	.
+it	's	a	 ver 	 y 	 	trivial	thing	.
+it	's	not	 some 	 thing 	 	you	get	in	computer	 game 	 s 	 	at	the	moment	,	at	all	.
+thank	you	 ver 	 y 	 	much	.	chris	anderson	:	that	's	it	?
+torsten	reil	:	that	's	it	,	 y 	 es 	 	.
+so	,	that	's	what	we	're	 try 	 ing 	 	to	 simul 	 ate 	 	--	not	chris	 specific 	 ally 	 	,	i	should	say	,	but	 human 	 s 	 	in	general	.
+now	,	we	 start 	 ed 	 	 work 	 ing 	 	on	 th 	 is 	 	a	while	ago	at	oxford	university	,	and	we	 tri 	 ed 	 	to	start	 ver 	 y 	 	 simpl 	 y 	 	.
+what	we	 tri 	 ed 	 	to	do	was	teach	a	stick	figure	how	to	walk	.
+that	stick	figure	is	 physical 	 ly 	 	 stimul 	 ated 	 	.	you	can	see	it	here	on	the	screen	.
+so	,	it	's	subject	to	 gravit 	 y 	 	,	 ha 	 s 	 	 joint 	 s 	 	,	etc	.
+if	you	just	run	the	 simul 	 ation 	 	,	it	will	just	collapse	,	like	 th 	 is 	 	.
+the	 trick 	 y 	 	bit	is	now	to	put	an	ai	 controll 	 er 	 	in	it	that	 actual 	 ly 	 	 make 	 s 	 	it	work	.
+and	for	that	,	we	use	the	neural	network	,	which	we	based	on	that	part	of	the	nervous	system	that	we	have	in	our	 s 	 pine 	 	that	 control 	 s 	 	 walk 	 ing 	 	in	 human 	 s 	 	.
+it	's	 call 	 ed 	 	the	central	pattern	 gene 	 rator 	 	.
+so	,	we	 simul 	 ated 	 	that	 a 	 s 	 	well	,	and	then	the	 re 	 ally 	 	 trick 	 y 	 	bit	is	to	teach	that	network	how	to	walk	.
+for	that	we	used	artificial	evolution	--	genetic	 algorithm 	 s 	 	.
+we	heard	about	 t 	 hose 	 	 al 	 ready 	 	 yester 	 day 	 	,	and	i	suppose	that	most	of	you	are	familiar	with	that	 al 	 ready 	 	.
+but	,	just	 brief 	 ly 	 	,	the	 con 	 cept 	 	is	that	you	create	a	large	number	of	different	 individual 	 s 	 	--	neural	 network 	 s 	 	,	in	 th 	 is 	 	case	--	all	of	which	are	random	at	the	 begin 	 ning 	 	.
+you	hook	these	up	--	in	 th 	 is 	 	case	,	to	the	virtual	 muscle 	 s 	 	of	that	two	-	legged	creature	here	--	and	hope	that	it	 do 	 es 	 	 some 	 thing 	 	 interest 	 ing 	 	.
+at	the	 begin 	 ning 	 	,	they	're	all	going	to	be	 ver 	 y 	 	 bor 	 ing 	 	.
+most	of	them	wo	n't	move	at	all	,	but	some	of	them	might	make	a	 tin 	 y 	 	step	.
+ t 	 hose 	 	are	then	 select 	 ed 	 	by	the	algorithm	,	 re 	 produce 	 d 	 	with	mutation	and	 re 	 combination 	 s 	 	to	 introduc 	 e 	 	 s 	 ex 	 	 a 	 s 	 	well	.
+and	you	repeat	that	process	over	and	over	 aga 	 in 	 	,	 un 	 til 	 	you	have	 some 	 thing 	 	that	 walk 	 s 	 	--	in	 th 	 is 	 	case	,	in	a	straight	line	,	like	 th 	 is 	 	.
+so	that	was	the	idea	 be 	 hind 	 	 th 	 is 	 	.
+when	we	 start 	 ed 	 	 th 	 is 	 	,	i	set	up	the	 simul 	 ation 	 	one	 even 	 ing 	 	.
+it	took	about	three	to	four	 hour 	 s 	 	to	run	the	 simul 	 ation 	 	.
+i	got	up	the	next	 morn 	 ing 	 	,	went	to	the	computer	and	 look 	 ed 	 	at	the	 result 	 s 	 	,	and	was	 hop 	 ing 	 	for	 some 	 thing 	 	that	 walk 	 ed 	 	in	a	straight	line	,	like	i	've	just	 demonst 	 rated 	 	,	and	 th 	 is 	 	is	what	i	got	 in 	 stead 	 	.
+so	,	it	was	back	to	the	 draw 	 ing 	 	board	for	us	.
+we	did	get	it	to	work	 event 	 ual 	 ly 	 	,	after	 tweak 	 ing 	 	a	bit	here	and	there	.
+and	 th 	 is 	 	is	an	 ex 	 ample 	 	of	a	 success 	 ful 	 	 evolution 	 ary 	 	run	.
+so	,	what	you	'll	see	in	a	moment	is	a	 ver 	 y 	 	simple	 bi 	 ped 	 	that	's	 learn 	 ing 	 	how	to	walk	using	artificial	evolution	.
+at	the	 begin 	 ning 	 	,	it	ca	n't	walk	at	all	,	but	it	will	get	better	and	better	over	time	.
+so	,	 th 	 is 	 	is	the	one	that	ca	n't	walk	at	all	.
+now	,	after	five	 generation 	 s 	 	of	 app 	 ly 	 ing 	 	 evolution 	 ary 	 	process	,	the	genetic	algorithm	is	 get 	 ting 	 	a	 tin 	 y 	 	bit	better	.
+generation	10	and	it	'll	take	a	few	 step 	 s 	 	more	--	still	not	 quit 	 e 	 	there	.
+but	now	,	after	generation	20	,	it	 actual 	 ly 	 	 walk 	 s 	 	in	a	straight	line	 with 	 out 	 	 fall 	 ing 	 	over	.
+that	was	the	real	 break 	 through 	 	for	us	.
+it	was	,	 academic 	 ally 	 	,	 quit 	 e 	 	a	 challeng 	 ing 	 	project	,	and	once	we	had	 reach 	 ed 	 	that	stage	,	we	 we 	 re 	 	 quit 	 e 	 	confident	that	we	could	try	and	do	other	 thing 	 s 	 	 a 	 s 	 	well	with	 th 	 is 	 	approach	--	 actual 	 ly 	 	 simul 	 ating 	 	the	body	and	 simul 	 ating 	 	that	part	of	the	nervous	system	that	 control 	 s 	 	it	.
+now	,	at	 th 	 is 	 	stage	,	it	 al 	 so 	 	 be 	 came 	 	clear	that	 th 	 is 	 	could	be	 ver 	 y 	 	 excit 	 ing 	 	for	 thing 	 s 	 	like	computer	 game 	 s 	 	or	 on 	 line 	 	 world 	 s 	 	.
+what	you	see	here	is	the	character	 stand 	 ing 	 	there	,	and	there	's	an	obstacle	that	we	put	in	 it 	 s 	 	way	.
+and	what	you	see	is	,	it	's	going	to	fall	over	the	obstacle	.
+now	,	the	 interest 	 ing 	 	bit	is	,	if	i	move	the	obstacle	a	 tin 	 y 	 	bit	to	the	right	,	which	is	what	i	'm	 do 	 ing 	 	now	,	here	,	it	will	fall	over	it	in	a	 complete 	 ly 	 	different	way	.
+and	 aga 	 in 	 	,	if	you	move	the	obstacle	a	 tin 	 y 	 	bit	,	it	'll	 aga 	 in 	 	fall	 different 	 ly 	 	.
+now	,	what	you	see	,	by	the	way	,	at	the	top	there	,	are	some	of	the	neural	 activ 	 ations 	 	 be 	 ing 	 	fed	 in 	 to 	 	the	virtual	 muscle 	 s 	 	.
+ ok 	 a 	 y 	 	.	that	's	the	video	.	 thank 	 s 	 	.
+now	,	 th 	 is 	 	might	look	kind	of	trivial	,	but	it	's	 actual 	 ly 	 	 ver 	 y 	 	 import 	 ant 	 	 be 	 cause 	 	 th 	 is 	 	is	not	 some 	 thing 	 	you	get	at	the	moment	in	any	 inter 	 active 	 	or	any	virtual	 world 	 s 	 	.
+now	,	at	 th 	 is 	 	stage	,	we	 decide 	 d 	 	to	start	a	company	and	move	 th 	 is 	 	further	,	 be 	 cause 	 	 obvious 	 ly 	 	 th 	 is 	 	was	just	a	 ver 	 y 	 	simple	,	 block 	 y 	 	 bi 	 ped 	 	.
+what	we	 re 	 ally 	 	 want 	 ed 	 	was	a	full	human	body	.
+so	we	 start 	 ed 	 	the	company	.
+we	 hire 	 d 	 	a	team	of	 physicist 	 s 	 	,	 soft 	 ware 	 	 engineer 	 s 	 	and	 biologist 	 s 	 	to	work	on	 th 	 is 	 	,	and	the	first	thing	we	had	to	work	on	was	to	create	the	human	body	,	 bas 	 ically 	 	.
+it	's	got	to	be	 relat 	 ively 	 	fast	,	so	you	can	run	it	on	a	normal	machine	,	but	it	's	got	to	be	accurate	 en 	 ough 	 	,	so	it	 look 	 s 	 	good	 en 	 ough 	 	,	 bas 	 ically 	 	.
+so	we	put	 quit 	 e 	 	a	bit	of	 bio 	 mechanic 	 al 	 	knowledge	 in 	 to 	 	 th 	 is 	 	thing	,	and	 tri 	 ed 	 	to	make	it	 a 	 s 	 	realistic	 a 	 s 	 	possible	.
+what	you	see	here	on	the	screen	right	now	is	a	 ver 	 y 	 	simple	 visual 	 ization 	 	of	that	body	.
+i	should	add	that	it	's	 ver 	 y 	 	simple	to	add	 thing 	 s 	 	like	hair	,	 clothe 	 s 	 	,	etc	.	,	but	what	we	've	 d 	 one 	 	here	is	use	a	 ver 	 y 	 	simple	 visual 	 ization 	 	,	so	you	can	 concent 	 rate 	 	on	the	 move 	 ment 	 	.
+now	,	what	i	'm	going	to	do	right	now	,	in	a	moment	,	is	just	push	 th 	 is 	 	character	a	 tin 	 y 	 	bit	and	we	'll	see	what	 happen 	 s 	 	.
+ noth 	 ing 	 	 re 	 ally 	 	 interest 	 ing 	 	,	 bas 	 ically 	 	.
+it	 fall 	 s 	 	over	,	but	it	 fall 	 s 	 	over	like	a	rag	doll	,	 bas 	 ically 	 	.
+the	reason	for	that	is	that	there	's	no	 intellig 	 ence 	 	in	it	.
+it	 be 	 come 	 s 	 	 interest 	 ing 	 	when	you	put	artificial	 intellig 	 ence 	 	 in 	 to 	 	it	.
+so	,	 th 	 is 	 	character	now	 ha 	 s 	 	motor	 skill 	 s 	 	in	the	upper	body	--	 noth 	 ing 	 	in	the	 leg 	 s 	 	yet	,	in	 th 	 is 	 	 part 	 icular 	 	one	.
+but	what	it	will	do	--	i	'm	going	to	push	it	 aga 	 in 	 	.
+it	will	 real 	 ize 	 	 autonomous 	 ly 	 	that	it	's	 be 	 ing 	 	 push 	 ed 	 	.
+it	's	going	to	stick	out	 it 	 s 	 	 hand 	 s 	 	.
+it	's	going	to	turn	around	 in 	 to 	 	the	fall	,	and	try	and	catch	the	fall	.
+so	that	's	what	you	see	here	.
+now	,	it	 get 	 s 	 	 re 	 ally 	 	 interest 	 ing 	 	if	you	then	add	the	ai	for	the	lower	part	of	the	body	 a 	 s 	 	well	.
+so	here	,	we	've	got	the	same	character	.
+i	'm	going	to	push	it	a	bit	 hard 	 er 	 	now	,	 hard 	 er 	 	than	i	just	 push 	 ed 	 	chris	.
+but	what	you	'll	see	is	--	it	's	going	to	 receiv 	 e 	 	a	push	now	from	the	left	.
+what	you	see	is	it	 take 	 s 	 	 step 	 s 	 	 back 	 ward 	 s 	 	,	it	tries	to	counter	-	balance	,	it	tries	to	look	at	the	place	where	it	 think 	 s 	 	it	's	going	to	land	.
+i	'll	show	you	 th 	 is 	 	 aga 	 in 	 	.
+and	then	,	 final 	 ly 	 	 hit 	 s 	 	the	floor	.
+now	,	 th 	 is 	 	 be 	 come 	 s 	 	 re 	 ally 	 	 excit 	 ing 	 	when	you	push	that	character	in	different	 direction 	 s 	 	,	 aga 	 in 	 	,	just	 a 	 s 	 	i	've	 d 	 one 	 	.
+that	's	 some 	 thing 	 	that	you	can	not	do	right	now	.
+at	the	moment	,	you	 on 	 ly 	 	have	empty	computer	 graphic 	 s 	 	in	 game 	 s 	 	.
+what	 th 	 is 	 	is	now	is	a	real	 simul 	 ation 	 	.	that	's	what	i	want	to	show	you	now	.
+so	,	here	's	the	same	character	with	the	same	behavior	i	've	just	 show 	 n 	 	you	,	but	now	i	'm	just	going	to	push	it	from	different	 direction 	 s 	 	.
+first	,	 start 	 ing 	 	with	a	push	from	the	right	.
+ th 	 is 	 	is	all	 s 	 low 	 	motion	,	by	the	way	,	so	we	can	see	what	's	going	on	.
+now	,	the	angle	will	have	 change 	 d 	 	a	 tin 	 y 	 	bit	,	so	you	can	see	that	the	 re 	 action 	 	is	different	.
+ aga 	 in 	 	,	a	push	,	now	 th 	 is 	 	time	from	the	front	.
+and	you	see	it	 fall 	 s 	 	 different 	 ly 	 	.
+and	now	from	the	left	--	and	it	 fall 	 s 	 	 different 	 ly 	 	.
+that	was	 re 	 ally 	 	 excit 	 ing 	 	for	us	to	see	that	.
+that	was	the	first	time	we	've	 s 	 een 	 	that	.
+ th 	 is 	 	is	the	first	time	the	public	 s 	 ees 	 	 th 	 is 	 	 a 	 s 	 	well	,	 be 	 cause 	 	we	have	 be 	 en 	 	in	 steal 	 th 	 	mode	.
+i	have	n't	 show 	 n 	 	 th 	 is 	 	to	 any 	 body 	 	yet	.
+now	,	just	a	 f 	 un 	 	thing	:	what	 happen 	 s 	 	if	you	put	that	character	--	 th 	 is 	 	is	now	a	 wood 	 en 	 	version	of	it	,	but	it	's	got	the	same	ai	in	it	--	but	if	you	put	that	character	on	a	 slip 	 per 	 y 	 	surface	,	like	ice	.
+we	just	did	that	for	a	laugh	,	just	to	see	what	 happen 	 s 	 	.
+and	 th 	 is 	 	is	what	 happen 	 s 	 	.
+it	's	 noth 	 ing 	 	we	had	to	do	about	 th 	 is 	 	.
+we	just	took	 th 	 is 	 	character	that	i	just	 talk 	 ed 	 	about	,	put	it	on	a	 slip 	 per 	 y 	 	surface	,	and	 th 	 is 	 	is	what	you	get	out	of	it	.
+and	that	's	a	 re 	 ally 	 	 fasci 	 nating 	 	thing	about	 th 	 is 	 	approach	.
+now	,	when	we	went	to	film	 studio 	 s 	 	and	 game 	 s 	 	 develop 	 ers 	 	and	 show 	 ed 	 	them	that	technology	,	we	got	a	 ver 	 y 	 	good	 respons 	 e 	 	.
+and	what	they	 s 	 aid 	 	was	,	the	first	thing	they	need	 im 	 mediate 	 ly 	 	is	virtual	 stunt 	 men 	 	.
+ be 	 cause 	 	 stunt 	 s 	 	are	 obvious 	 ly 	 	 ver 	 y 	 	 danger 	 ous 	 	,	they	're	 ver 	 y 	 	expensive	,	and	there	are	a	lot	of	stunt	 scene 	 s 	 	that	you	can	not	do	,	 obvious 	 ly 	 	,	 be 	 cause 	 	you	ca	n't	 re 	 ally 	 	allow	the	 stunt 	 man 	 	to	be	 serious 	 ly 	 	hurt	.
+so	,	they	 want 	 ed 	 	to	have	a	digital	version	of	a	 stunt 	 man 	 	and	that	's	what	we	've	 be 	 en 	 	 work 	 ing 	 	on	for	the	past	few	 month 	 s 	 	.
+and	that	's	our	first	product	that	we	're	going	to	 re 	 lease 	 	in	a	couple	of	 week 	 s 	 	.
+so	,	here	are	just	a	few	 ver 	 y 	 	simple	 scene 	 s 	 	of	the	guy	just	 be 	 ing 	 	 kick 	 ed 	 	.
+that	's	what	people	want	.	that	's	what	we	're	giving	them	.
+you	can	see	,	it	's	 al 	 ways 	 	 react 	 ing 	 	.
+ th 	 is 	 	is	not	a	dead	body	.	 th 	 is 	 	is	a	body	who	 bas 	 ically 	 	,	in	 th 	 is 	 	 part 	 icular 	 	case	,	 feel 	 s 	 	the	force	and	tries	to	protect	 it 	 s 	 	head	.
+ on 	 ly 	 	,	i	think	it	's	 quit 	 e 	 	a	big	blow	 aga 	 in 	 	.
+you	feel	kind	of	sorry	for	that	thing	,	and	we	've	 s 	 een 	 	it	so	 man 	 y 	 	 time 	 s 	 	now	that	we	do	n't	 re 	 ally 	 	care	any	more	.
+there	are	much	 wo 	 rse 	 	 video 	 s 	 	than	 th 	 is 	 	,	by	the	way	,	which	i	have	taken	out	,	but	...
+now	,	here	's	 an 	 other 	 	one	.
+what	people	 want 	 ed 	 	 a 	 s 	 	a	behavior	was	to	have	an	explosion	,	a	strong	force	 appli 	 ed 	 	to	the	character	,	and	have	the	character	react	to	it	in	 mid 	 air 	 	.
+so	that	you	do	n't	have	a	character	that	 look 	 s 	 	 l 	 imp 	 	,	but	 actual 	 ly 	 	a	character	that	you	can	use	in	an	action	film	straight	away	,	that	 look 	 s 	 	kind	of	 al 	 ive 	 	in	 mid 	 air 	 	 a 	 s 	 	well	.
+so	 th 	 is 	 	character	is	going	to	be	hit	by	a	force	,	it	's	going	to	 real 	 ize 	 	it	's	in	the	air	,	and	it	's	going	to	try	and	,	well	,	stick	out	 it 	 s 	 	arm	in	the	direction	where	it	's	 land 	 ing 	 	.
+that	's	one	angle	;	here	's	 an 	 other 	 	angle	.
+we	now	think	that	the	 real 	 ism 	 	we	're	 achiev 	 ing 	 	with	 th 	 is 	 	is	good	 en 	 ough 	 	to	be	used	in	 film 	 s 	 	.
+and	let	's	just	have	a	look	at	a	 s 	 light 	 ly 	 	different	 visual 	 ization 	 	.
+ th 	 is 	 	is	 some 	 thing 	 	i	just	got	last	night	from	an	 anim 	 ation 	 	studio	in	london	,	who	are	using	our	 soft 	 ware 	 	and	 experiment 	 ing 	 	with	it	right	now	.
+so	 th 	 is 	 	is	 exact 	 ly 	 	the	same	behavior	that	you	saw	,	but	in	a	 s 	 light 	 ly 	 	better	 render 	 ed 	 	version	.
+so	if	you	look	at	the	character	 care 	 fully 	 	,	you	see	there	are	 lot 	 s 	 	of	body	 move 	 ments 	 	going	on	,	 non 	 e 	 	of	which	you	have	to	animate	like	in	the	old	 day 	 s 	 	.
+ anim 	 ators 	 	had	to	 actual 	 ly 	 	animate	them	.
+ th 	 is 	 	is	all	 happen 	 ing 	 	 autom 	 at 	 ically 	 	in	the	 simul 	 ation 	 	.
+ th 	 is 	 	is	a	 s 	 light 	 ly 	 	different	angle	,	and	 aga 	 in 	 	a	 s 	 low 	 	motion	version	of	 th 	 is 	 	.
+ th 	 is 	 	is	 inc 	 red 	 ibly 	 	quick	.	 th 	 is 	 	is	 happen 	 ing 	 	in	real	time	.
+you	can	run	 th 	 is 	 	 simul 	 ation 	 	in	real	time	,	in	front	of	your	 eye 	 s 	 	,	change	it	,	if	you	want	to	,	and	you	get	the	 anim 	 ation 	 	straight	out	of	it	.
+at	the	moment	,	 do 	 ing 	 	 some 	 thing 	 	like	 th 	 is 	 	by	hand	would	take	you	 prob 	 ably 	 	a	couple	of	 day 	 s 	 	.
+ th 	 is 	 	is	 an 	 other 	 	behavior	they	 request 	 ed 	 	.
+i	'm	not	 quit 	 e 	 	 s 	 ure 	 	why	,	but	we	've	 d 	 one 	 	it	 any 	 way 	 	.
+it	's	a	 ver 	 y 	 	simple	behavior	that	 show 	 s 	 	you	the	power	of	 th 	 is 	 	approach	.
+in	 th 	 is 	 	case	,	the	character	's	 hand 	 s 	 	are	 fix 	 ed 	 	to	a	 part 	 icular 	 	point	in	space	,	and	all	we	've	told	the	character	to	do	is	to	struggle	.
+and	it	 look 	 s 	 	 organ 	 ic 	 	.	it	 look 	 s 	 	realistic	.
+you	feel	kind	of	sorry	for	the	guy	.
+it	's	even	 wo 	 rse 	 	--	and	that	is	 an 	 other 	 	video	i	just	got	last	night	--	if	you	render	that	a	bit	more	 realistic 	 ally 	 	.
+now	,	i	'm	 show 	 ing 	 	 th 	 is 	 	to	you	just	to	show	you	how	 organ 	 ic 	 	it	 actual 	 ly 	 	can	feel	,	how	realistic	it	can	look	.
+and	 th 	 is 	 	is	all	a	physical	 simul 	 ation 	 	of	the	body	,	using	ai	to	drive	virtual	 muscle 	 s 	 	in	that	body	.
+now	,	one	thing	which	we	did	for	a	laugh	was	to	create	a	 s 	 light 	 ly 	 	more	complex	stunt	scene	,	and	one	of	the	most	famous	 stunt 	 s 	 	is	the	one	where	james	bond	 jump 	 s 	 	off	a	dam	in	switzerland	and	then	is	caught	by	a	 bun 	 gee 	 	.
+got	a	 ver 	 y 	 	short	clip	here	.
+ y 	 es 	 	,	you	can	just	about	see	it	here	.
+in	 th 	 is 	 	case	,	they	 we 	 re 	 	using	a	real	stunt	man	.	it	was	a	 ver 	 y 	 	 danger 	 ous 	 	stunt	.
+it	was	just	 vot 	 ed 	 	,	i	think	in	the	sunday	 time 	 s 	 	,	 a 	 s 	 	one	of	the	most	 impress 	 ive 	 	 stunt 	 s 	 	.
+now	,	we	've	just	 tri 	 ed 	 	and	--	 look 	 ed 	 	at	our	character	and	 ask 	 ed 	 	 our 	 s 	 elves 	 	,	``	can	we	do	that	 our 	 s 	 elves 	 	 a 	 s 	 	well	?	``
+can	we	use	the	physical	 simul 	 ation 	 	of	the	character	,	use	artificial	 intellig 	 ence 	 	,	put	that	artificial	 intellig 	 ence 	 	 in 	 to 	 	the	character	,	drive	virtual	 muscle 	 s 	 	,	 simul 	 ate 	 	the	way	he	 jump 	 s 	 	off	the	dam	,	and	then	skydive	 after 	 ward 	 s 	 	,	and	have	him	caught	by	a	 bun 	 gee 	 	 after 	 ward 	 s 	 	?
+we	did	that	.	it	took	about	 al 	 together 	 	just	two	 hour 	 s 	 	,	 pre 	 tty 	 	much	,	to	create	the	 simul 	 ation 	 	.
+and	that	's	what	it	 look 	 s 	 	like	,	here	.
+now	,	 th 	 is 	 	could	do	with	a	bit	more	work	.	it	's	still	 ver 	 y 	 	early	 stage 	 s 	 	,	and	we	 pre 	 tty 	 	much	just	did	 th 	 is 	 	for	a	laugh	,	just	to	see	what	we	'd	get	out	of	it	.
+but	what	we	found	over	the	past	few	 month 	 s 	 	is	that	 th 	 is 	 	approach	--	that	we	're	 pre 	 tty 	 	much	standard	 up 	 on 	 	--	is	 inc 	 red 	 ibly 	 	 power 	 ful 	 	.
+we	are	 our 	 s 	 elves 	 	 surprise 	 d 	 	what	you	 actual 	 ly 	 	get	out	of	the	 simul 	 ations 	 	.
+there	's	 ver 	 y 	 	often	 ver 	 y 	 	surprising	behavior	that	you	did	n't	predict	before	.
+there	's	so	 man 	 y 	 	 thing 	 s 	 	we	can	do	with	 th 	 is 	 	right	now	.
+the	first	thing	,	 a 	 s 	 	i	 s 	 aid 	 	,	is	going	to	be	virtual	 stunt 	 men 	 	.
+ s 	 ever 	 al 	 	 studio 	 s 	 	are	using	 th 	 is 	 	 soft 	 ware 	 	now	to	produce	virtual	 stunt 	 men 	 	,	and	they	're	going	to	hit	the	screen	 quit 	 e 	 	soon	,	 actual 	 ly 	 	,	for	some	major	 production 	 s 	 	.
+the	second	thing	is	video	 game 	 s 	 	.
+with	 th 	 is 	 	technology	,	video	 game 	 s 	 	will	look	different	and	they	will	feel	 ver 	 y 	 	different	.
+for	the	first	time	,	you	'll	have	 act 	 ors 	 	that	 re 	 ally 	 	feel	 ver 	 y 	 	 inter 	 active 	 	,	that	have	real	bodies	that	 re 	 ally 	 	react	.
+i	think	that	's	going	to	be	 inc 	 red 	 ibly 	 	 excit 	 ing 	 	.
+ prob 	 ably 	 	 start 	 ing 	 	with	 s 	 port 	 s 	 	 game 	 s 	 	,	which	are	going	to	 be 	 come 	 	much	more	 inter 	 active 	 	.
+but	i	 part 	 icular 	 ly 	 	am	 re 	 ally 	 	 excit 	 ed 	 	about	using	 th 	 is 	 	technology	in	 on 	 line 	 	 world 	 s 	 	,	like	there	,	for	 ex 	 ample 	 	,	that	tom	melcher	 ha 	 s 	 	 show 	 n 	 	us	.
+the	degree	of	 inter 	 activity 	 	you	're	going	to	get	is	 total 	 ly 	 	different	,	i	think	,	from	what	you	're	 get 	 ting 	 	right	now	.
+a	third	thing	we	are	looking	at	and	 ver 	 y 	 	 interest 	 ed 	 	in	is	 simul 	 ation 	 	.
+we	've	 be 	 en 	 	 approach 	 ed 	 	by	 s 	 ever 	 al 	 	 simul 	 ation 	 	 com 	 pan 	 ies 	 	,	but	one	project	we	're	 part 	 icular 	 ly 	 	 excit 	 ed 	 	about	,	which	we	're	 start 	 ing 	 	next	month	,	is	to	use	our	technology	--	and	in	 part 	 icular 	 	,	the	 walk 	 ing 	 	technology	--	to	help	aid	 surgeon 	 s 	 	who	work	on	children	with	cerebral	 pal 	 s 	 y 	 	,	to	predict	the	 out 	 come 	 	of	 operation 	 s 	 	on	these	children	.
+ a 	 s 	 	you	 prob 	 ably 	 	know	,	it	's	 ver 	 y 	 	difficult	to	predict	what	the	 out 	 come 	 	of	an	operation	is	if	you	try	and	correct	the	 ga 	 it 	 	.
+the	classic	quote	is	,	i	think	,	it	's	 un 	 predict 	 able 	 	at	best	,	is	what	people	think	right	now	,	is	the	 out 	 come 	 	.
+now	,	what	we	want	to	do	with	our	 soft 	 ware 	 	is	allow	our	 surgeon 	 s 	 	to	have	a	tool	.
+we	're	going	to	 simul 	 ate 	 	the	 ga 	 it 	 	of	a	 part 	 icular 	 	child	and	the	surgeon	can	then	work	on	that	 simul 	 ation 	 	and	try	out	different	ways	to	improve	that	 ga 	 it 	 	,	before	he	 actual 	 ly 	 	 commit 	 s 	 	to	an	actual	 s 	 urge 	 ry 	 	.
+that	's	one	project	we	're	 part 	 icular 	 ly 	 	 excit 	 ed 	 	about	,	and	that	's	going	to	start	next	month	.
+just	 final 	 ly 	 	,	 th 	 is 	 	is	 on 	 ly 	 	just	the	 begin 	 ning 	 	.
+we	can	 on 	 ly 	 	do	 s 	 ever 	 al 	 	 behavior 	 s 	 	right	now	.
+the	ai	is	n't	good	 en 	 ough 	 	to	 simul 	 ate 	 	a	full	human	body	.
+the	body	 y 	 es 	 	,	but	not	all	the	motor	 skill 	 s 	 	that	we	have	.
+and	,	i	think	,	we	're	 on 	 ly 	 	there	if	we	can	have	 some 	 thing 	 	like	ballet	 danc 	 ing 	 	.
+right	now	,	we	do	n't	have	that	but	i	'm	 ver 	 y 	 	 s 	 ure 	 	that	we	will	be	able	to	do	that	at	some	stage	.
+we	do	have	one	 un 	 intentional 	 	 danc 	 er 	 	 actual 	 ly 	 	,	the	last	thing	i	'm	going	to	show	you	.
+ th 	 is 	 	was	an	ai	 con 	 tour 	 	that	was	 produce 	 d 	 	and	 evolv 	 ed 	 	--	half	-	 evolv 	 ed 	 	,	i	should	say	--	to	produce	balance	,	 bas 	 ically 	 	.
+so	,	you	kick	the	guy	and	the	guy	's	 suppose 	 d 	 	to	counter	-	balance	.
+that	's	what	we	thought	was	going	to	come	out	of	 th 	 is 	 	.
+but	 th 	 is 	 	is	what	 emerge 	 d 	 	out	of	it	,	in	the	end	.
+ bizarre 	 ly 	 	,	 th 	 is 	 	thing	 do 	 es 	 	n't	have	a	head	.	i	'm	not	 quit 	 e 	 	 s 	 ure 	 	why	.
+so	,	 th 	 is 	 	was	not	 some 	 thing 	 	we	 actual 	 ly 	 	put	in	there	.
+he	just	 start 	 ed 	 	to	create	that	dance	 him 	 self 	 	.
+he	's	 actual 	 ly 	 	a	better	 danc 	 er 	 	than	i	am	,	i	have	to	say	.
+and	what	you	see	after	a	while	--	i	think	he	even	 go 	 es 	 	 in 	 to 	 	a	climax	right	at	the	end	.
+and	i	think	--	there	you	go	.
+so	,	that	all	 happen 	 ed 	 	 autom 	 at 	 ically 	 	.	we	did	n't	put	that	in	there	.
+that	's	just	the	 simul 	 ation 	 	creating	 th 	 is 	 	 it 	 self 	 	,	 bas 	 ically 	 	.
+so	it	's	just	--	 thank 	 s 	 	.
+not	 quit 	 e 	 	john	travolta	yet	,	but	we	're	 work 	 ing 	 	on	that	 a 	 s 	 	well	,	so	 thank 	 s 	 	 ver 	 y 	 	much	for	your	time	.
+ thank 	 s 	 	.
+ca	:	 in 	 credible 	 	.	that	was	 re 	 ally 	 	 in 	 credible 	 	.
+tr	:	 thank 	 s 	 	.
+

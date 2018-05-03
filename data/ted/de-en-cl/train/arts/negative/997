@@ -1,0 +1,56 @@
+es gibt nur ein paar dinge , die uns menschen so zusammenbringen wie wahlen .
+wir unterstützen wahlen , wir wählen in wahlen , wir beobachten wahlen .
+unsere demokratie ist auf wahlen aufgebaut .
+wir alle wissen , warum wir wählen , und wir alle verlassen unser haus am selben tag , um wählen zu gehen .
+wir schätzen es , unsere meinung _UNK_ und die zukunft unsere landes _UNK_ .
+die grundlegende idee ist , dass politiker mandate erhalten , um für uns zu sprechen , um entscheidungen in unserem namen zu fällen , die uns alle betreffen .
+ohne diese mandate wären sie korrupt .
+leider aber macht macht korrupt , und deshalb unternehmen einige leute sehr viel , um an die macht zu kommen und an der macht zu bleiben , so auch böse dinge bei wahlen .
+selbst wenn die idee einer wahl perfekt wäre , bleibt doch der ablauf einer landesweiten wahl ein großes projekt , und große projekte sind chaotisch .
+bei jeder wahl sieht es so aus , als ob irgendwas immer falsch läuft , einige versuchen zu betrügen , oder irgendwas läuft schief - hier verschwindet eine wahlurne , dort bleiben _UNK_ übrig .
+um sicherzustellen , dass so wenig wie möglich falsch laufen kann , haben wir all diese prozeduren bei der wahl .
+nehmen wir an , sie kommen in das _UNK_ und ein wahlhelfer fragt sie nach ihren ausweis , bevor sie den stimmzettel bekommen und in die wahlkabine gebeten werden , um ihren stimmzettel auszufüllen .
+wenn sie zurückkommen , werfen sie ihre stimme in die wahlurne , wo diese mit allen anderen vermischt wird , sodass niemand weiß , für wen sie gestimmt haben .
+wir sollten einmal kurz darüber nachdenken , was passiert , nachdem sie ihre stimme eingeworfen haben .
+die meisten leute pflegen dann nach haue zu gehen mit dem sicheren gefühl , dass ihre stimme gezählt wurde . weil sie sich darauf verlassen , dass das wahlsystem funktioniert .
+sie verlassen sich darauf , dass die wahlhelfer und beobachter ihren job korrekt machen .
+die wahlurnen werden zu den _UNK_ gebracht .
+die _UNK_ werden geöffnet , _UNK_ und die stimmen mühsam gezählt .
+die meisten von uns müssen darauf vertrauen , dass das korrekt für unsere stimme geschieht , und wir alle müssen darauf vertrauen , dass das korrekt für alle stimmen in dieser wahl geschieht .
+also müssen wir vielen leuten vertrauen .
+wir müssen vielen abläufen vertrauen .
+und manchmal müssen wir computern vertrauen .
+man stelle sich vor , mehrere hundert millionen wähler geben mehrere hundert millionen stimmen ab , die alle korrekt gezählt werden müssen , und all das , was möglicherweise dabei schiefgehen kann und all die schlechten schlagzeilen verursacht . da muss man doch verzweifeln bei dem gedanken , die wahlen verbessern zu wollen .
+angesichts all dieser schlechten schlagzeilen haben sich forscher der sache angenommen und darüber nachgedacht , wie wir wahlen ändern können .
+sie haben sich das ganze einmal
+genau unter die lupe genommen : wahlen sollen nachvollziehbar sein .
+wählern sollte es möglich sein zu überprüfen , dass ihre stimmen korrekt gezählt wurden , ohne ein wahlgeheimnis zu verletzen , was ja sehr wichtig ist .
+denn das ist die schwierige frage :
+wie machen wir ein wahlsystem vollkommen überprüfbar und halten dabei die stimmen trotzdem absolut geheim ?
+die lösung , die wir gefunden haben , beruht darauf , computer zu benutzen , ohne von ihnen abhängig zu sein .
+das geheimnis liegt im stimmzettel .
+wenn sie sich diese zettel genau ansehen , werden sie feststellen , dass die _UNK_ auf jedem zettel anders angeordnet ist .
+und das bedeutet , wenn sie ihre wahl getroffen haben und die kandidatenliste abtrennen , kann ich anhand des übrig geblieben teils nicht sagen , für wen sie gestimmt haben .
+auf jedem stimmzettel ist ein _UNK_ wert in form eines 2d - _UNK_ auf der rechten seite .
+der strichcode mag zwar kompliziert verschlüsselt sein , aber das wählen mit diesen _UNK_ ist überhaupt nicht kompliziert .
+wir können den computern die gesamte komplizierte verschlüsselung überlassen und verwenden das blatt dann zur überprüfung .
+man wählt also folgendermaßen : .
+man erhält einen stimmzettel nach dem zufallsprinzip , geht in die wahlkabine , gibt seine stimme ab und trennt sie an der _UNK_ ab .
+dann vernichtet man die kandidatenliste .
+und der _UNK_ teil , der übrig bleibt , ist ihre verschlüsselte stimme .
+sie lassen den wahlhelfer ihre verschlüsselte stimme scannen .
+und weil die stimme ja verschlüsselt ist , kann diese übermittelt , gespeichert , zentral gezählt und auf einer webseite angezeigt werden , die jeder sehen kann , auch sie selbst .
+sie nehmen ihre verschlüsselte stimme als quittung mit nach hause .
+und nachdem die wahlbüros geschlossen wurden , können sie überprüfen , ob ihre stimme gezählt wurde , indem sie ihre quittung mit der stimme auf der webseite vergleichen .
+und nicht vergessen , ihre stimme ist von dem zeitpunkt an , wo sie die wahlkabine verlassen , verschlüsselt . wenn also jetzt ein wahlhelfer herausfinden wollte , wie sie gestimmt haben , so könnte er das nicht .
+falls die regierung herausfinden möchte , für wenn sie gestimmt haben , könnte die das nicht .
+kein hacker kann sich einschalten und herausfinden , für wen sie gestimmt haben .
+kein hacker kann ihre stimme ändern , weil der ihre quittung nicht hat .
+stimmen können nicht verloren gehen , weil auch sie dann ihre beim überprüfen nicht finden würden .
+aber damit nicht genug des wunderbaren :
+wir wollen den ganzen ablauf so transparent machen , dass _UNK_ und internationale beobachter und alle , die das wollen , sich die _UNK_ herunterladen können und selbst nachzählen können .
+sie können prüfen , ob alle stimmen korrekt gezählt worden sind .
+sie können prüfen , ob das verkündete wahlergebnis das richtige ist .
+das sind dann echte wahlen vom volk und für das volk .
+der nächste schritt für unsere demokratie sind also transparente und nachvollziehbare wahlen .
+vielen dank .

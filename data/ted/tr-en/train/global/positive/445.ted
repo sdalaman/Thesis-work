@@ -1,0 +1,188 @@
+nasıl_tr oluyor_tr ,_tr etrafımızı_tr saran_tr bu_tr virüs_tr _UNK__tr ve_tr tıbbi_tr tedavisini_tr nasıl_tr araştırabiliriz_tr ?_tr
+_UNK__tr bütün_tr bilgi_tr _UNK__tr nasıl_tr basit_tr ,_tr elde_tr yapılabilen_tr ,_tr tek_tr bir_tr tanısal_tr teste_tr dönüştürebiliriz_tr ?_tr
+şimdi_tr virüsleri_tr _UNK__tr ilgili_tr ve_tr dışarıdaki_tr virüslerin_tr spektrumuyla_tr ilgili_tr bildiğimiz_tr herşeyi_tr küçük_tr bir_tr çipe_tr dönüştürmek_tr istiyorum_tr diyelim_tr ._tr
+bu_tr proje_tr hakkında_tr konuşmaya_tr başladığımızda_tr --_tr tek_tr bir_tr tanısal_tr testin_tr ,_tr rastgele_tr olarak_tr bütün_tr patojenleri_tr göstermesini_tr nasıl_tr sağlarız_tr --_tr pekala_tr ,_tr bu_tr fikirde_tr bazı_tr sorunlar_tr var_tr ._tr
+en_tr başta_tr ,_tr virüsler_tr biraz_tr karmaşıktır_tr ,_tr ama_tr ayrıca_tr çok_tr hızlı_tr _UNK__tr ._tr
+bu_tr bir_tr _UNK__tr ._tr
+_UNK__tr --_tr bunlar_tr nezle_tr ,_tr çocuk_tr felci_tr ve_tr buna_tr benzer_tr hastalıklar_tr yapan_tr şeyler_tr ._tr
+virüsün_tr dış_tr kabuğuna_tr bakıyorsunuz_tr ,_tr buradaki_tr sarı_tr renk_tr virüsün_tr çok_tr çok_tr hızlı_tr evrimleşen_tr bölümleri_tr ,_tr mavi_tr bölümler_tr ise_tr pek_tr hızlı_tr _UNK__tr ._tr
+i̇nsanlar_tr virüs_tr tanıma_tr ajanları_tr yapmak_tr istediğinde_tr genelde_tr söz_tr konusu_tr olan_tr bu_tr hızlı_tr evrimleşen_tr bölgedir_tr ,_tr çünkü_tr eğer_tr bir_tr şeyler_tr sürekli_tr _UNK__tr nasıl_tr tanıyabiliriz_tr ki_tr ?_tr
+ama_tr evrim_tr bir_tr _UNK__tr :_tr hızlı_tr değişimin_tr olduğu_tr yerde_tr ,_tr ayrıca_tr ultra_tr -_tr koruma_tr da_tr vardır_tr --_tr neredeyse_tr hiç_tr değişmeyen_tr şeyler_tr --_tr
+biz_tr bu_tr meseleye_tr biraz_tr daha_tr dikkatli_tr eğildik_tr ,_tr ve_tr şimdi_tr size_tr verileri_tr göstereceğim_tr ._tr
+bu_tr kendi_tr bilgisayarınızda_tr yapabileceğiniz_tr türden_tr bir_tr şey_tr ._tr
+bu_tr küçük_tr _UNK__tr bir_tr demet_tr aldım_tr ,_tr nezle_tr ,_tr çocuk_tr felci_tr ,_tr bu_tr tarz_tr etkenler_tr ,_tr ve_tr onları_tr küçük_tr bölümlere_tr ayırdım_tr ,_tr
+koksaki_tr virüsü_tr denen_tr bu_tr ilk_tr örneği_tr aldım_tr onu_tr da_tr küçük_tr parçalara_tr ayırdım_tr ._tr
+ve_tr eğer_tr farklı_tr bir_tr virüsün_tr genomunda_tr tamamen_tr aynı_tr olan_tr sekanslar_tr varsa_tr onları_tr maviyle_tr _UNK__tr ._tr
+buradaki_tr bu_tr sekanslar_tr --_tr hiç_tr protein_tr _UNK__tr belirteyim_tr --_tr bütün_tr _UNK__tr neredeyse_tr tamamen_tr aynılar_tr ,_tr yani_tr bu_tr sekansı_tr ,_tr geniş_tr bir_tr virüs_tr spektrumunu_tr tespit_tr etmek_tr için_tr kullanabilirim_tr ,_tr hem_tr de_tr özel_tr bir_tr şeyler_tr yapmama_tr gerek_tr kalmadan_tr ._tr
+şimdi_tr ,_tr burada_tr büyük_tr bir_tr çeşitlilik_tr var_tr :_tr burası_tr hızlı_tr evrimleşmenin_tr olduğu_tr yer_tr ._tr
+aşağıda_tr ise_tr yavaş_tr evrimi_tr görebilirsiniz_tr :_tr daha_tr az_tr çeşitlilik_tr ._tr
+şimdi_tr ,_tr zamanla_tr buraya_tr geldik_tr ,_tr diyelim_tr ki_tr akut_tr arı_tr felci_tr virüsü_tr --_tr eğer_tr bir_tr _UNK__tr muhtemelen_tr buna_tr sahip_tr olmak_tr kötüdür_tr --_tr bu_tr virüsün_tr koksaki_tr virüsü_tr ile_tr neredeyse_tr hiç_tr benzerliği_tr yok_tr ,_tr ama_tr size_tr şunu_tr garanti_tr edebilirim_tr ki_tr ,_tr ekranın_tr sağındaki_tr bu_tr en_tr korunmuş_tr sekanslar_tr buradaki_tr bölgelerle_tr tamamen_tr aynı_tr ._tr
+o_tr zaman_tr biz_tr evrimden_tr yola_tr çıkarak_tr ,_tr "_tr nasıl_tr evrimleştiler_tr "_tr _UNK__tr yola_tr çıkarak_tr ,_tr bu_tr bölgelerdeki_tr dna_tr ve_tr rna_tr elemanlarını_tr seçip_tr ,_tr bu_tr ultra_tr -_tr koruma_tr alanlarını_tr tespit_tr edip_tr ,_tr _UNK__tr tanı_tr ajanı_tr olarak_tr kullanabiliriz_tr ._tr
+tamam_tr ,_tr yani_tr yaptığımız_tr şey_tr bu_tr ,_tr ama_tr bunu_tr nasıl_tr yapacağız_tr ?_tr
+pekala_tr ,_tr uzunca_tr bir_tr zamandır_tr ,_tr yüksek_tr lisans_tr yıllarımdan_tr beri_tr ,_tr dna_tr çipleri_tr yapmakla_tr uğraşıyordum_tr --_tr bu_tr ,_tr dna'nın_tr cam_tr üzerindeki_tr baskısı_tr ._tr
+ve_tr burada_tr gördüğünüz_tr şey_tr :_tr bu_tr küçük_tr tuz_tr noktaları_tr ,_tr cama_tr yapışan_tr dna'lar_tr ,_tr yani_tr bunlardan_tr binlercesini_tr cam_tr _UNK__tr koyup_tr tanıma_tr ajanı_tr olarak_tr kullanabilirim_tr ._tr
+çipimizi_tr hewlett_tr -_tr _UNK__tr götürdük_tr ve_tr atomik_tr kuvvet_tr _UNK__tr bu_tr noktalardan_tr birinin_tr üzerinde_tr kullandık_tr ,_tr ve_tr işte_tr gördüğünüz_tr şey_tr :_tr camın_tr üzerinde_tr dümdüz_tr uzanan_tr dna_tr _UNK__tr görebilirsiniz_tr ._tr
+yani_tr ,_tr yaptığımız_tr tek_tr şey_tr cam_tr üzerine_tr dna_tr baskısı_tr yapmak_tr --_tr küçük_tr düz_tr şeyler_tr --_tr bunlar_tr da_tr patojen_tr _UNK__tr olacak_tr ._tr
+pekala_tr ,_tr laboratuvarda_tr bu_tr çipleri_tr hazırlamaları_tr için_tr küçük_tr robotlar_tr yapıyorum_tr ,_tr ve_tr teknolojinin_tr yayılmasında_tr oldukça_tr _UNK__tr ._tr
+eğer_tr bir_tr _UNK__tr almaya_tr yetecek_tr kadar_tr paranız_tr varsa_tr ,_tr siz_tr de_tr bunlardan_tr birini_tr yapabilirsiniz_tr ._tr sitemize_tr tamamen_tr ücretsiz_tr olarak_tr geniş_tr bir_tr kılavuz_tr koyduk_tr _UNK__tr monte_tr eder_tr gibi_tr
+garajınızda_tr büyük_tr bir_tr dna_tr dizisi_tr makinesi_tr yapabilirsiniz_tr ._tr
+bu_tr kısım_tr bütün_tr acil_tr kapatma_tr _UNK__tr bulunur_tr ._tr
+her_tr önemli_tr makinenin_tr büyük_tr kırmızı_tr bir_tr düğmesi_tr olmalıdır_tr ._tr
+ama_tr gerçekten_tr ,_tr çok_tr güçlü_tr bir_tr şey_tr ._tr
+gerçekten_tr garajınızda_tr dna_tr çipleri_tr yapabilirsiniz_tr ve_tr bazı_tr genetik_tr programları_tr hızla_tr çözebilirsiniz_tr ._tr çok_tr eğlencelidir_tr ._tr
+yani_tr biz_tr ne_tr yaptık_tr --_tr bu_tr gerçekten_tr hoş_tr bir_tr proje_tr --_tr bir_tr solunum_tr virüsü_tr çipi_tr yaparak_tr başladık_tr ._tr
+bundan_tr bahsetmiştim_tr --_tr bilirsiniz_tr ,_tr şu_tr hastaneye_tr gidip_tr de_tr tanı_tr alamadığınız_tr durumlar_tr ?_tr
+pekala_tr ,_tr basitçe_tr bütün_tr insan_tr solunum_tr virüslerini_tr bir_tr çipe_tr yerleştiriyoruz_tr ,_tr ve_tr ölçüm_tr yapmak_tr için_tr uçuk_tr virüsü_tr _UNK__tr ._tr neden_tr olmasın_tr ?_tr
+bir_tr biliminsanı_tr olarak_tr yapacağınız_tr ilk_tr şey_tr ,_tr işlerin_tr yolunda_tr gittiğinden_tr emin_tr olmaktır_tr ._tr
+yaptığımız_tr şey_tr ;_tr doku_tr kültürü_tr hücrelerini_tr aldık_tr bu_tr hücreleri_tr farklı_tr virüslerle_tr enfekte_tr ettik_tr oluşan_tr şeyleri_tr aldık_tr ve_tr bu_tr hücrelerden_tr çıkan_tr _UNK__tr asidi_tr ,_tr genetik_tr materyali_tr florasan_tr _UNK__tr işaretledik_tr ._tr çoğu_tr viral_tr şeyler_tr --_tr ve_tr birleştikleri_tr yerleri_tr görmek_tr için_tr dizi_tr ile_tr birleştirdik_tr ._tr
+şimdi_tr ,_tr eğer_tr dna_tr _UNK__tr _UNK__tr birleşecekler_tr ,_tr ve_tr noktaları_tr _UNK__tr ._tr
+eğer_tr nokta_tr _UNK__tr ,_tr orada_tr belli_tr bir_tr virüs_tr var_tr demek_tr ._tr
+bu_tr çipler_tr işte_tr böyle_tr görünüyor_tr ,_tr ve_tr bu_tr kırmızı_tr noktalar_tr da_tr aslında_tr virüsten_tr gelen_tr sinyaller_tr ._tr
+her_tr nokta_tr farklı_tr bir_tr virüs_tr ailesini_tr ya_tr da_tr virüs_tr türünü_tr temsil_tr ediyor_tr ._tr
+aslında_tr bakarsınız_tr bu_tr zor_tr bir_tr yöntem_tr ,_tr o_tr yüzden_tr buradaki_tr şeyleri_tr küçük_tr _UNK__tr olarak_tr _UNK__tr ,_tr _UNK__tr olarak_tr ayrılmış_tr şekilde_tr ,_tr böylece_tr sonuçları_tr sezgisel_tr olarak_tr göreceksiniz_tr ._tr
+yaptığımız_tr şey_tr ;_tr doku_tr kültürü_tr hücrelerini_tr aldık_tr ve_tr _UNK__tr ile_tr enfekte_tr ettik_tr ,_tr ve_tr işte_tr ,_tr _UNK__tr yanındaki_tr küçük_tr sarı_tr barkodu_tr görebilirsiniz_tr ._tr
+sonra_tr benzer_tr bir_tr şekilde_tr ,_tr parainfluenza_tr -_tr 3_tr ile_tr enfekte_tr ettik_tr bu_tr bir_tr _UNK__tr --_tr ve_tr burada_tr küçük_tr barkodu_tr görüyorsunuz_tr ._tr
+sonra_tr solunum_tr yolunun_tr sinsityal_tr virüsünü_tr denedik_tr ._tr
+bu_tr her_tr yerde_tr günlük_tr bakım_tr merkezlerinin_tr baş_tr _UNK__tr ,_tr _UNK__tr gibidir_tr ._tr
+bu_tr _UNK__tr aynı_tr aile_tr olduğunu_tr görebilirsiniz_tr ,_tr ama_tr parainfluenza_tr -_tr 3'ten_tr farklıdır_tr ,_tr ciddi_tr bir_tr nezle_tr kaparsınız_tr ._tr
+o_tr zaman_tr her_tr virüs_tr için_tr bir_tr imza_tr ,_tr bir_tr parmak_tr izi_tr elde_tr ediyoruz_tr ._tr
+çocuk_tr felci_tr ve_tr rino_tr :_tr aynı_tr _UNK__tr ,_tr birbirlerine_tr çok_tr yakınlar_tr ._tr
+rino_tr nezle_tr yapar_tr ,_tr çocuk_tr felcinin_tr ne_tr olduğunu_tr zaten_tr biliyorsunuz_tr ,_tr bu_tr _UNK__tr farklı_tr olduğunu_tr görebilirsiniz_tr ._tr
+ve_tr _UNK__tr sarkomu_tr yapan_tr _UNK__tr virüsü_tr aşağıya_tr hoş_tr bir_tr imza_tr atıyor_tr ._tr
+yani_tr burada_tr ,_tr bende_tr hangi_tr türden_tr virüs_tr olduğunu_tr söyleyen_tr tek_tr bir_tr şerit_tr tarzı_tr bir_tr şey_tr değil_tr ;_tr _UNK__tr her_tr şeyi_tr temsil_tr eden_tr bir_tr barkod_tr ._tr
+pekala_tr ,_tr bir_tr rinovirüs_tr görebiliyorum_tr ve_tr bu_tr da_tr _UNK__tr küçük_tr _UNK__tr gösterisi_tr ,_tr peki_tr ya_tr farklı_tr rinovirüsler_tr ?_tr
+bende_tr hangi_tr rinovirüs_tr olduğunu_tr nasıl_tr bilebilirim_tr ?_tr
+soğuk_tr _UNK__tr bilinen_tr 102_tr tane_tr _UNK__tr var_tr ,_tr sadece_tr 102_tr tane_tr çünkü_tr insanlar_tr onları_tr toplamaya_tr _UNK__tr :_tr her_tr sene_tr sadece_tr bir_tr iki_tr tane_tr yeni_tr virüs_tr çıkıyor_tr ._tr
+burada_tr dört_tr farklı_tr rhinovirüs_tr var_tr ,_tr ve_tr gözünüzle_tr bile_tr görebilirsiniz_tr ki_tr ,_tr hiç_tr bilgisayarlı_tr numune_tr eşleştirme_tr ,_tr tanımlama_tr programlama_tr _UNK__tr olmadan_tr ,_tr buradaki_tr _UNK__tr diğerlerinden_tr rahatlıkla_tr ayırt_tr edebilirsiniz_tr ._tr
+şimdi_tr ,_tr burada_tr işi_tr ucuza_tr kapatma_tr şansımız_tr var_tr ,_tr çünkü_tr bütün_tr bu_tr _UNK__tr genetik_tr _UNK__tr biliyorum_tr ,_tr hatta_tr daha_tr iyi_tr _UNK__tr için_tr bir_tr de_tr çip_tr tasarladım_tr ,_tr ama_tr daha_tr önce_tr hiç_tr bir_tr genetik_tr _UNK__tr görmeyen_tr rinovirüsler_tr ne_tr olacak_tr ?_tr
+_UNK__tr ne_tr olduğunu_tr bilmiyoruz_tr ,_tr sadece_tr çevreden_tr topluyoruz_tr ._tr
+i̇şte_tr haklarında_tr hiçbir_tr şey_tr bilmediğimiz_tr dört_tr tane_tr rinovirüs_tr --_tr henüz_tr kimse_tr _UNK__tr benzersiz_tr ve_tr fark_tr edilebilir_tr örnekler_tr olduklarını_tr görebilirsiniz_tr ._tr
+gerçekten_tr veya_tr hayalen_tr ,_tr her_tr virüsün_tr parmak_tr izini_tr içeren_tr bir_tr kütüphane_tr _UNK__tr hayal_tr edebilirsiniz_tr ._tr
+ama_tr bu_tr yine_tr ,_tr _UNK__tr balık_tr yakalamak_tr olur_tr ,_tr anlıyorsunuz_tr değil_tr mi_tr ?_tr
+doku_tr kültürü_tr hücreleriniz_tr var_tr :_tr bir_tr sürü_tr virüs_tr ._tr
+peki_tr ya_tr gerçek_tr insanlar_tr ?_tr
+bildiğiniz_tr gibi_tr ,_tr gerçek_tr insanları_tr kontrol_tr edemezsiniz_tr ._tr
+biri_tr öksürdüğünde_tr bardağa_tr neler_tr _UNK__tr hakkında_tr fikriniz_tr yok_tr ,_tr ve_tr muhtemelen_tr çok_tr karmaşıktır_tr ,_tr değil_tr mi_tr ?_tr
+birçok_tr bakteri_tr olabilir_tr ,_tr birden_tr çok_tr virüs_tr olabilir_tr ,_tr ve_tr kesinlikle_tr _UNK__tr genetik_tr materyalini_tr _UNK__tr ,_tr
+o_tr zaman_tr bununla_tr nasıl_tr başa_tr çıkabiliriz_tr ?_tr
+buradaki_tr pozitif_tr kontrolü_tr nasıl_tr yapalım_tr ?_tr
+aslında_tr oldukça_tr basit_tr ._tr
+bu_tr benim_tr ,_tr burun_tr _UNK__tr alırken_tr ._tr
+fikir_tr ise_tr şu_tr ;_tr deneysel_tr olarak_tr insanları_tr virüsle_tr enfekte_tr edelim_tr
+--_tr bu_tr tamamen_tr _UNK__tr onaylıdır_tr ,_tr bunun_tr için_tr ödeme_tr alıyorlar_tr --_tr
+biz_tr deneysel_tr olarak_tr insanlara_tr soğuk_tr algınlığı_tr virüsünü_tr veriyoruz_tr ._tr
+veya_tr ,_tr daha_tr da_tr iyisi_tr ,_tr insanları_tr acil_tr odalarının_tr önüne_tr çıkarın_tr --_tr _UNK__tr ,_tr toplumdan_tr kazanılmış_tr solunum_tr yolu_tr enfeksiyonları_tr ._tr
+_UNK__tr içeri_tr neler_tr gireceğini_tr bilemeyiz_tr ._tr
+peki_tr ,_tr o_tr zaman_tr önce_tr pozitif_tr kontrol_tr ile_tr başlayalım_tr ,_tr biliyoruz_tr ki_tr bu_tr insan_tr bir_tr zamanlar_tr sağlıklıydı_tr ._tr
+_UNK__tr içeri_tr virüs_tr saldırısı_tr oldu_tr ,_tr neler_tr oluyor_tr görelim_tr ._tr
+sıfırıncı_tr gün_tr :_tr hiçbir_tr şey_tr olmadı_tr ._tr
+sağlıklılar_tr ,_tr temizler_tr --_tr bu_tr harika_tr ._tr
+açıkçası_tr ,_tr etrafta_tr gayet_tr sağlıklı_tr bir_tr şekilde_tr yürürken_tr bile_tr burun_tr yolunun_tr virüslerle_tr dolu_tr olacağını_tr düşünmüştük_tr ._tr
+oldukça_tr temiz_tr ._tr eğer_tr _UNK__tr ,_tr oldukça_tr _UNK__tr ._tr
+i̇kinci_tr gün_tr :_tr çok_tr sağlam_tr bir_tr rinovirüs_tr numunemiz_tr oldu_tr ,_tr ve_tr laboratuvarda_tr yaptığımız_tr doku_tr kültürü_tr _UNK__tr elde_tr ettiğimiz_tr virüslere_tr çok_tr benziyor_tr ._tr
+bu_tr harika_tr ,_tr ama_tr hatırlayın_tr ,_tr ucuza_tr kapatmalıyız_tr değil_tr mi_tr ?_tr
+bu_tr adamın_tr burnuna_tr tonlarca_tr virüs_tr yerleştiriyoruz_tr ._tr böylece_tr --_tr --_tr yani_tr ,_tr işe_tr yaramasını_tr istedik_tr ._tr demek_tr istediğim_tr ,_tr gerçekten_tr soğuk_tr _UNK__tr vardı_tr ._tr
+peki_tr ,_tr sokakta_tr yürüyen_tr insanlardan_tr ne_tr haber_tr ?_tr
+burada_tr gizli_tr id_tr kodları_tr ile_tr temsil_tr edilen_tr iki_tr birey_tr var_tr ._tr
+i̇kisinin_tr de_tr _UNK__tr var_tr ;_tr bu_tr örneği_tr laboratuvarda_tr hiç_tr görmemiştik_tr ._tr
+_UNK__tr bir_tr kısmını_tr _UNK__tr ;_tr kimsenin_tr görmediği_tr yeni_tr rinovirüsler_tr ._tr
+hatırlayın_tr ,_tr bu_tr dizide_tr kullandığımız_tr evrimsel_tr olarak_tr korunan_tr _UNK__tr yeni_tr veya_tr tanımlanmamış_tr virüsleri_tr bile_tr tespit_tr etmemizi_tr sağlıyor_tr ,_tr çünkü_tr evrime_tr bakıp_tr neyin_tr korunmuş_tr olduğunu_tr anlıyoruz_tr ._tr
+bir_tr başka_tr adam_tr ._tr burada_tr tanı_tr _UNK__tr oyununu_tr kendiniz_tr oynayabilirsiniz_tr ._tr
+buradaki_tr farklı_tr bloklar_tr bu_tr _UNK__tr virüs_tr ailesindeki_tr farklı_tr virüsleri_tr temsil_tr ediyor_tr ,_tr yani_tr şöyle_tr bir_tr göz_tr gezdirip_tr sinyalin_tr nerede_tr olduğunu_tr görebilirsiniz_tr ._tr
+pekala_tr ,_tr en_tr azından_tr gençlik_tr hastalığı_tr yok_tr ,_tr bu_tr muhtemelen_tr iyidir_tr ._tr
+ama_tr zamanda_tr _UNK__tr bloğa_tr geldiğinizde_tr ,_tr şu_tr solunum_tr yolunun_tr sinsityal_tr virüsünü_tr görüyorsunuz_tr ._tr
+belki_tr çocukları_tr vardır_tr ._tr ve_tr siz_tr de_tr görebilirsiniz_tr ,_tr kan_tr bağı_tr olan_tr bir_tr aile_tr üyesi_tr :_tr _UNK__tr burada_tr da_tr var_tr ._tr
+bu_tr harika_tr ._tr
+i̇şte_tr farklı_tr iki_tr günde_tr numune_tr alınan_tr başka_tr bir_tr birey_tr ,_tr hastaneye_tr pek_tr çok_tr gez_tr gelmiş_tr ._tr
+bu_tr bireyde_tr parainfluenza_tr -_tr 1_tr var_tr ,_tr burada_tr _UNK__tr _UNK__tr gösteren_tr küçük_tr bir_tr şerit_tr olduğunu_tr görebilirsiniz_tr :_tr bu_tr fare_tr _UNK__tr ._tr
+aralarındaki_tr genetik_tr ilişki_tr oldukça_tr yakın_tr ._tr bu_tr çok_tr eğlenceli_tr ._tr
+o_tr halde_tr ,_tr çipimizi_tr yaptık_tr ._tr
+üzerinde_tr şu_tr ana_tr kadar_tr _UNK__tr bütün_tr virüsleri_tr barındıran_tr bir_tr çip_tr yaptık_tr ._tr
+neden_tr olmasın_tr ?_tr her_tr bitki_tr virüsü_tr ,_tr her_tr böcek_tr virüsü_tr ,_tr her_tr deniz_tr virüsü_tr ._tr
+genbank'ta_tr bulabildiğimiz_tr her_tr şey_tr --_tr bu_tr _UNK__tr sekans_tr _UNK__tr --_tr
+şimdi_tr bu_tr çipi_tr kullanalım_tr ._tr niye_tr kullanıyoruz_tr ?_tr
+pekala_tr ,_tr her_tr şeyden_tr önce_tr ,_tr bunun_tr gibi_tr büyük_tr bir_tr _UNK__tr olduğunda_tr ,_tr birazcık_tr daha_tr fazla_tr _UNK__tr ihtiyacınız_tr olur_tr ,_tr o_tr yüzden_tr otomatik_tr tanı_tr koyan_tr bir_tr sistem_tr tasarladık_tr ._tr
+fikir_tr şöyle_tr ;_tr sanal_tr _UNK__tr var_tr çünkü_tr asla_tr her_tr virüsten_tr örnek_tr alamayız_tr ;_tr bu_tr imkansız_tr olurdu_tr ._tr ama_tr sanal_tr numuneler_tr elde_tr edebiliriz_tr ,_tr ve_tr gözlemlediğimiz_tr sonuçla_tr karşılaştırırız_tr ,_tr bu_tr çok_tr karmaşık_tr bir_tr karışım_tr olur_tr ve_tr bunu_tr bir_tr rinovirüs_tr olup_tr olmadığını_tr gösteren_tr bir_tr tür_tr _UNK__tr ile_tr birlikte_tr gelir_tr ._tr
+i̇şte_tr böyle_tr görünüyor_tr ._tr
+eğer_tr ,_tr mesela_tr ,_tr bir_tr hücre_tr kültürü_tr _UNK__tr bu_tr kronik_tr olarak_tr papilloma_tr ile_tr enfekte_tr olmuştur_tr ,_tr burada_tr küçük_tr bir_tr bilgisayar_tr çıktısı_tr alırsınız_tr ,_tr ve_tr _UNK__tr bize_tr bunun_tr muhtemelen_tr papilloma_tr tip_tr 18_tr olduğunu_tr söyler_tr ._tr
+bu_tr ,_tr buradaki_tr herbir_tr hücre_tr kültürünün_tr kronik_tr olarak_tr enfekte_tr olduğu_tr ajan_tr ._tr
+o_tr zaman_tr daha_tr zor_tr bir_tr şeyler_tr yapalım_tr ._tr
+çağrı_tr cihazını_tr kliniğe_tr koyuyoruz_tr ._tr
+biri_tr _UNK__tr zaman_tr ve_tr hastane_tr tanı_tr _UNK__tr için_tr ne_tr yapacağını_tr bilmediği_tr zaman_tr ,_tr bizi_tr arıyorlar_tr ._tr
+fikir_tr bu_tr ,_tr bu_tr sistemi_tr körfez_tr bölgesine_tr kuruyoruz_tr ._tr
+bu_tr vaka_tr raporu_tr 3_tr hafta_tr önce_tr oldu_tr ._tr
+28_tr yaşında_tr sağlıklı_tr bir_tr kadın_tr ,_tr seyahat_tr hikayesi_tr yok_tr ,_tr _UNK__tr içmiyor_tr ,_tr alkol_tr kullanmıyor_tr ._tr
+10_tr gündür_tr ateşi_tr var_tr ,_tr gece_tr _UNK__tr ,_tr kanlı_tr _UNK__tr ,_tr öksürdüğünde_tr kan_tr geliyor_tr ,_tr kas_tr ağrıları_tr var_tr ._tr
+hastaneye_tr gitti_tr ve_tr ona_tr bazı_tr antibiyotikler_tr verdiler_tr ,_tr doğru_tr ,_tr ve_tr sonra_tr eve_tr gönderdiler_tr ._tr
+on_tr gün_tr boyunca_tr ateşi_tr düşmedi_tr ve_tr tekrar_tr geldi_tr --_tr hala_tr ateşi_tr vardı_tr --_tr ve_tr hipoksik_tr durumdaydı_tr --_tr akciğerlerinde_tr yeteri_tr kadar_tr oksijen_tr yoktu_tr ._tr
+bir_tr bt_tr taraması_tr yaptılar_tr ._tr
+buradaki_tr karanlık_tr siyah_tr şeyler_tr normal_tr akciğer_tr ._tr
+beyaz_tr şeyler_tr ise_tr --_tr iyi_tr değil_tr ._tr
+bu_tr tarz_tr bir_tr ağaç_tr -_tr tomurcuk_tr yapısı_tr iltihap_tr olduğunu_tr gösterir_tr ;_tr bir_tr enfeksiyon_tr olması_tr muhtemel_tr ._tr
+tamam_tr ._tr hastaya_tr daha_tr sonra_tr üçüncü_tr nesil_tr bir_tr _UNK__tr antibiyotik_tr ve_tr _UNK__tr verildi_tr ,_tr ve_tr üçüncü_tr gün_tr ,_tr işe_tr yaramadı_tr ;_tr akut_tr yetmezliğe_tr ilerledi_tr ._tr
+onu_tr _UNK__tr etmeleri_tr gerekti_tr ,_tr boğazından_tr bir_tr tüp_tr geçirdiler_tr ve_tr mekanik_tr olarak_tr hava_tr vermeye_tr başladılar_tr ._tr
+artık_tr yardım_tr olmadan_tr nefes_tr _UNK__tr ._tr
+şimdi_tr ne_tr yapalım_tr ?_tr bilmiyoruz_tr ._tr
+antibiyotikleri_tr değiştirelim_tr ,_tr başka_tr bir_tr antibiyotiğe_tr geçtiler_tr ,_tr tamiflu_tr verdiler_tr ,_tr
+--_tr neden_tr grip_tr olduğunu_tr düşündükleri_tr pek_tr açık_tr değil_tr --_tr ama_tr tamiflu'ya_tr geçtiler_tr ._tr
+altıncı_tr gün_tr ,_tr artık_tr havlu_tr attılar_tr ._tr
+başka_tr seçeneğiniz_tr yoksa_tr açık_tr akciğer_tr biyopsisi_tr yaparsınız_tr ._tr
+sadece_tr bu_tr işlemde_tr yüzde_tr sekiz_tr ölüm_tr oranı_tr var_tr ,_tr bu_tr kadar_tr açık_tr --_tr peki_tr bundan_tr ne_tr öğreniyorlar_tr ?_tr
+açık_tr akciğer_tr _UNK__tr görüyorsunuz_tr ._tr
+ben_tr patolog_tr değilim_tr ,_tr ama_tr bundan_tr fazlasını_tr söyleyemezsiniz_tr ._tr
+tek_tr söyleyebileceğiniz_tr birçok_tr _UNK__tr olduğu_tr :_tr _UNK__tr ._tr
+bu_tr sonuç_tr vermiyordu_tr :_tr işte_tr patoloji_tr raporu_tr ._tr
+o_tr zaman_tr ne_tr diye_tr test_tr yaptılar_tr ?_tr
+elbette_tr kendi_tr testleri_tr var_tr ,_tr ve_tr her_tr yerde_tr bulunabilen_tr her_tr türlü_tr bakteriyi_tr ,_tr mantarı_tr ,_tr virüsü_tr test_tr etmek_tr için_tr 70_tr tane_tr farklı_tr test_tr yaptılar_tr ._tr sars_tr ,_tr _UNK__tr virüs_tr ,_tr hiv_tr ,_tr _UNK__tr --_tr bunların_tr hepsi_tr ._tr
+hepsi_tr negatif_tr çıktı_tr ._tr testlerin_tr maliyeti_tr 100,000_tr dolardan_tr fazla_tr ._tr
+demek_tr istediğim_tr ,_tr bu_tr kadın_tr için_tr sınırları_tr zorladılar_tr ._tr
+ve_tr hastanedeki_tr sekizinci_tr gün_tr ,_tr bizi_tr aradılar_tr ._tr
+bize_tr _UNK__tr _UNK__tr örneği_tr verdiler_tr --_tr bilirsiniz_tr ,_tr _UNK__tr alınan_tr bir_tr miktar_tr sıvı_tr ,_tr işte_tr aldıkları_tr bu_tr tüpün_tr içinde_tr --_tr ve_tr bize_tr verdiler_tr ._tr
+biz_tr bunu_tr çipe_tr koyduk_tr ;_tr ne_tr görüyoruz_tr ?_tr i̇şte_tr ,_tr parainfluenza_tr -_tr 4_tr ._tr
+i̇yi_tr güzel_tr de_tr ,_tr parainfluenza_tr -_tr 4_tr de_tr neyin_tr nesi_tr ?_tr
+kimse_tr parainfluenza_tr -_tr 4_tr için_tr test_tr yapmaz_tr ._tr kimse_tr onu_tr kaale_tr almaz_tr ._tr
+hatta_tr ,_tr pek_tr sekanslama_tr da_tr yapılmamıştır_tr ._tr
+sadece_tr bir_tr kısmı_tr _UNK__tr ._tr
+neredeyse_tr hiç_tr epidemiyoloji_tr ya_tr da_tr çalışma_tr yok_tr ._tr
+kimse_tr dikkate_tr bile_tr almamış_tr ,_tr çünkü_tr kimsede_tr solunum_tr yetmezliği_tr yapabileceğine_tr dair_tr bir_tr ipucu_tr yok_tr ._tr
+peki_tr neden_tr ?_tr sadece_tr ilim_tr ._tr hiç_tr veri_tr yok_tr --_tr ağır_tr ya_tr da_tr hafif_tr hastalığa_tr sebep_tr olduğunu_tr destekleyecek_tr hiç_tr veri_tr yok_tr ._tr
+ama_tr şurası_tr açık_tr ki_tr ,_tr elimizde_tr sağlığı_tr dibe_tr vuran_tr bir_tr insan_tr vakası_tr var_tr ._tr
+tamam_tr ,_tr bu_tr sadece_tr bir_tr vaka_tr ._tr
+son_tr iki_tr dakikada_tr size_tr son_tr bir_tr şey_tr söyleyeceğim_tr ._tr bu_tr henüz_tr yayınlanmadı_tr --_tr yarın_tr çıkacak_tr --_tr yeni_tr bir_tr şey_tr bulmak_tr veya_tr bir_tr kapı_tr açmak_tr için_tr bu_tr çipi_tr nasıl_tr _UNK__tr dair_tr bir_tr vaka_tr ._tr
+prostat_tr kanseri_tr ._tr prostat_tr kanseriyle_tr ilgili_tr pek_tr istatistik_tr vermeme_tr gerek_tr yok_tr ._tr çoğunuz_tr zaten_tr biliyorsunuz_tr :_tr abd'deki_tr kanser_tr ölümlerinin_tr üçüncü_tr sıradaki_tr sebebi_tr ._tr
+bir_tr sürü_tr risk_tr faktörü_tr var_tr ,_tr ama_tr ayrıca_tr genetik_tr yatkınlık_tr da_tr söz_tr konusu_tr ._tr
+prostat_tr kanseri_tr hastalarının_tr belki_tr de_tr yüzde_tr 10'u_tr ,_tr genetik_tr olarak_tr yatkın_tr insanlardır_tr ._tr
+ve_tr ilişki_tr çalışmalarında_tr bu_tr erken_tr prostat_tr kanseri_tr konusuyla_tr ilgili_tr _UNK__tr ilk_tr gen_tr ,_tr adına_tr rnasel_tr dediğimiz_tr bu_tr _UNK__tr ._tr
+ne_tr bu_tr ?_tr bir_tr antiviral_tr savunma_tr enzimi_tr mi_tr ?_tr
+oturup_tr biraz_tr düşünelim_tr ._tr antiviral_tr savunma_tr sisteminde_tr mutasyon_tr olan_tr ,_tr hasar_tr olan_tr erkekler_tr neden_tr prostat_tr kanseri_tr oluyor_tr ?_tr
+pek_tr mantıklı_tr görünmüyor_tr --_tr tabi_tr eğer_tr bir_tr virüs_tr yoksa_tr ._tr
+tümörleri_tr _UNK__tr ekledik_tr --_tr şimdi_tr 100'den_tr fazla_tr tümör_tr var_tr --_tr
+kimin_tr rnasel_tr geninde_tr hasar_tr olduğunu_tr ,_tr kimde_tr olmadığını_tr biliyoruz_tr ._tr
+burada_tr size_tr _UNK__tr gelen_tr sinyali_tr gösteriyorum_tr ,_tr ve_tr retroviral_tr _UNK__tr bloklarını_tr gösteriyorum_tr ._tr
+ve_tr bu_tr sinyale_tr bakarak_tr diyorum_tr ki_tr ,_tr bu_tr antiviral_tr savunma_tr _UNK__tr _UNK__tr olan_tr bir_tr adamın_tr ,_tr eğer_tr tümörü_tr de_tr varsa_tr ,_tr muhtemelen_tr --_tr %_tr 40_tr ihtimalle_tr --_tr yeni_tr bir_tr retrovirüs_tr ortaya_tr koyan_tr bir_tr imzası_tr vardır_tr ._tr
+tamam_tr ,_tr bu_tr çok_tr vahşice_tr ._tr nedir_tr peki_tr ?_tr
+bütün_tr virüsü_tr klonladık_tr ._tr
+öncelikle_tr şunu_tr belirteyim_tr ,_tr küçük_tr bir_tr otomatik_tr tahmin_tr bize_tr bu_tr virüsün_tr fare_tr virüsüne_tr çok_tr benzediğini_tr söyledi_tr ._tr
+ama_tr bu_tr çok_tr da_tr anlam_tr ifade_tr etmiyor_tr ,_tr o_tr yüzden_tr bütün_tr yapıyı_tr klonladık_tr ._tr
+şu_tr anda_tr size_tr gösterdiğim_tr viral_tr genom_tr nedir_tr ?_tr
+klasik_tr bir_tr gama_tr retrovirüs_tr ,_tr ama_tr tamamen_tr yeni_tr ;_tr kimse_tr daha_tr önce_tr görmemişti_tr ._tr
+en_tr yakın_tr akrabası_tr bir_tr farelerden_tr geliyor_tr ,_tr o_tr zaman_tr buna_tr "_tr farklı_tr çoğalan_tr "_tr anlamında_tr _UNK__tr retrovirüs_tr diyebiliriz_tr çünkü_tr fareden_tr farklı_tr bir_tr türü_tr enfekte_tr ediyor_tr ._tr
+bu_tr ,_tr bizi_tr diğer_tr virüslerle_tr olan_tr ilişkisini_tr gösteren_tr küçük_tr bir_tr _UNK__tr ağaç_tr ._tr
+şu_tr ana_tr kadar_tr birçok_tr hastaya_tr uyguladık_tr ,_tr ve_tr hepsinin_tr birbirinden_tr bağımsız_tr enfeksiyonlar_tr olduğunu_tr söyleyebiliriz_tr ._tr
+hepsinde_tr aynı_tr virüs_tr var_tr ,_tr ama_tr bu_tr virüsleri_tr farklı_tr yerlerden_tr aldıklarını_tr ispatlamaya_tr yetecek_tr kadar_tr birbirlerinden_tr farklılar_tr ._tr
+gerçekten_tr dokuda_tr mı_tr ?_tr bunu_tr söyleyip_tr bitiriyorum_tr ._tr evet_tr
+bu_tr tümör_tr dokusu_tr _UNK__tr dilimler_tr alıyoruz_tr ve_tr virüsü_tr yerleştirmek_tr için_tr malzemeyi_tr kullanıyoruz_tr ,_tr ve_tr içinde_tr viral_tr parçacıklar_tr olan_tr hücreler_tr görüyoruz_tr ._tr
+bu_tr adamlarda_tr gerçekten_tr bu_tr virüs_tr var_tr ._tr
+bu_tr virüs_tr prostat_tr kanseri_tr yapıyor_tr mu_tr ?_tr
+aslında_tr burada_tr söylediklerim_tr _UNK__tr ima_tr etmiyor_tr ._tr bilmiyorum_tr ._tr
+_UNK__tr bağlantısı_tr var_tr mı_tr ?_tr bilmiyorum_tr ._tr
+vakayı_tr oluşturan_tr sadece_tr bu_tr adamların_tr daha_tr hassas_tr olması_tr mı_tr ?_tr
+olabilir_tr ._tr ve_tr kanserle_tr hiç_tr ilişkisi_tr olmayabilir_tr ._tr
+ama_tr bu_tr bir_tr kapı_tr ._tr
+virüsün_tr varlığıyla_tr kansere_tr yol_tr açan_tr genetik_tr mutasyon_tr arasında_tr oldukça_tr güçlü_tr bir_tr bağlantı_tr var_tr ._tr
+bulunduğumuz_tr nokta_tr burası_tr ._tr
+korkarım_tr bu_tr cevaptan_tr çok_tr sorulara_tr yol_tr açıyor_tr ,_tr ama_tr bu_tr tam_tr da_tr ,_tr bilirsiniz_tr ,_tr bilimin_tr gerçekten_tr iyi_tr olduğu_tr şey_tr ._tr
+bunların_tr hepsi_tr laboratuvar_tr milleti_tr tarafından_tr yapıldı_tr ;_tr çoğunu_tr kendi_tr üzerime_tr alamam_tr ._tr
+bu_tr ,_tr ben_tr ve_tr don_tr arasındaki_tr bir_tr işbirliği_tr ._tr
+bu_tr ,_tr laboratuvarımda_tr projeyi_tr başlatan_tr adam_tr ,_tr ve_tr bu_tr da_tr işin_tr prostat_tr kısmını_tr yapan_tr adam_tr ._tr
+çok_tr teşekkür_tr ederim_tr ._tr

@@ -1,0 +1,60 @@
+one	of	the	 big 	 gest 	 	 challeng 	 es 	 	in	computer	 graphic 	 s 	 	 ha 	 s 	 	 be 	 en 	 	 be 	 ing 	 	able	to	create	a	photo	-	real	,	digital	human	face	.
+and	one	of	the	 reason 	 s 	 	it	is	so	difficult	is	that	,	 un 	 like 	 	 alien 	 s 	 	and	 dinosaur 	 s 	 	,	we	look	at	human	 face 	 s 	 	every	day	.
+they	are	 ver 	 y 	 	 import 	 ant 	 	to	how	we	communicate	with	each	other	.
+ a 	 s 	 	a	result	,	we	're	tuned	in	to	the	 subtle 	 st 	 	 thing 	 s 	 	that	could	possibly	be	wrong	with	a	computer	 render 	 ing 	 	,	in	order	to	 believ 	 e 	 	 whet 	 her 	 	these	 thing 	 s 	 	are	realistic	.
+and	what	i	'm	going	to	do	in	the	next	five	 minute 	 s 	 	is	take	you	through	a	process	where	we	 tri 	 ed 	 	to	create	a	 reason 	 ably 	 	photo	-	realistic	computer	-	generated	face	,	using	some	computer	 graphic 	 s 	 	technology	we	've	 develop 	 ed 	 	,	and	 al 	 so 	 	some	 collabor 	 ators 	 	at	a	company	 call 	 ed 	 	image	 metric 	 s 	 	.
+and	we	're	going	to	try	to	do	a	photo	-	real	face	of	an	actress	named	emily	o'brien	,	who	is	right	there	.
+and	that	's	 actual 	 ly 	 	a	 complete 	 ly 	 	computer	-	generated	 render 	 ing 	 	of	her	face	.
+by	the	end	of	the	talk	,	we	're	going	to	see	it	move	.
+the	way	that	we	did	 th 	 is 	 	is	we	 tri 	 ed 	 	to	start	with	emily	 her 	 self 	 	,	who	was	 gr 	 acious 	 	 en 	 ough 	 	to	come	to	our	 labor 	 atory 	 	in	marina	del	rey	,	and	 s 	 it 	 	for	a	session	in	light	stage	5	.
+ th 	 is 	 	is	a	face	-	 s 	 canning 	 	sphere	,	with	156	white	leds	all	around	that	allow	us	to	photograph	her	in	a	 s 	 eries 	 	of	 ver 	 y 	 	controlled	 illumi 	 nation 	 	 condition 	 s 	 	.
+and	the	 light 	 ing 	 	that	we	use	these	 day 	 s 	 	 look 	 s 	 	 some 	 thing 	 	like	 th 	 is 	 	.
+we	shoot	all	of	these	 photograph 	 s 	 	in	about	three	 second 	 s 	 	.
+and	we	 bas 	 ically 	 	capture	 en 	 ough 	 	information	with	video	 project 	 or 	 	 pattern 	 s 	 	that	 d 	 rape 	 	over	the	 con 	 tour 	 s 	 	of	her	face	,	and	different	principle	 direction 	 s 	 	of	light	from	the	light	stage	,	to	figure	out	both	the	coarse	-	scale	and	the	fine	-	scale	detail	of	her	face	.
+if	we	zoom	in	on	 th 	 is 	 	photograph	right	here	,	we	can	see	it	's	a	 re 	 ally 	 	nice	photograph	to	have	of	her	,	 be 	 cause 	 	she	is	lit	from	 absolute 	 ly 	 	 every 	 where 	 	at	the	same	time	to	get	a	nice	image	of	her	 fa 	 cial 	 	 text 	 ure 	 	.
+and	in	 add 	 ition 	 	,	we	've	 actual 	 ly 	 	used	 polar 	 izer 	 s 	 	on	all	the	 light 	 s 	 	--	just	like	 polar 	 ized 	 	 s 	 un 	 glass 	 es 	 	can	block	the	 gl 	 are 	 	off	of	the	road	,	 polar 	 izer 	 s 	 	can	block	the	shine	off	of	the	skin	,	so	we	do	n't	get	all	 t 	 hose 	 	 specul 	 ar 	 	 reflect 	 ions 	 	to	take	 th 	 is 	 	map	.
+now	,	if	we	turn	the	 polar 	 izer 	 s 	 	around	just	a	little	bit	,	we	can	 actual 	 ly 	 	 br 	 ing 	 	that	 specul 	 ar 	 	 reflect 	 ion 	 	of	the	skin	back	in	,	and	you	can	see	she	 look 	 s 	 	kind	of	 shin 	 y 	 	and	 oil 	 y 	 	at	 th 	 is 	 	point	.
+if	you	take	the	 differ 	 ence 	 	between	these	two	 image 	 s 	 	here	,	you	can	get	an	image	lit	from	the	entire	sphere	of	light	of	just	the	shine	off	of	emily	's	skin	.
+i	do	n't	think	any	photograph	like	 th 	 is 	 	had	ever	 be 	 en 	 	taken	before	we	had	 d 	 one 	 	 th 	 is 	 	.
+and	 th 	 is 	 	is	 ver 	 y 	 	 import 	 ant 	 	light	to	capture	,	 be 	 cause 	 	 th 	 is 	 	is	the	light	that	 reflect 	 s 	 	off	the	first	surface	of	the	skin	.
+it	 do 	 es 	 	n't	get	 under 	 neath 	 	the	 trans 	 lu 	 cent 	 	 layer 	 s 	 	of	the	skin	and	blur	out	.
+and	,	 a 	 s 	 	a	result	,	it	's	a	 ver 	 y 	 	good	cue	to	the	 detail 	 ed 	 	shape	of	the	skin	-	pore	structure	and	all	of	the	fine	 wrinkl 	 es 	 	that	all	of	us	have	,	the	 thing 	 s 	 	that	 actual 	 ly 	 	make	us	look	like	real	 human 	 s 	 	.
+so	,	if	we	use	information	that	 come 	 s 	 	off	of	 th 	 is 	 	 specul 	 ar 	 	 reflect 	 ion 	 	,	we	can	go	from	a	 tradition 	 al 	 	face	 s 	 can 	 	that	might	have	the	gross	 con 	 tour 	 s 	 	of	the	face	and	the	 bas 	 ic 	 	shape	,	and	augment	it	with	information	that	 put 	 s 	 	in	all	of	that	skin	pore	structure	and	fine	 wrinkl 	 es 	 	.
+and	,	even	more	 import 	 ant 	 ly 	 	,	since	 th 	 is 	 	is	a	 photo 	 metric 	 	process	that	 on 	 ly 	 	 take 	 s 	 	three	 second 	 s 	 	to	capture	,	we	can	shoot	emily	in	just	part	of	an	afternoon	,	in	 man 	 y 	 	different	 fa 	 cial 	 	 pose 	 s 	 	and	 fa 	 cial 	 	 express 	 ions 	 	.
+so	,	here	you	can	see	her	moving	her	 eye 	 s 	 	around	,	moving	her	mouth	around	.
+and	these	we	're	 actual 	 ly 	 	going	to	use	to	create	a	photo	-	real	digital	character	.
+if	you	take	a	look	at	these	 s 	 can 	 s 	 	that	we	have	of	emily	,	you	can	see	that	the	human	face	 do 	 es 	 	an	enormous	amount	of	 amaz 	 ing 	 	 thing 	 s 	 	 a 	 s 	 	it	 go 	 es 	 	 in 	 to 	 	different	 fa 	 cial 	 	 express 	 ions 	 	.
+you	can	see	 thing 	 s 	 	.	not	 on 	 ly 	 	the	face	shape	 change 	 s 	 	,	but	all	 sort 	 s 	 	of	different	skin	 buck 	 ling 	 	and	skin	 wrinkl 	 ing 	 	 occur 	 s 	 	.
+you	can	see	that	the	skin	pore	structure	 change 	 s 	 	 enormous 	 ly 	 	from	 stretch 	 ed 	 	skin	 pore 	 s 	 	to	the	regular	skin	 text 	 ure 	 	.
+you	can	see	the	 fur 	 row 	 s 	 	in	the	brow	and	how	the	 micro 	 structure 	 	 change 	 s 	 	there	.
+you	can	see	 muscle 	 s 	 	 pull 	 ing 	 	down	at	 fl 	 esh 	 	to	 br 	 ing 	 	her	 eye 	 brow 	 s 	 	down	.
+her	 muscle 	 s 	 	 bulg 	 ing 	 	in	her	 fore 	 head 	 	when	she	 win 	 ce 	 s 	 	like	that	.
+in	 add 	 ition 	 	to	 th 	 is 	 	kind	of	high	-	 re 	 solution 	 	 geo 	 metry 	 	,	since	it	's	all	 capture 	 d 	 	with	 camera 	 s 	 	,	we	've	got	a	great	 text 	 ure 	 	map	to	use	for	the	face	.
+and	by	looking	at	how	the	different	color	 channel 	 s 	 	of	the	 illumi 	 nation 	 	,	the	red	and	the	green	and	the	blue	,	diffuse	the	light	 different 	 ly 	 	,	we	can	come	up	with	a	way	of	 s 	 had 	 ing 	 	the	skin	on	the	computer	.
+then	,	 in 	 stead 	 	of	looking	like	a	 plast 	 er 	 	 mann 	 equ 	 in 	 	,	it	 actual 	 ly 	 	 look 	 s 	 	like	it	's	made	out	of	living	human	 fl 	 esh 	 	.
+and	 th 	 is 	 	is	what	we	used	to	give	to	the	company	image	 metric 	 s 	 	to	create	a	 rig 	 ged 	 	,	digital	version	of	emily	.
+we	're	just	 see 	 ing 	 	the	coarse	-	scale	 geo 	 metry 	 	here	.
+but	they	 bas 	 ically 	 	 create 	 d 	 	a	digital	puppet	of	her	,	where	you	can	pull	on	these	 vari 	 ous 	 	 string 	 s 	 	,	and	it	 actual 	 ly 	 	 move 	 s 	 	her	face	in	ways	that	are	 complete 	 ly 	 	 consist 	 ent 	 	with	the	 s 	 can 	 s 	 	that	we	took	.
+and	,	in	 add 	 ition 	 	to	the	coarse	-	scale	 geo 	 metry 	 	,	they	 al 	 so 	 	used	all	of	that	detail	to	create	a	set	of	what	are	 call 	 ed 	 	``	 dis 	 placement 	 	 map 	 s 	 	``	that	animate	 a 	 s 	 	well	.
+these	are	the	 dis 	 placement 	 	 map 	 s 	 	here	.
+and	you	can	see	 t 	 hose 	 	different	 wrinkl 	 es 	 	 actual 	 ly 	 	show	up	 a 	 s 	 	she	 animate 	 s 	 	.
+so	the	next	process	was	then	to	animate	her	.
+we	 actual 	 ly 	 	used	one	of	her	own	 performance 	 s 	 	to	provide	the	source	data	.
+so	,	by	 analyz 	 ing 	 	 th 	 is 	 	video	with	computer	vision	 techni 	 que 	 s 	 	,	they	 we 	 re 	 	able	to	drive	the	 fa 	 cial 	 	rig	with	the	computer	-	generated	performance	.
+so	what	you	're	going	to	see	now	,	after	 th 	 is 	 	,	is	a	 complete 	 ly 	 	photo	-	real	digital	face	.
+we	can	turn	the	volume	up	a	little	bit	if	that	's	 avail 	 able 	 	.
+emily	:	image	 metric 	 s 	 	is	a	 marker 	 less 	 	,	performance	-	driven	 anim 	 ation 	 	company	.
+we	 special 	 ize 	 	in	high	-	quality	 fa 	 cial 	 	 anim 	 ation 	 	for	video	 game 	 s 	 	and	 film 	 s 	 	.
+image	 metric 	 s 	 	is	a	 marker 	 less 	 	,	performance	-	driven	 anim 	 ation 	 	company	.
+we	 special 	 ize 	 	in	high	quality	 fa 	 cial 	 	 anim 	 ation 	 	for	video	 game 	 s 	 	and	 film 	 s 	 	.
+paul	debevec	:	so	,	if	we	break	that	down	 in 	 to 	 	 layer 	 s 	 	,	here	's	that	diffuse	component	we	saw	in	the	first	slide	.
+here	is	the	 specul 	 ar 	 	component	 anim 	 ating 	 	.
+you	can	see	all	the	 wrinkl 	 es 	 	 happen 	 ing 	 	there	.
+and	there	is	the	 under 	 ly 	 ing 	 	 wire 	 frame 	 	mesh	.
+and	that	is	emily	 her 	 self 	 	.
+now	,	where	are	we	going	with	 th 	 is 	 	here	?
+we	've	gone	a	little	bit	beyond	light	stage	5.	 th 	 is 	 	is	light	stage	6	,	and	we	're	looking	at	taking	 th 	 is 	 	technology	and	 app 	 ly 	 ing 	 	it	to	whole	human	bodies	.
+ th 	 is 	 	is	bruce	lawmen	,	one	of	our	 research 	 ers 	 	in	the	group	,	who	 gr 	 acious 	 ly 	 	 agree 	 d 	 	to	get	 capture 	 d 	 	running	in	the	light	stage	.
+and	let	's	take	a	look	at	a	computer	-	generated	version	of	bruce	,	running	in	a	new	environment	.
+and	thank	you	 ver 	 y 	 	much	.
+

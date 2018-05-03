@@ -1,0 +1,115 @@
+the	story	 start 	 s 	 	in	kenya	in	december	of	2007	,	when	there	was	a	 disput 	 ed 	 	 p 	 resident 	 ial 	 	election	,	and	in	the	 im 	 mediate 	 	 after 	 math 	 	of	that	election	,	there	was	an	 out 	 break 	 	of	ethnic	violence	.
+and	there	was	a	lawyer	in	nairobi	,	ory	okolloh	--	who	some	of	you	may	know	from	her	tedtalk	--	who	 beg 	 an 	 	 b 	 logging 	 	about	it	on	her	 s 	 ite 	 	,	kenyan	pundit	.
+and	 short 	 ly 	 	after	the	election	and	the	 out 	 break 	 	of	violence	,	the	government	 sudden 	 ly 	 	 impose 	 d 	 	a	significant	media	 black 	 out 	 	.
+and	so	 web 	 log 	 s 	 	went	from	 be 	 ing 	 	 comment 	 ary 	 	 a 	 s 	 	part	of	the	media	 land 	 s 	 cape 	 	to	 be 	 ing 	 	a	critical	part	of	the	media	 land 	 s 	 cape 	 	in	 try 	 ing 	 	to	understand	where	the	violence	was	.
+and	okolloh	 solicit 	 ed 	 	from	her	 comment 	 ers 	 	more	information	about	what	was	going	on	.
+the	 comment 	 s 	 	 beg 	 an 	 	 pour 	 ing 	 	in	,	and	okolloh	would	 coll 	 ate 	 	them	.	she	would	post	them	.
+and	she	 quick 	 ly 	 	 s 	 aid 	 	,	``	it	's	too	much	.
+i	could	do	 th 	 is 	 	all	day	every	day	and	i	ca	n't	keep	up	.
+there	is	more	information	about	what	's	going	on	in	kenya	right	now	than	any	one	person	can	manage	.
+if	 on 	 ly 	 	there	was	a	way	to	 autom 	 ate 	 	 th 	 is 	 	.	``
+and	two	 programm 	 ers 	 	who	read	her	blog	held	 the 	 ir 	 	 hand 	 s 	 	up	and	 s 	 aid 	 	,	``	we	could	do	that	,	``	and	in	72	 hour 	 s 	 	,	they	 launch 	 ed 	 	ushahidi	.
+ushahidi	--	the	name	 mean 	 s 	 	``	witness	``	or	``	 test 	 im 	 ony 	 	``	in	swahili	--	is	a	 ver 	 y 	 	simple	way	of	taking	 report 	 s 	 	from	the	field	,	 whet 	 her 	 	it	's	from	the	web	or	,	 critical 	 ly 	 	,	via	mobile	 phone 	 s 	 	and	sms	,	 aggreg 	 ating 	 	it	and	 put 	 ting 	 	it	on	a	map	.
+that	's	all	it	is	,	but	that	's	all	that	's	 need 	 ed 	 	 be 	 cause 	 	what	it	 do 	 es 	 	is	it	 take 	 s 	 	the	tacit	information	 avail 	 able 	 	to	the	whole	population	--	 every 	 body 	 	 know 	 s 	 	where	the	violence	is	,	but	no	one	person	 know 	 s 	 	what	 every 	 one 	 	 know 	 s 	 	--	and	it	 take 	 s 	 	that	tacit	information	and	it	 aggreg 	 ates 	 	it	,	and	it	 map 	 s 	 	it	and	it	 make 	 s 	 	it	public	.
+and	that	,	that	maneuver	 call 	 ed 	 	``	crisis	mapping	,	``	was	 kick 	 ed 	 	off	in	kenya	in	january	of	2008	.
+and	 en 	 ough 	 	people	 look 	 ed 	 	at	it	and	found	it	 valu 	 able 	 	 en 	 ough 	 	that	the	 programm 	 ers 	 	who	 create 	 d 	 	ushahidi	 decide 	 d 	 	they	 we 	 re 	 	going	to	make	it	open	source	and	turn	it	 in 	 to 	 	a	platform	.
+it	's	since	 be 	 en 	 	 deploy 	 ed 	 	in	mexico	to	track	 elect 	 or 	 al 	 	fraud	.
+it	's	 be 	 en 	 	 deploy 	 ed 	 	in	washington	d.c.	to	track	snow	 clean 	 up 	 	.
+and	it	's	 be 	 en 	 	used	most	 famous 	 ly 	 	in	 ha 	 iti 	 	in	the	 after 	 math 	 	of	the	 earth 	 quake 	 	.
+and	when	you	look	at	the	map	now	 post 	 ed 	 	on	the	ushahidi	front	page	,	you	can	see	that	the	number	of	 deploy 	 ments 	 	in	ushahidi	 ha 	 s 	 	gone	 world 	 wide 	 	,	all	right	?
+ th 	 is 	 	went	from	a	single	idea	and	a	single	 implement 	 ation 	 	in	east	africa	in	the	 begin 	 ning 	 	of	2008	to	a	global	 deploy 	 ment 	 	in	less	than	three	 year 	 s 	 	.
+now	what	okolloh	did	would	not	have	 be 	 en 	 	possible	 with 	 out 	 	digital	technology	.
+what	okolloh	did	would	not	have	 be 	 en 	 	possible	 with 	 out 	 	human	 gene 	 ros 	 ity 	 	.
+and	the	 interest 	 ing 	 	moment	now	,	the	number	of	 environment 	 s 	 	where	the	social	design	 challeng 	 e 	 	 re 	 lies 	 	on	both	of	 t 	 hose 	 	 thing 	 s 	 	 be 	 ing 	 	true	.
+that	is	the	resource	that	i	'm	 talk 	 ing 	 	about	.
+i	call	it	cognitive	 sur 	 plus 	 	.
+and	it	 represent 	 s 	 	the	ability	of	the	world	's	population	to	volunteer	and	to	 con 	 tribute 	 	and	 collabor 	 ate 	 	on	large	,	 some 	 time 	 s 	 	global	,	 project 	 s 	 	.
+cognitive	 sur 	 plus 	 	is	made	up	of	two	 thing 	 s 	 	.
+the	first	,	 obvious 	 ly 	 	,	is	the	world	's	free	time	and	 talent 	 s 	 	.
+the	world	 ha 	 s 	 	over	a	trillion	 hour 	 s 	 	a	year	of	free	time	to	commit	to	 share 	 d 	 	 project 	 s 	 	.
+now	,	that	free	time	 exist 	 ed 	 	in	the	20th	century	,	but	we	did	n't	get	ushahidi	in	the	20th	century	.
+that	's	the	second	half	of	cognitive	 sur 	 plus 	 	.
+the	media	 land 	 s 	 cape 	 	in	the	20th	century	was	 ver 	 y 	 	good	at	 help 	 ing 	 	people	 consum 	 e 	 	,	and	we	got	,	 a 	 s 	 	a	result	,	 ver 	 y 	 	good	at	 consum 	 ing 	 	.
+but	now	that	we	've	 be 	 en 	 	 give 	 n 	 	media	 tool 	 s 	 	--	the	 inter 	 net 	 	,	mobile	 phone 	 s 	 	--	that	let	us	do	more	than	 consum 	 e 	 	,	what	we	're	 see 	 ing 	 	is	that	people	 we 	 re 	 	n't	couch	 potato 	 es 	 	 be 	 cause 	 	we	 like 	 d 	 	to	be	.
+we	 we 	 re 	 	couch	 potato 	 es 	 	 be 	 cause 	 	that	was	the	 on 	 ly 	 	 opport 	 un 	 ity 	 	 give 	 n 	 	to	us	.
+we	still	like	to	 consum 	 e 	 	,	of	course	.
+but	it	 turn 	 s 	 	out	we	 al 	 so 	 	like	to	create	,	and	we	like	to	share	.
+and	it	's	 t 	 hose 	 	two	 thing 	 s 	 	together	--	ancient	human	 motiv 	 ation 	 	and	the	modern	 tool 	 s 	 	to	allow	that	 motiv 	 ation 	 	to	be	 join 	 ed 	 	up	in	large	-	scale	 effort 	 s 	 	--	that	are	the	new	design	resource	.
+and	using	cognitive	 sur 	 plus 	 	,	we	're	 start 	 ing 	 	to	see	 tru 	 ly 	 	 in 	 credible 	 	 experiment 	 s 	 	in	scientific	,	 liter 	 ary 	 	,	 art 	 istic 	 	,	 politic 	 al 	 	 effort 	 s 	 	.
+ design 	 ing 	 	.
+we	're	 al 	 so 	 	 get 	 ting 	 	,	of	course	,	a	lot	of	lolcats	.
+lolcats	are	cute	 picture 	 s 	 	of	 cat 	 s 	 	made	 cut 	 er 	 	with	the	 add 	 ition 	 	of	cute	 cap 	 tions 	 	.
+and	they	are	 al 	 so 	 	part	of	the	abundant	media	 land 	 s 	 cape 	 	we	're	 get 	 ting 	 	now	.
+ th 	 is 	 	is	one	of	the	 particip 	 atory 	 	--	one	of	the	 particip 	 atory 	 	 model 	 s 	 	we	see	coming	out	of	that	,	 a 	 long 	 	with	ushahidi	.
+now	i	want	to	stipulate	,	 a 	 s 	 	the	 lawyer 	 s 	 	say	,	that	lolcats	are	the	 stupid 	 est 	 	possible	creative	act	.
+there	are	other	 candid 	 ates 	 	of	course	,	but	lolcats	will	do	 a 	 s 	 	a	general	case	.
+but	here	's	the	thing	:	the	 stupid 	 est 	 	possible	creative	act	is	still	a	creative	act	.
+ some 	 one 	 	who	 ha 	 s 	 	 d 	 one 	 	 some 	 thing 	 	like	 th 	 is 	 	,	 how 	 ever 	 	 mediocr 	 e 	 	and	 throw 	 away 	 	,	 ha 	 s 	 	 tri 	 ed 	 	 some 	 thing 	 	,	 ha 	 s 	 	put	 some 	 thing 	 	forward	in	public	.
+and	once	they	've	 d 	 one 	 	it	,	they	can	do	it	 aga 	 in 	 	,	and	they	could	work	on	 get 	 ting 	 	it	better	.
+there	is	a	spectrum	between	 mediocr 	 e 	 	work	and	good	work	,	and	 a 	 s 	 	 any 	 body 	 	who	's	 work 	 ed 	 	 a 	 s 	 	an	artist	or	a	creator	 know 	 s 	 	,	it	's	a	spectrum	you	're	 constant 	 ly 	 	 st 	 rug 	 gling 	 	to	get	on	top	of	.
+the	gap	is	between	 do 	 ing 	 	 any 	 thing 	 	and	 do 	 ing 	 	 noth 	 ing 	 	.
+and	 some 	 one 	 	who	 make 	 s 	 	a	lolcat	 ha 	 s 	 	 al 	 ready 	 	 cross 	 ed 	 	over	that	gap	.
+now	it	's	 tempt 	 ing 	 	to	want	to	get	the	ushahidis	 with 	 out 	 	the	lolcats	,	right	,	to	get	the	serious	stuff	 with 	 out 	 	the	 throw 	 away 	 	stuff	.
+but	media	abundance	never	 work 	 s 	 	that	way	.
+ free 	 dom 	 	to	experiment	 mean 	 s 	 	 free 	 dom 	 	to	experiment	with	 any 	 thing 	 	.
+even	with	the	sacred	 print 	 ing 	 	press	,	we	got	 er 	 otic 	 	 novel 	 s 	 	150	 year 	 s 	 	before	we	got	scientific	 journal 	 s 	 	.
+so	before	i	talk	about	what	is	,	i	think	,	the	critical	 differ 	 ence 	 	between	lolcats	and	ushahidi	,	i	want	to	talk	about	 the 	 ir 	 	 share 	 d 	 	source	.
+and	that	source	is	design	for	 gene 	 ros 	 ity 	 	.
+it	is	one	of	the	 cur 	 io 	 s 	 ities 	 	of	our	 historic 	 al 	 	era	that	even	 a 	 s 	 	cognitive	 sur 	 plus 	 	is	 be 	 coming 	 	a	resource	we	can	design	around	,	social	 science 	 s 	 	are	 al 	 so 	 	 start 	 ing 	 	to	explain	how	 import 	 ant 	 	our	intrinsic	 motiv 	 ations 	 	are	to	us	,	how	much	we	do	 thing 	 s 	 	 be 	 cause 	 	we	like	to	do	them	 ra 	 ther 	 	than	 be 	 cause 	 	our	 bo 	 s 	 s 	 	told	us	to	do	them	,	or	 be 	 cause 	 	we	're	 be 	 ing 	 	paid	to	do	them	.
+ th 	 is 	 	is	a	graph	from	a	paper	by	uri	gneezy	and	aldo	rustichini	,	who	set	out	to	test	,	at	the	 begin 	 ning 	 	of	 th 	 is 	 	decade	,	what	they	 call 	 ed 	 	``	 de 	 ter 	 rence 	 	 theor 	 y 	 	.	``
+and	 de 	 ter 	 rence 	 	 theor 	 y 	 	is	a	 ver 	 y 	 	simple	 theor 	 y 	 	of	human	behavior	:	if	you	want	 some 	 body 	 	to	do	less	of	 some 	 thing 	 	,	add	a	 punish 	 ment 	 	and	they	'll	do	less	of	it	.
+simple	,	 straight 	 forward 	 	,	 common 	 sens 	 ical 	 	--	 al 	 so 	 	,	 large 	 ly 	 	 un 	 tested 	 	.
+and	so	they	went	and	 stud 	 ied 	 	10	 day 	 care 	 	 center 	 s 	 	in	haifa	,	israel	.
+they	 stud 	 ied 	 	 t 	 hose 	 	 day 	 care 	 	 center 	 s 	 	at	the	time	of	highest	tension	,	which	is	pick	-	up	time	.
+at	pick	-	up	time	the	 teacher 	 s 	 	,	who	have	 be 	 en 	 	with	your	children	all	day	,	would	like	you	to	be	there	at	the	 ap 	 point 	 ed 	 	hour	to	take	your	children	back	.
+ mean 	 while 	 	,	the	 parent 	 s 	 	--	 per 	 hap 	 s 	 	a	little	 bus 	 y 	 	at	work	,	running	late	,	running	 er 	 rand 	 s 	 	--	want	a	little	 s 	 lack 	 	to	pick	the	 kid 	 s 	 	up	late	.
+so	gneezy	and	rustichini	 s 	 aid 	 	,	``	how	 man 	 y 	 	 in 	 stance 	 s 	 	of	late	pick	-	 up 	 s 	 	are	there	at	these	10	 day 	 care 	 	 center 	 s 	 	?	``
+now	they	saw	--	and	 th 	 is 	 	is	what	the	graph	is	,	these	are	the	number	of	 week 	 s 	 	and	these	are	the	number	of	late	 arriv 	 al 	 s 	 	--	that	there	 we 	 re 	 	between	six	and	10	 in 	 stance 	 s 	 	of	late	pick	-	 up 	 s 	 	on	average	in	these	10	 day 	 care 	 	 center 	 s 	 	.
+so	they	 divid 	 ed 	 	the	 day 	 care 	 	 center 	 s 	 	 in 	 to 	 	two	 group 	 s 	 	.
+the	white	group	there	is	the	control	group	;	they	change	 noth 	 ing 	 	.
+but	the	group	of	 day 	 care 	 	 center 	 s 	 	 represent 	 ed 	 	by	the	black	line	,	they	 s 	 aid 	 	,	``	we	are	changing	 th 	 is 	 	 bar 	 gain 	 	 a 	 s 	 	of	right	now	.
+if	you	pick	your	kid	up	more	than	10	 minute 	 s 	 	late	,	we	're	going	to	add	a	10	shekel	fine	to	your	bill	.
+boom	.	no	 if 	 s 	 	,	 and 	 s 	 	or	 but 	 s 	 	.	``
+and	the	minute	they	did	that	,	the	behavior	in	 t 	 hose 	 	 day 	 care 	 	 center 	 s 	 	 change 	 d 	 	.
+late	pick	-	 up 	 s 	 	went	up	every	week	for	the	next	four	 week 	 s 	 	 un 	 til 	 	they	 top 	 ped 	 	out	at	triple	the	pre	-	fine	average	,	and	then	they	 fluctu 	 ated 	 	at	between	double	and	triple	the	pre	-	fine	average	for	the	life	of	the	fine	.
+and	you	can	see	 im 	 mediate 	 ly 	 	what	 happen 	 ed 	 	,	right	?
+the	fine	broke	the	culture	of	the	 day 	 care 	 	center	.
+by	 add 	 ing 	 	a	fine	,	what	they	did	was	communicate	to	the	 parent 	 s 	 	that	 the 	 ir 	 	entire	debt	to	the	 teacher 	 s 	 	had	 be 	 en 	 	 dis 	 charged 	 	with	the	payment	of	10	 shekel 	 s 	 	,	and	that	there	was	no	residue	of	guilt	or	social	concern	that	the	 parent 	 s 	 	 ow 	 ed 	 	the	 teacher 	 s 	 	.
+and	so	the	 parent 	 s 	 	,	 quit 	 e 	 	 sens 	 ibly 	 	,	 s 	 aid 	 	,	``	10	 shekel 	 s 	 	to	pick	my	kid	up	late	?
+what	could	be	bad	?	``
+the	 explan 	 ation 	 	of	human	behavior	that	we	 inherit 	 ed 	 	in	the	20th	century	was	that	we	are	all	rational	,	self	-	 maxim 	 izing 	 	 act 	 ors 	 	,	and	in	that	 explan 	 ation 	 	--	the	 day 	 care 	 	center	had	no	contract	--	should	have	 be 	 en 	 	 oper 	 ating 	 	 with 	 out 	 	any	 constraint 	 s 	 	.
+but	that	's	not	right	.
+they	 we 	 re 	 	 oper 	 ating 	 	with	social	 constraint 	 s 	 	 ra 	 ther 	 	than	 contract 	 ual 	 	 one 	 s 	 	.
+and	 critical 	 ly 	 	,	the	social	 constraint 	 s 	 	 create 	 d 	 	a	culture	that	was	more	 gen 	 er 	 ous 	 	than	the	 contract 	 ual 	 	 constraint 	 s 	 	did	.
+so	gneezy	and	rustichini	run	 th 	 is 	 	experiment	for	a	dozen	 week 	 s 	 	--	run	the	fine	for	a	dozen	 week 	 s 	 	--	and	then	they	say	,	``	 ok 	 a 	 y 	 	,	that	's	it	.	all	 d 	 one 	 	;	fine	.	``
+and	then	a	 re 	 ally 	 	 interest 	 ing 	 	thing	 happen 	 s 	 	:	 noth 	 ing 	 	 change 	 s 	 	.
+the	culture	that	got	broken	by	the	fine	 stay 	 ed 	 	broken	when	the	fine	was	 re 	 move 	 d 	 	.
+not	 on 	 ly 	 	are	economic	 motiv 	 ations 	 	and	intrinsic	 motiv 	 ations 	 	 in 	 compatible 	 	,	that	 in 	 com 	 pat 	 ibility 	 	can	persist	over	long	 period 	 s 	 	.
+so	the	trick	in	 design 	 ing 	 	these	 kind 	 s 	 	of	 situ 	 ations 	 	is	to	understand	where	you	're	 re 	 ly 	 ing 	 	on	the	economic	part	of	the	 bar 	 gain 	 	--	 a 	 s 	 	with	the	 parent 	 s 	 	 pay 	 ing 	 	the	 teacher 	 s 	 	--	and	when	you	're	 re 	 ly 	 ing 	 	on	the	social	part	of	the	 bar 	 gain 	 	,	when	you	're	 re 	 ally 	 	 design 	 ing 	 	for	 gene 	 ros 	 ity 	 	.
+ th 	 is 	 	 br 	 ing 	 s 	 	me	back	to	the	lolcats	and	to	ushahidi	.
+ th 	 is 	 	is	,	i	think	,	the	range	that	 matter 	 s 	 	.
+both	of	these	 re 	 ly 	 	on	cognitive	 sur 	 plus 	 	.
+both	of	these	design	for	the	assumption	that	people	like	to	create	and	we	want	to	share	.
+here	is	the	critical	 differ 	 ence 	 	between	these	:	lolcats	is	 commun 	 al 	 	value	.
+it	's	value	 create 	 d 	 	by	the	 particip 	 ants 	 	for	each	other	.
+ commun 	 al 	 	value	on	the	 network 	 s 	 	we	have	is	 every 	 where 	 	--	every	time	you	see	a	large	 aggreg 	 ate 	 	of	 share 	 d 	 	,	 public 	 ly 	 	 avail 	 able 	 	data	,	 whet 	 her 	 	it	's	 photo 	 s 	 	on	flickr	or	 video 	 s 	 	on	youtube	or	 what 	 ever 	 	.
+ th 	 is 	 	is	good	.	i	like	lolcats	 a 	 s 	 	much	 a 	 s 	 	the	next	guy	,	 may 	 be 	 	a	little	more	even	,	but	 th 	 is 	 	is	 al 	 so 	 	a	 large 	 ly 	 	 solve 	 d 	 	problem	.
+i	have	a	hard	time	 envision 	 ing 	 	a	future	in	which	 some 	 one 	 	is	 say 	 ing 	 	,	``	where	,	oh	where	,	can	i	find	a	picture	of	a	cute	cat	?	``
+ushahidi	,	by	contrast	,	is	civic	value	.
+it	's	value	 create 	 d 	 	by	the	 particip 	 ants 	 	but	 enjoy 	 ed 	 	by	 socie 	 ty 	 	 a 	 s 	 	a	whole	.
+the	 goal 	 s 	 	set	out	by	ushahidi	are	not	just	to	make	life	better	for	the	 particip 	 ants 	 	,	but	to	make	life	better	for	 every 	 one 	 	in	the	 socie 	 ty 	 	in	which	ushahidi	is	 oper 	 ating 	 	.
+and	that	kind	of	civic	value	is	not	just	a	side	effect	of	 open 	 ing 	 	up	to	human	 motiv 	 ation 	 	.
+it	 re 	 ally 	 	is	going	to	be	a	side	effect	of	what	we	,	 collect 	 ively 	 	,	make	of	these	 kind 	 s 	 	of	 effort 	 s 	 	.
+there	are	a	trillion	 hour 	 s 	 	a	year	of	 particip 	 atory 	 	value	up	for	 grab 	 s 	 	.
+that	will	be	true	year	-	in	and	year	-	out	.
+the	number	of	people	who	are	going	to	be	able	to	 particip 	 ate 	 	in	these	 kind 	 s 	 	of	 project 	 s 	 	is	going	to	grow	,	and	we	can	see	that	 organ 	 ization 	 s 	 	designed	around	a	culture	of	 gene 	 ros 	 ity 	 	can	 achiev 	 e 	 	 in 	 credible 	 	 effect 	 s 	 	 with 	 out 	 	an	enormous	amount	of	 contract 	 ual 	 	 over 	 head 	 	--	a	 ver 	 y 	 	different	model	than	our	default	model	for	large	-	scale	group	action	in	the	20th	century	.
+what	's	going	to	make	the	 differ 	 ence 	 	here	is	what	dean	kamen	 s 	 aid 	 	,	the	inventor	and	entrepreneur	.
+kamen	 s 	 aid 	 	,	``	free	 culture 	 s 	 	get	what	they	 celebr 	 ate 	 	.	``
+we	've	got	a	choice	before	us	.
+we	've	got	 th 	 is 	 	trillion	 hour 	 s 	 	a	year	.
+we	can	use	it	to	crack	each	other	up	,	and	we	're	going	to	do	that	.
+that	,	we	get	for	free	.
+but	we	can	 al 	 so 	 	 celebr 	 ate 	 	and	support	and	reward	the	people	 try 	 ing 	 	to	use	cognitive	 sur 	 plus 	 	to	create	civic	value	.
+and	to	the	degree	we	're	going	to	do	that	,	to	the	degree	we	're	able	to	do	that	,	we	'll	be	able	to	change	 socie 	 ty 	 	.
+thank	you	 ver 	 y 	 	much	.
+

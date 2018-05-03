@@ -1,0 +1,36 @@
+im_de jahr_de 1952_de machte_de buckminster_de fuller_de machte_de fur_de das_de _UNK__de einen_de besonders_de mutigen_de vorschlag_de ._de
+es_de war_de eine_de 200_de -_de fuss_de -_de durchmesser_de geodätischen_de kugel_de um_de über_de den_de east_de river_de in_de new_de york_de city_de ausgesetzt_de werden_de ,_de in_de voller_de sicht_de der_de vereinten_de nationen_de ._de
+es_de war_de eine_de große_de idee_de ,_de das_de ist_de sicher_de ,_de und_de es_de war_de eine_de idee_de ,_de fuehlte_de er_de ,_de die_de die_de entscheidungsfindung_de dieses_de gremiums_de wirklich_de informieren_de und_de tief_de berühren_de konnte_de durch_de animationen_de von_de globalen_de daten_de ,_de trends_de und_de andere_de informationen_de über_de den_de globus_de ,_de auf_de dieser_de kugel_de ._de
+und_de heute_de ,_de 45_de jahre_de später_de ,_de wir_de haben_de eindeutig_de nicht_de weniger_de bedarf_de für_de diese_de art_de von_de klarheit_de und_de perspektive_de ,_de aber_de was_de wir_de haben_de ,_de ist_de verbesserte_de technologie_de ._de
+heute_de brauchen_de wir_de nicht_de eine_de million_de glühbirnen_de zu_de einer_de sphärische_de anzeige_de zu_de schaffen_de ._de
+wir_de können_de leds_de nutzen_de ._de
+leds_de sind_de kleiner_de ,_de sie_de sind_de billiger_de ,_de sie_de halten_de langer_de an_de ,_de sie_de sind_de effizienter_de ._de
+vor_de allem_de für_de diese_de ,_de sind_de sie_de schneller_de ._de
+und_de diese_de geschwindigkeit_de ,_de mit_de der_de heutigen_de _UNK__de -_de mikro_de -_de controller_de kombiniert_de erlaubt_de uns_de ,_de tatsächlich_de zu_de simulieren_de ,_de in_de diesem_de stück_de ,_de über_de 17.000_de leds_de -_de mit_de nur_de 64_de ._de
+und_de die_de art_de und_de weise_de dies_de geschieht_de ,_de ist_de durch_de das_de phänomen_de der_de augenträgheit_de ._de
+aber_de während_de dieser_de ring_de dreht_de sich_de rund_de 1.700_de u_de /_de min_de -_de das_de ist_de 28_de mal_de pro_de sekunde_de ._de
+die_de geschwindigkeit_de des_de äquators_de ist_de tatsächlich_de etwa_de 60_de meilen_de pro_de stunde_de ._de
+es_de gibt_de vier_de on_de -_de board_de -_de mikro_de -_de controller_de die_de ,_de jedes_de mal_de diesen_de ring_de dreht_de sich_de während_de es_de passiert_de die_de rückseite_de der_de anzeige_de ,_de es_de nimmt_de eine_de position_de signal_de
+und_de von_de diesem_de ,_de die_de on_de -_de board_de -_de mikro_de -_de controller_de die_de position_de des_de _UNK__de in_de allen_de punkten_de rund_de um_de die_de revolution_de _UNK__de und_de anzeige_de beliebiger_de bitmap_de -_de bilder_de und_de animationen_de ._de
+aber_de das_de ist_de eigentlich_de nur_de der_de anfang_de ._de
+neben_de der_de höheren_de auflösung_de versionen_de von_de dieser_de anzeige_de mein_de vater_de und_de ich_de arbeiten_de an_de einem_de neuen_de zum_de patent_de _UNK__de design_de für_de eine_de voll_de volumetrische_de anzeige_de ,_de dass_de das_de gleiche_de phänomen_de nutzt_de ._de
+er_de erreicht_de dies_de durch_de die_de rotierenden_de leds_de um_de zwei_de achsen_de ._de
+wie_de ihr_de hier_de sehen_de könnt_de ,_de das_de ist_de eine_de 11_de -_de zoll_de -_de durchmesser_de platine_de ._de
+diese_de blöcke_de stellen_de leds_de ._de
+und_de wie_de so_de konnte_de man_de sehen_de ,_de dass_de als_de die_de platte_de dreht_de sich_de um_de dieser_de achse_de ,_de es_de wird_de eine_de lichtsplatte_de formieren_de ,_de die_de wir_de kontrollieren_de können_de ._de
+das_de ist_de nichts_de neues_de ,_de das_de ist_de ein_de propeller_de clock_de ._de das_de ist_de die_de _UNK__de ,_de die_de ihr_de für_de eure_de auto_de kaufen_de können_de ._de
+aber_de was_de neu_de ist_de ,_de ist_de ,_de dass_de ,_de wenn_de wir_de diese_de platte_de um_de diese_de achse_de drehen_de ,_de jetzt_de die_de lichtsplatte_de wird_de eigentlich_de einer_de _UNK__de ._de
+und_de wir_de können_de das_de mit_de mikro_de -_de controller_de kontrollieren_de und_de erstellen_de eine_de voll_de volumetrischen_de ,_de dreidimensionalen_de anzeige_de mit_de nur_de 256_de leds_de ._de
+jetzt_de ist_de dieses_de stück_de derzeit_de in_de bearbeitung_de -_de es_de erscheint_de in_de mai_de ,_de aber_de was_de wir_de getan_de haben_de ist_de ,_de dass_de wir_de zusammen_de eine_de kleine_de demo_de gestellt_de ,_de auf_de die_de übersetzung_de von_de geometrischen_de punkten_de in_de eine_de sphäre_de zu_de zeigen_de ._de
+ich_de habe_de ein_de kleines_de video_de für_de euch_de ,_de aber_de bedenkt_de euch_de ,_de dass_de es_de ist_de ohne_de elektronische_de regelung_de ,_de und_de es_de ist_de auch_de nur_de mit_de vier_de leds_de ._de
+das_de ist_de tatsächlich_de nur_de etwa_de 1,5_de prozent_de von_de was_de die_de endgültige_de anzeige_de in_de may_de sein_de wird_de ._de
+also_de ,_de guck_de mal_de ._de
+und_de hier_de könnt_de ihr_de sehen_de ,_de es_de dreht_de sicht_de nur_de um_de die_de vertikale_de achse_de ,_de einfach_de kreise_de ._de
+und_de dann_de ,_de als_de die_de andere_de achse_de ins_de spiel_de kommt_de ,_de verschmieren_de sie_de tatsächlich_de in_de einem_de inhalt_de ._de
+und_de die_de _UNK__de der_de kamera_de tatsächlich_de ist_de es_de etwas_de weniger_de effektiv_de in_de diesem_de fall_de ._de
+aber_de dieses_de stück_de erscheint_de erst_de im_de mai_de ._de
+es_de wird_de an_de der_de interactive_de _UNK__de spring_de show_de angezeigt_de ,_de in_de greenwich_de village_de in_de new_de york_de -_de das_de ist_de für_de die_de öffentlichkeit_de zugänglich_de ,_de ich_de definitiv_de lade_de euch_de alle_de zu_de kommen_de und_de teilnehmen_de ein_de -_de es_de ist_de eine_de fantastische_de show_de ._de
+es_de gibt_de hunderte_de von_de studenten_de innovatoren_de mit_de phantastischen_de projekten_de ._de
+dieses_de stück_de ,_de tatsächlich_de wird_de in_de der_de sierra_de simulcast_de lounge_de angezeigt_de ,_de in_de den_de pausen_de zwischen_de jetzt_de und_de ende_de der_de show_de ._de
+ich_de wurde_de gerne_de mit_de euch_de reden_de ,_de und_de euch_de einladen_de herunter_de zu_de kommen_de und_de einen_de genaueren_de blick_de zu_de werfen_de ._de
+es_de ist_de eine_de ehre_de hier_de zu_de sein_de ,_de danke_de sehr_de ._de

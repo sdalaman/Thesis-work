@@ -1,0 +1,181 @@
+bugün	bir	fikir	hakkında	 konuşma 	 k 	 	istiyorum	.	büyük	bir	fikir	.
+aslında	,	bu	 fikri 	 n 	 	sonunda	,	 geçtiği 	 miz 	 	yüzyılda	çıkmış	tek	büyük	fikir	olarak	_UNK_	 düşünüyor 	 um 	 	.
+bu	hesaplama	 fikri 	 dir 	 	.
+şimdi	,	 elbet 	 te 	 	ki	bu	fikir	 biz 	 e 	 	bugün	sahip	olduğumuz	bütün	bilgisayar	 teknoloji 	 sini 	 	de	 getir 	 di 	 	.
+ama	aslında	hesaplama	 fikri 	 nin 	 	daha	çok	işi	var	.
+bu	çok	derin	,	çok	güçlü	,	çok	temel	bir	fikir	ve	bunun	 etki 	 lerini 	 	yeni	görmeye	başladık	.
+ben	 hayatım 	 ın 	 	son	30	_UNK_	 hesaplama 	 yı 	 	oldukça	 ciddi 	 ye 	 	 alma 	 ya 	 	çalışan	ü	ç	büyük	 proje 	 de 	 	 çalış 	 arak 	 	 geçir 	 dim 	 	.
+genç	yaşta	,	 bilgisayar 	 ları 	 	araç	olarak	 kullana 	 n 	 	bir	fizikçi	olarak	 başla 	 dım 	 	.
+sonra	,	daha	 derin 	 lere 	 	 in 	 dim 	 	,	 yapma 	 k 	 	 istediği 	 m 	 	 hesaplama 	 lar 	 	hakkında	 düşündü 	 m 	 	,	hangi	 ilk 	 lerden 	 	_UNK_	ve	nasıl	mümkün	 olduğu 	 nca 	 	_UNK_	_UNK_	tahmin	etmeye	 çalıştı 	 m 	 	.
+ netice 	 de 	 	,	 sembol 	 ik 	 	 programla 	 maya 	 	dayalı	tam	bir	yapı	 hazırladı 	 m 	 	ve	bu	da	mathematica'yı	_UNK_	 sağla 	 dı 	 	.
+ve	son	23	yıldır	,	 gide 	 rek 	 	 arta 	 n 	 	bir	 hız 	 la 	 	,	daha	fazla	yeni	fikir	ve	yetenekleri	mathematica'ya	_UNK_	,	ve	bunun	ar	-	ge	,	eğitim	ve	diğer	birçok	 ala 	 nda 	 	iyi	 iş 	 lerin 	 	 yapılma 	 sını 	 	 sağla 	 dığını 	 	 söyleme 	 kten 	 	 mutlu 	 yum 	 	.
+ açık 	 ça 	 sı 	 	,	itiraf	 etme 	 liyim 	 	ki	mathematica'yı	 oluşturma 	 k 	 	için	çok	bencil	bir	 nedeni 	 m 	 	de	vardı	.	onu	 kendi 	 m 	 	 kullanma 	 k 	 	 istedi 	 m 	 	,	galileo'nun	400	yıl	önce	kendi	 teleskobu 	 nu 	 	 kullanma 	 sı 	 	gibi	.
+ama	ben	 astronom 	 ik 	 	 evren 	 e 	 	değil	,	hesaplama	 evreni 	 ne 	 	 bakma 	 k 	 	 istiyor 	 dum 	 	.
+ normal 	 de 	 	 program 	 ları 	 	,	çok	özel	 amaç 	 lar 	 	için	 oluşturduğu 	 muz 	 	karmaşık	şeyler	olarak	 görür 	 üz 	 	.
+ pek 	 i 	 	ya	tüm	muhtemel	 program 	 lar 	 	_UNK_	ne	 de 	 meli 	 	?
+burada	çok	basit	bir	 program 	 ın 	 	 gösterim 	 i 	 	var	.
+eğer	bu	 program 	 ı 	 	 çalıştır 	 ır 	 sak 	 	,	bunu	 el 	 de 	 	ederiz	.
+çok	basit	.
+şimdi	bu	program	için	 kura 	 lı 	 	biraz	 değiştirme 	 yi 	 	 deney 	 elim 	 	.
+şimdi	başka	bir	sonuç	alıyoruz	,	 hale 	 n 	 	çok	basit	.
+tekrar	 değiştirme 	 yi 	 	 deney 	 in 	 	.
+biraz	daha	karmaşık	bir	şey	 el 	 de 	 	edersiniz	,
+ama	bunu	bir	süre	 çalıştır 	 ır 	 sak 	 	,	 anları 	 z 	 	ki	,	sonuç	_UNK_	biraz	karışık	olsa	da	,	çok	düzgün	bir	 yapı 	 sı 	 	var	.
+soru	 şu 	 dur 	 	:	başka	bir	şey	olabilir	mi	?
+bunun	için	ufak	bir	deney	 yapa 	 biliriz 	 	.
+hadi	ufak	bir	matematik	 deney 	 i 	 	 yap 	 alım 	 	,	 deney 	 ip 	 	 bul 	 alım 	 	.
+bu	 baktığı 	 mız 	 	 tür 	 deki 	 	tüm	muhtemel	 program 	 ları 	 	 çalıştır 	 alım 	 	.
+ bunlar 	 a 	 	 hücre 	 sel 	 	 otomat 	 lar 	 	 a 	 dı 	 	verilir	.
+buradaki	 davranış 	 ta 	 	çok	fazla	çeşitlilik	 göre 	 bilirsiniz 	 	.
+çoğu	çok	basit	şeyler	yapıyor	.	ama	eğer	tüm	farklı	 resim 	 ler 	 	arasında	,	30.	 kural 	 a 	 	 bakar 	 sanız 	 	,	ilginç	bir	 şey 	 lerin 	 	 döndüğü 	 nü 	 	 göre 	 bilirsiniz 	 	.
+o	zaman	hadi	30.	 kural 	 a 	 	daha	 yakın 	 dan 	 	 bak 	 alım 	 	.
+i̇şte	burada	.
+biz	sadece	şu	 aşağı 	 daki 	 	basit	 kura 	 lı 	 	 taki 	 p 	 	ediyoruz	ama	tüm	bu	şaşırtıcı	 şey 	 leri 	 	 el 	 de 	 	ediyoruz	.
+bu	hiç	de	 alıştı 	 ğımız 	 	bir	şey	değil	,	ve	 söyleme 	 liyim 	 	ki	,	bunu	ilk	 gördüğü 	 mde 	 	,	_UNK_	büyük	bir	şok	yaşadı	,
+ve	,	aslında	,	onu	 anlayabilme 	 k 	 	için	,	sonunda	farklı	bir	bilim	 yaratma 	 k 	 	zorunda	kaldım	.
+bu	son	300	küsür	yıldır	 kullan 	 dığımız 	 	matematik	bazlı	 bilim 	 den 	 	farklı	,	daha	genel	bir	 bilim 	 dir 	 	.
+bilirsiniz	,	 doğa 	 nın 	 	 biz 	 e 	 	çok	karmaşık	gelen	birçok	şeyi	nasıl	 görünüş 	 te 	 	çok	 zahmet 	 sizce 	 	 ürettiğ 	 i 	 	 biz 	 e 	 	büyük	bir	gizem	gibi	 gelmiş 	 tir 	 	.
+ sa 	 nırım 	 	biz	onun	 sırrı 	 nı 	 	 buldu 	 k 	 	.	o	sadece	hesaplama	 evreni 	 nde 	 	ne	 var 	 sa 	 	onları	 örnek 	 liyor 	 	ve	 çoğun 	 lukla 	 	30.	kural	gibi	şeyler	 el 	 de 	 	ediyor	ya	da	bunun	gibi	.
+ve	bunu	bilmek	,	 bilim 	 de 	 	uzun	 zaman 	 dır 	 	 süre 	 n 	 	 gizem 	 leri 	 	 açıklama 	 ya 	 	başlıyor	.
+fakat	sayısal	_UNK_	gibi	yeni	 sorun 	 ları 	 	da	getiriyor	.
+yani	,	biz	 bilimi 	 n 	 	bir	 şey 	 leri 	 	tahmin	 etme 	 mize 	 	izin	 verme 	 sin 	 	 alışkın 	 ız 	 	,	ama	bunun	gibi	bir	şey	esas	olarak	_UNK_	.
+ sonuc 	 unu 	 	etkin	şekilde	 bulma 	 nın 	 	tek	yolu	,	onun	 gelişme 	 sini 	 	 seyretme 	 ktir 	 	.
+bu	benim	hesaplama	 den 	 k 	 liği 	 	adını	 verdiği 	 m 	 	 prens 	 i 	 be 	 	 bağlı 	 dır 	 	,	bu	 prens 	 i 	 be 	 	göre	inanılmaz	_UNK_	 sistem 	 ler 	 	bile	 her 	 hangi 	 	bir	şey	kadar	karmaşık	 hesaplama 	 lar 	 	 yapabilir 	 ler 	 	.
+rastgele	hesaplama	 yapabilme 	 k 	 	gibi	hemen	her	yerde	olan	bir	şeyi	 yapabilme 	 k 	 	için	,	çok	fazla	teknoloji	veya	 biyoloji 	 k 	 	evrim	 gerek 	 mez 	 	.
+bu	kadar	basit	 kura 	 lı 	 	olan	şeyler	bile	yapabilir	.
+bunun	,	 bilimi 	 n 	 	 sınır 	 ları 	 	hakkında	,	 biyoloji 	 k 	 	 süreç 	 ler 	 	ve	 ekonomi 	 lerin 	 	tahmin	 edilebilir 	 liği 	 	ve	kontrol	 edilebilir 	 liği 	 	hakkında	,	 evren 	 deki 	 	zeka	hakkında	,	özgür	irade	gibi	 soru 	 lar 	 	hakkında	ve	teknoloji	yaratma	hakkında	derin	 i 	 maları 	 	 var 	 dır 	 	.
+bilirsiniz	,	bu	bilim	üzerinde	 yıl 	 larca 	 	 çalışır 	 ken 	 	merak	edip	 dur 	 dum 	 	,	``	bunun	ilk	harika	 uygulama 	 sı 	 	ne	olacak	?	``
+ çocukluğu 	 mdan 	 	beri	,	 bilgi 	 yi 	 	_UNK_	ve	bir	şekilde	 hesap 	 lanabilir 	 	 yapma 	 k 	 	 konusu 	 nda 	 	 düşünüyor 	 um 	 	.
+leibniz	gibi	insanlar	da	300	yıl	önce	bunu	merak	etti	.
+fakat	hep	 sanıyor 	 dum 	 	ki	ilerleme	 kaydetme 	 k 	 	için	,	 esas 	 ında 	 	tüm	beyni	_UNK_	gerekiyor	.
+ama	 şimdi 	 ki 	 	 düşünce 	 m 	 	:	benim	bu	bilimsel	_UNK_	farklı	bir	şey	 öneri 	 yor 	 	.	ve	,	bu	arada	,	_UNK_	devasa	hesaplama	yetenekleri	var	 elim 	 de 	 	,	ve	büyük	,	 deli 	 ce 	 	 proje 	 ler 	 	 yapma 	 k 	 	için	maddi	kaynağı	olan	bir	üst	düzey	 yönetici 	 yim 	 	.	ve	 dünya 	 daki 	 	 sistem 	 atik 	 	 bilgi 	 nin 	 	ne	 kadar 	 ını 	 	 hesap 	 lanabilir 	 	 yapabileceği 	 mizi 	 	görmeye	 çalışma 	 ya 	 	karar	verdim	.
+bu	_UNK_	emin	bile	 olamadığı 	 m 	 	,	büyük	ve	çok	karmaşık	bir	 proje 	 dir 	 	.
+fakat	aslında	iyi	 gittiği 	 ni 	 	 söyleme 	 kten 	 	 mutlu 	 yum 	 	.
+ve	 geçe 	 n 	 	yıl	wolfram	alpha'nın	ilk	web	site	 versiyon 	 unu 	 	_UNK_	.
+onun	amacı	 soru 	 ların 	 	 cevap 	 larını 	 	 hesaplaya 	 n 	 	ciddi	bir	bilgi	motoru	 olma 	 ktır 	 	.
+bir	 deney 	 elim 	 	.
+çok	basit	bir	 şey 	 le 	 	 başla 	 yalım 	 	.
+en	 iyi 	 sini 	 	 um 	 alım 	 	.
+çok	iyi	.	 pe 	 kala 	 	.
+i̇yi	 gidiyor 	 uz 	 	.
+hadi	daha	zor	bir	şey	 deney 	 elim 	 	.
+ di 	 yelim 	 	ki	.	 matematik 	 sel 	 	bir	şey	 yap 	 alım 	 	ve	 uma 	 rız 	 	 cevabı 	 nı 	 	 vere 	 bilir 	 	ve	 biz 	 e 	 	ilginç	şeyler	,	ilgili	matematik	hakkında	şeyler	 anlatma 	 ya 	 	çalışır	.
+gerçek	dünya	hakkında	bir	şeyler	 sora 	 biliriz 	 	.
+ bak 	 alım 	 	,	--	bilmem	--	i̇spanya'nın	gsmh'sı	 ne 	 dir 	 	?
+ve	 biz 	 e 	 	bunu	_UNK_	.
+şimdi	 bunun 	 la 	 	ilgili	bir	hesaplama	 yapa 	 biliriz 	 	,	 varsay 	 alım 	 	ki	i̇spanya'nın	_UNK_	 böle 	 lim 	 	,	bilmem	ki	,	--	 hmm 	 m 	 	--
+microsoft'un	 gelir 	 ine 	 	 böle 	 lim 	 	.
+esas	fikir	bunu	,	bu	tür	bir	 soru 	 yu 	 	 aklı 	 mıza 	 	geldiği	gibi	 ya 	 zıp 	 	 sora 	 bilmektir 	 	.
+o	 yüz 	 den 	 	bir	soru	 sor 	 alım 	 	,	mesela	 sağlık 	 la 	 	ilgili	bir	soru	.
+ varsay 	 alım 	 	ki	50	yaşındaki	bir	 erkeği 	 n 	 
+düşük	 yoğun 	 luklu 	 	_UNK_	 seviye 	 sinin 	 	140	olduğunu	 bula 	 n 	 	bir	labaratuvar	olsun	.
+bunu	_UNK_	ve	wolfram	alpha	şimdi	 gidi 	 p 	 	mevcut	sağlık	 veri 	 lerini 	 	 kullana 	 cak 	 	ve	bu	_UNK_	 biri 	 nin 	 	 nüfusu 	 n 	 	hangi	 kesimin 	 e 	 	 den 	 k 	 	 geldiği 	 ni 	 	 bulma 	 ya 	 	çalışacak	.
+şunu	 sorma 	 yı 	 	 deney 	 elim 	 	,	bilmem	ki	,	 uluslar 	 arası 	 	uzay	istasyonu	.
+ve	orada	olup	biten	 şu 	 dur 	 	:	wolfram	alpha	sadece	bir	 şey 	 e 	 	 bak 	 mıyor 	 	;	 uluslar 	 arası 	 	uzay	 istasyon 	 unun 	 	şu	 a 	 nda 	 	nerede	olduğunu	,	ne	kadar	hızlı	 gittiği 	 ni 	 	vs	eş	zamanlı	olarak	 hesap 	 lıyor 	 	.
+yani	wolfram	alpha	bir	sürü	şey	biliyor	.
+şu	 a 	 nda 	 	,	 her 	 hangi 	 	bir	standart	referans	 kütüphane 	 sinde 	 	 bula 	 bileceğiniz 	 	her	şeyi	içeriyor	.
+fakat	hedef	daha	da	 i 	 leri 	 	 gitme 	 k 	 	ve	tüm	bu	 bilgi 	 leri 	 	 geniş 	 çe 	 	_UNK_	,	ve	tüm	 alanlar 	 da 	 	otorite	kaynağı	olmaya	 çalışma 	 k 	 	,
+ve	 insan 	 ların 	 	sorduğu	 kendi 	 ne 	 	özgü	 soru 	 ların 	 	 cevap 	 larını 	 	 hesaplama 	 k 	 	,	ve	bunu	 başka 	 larının 	 	 yaz 	 dığı 	 	 bilgi 	 ler 	 	 arasında 	 n 	 	 ara 	 yarak 	 	değil	,	 ak 	 sine 	 	mevcut	 bilgi 	 leri 	 	 kullan 	 arak 	 	bu	özel	 soru 	 lara 	 	taze	yeni	 cevap 	 ları 	 	_UNK_	.
+wolfram	alpha	 tabi 	 i 	 	ki	devasa	 büyüklük 	 te 	 	,	çok	 zorluk 	 lar 	 	içeren	uzun	 va 	 deli 	 	bir	 proje 	 dir 	 	.
+başlangıç	için	 zil 	 yon 	 	tane	farklı	veri	 kaynağı 	 nı 	 	 düzenleme 	 k 	 	gerekir	,	ve	bunun	için	 beş 	 eri 	 	alan	 uzman 	 ları 	 	ve	mathematica	_UNK_	 altyapı 	 sını 	 	inşa	ettik	.
+bu	sadece	başlangıç	.
+ham	 gerçek 	 ler 	 	ve	 veri 	 ler 	 	ile	 soru 	 ları 	 	 gerçek 	 ten 	 	 cevapla 	 ya 	 bilmek 	 	için	 hesaplama 	 k 	 	gerekir	,	 bilimi 	 n 	 	ve	diğer	 alanları 	 n 	 	 yüzyıl 	 lar 	 	boyunca	ortaya	 çıkar 	 dığı 	 	tüm	o	 yöntem 	 leri 	 	,	 model 	 leri 	 	,	ve	 algoritma 	 ları 	 	 ve 	 saire 	 	 uygulama 	 k 	 	gerekir	.
+sadece	_UNK_	 başlama 	 k 	 	bile	,	çok	büyük	bir	 uğraş 	 tır 	 	.
+ şimdi 	 ye 	 	 de 	 k 	 	wolfram	_UNK_	çok	farklı	 alanlar 	 daki 	 	 uzman 	 lar 	 	 tarafı 	 ndan 	 	yazılan	 yaklaşı 	 k 	 	8	milyon	satır	mathematica	kodu	var	.
+wolfram	alpha	 hakkı 	 ndaki 	 	en	önemli	fikir	sıradan	konuşma	 dil 	 ini 	 	 kullan 	 arak 	 	ona	soru	 sora 	 bilmektir 	 	,	bu	 de 	 mektir 	 	ki	 insan 	 ların 	 	girdi	alanına	 yaz 	 dığı 	 	tüm	o	tuhaf	 ifade 	 leri 	 	bir	 ken 	 ara 	 	 atma 	 k 	 	ve	o	 yazılan 	 ları 	 	_UNK_	.
+ve	şunu	 söyleme 	 liyim 	 	ki	bu	adım	son	derece	imkansız	olabilir	.
+i̇ki	büyük	şey	oldu	.	i̇lki	,	hesaplama	 evren 	 ini 	 	_UNK_	gelen	 dil 	 bilim 	 	ile	ilgili	 bir 	 takım 	 	yeni	 fikir 	 lerdir 	 	.	ve	ikincisi	,	 gerçek 	 ten 	 	 hesap 	 lanabilir 	 	 bilgi 	 ye 	 	sahip	olmak	 biri 	 nin 	 	 di 	 li 	 	anlama	 girişim 	 ini 	 	 tamam 	 en 	 	 değiştir 	 diğini 	 n 	 	 fark 	 ına 	 	 varma 	 ktır 	 	.
+ve	,	 tabi 	 i 	 	ki	,	şimdi	wolfram	alpha	 ortalık 	 ta 	 	_UNK_	,	onun	gerçek	 kullanımı 	 ndan 	 	bir	şeyler	 öğrene 	 biliriz 	 	.
+ve	wolfram	alpha	ile	onun	 kullanıcı 	 ları 	 	arasında	 gerçek 	 ten 	 	ilginç	bir	ortak	evrimleşme	süreci	 meydan 	 a 	 	 gelmiş 	 tir 	 	.	ve	bu	 gerçek 	 ten 	 	cesaret	verici	.
+şu	 a 	 nda 	 	web	_UNK_	 bakar 	 sak 	 	,	%	80'i	ilk	 sefer 	 de 	 	 başarı 	 yla 	 	_UNK_	.
+ve	iphone	 uygulama 	 sı 	 	gibi	 şey 	 lere 	 	 bakar 	 sanız 	 	,	bu	oran	oldukça	daha	büyük	.
+yani	tüm	 bunlar 	 dan 	 	 memnun 	 um 	 	.
+fakat	birçok	 yön 	 den 	 	,	 hale 	 n 	 	wolfram	alpha'nın	en	 başında 	 yız 	 	.
+ de 	 mek 	 	 istediği 	 m 	 	,	her	şey	 güzel 	 ce 	 	 büyü 	 yor 	 	.	daha	da	emin	 oluyor 	 uz 	 	.
+wolfram	alpha	 teknoloji 	 sinin 	 	,	daha	birçok	yerde	hem	böyle	bir	 site 	 deki 	 	gibi	halka	açık	 veri 	 ler 	 	üzerinde	 çalışır 	 ken 	 	,	hem	de	kişi	ve	 şirket 	 lere 	 	 ha 	 s 	 	özel	 veri 	 ler 	 	üzerinde	 çalışır 	 ken 	 	 karşı 	 nıza 	 	 çıkma 	 sını 	 	_UNK_	.
+biliyorsunuz	,	wolfram	alpha'nın	bilgi	-	tabanlı	hesaplama	 diye 	 bileceğimiz 	 	yepyeni	bir	hesaplama	 yöntem 	 i 	 	 sun 	 duğunu 	 	fark	ettim	,	ki	bu	durumda	 her 	 hangi 	 	bir	kimse	sadece	ham	 veri 	 yle 	 	değil	 ak 	 sine 	 	çok	geniş	bir	mevcut	bilgi	_UNK_	başlıyor	.
+ve	 biri 	 sini 	 	bunu	yaptığı	vakit	,	ister	 internet 	 te 	 	olsun	ister	başka	yerde	 sonuç 	 ta 	 	 hesap 	 lanabilir 	 	 şey 	 leri 	 	dağıtma	 ekonomi 	 sini 	 	 gerçek 	 ten 	 	 değiştir 	 iyor 	 	.
+biliyorsunuz	şu	 a 	 nda 	 	burada	çok	ilginç	bir	durum	var	.
+bir	tarafta	,	 mun 	 ta 	 zam 	 	ve	net	bir	 di 	 li 	 	olan	ve	birçok	 ala 	 nda 	 	 özen 	 le 	 	tasarlanmış	yetenekleri	ile	birçok	işi	birkaç	satır	kod	ile	 yapa 	 bilen 	 	mathematica	var	.
+ siz 	 e 	 	birkaç	örnek	 göstere 	 yim 	 	.
+burada	küçük	bir	matematik	 program 	 ı 	 	var	.
+burada	 bir 	 takım 	 	farklı	 özellikler 	 i 	 	 ekle 	 diğimiz 	 	bir	şeyler	var	.
+burada	bu	 çizgi 	 de 	 	sadece	biraz	_UNK_	 sağlaya 	 cak 	 	bir	arayüz	 oluştura 	 cağız 	 	.
+devam	 eder 	 seniz 	 	,	çeşitli	 algoritmi 	 k 	 	şeyler	yapan	ve	kullanıcı	 arayüz 	 leri 	 	 oluştura 	 n 	 	bu	biraz	daha	karmaşık	program	ortaya	çıkar	.
+ama	bu	net	 şey 	 lerden 	 	 oluşa 	 n 	 	bir	 şey 	 dir 	 	.
+bur	mathematica'ya	ne	 yapma 	 sı 	 	 gerektiği 	 ni 	 	 anlata 	 n 	 	gayet	 mun 	 ta 	 zam 	 	ve	net	bir	 tanımlama 	 dır 	 	.
+diğer	tarafta	elimizde	 dünya 	 nın 	 	ve	insan	 dil 	 inin 	 	tüm	 karmaşık 	 lığının 	 	ve	diğer	 şey 	 lerin 	 	gömülü	olduğu	wolfram	alpha	var	.
+ pek 	 i 	 	bu	 şey 	 leri 	 	bir	araya	 koyduğu 	 nuzda 	 	ne	olur	?
+bence	oldukça	harika	olur	.
+mathematica'nın	içinde	wolfram	alpha	ile	 örneği 	 n 	 	,	gerçek	dünya	 veri 	 lerini 	 	alan	 mun 	 ta 	 zam 	 	 program 	 lar 	 	 yapa 	 bilirsiniz 	 	.
+burada	çok	basit	bir	örnek	var	.
+ayrıca	belirsiz	 ifade 	 ler 	 	de	 gire 	 bilirsiniz 	 	ve	wolfram	alpha'nın	ne	 de 	 mek 	 	 istediği 	 nizi 	 	 anlama 	 ya 	 	 çalışma 	 sını 	 	 deneye 	 bilirsiniz 	 	.
+ ha 	 ydi 	 	burada	 deney 	 elim 	 	.
+fakat	bence	burada	 gerçek 	 ten 	 	heyecan	verici	olan	şey	bunun	 biz 	 e 	 	 programla 	 mayı 	 	 demokratik 	 leştirme 	 	 şans 	 ı 	 	 verme 	 sidir 	 	.
+ de 	 mek 	 	 istediği 	 m 	 	,	 her 	 hangi 	 	bir	kimse	ne	 istediği 	 ni 	 	 gün 	 delik 	 	 dil 	 de 	 	söyleyecek	,
+ve	,	esas	fikir	,	wolfram	alpha	bu	 yazılan 	 larla 	 	istenen	şeyi	tam	olarak	hangi	 kodu 	 n 	 	 yapabileceği 	 ni 	 	 bulma 	 ya 	 	çalışacak	ve	onlara	daha	büyük	ve	net	 program 	 lar 	 	inşa	 etme 	 lerini 	 	 sağlaya 	 cak 	 	 örnek 	 ler 	 	 sunu 	 p 	 	bunlar	 arasında 	 n 	 	 istedikleri 	 ni 	 	 seçme 	 lerini 	 	 sağlaya 	 cak 	 	.
+bazen	,	wolfram	alpha	istenen	her	şeyi	 an 	 ında 	 	yapabilecek	ve	 ardı 	 ndan 	 	 hesaplama 	 yı 	 	 yapabileceği 	 n 	 	büyük	 program 	 ı 	 	 tümü 	 yle 	 	verecek	.
+burada	birçok	 eğit 	 sel 	 	 malzeme 	 nin 	 	ve	diğer	birçok	şey	hakkında	 topla 	 dığımız 	 	bir	sürü	 örnek 	 lerin 	 	yer	 al 	 dığı 	 	büyük	bir	web	 site 	 si 	 	var	.
+ bilmiyor 	 um 	 	,	 siz 	 e 	 	bir	örnek	 göstereceği 	 m 	 	,	belki	burada	.
+bu	sadece	tüm	bu	 hesap 	 lanabilir 	 	 belge 	 lerin 	 	bir	örneği	.
+bu	,	burada	 çalışa 	 bilen 	 	 muhtemel 	 en 	 	oldukça	kısa	bir	mathematica	 kodu 	 dur 	 	.
+ pe 	 kala 	 	,	tekrar	 uzaklaş 	 alım 	 	.
+ pe 	 kala 	 	,	bu	yeni	bilim	 türü 	 müzü 	 	teknoloji	 üretme 	 k 	 	için	 kullana 	 cağımız 	 	genel	bir	yöntem	var	mı	?
+söz	konusu	fiziksel	 madde 	 ler 	 	 olun 	 ca 	 	 dünya 	 yı 	 	 dolaş 	 ıp 	 	 belir 	 li 	 	 madde 	 lerin 	 	 belir 	 li 	 	 teknoloji 	 k 	 	 amaç 	 lar 	 	için	uygun	olup	 olma 	 dığını 	 	 araştırma 	 ya 	 	 alış 	 mışız 	 	.
+ görüne 	 n 	 	o	ki	aynı	şeyi	hesaplama	 evreni 	 nde 	 	de	 yapa 	 biliriz 	 	.
+ bitme 	 z 	 	 tükenme 	 z 	 	bir	program	kaynağı	var	dışarıda	.
+asıl	mesele	onları	 insan 	 ların 	 	kullanımı	için	nasıl	_UNK_	.
+ örneği 	 n 	 	kural	30'un	 gerçek 	 ten 	 	iyi	bir	 rastgele 	 lik 	 	 üretici 	 si 	 	 olma 	 sı 	 	gibi	.
+diğer	basit	 program 	 lar 	 	doğal	ve	sosyal	 dünya 	 daki 	 	 işlem 	 ler 	 	için	iyi	 model 	 dir 	 	.
+ve	,	 örneği 	 n 	 	,	wolfram	alpha	ve	mathematica	 gerçek 	 ten 	 	bizim	hesaplama	 evren 	 ini 	 	 araştır 	 ırken 	 	 keşf 	 ettiğimiz 	 	_UNK_	 dolu 	 dur 	 	.
+ve	,	 örneği 	 n 	 	,	bu	--	 bura 	 ya 	 	geri	 dönüyor 	 uz 	 	--	bu	,	hesaplama	 evreni 	 nde 	 	arama	 yap 	 arak 	 	 müzik 	 sel 	 	 yapı 	 lar 	 	 bula 	 n 	 	 besteci 	 ler 	 	arasında	şaşırtıcı	 derece 	 de 	 	popüler	oldu	.
+bir	 anlam 	 da 	 	,	_UNK_	 düzen 	 lenmiş 	 	yaratıcılığı	 edinme 	 k 	 	için	hesaplama	 evren 	 ini 	 	 kullana 	 biliriz 	 	.
+ umu 	 yorum 	 	ki	,	 örneği 	 n 	 	,	wolfram	_UNK_	rutin	olarak	icat	ve	keşif	 yapma 	 k 	 	ve	 hiç 	 bir 	 	 mühendis 	 in 	 	ve	 hiç 	 bir 	 	 arta 	 n 	 	evrim	 süreci 	 nin 	 	_UNK_	tüm	bu	harika	 şey 	 leri 	 	 bulma 	 k 	 	için	 kullana 	 biliriz 	 	.
+bu	 biz 	 i 	 	mutlak	 soru 	 ya 	 	götürüyor	.	hesaplama	 evreni 	 n 	 	bir	yerinde	kendi	fiziksel	 evrenimiz 	 i 	 	 bulma 	 mız 	 	mümkün	müdür	?
+belki	de	evrenimiz	için	oldukça	basit	bir	kural	veya	basit	bir	program	 var 	 dır 	 	.
+fizik	tarihi	 biz 	 den 	 	,	 evreni 	 n 	 	_UNK_	son	derece	karmaşık	 olduğu 	 na 	 	 inanma 	 mızı 	 	 isteyecek 	 tir 	 	.
+fakat	hesaplama	 evreni 	 nde 	 	son	derece	basit	 kural 	 ların 	 	nasıl	oldukça	zengin	ve	karmaşık	 davranış 	 lar 	 	 ürettiğ 	 ini 	 	gördük	.
+bizim	bütün	 evren 	 de 	 	de	olup	biten	bu	olabilir	mi	?
+eğer	 evreni 	 n 	 	 kural 	 ları 	 	_UNK_	,	onların	çok	soyut	ve	çok	alt	 düzey 	 de 	 	 olma 	 ları 	 	,	 örneği 	 n 	 	bir	 şey 	 leri 	 	 tanımlama 	 yı 	 	 zorlaştı 	 ran 	 	zaman	ve	uzay	 düzeyi 	 nin 	 	çok	altında	 iş 	 liyor 	 	 olma 	 ları 	 	gerektiği	kaçınılmaz	 ola 	 caktır 	 	.
+fakat	geniş	bir	vaka	 sınıfı 	 nda 	 	,	evreni	bir	tür	ağ	gibi	 göre 	 biliriz 	 	,	öyle	ki	bu	ağ	 yeter 	 ince 	 	büyük	 olduğu 	 nda 	 	 ay 	 ne 	 n 	 	birçok	 molekülü 	 n 	 	 da 	 imi 	 	bir	sıvı	gibi	hareket	ettiği	şekilde	 davranma 	 ya 	 	 başlaya 	 caktır 	 	.
+ ardı 	 ndan 	 	evren	,	bu	ağı	 derece 	 li 	 	olarak	 güncel 	 leyen 	 	küçük	 kural 	 ları 	 	 uygula 	 yarak 	 	 evrimleşme 	 k 	 	 zorunda 	 dır 	 	.
+ve	her	olası	kural	,	bir	şekilde	,	aday	bir	 evren 	 e 	 	 karşı 	 lık 	 	gelir	.
+aslında	,	 bun 	 ları 	 	henüz	 gösterme 	 dim 	 	,	ama	burada	benim	 baktığı 	 m 	 	birkaç	aday	evren	yer	alıyor	.
+ bun 	 ların 	 	bazıları	umutsuz	 evren 	 ler 	 	,	 tamam 	 en 	 	kısır	,	boşluk	,	zaman	veya	 madde 	 nin 	 	olmadığı	diğer	 patoloji 	 ler 	 	gibi	buna	benzer	 sorun 	 lar 	 	.
+fakat	son	birkaç	 yıl 	 da 	 	 bulduğu 	 m 	 	heyecan	verici	şey	,	bizim	evrenimiz	olmadığı	gayet	açık	olan	aday	 evren 	 leri 	 	 bulma 	 ya 	 	 başlama 	 k 	 	için	hesaplama	 evreni 	 nde 	 	çok	da	 uz 	 ağa 	 	 gitme 	 niz 	 	_UNK_	.
+i̇şte	problem	:	bizim	evrenimiz	için	ciddi	bir	aday	,	mutlak	şekilde	sayısal	_UNK_	 dolu 	 dur 	 	,
+bu	da	 de 	 mektir 	 	ki	,	onun	 gerçek 	 ten 	 	nasıl	_UNK_	veya	fiziksel	_UNK_	 eş 	 leşip 	 	_UNK_	 kestirme 	 k 	 	 indirge 	 ne 	 mez 	 	 derece 	 de 	 	 zor 	 dur 	 	.
+birkaç	yıl	önce	 izafi 	 yet 	 	 teori 	 sini 	 	ve	 hat 	 ta 	 	genel	 göreli 	 lik 	 	kuramı	ve	yer	 çekim 	 ini 	 	 başarı 	 lı 	 	bir	şekilde	 kopyalaya 	 n 	 	ve	en	 azı 	 ndan 	 	 ku 	 antum 	 	mekaniği	hakkında	ipuçları	veren	son	derece	basit	 kural 	 lı 	 	aday	 evren 	 ler 	 	olduğunu	 keşf 	 ettiğim 	 de 	 	oldukça	 heyecan 	 lanmıştım 	 	.
+ pek 	 i 	 	,	fiziğin	 tamam 	 ını 	 	 bula 	 bilecek 	 	miyiz	?
+emin	değilim	.	fakat	bence	bu	 aşama 	 da 	 	en	 azı 	 ndan 	 	_UNK_	utanç	 verici 	 dir 	 	.
+kolay	bir	proje	değil	.
+çok	teknoloji	 oluşturma 	 k 	 	 zorunda 	 yız 	 	.
+ muhtemel 	 en 	 	en	az	mevcut	fizik	kadar	derin	 yapı 	 lar 	 	inşa	 etme 	 liyiz 	 	.
+ve	tüm	bunu	 organ 	 ize 	 	edecek	en	iyi	 yöntem 	 in 	 	ne	 olduğu 	 ndan 	 	emin	değilim	.
+bir	takım	oluştur	,	aç	 dünya 	 ya 	 	,	 ödül 	 ler 	 	ver	vb	.
+fakat	bugün	burada	 siz 	 e 	 	bu	on	yıl	için	 evrenimiz 	 in 	 	 kural 	 ını 	 	elimizde	 tut 	 up 	 	_UNK_	,	ve	 evrenimiz 	 in 	 	tüm	aday	 evren 	 ler 	 	içinde	nerede	yer	 al 	 dığını 	 	 görü 	 p 	 	_UNK_	,	ve	wolfram	_UNK_	``	 evreni 	 n 	 	 teori 	 si 	 	``	_UNK_
+onun	 biz 	 e 	 	 anlat 	 ıp 	 	_UNK_	 göre 	 bilmek 	 	için	bu	 proje 	 nin 	 	 bitme 	 sine 	 	 kendi 	 mi 	 	_UNK_	 söyle 	 yeceğim 	 	.
+hesaplama	fikri	üzerinde	30	 yıl 	 dan 	 	 fazla 	 dır 	 	 araç 	 lar 	 	ve	_UNK_	 oluştur 	 arak 	 	,	zeki	 fikir 	 leri 	 	_UNK_	satır	 k 	 oda 	 	 dönüştür 	 erek 	 	ve	 bun 	 ları 	 	sunucu	 tarla 	 ları 	 	üzerinde	 öğüt 	 erek 	 	 çalışıyor 	 um 	 	.
+her	 geçe 	 n 	 	yıl	ile	birlikte	,	hesaplama	 fikri 	 nin 	 	ne	kadar	güçlü	olduğunu	fark	ediyorum	.
+ biz 	 e 	 	 za 	 ten 	 	uzun	bir	yol	kat	ettirdi	,	fakat	bunun	 daha 	 sı 	 	var	.
+ bilimi 	 n 	 	 temel 	 lerinden 	 	 teknoloji 	 nin 	 	 limit 	 lerine 	 	,	bizzat	insan	 durum 	 unun 	 	 tanımı 	 na 	 	kadar	,	bence	 hesaplama 	 nın 	 	kaderi	 geleceği 	 mizin 	 	 fikri 	 ni 	 	 tanımlama 	 ktır 	 	.
+ teşekkür 	 ler 	 	.
+chris	anderson	:	bu	hayret	 verici 	 ydi 	 	.
+bekle	burada	.	bir	 soru 	 m 	 	var	.
+ doğru 	 su 	 	çok	şaşırtıcı	bir	 konuşma 	 ydı 	 	.
+bu	tür	bir	düşünce	 tarzı 	 nın 	 	nasıl	bir	şekilde	sicim	_UNK_	veya	 insan 	 ların 	 	 evreni 	 n 	 	temel	 açıklama 	 sı 	 	olarak	gördüğü	 şey 	 lere 	 	_UNK_	bir	veya	iki	 cümle 	 de 	 	 anlata 	 bilir 	 	misin	?
+stephen	wolfram	:	fiziğin	,	doğru	olduğunu	bildiğimiz	,	 örneği 	 n 	 	fiziğin	standart	 model 	 leri 	 	gibi	 taraf 	 larını 	 	 bağlaya 	 biliriz 	 	.	 yapma 	 ya 	 	 çalıştığı 	 m 	 	şey	,	fiziğin	standart	 model 	 ini 	 	daha	iyi	şekilde	 yeni 	 den 	 	 üretme 	 k 	 	veya	 baş 	 tan 	 	 yanlış 	 tır 	 	.
+i̇nsanların	son	25	küsür	yıldır	sicim	kuramı	ve	diğer	şeyler	ile	 yapma 	 ya 	 	çalıştıkları	,	standart	 model 	 e 	 	_UNK_	için	yapılan	fakat	henüz	o	 nokta 	 ya 	 	 ulaşa 	 mayan 	 	ilginç	_UNK_	.
+benim	 tahmini 	 m 	 	 yaptığı 	 m 	 	büyük	_UNK_	sicim	_UNK_	yapılan	kadar	 gerçek 	 ten 	 	 kayd 	 a 	 	değer	etki	_UNK_	,	fakat	bu	henüz	nasıl	 ola 	 cağını 	 	 bilme 	 diğim 	 	karmaşık	bir	matematik	_UNK_	.
+ca	:	 dinleyici 	 ler 	 	arasında	benoit	_UNK_	var	.
+o	da	basit	bir	 başlangıç 	 tan 	 	nasıl	 karmaşık 	 lık 	 	 çıka 	 cağını 	 	 göster 	 miştir 	 	.
+ se 	 nin 	 	 çalışma 	 n 	 	 bunun 	 la 	 	alakalı	mı	?
+sw	:	öyle	 sa 	 nırım 	 	.
+benoit	_UNK_	 çalışma 	 larını 	 	bu	tür	 alanları 	 n 	 	temel	taşı	olarak	 görüyor 	 um 	 	.
+benoit	özellikle	iç	içe	 kalıp 	 lar 	 	,	 fraktal 	 lar 	 	ve	 yapı 	 nın 	 	bir	 ağacı 	 n 	 	 dal 	 larına 	 	 benzeye 	 n 	 	büyük	 dal 	 lardan 	 	_UNK_	çıktığı	ve	küçük	 dal 	 lardan 	 	da	daha	_UNK_	çıktığı	 yapı 	 lara 	 	ilgi	duyuyor	.
+bu	gerçek	 karmaşık 	 lığa 	 	 gide 	 n 	 	 yol 	 lardan 	 	bir	 tane 	 sidir 	 	.
+bence	,	kural	30	gibi	hücre	_UNK_	 biz 	 i 	 	farklı	 seviye 	 lere 	 	götürür	.
+aslında	 biz 	 i 	 	farklı	bir	 seviye 	 ye 	 	çok	net	bir	 yol 	 dan 	 	 götürüyor 	 lar 	 	çünkü	onlar	 karmaşık 	 lık 	 	_UNK_	şeyler	 gibi 	 ler 	 	bu	 karmaşık 	 lığın 	 	olabileceği	en	büyük	hali	gibi	bir	şey	...
+daha	çok	 anlatır 	 ım 	 	ama	lafı	_UNK_	.
+ca	:	stephen	wolfram	,	 teşekkür 	 ler 	 	.
+

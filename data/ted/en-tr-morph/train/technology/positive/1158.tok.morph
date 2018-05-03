@@ -1,0 +1,98 @@
+ man 	 y 	 	 believ 	 e 	 	 driv 	 ing 	 	is	an	activity	 sole 	 ly 	 	 re 	 serv 	 ed 	 	for	 t 	 hose 	 	who	can	see	.
+a	blind	person	 driv 	 ing 	 	a	vehicle	 safe 	 ly 	 	and	 in 	 dependent 	 ly 	 	was	thought	to	be	an	 im 	 possible 	 	task	,	 un 	 til 	 	now	.
+ hell 	 o 	 	,	my	name	is	dennis	hong	,	and	we	're	 br 	 ing 	 ing 	 	 free 	 dom 	 	and	 in 	 depend 	 ence 	 	to	the	blind	by	building	a	vehicle	for	the	 visual 	 ly 	 	 impair 	 ed 	 	.
+so	before	i	talk	about	 th 	 is 	 	car	for	the	blind	,	let	me	 brief 	 ly 	 	tell	you	about	 an 	 other 	 	project	that	i	 work 	 ed 	 	on	 call 	 ed 	 	the	darpa	urban	 challeng 	 e 	 	.
+now	 th 	 is 	 	was	about	building	a	robotic	car	that	can	drive	 it 	 self 	 	.
+you	press	start	,	 no 	 body 	 	 touch 	 es 	 	 any 	 thing 	 	,	and	it	can	reach	 it 	 s 	 	destination	fully	 autonomous 	 ly 	 	.
+so	in	2007	,	our	team	won	half	a	million	 dollar 	 s 	 	by	placing	third	place	in	 th 	 is 	 	 com 	 petition 	 	.
+so	about	that	time	,	the	national	federation	of	the	blind	,	or	nfb	,	 challeng 	 ed 	 	the	research	 commit 	 tee 	 	about	who	can	develop	a	car	that	lets	a	blind	person	drive	 safe 	 ly 	 	and	 in 	 dependent 	 ly 	 	.
+we	 decide 	 d 	 	to	give	it	a	try	,	 be 	 cause 	 	we	thought	,	``	 he 	 y 	 	,	how	hard	could	it	be	?	``
+we	have	 al 	 ready 	 	an	autonomous	vehicle	.
+we	just	put	a	blind	person	in	it	and	we	're	 d 	 one 	 	,	right	?
+we	could	n't	have	 be 	 en 	 	more	wrong	.
+what	nfb	 want 	 ed 	 	was	not	a	vehicle	that	can	drive	a	blind	person	around	,	but	a	vehicle	where	a	blind	person	can	make	active	 decision 	 s 	 	and	drive	.
+so	we	had	to	throw	 every 	 thing 	 	out	the	window	and	start	from	scratch	.
+so	to	test	 th 	 is 	 	crazy	idea	,	we	 develop 	 ed 	 	a	small	dune	 bug 	 gy 	 	prototype	vehicle	to	test	the	 feas 	 ibility 	 	.
+and	in	the	summer	of	2009	,	we	 invit 	 ed 	 	 dozen 	 s 	 	of	blind	youth	from	all	over	the	country	and	 g 	 ave 	 	them	a	chance	to	take	it	for	a	spin	.
+it	was	an	 absolute 	 ly 	 	 amaz 	 ing 	 	experience	.
+but	the	problem	with	 th 	 is 	 	car	was	it	was	designed	to	 on 	 ly 	 	be	driven	in	a	 ver 	 y 	 	controlled	environment	,	in	a	flat	,	closed	-	off	 park 	 ing 	 	lot	--	even	the	 lane 	 s 	 	defined	by	red	traffic	 con 	 es 	 	.
+so	with	 th 	 is 	 	success	,	we	 decide 	 d 	 	to	take	the	next	big	step	,	to	develop	a	real	car	that	can	be	driven	on	real	 road 	 s 	 	.
+so	how	 do 	 es 	 	it	work	?
+well	,	it	's	a	 ra 	 ther 	 	complex	system	,	but	let	me	try	to	explain	it	,	 may 	 be 	 	 simpl 	 ify 	 	it	.
+so	we	have	three	 step 	 s 	 	.
+we	have	 per 	 ception 	 	,	computation	and	non	-	visual	 inter 	 face 	 s 	 	.
+now	 obvious 	 ly 	 	the	driver	can	not	see	,	so	the	system	 need 	 s 	 	to	perceive	the	environment	and	gather	information	for	the	driver	.
+for	that	,	we	use	an	 initi 	 al 	 	 measure 	 ment 	 	unit	.
+so	it	 measure 	 s 	 	 accele 	 ration 	 	,	angular	 accele 	 ration 	 	--	like	a	human	ear	,	inner	ear	.
+we	fuse	that	information	with	a	gps	unit	to	get	an	estimate	of	the	location	of	the	car	.
+we	 al 	 so 	 	use	two	 camera 	 s 	 	to	detect	the	 lane 	 s 	 	of	the	road	.
+and	we	 al 	 so 	 	use	three	laser	range	 finder 	 s 	 	.
+the	 laser 	 s 	 	 s 	 can 	 	the	environment	to	detect	 obstacle 	 s 	 	--	a	car	 approach 	 ing 	 	from	the	front	,	the	back	and	 al 	 so 	 	any	 obstacle 	 s 	 	that	run	 in 	 to 	 	the	 road 	 s 	 	,	any	 obstacle 	 s 	 	around	the	vehicle	.
+so	all	 th 	 is 	 	vast	amount	of	information	is	then	fed	 in 	 to 	 	the	computer	,	and	the	computer	can	do	two	 thing 	 s 	 	.
+one	is	,	first	of	all	,	process	 th 	 is 	 	information	to	have	an	 understand 	 ing 	 	of	the	environment	--	these	are	the	 lane 	 s 	 	of	the	road	,	there	's	the	 obstacle 	 s 	 	--	and	convey	 th 	 is 	 	information	to	the	driver	.
+the	system	is	 al 	 so 	 	smart	 en 	 ough 	 	to	figure	out	the	 safe 	 st 	 	way	to	 oper 	 ate 	 	the	car	.
+so	we	can	 al 	 so 	 	generate	 instruct 	 ions 	 	on	how	to	 oper 	 ate 	 	the	 control 	 s 	 	of	the	vehicle	.
+but	the	problem	is	 th 	 is 	 	:	how	do	we	convey	 th 	 is 	 	information	and	 instruct 	 ions 	 	to	a	person	who	can	not	see	fast	 en 	 ough 	 	and	accurate	 en 	 ough 	 	so	he	can	drive	?
+so	for	 th 	 is 	 	,	we	 develop 	 ed 	 	 man 	 y 	 	different	 type 	 s 	 	of	non	-	visual	user	 inter 	 face 	 	technology	.
+so	 start 	 ing 	 	from	a	three	-	dimensional	ping	sound	system	,	a	 vib 	 rating 	 	vest	,	a	click	wheel	with	voice	 command 	 s 	 	,	a	leg	strip	,	even	a	shoe	that	 appli 	 es 	 	pressure	to	the	foot	.
+but	 to 	 day 	 	we	're	going	to	talk	about	three	of	these	non	-	visual	user	 inter 	 face 	 s 	 	.
+now	the	first	 inter 	 face 	 	is	 call 	 ed 	 	a	drivegrip	.
+so	these	are	a	pair	of	 glove 	 s 	 	,	and	it	 ha 	 s 	 	 vib 	 rating 	 	 element 	 s 	 	on	the	knuckle	part	so	you	can	convey	 instruct 	 ions 	 	about	how	to	steer	--	the	direction	and	the	 intens 	 ity 	 	.
+ an 	 other 	 	 de 	 vice 	 	is	 call 	 ed 	 	speedstrip	.
+so	 th 	 is 	 	is	a	chair	--	 a 	 s 	 	a	matter	of	fact	,	it	's	 actual 	 ly 	 	a	 mass 	 age 	 	chair	.
+we	gut	it	out	,	and	we	 re 	 arrange 	 	the	 vib 	 rating 	 	 element 	 s 	 	in	different	 pattern 	 s 	 	,	and	we	 actu 	 ate 	 	them	to	convey	information	about	the	speed	,	and	 al 	 so 	 	 instruct 	 ions 	 	how	to	use	the	gas	and	the	brake	 ped 	 al 	 	.
+so	over	here	,	you	can	see	how	the	computer	 understand 	 s 	 	the	environment	,	and	 be 	 cause 	 	you	can	not	see	the	vibration	,	we	 actual 	 ly 	 	put	red	led	's	on	the	driver	so	that	you	can	see	what	's	 happen 	 ing 	 	.
+ th 	 is 	 	is	the	 sensor 	 y 	 	data	,	and	that	data	is	 transfer 	 red 	 	to	the	 de 	 vice 	 s 	 	through	the	computer	.
+so	these	two	 de 	 vice 	 s 	 	,	drivegrip	and	speedstrip	,	are	 ver 	 y 	 	effective	.
+but	the	problem	is	these	are	 instruct 	 ional 	 	cue	 de 	 vice 	 s 	 	.
+so	 th 	 is 	 	is	not	 re 	 ally 	 	 free 	 dom 	 	,	right	?
+the	computer	 tell 	 s 	 	you	how	to	drive	--	turn	left	,	turn	right	,	speed	up	,	stop	.
+we	call	 th 	 is 	 	the	``	 back 	 seat 	 	-	driver	problem	.	``
+so	we	're	moving	away	from	the	 instruct 	 ional 	 	cue	 de 	 vice 	 s 	 	,	and	we	're	now	 focus 	 ing 	 	more	on	the	 information 	 al 	 	 de 	 vice 	 s 	 	.
+a	good	 ex 	 ample 	 	for	 th 	 is 	 	 information 	 al 	 	non	-	visual	user	 inter 	 face 	 	is	 call 	 ed 	 	airpix	.
+so	think	of	it	 a 	 s 	 	a	monitor	for	the	blind	.
+so	it	's	a	small	 table 	 t 	 	,	 ha 	 s 	 	 man 	 y 	 	 hole 	 s 	 	in	it	,	and	 compress 	 ed 	 	air	 come 	 s 	 	out	,	so	it	can	 actual 	 ly 	 	draw	 image 	 s 	 	.
+so	even	 th 	 ough 	 	you	are	blind	,	you	can	put	your	hand	over	it	,	you	can	see	the	 lane 	 s 	 	of	the	road	and	 obstacle 	 s 	 	.
+ actual 	 ly 	 	,	you	can	 al 	 so 	 	change	the	frequency	of	the	air	coming	out	and	possibly	the	temperature	.
+so	it	's	 actual 	 ly 	 	a	multi	-	dimensional	user	 inter 	 face 	 	.
+so	here	you	can	see	the	left	camera	,	the	right	camera	from	the	vehicle	and	how	the	computer	 interpret 	 s 	 	that	and	 s 	 end 	 s 	 	that	information	to	the	airpix	.
+for	 th 	 is 	 	,	we	're	 show 	 ing 	 	a	 simul 	 ator 	 	,	a	blind	person	 driv 	 ing 	 	using	the	airpix	.
+ th 	 is 	 	 simul 	 ator 	 	was	 al 	 so 	 	 ver 	 y 	 	 use 	 ful 	 	for	training	the	blind	 driver 	 s 	 	and	 al 	 so 	 	 quick 	 ly 	 	 test 	 ing 	 	different	 type 	 s 	 	of	 idea 	 s 	 	for	different	 type 	 s 	 	of	non	-	visual	user	 inter 	 face 	 s 	 	.
+so	 bas 	 ically 	 	that	's	how	it	 work 	 s 	 	.
+so	just	a	month	ago	,	on	january	29th	,	we	 unveil 	 ed 	 	 th 	 is 	 	vehicle	for	the	 ver 	 y 	 	first	time	to	the	public	at	the	world	-	famous	daytona	 inter 	 national 	 	speedway	 dur 	 ing 	 	the	rolex	24	 rac 	 ing 	 	event	.
+we	 al 	 so 	 	had	some	 surprise 	 s 	 	.	let	's	take	a	look	.
+announcer	:	 th 	 is 	 	is	an	historic	day	in	january	.
+he	's	coming	up	to	the	 grand 	 stand 	 	,	fellow	federationists	.
+there	's	the	 grand 	 stand 	 	now	.
+and	he	's	[	 un 	 clear 	 	]	 follow 	 ing 	 	that	van	that	's	out	in	front	of	him	.
+well	there	 come 	 s 	 	the	first	box	.
+now	let	's	see	if	mark	 avoid 	 s 	 	it	.
+he	 do 	 es 	 	.	he	 pass 	 es 	 	it	on	the	right	.
+third	box	is	out	.	the	fourth	box	is	out	.
+and	he	's	 perfect 	 ly 	 	making	his	way	between	the	two	.
+he	's	 clo 	 s 	 ing 	 	in	on	the	van	to	make	the	moving	pass	.
+well	 th 	 is 	 	is	what	it	's	all	about	,	 th 	 is 	 	kind	of	dynamic	 dis 	 play 	 	of	 au 	 da 	 city 	 	and	 ing 	 en 	 u 	 ity 	 	.
+he	's	 approach 	 ing 	 	the	end	of	the	run	,	 make 	 s 	 	his	way	between	the	 barrel 	 s 	 	that	are	set	up	there	.
+dennis	hong	:	i	'm	so	happy	for	you	.
+mark	's	going	to	give	me	a	ride	back	to	the	hotel	.
+mark	riccobono	:	 y 	 es 	 	.
+dh	:	so	since	we	 start 	 ed 	 	 th 	 is 	 	project	,	we	've	 be 	 en 	 	 get 	 ting 	 	 hundred 	 s 	 	of	 letter 	 s 	 	,	 email 	 s 	 	,	phone	 call 	 s 	 	from	people	from	all	around	the	world	.
+ letter 	 s 	 	 thank 	 ing 	 	us	,	but	 some 	 time 	 s 	 	you	 al 	 so 	 	get	funny	 letter 	 s 	 	like	 th 	 is 	 	one	:	``	now	i	understand	why	there	is	braille	on	a	drive	-	up	atm	machine	.	``
+but	 some 	 time 	 s 	 	--	but	 some 	 time 	 s 	 	i	 al 	 so 	 	do	get	--	i	would	n't	call	it	hate	mail	--	but	 letter 	 s 	 	of	 re 	 ally 	 	strong	concern	:	``	dr.	hong	,	are	you	 insan 	 e 	 	,	 try 	 ing 	 	to	put	blind	people	on	the	road	?
+you	must	be	out	of	your	mind	.	``
+but	 th 	 is 	 	vehicle	is	a	prototype	vehicle	,	and	it	's	not	going	to	be	on	the	road	 un 	 til 	 	it	's	proven	 a 	 s 	 	safe	 a 	 s 	 	,	or	 safe 	 r 	 	than	,	 to 	 day 	 	's	vehicle	.
+and	i	 tru 	 ly 	 	 believ 	 e 	 	that	 th 	 is 	 	can	happen	.
+but	still	,	will	the	 socie 	 ty 	 	,	would	they	accept	 s 	 uch 	 	a	radical	idea	?
+how	are	we	going	to	handle	 insur 	 ance 	 	?
+how	are	we	going	to	issue	driver	's	 licens 	 es 	 	?
+there	's	 man 	 y 	 	of	these	different	 kind 	 s 	 	of	 hurdle 	 s 	 	 be 	 side 	 s 	 	technology	 challeng 	 es 	 	that	we	need	to	address	before	 th 	 is 	 	 be 	 come 	 s 	 	a	 re 	 ality 	 	.
+of	course	,	the	main	goal	of	 th 	 is 	 	project	is	to	develop	a	car	for	the	blind	.
+but	 potential 	 ly 	 	more	 import 	 ant 	 	than	 th 	 is 	 	is	the	tremendous	value	of	the	spin	-	off	technology	that	can	come	from	 th 	 is 	 	project	.
+the	 sensor 	 s 	 	that	are	used	can	see	through	the	dark	,	the	fog	and	rain	.
+and	together	with	 th 	 is 	 	new	type	of	 inter 	 face 	 s 	 	,	we	can	use	these	 techno 	 logies 	 	and	 app 	 ly 	 	them	to	 safe 	 r 	 	 car 	 s 	 	for	 sight 	 ed 	 	people	.
+or	for	the	blind	,	 every 	 day 	 	home	 appli 	 ance 	 s 	 	--	in	the	 education 	 al 	 	setting	,	in	the	 off 	 ice 	 	setting	.
+just	imagine	,	in	a	 class 	 room 	 	a	teacher	 write 	 s 	 	on	the	 black 	 board 	 	and	a	blind	student	can	see	what	's	written	and	read	using	these	non	-	visual	 inter 	 face 	 s 	 	.
+ th 	 is 	 	is	 price 	 less 	 	.
+so	 to 	 day 	 	,	the	 thing 	 s 	 	i	've	 show 	 ed 	 	you	 to 	 day 	 	,	is	just	the	 begin 	 ning 	 	.
+thank	you	 ver 	 y 	 	much	.
+

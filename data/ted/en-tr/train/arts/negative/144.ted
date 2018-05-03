@@ -1,0 +1,184 @@
+so_en i_en really_en consider_en myself_en a_en storyteller_en ._en
+but_en i_en do_en n't_en really_en tell_en stories_en in_en the_en usual_en way_en ,_en in_en the_en sense_en that_en i_en do_en n't_en usually_en tell_en my_en own_en stories_en ._en
+instead_en ,_en i_en 'm_en really_en interested_en in_en building_en tools_en that_en allow_en large_en numbers_en of_en other_en people_en to_en tell_en their_en stories_en ,_en people_en all_en around_en the_en world_en ._en
+i_en do_en this_en because_en i_en think_en that_en people_en actually_en have_en a_en lot_en in_en common_en ._en
+i_en think_en people_en are_en very_en similar_en ,_en but_en i_en also_en think_en that_en we_en have_en trouble_en seeing_en that_en ._en
+you_en know_en ,_en as_en i_en look_en around_en the_en world_en i_en see_en a_en lot_en of_en gaps_en ,_en and_en i_en think_en we_en all_en see_en a_en lot_en of_en gaps_en ._en
+and_en we_en define_en ourselves_en by_en our_en gaps_en ._en
+there_en 's_en language_en gaps_en ,_en there_en 's_en ethnicity_en and_en racial_en gaps_en ,_en there_en 's_en age_en gaps_en ,_en there_en 's_en gender_en gaps_en ,_en there_en 's_en sexuality_en gaps_en ,_en there_en 's_en wealth_en and_en money_en gaps_en ,_en there_en 's_en education_en gaps_en ,_en there_en 's_en also_en religious_en gaps_en ._en
+you_en know_en ,_en we_en have_en all_en these_en gaps_en and_en i_en think_en we_en like_en our_en gaps_en because_en they_en make_en us_en feel_en like_en we_en identify_en with_en something_en ,_en some_en smaller_en community_en ._en
+but_en i_en think_en that_en actually_en ,_en despite_en our_en gaps_en ,_en we_en really_en have_en a_en lot_en in_en common_en ._en
+and_en i_en think_en one_en thing_en we_en have_en in_en common_en is_en a_en very_en deep_en need_en to_en express_en ourselves_en ._en
+i_en think_en this_en is_en a_en very_en old_en human_en desire_en ._en it_en 's_en nothing_en new_en ._en
+but_en the_en thing_en about_en self_en -_en expression_en is_en that_en there_en 's_en traditionally_en been_en this_en imbalance_en between_en the_en desire_en that_en we_en have_en to_en express_en ourselves_en and_en the_en number_en of_en sympathetic_en friends_en who_en are_en willing_en to_en stand_en around_en and_en listen_en ._en
+this_en ,_en also_en ,_en is_en nothing_en new_en ._en
+since_en the_en dawn_en of_en human_en history_en ,_en we_en 've_en tried_en to_en rectify_en this_en imbalance_en by_en making_en art_en ,_en writing_en poems_en ,_en singing_en songs_en ,_en scripting_en editorials_en and_en sending_en them_en in_en to_en a_en newspaper_en ,_en gossiping_en with_en friends_en ._en this_en is_en nothing_en new_en ._en
+what_en 's_en new_en is_en that_en in_en the_en last_en several_en years_en a_en lot_en of_en these_en very_en traditional_en physical_en human_en activities_en ,_en these_en acts_en of_en self_en -_en expression_en ,_en have_en been_en moving_en onto_en the_en internet_en ._en
+and_en as_en that_en 's_en happened_en ,_en people_en have_en been_en leaving_en behind_en footprints_en ,_en footprints_en that_en tell_en stories_en of_en their_en moments_en of_en self_en -_en expression_en ._en
+and_en so_en what_en i_en do_en is_en ,_en i_en write_en computer_en programs_en that_en study_en very_en large_en sets_en of_en these_en footprints_en ,_en and_en then_en try_en to_en draw_en conclusions_en about_en the_en people_en who_en left_en them_en --_en what_en they_en feel_en ,_en what_en they_en think_en ,_en what_en 's_en different_en in_en the_en world_en today_en than_en usual_en ,_en these_en sorts_en of_en questions_en ._en
+one_en project_en that_en explores_en these_en ideas_en ,_en which_en was_en made_en about_en a_en year_en ago_en ,_en is_en a_en piece_en called_en we_en feel_en fine_en ._en
+this_en is_en a_en piece_en that_en every_en two_en or_en three_en minutes_en scans_en the_en world_en 's_en newly_en -_en posted_en blog_en entries_en for_en occurrences_en of_en the_en phrases_en "_en i_en feel_en "_en or_en "_en i_en am_en feeling_en ._en "_en
+and_en when_en it_en finds_en one_en of_en those_en phrases_en ,_en it_en grabs_en the_en sentence_en up_en to_en the_en period_en ,_en and_en then_en automatically_en tries_en to_en deduce_en the_en age_en ,_en gender_en and_en geographical_en location_en of_en the_en person_en that_en wrote_en that_en sentence_en ._en
+then_en ,_en knowing_en the_en geographical_en location_en and_en the_en time_en ,_en we_en can_en also_en then_en figure_en out_en the_en weather_en when_en that_en person_en wrote_en the_en sentence_en ._en
+all_en of_en this_en information_en is_en saved_en in_en a_en database_en that_en collects_en about_en 20,000_en feelings_en a_en day_en ._en
+it_en 's_en been_en running_en for_en about_en a_en year_en and_en a_en half_en ._en
+it_en 's_en reached_en about_en seven_en -_en and_en -_en a_en -_en half_en million_en human_en feelings_en now_en ._en
+and_en i_en 'll_en show_en you_en a_en glimpse_en of_en how_en this_en information_en is_en then_en visualized_en ._en so_en this_en is_en we_en feel_en fine_en ._en
+what_en you_en see_en here_en is_en a_en madly_en swarming_en mass_en of_en particles_en ,_en each_en of_en which_en represents_en a_en single_en human_en feeling_en that_en was_en stated_en in_en the_en last_en few_en hours_en ._en
+the_en color_en of_en each_en particle_en corresponds_en to_en the_en type_en of_en feeling_en inside_en --_en so_en that_en happy_en ,_en positive_en feelings_en are_en brightly_en colored_en ._en
+and_en sad_en ,_en negative_en feelings_en are_en darkly_en colored_en ._en
+the_en diameter_en of_en each_en dot_en represents_en the_en length_en of_en the_en sentence_en inside_en ,_en so_en that_en the_en large_en dots_en contain_en large_en sentences_en ,_en and_en the_en small_en dots_en contain_en small_en sentences_en ._en
+any_en dot_en can_en be_en clicked_en and_en expanded_en ._en and_en we_en see_en here_en ,_en "_en i_en would_en just_en feel_en so_en much_en better_en if_en i_en could_en curl_en up_en in_en his_en arms_en right_en now_en and_en feel_en his_en affection_en for_en me_en in_en the_en embrace_en of_en his_en body_en and_en the_en tenderness_en of_en his_en lips_en ._en "_en
+so_en it_en gets_en pretty_en hot_en and_en steamy_en sometimes_en in_en the_en world_en of_en human_en emotions_en ._en
+and_en all_en of_en these_en are_en stated_en by_en people_en :_en "_en i_en know_en that_en objectively_en it_en really_en does_en n't_en mean_en much_en ,_en but_en after_en spending_en so_en many_en years_en as_en a_en small_en fish_en in_en a_en big_en pond_en ,_en it_en 's_en nice_en to_en feel_en bigger_en again_en ._en "_en
+the_en dots_en exhibit_en human_en qualities_en ._en they_en kind_en of_en have_en their_en own_en physics_en ,_en and_en they_en swarm_en wildly_en around_en ,_en kind_en of_en exploring_en the_en world_en of_en life_en ._en
+and_en then_en they_en also_en exhibit_en curiosity_en ._en
+you_en can_en see_en a_en few_en of_en them_en are_en swarming_en around_en the_en cursor_en right_en now_en ._en
+you_en can_en see_en some_en other_en ones_en are_en swarming_en around_en the_en bottom_en left_en corner_en of_en the_en screen_en around_en six_en words_en ._en those_en six_en words_en represent_en the_en six_en movements_en of_en we_en feel_en fine_en ._en we_en 're_en currently_en seeing_en madness_en ._en
+there_en 's_en also_en murmurs_en ,_en montage_en ,_en mobs_en ,_en metrics_en and_en mounds_en ._en
+and_en i_en 'll_en walk_en you_en through_en a_en few_en of_en those_en now_en ._en
+murmurs_en causes_en all_en of_en the_en feelings_en to_en fly_en to_en the_en ceiling_en ._en
+and_en then_en ,_en one_en by_en one_en ,_en in_en reverse_en chronological_en order_en ,_en they_en excuse_en themselves_en ,_en entering_en the_en scrolling_en list_en of_en feelings_en ._en
+"_en i_en feel_en a_en bit_en better_en now_en ._en "_en
+"_en i_en feel_en confused_en and_en unsure_en of_en what_en the_en hell_en i_en want_en to_en do_en ._en "_en
+"_en i_en feel_en gypped_en out_en of_en something_en awesome_en here_en ._en "_en
+"_en i_en feel_en so_en free_en ;_en i_en feel_en so_en good_en ._en "_en
+"_en i_en feel_en like_en i_en 'm_en in_en this_en fog_en of_en depression_en that_en i_en ca_en n't_en get_en out_en of_en ._en "_en
+and_en you_en can_en click_en any_en of_en these_en to_en go_en out_en and_en visit_en the_en blog_en from_en which_en it_en was_en collected_en ._en and_en in_en that_en way_en ,_en you_en can_en connect_en with_en the_en authors_en of_en these_en statements_en if_en you_en feel_en some_en degree_en of_en empathy_en ._en
+the_en next_en movement_en is_en called_en montage_en ._en
+montage_en causes_en all_en of_en the_en feelings_en that_en contain_en photographs_en to_en become_en extracted_en and_en display_en themselves_en in_en a_en grid_en ._en
+this_en grid_en is_en then_en said_en to_en represent_en the_en picture_en of_en the_en world_en 's_en feelings_en in_en the_en last_en few_en hours_en ,_en if_en you_en will_en ._en
+each_en of_en these_en can_en be_en clicked_en and_en we_en can_en blow_en it_en up_en ._en
+we_en see_en ,_en "_en i_en just_en feel_en like_en i_en 'm_en not_en going_en to_en have_en fun_en if_en it_en 's_en not_en the_en both_en of_en us_en ._en "_en that_en was_en from_en someone_en in_en michigan_en ._en
+we_en see_en ,_en "_en i_en feel_en like_en i_en have_en been_en at_en a_en computer_en all_en day_en ._en "_en
+these_en are_en automatically_en constructed_en using_en the_en found_en objects_en :_en "_en i_en think_en i_en feel_en a_en little_en full_en ._en "_en
+the_en next_en movement_en is_en called_en mobs_en ._en
+mobs_en provides_en different_en statistical_en breakdowns_en of_en the_en population_en of_en the_en world_en 's_en feelings_en in_en the_en last_en few_en hours_en ._en
+we_en see_en that_en "_en better_en "_en is_en the_en most_en frequent_en feeling_en right_en now_en ,_en followed_en by_en "_en good_en ,_en "_en "_en bad_en ,_en "_en "_en guilty_en ,_en "_en "_en right_en ,_en "_en "_en down_en ,_en "_en "_en sick_en "_en and_en so_en on_en ._en
+we_en can_en also_en get_en a_en gender_en breakdown_en ._en
+and_en we_en see_en that_en women_en are_en slightly_en more_en prolific_en talking_en about_en their_en emotions_en in_en the_en last_en few_en hours_en than_en men_en ._en
+we_en can_en do_en an_en age_en breakdown_en ,_en which_en gives_en us_en a_en histogram_en of_en the_en world_en 's_en emotional_en distribution_en by_en age_en ._en
+we_en see_en people_en in_en their_en twenties_en are_en the_en most_en prolific_en ,_en followed_en by_en teenagers_en ,_en and_en then_en people_en in_en their_en thirties_en ,_en and_en it_en dies_en out_en very_en quickly_en from_en there_en ._en
+in_en weather_en ,_en the_en feelings_en assume_en the_en physical_en characteristics_en of_en the_en weather_en that_en they_en represent_en ,_en so_en that_en the_en ones_en collected_en on_en a_en sunny_en day_en swirl_en around_en as_en if_en they_en 're_en part_en of_en the_en sun._en
+the_en cloudy_en ones_en float_en along_en as_en if_en they_en 're_en on_en a_en breeze_en ._en
+the_en rainy_en ones_en fall_en down_en as_en if_en they_en 're_en in_en a_en rainstorm_en ,_en and_en the_en snowy_en ones_en kind_en of_en flutter_en to_en the_en ground_en ._en
+finally_en ,_en location_en causes_en the_en feelings_en to_en move_en to_en their_en positions_en on_en a_en world_en map_en showing_en the_en geographical_en distribution_en of_en feelings_en ._en
+metrics_en provides_en more_en numerical_en views_en on_en the_en data_en ._en
+we_en see_en that_en the_en world_en is_en feeling_en "_en used_en "_en at_en 3.3_en times_en the_en normal_en level_en right_en now_en ._en
+they_en 're_en feeling_en "_en warm_en "_en at_en 2.9_en times_en the_en normal_en level_en ,_en and_en so_en on_en ._en
+other_en views_en are_en also_en available_en ._en
+here_en are_en gender_en ,_en age_en ,_en weather_en ,_en location_en ._en
+the_en final_en movement_en is_en called_en mounds_en ._en
+it_en 's_en a_en bit_en different_en from_en the_en others_en ._en
+mounds_en visualizes_en the_en entire_en dataset_en as_en large_en ,_en gelatinous_en blobs_en which_en kind_en of_en jiggle_en ._en
+and_en if_en i_en hold_en down_en my_en cursor_en ,_en they_en do_en a_en little_en dance_en ._en
+we_en see_en "_en better_en "_en is_en the_en most_en frequent_en feeling_en ,_en followed_en by_en "_en bad_en ._en "_en
+and_en then_en if_en i_en go_en over_en here_en ,_en the_en list_en begins_en to_en scroll_en ,_en and_en there_en are_en actually_en thousands_en of_en feelings_en that_en have_en been_en collected_en ._en
+you_en can_en see_en the_en little_en pink_en cursor_en moving_en along_en ,_en representing_en our_en position_en ._en
+here_en we_en see_en people_en that_en feel_en "_en slipping_en ,_en "_en "_en nauseous_en ,_en "_en "_en responsible_en ._en "_en
+there_en 's_en also_en a_en search_en capability_en ,_en if_en you_en 're_en interested_en in_en finding_en out_en about_en a_en certain_en population_en ._en
+for_en instance_en ,_en you_en could_en find_en women_en who_en feel_en "_en addicted_en "_en in_en their_en 20s_en when_en it_en was_en cloudy_en in_en bangladesh_en ._en
+but_en i_en 'll_en spare_en you_en that_en ._en
+so_en here_en are_en some_en of_en my_en favorite_en montages_en that_en have_en been_en collected_en :_en "_en i_en feel_en so_en much_en of_en my_en dad_en alive_en in_en me_en that_en there_en is_en n't_en even_en room_en for_en me_en ._en "_en
+"_en i_en feel_en very_en lonely_en ._en "_en
+"_en i_en need_en to_en be_en in_en some_en backwoods_en redneck_en town_en so_en that_en i_en can_en feel_en beautiful_en ._en "_en
+"_en i_en feel_en invisible_en to_en you_en ._en "_en
+"_en i_en would_en n't_en hide_en it_en if_en society_en did_en n't_en make_en me_en feel_en like_en i_en needed_en to_en ._en "_en
+"_en i_en feel_en in_en love_en with_en carolyn_en ._en "_en "_en i_en feel_en so_en naughty_en ._en "_en
+"_en i_en feel_en these_en weirdoes_en are_en actually_en an_en asset_en to_en college_en life_en ._en "_en
+"_en i_en love_en how_en i_en feel_en today_en ._en "_en
+so_en as_en you_en can_en see_en ,_en we_en feel_en fine_en uses_en a_en technique_en that_en i_en call_en "_en passive_en observation_en ._en "_en
+what_en i_en mean_en by_en that_en is_en that_en it_en passively_en observes_en people_en as_en they_en live_en their_en lives_en ._en it_en scans_en the_en world_en 's_en blogs_en and_en looks_en at_en what_en people_en are_en writing_en ,_en and_en these_en people_en do_en n't_en know_en they_en 're_en being_en watched_en or_en interviewed_en ._en
+and_en because_en of_en that_en ,_en you_en end_en up_en getting_en very_en honest_en ,_en candid_en ,_en sincere_en responses_en that_en are_en often_en very_en moving_en ._en
+and_en this_en is_en a_en technique_en that_en i_en usually_en prefer_en in_en my_en work_en because_en people_en do_en n't_en know_en they_en 're_en being_en interviewed_en ._en
+they_en 're_en just_en living_en life_en ,_en and_en they_en end_en up_en just_en acting_en like_en that_en ._en
+another_en technique_en is_en directly_en questioning_en people_en ._en
+and_en this_en is_en a_en technique_en that_en i_en explored_en in_en a_en different_en project_en ,_en the_en yahoo_en !_en time_en capsule_en ,_en which_en was_en designed_en to_en take_en a_en fingerprint_en of_en the_en world_en in_en 2006_en ._en
+it_en was_en divided_en into_en ten_en very_en simple_en themes_en --_en love_en ,_en anger_en ,_en sadness_en and_en so_en on_en --_en each_en of_en which_en contained_en a_en single_en ,_en very_en open_en -_en ended_en question_en put_en to_en the_en world_en :_en what_en do_en you_en love_en ?_en what_en makes_en you_en angry_en ?_en
+what_en makes_en you_en sad_en ?_en what_en do_en you_en believe_en in_en ?_en and_en so_en on_en ._en
+the_en time_en capsule_en was_en available_en for_en one_en month_en online_en ,_en translated_en into_en 10_en languages_en ,_en and_en this_en is_en what_en it_en looked_en like_en ._en
+it_en 's_en a_en spinning_en globe_en ,_en the_en surface_en of_en which_en is_en entirely_en composed_en of_en the_en pictures_en and_en words_en and_en drawings_en of_en people_en that_en submitted_en to_en the_en time_en capsule_en ._en
+the_en ten_en themes_en radiate_en out_en and_en orbit_en the_en time_en capsule_en ._en
+you_en can_en sift_en through_en this_en data_en and_en see_en what_en people_en have_en submitted_en ._en
+this_en is_en in_en response_en to_en ,_en what_en 's_en beautiful_en ?_en "_en miss_en world_en ._en "_en
+there_en are_en two_en modes_en to_en the_en time_en capsule_en ._en
+there_en 's_en one_en world_en ,_en which_en presents_en the_en spinning_en globe_en ,_en and_en many_en voices_en ,_en which_en splits_en the_en data_en out_en into_en film_en strips_en and_en lets_en you_en sift_en through_en them_en one_en by_en one_en ._en
+so_en this_en project_en was_en punctuated_en by_en a_en really_en amazing_en event_en ,_en which_en was_en held_en in_en the_en desert_en outside_en albuquerque_en in_en new_en mexico_en at_en the_en jemez_en pueblo_en ,_en where_en for_en three_en consecutive_en nights_en ,_en the_en contents_en of_en the_en capsule_en were_en projected_en onto_en the_en sides_en of_en the_en ancient_en red_en rock_en canyon_en walls_en ,_en which_en stand_en about_en 200_en feet_en tall_en ._en it_en was_en really_en incredible_en ._en
+and_en we_en also_en projected_en the_en contents_en of_en the_en time_en capsule_en as_en binary_en code_en using_en a_en 35_en -_en watt_en laser_en into_en outer_en space_en ._en
+you_en can_en see_en the_en orange_en line_en leaving_en the_en desert_en floor_en at_en about_en a_en 45_en degree_en angle_en there_en ._en this_en was_en amazing_en because_en the_en first_en night_en i_en looked_en at_en all_en this_en information_en and_en really_en started_en seeing_en the_en gaps_en that_en i_en talked_en about_en earlier_en --_en the_en differences_en in_en age_en ,_en gender_en and_en wealth_en and_en so_en on_en ._en
+but_en ,_en you_en know_en ,_en as_en i_en looked_en at_en this_en more_en and_en more_en and_en more_en ,_en and_en saw_en these_en images_en go_en across_en the_en rocks_en ,_en i_en realized_en i_en was_en seeing_en the_en same_en archetypal_en events_en depicted_en again_en and_en again_en and_en again_en ._en
+you_en know_en :_en weddings_en ,_en births_en ,_en funerals_en ,_en the_en first_en car_en ,_en the_en first_en kiss_en ,_en the_en first_en camel_en or_en horse_en --_en depending_en on_en the_en culture_en ._en
+and_en it_en was_en really_en moving_en ._en and_en this_en picture_en here_en was_en taken_en the_en final_en night_en from_en a_en distant_en cliff_en about_en two_en miles_en away_en ,_en where_en the_en contents_en of_en the_en capsule_en were_en being_en beamed_en into_en space_en ._en
+and_en there_en was_en something_en very_en moving_en about_en all_en of_en this_en human_en expression_en being_en shot_en off_en into_en the_en night_en sky_en ._en
+and_en it_en started_en to_en make_en me_en think_en a_en lot_en about_en the_en night_en sky_en ,_en and_en how_en humans_en have_en always_en used_en the_en night_en sky_en to_en project_en their_en great_en stories_en ._en
+you_en know_en ,_en as_en a_en child_en in_en vermont_en ,_en on_en a_en farm_en where_en i_en grew_en up_en ,_en i_en would_en often_en look_en up_en into_en the_en dark_en sky_en and_en see_en the_en three_en star_en belt_en of_en orion_en ,_en the_en hunter_en ._en
+and_en as_en an_en adult_en ,_en i_en 've_en been_en more_en aware_en of_en the_en great_en greek_en myths_en playing_en out_en in_en the_en sky_en overhead_en every_en night_en ._en
+you_en know_en ,_en orion_en facing_en the_en roaring_en bull_en ._en
+perseus_en flying_en to_en the_en rescue_en of_en andromeda_en ._en
+zeus_en battling_en chronos_en for_en control_en of_en mount_en olympus_en ._en
+i_en mean_en ,_en these_en are_en the_en great_en tales_en of_en the_en greeks_en ._en
+and_en it_en caused_en me_en to_en wonder_en about_en our_en world_en today_en ._en
+and_en it_en caused_en me_en to_en wonder_en specifically_en ,_en if_en we_en could_en make_en new_en constellations_en today_en ,_en what_en would_en those_en look_en like_en ?_en what_en would_en those_en be_en ?_en
+if_en we_en could_en make_en new_en pictures_en in_en the_en sky_en ,_en what_en would_en we_en draw_en ?_en
+what_en are_en the_en great_en stories_en of_en today_en ?_en
+and_en those_en are_en the_en questions_en that_en inspired_en my_en new_en project_en ,_en which_en is_en debuting_en here_en today_en at_en ted_en ._en
+nobody_en 's_en seen_en this_en yet_en ,_en publicly_en ._en
+it_en 's_en called_en universe_en :_en revealing_en our_en modern_en mythology_en ._en
+and_en it_en uses_en this_en metaphor_en of_en an_en interactive_en night_en sky_en ._en
+so_en ,_en it_en 's_en my_en great_en pleasure_en now_en to_en show_en this_en to_en you_en ._en
+so_en ,_en universe_en will_en open_en here_en ._en
+and_en you_en 'll_en see_en that_en it_en leads_en with_en a_en shifting_en star_en field_en ,_en and_en there_en 's_en an_en aurora_en borealis_en in_en the_en background_en ,_en kind_en of_en morphing_en with_en color_en ._en the_en color_en of_en the_en aurora_en borealis_en can_en be_en controlled_en using_en this_en single_en bar_en of_en color_en at_en the_en bottom_en ,_en and_en we_en 'll_en put_en it_en down_en here_en to_en red_en ._en
+so_en you_en see_en this_en kind_en of_en --_en these_en stars_en moving_en along_en ._en
+now_en ,_en these_en are_en n't_en just_en little_en points_en of_en light_en ,_en little_en pixels_en ._en
+each_en of_en those_en stars_en actually_en represents_en a_en specific_en event_en in_en the_en real_en world_en --_en a_en quote_en that_en was_en stated_en by_en somebody_en ,_en an_en image_en ,_en a_en news_en story_en ,_en a_en person_en ,_en a_en company_en ._en you_en know_en ,_en some_en kind_en of_en heroic_en personality_en ._en
+and_en you_en might_en notice_en that_en as_en the_en cursor_en begins_en to_en touch_en some_en of_en these_en stars_en ,_en that_en shapes_en begin_en to_en emerge_en ._en
+we_en see_en here_en there_en 's_en a_en little_en man_en walking_en along_en ,_en or_en maybe_en a_en woman_en ._en
+and_en we_en see_en here_en a_en photograph_en with_en a_en head_en ._en
+you_en can_en start_en to_en see_en words_en emerging_en here_en ._en
+and_en those_en are_en the_en constellations_en of_en today_en ._en
+and_en i_en can_en turn_en them_en all_en on_en ,_en and_en you_en can_en see_en them_en moving_en across_en the_en sky_en now_en ._en
+this_en is_en the_en universe_en of_en 2007_en ,_en the_en last_en two_en months_en ._en
+the_en data_en from_en this_en is_en global_en news_en coverage_en from_en thousands_en of_en news_en sources_en around_en the_en world_en ._en
+it_en 's_en using_en the_en api_en of_en a_en really_en great_en company_en that_en i_en work_en with_en in_en new_en york_en ,_en actually_en ,_en called_en daylife_en ._en
+and_en it_en 's_en kind_en of_en the_en zeitgeist_en view_en at_en this_en level_en of_en the_en world_en 's_en current_en mythology_en over_en the_en last_en couple_en of_en months_en ._en
+so_en we_en can_en see_en where_en it_en 's_en emerging_en here_en ,_en like_en president_en ford_en ,_en iraq_en ,_en bush_en ._en and_en we_en can_en actually_en isolate_en just_en the_en words_en --_en i_en call_en them_en secrets_en --_en and_en we_en can_en cause_en them_en to_en form_en an_en alphabetical_en list_en ._en and_en we_en see_en anna_en nicole_en smith_en playing_en a_en big_en role_en recently_en ._en
+president_en ford_en --_en this_en is_en gerald_en ford_en 's_en funeral_en ._en
+we_en can_en actually_en click_en anything_en in_en universe_en and_en have_en it_en become_en the_en center_en of_en the_en universe_en ,_en and_en everything_en else_en will_en enter_en its_en orbit_en ._en
+so_en ,_en we_en 'll_en click_en ford_en ,_en and_en now_en that_en becomes_en the_en center_en ._en
+and_en the_en things_en that_en relate_en to_en ford_en enter_en its_en orbit_en and_en swirl_en around_en it_en ._en
+we_en can_en isolate_en just_en the_en photographs_en ,_en and_en we_en now_en see_en those_en ._en
+we_en can_en click_en on_en one_en of_en those_en and_en have_en the_en photograph_en be_en the_en center_en of_en the_en universe_en ._en
+now_en the_en things_en that_en relate_en to_en it_en are_en swirling_en around_en ._en
+we_en can_en click_en on_en this_en and_en we_en see_en this_en iconic_en image_en of_en betty_en ford_en kissing_en her_en husband_en 's_en coffin_en ._en
+in_en universe_en ,_en there_en 's_en kind_en of_en no_en end_en ._en it_en just_en goes_en infinitely_en ,_en and_en you_en can_en just_en kind_en of_en click_en on_en stuff_en ._en
+this_en is_en a_en photographic_en representation_en ,_en called_en snapshots_en ._en
+but_en we_en can_en actually_en be_en more_en specific_en in_en defining_en our_en universe_en ._en
+so_en ,_en if_en we_en want_en to_en ,_en let_en 's_en check_en out_en what_en bill_en clinton_en 's_en universe_en looks_en like_en ._en
+and_en let_en 's_en see_en ,_en in_en the_en past_en week_en ,_en what_en he_en 's_en been_en up_en to_en ._en
+so_en now_en ,_en we_en have_en a_en new_en universe_en ,_en which_en is_en just_en constrained_en to_en all_en things_en bill_en clinton_en ._en
+we_en can_en have_en his_en constellations_en emerge_en here_en ._en
+we_en can_en pull_en out_en his_en secrets_en ,_en and_en we_en see_en that_en it_en has_en a_en lot_en to_en do_en with_en candidates_en ,_en hillary_en ,_en presidential_en ,_en barack_en obama_en ._en
+we_en can_en see_en the_en stories_en that_en bill_en clinton_en is_en taking_en part_en in_en right_en now_en ._en
+any_en of_en those_en can_en be_en opened_en up_en ._en
+so_en we_en see_en obama_en and_en the_en clintons_en meet_en in_en alabama_en ._en
+you_en can_en see_en that_en this_en is_en an_en important_en story_en ;_en there_en are_en a_en lot_en of_en things_en in_en its_en orbit_en ._en if_en we_en open_en this_en up_en ,_en we_en get_en different_en perspectives_en on_en this_en story_en ._en
+you_en can_en click_en any_en of_en those_en to_en go_en out_en and_en read_en the_en article_en at_en the_en source_en ._en this_en one_en 's_en from_en al_en jazeera_en ._en
+we_en can_en also_en see_en the_en superstars_en ._en these_en would_en be_en the_en people_en that_en are_en kind_en of_en the_en looming_en heroes_en and_en heroines_en in_en the_en universe_en of_en bill_en clinton_en ._en so_en there_en 's_en bill_en clinton_en ,_en hillary_en ,_en iraq_en ,_en george_en bush_en ,_en barack_en obama_en ,_en scooter_en libby_en --_en these_en are_en kind_en of_en the_en people_en of_en bill_en clinton_en ._en
+we_en can_en also_en see_en a_en world_en map_en ,_en so_en this_en shows_en us_en the_en geographic_en reach_en of_en bill_en clinton_en in_en the_en last_en week_en or_en so_en ._en
+we_en can_en see_en he_en 's_en been_en focused_en in_en america_en because_en he_en 's_en been_en campaigning_en ,_en probably_en ,_en but_en a_en little_en bit_en of_en action_en over_en here_en in_en the_en middle_en east_en ._en
+and_en then_en we_en can_en also_en see_en a_en timeline_en ._en
+so_en we_en see_en that_en he_en was_en a_en bit_en quiet_en on_en saturday_en ,_en but_en he_en was_en back_en to_en work_en on_en sunday_en morning_en ,_en and_en actually_en been_en tapering_en off_en since_en then_en this_en week_en ._en
+and_en it_en 's_en not_en limited_en to_en just_en people_en or_en dates_en ,_en but_en we_en can_en actually_en put_en in_en concepts_en also_en ._en
+so_en if_en i_en put_en in_en climate_en change_en for_en all_en of_en 2006_en ,_en we_en 'll_en see_en what_en that_en universe_en looks_en like_en ._en
+here_en we_en have_en our_en star_en field_en ._en here_en we_en have_en our_en shapes_en ._en
+here_en we_en have_en our_en secrets_en ._en
+so_en we_en see_en again_en ,_en climate_en change_en is_en large_en :_en nairobi_en ,_en global_en conference_en ,_en environmental_en ._en
+and_en there_en are_en also_en quotes_en that_en you_en can_en see_en ,_en if_en you_en 're_en interested_en in_en reading_en about_en quotes_en on_en climate_en change_en ._en
+you_en know_en ,_en this_en is_en really_en an_en infinite_en thing_en ._en
+the_en superstars_en of_en climate_en change_en in_en 2006_en :_en united_en states_en ,_en britain_en ,_en china_en ._en you_en know_en ,_en these_en are_en the_en towering_en countries_en that_en kind_en of_en define_en this_en concept_en ._en
+so_en this_en is_en a_en piece_en that_en demands_en exploration_en ._en
+this_en will_en be_en online_en in_en several_en days_en ,_en probably_en next_en tuesday_en ._en
+and_en you_en 'll_en all_en be_en able_en to_en use_en it_en and_en kind_en of_en explore_en what_en your_en own_en personal_en mythology_en might_en be_en ._en
+you_en 'll_en notice_en that_en in_en daylife_en --_en rather_en ,_en in_en universe_en --_en it_en supports_en both_en the_en notion_en of_en a_en global_en mythology_en ,_en which_en is_en represented_en by_en something_en as_en broad_en as_en ,_en say_en ,_en 2007_en ,_en and_en also_en a_en personal_en mythology_en ._en
+as_en you_en search_en for_en the_en things_en that_en are_en important_en to_en you_en in_en your_en world_en ,_en and_en then_en see_en what_en the_en constellations_en of_en those_en might_en look_en like_en ._en
+so_en it_en 's_en been_en a_en pleasure_en ._en thank_en you_en very_en much_en ._en

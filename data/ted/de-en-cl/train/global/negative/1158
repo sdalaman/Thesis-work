@@ -1,0 +1,97 @@
+viele leute glauben , dass autofahren eine aktivität ist , die nur für leute reserviert ist die sehen können .
+eine blinde person , die sicher und unabhängig ein auto fährt , wurde bis jetzt als eine unmögliche aufgabe betrachtet .
+hallo , mein name ist dennis hong , und wir wollen blinden menschen freiheit und unabhängigkeit geben , indem wir ein fahrzeug für blinde bauen .
+daher , bevor ich über dieses auto für blinde spreche , lassen sie mich kurz über einen anderen projekt , an dem ich gearbeitet habe und der _UNK_ urban challenge genannt wurde , sprechen .
+bei diesem ging es darum ein _UNK_ auto , das selbst fahren kann , zu bauen .
+sie drücken auf start , niemand berührt etwas , und es kann sein ziel komplett automatisch erreichen .
+so gewann im jahre 2007 unsere mannschaft eine halbe million dollars , indem sie dritte im wettbewerb wurde .
+um diese zeit herum , forderte der nationale blindenverband , oder _UNK_ , das _UNK_ heraus ein auto herzustellen , das von einer blinden person sicher und unabhängig gefahren werden kann .
+wir entschieden es zu versuchen , denn wir dachten , hey , wie schwierig kann das schon sein .
+wir haben schon ein automatisches fahrzeug .
+wir setzen eine blinde person rein und fertig ist es , oder ?
+wir konnten uns nicht mehr geirrt haben .
+was der nationale blindenverband wollte , war nicht ein fahrzeug , dass blinde personen _UNK_ , sondern ein fahrzeug , wo eine blinde person aktive entscheidungen treffen und fahren kann .
+daher mussten wir alles _UNK_ und von neuem starten .
+daher , um diese wahnsinns - idee zu testen , entwickelten wir einen kleinen _UNK_ _UNK_ um seine durchführbarkeit zu testen .
+und im sommer von 2009 , luden wir dutzende von jungen blinden von überall im lande ein und gaben ihnen die möglichkeit eine spritztour zu machen .
+es war eine absolut tolle erfahrung .
+aber das problem mit diesen auto war , dass es entworfen wurde , so dass es nur in einem kontrollierten umfeld , ein _UNK_ , _UNK_ parkplatz , gefahren werden konnte , und dass sogar die fahrspuren mit roten _UNK_ hervorgehoben wurden .
+daher , mit diesem erfolg , entschlossen wir uns zum nächsten grossen schritt , ein wahres auto zu entwickeln , das in richtigen strassen gefahren werden kann .
+wie funktioniert es ?
+nun , es ist ein ziemlich kompliziertes system , aber lassen sie mich versuchen es zu erklären , und vielleicht kann ich es vereinfachen .
+nun , wir haben drei schritte .
+wir haben wahrnehmung , berechnung und nicht - visuelle interfaces .
+nun , es ist klar , dass der fahrer nicht sehen kann , daher muss das system die umgebung wahrnehmen können und information für den fahrer sammeln können .
+dafür , benutzen wir eine initiale _UNK_ .
+es misst die beschleunigung , die kantige beschleunigung , wie ein menschliches ohr , ein inneres ohr .
+wir verschmelzen die information mit einer gps - einheit um ungefähr die position des autos zu erhalten .
+wir benutzen ebenfalls zwei kameras um die fahrspuren der strasse wahrzunehmen .
+und wir benutzen ebenfalls drei _UNK_ .
+die laser scannen die umgebung um hindernisse zu entdecken , ein auto , das von vorne oder von hinten auf uns zukommt , und ebenfalls irgendwelche hindernisse , die auf die strasse gelangen , irgendwelche hindernisse um das fahrzeug herum .
+danach wird all diese enorme menge von information ins computer weitergeleitet , und der computer kann zwei sachen machen .
+erstens , zu allererst , die information verarbeiten um zu verstehen wie die umgebung ist ; bei dieser handelt es sich um fahrspuren auf der strasse , die hindernisse , und diese information den fahrer vermitteln .
+das system ist ebenfalls schlau genug um den sichersten weg zu berechnen um das auto zu bedienen .
+wir können ebenfalls anweisungen erzeugen über wie man die steuerung des fahrzeugs bedient .
+aber , das problem ist folgendes : wie können wir diese information und diese anweisungen einer person , die nicht sehen kann , schnell genug und ziemlich genau vermitteln so dass sie fahren kann ?
+dafür , haben wir verschiedene typen von nicht - visueller nutzer - interface - technologie entwickelt .
+wir begannen mit einen dreidimensionalen _UNK_ - soundsystem , einer _UNK_ - weste , ein klick - rad mit _UNK_ , ein _UNK_ , und sogar ein schuh , das druck auf das bein ausübt .
+aber heute , werden wir über drei von diesen nicht - visuellen nutzer - interface - technologien sprechen .
+nun , die erste interface - technologie nennt man drivegrip .
+bei dieser handelt es sich um ein paar handschuhe , und es hat seine vibrierende elemente auf der _UNK_ , daher können sie anweisungen über wie man steuert , die richtung und die intensität vermitteln .
+ein anderes gerät nennt man _UNK_ .
+bei diesen handelt es sich um ein stuhl , genaugenommen , ist es ein _UNK_ .
+wir höhlen es aus , und wir reorganisieren die vibrierenden elementen in verschiedene muster . und wir betätigen sie um information über die geschwindigkeit zu vermitteln , und ebenfalls um anweisungen über wie man das gas - und _UNK_ benutzt zu vermitteln .
+daher , können sie hier sehen wie der computer die umgebung sieht . und da sie die vibration nicht sehen können , statten wir den fahrer sogar mit roten leds aus , damit er wirklich sehen kann was vorgeht .
+dies sind die _UNK_ , und diese daten werden via computer in die geräte weitergeleitet .
+deshalb , sind diese zwei geräte , drivegrip und _UNK_ , sehr wirksam .
+aber das problem ist , dass es stichanweisungen - geräte sind .
+daher ist dies nicht eine wirkliche freiheit , oder ?
+der computer sagt ihnen wie sie fahren , links abbiegen , rechts abbiegen , beschleunigen , stoppen müssen .
+wir nennen es rücksitz - _UNK_ .
+darum , entfernen wir uns von den stichanweisungen - geräten , und konzentrieren uns nun mehr auf die _UNK_ .
+ein gutes beispiel für diese nicht - visuelle informations - interface - technologie ist airpix .
+betrachten sie es als ein monitor für blinde .
+nun , es ist ein kleines tablett , es hat viele löcher und es entlässt komprimierte luft , daher kann es sogar bilder zeichnen .
+daher , selbst wenn sie blind sind , können sie ihre hand draufstellen , die fahrspuren und die hindernisse auf der strasse sehen .
+in der tat , können sie ebenfalls die _UNK_ , die entweicht , und möglicherweise die temperatur ändern .
+daher , handelt es sich in der tat um einen _UNK_ nutzer - interface .
+nun , hier können sie die linke kamera , die rechte kamera vom fahrzeug aus gesehen , betrachten und sehen wie der computer dies interpretiert und die information ans airpix sendet .
+dafür , zeigen wir ein simulator , eine blinde person , die fährt und den airpix benutzt .
+dieser simulator war ebenfalls sehr nützlich um die blinden fahrer zu trainieren und ebenfalls schnell beim testen von verschiedenen sorten von ideen für verschiedene typen von nicht - visuellen nutzer - interfaces .
+daher , so funktioniert es hauptsächlich .
+vor genau einen monat , am 29. januar , stellten wir dieses fahrzeug zum ersten mal in der öffentlichkeit vor am weltbekannten daytona international _UNK_ während des rolex - 24 - stunden - rennen .
+wir hatten ebenfalls einige _UNK_ . schauen wir mal .
+ansager : dies ist ein historischer tag [ unklar ] .
+er nähert sich der tribüne , liebe gleichgesinnte .
+dort ist die tribüne .
+und er folgt den lieferwagen der vor ihm fährt .
+nun , dort kommt die erste _UNK_ .
+mal sehen ob mark sie vermeiden kann .
+er tut es . er fährt rechts daran vorbei .
+es bleibt die dritte kiste . es bleibt die vierte kiste .
+und er fährt _UNK_ zwischen den beiden vorbei .
+er kommt an den lieferwagen ran um ihn zu überholen .
+nun , um dies geht es , um diese art von dynamischer zurschaustellung von kühnheit und genialität .
+er nähert sich dem ende des rennens , öffnet sich einen weg zwischen den fässern die dort herumstehen .
+dennis hong : ich bin so glücklich für ihnen .
+mark wird mich zum hotel zurückfahren .
+mark _UNK_ : ja .
+dh : daher , seit wir dieses projekt gestartet haben , haben wir hunderte von briefen , emails , telefonanrufe von leuten aus aller welt erhalten .
+briefe , in welchen man uns dankte , aber manchmal auch komische briefe wie dieser : " nun verstehe ich warum man _UNK_ auf einen automaten für autofahrer finden kann . "
+aber manchmal aber manchmal erhalte ich ebenfalls ich würde sie nicht als _UNK_ bezeichnen , aber briefe mit einem starken inhalt : " dr. hong , sind sie wahnsinnig zu versuchen blinde menschen auf die strasse zu stellen .
+sie müssen irre sein . "
+aber dieses fahrzeug ist ein prototyp , und es wird die strasse nicht betreten , bis es bewiesen ist , dass es sicher ist , oder sicherer als die heutigen fahrzeuge .
+und ich glaube wirklich , dass dies geschehen kann .
+aber dennoch , wird die gesellschaft , würden sie eine solche radikale idee akzeptieren ?
+wie werden wir die versicherung regeln ?
+wie werden wir den führerschein erhalten ?
+abgesehen von den technologischen herausforderungen , gibt es viele arten von hürden , die wir bewältigen müssen , bis es wirklichkeit wird .
+selbstverständlich ist der hauptziel dieses projektes ein auto für einen blinden menschen herzustellen .
+aber potenziell wichtiger als dies ist der gewaltige nutzen der spin - off - technologie , den man von diesen projekt ziehen kann .
+die sensoren , die gebraucht werden , können in der dunkelheit bei nebel und regen sehen .
+und zusammen mit diesen neuen typus von interfaces können wir diese technologie benutzen und sie in sichereren autos für normal sehende leute anwenden .
+oder für blinde leute , in alltäglichen geräten im haushalt , in der ausbildung und im büro .
+stellen sie sich vor , ein lehrer schreibt in einem klassenzimmer auf der tafel , und ein blinder student kann sehen und lesen was er geschrieben hat , indem er diese nicht - visuelle interface - technologien benutzt .
+das ist unbezahlbar .
+daher , sind die sachen , die ich ihnen heute gezeigt habe , nur der beginn .
+vielen dank .

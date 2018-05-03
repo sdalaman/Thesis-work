@@ -1,0 +1,96 @@
+wir sehen uns um in den medien , den nachrichten aus irak , _UNK_ , sierra leone , und der konflikt erscheint uns unbegreiflich .
+so erschien es sicherlich mir , als ich dieses projekt anfing .
+jedoch als physiker , dachte ich , wenn man mir daten gibt könnte ich dies vielleicht verstehen . wissen sie , lasst es uns versuchen .
+als _UNK_ _UNK_ dachte ich gehen wir einfach zum pentagon
+können sie uns informationen geben ?
+nein . also musste ich ein wenig schärfer nachdenken .
+eines abends sah ich die nachrichten in oxford .
+und ich sah auf die _UNK_ köpfe auf dem sender meiner wahl .
+und ich sah , dass dort informationen waren .
+da waren daten in den _UNK_ die wir konsumieren .
+all dieses rauschen um uns enthält tatsächlich informationen .
+was ich anfing zu denken war , das dort vielleicht etwas wie eine open source intelligenz ist .
+wenn wir genug dieser informationsflüsse _UNK_ , können wir vielleicht anfangen den krieg zu verstehen .
+und das ist genau was ich tat . wir versammelten ein team , ein interdisziplinäres team aus wissenschaftlern , wirtschaftlern , mathematiker .
+wir brachten diese leute zusammen und fingen an zu versuchen dies zu lösen .
+wir taten dies in drei schritten .
+das erste was wir taten war sammeln . wir sammelten 130 unterschiedliche quellen von ngo berichten zu zeitungs - und fernsehnachrichten .
+wir brachten diese rohen daten zusammen und _UNK_ sie .
+wir entnahmen die wichtigsten informationsstückchen um die datenbank zu konstruieren .
+diese datenbank enthielt , die _UNK_ , den ort , das ausmaß und die verwendeten waffen .
+dies ist alles in den _UNK_ die wir täglich konsumieren , wir müssen nur wissen wie wir sie herauspicken .
+als wir das hatten konnten wir anfangen ein paar coole sachen zu machen .
+was wäre also wenn wir uns die verteilung der größe der angriffe ansehen ?
+was würde uns das sagen ?
+also haben wir damit begonnen . und wie sie hier sehen können , auf der horizontalen achse , haben wir die anzahl der im angriff getöteten personen . oder das ausmaß des angriffs .
+und auf der vertikalen achse haben wir die anzahl der angriffe .
+plotten wir ein beispiel hiervon .
+sie sehen eine zufällige verteilung . vielleicht 67 angriffe , eine person getötet , oder 47 angriffe wo sieben personen getötet wurden .
+wir taten das gleiche für irak .
+und wir wussten nicht , was wir für den irak herausfinden würden .
+es stellt sich heraus was wir herausfanden war sehr überraschend .
+man nehme den ganzen konflikt , das ganze chaos , das ganze rauschen , und daraus kommt diese präzise mathematische verteilung über die art wie angriffe in diesem konflikt geregelt sind .
+das warf uns um .
+wieso sollte ein konflikt wie irak dies als fundamentale charakteristik haben ?
+wieso sollte im krieg ordnung herrschen ?
+das verstanden wir nicht wirklich .
+wir dachten das der irak eine besonderheit hat .
+also schauten wir uns ein paar andere konflikte an .
+wir schauten nach kolumbien , afghanistan und nach senegal .
+und das selbe muster tauchte in jedem konflikt auf .
+das sollte nicht passieren .
+dies sind verschiedene kriege , mit verschiedenen religiösen fraktionen , verschiedenen politischen und sozialwirtschaftlichen problemen .
+trotzdem sind die grundlegenden muster in ihnen die gleichen .
+also gingen wir ein wenig weiter .
+wir schauten um die ganze welt nach daten die wir in die finger bekommen konnten .
+von peru nach indonesien , beobachteten wir das gleiche muster .
+wir fanden nicht nur heraus , dass die verteilungen diese geraden linien sind , sondern das sich die steigung dieser linien anhäufen um diesen wert von alpha gleich 2,5 .
+und daraus konnten wir eine gleichung erstellen , welche die wahrscheinlichkeit eines angriffs vorhersagt .
+was wir hier sagen , ist die wahrscheinlichkeit eines angriffs der x menschen tötet in einem land wie dem irak , ist gleich einer konstanten , mal dem ausmaß des angriffs , hoch minus alpha .
+und minus alpha ist die steigung der linie die ich ihnen gezeigt habe .
+ja und ?
+das sind daten , statistiken . was sagen sie uns über diese konflikte ?
+das war eine herausforderung der wir uns als physiker stellen mussten .
+wie erklären wir das ?
+und was wir tatsächlich herausfanden ist , dass alpha , wenn wir genauer darüber nachdenken , die _UNK_ des aufstands ist .
+alpha ist die verteilung des _UNK_ , was wirklich die verteilung der _UNK_ der angreifer ist .
+also schauen wir auf einen verlauf von gruppendynamik , zusammenwachsen und fragmentieren . gruppierungen kommen zusammen . gruppierungen fallen auseinander .
+wir fingen an berechnungen zu erstellen . können wir es simulieren ?
+können wir die muster erstellen die wir sehen , in ländern wie irak ?
+es stellt sich heraus wir machen eine angemessene arbeit .
+wir können diese simulationen laufen lassen .
+wir können es reproduzieren durch einen verlauf von gruppendynamik , um die muster zu erklären welche wir sehen , um die ganzen konflikte herum in der ganzen welt .
+was passiert denn hier ?
+wieso sollten diese unterschiedliche , anscheinen unterschiedliche , konflikte die gleichen muster haben ?
+was ich glaube das hier passiert , ist dass sich die aufständischen kräfte mit der zeit entwickeln . sie passen sich an .
+und es stellt sich heraus das es nur eine lösung gibt einen viel stärkeren feind zu bekämpfen .
+und wenn man diese lösung als aufständische kraft nicht findet , existiert man nicht .
+jede aufständische kraft in bewegung , in jedem andauerndem konflikt , wird in etwa so aussehen .
+und das ist was wir glauben was passiert .
+gehen wir weiter , wie beeinflussen wir das geschehen ?
+wie beenden wir einen krieg wie in irak ?
+wie sieht es aus ?
+alpha ist die struktur . es hat einen stabilen zustand bei 2,5 .
+so sehen kriege aus wenn sie andauern .
+das müssen wir ändern .
+wir können es hoch drücken . die kräfte fragmentieren mehr . es gibt mehr von ihnen , aber sie sind schwächer .
+oder wir drücken es runter . sie sind robuster . es gibt weniger gruppierungen . aber vielleicht kann man sich mit ihnen zusammensetzen und mit ihnen reden .
+in dieser graphik werde ich es ihnen vorstellen .
+niemand hat das bisher gesehen . das sind wortwörtlich dinge , welche wir letzte woche entdeckt haben .
+wir sehen die entwicklung von alpha über die zeit .
+wir sehen seinen anfang . und wir sehen wie es zu dem stabilen zustand wächst wie die kriege in der ganzen welt aussehen .
+und so bleibt es während der invasion von _UNK_ bis zu dem _UNK_ von _UNK_ während der iraker wahlen in 2006 .
+das system wir gestört . es bewegt sich nach oben in einen fragmentierten zustand .
+das ist als " the surge " passiert .
+und je nachdem wen man fragt , " the surge " sollte es noch weiter nach oben drücken .
+das gegenteil passierte .
+die gruppierungen wurden stärker .
+sie wurden robuster .
+und hier dachte ich : ja , super , es wird weiter nach unten gedrückt .
+wir können mit ihnen reden . wir können eine lösung finden . das gegenteil geschah .
+es bewegte sich wieder nach oben . die gruppierungen fragmentierten .
+und das sagt mir das eine oder das andere .
+entweder sind wir wo wir angefangen haben , und " the surge " hatte keinen effekt . oder endlich sind die gruppierungen so stark fragmentiert , dass wir darüber nachdenken können uns zurückzuziehen .
+darauf weiss ich keine antwort .
+aber ich weiß das wir uns die struktur des aufstands ansehen sollten , um diese frage zu beantworten .
+danke .

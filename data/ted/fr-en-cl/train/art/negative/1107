@@ -1,0 +1,109 @@
+l'idée derrière le ver informatique stuxnet est en fait très simple .
+nous ne voulons pas que l'iran ait la bombe .
+leur atout majeur pour développer des armes nucléaires est l'usine d'enrichissement d'uranium natanz .
+les boites grises que vous voyez , ce sont des systèmes de contrôle en temps réel .
+et si on arrive à compromettre ces systèmes qui contrôlent la vitesse des disques et les valves nous pouvons en fait causer beaucoup de problèmes à la centrifugeuse .
+les boites grises ne tournent pas sous windows ; c'est une technologie complètement différente .
+mais si nous parvenons à placer un bon virus windows dans un portable utilisé par un ingénieur pour _UNK_ cette boite grise , alors on est bon .
+et c'est le scénario derrière stuxnet .
+donc nous commençons par un dropper windows .
+la charge utile va dans la boite grise , endommage la centrifugeuse , et le programme nucléaire iranien est retardé -- mission accomplie .
+c'est facile , non ?
+je veux vous dire comment nous avons découvert ça .
+quand nous avons commencé nos recherches sur stuxnet il y a 6 mois , on ignorait complètement le but de la chose .
+la seule chose qu'on savait est très très complexe dans la partie windows , la partie du dropper , elle utilisait de multiples _UNK_ à jour zéro .
+et ce dropper semblait vouloir faire quelque chose avec ces boites grises , ces systèmes de contrôle en temps réel .
+cela a donc attiré notre attention , et nous avons entrepris un projet de laboratoire dans lequel nous avons infecté notre environnement avec stuxnet et examiner ce truc .
+et puis il s'est passé de très drôles de choses .
+stuxnet s'est comporté comme un rat de laboratoire qui n'aimait pas notre fromage -- il le _UNK_ , mais il ne voulait pas le manger .
+pour moi , ça n'avait pas de sens .
+et après que nous ayons expérimenté avec différents parfums de fromage , je me suis rendu compte , et bien que c'est une attaque dirigée .
+elle est complètement dirigée .
+le dropper rôde activement dans la boite grise si il trouve une configuration spécifique , et même si le programme même qu'il essaye d'infecter est ouvert sur cette cible .
+dans le cas contraire , stuxnet ne fait rien .
+cela a donc vraiment retenu mon attention , et nous avons commencé à travailler là dessus presque en permanence , parce que je pensais , nous ne savons pas quelle est la cible .
+elle pourrait être , disons par exemple , une centrale aux etats - unis , ou une usine chimique en allemagne .
+il valait donc mieux que nous trouvions rapidement quelle était la cible .
+nous avons donc extrait et _UNK_ le code d'attaque , et nous avons découvert qu'il est structuré en deux bombes numériques -- une plus petite et une plus grande .
+et nous avons vu aussi qu'elles sont conçues de façon très professionnelle par des gens qui avaient évidemment des informations de l'intérieur .
+ils connaissaient tous les détails et les octets qu'ils devaient attaquer .
+ils connaissaient sans doute même la pointure de l'administrateur .
+ils savent donc tout .
+et si vous avez entendu dire que le dropper de stuxnet est complexe et high - tech , permettez - moi de vous dire ceci ; la charge utile , c'est du très haut niveau .
+c'est bien au dessus de tout ce que nous avons vu auparavant .
+vous voyez ici un échantillon du code d'attaque même .
+nous parlons de -- environ 15000 lignes de code .
+ca ressemble assez à du langage _UNK_ à l'ancienne .
+et je veux vous dire comment nous avons été en mesure de comprendre ce code .
+donc ce que nous cherchions c'est d'abord les appels de fonctions système , parce que nous savons ce qu'ils font .
+et ensuite nous cherchions les _UNK_ et les structures de données et nous essayions de les mettre en relation avec le monde réel -- avec des cibles potentielles du monde réel .
+nous avons donc besoin de théories de cibles que nous pouvons prouver ou réfuter .
+pour obtenir ces théories de cibles , nous nous souvenons que c'est vraiment du sabotage _UNK_ , ce doit être une cible de grande valeur , et c'est le plus vraisemblablement situé en iran , parce que c'est là que la plupart des infections ont été _UNK_ .
+on ne trouve pas plusieurs milliers de cibles dans cette zone .
+ca se réduit en gros à la centrale nucléaire de _UNK_ et à l'usine d'enrichissement d'uranium de natanz .
+alors j'ai dit à mon assistant , " trouve moi une liste de tous les experts en centrifugeuses et centrales électriques dans notre base de clients . "
+et je leur ai téléphoné et je les ai _UNK_ dans un effort d'associer leur expertise à ce que nous avons trouvé dans le code et les données .
+et ça a plutôt bien marché .
+nous avons donc été en mesure d'associer la petite ogive numérique au contrôle du rotor .
+le rotor est cette partie mobile dans la centrifugeuse , cet objet noir que vous voyez .
+et si vous manipulez la vitesse de ce rotor , vous êtes en fait capable de craquer votre rotor et finalement faire même exploser la _UNK_ .
+ce que nous avons vu aussi c'est que le but de l'attaque était vraiment qu'elle soit lente et progressive -- dans un effort évident de rendre les techniciens de maintenance fous , et qu'ils ne soit pas en mesure de comprendre rapidement ce qui se passe .
+la grande ogive numérique -- nous avons essayé en regardant de très près les données et leurs structures .
+donc par exemple , le chiffre 164 ressort vraiment dans ce code ; on ne peut pas ne pas le voir .
+j'ai entrepris des recherches dans la littérature scientifique sur la façon dont ces centrifugeuses sont en fait construites à natanz et j'ai trouvé qu'elles sont _UNK_ en ce qu'on appelle une cascade , et chaque cascade contient 164 centrifugeuses .
+cela prend donc tout son sens , ça colle .
+et c'est encore mieux ensuite .
+ces centrifugeuses en iran sont _UNK_ en 15 stades et devinez ce qu'on a trouvé dans le code d'attaque ?
+une structure quasiment identique .
+donc là encore , ça colle vraiment bien .
+et ça nous a donné une très grande confiance dans ce que nous avions sous les yeux .
+ne me faites pas dire ce que je n'ai pas dit , ça ne s'est pas fait si facilement .
+on a obtenu ces résultats sur plusieurs semaines de travail très dur .
+et nous sommes souvent tombés sur des impasses et il a fallu nous en remettre .
+mais bon , nous avons donc compris que les deux ogives numériques visaient en fait une seule et même cible , mais sous des angles différents .
+la petite ogive s'attaque à une cascade , et elle accélère les rotors puis les ralentit , et la grande ogive s'adresse à 6 cascades et elle manipule les valves .
+donc dans l'ensemble , nous sommes très confiants d'avoir en fait déterminé quelle est la cible .
+c'est natanz , et natanz seulement .
+nous n'avons donc pas à nous inquiéter que d'autres cibles puissent être frappées par stuxnet .
+voici certains des trucs très chouettes que nous avons vu -- ça m'a vraiment frappé .
+là en bas il y a une boite grise , et en haut vous voyez les centrifugeuses .
+et ce que ce truc fait c'est qu'il _UNK_ les valeurs des _UNK_ des capteurs -- donc par exemple , des capteurs de pression et des capteurs de vibrations -- et il fournit du code légitime , qui tourne toujours pendant l'attaque , avec de fausses données d'input .
+et en fait , ces fausses données d'input sont en fait préenregistrées dans stuxnet .
+donc c'est comme dans les films hollywoodiens quand pendant le _UNK_ - up la caméra de surveillance reçoit des images vidéo préenregistrées .
+c'est chouette , non ?
+il est évident que l'idée ici n'est pas seulement de tromper les opérateurs dans la salle de contrôle elle est en fait plus dangereuse et agressive .
+l'idée est de contourner un système de sécurité numérique .
+nous avons besoin de systèmes de sécurité numériques là où un opérateur humain ne pourrait pas agir assez rapidement .
+donc , par exemple , dans une centrale , quand la grosse turbine à vapeur dépasse la vitesse limite , il vaut ouvrir les vannes de délestage en une milliseconde .
+il est évident que ça ne peut pas être fait par un opérateur humain .
+c'est donc là que nous avons besoin de systèmes de sécurité numériques .
+et quand ils sont compromis , alors ça peut vraiment mal tourné .
+votre centrale peut exploser .
+et ni vos opérateurs ni votre système de sécurité ne s'en _UNK_ .
+c'est effrayant .
+mais il y a pire .
+et c'est très important , ce que je vais dire , réfléchissez - y.
+cette attaque est générique .
+elle n'a rien à voir , dans les détails , avec les centrifugeuses , avec l'uranium enrichi .
+donc , elle marcherait aussi bien , par exemple , dans une centrale ou dans une usine de construction automobile .
+elle est générique .
+et vous n'avez pas -- en tant _UNK_ -- vous n'avez pas besoin d'introduire la charge utile à l'aide d'une clé usb , comme nous l'avons vu dans le cas de stuxnet .
+vous pourriez aussi employer un ver conventionnel pour le répandre .
+simplement le répandre aussi largement que possible .
+et si vous le faites , vous vous retrouvez avec une cyber arme de destruction massive .
+c'est la conséquence à laquelle nous devons faire face .
+donc malheureusement , le plus grand nombre de cibles pour de telles attaques n'est pas au moyen - orient .
+c'est en europe , au etats - unis et au japon .
+donc toutes les zones en vert , ce sont les environnements riches en cibles .
+nous devons faire face aux conséquences , et nous ferions mieux de commencer à nous y préparer dès maintenant .
+merci .
+chris anderson : j'ai une question .
+ralph , on a beaucoup dit que les gens pensent que le mossad est la principale entité derrière ça .
+est - ce votre opinion ?
+ralph langner : bon , vous voulez vraiment entendre ça ?
+oui , bon .
+mon opinion , c'est que le mossad est impliqué , mais que la puissance principale n'est pas israel .
+la force principale derrière ça est donc la cyber superpuissance .
+il n'y en a qu'une , et ce sont les etats - unis -- heureusement , heureusement .
+parce qu'autrement , nos problèmes seraient encore plus grands .
+ca : merci de nous avoir terrifiés . merci ralph .

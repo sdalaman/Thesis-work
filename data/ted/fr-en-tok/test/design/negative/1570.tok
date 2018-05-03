@@ -1,0 +1,92 @@
+voici	mon	grand	-	père	salman	schocken	,	qui	est	né	dans	une	famille	pauvre	et	sans	éducation	,	avec	six	enfants	à	nourrir	,	et	à	l'âge	de	14	ans	il	a	été	obligé	de	quitter	l'école	pour	aider	à	subvenir	aux	besoins	de	sa	famille	il	n'est	jamais	retourné	à	l'école	.
+au	lieu	de	ça	,	il	a	bâti	un	brillant	empire	de	centres	commerciaux	.
+salman	était	un	perfectionniste	absolu	,	et	chacun	de	ses	centres	commerciaux	était	un	bijou	d'architecture	_UNK_	.
+c'était	aussi	_UNK_	ultime	,	et	comme	tout	le	reste	,	il	l'a	fait	avec	beaucoup	de	style	.
+il	s'est	entouré	de	jeunes	gens	cultivés	comme	martin	_UNK_	et	shai	_UNK_	et	franz	kafka	,	et	il	payait	à	chacun	un	salaire	mensuel	pour	qu'ils	puissent	écrire	en	paix	.
+et	pourtant	,	à	la	fin	des	années	30	,	salman	voyait	ce	qui	se	préparait	.
+il	fuit	l'allemagne	avec	sa	famille	,	laissant	tout	derrière	lui	.
+ses	centres	commerciaux	confisqués	,	il	_UNK_	le	reste	de	sa	vie	à	une	recherche	acharnée	d'art	et	de	culture	lui	qui	avait	abandonné	ses	études	au	lycée	mourut	à	82	ans	un	intellectuel	formidable	,	co	-	fondateur	et	premier	pdg	de	l'université	hébraïque	de	jerusalem	et	fondateur	de	schocken	books	,	une	maison	d'édition	reconnue	qui	fut	plus	tard	acquise	par	_UNK_	house	.
+tel	est	le	pouvoir	de	l'auto	-	apprentissage	.
+et	voici	mes	parents	.
+eux	non	plus	n'ont	pas	eu	le	privilège	d'aller	à	l'université	.
+ils	étaient	trop	occupés	à	bâtir	une	famille	et	un	pays	.
+et	pourtant	,	comme	salman	,	ils	étaient	de	_UNK_	autodidactes	,	et	notre	maison	était	remplie	de	milliers	de	livres	,	de	disques	et	d'oeuvres	d'art	.
+je	me	souviens	très	bien	de	mon	père	me	disant	que	lorsque	chacun	de	nos	voisins	aurait	une	télévision	,	alors	nous	achèterions	une	radio	fm	classique	.
+et	là	,	c'est	moi	,	j'allais	dire	en	train	de	tenir	mon	premier	_UNK_	,	mais	en	réalité	je	tiens	ce	que	mon	père	considèrerait	comme	un	substitut	largement	suffisant	à	un	ipad	.
+si	j'ai	bien	retenu	quelque	chose	de	mes	parents	,	c'est	cette	notion	que	les	éducateurs	n'ont	pas	forcément	besoin	d'enseigner	.
+au	lieu	de	ça	,	ils	peuvent	fournir	un	environnement	et	des	ressources	qui	encouragent	notre	capacité	naturelle	à	apprendre	par	nous	-	mêmes	.
+l'auto	-	apprentissage	,	l'auto	-	exploration	,	l'autonomisation	:	telles	sont	les	vertus	d'une	excellente	éducation	.
+alors	j'aimerais	partager	avec	vous	une	histoire	d'un	cours	d'informatique	basé	sur	l'auto	-	apprentissage	et	l'autonomie	que	j'ai	créé	avec	mon	brillant	collègue	noam	nisan	.
+comme	vous	pouvez	le	voir	sur	la	photo	,	noam	et	moi	avons	tous	les	deux	été	très	tôt	fascinés	par	les	_UNK_	,	et	au	fil	des	ans	,	tandis	que	nos	connaissances	en	science	et	technologie	devenaient	toujours	plus	sophistiquées	,	cette	admiration	initiale	pour	les	fondamentaux	n'a	fait	que	s'intensifier	.
+ce	n'est	donc	pas	surprenant	qu'il	y	a	environ	12	ans	,	lorsque	noam	et	moi	étions	professeurs	en	informatique	,	nous	étions	frustrés	par	le	même	phénomène	.
+tandis	que	les	ordinateurs	devenaient	de	plus	en	plus	complexes	,	nos	étudiants	se	perdaient	dans	les	petits	détails	en	oubliant	la	vue	d'ensemble	,	et	en	effet	,	il	est	impossible	de	comprendre	``	l'âme	``	de	la	machine	si	on	interagit	avec	un	pc	boîte	noire	ou	un	mac	qui	est	entouré	de	nombreuses	couches	de	logiciels	propriétaires	fermés	.
+noam	et	moi	avons	eu	le	sentiment	que	si	nous	voulions	que	nos	étudiants	comprennent	comment	les	ordinateurs	fonctionnent	,	et	qu'ils	en	soient	pénétrés	jusqu'à	la	moelle	des	os	,	alors	peut	-	être	que	la	meilleure	façon	de	s'y	prendre	était	de	leur	faire	construire	un	ordinateur	complet	,	fonctionnel	,	utile	et	à	usage	général	,	hardware	et	logiciel	,	depuis	le	début	,	en	partant	des	principes	premiers	.
+nous	devions	commencer	quelque	part	,	et	donc	noam	et	moi	avons	décidé	de	baser	notre	``	cathédrale	``	,	pour	ainsi	dire	,	sur	la	composante	la	plus	simple	possible	,	qui	est	quelque	chose	appelée	nand	.
+ce	n'est	rien	de	plus	qu'une	simple	fonction	logique	avec	quatre	états	d'entrée	/	sortie	.
+nous	commençons	donc	l'aventure	en	disant	à	nos	étudiants	que	dieu	nous	a	donné	nand	-	-	et	nous	a	dit	de	construire	un	ordinateur	,	et	lorsque	nous	avons	demandé	comment	,	dieu	a	répondu	``	une	étape	à	la	fois	``	alors	,	suivant	ce	conseil	,	nous	_UNK_	avec	cette	modeste	fonction	nand	et	nous	_UNK_	nos	étudiants	à	travers	une	séquence	de	projets	au	sein	desquels	ils	construisent	petit	à	petit	un	ensemble	de	circuits	intégrés	,	une	plateforme	hardware	,	un	assembleur	,	une	machine	virtuelle	,	un	système	d'exploitation	basique	et	un	compilateur	pour	un	langage	de	programmation	simple	,	de	type	java	,	que	nous	appelons	``	jack	``	.
+les	étudiants	_UNK_	la	fin	de	ce	tour	de	force	en	utilisant	jack	pour	programmer	toutes	sortes	de	jeux	comme	pong	,	snake	et	tetris	.
+vous	imaginez	l'immense	joie	de	jouer	à	un	jeu	tetris	que	vous	avez	codé	vous	-	même	en	jack	et	compilé	en	langage	informatique	dans	un	compilateur	que	vous	avez	aussi	codé	vous	-	même	,	et	voir	ce	résultat	qui	fonctionne	sur	une	machine	que	vous	avez	construite	à	partir	de	rien	de	plus	que	quelques	milliers	de	fonctions	nand	.
+c'est	un	exploit	personnel	fantastique	que	de	partir	des	principes	de	base	et	d'aller	jusqu'à	un	système	extrêmement	complexe	et	utile	.
+noam	et	moi	avons	travaillé	pendant	cinq	ans	pour	faciliter	ce	cheminement	et	créer	les	outils	et	les	infrastructures	qui	aideront	les	élèves	à	le	construire	en	un	semestre	.
+et	voici	la	fantastique	équipe	qui	nous	a	aidés	à	réaliser	tout	ça	l'astuce	était	de	scinder	la	construction	de	l'ordinateur	en	plusieurs	modules	autonomes	,	dont	chacun	pourrait	être	spécifié	individuellement	,	construit	et	testé	seul	,	isolé	du	reste	du	projet	.
+et	dès	le	premier	jour	,	noam	et	moi	avons	décidé	de	placer	tous	ces	documents	d'aide	à	la	construction	gratuitement	en	open	source	sur	internet	.
+les	spécifications	des	puces	,	les	api	,	les	descriptions	de	projet	,	les	outils	informatiques	,	les	simulateurs	hardware	,	les	émulateurs	d'unité	centrale	,	des	piles	de	centaines	de	slides	de	cours	--	nous	avons	tout	mis	en	ligne	et	nous	avons	invité	le	monde	entier	à	venir	,	prendre	tout	ce	dont	ils	avaient	besoin	,	et	faire	ce	qu'ils	voulaient	avec	.
+et	alors	quelque	chose	de	fascinant	est	arrivé	.
+le	monde	est	venu	.
+et	très	vite	,	des	milliers	de	gens	se	mettaient	à	construire	notre	machine	.
+et	nand	2tetris	est	devenu	l'un	des	premiers	tutoriels	de	grande	ampleur	,	ouvert	et	en	ligne	,	bien	que	sept	ans	plus	tôt	,	nous	n'avions	aucune	idée	que	ce	que	nous	faisions	est	appelé	_UNK_	.
+nous	avons	juste	observé	que	des	cours	auto	-	organisés	se	_UNK_	spontanément	un	chemin	à	partir	de	nos	documents	pédagogiques	.
+par	exemple	,	_UNK_	_UNK_	,	un	ingénieur	de	kerala	en	inde	,	a	réuni	un	groupe	_UNK_	qui	construisent	notre	ordinateur	avec	son	aide	.
+et	parag	shah	,	un	autre	ingénieur	de	bombay	,	a	_UNK_	nos	projets	en	d'encore	plus	petits	fragments	,	plus	gérables	,	qu'il	propose	désormais	dans	son	très	novateur	programme	informatique	qui	consiste	à	apprendre	par	la	pratique	.
+les	gens	qui	sont	attirés	par	ces	cours	ont	typiquement	un	profil	de	hacker	.
+ils	veulent	comprendre	comment	les	choses	fonctionnent	,	et	ils	veulent	le	faire	en	groupe	,	comme	ces	clubs	de	hackers	à	washington	d.c.	,	qui	utilisent	nos	documents	pour	des	cours	communautaires	.
+et	parce	que	ces	supports	sont	largement	disponibles	et	en	open	source	,	des	gens	très	différents	les	utilisent	pour	raisons	très	différentes	et	imprévisibles	.
+par	example	,	yu	_UNK_	,	de	guangzhou	,	a	utilisé	la	technologie	d'un	réseau	de	portes	programmables	pour	construire	notre	ordinateur	et	montrer	aux	autres	comment	faire	de	même	en	utilisant	une	vidéo	,	et	ben	_UNK_	a	développé	un	superbe	jeu	vidéo	qui	vous	plonge	à	l'intérieur	de	notre	architecture	_UNK_	,	qui	est	un	_UNK_	3d	très	complexe	que	ben	a	développé	en	utilisant	le	moteur	de	simulation	3d	de	minecraft	.
+la	communauté	minecraft	est	devenue	complètement	dingue	de	ce	projet	,	et	ben	est	instantanément	devenu	une	célébrité	médiatique	.
+en	en	effet	,	pour	pas	mal	de	personnes	,	faire	ce	``	pèlerinage	``	nand	2tetris	,	si	vous	voulez	,	s'est	transformé	en	une	expérience	qui	a	changé	leur	vie	.
+par	exemple	,	dan	_UNK_	,	qui	étudie	la	musique	et	les	mathématiques	à	east	lansing	,	dans	le	michigan	.
+il	y	a	quelques	semaines	,	dan	a	posté	un	message	de	victoire	sur	notre	site	et	j'aimerais	vous	le	lire	.
+voici	ce	que	dan	a	dit	.
+``	j'ai	suivi	le	cours	en	ligne	parce	que	comprendre	les	ordinateurs	est	important	pour	moi	,	tout	comme	les	compétences	en	lecture	et	en	calcul	,	et	j'ai	réussi	.	je	n'ai	jamais	travaillé	aussi	dur	,	je	n'ai	jamais	été	autant	mis	à	l'épreuve	.
+mais	étant	donné	ce	dont	je	me	sens	capable	désormais	,	je	le	referais	certainement	.
+a	ceux	qui	envisagent	de	se	lancer	avec	nand	2tetris	,	c'est	un	parcours	difficile	mais	vous	en	_UNK_	profondément	changés	.	``
+dan	décrit	les	nombreux	autodidactes	qui	prennent	ce	cours	en	ligne	,	de	leur	propre	volonté	,	de	leur	propre	initiative	et	c'est	vraiment	étonnant	car	ces	gens	ne	se	préoccupent	absolument	pas	des	notes	.
+ils	le	font	uniquement	par	motivation	personnelle	.
+ils	ont	une	incroyable	passion	pour	apprendre	.
+et	en	gardant	ça	à	l'esprit	,	j'aimerais	dire	quelques	mots	à	propos	du	système	de	notation	traditionnel	des	universités	.
+il	me	rend	malade	.
+nous	sommes	obsédés	par	les	notes	parce	que	nous	sommes	obsédés	par	les	données	,	et	donner	une	note	ôte	tout	l'aspect	positif	de	l'échec	,	et	pourtant	une	grande	partie	de	l'éducation	est	liée	à	l'échec	.
+d'après	churchill	,	le	courage	est	la	capacité	d'aller	d'une	défaite	à	une	autre	sans	perdre	de	son	enthousiasme	.
+et	[	joyce	]	a	dit	que	les	erreurs	sont	les	portails	de	la	découverte	.
+et	pourtant	,	nous	ne	_UNK_	pas	les	erreurs	,	et	nous	vénérons	les	notes	.
+alors	nous	collectons	vos	bonnes	notes	et	nous	les	_UNK_	toutes	en	un	seul	nombre	,	par	exemple	13	,	qui	est	_UNK_	sur	votre	front	et	définit	qui	vous	êtes	.
+a	mon	avis	,	nous	sommes	allés	bien	trop	loin	avec	cette	absurdité	,	et	donner	des	notes	est	devenu	dégradant	.
+donc	j'aimerais	dire	quelques	mots	sur	l'amélioration	,	et	partager	avec	vous	un	aperçu	de	mon	projet	actuel	,	qui	est	différent	du	précédent	,	mais	en	partage	exactement	les	mêmes	caractéristiques	d'auto	-	apprentissage	,	d'apprentissage	par	la	pratique	,	d'auto	-	exploration	et	de	conscience	communautaire	,	et	ce	projet	traite	de	la	formation	en	mathématiques	jusqu'au	niveau	lycée	,	en	débutant	avec	les	maths	pour	les	jeunes	enfants	,	et	nous	le	faisons	sur	des	tablettes	car	nous	pensons	que	les	maths	,	comme	tout	le	reste	,	devraient	être	enseignées	par	la	pratique	.
+ce	que	nous	faisons	:	en	gros	,	nous	avons	développé	de	nombreuses	applications	mobiles	,	chacune	d'elles	expliquant	un	concept	particulier	des	mathématiques	.
+par	exemple	,	prenons	l'aire	.
+quand	on	a	affaire	à	un	concept	tel	que	l'aire	--	nous	fournissons	aussi	un	ensemble	d'outils	que	l'enfant	est	invité	à	essayer	,	utiliser	,	explorer	pour	apprendre	.
+et	donc	si	on	s'intéresse	à	l'aire	,	une	chose	facile	à	faire	est	de	morceler	l'aire	de	cette	forme	et	de	simplement	compter	combien	de	morceaux	il	faut	pour	la	couvrir	entièrement	.
+et	ce	petit	exercice	vous	donne	un	premier	véritable	aperçu	de	la	notion	_UNK_	.
+continuons	,	qu'en	est	-	il	de	l'aire	de	cette	figure	?
+si	l'on	essaie	de	la	morceler	,	ça	ne	marche	pas	très	bien	.
+alors	à	la	place	,	on	peut	faire	des	essais	avec	les	différents	outils	sur	la	tablette	en	suivant	un	processus	guidé	d'apprentissage	par	expérimentation	,	et	à	un	moment	donné	vous	découvrirez	qu'une	des	choses	que	vous	pouvez	faire	parmi	de	nombreuses	transformations	_UNK_	est	la	suivante	.	vous	pouvez	couper	la	figure	,	vous	pouvez	réarranger	les	morceaux	,	vous	pouvez	les	recoller	et	ensuite	procéder	au	_UNK_	exactement	comme	nous	l'avions	fait	auparavant	.
+alors	,	cette	transformation	en	particulier	n'a	pas	changé	l'aire	de	la	figure	originale	,	et	donc	un	enfant	de	six	ans	qui	joue	avec	ça	vient	de	découvrir	un	algorithme	très	intelligent	servant	à	calculer	l'aire	de	n'importe	quel	parallélogramme	.
+au	fait	,	nous	ne	remplaçons	pas	les	enseignants	.
+nous	croyons	que	les	enseignants	devraient	gagner	en	pouvoir	,	non	pas	être	remplacés	.
+continuons	,	que	pouvons	-	nous	dire	de	l'aire	d'un	triangle	?
+après	un	peu	d'apprentissage	guidé	par	expérimentation	,	l'enfant	va	découvrir	,	avec	ou	sans	aide	,	qu'il	ou	elle	peut	dupliquer	la	figure	initiale	,	puis	prendre	le	résultat	,	le	transposer	,	le	recoller	sur	l'original	et	ensuite	refaire	ce	que	nous	avons	fait	auparavant	:	couper	,	réarranger	,	coller	-	oups	-	coller	,	et	morceler	.
+cette	transformation	a	doublé	l'aire	de	la	figure	originelle	,	et	donc	nous	venons	d'apprendre	que	l'aire	du	triangle	équivaut	à	celle	de	ce	rectangle	divisée	par	deux	.
+mais	nous	l'avons	découvert	par	auto	-	exploration	.
+ainsi	,	en	plus	d'apprendre	des	principes	utiles	de	géométrie	,	l'enfant	a	été	exposé	à	des	stratégies	scientifiques	plutôt	sophistiquées	,	comme	la	réduction	,	qui	est	l'art	de	transformer	un	problème	complexe	en	un	problème	simple	,	ou	la	généralisation	,	qui	est	au	coeur	de	toute	discipline	scientifique	,	ou	encore	le	fait	que	quelques	propriétés	sont	_UNK_	sous	certaines	transformations	.
+et	tout	ceci	est	quelque	chose	qu'un	jeune	enfant	peut	comprendre	en	utilisant	de	telles	applications	mobiles	.
+actuellement	,	nous	faisons	les	choses	suivantes	:	d'abord	,	nous	décomposons	le	programme	de	math	jusqu'au	niveau	lycée	en	de	nombreuses	applications	comme	celle	-	ci	.
+et	comme	nous	ne	pouvons	le	faire	tout	seuls	,	nous	avons	développé	un	très	bel	outil	de	création	que	n'importe	quel	auteur	,	n'importe	quel	parent	,	ou	même	quiconque	intéressé	par	l'enseignement	des	mathématiques	,	puisse	utiliser	cet	outil	de	création	pour	développer	des	applications	similaires	sur	des	tablettes	sans	devoir	programmer	.
+et	finalement	,	nous	mettons	en	place	un	écosystème	adaptatif	qui	_UNK_	aux	différents	apprenants	avec	différentes	applications	adaptées	à	l'évolution	de	leur	style	d'apprentissage	.
+la	force	motrice	derrière	ce	projet	est	mon	collègue	_UNK_	london	,	et	vous	voyez	,	exactement	comme	salman	l'a	fait	il	y	a	environ	90	ans	,	l'astuce	est	de	s'entourer	de	gens	brillants	,	parce	qu'au	final	,	tout	ce	qui	compte	,	ce	sont	les	gens	.
+il	y	a	quelques	années	,	je	marchais	dans	tel	aviv	,	et	j'ai	vu	ce	graffiti	sur	un	mur	,	et	je	l'ai	trouvé	tellement	_UNK_	,	que	désormais	je	le	fais	découvrir	à	mes	élèves	,	et	j'aimerais	vous	le	faire	découvrir	.
+je	ne	sais	pas	combien	de	personnes	ici	connaissent	le	terme	``	mensch	``	.
+il	signifie	simplement	être	humain	et	agir	correctement	.
+et	ce	que	ce	graffiti	dit	,	c'est	``	high	-	tech	,	_UNK_	tech	.
+le	plus	important	c'est	d'être	un	mensch	.	``
+merci	.
+

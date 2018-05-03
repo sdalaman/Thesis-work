@@ -1,0 +1,41 @@
+laissez	-	moi	vous	 présent 	 er 	 	rezero	.
+ce	petit	ami	a	été	développé	par	un	groupe	de	10	 étudiant 	 s 	 	du	 labo 	 ratoire 	 	des	 système 	 s 	 	 autonome 	 s 	 	à	 l' 	 école 	 	 poly 	 technique 	 	 fédér 	 ale 	 	de	zurich	.
+ not 	 re 	 	robot	appartient	à	une	famille	de	 robot 	 s 	 	qui	 s' 	 appelle 	 	_UNK_	.
+a	la	place	des	 roue 	 s 	 	,	un	ballbot	 s 	 e 	 	 t 	 ient 	 	en	équilibre	 e 	 t 	 	 s 	 e 	 	déplace	sur	une	boule	.
+la	 principal 	 e 	 	 caractér 	 istique 	 	de	ce	système	est	qu'il	y	a	qu'un	seul	point	de	contact	avec	le	sol	.
+cela	signifie	que	le	robot	est	en	soi	 inst 	 able 	 	.
+c'est	un	peu	comme	si	je	 dev 	 ais 	 	me	tenir	sur	un	pied	.
+vous	 pourri 	 ez 	 	vous	 demande 	 r 	 	,	quelle	est	 l' 	 utilité 	 	 d' 	 un 	 	robot	 inst 	 able 	 	?
+nous	allons	vous	 l' 	 expliquer 	 	tout	de	suite	.
+avant	tout	,	laissez	-	moi	vous	expliquer	comment	rezero	 s 	 e 	 	 t 	 ient 	 	en	fait	en	équilibre	.
+rezero	 s 	 e 	 	 t 	 ient 	 	en	équilibre	en	 mesu 	 rant 	 	 con 	 s 	 tam 	 ment 	 	son	inclinaison	avec	un	 détecte 	 ur 	 	.
+ en 	 suite 	 	il	 s 	 e 	 	_UNK_	 e 	 t 	 	évite	de	 bascule 	 r 	 	en	 utilis 	 ant 	 	 s 	 es 	 	 moteur 	 s 	 	de	façon	 approprié 	 e 	 	.
+ça	 s 	 e 	 	produit	160	fois	par	seconde	,	 e 	 t 	 	si	quelque	chose	ne	marche	pas	dans	le	 process 	 us 	 	,	rezero	tombe	 immédiat 	 ement 	 	par	terre	.
+pour	 s 	 e 	 	 déplace 	 r 	 	 e 	 t 	 	 s 	 e 	 	tenir	en	équilibre	,	rezero	doit	 tourne 	 r 	 	la	boule	.
+la	boule	est	_UNK_	par	trois	 roue 	 s 	 	 spécial 	 es 	 	qui	 permette 	 nt 	 	à	rezero	de	 s 	 e 	 	 déplace 	 r 	 	dans	 n' 	 importe 	 	quelle	direction	 e 	 t 	 	 s 	 e 	 	 déplace 	 r 	 	 égale 	 ment 	 	sur	son	axe	en	même	temps	.
+a	cause	de	son	 in 	 stabilité 	 	,	rezero	est	 tou 	 jour 	 s 	 	en	mouvement	.	voici	le	secret	.
+c'est	 précis 	 é 	 ment 	 	 ce 	 tte 	 	 in 	 stabilité 	 	qui	permet	au	robot	de	 s 	 e 	 	 déplace 	 r 	 	de	 man 	 ière 	 	très	dynamique	.
+ jo 	 uons 	 	un	peu	.
+vous	vous	êtes	peut	-	être	 demand 	 é 	 	ce	qui	 s 	 e 	 	 passer 	 ait 	 	si	je	_UNK_	un	peu	le	robot	.
+dans	ce	mode	,	il	essaye	de	 main 	 tenir 	 	 s 	 a 	 	position	.
+pour	la	 prochain 	 e 	 	démo	,	 j' 	 aimerais 	 	vous	 présent 	 er 	 	mes	 collègue 	 s 	 	michael	,	à	 l' 	 ordinateur 	 	,	 e 	 t 	 	thomas	qui	me	donne	un	coup	de	main	sur	 s 	 cène 	 	.
+dans	le	mode	 suiv 	 ant 	 	,	rezero	est	 pass 	 if 	 	,	 e 	 t 	 	nous	 pouv 	 ons 	 	le	 déplace 	 r 	 	.
+ pres 	 que 	 	sans	 aucun 	 e 	 	force	je	peux	 contrô 	 ler 	 	 s 	 a 	 	position	 e 	 t 	 	 s 	 a 	 	vitesse	.
+je	peux	même	le	faire	 tourne 	 r 	 	.
+dans	le	mode	 suiv 	 ant 	 	,	nous	 pouv 	 ons 	 	le	faire	 suiv 	 re 	 	une	personne	.
+là	il	 maintien 	 t 	 	une	 distanc 	 e 	 	 constant 	 e 	 	avec	thomas	.
+ça	marche	avec	un	 détecte 	 ur 	 	laser	monté	au	 somme 	 t 	 	de	rezero	.
+avec	la	même	 méthod 	 e 	 	,	nous	 pouv 	 ons 	 	aussi	le	faire	 tourne 	 r 	 	 auto 	 ur 	 	 d' 	 une 	 	personne	.
+nous	 appel 	 ons 	 	cela	le	mode	_UNK_	.
+très	bien	,	merci	,	thomas	.
+quelle	est	 l' 	 utilité 	 	de	 ce 	 tte 	 	technologie	?
+pour	 l' 	 instant 	 	,	c'est	une	expérience	 mai 	 s 	 	laissez	-	moi	vous	 montre 	 r 	 	 quelque 	 s 	 	 application 	 s 	 	 futur 	 es 	 	 possible 	 s 	 	.
+rezero	pourrait	être	utilisé	dans	des	 exposition 	 s 	 	ou	des	 parc 	 s 	 	.
+avec	un	écran	il	pourrait	 informe 	 r 	 	les	 personne 	 s 	 	ou	les	faire	 visite 	 r 	 	de	 man 	 ière 	 	 amusant 	 e 	 	 e 	 t 	 	 divertis 	 s 	 ante 	 	.
+dans	un	hôpital	,	 ce 	 t 	 	appareil	pourrait	être	utilisé	pour	 transport 	 er 	 	les	 équipement 	 s 	 	 médi 	 caux 	 	.
+grâce	au	système	ballbot	,	il	a	un	faible	_UNK_	 e 	 t 	 	 s 	 e 	 	déplace	 facile 	 ment 	 	.
+ e 	 t 	 	bien	sûr	,	qui	ne	_UNK_	pas	faire	un	tour	sur	un	de	 ce 	 s 	 	 appareil 	 s 	 	.
+ce	 s 	 ont 	 	des	 application 	 s 	 	plus	 pratique 	 s 	 	.
+ mai 	 s 	 	il	y	a	aussi	une	 certain 	 e 	 	 beau 	 té 	 	dans	 ce 	 tte 	 	technologie	.
+merci	.
+

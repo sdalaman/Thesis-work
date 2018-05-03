@@ -1,0 +1,177 @@
+je	me	considère	vraiment	comme	un	narrateur	.
+mais	je	ne	raconte	pas	les	histoires	de	manière	classique	,	dans	le	sens	où	je	ne	raconte	pas	mes	propres	histoires	.
+par	contre	,	je	suis	très	intéressé	par	la	construction	d'outils	qui	permettent	à	un	grand	nombre	de	personnes	de	raconter	leurs	histoires	,	quelles	que	soient	leurs	origines	.
+je	le	fais	parce	que	je	pense	que	les	gens	ont	beaucoup	en	commun	.
+je	pense	que	les	gens	se	ressemblent	beaucoup	,	mais	je	pense	aussi	que	nous	avons	du	mal	à	le	voir	.
+vous	savez	,	lorsque	je	regarde	tout	autour	de	moi	,	je	vois	beaucoup	de	différences	,	et	je	pense	que	nous	voyons	tous	beaucoup	de	différences	.
+nous	nous	définissons	par	nos	différences	.
+vous	savez	,	il	y	a	des	différences	linguistiques	,	des	différences	ethniques	et	raciales	,	des	différences	d'âge	,	des	différences	de	sexe	,	des	différences	d'orientation	sexuelle	,	des	différences	de	richesse	,	des	différences	d'éducation	,	il	y	a	aussi	des	différences	religieuses	.
+vous	savez	,	nous	avons	tous	ces	différences	et	je	pense	que	nous	aimons	nos	différences	,	parce	qu'elles	nous	font	nous	identifier	à	quelque	chose	,	à	une	petite	communauté	.
+mais	je	pense	qu'en	réalité	,	malgré	nos	différences	,	nous	avons	vraiment	beaucoup	de	choses	en	commun	.
+et	je	pense	que	ce	que	nous	avons	en	commun	,	c'est	un	besoin	très	profond	de	nous	exprimer	.
+je	pense	que	c'est	un	désir	très	ancien	.	ce	n'est	pas	nouveau	.
+mais	en	ce	qui	concerne	l'expression	de	soi	,	il	y	a	toujours	eu	ce	déséquilibre	entre	le	désir	que	nous	avons	de	nous	exprimer	et	le	nombre	d'amis	sympathiques	qui	sont	prêts	à	être	là	et	à	écouter	.
+ça	aussi	,	ce	n'est	pas	nouveau	.
+depuis	l'aube	de	l'histoire	humaine	,	nous	avons	essayé	de	corriger	ce	déséquilibre	à	travers	l'art	,	l'écriture	de	poèmes	,	la	chanson	,	l'écriture	de	scripts	_UNK_	et	leur	publication	dans	un	journal	,	les	bavardages	avec	des	amis	.	ce	n'est	pas	nouveau	.
+la	nouveauté	,	c'est	que	depuis	ces	dernières	années	beaucoup	de	ces	activités	traditionnelles	à	l'homme	,	très	physiques	,	ces	actes	d'auto	-	expression	,	sont	passés	sur	internet	.
+et	ce	qui	s'est	passé	,	c'est	que	les	gens	ont	laissé	derrière	eux	des	empreintes	,	des	empreintes	qui	racontent	les	histoires	de	leurs	instants	d'auto	-	expression	.
+et	donc	,	voilà	ce	que	j'ai	fais	,	j'ai	écrit	des	programmes	informatiques	qui	étudient	de	larges	échantillons	de	ces	empreintes	,	et	ensuite	,	j'ai	essayé	d'en	tirer	des	conclusions	sur	les	personnes	qui	les	ont	laissées	--	ce	qu'ils	ressentent	,	ce	qu'ils	pensent	,	ce	qui	est	différent	dans	le	monde	d'aujourd'hui	par	rapport	à	d'habitude	.
+ce	genre	de	questions	.
+un	projet	qui	explore	ces	idées	a	été	lancé	il	y	a	environ	un	an	,	et	est	intitulé	we	feel	fine	.
+c'est	un	outil	qui	,	tous	les	deux	ou	trois	minutes	,	scanne	les	nouveaux	posts	de	blog	dans	le	monde	pour	les	occurrences	des	mots	``	i	feel	``	ou	``	i	am	_UNK_	``	et	quand	il	trouve	l'une	de	ces	phrases	,	il	la	capture	à	la	virgule	près	,	puis	tente	automatiquement	d'en	déduire	l'âge	,	le	sexe	et	la	situation	géographique	de	la	personne	qui	a	écrit	cette	phrase	.
+puis	,	connaissant	la	situation	géographique	et	la	date	,	nous	pouvons	alors	trouver	le	temps	qu'il	faisait	quand	cette	personne	a	écrit	la	phrase	.
+toutes	ces	informations	sont	enregistrées	dans	une	base	de	données	qui	collecte	environ	20.000	sentiments	par	jour	.
+il	fonctionne	depuis	environ	un	an	et	demi	.
+il	a	rassemblé	actuellement	environ	7,5	millions	de	sentiments	humains	,	et	je	vais	vous	donner	un	aperçu	de	la	façon	dont	cette	information	est	alors	visualisée	.	voici	donc	we	feel	fine	.
+ce	que	vous	voyez	ici	est	une	masse	_UNK_	de	particules	,	chacune	d'elle	représentant	un	sentiment	humain	unique	qui	a	été	exprimé	dans	les	dernières	heures	.
+la	couleur	de	chaque	particule	correspond	au	type	de	sentiment	qu'il	contient	-	de	sorte	que	,	les	sentiments	positifs	soient	de	couleurs	vives	.
+et	les	sentiments	négatifs	de	couleur	sombre	.
+le	diamètre	de	chaque	point	représente	la	longueur	de	la	phrase	,	les	gros	points	contiennent	de	grandes	phrases	,	et	les	petits	points	contiennent	des	petites	phrases	.
+tout	point	peut	être	_UNK_	et	élargi	.	nous	voyons	ici	,	``	je	me	sentirais	beaucoup	mieux	si	je	pouvais	me	blottir	dans	ses	bras	en	ce	moment	et	sentir	son	affection	pour	moi	dans	l'étreinte	de	son	corps	et	la	tendresse	de	ses	lèvres	``	ainsi	,	les	choses	deviennent	un	peu	chaudes	,	parfois	dans	le	monde	des	émotions	humaines	.
+et	tout	cela	est	exprimé	par	des	personnes	:	``	je	sais	que	objectivement	,	ça	ne	signifie	vraiment	pas	grand	chose	,	mais	après	avoir	passé	tant	d'années	comme	un	petit	poisson	dans	un	grand	étang	,	il	est	agréable	de	se	sentir	encore	plus	grand	.	``
+les	points	montrent	des	qualités	humaines	.	ils	ont	comme	leurs	propres	lois	physiques	,	et	ils	fourmillent	,	égarés	,	comme	en	train	d'explorer	le	monde	de	la	vie	.
+et	puis	,	ils	montrent	aussi	la	curiosité	.
+vous	pouvez	voir	quelques	-	uns	de	ces	spécimens	qui	nagent	autour	du	curseur	en	ce	moment	.
+vous	pouvez	en	voir	quelques	autres	qui	fourmillent	autour	du	coin	inférieur	gauche	de	l'écran	autour	de	six	mots	.	ces	six	mots	représentent	les	six	mouvements	de	we	feel	fine	.	nous	regardons	actuellement	_UNK_	.
+il	y	a	aussi	_UNK_	,	montage	,	mobs	,	_UNK_	et	mounds	.
+et	je	vais	vous	guider	à	travers	quelques	-	uns	d'entre	eux	.
+_UNK_	fait	s'envoler	tous	les	sentiments	.
+et	puis	,	un	par	un	,	par	ordre	chronologique	inverse	,	ils	s'excusent	,	entrant	dans	la	liste	_UNK_	des	sentiments	.
+``	je	me	sens	un	peu	mieux	maintenant	.	``
+``	je	me	sens	confus	et	incertain	de	ce	que	je	veux	faire	.	``
+``	je	me	sens	dépouillé	de	quelque	chose	de	génial	ici	.	``
+``	je	me	sens	libre	,	je	me	sens	si	bien	.	``
+``	je	me	sens	comme	si	j'étais	dans	le	brouillard	de	la	dépression	,	que	je	ne	peux	quitter	``	et	vous	pouvez	cliquer	sur	n'importe	quelle	phrase	et	visiter	le	blog	d'où	elle	provient	.	et	de	cette	manière	,	vous	pouvez	prendre	contact	avec	les	auteurs	de	ces	déclarations	,	si	vous	sentez	une	certaine	empathie	.
+le	mouvement	suivant	est	appelé	montage	.
+montage	concerne	tous	les	sentiments	qui	sont	contenus	dans	les	photographies	,	ils	sont	extraits	,	et	_UNK_	dans	une	grille	.
+cette	grille	est	sensée	représenter	en	image	les	sentiments	du	monde	entier	pendant	ces	dernières	heures	,	si	vous	voulez	.
+on	peut	cliquer	sur	chacun	d'eux	et	les	ouvrir	.
+on	peut	voir	,	``	j'ai	l'impression	que	je	n'aurais	du	plaisir	que	s'il	est	partagé	``	ça	a	été	écrit	par	quelqu'un	du	michigan	.
+on	peut	voir	``	je	me	sens	comme	si	j'avais	été	devant	un	ordinateur	toute	la	journée	``	ils	sont	automatiquement	construits	en	utilisant	les	objets	trouvés	:	``	je	n'ai	plus	faim	``	le	mouvement	suivant	est	appelé	mobs	.
+mobs	prévoit	différentes	_UNK_	statistiques	de	la	population	des	sentiments	du	monde	de	ces	dernières	heures	.
+on	voit	que	``	mieux	``	est	le	sentiment	le	plus	fréquent	en	ce	moment	,	suivi	par	bon	,	mauvais	,	coupable	,	droit	,	bas	,	malade	et	ainsi	de	suite	.
+on	peut	également	obtenir	une	ventilation	par	sexe	.
+on	peut	voir	que	dans	ces	dernières	heures	,	les	femmes	ont	été	légèrement	plus	enclines	à	parler	de	leurs	émotions	que	les	hommes	.
+nous	pouvons	faire	une	répartition	par	âge	,	ce	qui	nous	donne	un	histogramme	de	la	distribution	émotionnelle	du	monde	selon	l'âge	.
+on	voit	que	les	gens	qui	ont	la	vingtaine	sont	les	plus	prolifiques	,	suivis	des	adolescents	,	et	ensuite	les	gens	qui	ont	la	trentaine	,	et	très	peu	de	monde	au	delà	.
+par	beau	temps	,	les	sentiments	suivent	les	caractéristiques	physiques	de	la	météo	qu'ils	représentent	,	de	sorte	que	celles	recueillies	lors	d'une	journée	ensoleillée	tourbillonnent	comme	s'ils	faisaient	partie	du	soleil	.
+les	plus	nuageux	flottent	comme	s'ils	étaient	dans	le	vent	.
+les	pluvieux	tombent	,	comme	si	c'était	une	averse	,	et	les	neigeux	tombent	sur	le	sol	.
+enfin	,	la	localisation	pousse	les	sentiments	à	se	positionner	sur	une	carte	du	monde	,	mettant	en	évidence	leur	répartition	géographique	.
+metrics	fournit	des	vues	numériques	sur	les	données	.
+nous	voyons	que	le	monde	``	se	sent	``	actuellement	utilisé	à	3,3	fois	le	niveau	normal	.
+la	sensation	de	chaleur	est	à	2,9	fois	le	niveau	normal	,	et	ainsi	de	suite	.
+d'autres	vues	sont	également	disponibles	.
+voici	le	sexe	,	l'âge	,	la	météo	,	l'emplacement	.
+le	dernier	mouvement	est	appelé	mounds	.
+il	est	un	peu	différent	des	autres	.
+mounds	permet	de	visualiser	l'ensemble	des	données	,	des	``	_UNK_	``	_UNK_	qui	en	quelque	sorte	se	_UNK_	.
+et	si	je	tiens	mon	curseur	vers	le	bas	,	ils	font	une	petite	danse	.
+on	voit	que	``	mieux	``	est	le	sentiment	le	plus	fréquent	,	suivi	de	``	mauvais	``	.
+et	puis	,	si	je	le	déplace	ici	,	la	liste	commence	à	défiler	,	et	il	y	a	effectivement	des	milliers	de	sentiments	qui	ont	été	collectés	.
+vous	pouvez	voir	que	le	petit	curseur	rose	se	déplacer	en	longueur	,	il	représente	notre	position	.
+ici	nous	voyons	des	gens	qui	se	sentent	``	_UNK_	``	,	``	nauséeux	``	,	``	responsables	``	.
+il	y	a	aussi	une	possibilité	d'effectuer	des	recherches	,	si	vous	êtes	intéressé	par	une	population	donnée	.
+par	exemple	,	vous	pourriez	trouver	des	femmes	d'une	vingtaine	d'année	qui	se	sentent	``	accro	``	alors	qu'il	fait	nuageux	au	bangladesh	.
+mais	je	vais	vous	épargner	ça	.
+voici	donc	certains	de	mes	montages	préférés	qui	ont	été	recueillis	:	``	je	sens	tellement	mon	père	vivant	en	moi	qu'il	n'y	a	même	plus	de	place	pour	moi	.	``
+``	je	me	sens	très	seule	.	``
+``	j'ai	besoin	d'être	dans	un	village	de	campagne	afin	de	me	sentir	belle	.	``
+``	j'ai	le	sentiment	d'être	invisible	pour	toi	.	``
+``	je	ne	l'aurais	pas	caché	,	si	la	société	ne	m'a	pas	fait	sentir	combien	j'en	avais	besoin	.	``
+``	j'aime	carolyn	.	``	``	je	me	sens	si	vilain	.	``
+``	je	sens	que	ces	gens	bizarres	sont	en	réalité	un	plus	de	la	vie	au	collège	``	``	j'aime	comment	je	me	sens	aujourd'hui	.	``
+donc	,	comme	vous	pouvez	le	constater	,	we	feel	fine	utilise	une	technique	que	j'appelle	``	l'observation	passive	.
+ce	que	je	veux	dire	par	là	c'est	qu'il	observe	passivement	les	gens	,	comme	ils	vivent	leur	vie	.	il	scanne	les	blogs	du	monde	entier	et	examine	ce	que	les	gens	ont	écrit	,	et	ces	gens	ne	savent	pas	qu'ils	sont	observés	ou	interrogés	.
+et	grâce	à	ça	,	vous	finissez	par	être	très	honnête	,	franc	,	sincère	et	les	réponses	sont	souvent	très	émouvantes	.
+c'est	une	technique	que	j'apprécie	généralement	dans	mon	travail	parce	que	les	gens	ne	savent	pas	qu'ils	sont	interrogés	.
+ils	vivent	simplement	leur	vie	-	et	ils	finissent	par	agir	comme	ça	.
+une	autre	technique	consiste	à	interroger	directement	les	gens	.
+et	c'est	une	technique	que	j'étudie	dans	un	projet	différent	,	yahoo	!	time	capsule	,	qui	a	été	conçu	pour	prendre	une	empreinte	du	monde	en	2006	.
+il	était	divisé	en	dix	thèmes	très	simples	-	l'amour	,	la	colère	,	la	tristesse	et	ainsi	de	suite	-	dont	chacun	contenait	une	seule	question	,	très	ouverte	,	posée	au	monde	:	qu'est	-	ce	que	vous	aimez	?	qu'est	-	ce	qui	vous	met	en	colère	?
+qu'est	ce	qui	vous	rend	triste	?	en	quoi	croyez	-	vous	?	et	ainsi	de	suite	.
+la	``	time	capsule	``	a	été	disponible	pendant	un	mois	en	ligne	,	traduite	en	10	langues	,	et	voici	à	quoi	elle	ressemblait	.
+c'est	un	globe	en	rotation	,	dont	la	surface	est	entièrement	composée	d'images	,	de	mots	et	de	dessins	de	personnes	qui	les	ont	soumis	à	la	``	time	capsule	``	.
+les	dix	thèmes	se	propagent	et	tournent	autour	de	la	``	time	capsule	``	.
+vous	pouvez	passer	en	revue	ces	données	et	voir	ce	que	les	gens	ont	proposé	.
+ceci	est	en	réponse	à	qu'est	-	ce	qui	est	beau	?	``	miss	monde	``	.
+il	y	a	deux	modes	à	la	``	time	capsule	``	il	y	a	``	one	world	``	,	qui	présente	le	globe	en	rotation	,	et	``	many	voices	``	qui	sépare	les	données	en	bandes	de	films	et	vous	permet	de	les	passer	en	revue	une	par	une	.
+ce	projet	a	été	ponctué	par	un	événement	vraiment	extraordinaire	qui	a	eu	lieu	dans	le	désert	près	_UNK_	au	nouveau	mexique	à	la	_UNK_	_UNK_	,	où	pendant	trois	nuits	consécutives	,	le	contenu	de	la	capsule	,	était	projeté	sur	les	parois	des	murs	_UNK_	de	red	rock	canyon	,	hauts	de	200	pieds	.	c'était	vraiment	incroyable	.
+et	nous	avons	aussi	projeté	le	contenu	de	la	``	time	capsule	``	sous	forme	de	code	binaire	dans	l'espace	extra	-	atmosphérique	en	utilisant	un	laser	de	35	watts	.
+vous	pouviez	voir	la	ligne	orange	quitter	le	sol	du	désert	,	avec	un	angle	d'environ	45	degrés	.	c'était	étonnant	parce	que	la	première	nuit	,	je	regardais	toute	ces	informations	et	j'ai	vraiment	commencé	à	voir	les	différences	dont	j'ai	parlé	plus	tôt	-	les	différences	d'âge	,	le	sexe	et	la	richesse	et	ainsi	de	suite	.
+mais	,	vous	savez	,	pendant	que	je	le	regardais	encore	,	encore	et	encore	,	et	que	je	voyais	ces	images	aller	à	travers	les	rochers	,	j'ai	réalisé	que	je	voyais	les	mêmes	archétypes	représentés	encore	,	encore	et	encore	.
+vous	savez	:	mariages	,	naissances	,	funérailles	,	la	première	voiture	,	le	premier	baiser	,	le	premier	chameau	ou	cheval	-	selon	la	culture	.
+c'était	très	émouvant	.	cette	photo	là	a	été	prise	la	dernière	nuit	d'une	falaise	éloigné	d'environ	deux	miles	,	où	le	contenu	de	la	capsule	était	projeté	dans	l'espace	.
+et	il	y	avait	quelque	chose	de	très	émouvant	à	propos	de	cette	expression	humaine	envoyée	dans	le	ciel	nocturne	.
+ça	a	commencé	à	me	faire	penser	à	beaucoup	de	choses	sur	le	ciel	nocturne	,	et	comment	les	humains	l'ont	toujours	utilisé	pour	projeter	leurs	grandes	histoires	.
+vous	savez	,	quand	j'était	enfant	dans	le	vermont	,	dans	là	ferme	où	j'ai	grandi	,	je	regardais	souvent	le	ciel	sombre	et	je	voyais	la	ceinture	d'étoiles	_UNK_	,	le	chasseur	.
+et	en	tant	qu'adulte	,	j'ai	été	plus	au	courant	des	grands	mythes	grecs	qui	se	jouent	dans	le	ciel	tous	les	soirs	.
+vous	savez	,	orion	face	au	taureau	rugissant	.
+_UNK_	volant	au	secours	d'andromède	.
+_UNK_	battant	chronos	pour	le	contrôle	du	mont	olympe	je	veux	dire	,	ce	sont	les	grands	récits	des	grecs	.
+et	ça	m'a	fait	m'interroger	sur	notre	monde	d'aujourd'hui	.
+et	je	me	suis	demandé	précisément	,	si	nous	pouvions	faire	de	nouvelles	constellations	aujourd'hui	,	a	quoi	ressembleraient	-	elles	?	que	seraient	-	elles	?
+si	nous	pouvions	faire	de	nouveaux	dessins	dans	le	ciel	,	que	_UNK_	-	nous	?
+quelles	sont	les	grandes	histoires	d'aujourd'hui	?
+ce	sont	ces	questions	qui	ont	inspiré	mon	nouveau	projet	,	qui	fait	ses	débuts	aujourd'hui	à	ted	.
+personne	n'avait	encore	vu	ça	,	publiquement	.
+ça	s'appelle	``	universe	``	,	et	ça	révéle	notre	mythologie	moderne	.
+il	utilise	cette	métaphore	d'un	ciel	nocturne	interactif	.
+donc	,	c'est	mon	grand	plaisir	maintenant	de	vous	le	montrer	.
+universe	commencera	ici	.
+et	vous	verrez	qu'il	mène	avec	un	champ	de	déplacement	étoiles	,	et	il	y	a	une	_UNK_	boréale	dans	le	fond	,	une	sorte	de	_UNK_	de	couleur	.	la	couleur	de	l'aurore	boréale	peut	être	contrôlé	à	l'aide	de	cette	seule	barre	de	couleur	en	bas	,	et	nous	la	mettrons	ici	en	rouge	.
+donc	,	vous	voyez	ces	étoiles	qui	se	déplacent	.
+maintenant	,	ce	ne	sont	pas	juste	des	petits	points	de	lumière	,	des	petits	pixels	.
+chacune	de	ces	étoiles	représente	en	fait	un	événement	précis	dans	le	monde	réel	-	une	citation	qui	a	été	dite	par	quelqu'un	,	une	image	,	des	nouvelles	,	une	personne	,	une	entreprise	.	vous	savez	,	une	sorte	de	personnalité	héroïque	.
+et	vous	remarquerez	peut	-	être	que	,	comme	le	curseur	commence	à	toucher	certaines	de	ces	étoiles	,	des	formes	commencent	à	émerger	.
+nous	voyons	ici	qu'il	y	a	un	petit	homme	marchant	,	ou	peut	-	être	une	femme	.
+et	nous	voyons	ici	,	une	photographie	avec	une	tête	.
+vous	pouvez	commencer	à	voir	les	mots	émergeant	ici	.
+et	ce	sont	les	constellations	;	ce	sont	les	constellations	d'aujourd'hui	.
+et	je	peux	les	allumer	toutes	,	et	vous	pouvez	les	voir	se	déplacer	dans	le	ciel	maintenant	.
+c'est	l'univers	de	2007	,	les	deux	derniers	mois	.
+ces	données	couvrent	des	milliers	de	sources	de	nouvelles	dans	le	monde	.
+il	s'agit	d'utiliser	l'api	d'une	société	vraiment	super	avec	qui	je	travaille	à	new	york	,	en	fait	,	appelée	daylife	.
+et	c'est	un	peu	une	vue	à	la	zeitgeist	à	ce	niveau	de	la	mythologie	courante	du	monde	au	cours	des	deux	derniers	mois	.
+ainsi	nous	pouvons	voir	où	il	est	train	de	naître	,	comme	le	président	ford	,	l'irak	,	bush	.	et	nous	pouvons	en	fait	isoler	seulement	les	mots	-	je	les	appelle	les	``	secrets	``	-	et	nous	pouvons	les	amener	à	former	une	liste	alphabétique	.	et	nous	voyons	que	anna	nicole	smith	a	joué	un	grand	rôle	récemment	.
+le	président	ford	-	il	s'agit	des	funérailles	de	_UNK_	ford	.
+nous	pouvons	en	fait	cliquer	sur	quoi	que	ce	soit	dans	universe	et	le	faire	devenir	le	centre	de	l'univers	,	et	tout	le	reste	entrera	dans	son	orbite	.
+donc	,	nous	allons	cliquer	sur	ford	,	et	maintenant	cela	devient	le	centre	.
+et	les	choses	qui	se	rapportent	à	ford	entrent	dans	son	orbite	et	tourbillonnent	autour	de	lui	.
+nous	pouvons	isoler	seulement	les	photographies	,	et	nous	les	voyons	maintenant	.
+on	peut	cliquer	sur	l'une	d'elles	et	avoir	cette	photo	au	centre	de	l'univers	.
+maintenant	les	choses	qui	s'y	rapportent	tourbillonnent	autour	.
+on	peut	cliquer	sur	ce	point	et	nous	voyons	cette	image	iconique	de	betty	ford	embrassant	le	cercueil	de	son	mari	.
+dans	l'univers	,	il	n'y	a	pas	de	fin	.	il	s'étend	à	l'infini	,	et	vous	n'avez	qu'à	cliquer	sur	des	trucs	.
+il	s'agit	d'une	représentation	photographique	,	appelé	_UNK_	.
+mais	on	peut	en	fait	être	plus	précis	dans	la	définition	de	notre	univers	.
+donc	,	si	nous	le	voulons	,	regardons	à	quoi	l'univers	de	bill	clinton	ressemble	.
+et	voyons	,	durant	cette	dernière	semaine	,	ce	qu'il	a	fait	.
+alors	maintenant	,	nous	avons	un	nouvel	univers	,	restreint	aux	choses	concernant	bill	clinton	.
+nous	pouvons	avoir	ses	constellations	qui	apparaissent	ici	.
+nous	pouvons	extraire	ses	secrets	,	et	on	voit	qu'il	y	a	beaucoup	de	candidats	,	hillary	,	les	présidentielles	,	barack	obama	.
+nous	pouvons	voir	les	histoires	auxquelles	bill	clinton	participe	en	ce	moment	.
+toutes	peuvent	être	ouvertes	.
+ainsi	,	nous	voyons	obama	et	les	clinton	se	rencontrant	en	alabama	.
+vous	pouvez	voir	qu'il	s'agit	d'une	histoire	importante	,	il	ya	beaucoup	de	choses	dans	son	orbite	.	si	nous	ouvrons	ceci	,	nous	obtenons	des	perspectives	différentes	sur	cette	histoire	.
+vous	pouvez	cliquer	sur	chaque	réponse	et	lire	l'article	à	la	source	.	celui	-	ci	est	d'al	-	_UNK_	.
+nous	pouvons	aussi	voir	les	superstars	.	ce	serait	les	gens	qui	sont	un	peu	des	héros	et	des	héroïnes	qui	apparaissent	dans	l'univers	de	bill	clinton	.	donc	il	y	a	bill	clinton	,	hillary	,	l'irak	,	george	bush	,	barack	obama	,	scooter	_UNK_	-	c'est	le	genre	de	personnes	autour	de	bill	clinton	.
+nous	pouvons	aussi	voir	une	carte	du	monde	,	donc	cela	nous	montre	la	portée	géographique	de	bill	clinton	durant	la	dernière	semaine	.
+nous	pouvons	voir	que	c'est	centré	sur	l'amérique	parce	qu'il	y	a	fait	campagne	,	sans	doute	,	mais	il	y	a	un	peu	d'action	ici	dans	le	moyen	-	orient	.
+et	puis	on	peut	voir	aussi	une	chronologie	.
+nous	voyons	donc	qu'il	était	un	peu	discret	le	samedi	,	mais	il	était	de	retour	au	travail	le	dimanche	matin	,	et	puis	ça	s'est	réduit	depuis	,	cette	semaine	.
+et	ce	n'est	pas	limité	à	des	personnes	ou	des	dates	,	mais	nous	pouvons	actuellement	le	filtrer	par	concepts	.
+donc	,	si	je	mets	le	changement	climatique	pour	l'ensemble	de	2006	,	nous	allons	voir	à	quoi	cet	univers	ressemble	.
+ici	,	nous	avons	notre	champ	d'étoiles	,	ici	nous	avons	nos	formes	,	ici	nous	avons	nos	secrets	.
+donc	,	nous	voyons	encore	,	le	changement	climatique	est	important	.
+nairobi	,	conférence	mondiale	,	l'environnement	.
+et	il	y	a	également	des	citations	que	vous	pouvez	voir	,	si	vous	êtes	intéressé	par	les	citations	sur	le	changement	climatique	.
+vous	savez	,	c'est	vraiment	une	chose	infinie	.
+les	superstars	du	changement	climatique	en	2006	:	les	etats	-	unis	,	la	grande	-	bretagne	,	la	chine	.	vous	savez	,	ce	sont	les	pays	imposant	qui	définissent	ce	genre	de	concept	.
+donc	,	c'est	un	outil	qui	demande	à	être	_UNK_	.
+ce	sera	en	ligne	dans	quelques	jours	,	probablement	mardi	prochain	.
+et	vous	serez	tous	en	mesure	de	l'utiliser	et	d'explorer	ce	que	votre	mythologie	personnelle	pourrait	être	.
+vous	remarquerez	que	,	dans	daylife	-	plutôt	,	dans	universe	,	cela	soutient	aussi	bien	la	notion	d'une	mythologie	mondiale	,	qui	est	représentée	par	quelque	chose	d'aussi	large	que	,	disons	,	2007	,	qu'une	mythologie	personnelle	.
+pendant	que	vous	recherchez	ce	qui	est	important	pour	vous	dans	votre	monde	,	vous	pouvez	voir	à	quoi	les	constellations	vont	ressembler	.
+ça	a	été	un	plaisir	.	merci	beaucoup	.	merci	.
+

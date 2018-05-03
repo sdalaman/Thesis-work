@@ -1,0 +1,55 @@
+ça	pourrait	vous	paraitre	étrange	,	mais	je	suis	fan	des	parpaings	.
+le	premier	parpaing	a	été	fabriqué	en	1868	avec	une	idée	très	simple	:	des	modules	en	ciment	d'une	dimension	fixe	qui	s'imbriquent	.
+très	rapidement	les	parpaings	sont	devenus	l'unité	de	construction	la	plus	utilisée	dans	le	monde	.
+elle	nous	a	permis	de	construire	des	choses	plus	grandes	que	nous	,	des	bâtiments	,	des	ponts	,	un	bloc	à	la	fois	.
+en	gros	les	parpaings	sont	devenus	les	blocs	de	construction	de	notre	époque	.
+presque	cent	ans	après	en	1947	,	lego	a	sorti	ceci	.
+on	appelait	ça	des	briques	_UNK_	.
+et	en	quelques	années	,	les	briques	lego	sont	entrées	dans	toutes	les	familles	.
+on	estime	que	400	milliards	de	briques	ont	été	fabriquées	--	c'est	-	à	-	dire	75	briques	pour	chaque	personne	sur	la	planète	.
+pas	besoin	d'être	un	ingénieur	pour	faire	de	belles	maisons	,	de	beaux	ponts	,	et	de	beaux	bâtiments	.
+lego	l'a	rendu	accessible	.
+avant	tout	,	lego	a	pris	le	parpaing	,	le	bloc	de	construction	du	monde	,	et	l'a	transformé	en	un	bloc	de	construction	de	notre	imagination	.
+pendant	ce	temps	-	là	,	la	même	année	,	aux	laboratoires	bell	la	révolution	suivante	allait	être	annoncée	,	le	prochain	bloc	de	construction	.
+le	transistor	était	une	petite	unité	en	plastique	qui	allait	nous	faire	passer	d'un	monde	de	briques	statiques	empilées	l'une	sur	l'autre	à	un	monde	où	tout	devenait	interactif	.
+comme	le	parpaing	,	le	transistor	vous	permet	de	construire	des	circuits	beaucoup	plus	grands	et	complexes	,	une	brique	à	la	fois	.
+mais	il	y	a	une	différence	essentielle	:	le	transistor	n'était	que	pour	les	experts	.
+personnellement	je	ne	l'accepte	pas	,	que	les	blocs	de	construction	de	notre	époque	soient	réservés	aux	experts	,	j'ai	donc	décidé	de	changé	tout	ça	.
+il	y	a	8	ans	quand	j'étais	au	media	lab	,	j'ai	commencé	à	explorer	l'idée	de	mettre	le	pouvoir	des	ingénieurs	dans	les	mains	des	artistes	et	des	designers	.
+il	y	a	quelques	années	j'ai	commencé	à	développer	littlebits	.
+je	vais	vous	montrer	comment	ça	marche	.
+littlebits	sont	des	modules	électroniques	,	chacun	avec	une	fonction	spécifique	.
+ils	sont	_UNK_	pour	être	lumière	,	son	,	mouvements	et	détecteurs	.
+et	le	mieux	c'est	qu'ils	s'assemblent	comme	des	aimants	.
+vous	ne	pouvez	donc	pas	les	assembler	du	mauvais	coté	.
+les	briques	ont	un	code	couleur	.
+vert	c'est	la	sortie	,	bleu	c'est	le	courant	,	rose	c'est	l'entrée	et	orange	c'est	le	fil	.
+ce	qu'il	vous	faut	c'est	assembler	un	bleu	et	un	vert	et	très	rapidement	vous	pouvez	commencer	à	faire	de	grands	circuits	.
+un	bleu	avec	un	vert	,	ça	donne	de	la	lumière	.
+vous	pouvez	mettre	un	bouton	entre	les	deux	et	vous	avez	fait	un	petit	_UNK_	.
+changez	le	bouton	pour	un	module	d'impulsion	qui	est	ici	,	et	vous	avez	fait	un	petit	clignotant	.
+et	cette	sonnette	pour	un	peu	de	punch	et	vous	avez	fait	un	appareil	pour	faire	du	bruit	.
+je	vais	arrêter	ça	.
+derrière	ce	simple	jeu	,	littlebits	est	assez	puissant	.
+au	lieu	de	devoir	programmer	,	relier	,	souder	,	littlebits	vous	permet	de	programmer	en	utilisant	des	gestes	simples	,	intuitifs	.
+pour	faire	clignoter	plus	rapidement	ou	plus	lentement	,	vous	tournez	simplement	le	bouton	et	ça	le	fait	pulser	plus	rapidement	ou	plus	lentement	.
+l'idée	à	la	base	de	littlebits	c'est	que	c'est	une	collection	qui	s'agrandit	.
+nous	voulons	transformer	chaque	interaction	dans	le	monde	en	une	brique	prête	à	l'emploi	.
+lumières	,	sons	,	panneaux	solaires	,	moteurs	--	tout	devrait	être	accessible	.
+nous	avons	donné	littlebits	aux	enfants	et	nous	les	avons	regardés	jouer	.
+c'était	une	expérience	incroyable	.
+ce	qui	est	formidable	c'est	comment	ils	commencent	à	comprendre	l'électronique	qui	les	entoure	au	quotidien	qu'ils	n'apprennent	pas	à	l'école	.
+par	exemple	,	comment	marche	une	veilleuse	,	ou	pourquoi	la	porte	d'un	ascenseur	reste	ouverte	,	ou	comment	un	ipod	répond	au	toucher	.
+nous	avons	aussi	donné	littlebits	aux	écoles	de	design	.
+donc	par	exemple	des	designers	sans	aucune	expérience	en	électronique	ont	commencé	à	jouer	avec	littlebits	comme	si	c'était	un	matériau	.
+là	vous	voyez	,	avec	du	feutre	et	des	bouteilles	en	papier	,	il	y	a	_UNK_	qui	fait	...	il	y	a	quelques	semaines	nous	avons	donné	littlebits	aux	designers	de	la	rhode	island	school	of	design	sans	aucune	expérience	en	ingénierie	--	que	du	carton	,	du	bois	et	du	papier	--	et	nous	leur	avons	dit	``	faites	quelque	chose	.	``	voici	l'exemple	d'un	projet	qu'ils	ont	fait	,	un	canon	à	confettis	activé	par	le	mouvement	.
+mais	attendez	,	voici	mon	projet	préféré	.
+c'est	un	homard	en	pâte	à	modeler	qui	a	peur	du	noir	.
+pour	ces	non	-	ingénieurs	,	littlebits	est	devenu	un	matériau	,	l'électronique	est	devenue	un	autre	matériau	.
+et	nous	voulons	le	rendre	accessible	à	tout	le	monde	.
+donc	_UNK_	est	open	-	source	.
+vous	pouvez	visiter	notre	site	web	,	télécharger	tous	les	fichiers	des	projets	,	les	faire	vous	-	mêmes	.
+nous	voulons	encourager	un	monde	de	créateurs	,	d'inventeurs	,	de	contributeurs	,	parce	que	ce	monde	où	nous	vivons	,	ce	monde	interactif	,	c'est	le	nôtre	.
+donc	allez	-	y	et	inventez	.
+merci	.
+

@@ -1,0 +1,223 @@
+wie	viele	von	ihnen	mussten	schon	einmal	ein	_UNK_	ausfüllen	,	_UNK_	dem	sie	aufgefordert	wurden	eine	reihe	_UNK_	buchstaben	wie	diese	zu	lesen	?
+wie	viele	von	ihnen	fanden	das	wirklich	lästig	?
+ok	,	hervorragend	.	also	,	ich	habe	das	erfunden	.
+oder	ich	war	einer	der	leute	,	die	das	erfunden	haben	.
+dieses	ding	heisst	captcha	.
+es	ist	dazu	da	sicherzustellen	,	dass	der	der	das	formular	ausfüllt	wirklich	ein	mensch	ist	und	nicht	irgendein	computerprogramm	,	das	geschrieben	wurde	um	das	formular	viele	millionen	mal	_UNK_	.
+das	funktioniert	,	weil	menschen	,	wenigsten	die	nicht	sehbehinderten	,	keine	probleme	haben	diese	verzerrten	_UNK_	buchstaben	zu	lesen	,	während	computerprogramme	das	bisher	einfach	noch	nicht	so	gut	können	.
+im	fall	von	ticketmaster	zum	beispiel	,	müssen	sie	diese	verzerrten	buchstaben	tippen	,	um	zu	vermeiden	,	dass	_UNK_	ein	_UNK_	schreiben	das	millionen	von	tickets	kauft	,	immer	jeweils	zwei	.
+captchas	werden	überall	im	internet	benutzt	.
+und	weil	sie	so	häufig	benutzt	werden	,	ist	die	genaue	sequenz	der	zufälligen	buchstaben	die	dem	user	gezeigt	wird	oft	nicht	so	glücklich	.
+dies	ist	ein	beispiel	von	der	yahoo	_UNK_	.
+die	zufälligen	buchstaben	die	dem	user	gezeigt	wurden	sind	w	,	a	,	i	,	t	,	und	das	_UNK_	natürlich	ein	wort	.
+aber	das	beste	daran	ist	die	nachricht	,	die	beim	yahoo	_UNK_	etwa	20	minuten	später	_UNK_	.
+text	:	``	hilfe	!	ich	warte	schon	über	20	minuten	und	nichts	passiert	.	``
+diese	person	dachte	,	sie	müsse	warten	.
+natürlich	ist	das	nicht	so	schlimm	wie	für	diese	arme	person	.
+das	captcha	projekt	machten	wir	hier	bei	carnegie	mellon	vor	über	10	jahren	,	und	es	ist	überall	benutzt	worden	.
+lassen	sie	mich	ihnen	nun	von	einem	projekt	erzählen	,	das	wir	einige	jahre	später	machten	,	eine	art	entwicklung	von	captcha	.
+dies	projekt	haben	wir	recaptcha	genannt	.	wir	starteten	das	hier	bei	carnegie	mellon	,	dann	machten	wir	daraus	ein	start	-	up	-	unternehmen	.
+und	dann	vor	eineinhalb	jahren	hat	google	dieses	unternehmen	gekauft	.
+lassen	sie	mich	erzählen	,	was	dieses	projekt	gestartet	hat	.
+dieses	projekt	begann	mit	folgender	erkenntnis	:	etwa	200	millionen	captchas	werden	jeden	tag	von	leuten	auf	der	welt	_UNK_	.
+als	ich	das	zum	ersten	mal	hörte	,	war	ich	recht	stolz	.
+ich	dachte	mir	,	was	für	einen	einfluss	meine	forschungsarbeit	hat	.
+aber	dann	begann	ich	mich	schlecht	zu	fühlen	.
+es	ist	so	,	jedes	mal	wenn	sie	ein	captcha	tippen	,	verschwenden	sie	im	wesentlichen	10	sekunden	ihrer	zeit	.
+und	wenn	man	das	mit	200	millionen	multipliziert	,	ergibt	sich	,	dass	die	menschheit	insgesamt	ca	.	500.000	stunden	pro	tag	damit	vergeudet	diese	lästigen	captchas	zu	tippen	.
+dann	begann	ich	mich	schlecht	zu	fühlen	.
+und	ich	dachte	,	dass	wir	captchas	nicht	ganz	loswerden	können	,	da	die	sicherheit	des	webs	sozusagen	von	ihnen	abhängt	.
+aber	dann	überlegte	ich	,	ob	wir	irgendwie	diese	leistung	für	etwas	verwenden	können	das	gut	für	die	menschheit	ist	.
+also	,	sehen	sie	es	ist	so	.
+während	sie	das	captcha	schreiben	,	während	dieser	10	sekunden	,	da	macht	ihr	gehirn	etwas	erstaunliches	.
+das	gehirn	macht	etwas	,	das	compuer	noch	nicht	machen	können	.
+also	,	können	wir	sie	dazu	bekommen	in	diesen	10	sekunden	etwas	nützliches	zu	tun	?
+um	es	anders	auszudrücken	,	gibt	es	ein	riesiges	problem	,	das	wir	mit	computern	noch	nicht	lösen	können	,	aber	das	,	wenn	wir	es	in	winzige	10	sekunden	teile	teilen	,	jedesmal	wenn	jemand	ein	captcha	löst	,	dieser	jemand	ein	kleines	bisschen	des	problems	löst	?
+die	antwort	ist	``	ja	``	und	daran	arbeiten	wir	jetzt	.
+was	sie	vielleicht	nicht	wissen	ist	,	dass	wenn	sie	heutzutage	ein	captcha	tippen	bestätigen	sie	nicht	nur	,	dass	sie	ein	mensch	sind	,	sondern	helfen	uns	zusätzlich	noch	dabei	bücher	zu	digitalisieren	.
+lassen	sie	mich	erklären	,	wie	das	funktioniert	.
+es	gibt	viele	projekte	,	die	versuchen	bücher	zu	digitalisieren	.
+google	hat	eins	.	das	internet	archive	hat	eins	.
+amazon	,	mit	dem	kindle	,	versucht	bücher	zu	digitalisieren	.
+in	grunde	genommen	macht	man	es	indem	man	mit	einem	alten	buch	anfängt	.
+so	etwas	haben	sie	schon	einmal	gesehen	,	nicht	war	?	so	ein	buch	?
+also	man	nimmt	ein	buch	und	dann	scannt	man	es	.
+ein	buch	zu	scannen	ist	wie	ein	_UNK_	von	jeder	seite	des	buches	zu	machen	.
+man	erhält	ein	bild	für	jede	seite	des	buches	.
+dies	ist	ein	bild	mit	text	für	jede	seite	des	buches	.
+der	nächste	schritt	in	diesem	prozess	ist	,	dass	der	computer	jedes	wort	in	diesem	bild	entziffern	muss	.
+dabei	wird	ocr	genannte	technologie	benutzt	,	_UNK_	character	_UNK_	/	optische	_UNK_	,	die	ein	bild	des	textes	nimmt	und	versucht	herauszufinden	,	was	für	text	sich	darauf	befindet	.
+das	problem	ist	,	dass	ocr	nicht	perfekt	ist	.
+besonders	bei	älteren	büchern	bei	denen	die	tinte	_UNK_	ist	und	seiten	gelb	geworden	sind	,	kann	ocr	viele	wörter	nicht	erkennen	.
+zum	beispiel	bei	sachen	die	vor	mehr	als	50	jahren	geschrieben	worden	kann	der	computer	etwa	30	prozent	der	wörter	nicht	erkennen	.
+was	wir	also	nun	machen	ist	,	dass	wir	all	die	wörter	nehmen	die	der	computer	nicht	erkennen	kann	und	leute	die	für	uns	lesen	lassen	während	sie	ein	captcha	im	internet	schreiben	.
+wenn	sie	also	das	nächste	mal	ein	captcha	tippen	,	sind	die	wörter	die	sie	tippen	tatsächlich	wörter	aus	büchern	die	digitalisiert	werden	und	die	der	computer	nicht	erkennen	konnte	.
+warum	wir	jetzt	zwei	wörter	anstatt	einem	haben	ist	,	dass	eines	der	wörter	ein	wort	ist	,	das	das	system	aus	einem	buch	hat	,	aber	von	dem	es	nicht	wusste	,	was	es	bedeutet	,	und	das	zeigt	es	ihnen	nun	.
+aber	da	es	die	antwort	darauf	nicht	kennt	,	kann	es	sie	dafür	nicht	bewerten	.
+deswegen	geben	wir	ihnen	ein	anderes	wort	,	eines	für	das	das	system	die	antwort	kennt	.
+wir	sagen	ihnen	nicht	welches	was	ist	,	und	wir	sagen	,	bitte	tippen	sie	beide	.
+und	wenn	sie	das	richte	wort	schreiben	für	das	,	für	das	das	system	die	antwort	bereits	kennt	,	dann	nimmt	es	an	,	sie	sind	ein	mensch	und	es	gewinnt	an	zuversicht	,	dass	sie	das	andere	wort	korrekt	geschrieben	haben	.
+und	wenn	man	diesen	prozess	mit	so	10	unterschiedlichen	leuten	wiederholt	,	und	alle	sich	einig	sind	was	das	neue	wort	ist	,	dann	ist	ein	weiteres	wort	fehlerfrei	digitalisiert	.
+so	funktioniert	das	system	.
+und	da	wir	das	vor	drei	,	vier	jahren	herausgebracht	haben	,	haben	viele	websites	gewechselt	von	dem	alten	captcha	bei	dem	leute	zeit	vergeudet	haben	zum	neuen	captcha	bei	dem	leute	helfen	bücher	zu	digitalisieren	.
+zum	beispiel	ticketmaster	.
+jedes	mal	also	wenn	sie	tickets	bei	ticketmaster	kaufen	,	helfen	sie	ein	buch	zu	digitalisieren	.
+facebook	:	jedes	mal	wenn	sie	einen	freund	hinzufügen	oder	jemanden	_UNK_	,	helfen	sie	dabei	ein	buch	zu	digitalisieren	.
+twitter	und	etwa	350.000	andere	seiten	benutzen	alle	recaptcha	.
+die	zahl	der	seiten	die	recaptcha	benutzen	ist	tatsächlich	so	hoch	,	dass	die	zahl	der	wörter	die	wir	pro	tag	digitalisieren	sehr	,	sehr	gross	ist	.
+es	sind	etwa	100	millionen	pro	tag	,	das	entspricht	etwa	2.5	millionen	büchern	pro	jahr	.
+und	all	dies	geschieht	wort	für	wort	,	bloss	durch	leute	die	im	internet	captchas	tippen	.
+natürlich	,	da	wir	so	viele	wörter	pro	tag	machen	,	können	komische	sachen	passieren	.
+besonders	jetzt	,	wo	wir	den	leuten	zwei	zufällig	gewählte	englische	wörter	nebeneinander	geben	.
+da	können	komische	sache	passieren	.
+zum	beispiel	zeigten	wir	dieses	wort	.
+es	ist	das	wort	``	christen	``	;	nichts	falsch	daran	.
+aber	wenn	man	es	zusammen	mit	einem	anderen	zufällig	gewählten	wort	zeigt	,	dann	können	schlimme	dinge	passieren	.
+wir	bekommen	das	hier	.
+aber	es	kommt	noch	schlimmer	,	weil	die	seite	wo	wir	dies	gezeigt	haben	the	embassy	of	the	kingdom	of	god	heisst	.
+huch	.
+hier	ist	noch	ein	richtig	schlimmes	.
+_UNK_	jeden	tag	also	beleidigen	wir	überall	leute	.
+natürlich	beleidigen	wir	nicht	bloss	leute	.
+es	ist	so	,	weil	wir	zwei	zufällig	gewählte	wörter	zeigen	,	können	interessante	sachen	passieren	.
+dies	hat	sogar	zu	einem	wirklich	grossen	internet	-	meme	geführt	,	bei	dem	tausende	von	leuten	mitgemacht	hat	,	namens	captcha	art	.
+ich	bin	mir	sicher	einige	von	ihnen	haben	davon	gehört	.
+das	funktioniert	so	.
+stellen	sie	sich	vor	,	sie	benutzen	das	internet	und	sehen	ein	captcha	das	sie	ein	wenig	eigenartig	finden	,	so	wie	dies	captcha	.
+dann	sollten	sie	davon	einen	screenshot	machen	.
+dann	füllen	sie	natürlich	das	captcha	aus	,	weil	sie	uns	helfen	ein	buch	zu	digitalisieren	.
+aber	dann	,	machen	sie	erst	einen	screenshot	und	zeichnen	dann	etwas	in	bezug	darauf	.
+so	funktioniert	das	.
+davon	gibt	es	zehntausende	.
+einige	davon	sind	sehr	niedlich	.
+einige	sind	eher	lustig	.
+und	einige	davon	wie	_UNK_	_UNK_	,	sind	mit	_UNK_	_UNK_	.
+okay	,	dies	ist	also	meine	lieblingszahl	on	recaptcha	.
+dies	ist	was	mir	am	ganzen	projekt	am	meisten	gefällt	.
+dies	ist	die	zahl	unterschiedlicher	personen	die	uns	geholfen	haben	wenigstens	ein	wort	aus	einem	buch	mit	recaptcha	zu	digitalisieren	:	750	millionen	,	das	ist	etwas	mehr	als	10	prozent	der	weltbevölkerung	,	haben	uns	geholfen	wissen	der	menschen	zu	digitalisieren	.
+es	sind	solche	zahlen	,	die	mein	forschungsprogramm	motivieren	.
+die	frage	die	meine	forschung	motiviert	ist	die	folgende	:	schaut	man	auf	die	ganz	grossen	erfolge	,	diese	wirklich	grossen	sachen	die	die	menschheit	in	ihrer	geschichte	getan	und	geschafft	hat	,	wie	zum	beispiel	der	bau	der	pyramiden	in	ägypten	,	oder	der	_UNK_	,	oder	einen	mann	auf	den	mond	bringen	--	sie	haben	einen	eigenartige	tatsache	sie	wurden	alle	mit	etwa	der	gleichen	anzahl	von	leuten	gemacht	.
+es	ist	eigenartig	;	diese	wurden	alle	mit	etwa	100.000	leuten	gemacht	.
+der	grund	dafür	ist	,	das	vor	dem	internet	die	koordination	vom	mehr	als	100.000	personen	,	nicht	zu	sprechen	von	deren	bezahlung	,	im	wesentlichen	unmöglich	war	.
+aber	jetzt	mit	dem	internet	,	habe	ich	ihnen	gerade	ein	projekt	gezeigt	bei	dem	wir	750	millionen	leute	dazu	gebracht	haben	uns	bei	der	digitalisierung	menschlichen	wissens	zu	helfen	.
+die	frage	also	,	die	meine	forschung	motiviert	ist	,	wenn	wir	mit	100.000	einen	mann	auf	den	mond	bringen	können	,	was	können	wir	dann	mit	100	millionen	tun	?
+basierend	auf	dieser	frage	also	haben	wir	an	verschiedenen	projekten	gearbeitet	.
+lassen	sie	mich	ihnen	von	einem	das	mich	am	meisten	begeistert	erzählen	.
+dies	ist	etwas	,	woran	wir	halb	im	stillen	gearbeitet	haben	in	den	letzten	1½	jahren	etwa	.
+es	wurde	noch	nicht	vorgestellt	,	es	heisst	duolingo	.
+da	es	noch	unveröffentlicht	ist	,	psst	!
+ja	,	ich	kann	mich	auf	sie	verlassen	.
+also	das	ist	das	projekt	.	und	so	hat	das	angefangen	.
+es	begann	damit	,	dass	ich	meinem	studenten	eine	frage	stellte	.	severin	hacker	.
+ok	,	das	ist	severin	hacker	.
+ich	stellte	meinem	studenten	also	die	frage	.
+sie	haben	übrigens	richtig	gehört	;	sein	_UNK_	ist	hacker	.
+also	ich	stellte	ihm	diese	frage	:	wie	können	wir	100	million	leute	dazu	bringen	,	das	web	in	jede	bedeutende	sprache	kostenlos	zu	übersetzen	?
+ok	,	über	die	frage	kann	man	viel	sagen	.
+erstmal	,	das	web	zu	übersetzen	.
+zur	zeit	ist	das	web	in	mehrere	sprachen	unterteilt	.
+ein	grosser	teil	davon	ist	auf	english	.
+kann	man	kein	english	,	kann	man	nicht	darauf	zugreifen	.
+aber	es	gibt	grosse	teile	in	anderen	unterschiedlichen	sprachen	,	und	wenn	man	jene	sprachen	nicht	kann	,	kann	man	nicht	darauf	zugreifen	.
+daher	möchte	ich	das	ganze	web	übersetzen	,	oder	wenigsten	den	grossteil	des	webs	,	in	jede	bedeutende	sprache	.
+das	ist	es	,	was	ich	machen	möchte	.
+sie	sagen	jetzt	vielleicht	,	warum	können	wir	zum	übersetzen	keine	computer	benutzen	?
+warum	können	wir	nicht	maschinelle	übersetzung	benutzen	?
+maschinelle	übersetzung	übersetzt	schon	einige	sätze	hier	und	da	.
+warum	können	wir	das	nicht	dazu	benutzen	das	ganze	web	zu	übersetzen	?
+das	problem	ist	,	das	es	dazu	noch	nicht	gut	genug	ist	,	und	in	den	nächsten	15	bis	20	jahren	wird	es	das	wohl	auch	nicht	sein	.
+es	macht	viele	fehler	.
+selbst	wenn	es	keine	fehler	macht	,	weiss	man	nicht	ob	man	ihm	trauen	kann	,	weil	es	so	viele	fehler	macht	.
+lassen	sie	mich	ihnen	ein	beispiel	zeigen	,	etwas	das	maschinell	übersetzt	wurde	.
+es	ist	eigentlich	ein	_UNK_	.
+jemand	versuchte	eine	frage	über	javascript	zu	stellen	.
+das	wurde	von	japanisch	auf	englisch	übersetzt	.
+ich	lasse	sie	das	einfach	lesen	.
+diese	person	beginnt	damit	sich	dafür	zu	entschuldigen	,	dass	dies	mit	einem	computer	übersetzt	wurde	.
+der	nächste	satz	also	ist	die	einleitung	zur	frage	.
+er	erklärt	also	nur	etwas	.
+denken	sie	daran	,	es	ist	eine	frage	über	javascript	.
+dann	kommt	der	erste	teil	der	frage	.
+dann	kommt	mein	_UNK_	der	frage	.
+dann	kommt	das	ende	,	für	mich	das	beste	von	allem	.
+ok	,	also	_UNK_	,	noch	nicht	gut	genug	.
+also	zurück	zu	meiner	frage	.
+wir	brauchen	also	leute	um	das	ganze	web	zu	übersetzen	.
+die	nächste	frage	,	die	sie	haben	könnten	ist	,	warum	können	wir	nicht	einfach	leute	dafür	bezahlen	?
+wir	könnten	professionelle	übersetzer	dafür	bezahlen	das	ganze	web	zu	übersetzen	.
+wir	könnten	das	machen	.
+leider	wäre	das	äusserst	teuer	.
+zum	beispiel	einen	winzig	kleinen	teil	des	ganzen	web	,	wikipedia	,	übersetzen	in	eine	andere	sprache	,	spanisch	.
+wikipedia	gibt	es	auf	spanisch	,	aber	das	ist	sehr	klein	im	vergleich	zur	grösse	auf	englisch	.
+es	hat	etwa	20	prozent	der	grösse	von	englisch	.
+wollten	wir	die	anderen	80	prozent	auf	spanisch	übersetzen	,	würde	es	mindestens	50	millionen	dollar	kosten	--	und	das	ist	schon	im	_UNK_	outsourcing	-	land	von	allen	.
+das	wäre	also	sehr	teuer	.
+was	wir	also	machen	wollen	ist	,	dass	100	millionen	leute	das	web	in	jede	bedeutende	sprache	übersetzen	,	kostenlos	.
+wenn	wir	das	machen	wollen	,	dann	wird	bald	klar	,	dass	wir	dabei	auf	zwei	grosse	hürden	treffen	werden	,	zwei	grosse	hindernisse	.
+das	erste	ist	der	mangel	an	zweisprachigen	.
+ich	weiss	nicht	einmal	,	ob	es	100	millionen	menschen	gibt	,	die	das	web	benutzen	,	und	_UNK_	genug	sind	,	um	uns	übersetzen	zu	helfen	.
+das	ist	ein	grosses	problem	.
+das	andere	problem	auf	das	wir	stossen	werden	ist	ein	mangel	an	motivation	.
+wie	motivieren	wir	menschen	,	das	web	tatsächlich	kostenlos	zu	übersetzen	?
+normalerweise	muss	man	menschen	dafür	bezahlen	.
+wie	motivieren	wir	sie	also	,	das	kostenlos	zu	machen	?
+wegen	dieser	zwei	dinge	kamen	wir	anfangs	nicht	voran	.
+aber	dann	erkannten	wir	,	das	es	tatsächlich	einen	weg	gibt	,	beiden	problemen	mit	derselben	lösung	zu	begegnen	.
+es	gibt	einen	weg	,	zwei	fliegen	mit	ein	klappe	zu	schlagen	.
+nämlich	aus	der	übersetzung	etwas	zu	machen	,	das	millionen	menschen	tun	wollen	,	und	das	auch	beim	problem	des	mangels	an	zweisprachigen	hilft	,	und	das	ist	sprachunterricht	.
+es	zeigt	sich	,	dass	es	heute	über	1.2	milliarden	menschen	gibt	,	die	eine	fremdsprache	lernen	.
+menschen	wollen	nämlich	wirklich	eine	fremdsprache	lernen	.
+nicht	bloss	weil	sie	dazu	in	der	schule	gezwungen	sind	.
+zum	beispiel	,	alleine	in	den	usa	gibt	es	über	4	millionen	leute	,	die	über	500	dollar	bezahlt	haben	für	software	um	eine	neue	sprache	zu	erlernen	.
+leute	wollen	also	wirklich	eine	neue	sprache	lernen	.
+woran	wir	also	die	letzten	eineinhalb	jahre	gearbeitet	haben	ist	eine	neue	website	--	sie	heisst	duolingo	--	bei	der	der	grundgedanke	ist	,	dass	leute	eine	neue	sprache	kostenlos	lernen	während	sie	gleichzeitig	das	web	übersetzen	.
+sie	lernen	also	durchs	handeln	.
+das	funktioniert	,	wenn	sie	anfänger	sind	,	geben	wir	ihnen	sehr	,	sehr	einfache	sätze	.
+es	gibt	natürlich	eine	menge	sehr	einfache	sätze	im	web	.
+wir	geben	ihnen	sehr	,	sehr	einfache	sätze	zusammen	mit	der	bedeutung	eines	jeden	wortes	.
+und	während	sie	sie	übersetzen	,	und	sehen	wir	andere	sie	übersetzen	,	beginnen	sie	,	die	sprache	zu	lernen	.
+und	während	sie	fortschritte	machen	,	geben	wir	ihnen	immer	komplexere	sätze	zu	übersetzen	.
+aber	zu	jeder	zeit	lernen	sie	durchs	handeln	.
+das	verrückte	an	dieser	methode	ist	,	das	sie	wirklich	funktioniert	.
+erstens	lernt	man	wirklich	eine	sprache	--
+--	wir	sind	fast	fertig	damit	es	aufzubauen	,	und	testen	es	gerade	--
+man	kann	damit	wirklich	eine	sprache	erlernen	,
+und	man	lernt	sie	damit	etwa	so	gut	wie	mit	führenden	_UNK_	-	_UNK_	.
+leute	lernen	also	wirklich	eine	sprache	.
+und	sie	lernen	sie	nicht	nur	ebenso	gut	,	es	ist	tatsächlich	viel	interessanter	.
+weil	man	bei	duolingo	mit	echten	inhalten	lernt	.
+anstatt	mit	erfundenen	sätzen	zu	lernen	,	lernt	man	mit	echten	inhalten	,	was	schon	an	sich	_UNK_	ist	.
+leute	lernen	also	wirklich	eine	sprache	.
+aber	was	vielleicht	noch	überraschender	ist	,	die	übersetzungen	die	wir	von	den	site	-	nutzern	bekommen	,	selbst	wenn	sie	bloss	anfänger	sind	,	die	übersetzungen	die	wir	bekommen	sind	ebenso	genau	,	wie	die	von	professionellen	übersetzern	,	und	das	ist	sehr	überraschend	.
+lassen	sie	mich	ihnen	ein	beispiel	zeigen	.
+dies	ist	ein	satz	,	der	von	deutsch	auf	englisch	übersetzt	wurde	.
+oben	ist	deutsch	.
+in	der	mitte	ist	eine	englische	übersetzung	,	die	von	einem	professionellen	übersetzer	für	englisch	gemacht	wurde	,	dem	wir	20	cent	pro	wort	für	seine	übersetzung	bezahlt	haben	.
+und	unten	ist	eine	übersetzung	von	duolingo	-	usern	,	von	denen	keiner	deutsch	konnte	bevor	er	anfing	die	seite	zu	benutzen	.
+wie	sie	sehen	können	ist	es	ziemlich	perfekt	.
+natürlich	benutzen	wir	hier	einen	trick	um	die	übersetzungen	so	gut	zu	machen	wie	die	von	professionellen	übersetzern	.
+wir	fassen	die	übersetzungen	mehrerer	anfänger	zusammen	um	die	qualität	eines	einzelnen	professionellen	übersetzers	zu	erreichen	.
+obwohl	wir	die	übersetzungen	zusammenfassen	kann	die	site	recht	schnell	übersetzen	.
+lassen	sie	mich	ihnen	das	zeigen	,	dies	ist	unsere	schätzung	,	wie	schnell	wir	wikipedia	von	englisch	auf	spanisch	übersetzen	könnten	.
+denken	sie	daran	,	dies	ist	50	millionen	dollar	wert	.
+wollten	wir	wikipedia	auf	spanisch	übersetzen	,	könnten	wir	das	in	fünf	wochen	mit	100.000	aktiven	usern	machen	.
+und	wir	könnten	das	in	80	stunden	machen	mit	1	million	aktiven	usern	.
+da	alle	projekten	an	denen	meine	gruppe	bisher	gearbeitet	hat	millionen	von	usern	hatten	,	sind	wir	zuversichtlich	,	dass	wir	mit	diesem	projekt	extrem	schnell	übersetzen	werden	können	.
+was	mich	am	meisten	an	duolingo	begeistert	ist	,	dass	ich	glaube	dass	es	eine	faires	geschäftsmodell	für	sprachunterricht	anbietet	.
+also	es	ist	so	:	im	aktuellen	geschäftsmodell	für	sprachunterricht	ist	,	dass	der	lernende	bezahlt	,	vornehmlich	zahlt	der	lernende	rosetta	stone	500	dollar	.
+das	ist	das	aktuelle	geschäftsmodell	.
+der	haken	an	diesem	geschäftsmodell	ist	,	dass	95	%	der	weltbevölkerung	keine	500	dollar	haben	.
+es	ist	also	extrem	unfair	für	arme	.
+es	ist	völlig	auf	reiche	ausgerichtet	.
+bei	duolingo	hingegen	schafft	man	tatsächlich	einen	wert	,	während	man	lernt	--	man	übersetzt	etwas	--	und	wir	könnten	zum	beispiel	jemandem	die	übersetzungen	berechnen	.
+so	könnten	wir	dies	zu	geld	machen	.
+da	leute	während	sie	lernen	wert	schöpfen	,	müssen	sie	nicht	mit	geld	bezahlen	,	sie	bezahlen	mit	ihrer	zeit	.
+das	magische	daran	ist	,	dass	sie	mit	ihrer	zeit	bezahlen	,	aber	das	ist	zeit	die	sie	sowieso	gebraucht	hätten	,	um	die	sprache	zu	erlernen	.
+das	schöne	an	duolingo	finde	ich	,	dass	es	ein	faires	geschäftsmodell	ist	--	eines	,	das	arme	leute	nicht	benachteiligt	.
+also	das	ist	die	seite	.	danke	sehr	.
+das	ist	die	seite	.
+sie	ist	noch	nicht	aktiv	,	aber	sie	können	sich	dort	für	unsere	private	_UNK_	anmelden	,	die	wohl	in	drei	bis	vier	wochen	starten	wird	.
+wie	haben	duolingo	noch	nicht	gestartet	.
+übrigens	,	hier	spreche	ich	,	aber	duolingo	ist	tatsächlich	die	arbeit	eines	wirklich	grossartigen	teams	,	von	dem	einige	hier	sind	.
+vielen	dank	.
+

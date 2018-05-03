@@ -1,0 +1,153 @@
+adım_tr seth_tr priebatsch_tr ._tr _UNK__tr baş_tr _UNK__tr ._tr
+princeton'dan_tr atılmaktan_tr gurur_tr duyuyorum_tr ._tr
+ayrıca_tr boston'a_tr yeniden_tr yerleşmekten_tr de_tr gurur_tr duyuyorum_tr aslında_tr büyüdüğüm_tr yere_tr ._tr
+evet_tr ,_tr boston_tr ._tr
+kolay_tr kazanımlar_tr ._tr sadece_tr gidip_tr buralardaki_tr eyaletleri_tr _UNK__tr ._tr
+aynı_tr zamanda_tr dünya_tr üzerinde_tr bir_tr oyun_tr katmanı_tr kurmaya_tr oldukça_tr _UNK__tr ._tr
+bu_tr bir_tr çeşit_tr yeni_tr konsept_tr ve_tr çok_tr önemli_tr ._tr
+çünkü_tr geçtiğimiz_tr son_tr 10_tr yıl_tr sosyalleşme_tr dönemiydi_tr ve_tr frameworklerin_tr bulunduğu_tr dönemdi_tr diğer_tr insanlarla_tr oluşturdukları_tr ile_tr bağlantı_tr kurduğumuz_tr dönemdi_tr ,_tr _UNK__tr 10_tr yıllık_tr dönem_tr ise_tr oyun_tr _UNK__tr oluşturulduğu_tr dürtülerimizin_tr gerçekten_tr davranışları_tr etkilediği_tr bir_tr dönem_tr olacak_tr ve_tr oluşturulan_tr bu_tr framework_tr için_tr kararlar_tr verildi_tr ve_tr bu_tr gerçekten_tr önemli_tr ._tr
+yani_tr ben_tr diyorum_tr ki_tr dünya_tr üzerinde_tr bir_tr oyun_tr katmanı_tr oluşturmak_tr istiyorum_tr ,_tr ama_tr bu_tr tam_tr olarak_tr doğru_tr değil_tr çünkü_tr bu_tr zaten_tr yapım_tr aşamasında_tr ;_tr şu_tr anda_tr gerçekleşiyor_tr ._tr
+ve_tr şimdi_tr bu_tr şekilde_tr görünüyor_tr ._tr
+1997'deki_tr internet_tr gibi_tr görünüyor_tr değil_tr mi_tr ?_tr
+pek_tr iyi_tr değil_tr ._tr darmadağın_tr bir_tr durumda_tr ._tr
+bir_tr çok_tr farklı_tr şeyle_tr dolu_tr ve_tr kısaca_tr eğlenceli_tr değil_tr ._tr
+kredi_tr kartı_tr şemaları_tr ve_tr havayolu_tr mil_tr programları_tr var_tr ve_tr kuponlar_tr ve_tr bütün_tr bu_tr bağlantılı_tr şemalar_tr aslında_tr oyun_tr dinamiklerini_tr kullanıyorlar_tr ve_tr oyun_tr katmanını_tr oluşturuyorlar_tr ,_tr onlar_tr berbatlar_tr ._tr
+pek_tr iyi_tr _UNK__tr değil_tr mi_tr ?_tr
+bu_tr da_tr talihsizlik_tr ._tr
+ama_tr şanslıyız_tr ki_tr ,_tr favori_tr aksiyon_tr kahramanım_tr olarak_tr usta_tr bob_tr diyor_tr ki_tr ;_tr "_tr daha_tr iyisini_tr yapabiliriz_tr ._tr daha_tr iyi_tr inşa_tr edebiliriz_tr ._tr "_tr
+ve_tr oyun_tr oluşturmak_tr için_tr kullandığımız_tr araçların_tr ,_tr kaynakların_tr kendileri_tr birer_tr oyun_tr dinamiği_tr ._tr
+bu_tr sunumun_tr püf_tr noktası_tr gerçekten_tr önemli_tr 4_tr oyun_tr dinamiğine_tr dikkat_tr çekmek_tr ,_tr gerçekten_tr ilginç_tr olanlara_tr öyle_tr ki_tr eğer_tr bilinçli_tr bir_tr şekilde_tr kullanırsanız_tr davranışları_tr etkileyebilirsiniz_tr hem_tr iyi_tr hem_tr kötü_tr olarak_tr ,_tr ya_tr da_tr ikisinin_tr arasında_tr
+i̇yi_tr olmasını_tr umuyorum_tr ._tr
+ama_tr bu_tr frameworkün_tr oluşturulacağı_tr önemli_tr bir_tr safha_tr ,_tr ve_tr şimdi_tr hepimiz_tr bunun_tr hakkında_tr bilinçli_tr olarak_tr düşünmek_tr istiyoruz_tr ._tr
+buna_tr geçmeden_tr önce_tr bir_tr sorum_tr olacak_tr :_tr bu_tr neden_tr önemli_tr ?_tr
+bununla_tr dünya_tr üzerinde_tr bir_tr oyun_tr katmanı_tr olduğunu_tr iddaa_tr ediyorum_tr ,_tr ve_tr bunu_tr düzenli_tr bir_tr şekilde_tr oluşturmamız_tr çok_tr önemli_tr ._tr
+bunun_tr bu_tr kadar_tr önemli_tr olmasının_tr sebebi_tr son_tr dönemde_tr sosyal_tr katmanın_tr oluşturulduğunu_tr görmemiz_tr bağlantılar_tr için_tr _UNK__tr ,_tr ve_tr bu_tr katmandaki_tr yapım_tr bitti_tr ,_tr katman_tr bitti_tr ._tr
+hala_tr araştırılması_tr gereken_tr çok_tr şey_tr var_tr ._tr
+hali_tr hazırda_tr sosyal_tr katmanı_tr çözmeye_tr çalışan_tr bir_tr çok_tr insan_tr var_tr ve_tr bunu_tr nasıl_tr _UNK__tr ve_tr nasıl_tr kullandığımızı_tr çözmeye_tr çalışan_tr ,_tr ama_tr frameworkün_tr kendisi_tr tamamlandı_tr ,_tr ve_tr adı_tr da_tr facebook_tr ._tr
+bu_tr tamamdır_tr değil_tr mi_tr ?_tr bir_tr çok_tr insan_tr facebook_tr ile_tr çok_tr mutlu_tr ._tr
+ben_tr de_tr çok_tr seviyorum_tr ._tr
+open_tr graph_tr olarak_tr adlandırdıkları_tr bu_tr şeyi_tr yarattılar_tr ve_tr bütün_tr _UNK__tr sahipler_tr ._tr
+yarım_tr milyar_tr insana_tr sahipler_tr ._tr
+yani_tr sosyal_tr katman_tr üzerinde_tr birşey_tr oluşturmak_tr istediğinizde_tr ,_tr kullanacağınız_tr framework_tr _UNK__tr ;_tr open_tr graph_tr api_tr ._tr
+bununla_tr _UNK__tr harika_tr ._tr
+mutlu_tr değilseniz_tr çok_tr kötü_tr ._tr yapabileceğiniz_tr hiçbir_tr şey_tr yok_tr ._tr
+ama_tr bu_tr önümüzdeki_tr dönem_tr --_tr ve_tr bu_tr gerçek_tr ._tr
+demek_tr istediğim_tr ,_tr bunu_tr kabul_tr edilebilir_tr kılan_tr _UNK__tr oluşturmak_tr istiyoruz_tr ve_tr bunu_tr ,_tr bilirsiniz_tr yol_tr boyunca_tr üretken_tr kılmak_tr istiyoruz_tr ._tr
+yani_tr sosyal_tr katman_tr bütün_tr bu_tr bağlantılarla_tr ilgili_tr ._tr
+oyun_tr katmanı_tr ise_tr etki_tr yaratmakla_tr ilgili_tr ._tr
+i̇nternete_tr sosyal_tr bir_tr yapı_tr _UNK__tr ve_tr sizin_tr diğer_tr insanlarla_tr olduğunuz_tr ve_tr gittiğiniz_tr heryerde_tr iletişim_tr _UNK__tr ilgili_tr değil_tr ._tr
+aslında_tr nerede_tr olduğunuz_tr ,_tr orda_tr ne_tr yaptığınız_tr ve_tr nasıl_tr yaptığınızda_tr davranışınızı_tr etkilemek_tr içim_tr dinamikleri_tr ve_tr gücü_tr kullanmakla_tr ilgili_tr ._tr
+bu_tr gerçekten_tr çok_tr güçlü_tr ve_tr sosyal_tr katmandan_tr daha_tr önemli_tr olacak_tr ._tr
+hayatımızı_tr daha_tr derinden_tr etkileyecek_tr ve_tr belki_tr de_tr daha_tr görünür_tr bir_tr şekilde_tr ._tr
+ve_tr bu_tr aşama_tr inanılmaz_tr derecede_tr kritik_tr henüz_tr _UNK__tr facebook_tr ,_tr open_tr graph_tr gibi_tr frameworklerin_tr oyun_tr katmanı_tr için_tr _UNK__tr _UNK__tr ,_tr bunun_tr hakkında_tr bilinçli_tr şekilde_tr düşündüğümüzde_tr ve_tr bunu_tr herkese_tr açık_tr bir_tr yolla_tr yaptığımızda_tr buna_tr ulaşılabilir_tr ve_tr iyi_tr amaçlar_tr için_tr kullanılabilir_tr ._tr
+ve_tr bu_tr benim_tr oyun_tr dinamikleri_tr hakkında_tr konuşmak_tr istediğim_tr şey_tr çünkü_tr yapımı_tr yeni_tr başladı_tr ve_tr bunun_tr hakkında_tr daha_tr bilinçli_tr _UNK__tr istediğimiz_tr herhangi_tr bir_tr şey_tr için_tr daha_tr iyi_tr kullanabilir_tr olacağız_tr ._tr
+yani_tr dediğim_tr gibi_tr ,_tr _UNK__tr ve_tr oyun_tr katmanını_tr _UNK__tr bu_tr yol_tr camla_tr ,_tr _UNK__tr ve_tr _UNK__tr kaplı_tr değil_tr ._tr
+ve_tr kullanacağımız_tr kaynaklar_tr sahip_tr olduğumuz_tr 2_tr -_tr boyutlu_tr bir_tr alan_tr değil_tr ._tr
+kaynaklarımız_tr bilgimizin_tr paylaşımı_tr ve_tr araçlar_tr ,_tr _UNK__tr bu_tr oyun_tr dinamikleri_tr ._tr
+yani_tr bununla_tr ,_tr bildiğiniz_tr gibi_tr ,_tr hakkında_tr konuşduğumuz_tr bir_tr kaç_tr oyun_tr _UNK__tr ._tr
+dört_tr ._tr _UNK__tr yedi_tr oyun_tr dinamiği_tr ile_tr herhangi_tr birine_tr istediğinizi_tr _UNK__tr ilgili_tr şakalaşmayı_tr severiz_tr ._tr
+ve_tr bugün_tr ,_tr bunların_tr dördünü_tr size_tr göstereceğim_tr ,_tr çünkü_tr hala_tr bunun_tr sonunda_tr rekabetçi_tr bir_tr avantajım_tr olmasını_tr umuyorum_tr ._tr
+birincisi_tr ,_tr çok_tr basit_tr bir_tr oyun_tr dinamiği_tr ._tr
+görev_tr dinamiği_tr ._tr
+ve_tr bu_tr dinamikte_tr başarmak_tr için_tr oyuncular_tr daha_tr önceden_tr belirlenmiş_tr zamanda_tr bir_tr şey_tr yapmalılar_tr genellikle_tr önceden_tr belirlenmiş_tr bir_tr konumda_tr ._tr
+ve_tr bu_tr dinamikler_tr bazen_tr biraz_tr ürkütücü_tr çünkü_tr diğer_tr insanların_tr etkileşim_tr şeklinizi_tr _UNK__tr ,_tr nerde_tr ve_tr ne_tr zaman_tr yaptığınızı_tr manipüle_tr edebileceğini_tr biliyorsunuz_tr ,_tr düşünüyorsunuz_tr ._tr
+oyunlarda_tr bulunan_tr özgür_tr _UNK__tr bu_tr şekilde_tr kaybı_tr korkutucu_tr olabiliyor_tr ,_tr bundan_tr ötürü_tr her_tr dinamikte_tr ü_tr ç_tr örnek_tr vereceğim_tr --_tr gerçek_tr dünyada_tr nasıl_tr kullanıldığını_tr gösterecek_tr bir_tr tane_tr ,_tr böylece_tr biraz_tr olsun_tr _UNK__tr ,_tr geleneksel_tr oyunda_tr nasıl_tr işleyeceğini_tr düşündüğümüzü_tr gösteren_tr bir_tr tane_tr --_tr bence_tr herşey_tr bir_tr çeşit_tr oyundur_tr bir_tr masada_tr ya_tr da_tr bilgisayar_tr ekranında_tr oynandığını_tr _UNK__tr fazlası_tr ve_tr bunun_tr nasıl_tr iyi_tr yönde_tr kullanılabileceği_tr ,_tr böylece_tr bu_tr etkenlerin_tr gerçekten_tr çok_tr güçlü_tr olabileceğini_tr _UNK__tr ._tr
+birincisi_tr --_tr dünyadaki_tr en_tr ünlü_tr görev_tr dinamiği_tr --_tr mutlu_tr saat_tr ._tr
+ben_tr daha_tr yeni_tr princeton'dan_tr atıldım_tr ve_tr aslında_tr ilk_tr sefer_tr bir_tr barda_tr son_tr buldu_tr ,_tr ve_tr mekanda_tr her_tr yerde_tr bu_tr mutlu_tr saat_tr şeylerini_tr gördüm_tr ._tr
+bu_tr basit_tr bir_tr görev_tr dinamiği_tr ._tr
+belirli_tr zamanda_tr gel_tr ve_tr _UNK__tr yarı_tr fiyatına_tr al_tr ._tr
+kazanmak_tr için_tr tüm_tr yapman_tr gereken_tr doğru_tr zamanda_tr doğru_tr yerde_tr bulunmak_tr ._tr
+bu_tr oyun_tr dinamiği_tr öylesine_tr güçlü_tr ki_tr sadece_tr davranışlarımızı_tr değil_tr bütün_tr kültürümüzü_tr etkiliyor_tr ._tr
+bir_tr oyun_tr dinamiğinin_tr olayları_tr bu_tr kadar_tr güçlü_tr _UNK__tr korkutucu_tr bir_tr düşünce_tr ._tr
+ayrıca_tr daha_tr geleneksel_tr oyunlarda_tr da_tr mevcut_tr ._tr
+eminim_tr şimdiye_tr kadar_tr _UNK__tr duymuşsunuzdur_tr ._tr
+eğer_tr duymadıysanız_tr _UNK__tr tavsiye_tr ederim_tr ._tr
+günün_tr geri_tr kalanında_tr hiç_tr birşey_tr yapmayacaksınız_tr ._tr
+farmville_tr ,_tr twitter'dan_tr daha_tr fazla_tr aktif_tr üyeye_tr sahip_tr ._tr
+i̇nanılmaz_tr derecede_tr güçlü_tr ve_tr ürünlerinizi_tr ,_tr sahte_tr ürünlerinizi_tr ,_tr _UNK__tr için_tr belirli_tr zamanda_tr dönmeniz_tr gereken_tr oyun_tr dinamiğine_tr sahip_tr ,_tr aksi_tr takdirde_tr _UNK__tr soluyor_tr ._tr
+ve_tr bu_tr öylesine_tr güçlü_tr ki_tr ,_tr istatistiklerine_tr baktıklarında_tr ürünlerin_tr 8_tr saat_tr sonra_tr _UNK__tr gördüklerinde_tr ya_tr da_tr 6_tr saat_tr sonra_tr ya_tr da_tr 24_tr saat_tr ,_tr bu_tr bazı_tr 70_tr milyon_tr insanın_tr gün_tr içindeki_tr hayat_tr döngüsünü_tr değiştiriyor_tr ._tr
+farklı_tr zamanlarda_tr saat_tr gibi_tr geri_tr dönecekler_tr ._tr
+yani_tr eğer_tr dünyayı_tr sonlandırmak_tr isteseler_tr ,_tr üretkenliği_tr durdurmak_tr isteseler_tr ,_tr bunu_tr 30_tr dakikalık_tr _UNK__tr yapabilirlerdi_tr ve_tr hiçkimse_tr başka_tr birşey_tr _UNK__tr ._tr
+bu_tr biraz_tr ürkütücü_tr ._tr
+ama_tr bu_tr iyi_tr amaçlar_tr için_tr de_tr kullanılabilirdi_tr ._tr
+bu_tr yerel_tr bir_tr şirket_tr olan_tr _UNK__tr ve_tr insanların_tr ilaçlarını_tr zamanında_tr almalarına_tr yardım_tr etmek_tr için_tr bir_tr ürün_tr üretiyorlar_tr ._tr
+bu_tr bir_tr görev_tr ._tr
+bu_tr insanların_tr pek_tr iyi_tr yapmadıkları_tr birşey_tr ._tr
+ve_tr bu_tr _UNK__tr size_tr ilacınızı_tr almanız_tr gerektiğini_tr hatırlatmak_tr için_tr parıldıyor_tr ,_tr email_tr atıyor_tr ve_tr bütün_tr havalı_tr şeyleri_tr yapıyor_tr ._tr
+bu_tr henüz_tr bir_tr oyun_tr değil_tr ama_tr gerçekten_tr olmalı_tr ._tr
+bunu_tr zamanında_tr yaptığınızda_tr puan_tr _UNK__tr ._tr
+zamanında_tr _UNK__tr puan_tr _UNK__tr ._tr
+bir_tr görev_tr dinamiği_tr _UNK__tr ve_tr oyunu_tr _UNK__tr bilincine_tr _UNK__tr ._tr
+ve_tr bazı_tr ilginç_tr yollarla_tr gerçekten_tr iyi_tr işler_tr başarabilirsiniz_tr ._tr
+bir_tr sonrakine_tr _UNK__tr belki_tr ._tr evet_tr ._tr
+etki_tr ve_tr statü_tr ._tr
+bu_tr da_tr en_tr meşhur_tr oyun_tr _UNK__tr birisi_tr ._tr
+her_tr yerde_tr kullanılıyor_tr ._tr
+şu_tr anda_tr _UNK__tr içinde_tr ._tr
+hepimiz_tr en_tr soldaki_tr kredi_tr kartını_tr isteriz_tr çünkü_tr o_tr siyah_tr ._tr
+ve_tr birisini_tr _UNK__tr görürseniz_tr yada_tr --_tr _UNK__tr değil_tr --_tr christian_tr _UNK__tr ya_tr da_tr başka_tr birşey_tr ve_tr sonra_tr ..._tr
+bilmiyorum_tr ._tr siyah_tr kartım_tr yok_tr ,_tr banka_tr kartım_tr var_tr ._tr
+yani_tr onlar_tr kartı_tr çıkartırlar_tr ve_tr adamım_tr bilirsin_tr onlarda_tr bu_tr siyah_tr _UNK__tr vardır_tr ._tr
+onu_tr istiyorum_tr çünkü_tr onların_tr benden_tr daha_tr havalı_tr olduğunu_tr gösteriyor_tr ve_tr buna_tr ihtiyacım_tr var_tr ._tr
+ve_tr bu_tr oyunlarda_tr da_tr kullanılıyor_tr ._tr
+"_tr modern_tr _UNK__tr "_tr tüm_tr zamanların_tr en_tr iyi_tr satan_tr oyunlarından_tr birisi_tr ._tr
+ben_tr sadece_tr 4._tr _UNK__tr ama_tr 10._tr seviyede_tr olmak_tr için_tr _UNK__tr çünkü_tr 10._tr seviyede_tr bu_tr kırmızı_tr havalı_tr nişan_tr var_tr ve_tr bu_tr benim_tr şöyle_tr ya_tr da_tr böyle_tr herkesten_tr daha_tr iyi_tr olduğumu_tr gösterir_tr ._tr
+ve_tr bu_tr benim_tr için_tr çok_tr güçlü_tr ._tr statü_tr gerçekten_tr iyi_tr bir_tr motivasyondur_tr ._tr
+daha_tr geleneksel_tr _UNK__tr daha_tr çok_tr kullanılıyor_tr ve_tr daha_tr da_tr bilinçli_tr kullanılabilir_tr ._tr
+okul_tr --_tr unutmadan_tr 1_tr yıl_tr için_tr _UNK__tr ,_tr yani_tr okul_tr hakkında_tr konuşma_tr hakkım_tr var_tr diye_tr düşünüyorum_tr --_tr bir_tr oyun_tr sadece_tr çok_tr şahane_tr düzenlenmiş_tr değil_tr ._tr
+okulda_tr seviyeler_tr var_tr ._tr c_tr ,_tr b_tr ,_tr a._tr
+_UNK__tr ._tr yani_tr bir_tr "_tr örnek_tr öğrenci_tr "_tr statüden_tr başka_tr nedir_tr ?_tr
+örnek_tr öğrenciye_tr "_tr 20._tr seviye_tr beyaz_tr _UNK__tr şövalye_tr "_tr diyecek_tr olsak_tr muhtemelen_tr insanlar_tr daha_tr sıkı_tr çalışırlardı_tr ._tr
+yani_tr okul_tr bir_tr oyun_tr ve_tr bunu_tr nasıl_tr _UNK__tr yapacağımızla_tr ilgili_tr birçok_tr deneyim_tr mevcut_tr ._tr
+ama_tr bunu_tr bilinçli_tr bir_tr şekilde_tr ele_tr alalım_tr ._tr neden_tr kaybedebileceğimiz_tr oyunlar_tr olduğu_tr gibi_tr ?_tr
+neden_tr a'dan_tr f'ye_tr gidelim_tr ya_tr da_tr b'den_tr c'ye_tr ?_tr
+bu_tr berbat_tr ._tr neden_tr seviye_tr _UNK__tr ?_tr
+_UNK__tr aslında_tr bunu_tr denediler_tr ;_tr deneyim_tr puanı_tr kazandığınız_tr sınavlar_tr var_tr ve_tr b'den_tr a'ya_tr _UNK__tr ._tr
+ve_tr bu_tr çok_tr güçlü_tr ._tr
+i̇lgi_tr çekici_tr yönlerde_tr kullanılabilir_tr ._tr
+çabucak_tr bahsetmek_tr istediğim_tr üçüncü_tr dinamik_tr ise_tr i̇lerleme_tr dinamiği_tr ,_tr burda_tr ilerleme_tr _UNK__tr gerekiyor_tr ,_tr sıralı_tr olarak_tr farklı_tr adımları_tr geçmeniz_tr gerekiyor_tr ._tr
+bu_tr her_tr yerde_tr kullanılıyor_tr ,_tr _UNK__tr de_tr dahil_tr olmak_tr üzere_tr ,_tr ki_tr ben_tr burda_tr tam_tr olarak_tr yalnız_tr değilim_tr ._tr
+_UNK__tr sadece_tr %_tr 85_tr _UNK__tr ve_tr bu_tr canımı_tr sıkıyor_tr ._tr
+bu_tr aklımızda_tr o_tr kadar_tr yer_tr etmiş_tr ki_tr bir_tr ilerleme_tr _UNK__tr karşılaşıp_tr bu_tr kolay_tr sıralı_tr adımları_tr deneyip_tr tamamlamamız_tr istendiğinde_tr bunu_tr yapacağız_tr ._tr
+bu_tr mavi_tr çizgiyi_tr sağ_tr taraftaki_tr bitişe_tr kadar_tr ilerletmenin_tr bir_tr yolunu_tr bulacağız_tr ._tr
+bu_tr geleneksel_tr oyunlarda_tr da_tr kullanılıyor_tr ._tr
+demek_tr istediğim_tr ,_tr 10._tr seviyedeki_tr _UNK__tr görüyorsunuz_tr ve_tr bu_tr da_tr 20._tr seviye_tr _UNK__tr ve_tr eğer_tr _UNK__tr alanında_tr _UNK__tr karşı_tr _UNK__tr _UNK__tr al_tr _UNK__tr karşı_tr muhtemelen_tr sağdaki_tr büyük_tr olanı_tr istersiniz_tr değil_tr mi_tr ._tr
+ben_tr isterdim_tr ._tr
+i̇nsanlar_tr seviye_tr atlamak_tr için_tr çok_tr sıkı_tr çalışıyorlar_tr ._tr
+"_tr world_tr of_tr warcraft_tr "_tr tüm_tr zamanların_tr en_tr başarılı_tr oyunlarından_tr biri_tr ._tr
+ortalama_tr bir_tr oyuncu_tr günde_tr _UNK__tr saatini_tr oyun_tr başında_tr geçiriyor_tr ._tr
+en_tr bağımlı_tr oyuncular_tr için_tr tam_tr zamanlı_tr bir_tr iş_tr gibi_tr ._tr
+bu_tr delilik_tr ._tr seviye_tr _UNK__tr sistemleri_tr var_tr ._tr
+ve_tr bu_tr çok_tr güçlü_tr birşey_tr ._tr i̇lerleme_tr güçtür_tr ._tr
+bu_tr iyi_tr amaçlar_tr için_tr de_tr zorlayıcı_tr yönlerde_tr kullanılabilir_tr ._tr
+_UNK__tr üzerinde_tr çalıştığımız_tr şeylerden_tr birisi_tr de_tr iş_tr trafiğini_tr yerel_tr iş_tr çevrelerine_tr yönlendirmek_tr için_tr oyunları_tr nasıl_tr kullanabileceğimiz_tr ki_tr bu_tr da_tr ekonominin_tr can_tr damarlarından_tr biridir_tr ._tr
+burada_tr insanların_tr oynadığı_tr bir_tr oyun_tr var_tr ._tr
+bir_tr yerlere_tr gidiyorlar_tr ,_tr meydan_tr okuyorlar_tr ,_tr puan_tr kazanıyorlar_tr ._tr
+ve_tr biz_tr buna_tr bir_tr ilerleme_tr çubuğu_tr ekledik_tr aynı_tr yere_tr tekrar_tr ve_tr tekrar_tr giderek_tr ,_tr meydan_tr okuyarak_tr ,_tr iş_tr bağlantıları_tr kurarak_tr ,_tr yeşil_tr çubuğu_tr sol_tr köşeden_tr sağ_tr köşeye_tr ilerletiyorsunuz_tr ve_tr sonunda_tr ödüller_tr kazanıyorsunuz_tr ._tr
+ve_tr bunun_tr insanları_tr bu_tr dinamiklere_tr çekecek_tr kadar_tr güçlü_tr olduğunu_tr görüyoruz_tr ,_tr insanları_tr aynı_tr yerel_tr iş_tr çevresine_tr itiyor_tr ,_tr büyük_tr sadakat_tr ve_tr bağlılık_tr oluşturuyor_tr ,_tr ve_tr anlamlı_tr bir_tr geliri_tr ,_tr eğlenceyi_tr ve_tr bağlılığı_tr iş_tr çevrelerine_tr taşıyabiliyor_tr ._tr
+bu_tr ilerleme_tr dinamikleri_tr güçlü_tr ve_tr gerçek_tr dünyada_tr kullanılabilirler_tr ._tr
+konuşacağımız_tr son_tr dinamik_tr --_tr ve_tr bitiş_tr için_tr iyi_tr bir_tr tane_tr --_tr toplumsal_tr bulgu_tr konsepti_tr ,_tr birşeye_tr ulaşabilmek_tr için_tr herkesin_tr birlikte_tr çalışması_tr gereken_tr bir_tr dinamik_tr ._tr
+ve_tr toplumsal_tr _UNK__tr güçlü_tr olmasının_tr sebebi_tr problemleri_tr çözmek_tr için_tr toplum_tr ağını_tr kullanması_tr ._tr
+bu_tr bazı_tr web_tr tabanlı_tr tüketici_tr makalelerinde_tr kullanılıyor_tr digg_tr gibi_tr ,_tr eminin_tr ki_tr hepiniz_tr hakkında_tr duymuşsunuzdur_tr ._tr
+digg_tr en_tr iyi_tr haberleri_tr ve_tr en_tr ilginç_tr makaleleri_tr bulmaya_tr çalışan_tr ve_tr barındıran_tr bir_tr toplumsal_tr dinamik_tr ._tr
+ve_tr ilk_tr olarak_tr bunu_tr bir_tr oyuna_tr çevirdiler_tr ._tr
+en_tr iyi_tr makaleleri_tr tavsiye_tr etmeniz_tr durumunda_tr puan_tr kazandığınız_tr bir_tr lider_tr listeleri_tr var_tr ._tr
+ve_tr bu_tr insanları_tr en_tr iyi_tr makaleleri_tr bulmak_tr için_tr gerçekten_tr motive_tr ediyor_tr ._tr
+ama_tr bu_tr öylesine_tr güçlü_tr hale_tr geldi_tr ki_tr ,_tr kendi_tr pozisyonlarını_tr _UNK__tr emin_tr olmak_tr için_tr beraber_tr çalışan_tr bir_tr grup_tr insan_tr vardı_tr ,_tr top_tr 10'un_tr ilk_tr 7'si_tr ._tr
+onlar_tr diğer_tr insanların_tr _UNK__tr tavsiye_tr edebilirlerdi_tr ._tr oyun_tr _UNK__tr daha_tr güçlü_tr hale_tr geldi_tr ._tr
+aslında_tr lider_tr listesini_tr kapatmak_tr zorunda_tr kaldılar_tr çünkü_tr liste_tr _UNK__tr öylesine_tr güçlüydü_tr ki_tr insanlar_tr yeni_tr makaleleri_tr aramayı_tr bırakıp_tr liderliklerini_tr korumak_tr için_tr beraber_tr çalışmaya_tr başlamışlardı_tr ._tr
+yani_tr bunu_tr dikkatli_tr kullanmamız_tr gerekiyor_tr ._tr
+mcdonald_tr _UNK__tr gibi_tr şeylerde_tr de_tr kullanılıyor_tr oynadığınız_tr oyun_tr _UNK__tr çok_tr iskeleyi_tr bulmaya_tr çalıştığınız_tr bir_tr kulübe_tr endüstrisi_tr olarak_tr şekillenmiş_tr durumda_tr ._tr
+ve_tr şimdi_tr sadece_tr "_tr i̇skele_tr "_tr yazan_tr küçük_tr bir_tr etiket_tr arıyorlar_tr ._tr
+ama_tr gerçek_tr şeyler_tr için_tr de_tr kullanılabilir_tr ._tr
+bu_tr darpa'nın_tr balon_tr yarışı_tr ,_tr birleşik_tr devletlerin_tr her_tr tarafına_tr balonlar_tr sakladılar_tr ve_tr "_tr ağları_tr kullanın_tr ,_tr balonları_tr en_tr hızlı_tr şekilde_tr bulun_tr
+$_tr 40,000_tr ödülü_tr alın_tr ._tr "_tr dediler_tr ._tr
+kazanan_tr mit'den_tr bir_tr grup_tr oldu_tr ,_tr grup_tr bir_tr piramit_tr şeması_tr ,_tr bir_tr ağ_tr oluşturdu_tr balonun_tr yerini_tr ilk_tr tavsiye_tr eden_tr $_tr 2.000_tr alıyordu_tr ve_tr tavsiyeyi_tr devam_tr ettiren_tr ,_tr ilerleten_tr kişi_tr de_tr pay_tr alıyordu_tr ._tr
+ve_tr 12_tr saat_tr içinde_tr ülkenin_tr her_tr tarafında_tr saklanan_tr bütün_tr balonları_tr _UNK__tr ._tr
+gerçekten_tr güçlü_tr bir_tr dinamik_tr ._tr
+böylece_tr 20_tr saniye_tr gibi_tr bir_tr sürem_tr kaldı_tr ve_tr eğer_tr son_tr birşeyle_tr bitirecek_tr olursak_tr son_tr 10_tr yıl_tr _UNK__tr dönemiydi_tr ._tr
+önümüzdeki_tr dönem_tr ise_tr oyunların_tr dönemi_tr ._tr
+bunu_tr oluşturmak_tr için_tr oyun_tr dinamiklerini_tr kullanıyoruz_tr ._tr bilgi_tr paylaşımı_tr ile_tr oluşturuyoruz_tr ._tr
+davranışları_tr etkileyebiliriz_tr ._tr
+bu_tr çok_tr güçlü_tr ve_tr heyecan_tr verici_tr ._tr
+bunları_tr beraber_tr oluşturalım_tr ,_tr hakkıyla_tr yapalım_tr ve_tr oynarken_tr eğlenelim_tr ._tr

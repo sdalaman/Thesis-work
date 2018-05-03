@@ -1,0 +1,206 @@
+alors	,	le	premier	robot	que	je	vous	présente	se	nomme	strider	.
+cela	signifie	robot	expérimental	...
+...	_UNK_	dynamique	auto	-	stimulé	il	a	trois	pattes	,	concept	inspiré	de	la	nature	.
+mais	avez	-	vous	déjà	rencontré	quelque	chose	dans	la	nature	...
+qui	ait	trois	pattes	?
+probablement	que	non	.	donc	pourquoi	est	-	ce	que	je	dis	que	c'est	un	robot	inspiré	de	la	nature	?	comment	fonctionnerait	-	il	?
+mais	avant	tout	cela	,	jettons	un	oeil	à	la	culture	-	pop	.
+vous	connaissez	h.g	.	wells	et	son	roman	``	la	guerre	des	mondes	``	.
+ce	que	vous	voyez	ici	est	un	jeu	vidéo	très	populaire	.
+dans	le	roman	,	on	y	décrit	les	créatures	extra	-	terrestres	_UNK_	la	planète	comme	des	robots	dotés	de	trois	pattes	.
+mais	mon	robot	,	strider	,	ne	se	déplace	pas	de	cette	façon	.
+voici	une	animation	de	la	simulation	dynamique	réelle	.
+je	vais	vous	montrer	comment	ce	robot	fonctionne	.
+il	fait	pivoter	son	corps	de	180	degrés	.
+il	balance	la	jambe	centrale	entre	les	deux	autres	pour	rattraper	la	chute	.
+c'est	donc	de	cette	façon	qu'il	marche	.	mais	quand	vous	nous	regardez	marcher	,	nous	les	êtres	humains	,	avec	deux	jambes	,	nous	n'utilisons	pas	vraiment	de	muscle	pour	lever	une	jambe	et	marcher	comme	un	robot	.	pas	vrai	?
+ce	que	nous	faisons	vraiment	c'est	lancer	une	jambe	devant	et	arrêter	la	chute	,	se	relever	,	lancer	l'autre	_UNK_	et	rattraper	la	chute	encore	une	fois	.
+le	tout	,	en	utilisant	notre	dynamique	interne	,	la	physique	de	notre	corps	,	à	la	manière	d'un	pendule	.
+nous	appelons	cela	le	concept	de	_UNK_	dynamique	passive	.
+ce	que	vous	faites	lorsque	vous	vous	levez	,	c'est	de	transformer	de	l'énergie	potentielle	en	énergie	cinétique	...
+potentielle	à	cinétique	...
+c'est	un	processus	continu	de	chutes	.
+donc	même	s'il	n'y	a	rien	dans	la	nature	qui	ressemble	à	cela	,	nous	avons	vraiment	été	inspirés	par	la	biologie	et	nous	avons	appliqué	les	principes	de	la	marche	à	ce	robot	,	d'où	l'inspiration	biologique	.
+ce	que	vous	voyez	ici	est	ce	que	nous	souhaitons	faire	par	la	suite	.
+nous	aimerions	plier	les	jambes	et	propulser	le	tout	en	l'air	pour	des	déplacements	à	longue	portée	.
+and	il	pourra	déployer	ses	jambes	,	comme	dans	la	guerre	des	étoiles	.
+à	l'atterrissage	,	le	choc	est	absorbé	et	il	recommence	à	marcher	.
+ce	que	vous	voyez	ici	,	la	chose	jaune	,	n'est	pas	un	rayon	de	mort	.
+c'est	simplement	pour	vous	montrer	que	si	vous	avez	des	caméras	ou	d'autres	sortes	de	senseurs	,	grâce	à	sa	taille	,	1,80	mètre	,	vous	pouvez	voir	au	dessus	d'obstacles	comme	des	buissons	et	d'autres	choses	du	genre	.
+nous	avons	donc	deux	prototypes	.
+la	première	version	,	en	arrière	,	c'est	strider	i	.
+en	avant	,	la	plus	petite	,	c'est	strider	ii	.
+le	problème	que	nous	avons	rencontré	avec	strider	i	est	que	son	corps	était	trop	lourd	.	nous	avions	tant	de	moteurs	,	vous	savez	,	pour	aligner	les	joints	et	ce	genre	de	choses	.
+alors	nous	avons	décidé	de	créer	un	mécanisme	mécanique	pour	éliminer	tous	les	moteurs	et	donc	à	l'aide	d'un	seul	pouvoir	coordonner	tous	les	mouvements	.
+c'est	une	solution	mécanique	à	un	problème	,	à	la	place	d'utiliser	la	mécatronique	.
+avec	ce	changement	,	le	corps	du	haut	est	suffisamment	léger	pour	marcher	dans	un	laboratoire	.
+ce	fut	la	première	étape	véritablement	réussie	.
+ce	n'est	pas	encore	parfait	.
+nous	avons	encore	bien	du	pain	sur	la	planche	.
+le	deuxième	robot	dont	je	veux	vous	parler	s'appelle	impass	.
+ça	signifie	_UNK_	de	mobilité	intelligente	avec	un	système	de	tiges	réactives	.
+c'est	donc	un	robot	hybride	patte	-	roue	.
+pensez	à	une	roue	sans	contour	,	seulement	avec	les	rayons	.
+par	contre	,	les	rayons	bougent	individuellement	par	rapport	au	moyeu	central	.
+c'est	donc	un	hybride	roue	-	jambe	.
+dans	les	faits	,	nous	_UNK_	la	roue	ici	!
+laissez	-	moi	vous	montrer	comment	il	fonctionne	.
+dans	ce	vidéo	nous	utilisons	une	approche	appelée	approche	réactive	.
+en	utilisant	uniquement	les	capteurs	tactiles	sur	les	pieds	,	il	tente	de	se	déplacer	sur	un	terrain	changeant	,	un	terrain	flexible	qui	est	modifié	lorsqu'il	s'appuie	dessus	.
+et	simplement	par	l'information	tactile	,	il	parvient	à	traverser	ce	genre	de	terrain	avec	succès	.
+par	contre	,	lorsqu'il	rencontre	un	obstacle	majeur	,	dans	ce	cas	-	ci	c'est	trois	fois	sa	propre	hauteur	qu'il	rencontre	,	alors	il	se	met	en	mode	délibéré	où	il	utilise	une	sonde	de	distance	au	laser	et	des	caméras	pour	identifier	l'obstacle	et	sa	taille	,	afin	de	planifier	précisément	le	déplacement	de	ses	tiges	et	coordonner	le	tout	pour	parvenir	à	ce	genre	de	mobilité	impressionnante	.
+vous	n'avez	probablement	rien	vu	de	ce	genre	dans	le	monde	réel	.
+il	s'agit	d'un	robot	à	mobilité	très	élevée	que	nous	avons	conçu	et	qui	se	nomme	impass	.
+n'est	-	ce	pas	génial	?
+lorsque	vous	conduisez	votre	véhicule	,	lorsque	vous	effectuez	un	virage	,	vous	utilisez	une	méthode	appelée	virage	_UNK_	.
+les	roues	avant	se	déplacent	ainsi	.
+pour	la	plupart	des	petits	robots	dotés	de	roues	,	la	méthode	utilisée	est	plutôt	celle	de	virage	différentiel	où	les	roues	droite	et	gauche	tournent	dans	des	directions	opposées	.
+pour	impass	,	nous	pouvons	effectuer	plusieurs	types	de	déplacement	.
+dans	cet	exemple	,	même	si	les	roues	droite	et	gauche	sont	connectées	par	un	moyeu	unique	,	tournant	à	la	même	vitesse	angulaire	,	en	modifiant	seulement	la	longueur	des	tiges	,	on	en	modifie	le	diamètre	et	donc	il	tourne	à	gauche	,	tourne	à	droite	...
+voilà	donc	quelques	exemples	des	jolies	choses	que	nous	pouvons	effectuer	avec	impass	.
+ce	robot	est	nommé	climber	,	pour	robot	_UNK_	suspendu	à	comportement	mimétique	intelligent	nous	avons	parlé	à	plusieurs	scientifiques	du	jpl	de	la	nasa	;	où	ils	sont	très	connus	pour	avoir	conçu	les	véhicules	d'exploration	de	mars	.
+et	ces	scientifiques	,	géologues	,	me	disent	toujours	que	le	vrai	côté	intéressant	de	la	science	,	les	sites	riches	en	informations	géologiques	sont	toujours	les	falaises	.
+mais	les	véhicules	d'exploration	actuels	ne	peuvent	s'y	rendre	.
+donc	,	en	nous	basant	là	dessus	,	nous	avons	souhaité	concevoir	un	robot	capable	de	grimper	un	environnement	structuré	en	falaise	.
+voici	donc	climber	.
+alors	ce	qu'il	fait	:	il	a	trois	jambes	.	c'est	probablement	difficile	à	voir	,	mais	il	a	aussi	un	treuil	et	un	câble	sur	le	dessus	.
+il	tente	alors	de	trouver	le	meilleur	appui	où	placer	son	pied	et	lorsqu'il	a	trouvé	,	il	calcule	en	temps	réel	la	distribution	des	forces	.
+quelle	force	il	doit	exercer	sur	la	surface	pour	ne	pas	glisser	ni	perdre	l'équilibre	.
+une	fois	stabilisé	,	il	lève	un	autre	pied	et	alors	,	grâce	au	treuil	,	il	peut	grimper	ce	genre	de	paroi	.
+aussi	utile	pour	des	missions	de	recherche	et	sauvetage	.
+il	y	a	cinq	ans	j'ai	en	fait	travaillé	au	jpl	de	la	nasa	durant	l'été	comme	membre	de	la	faculté	.
+et	ils	avaient	déjà	un	robot	à	6	pattes	nommé	_UNK_	.
+donc	ceci	s'en	inspire	.	il	s'appelle	mars	,	pour	système	robotique	multi	-	pattes	.	il	s'agit	donc	d'un	hexapode	.
+nous	avons	conçu	une	planification	de	démarche	adaptative	.
+vous	voyez	ici	une	charge	utile	fort	intéressante	.
+les	étudiants	aiment	bien	avoir	s'amuser	.	et	vous	voyez	ici	qu'il	marche	sur	un	terrain	non	-	structuré	.
+il	tente	de	marcher	sur	un	terrain	grossier	,	une	surface	_UNK_	,	mais	selon	l'humidité	du	terrain	et	la	taille	des	grains	de	sable	,	le	modèle	_UNK_	du	pied	varie	.
+donc	il	tente	d'adapter	sa	démarche	pour	traverser	efficacement	ce	genre	de	choses	.
+il	peut	aussi	faire	des	trucs	rigolos	,	comme	vous	pouvez	l'imaginer	.
+nous	recevons	tant	de	visiteurs	au	labo	,	que	lorsqu'ils	arrivent	,	mars	se	déplace	jusqu'à	l'ordinateur	,	et	commence	à	écrire	``	bonjour	,	mon	nom	est	mars	.
+bienvenue	à	romela	,	le	laboratoire	des	mécanismes	_UNK_	à	virginia	tech	.	``
+ceci	est	un	robot	-	amibe	.
+nous	n'avons	pas	assez	de	temps	pour	entrer	dans	les	détails	techniques	,	je	vais	simplement	vous	montrer	quelques	expériences	.
+donc	voici	quelques	uns	des	tests	de	faisabilité	.
+nous	_UNK_	de	l'énergie	potentielle	dans	la	peau	élastique	pour	le	faire	bouger	.
+ou	bien	on	utilise	un	cordon	à	tension	active	pour	le	faire	se	déplacer	d'avant	en	arrière	.	son	nom	est	_UNK_	.
+nous	avons	également	travaillé	avec	quelques	chercheurs	et	ingénieurs	de	_UNK_	pour	aboutir	avec	une	version	réagissant	chimiquement	de	ce	robot	-	amibe	.
+nous	faisons	quelque	chose	à	quelque	chose	et	,	comme	par	magie	,	il	bouge	!	le	_UNK_	!
+ce	robot	est	un	très	récent	projet	.	il	se	nomme	raphael	.
+main	robotique	à	ligaments	élastiques	alimenté	à	l'air	.
+il	existe	plusieurs	mains	robotisées	très	intéressantes	sur	le	marché	.
+le	problème	c'est	qu'elles	sont	trop	chères	,	dans	les	dizaines	de	milliers	de	dollars	.
+donc	,	pour	des	prothèses	,	ce	n'est	probablement	pas	vraiment	pratique	,	car	ce	n'est	pas	abordable	.
+nous	voulions	attaquer	ce	problème	d'un	angle	différent	.
+à	la	place	d'utiliser	des	moteurs	électriques	,	déclencheurs	électromécaniques	nous	utilisons	de	l'air	comprimé	.
+nous	avons	développé	ces	nouveaux	déclencheurs	pour	les	_UNK_	.
+c'est	flexible	,	vous	pouvez	changer	la	force	et	modifiant	simplement	la	pression	d'air	.
+donc	vous	pouvez	écraser	une	canette	d'aluminium	vide	.
+vous	pouvez	également	saisir	des	objets	délicats	tel	un	oeuf	cru	,	ou	dans	ce	cas	une	ampoule	électrique	.
+le	plus	beau	:	le	prototype	a	coûté	seulement	200	dollars	à	fabriquer	.
+ce	robot	fait	partie	d'une	famille	de	robots	serpent	que	l'on	appelle	hydras	,	pour	_UNK_	robotique	articulé	à	hyper	_UNK_	de	liberté	c'est	un	robot	qui	peut	grimper	des	structures	.
+c'est	un	des	bras	de	hydras	.
+ce	bras	robotique	a	12	degrés	de	liberté	.
+mais	la	partie	super	c'est	l'interface	utilisateur	.
+le	câble	que	vous	voyez	est	une	fibre	optique	.
+et	cette	étudiante	,	probablement	à	sa	première	tentative	,	peut	_UNK_	de	plusieurs	manières	.
+alors	par	exemple	en	iraq	,	vous	savez	,	en	zone	de	guerre	,	il	y	a	des	bombes	de	bord	de	route	.	présentement	on	envoie	un	robot	télécommandé	armé	.
+cela	requiert	énormément	de	temps	et	d'argent	pour	entraîner	un	opérateur	pour	ce	bras	complexe	.
+dans	ce	cas	,	c'est	très	intuitif	.
+cet	étudiant	,	aussi	à	ces	premiers	essais	,	peut	effectuer	des	manipulations	complexes	,	saisir	des	objets	et	manoeuvrer	juste	comme	ça	,	de	façon	naturelle	.
+voici	maintenant	notre	robot	star	.
+il	existe	même	un	fan	club	pour	ce	robot	:	darwin	,	robot	anthropomorphique	dynamique	avec	intelligence	.
+comme	vous	le	savez	,	nous	sommes	très	intéressés	à	créer	un	robot	humanoïde	,	capable	de	marcher	comme	nous	,	donc	nous	avons	décidé	de	construire	un	petit	robot	humanoïde	.
+ceci	était	en	2004	,	à	cette	époque	c'était	quelque	chose	de	vraiment	révolutionnaire	.
+il	s'agissait	davantage	d'une	étude	de	faisabilité	:	quels	genres	de	moteurs	devrions	-	nous	utiliser	?
+est	-	ce	seulement	possible	?	quel	type	de	contrôles	intégrer	?
+donc	,	celui	-	ci	n'a	pas	beaucoup	de	capteurs	.
+c'est	un	contrôle	en	boucle	ouverte	.
+pour	ceux	d'entre	vous	qui	le	savez	,	si	vous	n'avez	pas	de	capteurs	,	et	qu'il	y	a	une	quelconque	perturbation	,	vous	savez	ce	qu'il	arrive	...
+donc	d'après	cette	réussite	,	l'année	suivante	nous	avons	conçu	le	bon	design	mécanique	à	partir	de	la	_UNK_	.
+et	donc	,	darwin	i	est	né	en	2005	.
+il	peut	se	lever	.	il	marche	,	très	impressionnant	.
+par	contre	,	comme	vous	le	voyez	,	il	a	un	câble	,	un	cordon	ombilical	.	donc	on	utilise	toujours	une	source	de	puissance	externe	,	et	de	la	communication	de	l'extérieur	.
+donc	,	en	2006	,	nous	avons	commencé	à	nous	amuser	.
+donnons	-	lui	l'intelligence	.	nous	l'avons	doté	de	toute	la	puissance	informatique	nécessaire	,	un	processeur	pentium	m	de	1,5	_UNK_	,	deux	caméras	firewire	,	8	gyroscopes	,	des	accéléromètres	4	capteurs	de	moments	,	des	batteries	au	lithium	.
+et	depuis	,	darwin	ii	est	complètement	autonome	.
+il	n'est	plus	télécommandé	.
+il	n'y	a	plus	de	câble	.	il	regarde	autour	,	cherche	le	ballon	,	regarde	encore	,	cherche	le	ballon	et	tente	de	jouer	au	foot	de	façon	autonome	,	avec	l'intelligence	artificielle	.
+voyons	comment	il	se	débrouille	.	ceci	est	notre	tout	premier	essai	,	et	...	vidéo	:	_UNK_	!
+sachez	qu'il	existe	une	compétition	nommée	robocup	.
+je	ne	sais	pas	si	plusieurs	d'entre	vous	la	connaissez	.
+c'est	une	compétition	internationale	de	robots	autonomes	jouant	au	football	.
+l'objectif	de	la	robocup	,	le	véritable	objectif	,	consiste	à	,	d'ici	l'an	2050	,	avoir	des	robots	humanoïdes	pleine	grandeur	,	complètement	autonomes	,	qui	disputeront	un	match	contre	les	gagnants	humains	de	la	coupe	du	monde	...
+et	gagneront	!
+c'est	véritablement	le	but	.	c'en	est	un	très	ambitieux	mais	nous	croyons	vraiment	pouvoir	y	arriver	.
+donc	nous	voici	l'année	dernière	en	chine	.
+nous	avons	été	la	toute	première	équipe	américaine	à	se	qualifier	dans	la	compétition	de	robot	humanoïde	.
+ici	c'est	cette	année	,	en	autriche	.
+vous	allez	voir	l'action	,	3	contre	3	,	de	façon	complètement	autonome	.
+voilà	.	oui	!
+les	robots	suivent	le	ballon	et	jouent	en	équipe	entre	eux	.
+c'est	très	impressionnant	.	c'est	vraiment	un	événement	de	recherche	enrobé	par	une	compétition	plus	excitante	.
+ce	que	vous	voyez	ici	,	c'est	la	magnifique	coupe	louis	_UNK_	.
+elle	est	_UNK_	au	meilleur	humanoïde	,	et	nous	aimerions	bien	la	rapporter	pour	la	toute	première	fois	aux	états	-	unis	l'année	prochaine	,	donc	souhaitez	-	nous	bonne	chance	!
+darwin	a	aussi	beacoup	d'autres	talents	.
+l'an	passé	il	a	dirigé	l'orchestre	symphonique	de	_UNK_	pour	le	concert	des	fêtes	.
+voici	la	prochaine	génération	,	le	darwin	iv	,	plus	intelligent	,	rapide	et	fort	.
+et	il	tente	de	vous	montrer	son	_UNK_	.
+``	je	suis	macho	,	je	suis	fort	.
+je	peux	aussi	faire	des	mouvements	d'arts	martiaux	à	la	jackie	chan	``	et	il	quitte	.	donc	c'était	darwin	iv	,	encore	une	fois	,	vous	pourrez	le	voir	dans	le	lobby	.
+nous	croyons	vraiment	qu'il	s'agira	du	premier	robot	humanoïde	capable	de	courir	des	états	-	unis	.	donc	,	à	suivre	!
+très	bien	,	donc	je	vous	ai	montré	quelques	uns	de	nos	plus	excitants	robots	au	travail	.
+mais	quel	est	le	secret	de	notre	succès	?
+d'où	viennent	ces	idées	?
+comment	arrivons	-	nous	à	développer	ce	genre	d'idées	?
+nous	avons	un	véhicule	complètement	autonome	qui	peut	se	déplacer	dans	un	environnement	urbain	.	nous	avons	gagné	un	demi	-	million	de	dollars	à	la	compétition	darpa	urban	challenge	.
+nous	avons	également	le	tout	premier	véhicule	de	la	planète	qui	puisse	être	conduit	par	un	aveugle	.
+nous	l'appelons	le	défi	du	conducteur	aveugle	,	c'est	très	excitant	et	plusieurs	autres	projets	de	robotique	dont	j'aimerais	vous	entretenir	.
+voici	les	prix	que	nous	avons	gagné	à	l'automne	2007	seulement	,	lors	de	compétitions	de	robotique	et	ce	genre	de	choses	.
+dans	les	faits	,	nous	avons	5	secrets	.
+premièrement	,	comment	trouver	cette	inspiration	,	où	aller	pour	avoir	cet	éclair	de	génie	?
+voici	une	histoire	vraie	,	mon	histoire	.
+le	soir	lorsque	je	me	couche	,	vers	3	ou	4	heures	du	matin	,	je	m'étends	,	je	ferme	mes	yeux	et	je	vois	ces	lignes	et	cercles	et	ces	différentes	formes	qui	flottent	autour	de	moi	,	elles	s'assemblent	et	composent	ce	genre	de	mécanismes	.
+et	alors	je	pense	:	``	ah	!	ceci	,	c'est	super	!	``
+donc	,	juste	à	côté	de	mon	lit	,	je	garde	un	cahier	de	notes	,	un	journal	,	avec	un	stylo	spécial	doté	d'une	lumière	,	une	del	,	pour	éviter	d'allumer	la	lumière	et	réveiller	ma	femme	.
+donc	je	vois	cela	,	gribouille	le	tout	par	écrit	,	ajoute	quelques	schémas	,	et	je	retourne	au	lit	.
+chaque	matin	,	la	toute	première	chose	que	je	fais	avant	la	première	tasse	de	café	,	avant	de	me	brosser	les	dents	,	c'est	d'ouvrir	ce	calepin	.
+souvent	il	est	vide	,	parfois	il	s'y	trouve	quelque	chose	d'inutile	,	mais	la	plupart	du	temps	je	ne	peux	simplement	pas	me	relire	.
+et	donc	...	4	heures	du	matin	,	à	quoi	vous	attendez	-	vous	?
+donc	je	dois	déchiffrer	ce	que	j'ai	écrit	.
+mais	quelques	fois	je	vois	cette	brillante	idée	là	dedans	,	et	j'ai	cette	épiphanie	.
+je	cours	à	mon	ordinateur	,	dans	mon	bureau	à	la	maison	,	je	tape	ces	idées	avec	les	schémas	,	et	je	maintiens	un	base	de	données	d'idées	.
+alors	quand	nous	recevons	un	appel	pour	une	soumission	,	je	tente	de	trouver	une	solution	possible	entre	mes	idées	possibles	et	le	problème	.	s'il	y	a	correspondance	nous	préparons	une	soumission	,	obtenons	les	fonds	de	recherche	et	c'est	comme	ça	que	nos	programmes	de	recherche	naissent	.
+mais	une	simple	étincelle	d'imagination	n'est	pas	suffisante	.
+comment	arrivons	-	nous	à	développer	ce	genre	d'idées	?
+à	notre	labo	,	romela	,	nous	tenons	de	fantastiques	séances	de	tempêtes	d'idées	.
+donc	nous	nous	rassemblons	et	discutons	de	problèmes	,	même	des	problèmes	sociaux	et	nous	en	parlons	.
+mais	avant	de	commencer	,	nous	instaurons	cette	règle	sacrée	:	la	voici	:	personne	ne	critique	les	idées	de	l'autre	.
+personne	ne	s'oppose	à	une	opinion	.
+c'est	important	car	souvent	les	étudiants	craignent	ou	se	sentent	mal	à	l'aide	face	aux	avis	des	autres	quant	à	leurs	idées	et	pensées	.
+par	contre	,	une	fois	cette	règle	établie	,	c'est	_UNK_	de	voir	à	quel	point	les	étudiants	se	laissent	aller	.
+ils	ont	ces	folles	et	brillantes	idées	,	toute	la	salle	est	_UNK_	d'énergie	créative	.
+et	c'est	de	cette	façon	que	l'on	obtient	nos	idées	.
+bien	,	nous	arrivons	à	la	fin	mais	il	y	a	une	chose	encore	dont	je	veux	vous	parler	.
+donc	,	simplement	une	étincelle	d'idée	et	du	développement	ne	sont	pas	suffisants	.
+il	y	a	eu	un	grand	moment	à	ted	,	je	crois	que	c'était	sir	ken	robinson	,	n'est	-	ce	pas	?
+il	a	donné	une	conférence	à	propos	de	l'éducation	et	disait	que	l'école	tue	la	créativité	.
+alors	,	dans	les	faits	il	y	a	deux	côtés	à	cette	histoire	.
+on	ne	peut	réaliser	ces	merveilleuses	idées	avec	la	créativité	et	l'intuition	d'ingénierie	seulement	.
+si	vous	souhaitez	aller	plus	loin	que	la	surface	,	si	vous	voulez	dépassez	le	stade	du	hobby	en	robotique	et	aborder	les	grands	challenges	de	la	robotique	à	travers	de	la	recherche	rigoureuse	,	nous	avons	besoin	de	plus	que	cela	.	c'est	là	que	l'école	entre	en	compte	.
+batman	,	qui	se	bat	contre	les	forces	du	mal	,	il	a	sa	ceinture	d'outils	,	il	a	son	grappin	,	et	toutes	sortes	de	gadgets	.
+pour	nous	,	_UNK_	,	ingénieurs	et	chercheurs	,	ces	outils	ce	sont	les	leçons	que	nous	apprenons	en	classe	.
+en	mathématiques	,	les	équations	_UNK_	,	j'ai	l'algèbre	linéaire	,	la	science	,	la	physique	,	et	même	de	nos	jours	,	la	chimie	et	la	biologie	,	comme	vous	l'avez	constaté	.
+ce	sont	tous	des	outils	dont	nous	avons	besoin	.
+donc	,	le	plus	d'outils	nous	avons	,	pour	batman	le	plus	efficace	il	est	à	combattre	les	méchants	,	pour	nous	,	le	mieux	équipés	nous	sommes	à	attaquer	ces	gros	problèmes	.
+alors	l'éducation	est	très	importante	.
+et	il	ne	s'agit	pas	seulement	de	cela	seulement	,	vous	devez	travailler	extrêmement	dur	.
+alors	je	dis	toujours	à	mes	étudiants	:	``	travaillez	intelligemment	,	ensuite	travaillez	dur	``	.
+cette	photo	a	été	prise	à	3:00	du	matin	.
+je	vous	garantis	que	si	vous	venez	au	labo	à	3:00	,	_UNK_	des	étudiants	travaillent	là	,	pas	parce	que	je	le	leur	demande	,	mais	parce	qu'ils	s'amusent	trop	!
+ce	qui	m'amène	au	dernier	point	:	n'oubliez	pas	de	vous	amuser	.
+c'est	réellement	là	le	secret	de	notre	réussite	.	nous	avons	beaucoup	trop	de	plaisir	.
+je	crois	réellement	que	la	plus	grande	productivité	est	atteinte	lorsqu'on	s'amuse	.
+et	c'est	précisément	ce	que	l'on	fait	.
+et	voilà	.	merci	infiniment	.
+

@@ -1,0 +1,184 @@
+je	 voudrai 	 s 	 	 parle 	 r 	 	aujourd'hui	 d' 	 une 	 	idée	.	c'est	une	 grand 	 e 	 	idée	.
+en	fait	,	je	pense	 qu' 	 on 	 	 fini 	 ra 	 	par	la	 considé 	 rer 	 	comme	sans	doute	la	plus	 grand 	 e 	 	idée	qui	ait	émergé	au	cours	du	siècle	passé	.
+c'est	 l' 	 idée 	 	de	calcul	.
+bien	sûr	,	 ce 	 tte 	 	idée	nous	a	apporté	 tout 	 e 	 	la	technologie	 computationnel 	 le 	 	que	nous	avons	aujourd'hui	 mai 	 s 	 	il	y	a	en	fait	beaucoup	plus	que	ça	dans	le	calcul	.
+c'est	 vrai 	 ment 	 	une	idée	 vrai 	 ment 	 	très	 profond 	 e 	 	,	très	 puissant 	 e 	 	,	très	 fondamental 	 e 	 	,	 do 	 nt 	 	nous	avons	à	peine	 commenc 	 é 	 	à	voir	les	 effet 	 s 	 	.
+ e 	 h 	 	bien	,	j'ai	passé	les	30	 der 	 nières 	 	 année 	 s 	 	de	ma	vie	à	 travaille 	 r 	 	sur	trois	 grand 	 s 	 	 projet 	 s 	 	qui	 essaye 	 nt 	 	 vrai 	 ment 	 	de	prendre	 l' 	 idée 	 	de	calcul	au	 séri 	 eux 	 	.
+j'ai	donc	 commenc 	 é 	 	 je 	 une 	 	en	tant	que	physicien	à	utiliser	des	 ordinateur 	 s 	 	comme	des	 outil 	 s 	 	.
+puis	,	j'ai	 commenc 	 é 	 	à	 creuse 	 r 	 	,	à	 ré 	 fléchir 	 	sur	les	 calcul 	 s 	 	que	je	 pour 	 rais 	 	 voul 	 oir 	 	faire	,	à	essayer	de	 comprend 	 re 	 	à	 parti 	 r 	 	de	 quelle 	 s 	 	 primitive 	 s 	 	on	 pouv 	 ait 	 	les	 construi 	 re 	 	 e 	 t 	 	comment	ils	 pour 	 raient 	 	être	aussi	 automat 	 isés 	 	que	possible	.
+ final 	 ement 	 	,	j'ai	créé	 tout 	 e 	 	une	structure	 bas 	 ée 	 	sur	la	 programma 	 tion 	 	symbolique	qui	m'a	 per 	 mis 	 	de	 construi 	 re 	 	mathematica	.
+ e 	 t 	 	pendant	 ce 	 s 	 	23	 der 	 nières 	 	 année 	 s 	 	,	à	un	 rythm 	 e 	 	croissant	,	nous	avons	été	 verse 	 r 	 	de	plus	en	plus	 d' 	 idée 	 s 	 	 e 	 t 	 	de	 capacité 	 s 	 	dans	mathematica	,	je	suis	heureux	de	dire	que	cela	a	conduit	à	beaucoup	de	 bonne 	 s 	 	 chose 	 s 	 	en	recherche	 e 	 t 	 	 développe 	 ment 	 	 e 	 t 	 	en	éducation	,	dans	beaucoup	 d' 	 autre 	 s 	 	 domaine 	 s 	 	.
+ e 	 h 	 	bien	,	je	dois	admettre	que	,	en	fait	,	que	 j' 	 avais 	 	aussi	une	raison	très	égoïste	pour	 construi 	 re 	 	mathematica	.
+je	 voul 	 ais 	 	 l' 	 utiliser 	 	moi	-	même	,	un	peu	comme	galilée	avait	utilisé	son	 télescop 	 e 	 	il	y	a	400	 an 	 s 	 	.
+ mai 	 s 	 	je	 voul 	 ais 	 	 regarde 	 r 	 	,	non	pas	 l' 	 univers 	 	astronomique	,	 mai 	 s 	 	 l' 	 univers 	 	computationnel	.
+nous	 considé 	 rons 	 	 habituel 	 lement 	 	les	 programme 	 s 	 	comme	des	 chose 	 s 	 	 compliqué 	 es 	 	que	nous	 construis 	 ons 	 	à	des	 fin 	 s 	 	très	 spécifique 	 s 	 	.
+ mai 	 s 	 	 qu' 	 en 	 	est	-	il	de	 l' 	 espace 	 	de	tous	les	 programme 	 s 	 	 possible 	 s 	 	?
+voici	une	 représent 	 ation 	 	 d' 	 un 	 	programme	très	simple	.
+si	nous	 exécut 	 ons 	 	ce	programme	,	voici	ce	que	nous	 obten 	 ons 	 	.
+très	simple	.
+essayons	donc	de	 modifi 	 er 	 	un	peu	la	règle	pour	ce	programme	.
+nous	 obten 	 ons 	 	 main 	 tenant 	 	un	autre	résultat	,	 tou 	 jour 	 s 	 	très	simple	.
+essayez	de	le	 change 	 r 	 	à	nouveau	.
+vous	 obten 	 ez 	 	quelque	chose	 d' 	 un 	 	peu	plus	compliqué	,	 mai 	 s 	 	si	nous	 continu 	 ons 	 	à	le	faire	 tourne 	 r 	 	pendant	un	certain	temps	,	nous	 constat 	 ons 	 	que	,	bien	que	le	schéma	que	nous	 obten 	 ons 	 	soit	très	 complex 	 e 	 	,	il	a	une	structure	très	 régul 	 ière 	 	.
+la	question	est	donc	:	est	-	ce	que	 qu' 	 autre 	 	chose	peut	 s 	 e 	 	 pro 	 duire 	 	?
+ e 	 h 	 	bien	,	nous	 pouv 	 ons 	 	faire	une	petite	expérience	.
+faisons	 simple 	 ment 	 	une	petite	expérience	 ma 	 thématique 	 	,	 e 	 t 	 	essayons	de	 s 	 avoir 	 	.
+ exécut 	 ons 	 	tous	les	 programme 	 s 	 	 possible 	 s 	 	du	type	particulier	que	nous	 étudi 	 ons 	 	.
+on	les	appelle	des	 automat 	 es 	 	 cellulaire 	 s 	 	.
+vous	 pouv 	 ez 	 	voir	une	 grand 	 e 	 	 divers 	 ité 	 	dans	le	 comporte 	 ment 	 	ici	.
+la	 plu 	 part 	 	 d' 	 entre 	 	eux	font	des	 chose 	 s 	 	très	 simple 	 s 	 	.
+ mai 	 s 	 	si	vous	regardez	 tout 	 es 	 	 ce 	 s 	 	 image 	 s 	 	 différent 	 es 	 	,	à	la	règle	numéro	30	,	vous	 commence 	 z 	 	à	voir	que	quelque	chose	 d' 	 intéressant 	 	 s 	 e 	 	passe	.
+ regard 	 ons 	 	de	plus	près	la	règle	numéro	30	ici	.
+nous	ne	faisons	que	 suiv 	 re 	 	 ce 	 tte 	 	règle	très	simple	ici	,	en	bas	,	 mai 	 s 	 	nous	 obten 	 ons 	 	 tout 	 es 	 	des	 chose 	 s 	 	 incroyable 	 s 	 	.
+ce	n'est	pas	du	tout	ce	à	quoi	nous	 somme 	 s 	 	 habitué 	 s 	 	,	 e 	 t 	 	je	dois	dire	que	,	quand	j'ai	vu	cela	pour	la	première	fois	,	ce	fut	un	grand	choc	pour	mon	intuition	,	 e 	 t 	 	,	en	fait	,	pour	le	 comprend 	 re 	 	,	j'ai	 final 	 ement 	 	dû	créer	un	nouveau	type	de	science	.
+ ce 	 tte 	 	science	est	 différent 	 e 	 	,	plus	 général 	 e 	 	,	que	la	science	 bas 	 ée 	 	sur	les	 ma 	 thématique 	 s 	 	de	 ce 	 s 	 	300	 der 	 nières 	 	 année 	 s 	 	.
+il	a	 tou 	 jour 	 s 	 	semblé	très	 mystéri 	 eux 	 	comment	la	nature	,	 appar 	 emment 	 	sans	effort	 par 	 vient 	 	à	 pro 	 duire 	 	tant	de	 chose 	 s 	 	qui	nous	 semble 	 nt 	 	si	 complex 	 es 	 	.
+ e 	 h 	 	bien	,	je	pense	que	nous	avons	trouvé	son	secret	.
+c'est	juste	 qu' 	 en 	 	_UNK_	ce	qui	existe	dans	 l' 	 univers 	 	computationnel	,	on	obtient	 plu 	 tôt 	 	 fréquem 	 ment 	 	des	 chose 	 s 	 	 sembla 	 ble 	 s 	 	à	la	règle	30	ou	à	cela	.
+ s 	 a 	 chant 	 	cela	,	on	commence	à	expliquer	beaucoup	de	 my 	 stère 	 s 	 	de	longue	date	dans	la	science	.
+ ce 	 pendant 	 	,	cela	soulève	aussi	de	 nouveau 	 x 	 	 problème 	 s 	 	,	comme	_UNK_	 computationnel 	 le 	 	.
+nous	 somme 	 s 	 	 habitué 	 s 	 	à	ce	que	la	science	nous	permette	de	 pré 	 dire 	 	des	 chose 	 s 	 	,	 mai 	 s 	 	quelque	chose	comme	 ce 	 ci 	 	est	 fondamental 	 ement 	 	 ir 	 réductible 	 	.
+la	 seul 	 e 	 	façon	 d' 	 en 	 	trouver	le	résultat	est	,	en	fait	,	de	 simple 	 ment 	 	le	 regarde 	 r 	 	 évolue 	 r 	 	.
+il	est	connecté	à	ce	que	 j' 	 appelle 	 	le	principe	de	_UNK_	de	calcul	,	qui	nous	dit	que	même	les	 système 	 s 	 	 incroyable 	 ment 	 	 simple 	 s 	 	peuvent	faire	des	 calcul 	 s 	 	aussi	 complex 	 es 	 	.
+pas	besoin	de	beaucoup	 d' 	 évolution 	 	technologique	ou	 bio 	 logique 	 	pour	être	capable	de	faire	un	calcul	arbitraire	,	juste	quelque	chose	qui	 s 	 e 	 	passe	,	 naturel 	 lement 	 	,	des	 chose 	 s 	 	avec	des	 règle 	 s 	 	aussi	 simple 	 s 	 	que	 celle 	 s 	 	-	ci	peuvent	le	faire	.
+ e 	 h 	 	bien	,	cela	a	des	 implication 	 s 	 	 profond 	 es 	 	sur	les	 limite 	 s 	 	de	la	science	,	sur	la	 pré 	 visibilité 	 	 e 	 t 	 	la	_UNK_	des	 process 	 us 	 	 bio 	 logique 	 s 	 	ou	des	 économie 	 s 	 	,	sur	 l' 	 intelligence 	 	dans	 l' 	 univers 	 	,	sur	des	 question 	 s 	 	comme	le	libre	-	arbitre	 e 	 t 	 	sur	la	création	de	technologie	.
+ travail 	 lant 	 	sur	 ce 	 tte 	 	science	 de 	 puis 	 	de	 nombre 	 uses 	 	 année 	 s 	 	,	je	me	 demand 	 ais 	 	,	``	quelle	 s 	 era 	 	 s 	 a 	 	première	application	 génial 	 e 	 	?	``
+ e 	 h 	 	bien	,	 de 	 puis 	 	que	je	suis	enfant	,	je	réfléchis	à	la	_UNK_	des	 connaissance 	 s 	 	 e 	 t 	 	en	quelque	 sort 	 e 	 	à	son	_UNK_	.
+des	 gen 	 s 	 	comme	leibniz	 s' 	 étaient 	 	 égale 	 ment 	 	 interrogé 	 s 	 	là	-	dessus	300	 an 	 s 	 	auparavant	.
+ mai 	 s 	 	 j' 	 avais 	 	 tou 	 jour 	 s 	 	 pens 	 é 	 	que	pour	faire	des	 pro 	 grès 	 	,	je	 dev 	 rais 	 	 principal 	 ement 	 	 réplique 	 r 	 	un	cerveau	entier	.
+ e 	 h 	 	bien	,	 main 	 tenant 	 	j'en	suis	 arriv 	 é 	 	à	penser	que	mon	paradigme	scientifique	suggère	quelque	chose	de	différent	.
+ e 	 t 	 	,	soit	dit	en	 pass 	 ant 	 	,	j'ai	 main 	 tenant 	 	obtenu	des	 capacité 	 s 	 	de	calcul	 énorme 	 s 	 	dans	mathematica	,	 e 	 t 	 	je	suis	pdg	avec	des	 re 	 s 	 source 	 s 	 	 matériel 	 les 	 	pour	faire	de	 grand 	 s 	 	 projet 	 s 	 	,	 appar 	 emment 	 	 fou 	 s 	 	.
+ainsi	j'ai	 décid 	 é 	 	de	 simple 	 ment 	 	essayer	de	voir	quelle	 quant 	 ité 	 	de	la	connaissance	 systémat 	 ique 	 	dans	le	monde	nous	 pouv 	 ons 	 	_UNK_	.
+donc	,	ça	a	été	un	grand	projet	très	 complex 	 e 	 	,	 do 	 nt 	 	je	 n' 	 étais 	 	pas	du	tout	sûr	qu'il	allait	 abouti 	 r 	 	.
+ mai 	 s 	 	je	suis	heureux	de	dire	qu'il	va	 vrai 	 ment 	 	très	bien	.
+ l' 	 année 	 	 der 	 nière 	 	,	nous	avons	pu	 lance 	 r 	 	la	première	version	en	ligne	de	wolfram	alpha	.
+il	a	pour	objectif	 d' 	 être 	 	un	moteur	de	 connaissance 	 s 	 	 sérieuse 	 s 	 	qui	 calcul 	 e 	 	les	 réponse 	 s 	 	aux	 question 	 s 	 	.
+faisons	un	essai	.
+ comme 	 nçons 	 	avec	quelque	chose	de	très	simple	.
+ espé 	 rons 	 	que	tout	aille	bien	.
+très	bien	.	très	bien	.
+ jus 	 qu' 	 ici 	 	tout	va	bien	.
+essayons	quelque	chose	 d' 	 un 	 	peu	plus	difficile	.
+ dis 	 ons 	 	que	...
+faisons	quelque	chose	de	 ma 	 thématique 	 	 e 	 t 	 	avec	de	la	chance	il	 trouver 	 a 	 	la	réponse	 e 	 t 	 	 essayer 	 a 	 	de	nous	dire	des	 chose 	 s 	 	 intéressant 	 es 	 	sur	les	 ma 	 thématique 	 s 	 	en	rapport	.
+nous	 pourri 	 ons 	 	lui	 demande 	 r 	 	quelque	chose	sur	le	monde	réel	.
+ dis 	 ons 	 	que	-	je	ne	 s 	 ais 	 	pas	-	quel	est	le	pib	de	l'espagne	?
+il	 dev 	 rait 	 	être	en	mesure	de	nous	le	dire	.
+ main 	 tenant 	 	,	nous	 pourri 	 ons 	 	 calcul 	 er 	 	quelque	chose	lié	à	cela	,	 dis 	 ons 	 	le	pib	de	l'espagne	divisé	par	,	je	ne	 s 	 ais 	 	pas	,	le	-	 hmm 	 m 	 	...
+ dis 	 ons 	 	le	chiffre	 d' 	 affaire 	 s 	 	de	microsoft	.
+ l' 	 idée 	 	est	que	nous	 pouv 	 ons 	 	entrer	 ce 	 ci 	 	,	ce	 gen 	 re 	 	de	question	sous	quelque	forme	que	nous	la	 concev 	 ions 	 	.
+essayons	donc	de	poser	une	question	,	comme	une	question	sur	la	 s 	 ant 	 é 	 	.
+alors	 dis 	 ons 	 	que	nous	avons	un	 labo 	 ratoire 	 	de	recherche	qui	-	vous	 s 	 avez 	 	,	le	taux	de	_UNK_	 d' 	 un 	 	homme	de	50	 an 	 s 	 	est	de	140	.
+tapons	cela	,	 e 	 t 	 	 main 	 tenant 	 	wolfram	alpha	va	utiliser	les	 donné 	 es 	 	de	 s 	 ant 	 é 	 	publique	 dispon 	 ible 	 s 	 	 e 	 t 	 	essayer	de	trouver	à	quelle	 parti 	 e 	 	de	la	population	cela	correspond	,	etc	.
+ou	essayons	de	poser	une	question	sur	,	je	ne	 s 	 ais 	 	pas	,	la	station	spatiale	 inter 	 national 	 e 	 	.
+ce	qui	 s 	 e 	 	passe	ici	,	c'est	que	wolfram	alpha	ne	 s 	 e 	 	contente	pas	de	 cherche 	 r 	 	quelque	chose	;	il	 calcul 	 e 	 	,	en	temps	réel	,	où	la	station	spatiale	 inter 	 national 	 e 	 	est	 main 	 tenant 	 	,	en	ce	moment	,	à	quelle	vitesse	elle	va	,	etc	.
+wolfram	alpha	connaît	donc	beaucoup	,	beaucoup	de	 chose 	 s 	 	.
+il	couvre	assez	bien	à	ce	jour	,	tout	ce	que	vous	 pourri 	 ez 	 	trouver	dans	une	 biblio 	 thèque 	 	de	référence	standard	.
+ mai 	 s 	 	 l' 	 objectif 	 	est	 d' 	 aller 	 	beaucoup	plus	loin	 e 	 t 	 	,	de	façon	très	large	,	de	 démocratise 	 r 	 	tout	ce	 gen 	 re 	 	de	connaissance	,	 e 	 t 	 	 d' 	 essayer 	 	de	 constitue 	 r 	 	une	source	 qualifié 	 e 	 	dans	tous	les	 domaine 	 s 	 	,	pour	être	en	mesure	de	 calcul 	 er 	 	les	 réponse 	 s 	 	aux	 question 	 s 	 	 spécifique 	 s 	 	que	les	 gen 	 s 	 	ont	,	pas	en	 chercha 	 nt 	 	ce	que	les	 autre 	 s 	 	ont	pu	écrire	avant	,	 mai 	 s 	 	en	 utilis 	 ant 	 	la	connaissance	 intégr 	 ée 	 	pour	 calcul 	 er 	 	de	 tout 	 es 	 	 nouvelle 	 s 	 	 réponse 	 s 	 	à	une	question	spécifique	.
+ main 	 tenant 	 	,	bien	sûr	,	wolfram	alpha	est	un	projet	à	long	terme	,	_UNK_	énorme	,	avec	beaucoup	,	beaucoup	de	 défi 	 s 	 	.
+pour	 commence 	 r 	 	,	il	faut	organiser	une	 quant 	 ité 	 	astronomique	de	 source 	 s 	 	 différent 	 es 	 	de	 fait 	 s 	 	 e 	 t 	 	de	 donné 	 es 	 	,	nous	avons	construit	tout	un	 pipe 	 line 	 	_UNK_	mathematica	 e 	 t 	 	 d' 	 expert 	 s 	 	 humain 	 s 	 	pour	ce	faire	.
+ mai 	 s 	 	ce	n'est	que	le	début	.
+compte	tenu	des	 fait 	 s 	 	ou	des	 donné 	 es 	 	 brute 	 s 	 	pour	 répond 	 re 	 	 effective 	 ment 	 	aux	 question 	 s 	 	,	on	doit	 calcul 	 er 	 	,	on	doit	mettre	en	œuvre	 tout 	 es 	 	les	 méthod 	 es 	 	,	tous	les	 modèle 	 s 	 	,	tous	les	 algorithme 	 s 	 	,	etc	.
+que	la	science	 e 	 t 	 	 d' 	 autre 	 s 	 	 domaine 	 s 	 	ont	 construit 	 s 	 	au	fil	des	 siècle 	 s 	 	.
+ e 	 h 	 	bien	,	même	à	 parti 	 r 	 	de	mathematica	,	c'est	 tou 	 jour 	 s 	 	une	énorme	 quant 	 ité 	 	de	travail	.
+ jus 	 qu' 	 à 	 	présent	,	il	y	a	environ	8	 million 	 s 	 	de	 ligne 	 s 	 	de	code	mathematica	dans	wolfram	alpha	construit	par	des	 expert 	 s 	 	de	très	 nombre 	 ux 	 	 domaine 	 s 	 	 différent 	 s 	 	.
+ e 	 h 	 	bien	,	une	idée	 essentiel 	 le 	 	de	wolfram	alpha	est	que	vous	 pouv 	 ez 	 	juste	lui	poser	des	 question 	 s 	 	en	 utilis 	 ant 	 	le	 lan 	 gage 	 	humain	ordinaire	,	ce	qui	signifie	que	nous	 dev 	 ons 	 	être	en	mesure	de	prendre	tous	 ce 	 s 	 	 énoncé 	 s 	 	 étrange 	 s 	 	que	les	 gen 	 s 	 	 tape 	 nt 	 	dans	le	champ	de	 saisi 	 e 	 	 e 	 t 	 	de	les	 comprend 	 re 	 	.
+je	dois	dire	que	je	 pens 	 ais 	 	que	 ce 	 tte 	 	étape	pourrait	bien	être	tout	 bonne 	 ment 	 	impossible	.
+deux	 événement 	 s 	 	 important 	 s 	 	ont	eu	lieu	.
+tout	 d' 	 abord 	 	,	un	 ta 	 s 	 	de	 nouvelle 	 s 	 	 idée 	 s 	 	sur	la	linguistique	qui	venaient	de	 l' 	 étude 	 	de	 l' 	 univers 	 	computationnel	.
+ en 	 suite 	 	,	la	 réalis 	 ation 	 	que	 d' 	 avoir 	 	une	connaissance	 ré 	 elle 	 	 calcul 	 able 	 	change	 complète 	 ment 	 	la	façon	 do 	 nt 	 	on	peut	aborder	la	 com 	 préhension 	 	du	 lan 	 gage 	 	.
+ e 	 t 	 	,	bien	sûr	,	 main 	 tenant 	 	avec	wolfram	alpha	 effective 	 ment 	 	dans	la	nature	,	nous	 pouv 	 ons 	 	tirer	des	 conclu 	 s 	 ions 	 	par	son	utilisation	 actuel 	 le 	 	.
+ e 	 t 	 	,	en	effet	,	il	y	a	une	_UNK_	 intéressant 	 e 	 	entre	wolfram	alpha	 e 	 t 	 	 s 	 es 	 	 utilisateur 	 s 	 	 humain 	 s 	 	.
+c'est	 vrai 	 ment 	 	 encourage 	 ant 	 	.
+à	 l' 	 heure 	 	 actuel 	 le 	 	,	si	 l' 	 on 	 	regarde	les	 re 	 quête 	 s 	 	web	,	plus	de	80	%	 s 	 ont 	 	 traitée 	 s 	 	avec	succès	la	première	fois	.
+si	vous	regardez	 l' 	 application 	 	iphone	,	le	 pourcent 	 age 	 	est	beaucoup	plus	grand	.
+donc	,	je	suis	 plu 	 tôt 	 	content	de	tout	cela	.
+ mai 	 s 	 	,	à	bien	des	 égard 	 s 	 	,	nous	en	 somme 	 s 	 	encore	au	tout	début	avec	wolfram	alpha	.
+tout	cela	progresse	très	bien	nous	 de 	 venons 	 	plus	 confi 	 ant 	 s 	 	.
+vous	 pouv 	 ez 	 	vous	 attend 	 re 	 	à	voir	la	technologie	wolfram	alpha	 apparaît 	 re 	 	à	plus	en	plus	 d' 	 endroit 	 s 	 	,	 travail 	 lant 	 	à	la	fois	avec	ce	 gen 	 re 	 	de	 donné 	 es 	 	 publique 	 s 	 	,	comme	sur	le	site	,	 e 	 t 	 	avec	la	connaissance	 privé 	 e 	 	pour	des	 personne 	 s 	 	,	des	 entreprise 	 s 	 	,	etc	.
+je	me	suis	rendu	compte	que	wolfram	alpha	donne	à	chacun	un	tout	nouveau	type	de	calcul	que	 l' 	 on 	 	peut	appeler	le	calcul	fondé	sur	la	connaissance	,	où	 l' 	 on 	 	ne	 s 	 e 	 	base	pas	 seul 	 ement 	 	sur	le	calcul	brut	,	 mai 	 s 	 	sur	une	 grand 	 e 	 	 quant 	 ité 	 	de	connaissance	 intégr 	 ée 	 	.
+quand	on	fait	cela	,	on	change	 vrai 	 ment 	 	 l' 	 économie 	 	de	la	 pres 	 tation 	 	des	 chose 	 s 	 	 computationnel 	 les 	 	,	que	ce	soit	sur	le	web	ou	ailleurs	.
+nous	 viv 	 ons 	 	une	 situ 	 ation 	 	assez	 intéressant 	 e 	 	en	ce	moment	.
+ d' 	 une 	 	part	,	nous	avons	mathematica	,	avec	son	 gen 	 re 	 	de	 lan 	 gage 	 	 forme 	 l 	 	 e 	 t 	 	précis	 e 	 t 	 	un	vaste	réseau	de	 capacité 	 s 	 	 conçu 	 es 	 	avec	soin	 capable 	 s 	 	de	faire	beaucoup	de	 chose 	 s 	 	en	 quelque 	 s 	 	 ligne 	 s 	 	.
+ permette 	 z 	 	-	moi	de	vous	 montre 	 r 	 	 quelque 	 s 	 	 exemple 	 s 	 	ici	.
+voici	un	morceau	trivial	de	 programma 	 tion 	 	mathematica	.
+voici	quelque	chose	où	nous	 intégr 	 ons 	 	en	quelque	 sort 	 e 	 	un	 ta 	 s 	 	de	 capacité 	 s 	 	 différent 	 es 	 	.
+ici	,	nous	allons	 simple 	 ment 	 	créer	dans	 ce 	 tte 	 	ligne	une	petite	interface	utilisateur	qui	nous	permet	de	faire	quelque	chose	 d' 	 amusant 	 	.
+si	vous	 continu 	 ez 	 	,	c'est	un	programme	un	peu	plus	compliqué	qui	est	en	train	de	faire	 tout 	 es 	 	 sort 	 es 	 	de	 chose 	 s 	 	 algorithm 	 iques 	 	,	 e 	 t 	 	de	créer	 l' 	 interface 	 	utilisateur	.
+ mai 	 s 	 	c'est	quelque	chose	de	très	précis	.
+il	 s 	 'agit 	 	 d' 	 une 	 	 des 	 cription 	 	 précis 	 e 	 	 d' 	 un 	 	 lan 	 gage 	 	 forme 	 l 	 	précis	qui	fait	que	mathematica	 s 	 ait 	 	quoi	faire	ici	.
+ e 	 h 	 	bien	,	 d' 	 autre 	 	part	,	nous	avons	wolfram	alpha	,	avec	 tout 	 es 	 	les	 dés 	 ordre 	 s 	 	du	monde	 e 	 t 	 	le	 lan 	 gage 	 	humain	par	-	dessus	.
+alors	,	que	 s 	 e 	 	passe	-	t	-	il	quand	vous	mettez	 ce 	 s 	 	 chose 	 s 	 	ensemble	?
+je	pense	que	c'est	en	fait	assez	 merveille 	 ux 	 	.
+avec	wolfram	alpha	à	 l' 	 intérieur 	 	de	mathematica	,	vous	 pouv 	 ez 	 	,	par	exemple	,	faire	des	 programme 	 s 	 	précis	qui	font	appel	à	des	 donné 	 es 	 	du	monde	réel	.
+voici	un	exemple	très	simple	.
+vous	 pouv 	 ez 	 	aussi	entrer	quelque	chose	de	vague	puis	essayer	que	wolfram	alpha	 com 	 prenne 	 	ce	 do 	 nt 	 	vous	 parle 	 z 	 	.
+essayons	de	voir	ici	.
+ mai 	 s 	 	en	 ré 	 alité 	 	,	je	crois	que	la	chose	la	plus	 passion 	 nante 	 	à	ce	sujet	est	que	cela	donne	 vrai 	 ment 	 	la	possibilité	de	 démocratise 	 r 	 	la	 programma 	 tion 	 	.
+ n' 	 importe 	 	qui	,	capable	de	dire	ce	qu'il	veut	en	 lan 	 gage 	 	naturel	,	 e 	 h 	 	bien	,	 l' 	 idée 	 	est	que	wolfram	alpha	 s 	 era 	 	capable	de	 comprend 	 re 	 	 précis 	 é 	 ment 	 	 quelle 	 s 	 	 parti 	 es 	 	de	code	 pour 	 ront 	 	faire	ce	 qu' 	 on 	 	lui	demande	,	puis	 montre 	 r 	 	les	 exemple 	 s 	 	qui	 per 	 mettront 	 	de	 choisi 	 r 	 	ce	 do 	 nt 	 	on	a	besoin	pour	 construi 	 re 	 	des	 programme 	 s 	 	précis	de	plus	en	plus	 important 	 s 	 	.
+alors	,	 par 	 fois 	 	,	wolfram	alpha	 s 	 era 	 	en	mesure	de	faire	tout	ça	tout	de	suite	 e 	 t 	 	juste	de	 re 	 donner 	 	un	seul	programme	avec	 le 	 quel 	 	vous	 pouv 	 ez 	 	 en 	 suite 	 	 calcul 	 er 	 	.
+voici	un	grand	site	web	où	nous	avons	recueilli	beaucoup	de	 dé 	 monstr 	 ations 	 	 éduc 	 atives 	 	sur	 tout 	 es 	 	 sort 	 es 	 	de	 chose 	 s 	 	.
+au	hasard	,	je	vais	vous	 montre 	 r 	 	un	exemple	,	peut	-	être	ici	.
+ce	n'est	qu'un	exemple	 d' 	 un 	 	de	 ce 	 s 	 	 document 	 s 	 	_UNK_	.
+c'est	 prob 	 able 	 ment 	 	un	assez	petit	morceau	de	code	mathematica	qui	est	capable	de	 fonctionne 	 r 	 	ici	.
+très	bien	.	 effec 	 tu 	 ons 	 	un	zoom	arrière	.
+ainsi	,	compte	tenu	de	 not 	 re 	 	nouvelle	science	,	y	a	-	t	-	il	une	 man 	 ière 	 	 général 	 e 	 	de	 l' 	 utiliser 	 	pour	créer	de	la	technologie	?
+ainsi	,	avec	des	matériaux	 physique 	 s 	 	,	nous	 somme 	 s 	 	 habitué 	 s 	 	à	faire	le	tour	du	monde	 e 	 t 	 	découvrir	que	des	matériaux	 particulier 	 s 	 	 s 	 ont 	 	 utile 	 s 	 	pour	des	 objectif 	 s 	 	 technologique 	 s 	 	 particulier 	 s 	 	.
+ e 	 h 	 	bien	,	il	s'avère	que	nous	 pouv 	 ons 	 	faire	 quasi 	 ment 	 	la	même	chose	dans	 l' 	 univers 	 	computationnel	.
+il	existe	une	source	 in 	 épuis 	 able 	 	de	 programme 	 s 	 	.
+le	défi	consiste	à	voir	comment	les	exploiter	à	des	 fin 	 s 	 	 humaine 	 s 	 	.
+quelque	chose	comme	la	règle	30	,	par	exemple	,	s'avère	être	un	 vrai 	 ment 	 	bon	 géné 	 rateur 	 	aléatoire	.
+ d' 	 autre 	 s 	 	 programme 	 s 	 	 simple 	 s 	 	 s 	 ont 	 	de	 bon 	 s 	 	 modèle 	 s 	 	pour	les	 process 	 us 	 	dans	le	monde	naturel	ou	social	.
+ e 	 t 	 	,	par	exemple	,	wolfram	alpha	 e 	 t 	 	mathematica	 s 	 ont 	 	en	fait	 main 	 tenant 	 	 chargé 	 s 	 	 d' 	 algorithme 	 s 	 	que	nous	avons	 dé 	 couvert 	 s 	 	en	 fou 	 il 	 lant 	 	 l' 	 univers 	 	computationnel	.
+ e 	 t 	 	,	par	exemple	,	-	 re 	 tournons 	 	sur	-	 ce 	 ci 	 	est	devenu	 étonna 	 mment 	 	populaire	 par 	 mi 	 	les	 composite 	 urs 	 	qui	 trouv 	 ent 	 	des	formes	 musical 	 es 	 	en	 explo 	 rant 	 	 l' 	 univers 	 	computationnel	.
+en	un	sens	,	nous	 pouv 	 ons 	 	utiliser	 l' 	 univers 	 	computationnel	pour	obtenir	une	 créa 	 tivité 	 	de	masse	sur	mesure	.
+ j' 	 espère 	 	que	nous	 pour 	 rons 	 	,	par	exemple	,	utiliser	cela	même	pour	que	wolfram	alpha	fasse	 systémat 	 iquement 	 	des	 invention 	 s 	 	 e 	 t 	 	des	 dé 	 couvert 	 es 	 	à	la	 volé 	 e 	 	 e 	 t 	 	 trouv 	 e 	 	 tout 	 es 	 	 sort 	 es 	 	de	 chose 	 s 	 	 merveille 	 uses 	 	 qu' 	 aucun 	 	ingénieur	 e 	 t 	 	aucun	 process 	 us 	 	 d' 	 évolution 	 	progressive	 n' 	 auraient 	 	jamais	trouvé	.
+cela	mène	à	une	 sort 	 e 	 	de	question	ultime	.
+est	-	ce	que	quelque	part	dans	 l' 	 univers 	 	computationnel	nous	 pourri 	 ons 	 	trouver	 not 	 re 	 	univers	physique	?
+peut	-	être	qu'il	y	a	même	une	règle	très	simple	,	un	programme	simple	pour	 not 	 re 	 	univers	.
+ e 	 h 	 	bien	,	 l' 	 histoire 	 	de	la	physique	 voudrai 	 t 	 	nous	faire	croire	que	la	règle	de	 l' 	 univers 	 	doit	être	assez	 compliqué 	 e 	 	.
+ mai 	 s 	 	dans	 l' 	 univers 	 	computationnel	nous	avons	vu	comment	les	 règle 	 s 	 	qui	 s 	 ont 	 	 incroyable 	 ment 	 	 simple 	 s 	 	peuvent	 pro 	 duire 	 	des	 comporte 	 ment 	 s 	 	 incroyable 	 ment 	 	riches	 e 	 t 	 	 complex 	 es 	 	.
+ s 	 e 	 	pourrait	-	il	qu'il	en	aille	de	même	pour	 not 	 re 	 	univers	tout	entier	?
+si	les	 règle 	 s 	 	de	 l' 	 univers 	 	 s 	 ont 	 	 simple 	 s 	 	,	il	est	en	quelque	 sort 	 e 	 	inévitable	 qu' 	 elles 	 	soient	très	 abstrait 	 es 	 	 e 	 t 	 	de	très	faible	niveau	,	 opér 	 ant 	 	,	par	exemple	,	bien	au	-	dessous	du	niveau	de	 l' 	 espace 	 	ou	du	temps	,	ce	qui	rend	difficile	leur	 représent 	 ation 	 	.
+ mai 	 s 	 	dans	une	 grand 	 e 	 	variété	de	cas	,	on	peut	penser	à	 l' 	 univers 	 	comme	étant	une	 sort 	 e 	 	de	réseau	,	qui	,	quand	il	est	assez	grand	,	 s 	 e 	 	comporte	comme	un	espace	continu	un	peu	comme	si	plein	de	 molécule 	 s 	 	 s 	 e 	 	 com 	 port 	 aient 	 	comme	un	 fluid 	 e 	 	continu	.
+ e 	 h 	 	bien	,	 l' 	 univers 	 	doit	 évolue 	 r 	 	en	 appli 	 quant 	 	des	 petite 	 s 	 	 règle 	 s 	 	qui	,	 progressive 	 ment 	 	,	mettent	à	jour	de	ce	réseau	.
+ e 	 t 	 	 cha 	 que 	 	règle	possible	,	en	un	sens	,	correspond	à	un	univers	candidat	.
+en	fait	,	je	n'ai	encore	jamais	montré	 ce 	 ci 	 	,	 mai 	 s 	 	voici	 quelque 	 s 	 	-	 un 	 s 	 	des	univers	 candidat 	 s 	 	que	j'ai	 observ 	 és 	 	.
+ certain 	 s 	 	de	 ce 	 s 	 	univers	 s 	 ont 	 	sans	espoir	,	 complète 	 ment 	 	 stéri 	 les 	 	,	avec	 d' 	 autre 	 s 	 	 type 	 s 	 	de	 path 	 ologie 	 s 	 	comme	 aucun 	 e 	 	 no 	 tion 	 	de	 l' 	 espace 	 	,	 aucun 	 e 	 	 no 	 tion 	 	du	temps	,	pas	de	matière	,	 d' 	 autre 	 s 	 	 problème 	 s 	 	comme	ça	.
+ mai 	 s 	 	la	chose	 passion 	 nante 	 	que	j'ai	 trouvé 	 e 	 	 ce 	 s 	 	 der 	 nières 	 	 année 	 s 	 	est	que	vous	 n' 	 avez 	 	pas	besoin	 d' 	 aller 	 	très	loin	dans	 l' 	 univers 	 	computationnel	avant	de	 commence 	 r 	 	à	trouver	des	univers	 candidat 	 s 	 	qui	ne	 s 	 ont 	 	pas	évidemment	pas	 not 	 re 	 	univers	.
+voici	le	problème	:	tout	candidat	 séri 	 eux 	 	pour	 not 	 re 	 	univers	,	est	 inévitable 	 ment 	 	plein	_UNK_	de	calcul	,	ce	qui	signifie	qu'il	est	_UNK_	difficile	de	 s 	 avoir 	 	comment	il	va	 vrai 	 ment 	 	 s 	 e 	 	 comporte 	 r 	 	,	 e 	 t 	 	 s' 	 il 	 	correspond	à	 not 	 re 	 	univers	physique	.
+il	y	a	 quelque 	 s 	 	 année 	 s 	 	,	 j' 	 étais 	 	 plu 	 tôt 	 	 enthousi 	 aste 	 	à	 l' 	 idée 	 	de	découvrir	 s' 	 il 	 	y	avait	des	univers	 candidat 	 s 	 	avec	des	 règle 	 s 	 	 extrême 	 ment 	 	 simple 	 s 	 	qui	 réussi 	 ssent 	 	à	 re 	 pro 	 duire 	 	la	 relativ 	 ité 	 	 restreint 	 e 	 	 e 	 t 	 	même	la	 relativ 	 ité 	 	 général 	 e 	 	 e 	 t 	 	la	gravitation	,	 e 	 t 	 	qui	au	moins	 donne 	 nt 	 	des	 indication 	 s 	 	de	mécanique	 quant 	 ique 	 	.
+alors	,	allons	-	nous	trouver	 l' 	 ensemble 	 	de	la	physique	?
+je	 n' 	 en 	 	suis	pas	sûr	.
+ mai 	 s 	 	je	pense	 qu' 	 à 	 	ce	stade	c'est	 pres 	 que 	 	 gên 	 ant 	 	de	ne	pas	au	moins	essayer	.
+pas	un	projet	facile	.
+on	doit	 construi 	 re 	 	beaucoup	de	technologie	.
+on	doit	 construi 	 re 	 	une	structure	qui	est	 prob 	 able 	 ment 	 	au	moins	aussi	 profond 	 e 	 	que	la	physique	 actuel 	 le 	 	.
+ e 	 t 	 	je	ne	suis	pas	sûr	de	 s 	 avoir 	 	quel	est	le	meilleur	moyen	 d' 	 organiser 	 	tout	cela	.
+ constitue 	 r 	 	une	équipe	,	 l' 	 ouvrir 	 	,	offrir	des	 pri 	 x 	 	,	etc	.
+ mai 	 s 	 	je	vous	dis	ici	aujourd'hui	que	je	suis	déterminé	à	voir	ce	projet	 s 	 e 	 	 réalise 	 r 	 	,	pour	voir	si	,	dans	 ce 	 tte 	 	décennie	,	nous	 pouv 	 ons 	 	enfin	tenir	dans	 no 	 s 	 	 main 	 s 	 	la	règle	de	 not 	 re 	 	univers	 e 	 t 	 	 s 	 avoir 	 	où	 s 	 e 	 	 trouv 	 e 	 	 not 	 re 	 	univers	dans	 l' 	 espace 	 	de	tous	les	univers	 possible 	 s 	 	-	 e 	 t 	 	être	capable	de	 tape 	 r 	 	dans	wolfram	alpha	``	la	 théo 	 rie 	 	de	 l' 	 univers 	 	``	,	 e 	 t 	 	qu'il	nous	le	 dis 	 e 	 	.
+j'ai	donc	travaillé	sur	 l' 	 idée 	 	de	calcul	 de 	 puis 	 	plus	de	30	 an 	 s 	 	,	en	 construis 	 ant 	 	des	 outil 	 s 	 	 e 	 t 	 	des	 méthod 	 es 	 	 e 	 t 	 	en	 transforma 	 nt 	 	des	 idée 	 s 	 	 intellectuel 	 les 	 	en	 million 	 s 	 	de	 ligne 	 s 	 	de	code	 e 	 t 	 	en	 gra 	 in 	 	à	 mou 	 dre 	 	pour	les	 parc 	 s 	 	de	 serve 	 urs 	 	.
+année	après	année	,	je	me	 rend 	 s 	 	compte	à	quel	point	 l' 	 idée 	 	de	calcul	est	 vrai 	 ment 	 	plus	 puissant 	 e 	 	.
+nous	avons	 dé 	 jà 	 	parcouru	un	long	chemin	,	 mai 	 s 	 	il	y	a	 t 	 ellement 	 	plus	à	faire	.
+des	 fond 	 ations 	 	de	la	science	aux	 limite 	 s 	 	de	la	technologie	à	la	 défini 	 tion 	 	même	de	la	condition	humaine	,	je	pense	que	le	calcul	est	destiné	à	être	 l' 	 idée 	 	 détermi 	 nante 	 	de	 not 	 re 	 	avenir	.
+merci	.
+chris	anderson	:	 c' 	 était 	 	 vrai 	 ment 	 	 ébloui 	 ssant 	 	.
+ rest 	 ez 	 	ici	.	j'ai	une	question	.
+alors	,	 c' 	 était 	 	,	pour	être	honnête	,	un	exposé	 ébloui 	 ssant 	 	.
+êtes	-	vous	capable	de	dire	en	une	phrase	ou	deux	comment	ce	type	de	 ré 	 flexion 	 	pourrait	 s' 	 intégrer 	 	à	un	moment	donné	à	des	 chose 	 s 	 	comme	la	 théo 	 rie 	 	des	 corde 	 s 	 	ou	le	 gen 	 re 	 	de	 chose 	 s 	 	que	les	 gen 	 s 	 	 considère 	 nt 	 	comme	les	 explication 	 s 	 	 fondamental 	 es 	 	de	 l' 	 univers 	 	?
+stephen	wolfram	:	 e 	 h 	 	bien	,	les	 parti 	 es 	 	de	la	physique	que	nous	tenons	pour	 vrai 	 es 	 	,	des	 chose 	 s 	 	comme	le	modèle	standard	de	la	physique	.
+ce	que	 j' 	 essaie 	 	de	faire	 re 	 produit 	 	 mi 	 eux 	 	le	modèle	standard	de	la	physique	ou	c'est	tout	 simple 	 ment 	 	faux	.
+les	 chose 	 s 	 	que	les	 gen 	 s 	 	ont	 essay 	 é 	 	de	faire	au	cours	des	25	 der 	 nières 	 	 année 	 s 	 	avec	la	 théo 	 rie 	 	des	 corde 	 s 	 	,	ont	été	une	exploration	 intéressant 	 e 	 	qui	a	 essay 	 é 	 	de	 re 	 venir 	 	au	modèle	standard	,	 mai 	 s 	 	ils	 n' 	 y 	 	 s 	 ont 	 	pas	tout	à	fait	 parvenu 	 s 	 	.
+je	pense	que	 certain 	 es 	 	_UNK_	de	 chose 	 s 	 	que	je	fais	peuvent	en	fait	avoir	une	 réson 	 ance 	 	 considé 	 rable 	 	avec	ce	qui	a	été	fait	dans	la	 théo 	 rie 	 	des	 corde 	 s 	 	,	 mai 	 s 	 	c'est	une	chose	 ma 	 thématique 	 	 compliqué 	 e 	 	 do 	 nt 	 	je	ne	 s 	 ais 	 	pas	encore	comment	elle	va	 tourne 	 r 	 	.
+ca	:	benoit	mandelbrot	est	dans	le	public	.
+il	a	 égale 	 ment 	 	montré	comment	la	 complex 	 ité 	 	peut	 décou 	 ler 	 	 d' 	 un 	 	début	simple	.
+ vot 	 re 	 	travail	a	-	t	-	il	un	rapport	avec	le	 s 	 ien 	 	?
+sw	:	je	pense	que	oui	.
+je	considère	le	travail	de	benoit	mandelbrot	comme	en	quelque	 sort 	 e 	 	une	des	 contribu 	 tion 	 s 	 	 fond 	 atrice 	 s 	 	dans	ce	 gen 	 re 	 	de	domaine	.
+benoit	a	été	 particulière 	 ment 	 	intéressé	par	les	 modèle 	 s 	 	 imbriqué 	 s 	 	,	les	 fractal 	 es 	 	,	etc	,	où	la	structure	est	quelque	chose	qui	a	un	peu	la	forme	 d' 	 un 	 	arbre	,	 e 	 t 	 	où	il	y	a	une	grosse	branche	qui	fait	des	 petite 	 s 	 	 branche 	 s 	 	,	 e 	 t 	 	des	 branche 	 s 	 	encore	plus	 petite 	 s 	 	,	etc	.
+c'est	 l' 	 un 	 	des	 moyen 	 s 	 	de	 s' 	 approche 	 r 	 	de	la	 véri 	 table 	 	 complex 	 ité 	 	.
+je	pense	que	des	 chose 	 s 	 	comme	_UNK_	cellulaire	de	la	règle	30	nous	amène	à	un	niveau	différent	.
+en	fait	,	 d' 	 une 	 	 man 	 ière 	 	très	 précis 	 e 	 	,	ils	nous	 amène 	 nt 	 	à	un	niveau	différent	parce	 qu'il 	 s 	 	 semble 	 nt 	 	être	des	 chose 	 s 	 	qui	 s 	 ont 	 	 capable 	 s 	 	de	 complex 	 ité 	 	qui	est	 pres 	 que 	 	aussi	 grand 	 e 	 	que	la	 complex 	 ité 	 	 puis 	 s 	 e 	 	jamais	être	...
+je	 pour 	 rais 	 	continuer	sur	ce	sujet	 in 	 défini 	 ment 	 	,	 mai 	 s 	 	je	ne	le	ferai	pas	.
+ca	:	stephen	wolfram	,	merci	.
+

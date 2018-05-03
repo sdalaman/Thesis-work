@@ -1,0 +1,204 @@
+size	öncelikle	karşılaştığımız	bir	zorluktan	,	verilerle	uğraşmanın	,	tıbbi	durumlara	ait	olan	verilerle	uğraşmanın	zorluğundan	bahsetmek	istiyorum	.
+bu	bizim	için	gerçekten	de	çok	büyük	bir	zorluk	,
+en	zorlandığımız	şey	bu	.	bu	bir	bilgisayarlı	tomografi	cihazı	--	bir	bt	cihazı	.
+müthiş	bir	cihaz	.
+x	-	ışınlarını	kullanıyor	,	insan	vücudu	etrafında	hızla	dönen	x	ışınlarını	kullanıyor	.
+makineye	girip	çıkmak	yaklaşık	30	saniye	sürüyor	ve	bu	sürenin	sonunda	makina	inanılmaz	miktarlarda	veri	üretiyor	.
+bu	,	sağlık	hizmetlerini	iyileştirmek	için	kullanabileceğimiz	müthiş	bir	cihaz	.	ama	daha	önce	belirttiğim	gibi	aynı	zamanda	büyük	bir	sorun	.
+zorluğu	bu	resimde	görmek	mümkün	.
+şu	an	yaşadığımız	bir	nevi	tıbbi	veri	patlaması	.
+yaşadığımız	sorun	bu	.
+sizi	zamanda	geri	götürmeme	izin	verin	.
+birkaç	yıl	geriye	gidelim	ve	o	zaman	bunların	nasıl	olduğuna	bakalım	.
+bu	makineler	1970'li	yıllarda	ortaya	çıkmaya	başladı	.	i̇nsan	vücudunu	_UNK_	ve	insan	vücuduna	ait	yaklaşık	100	görüntü	üretiyorlardı	.
+konuyu	daha	iyi	açıklamak	için	bunu	veri	_UNK_	çevirmek	istiyorum	.
+bunlar	yaklaşık	50	mb	veriye	denk	geliyordu	,	ki	bugün	mobil	_UNK_	uğraştığımız	veri	miktarını	düşünecek	olursanız	bu	oldukça	ufak	bir	veri	.
+bunu	telefon	rehberi	_UNK_	çevirecek	olursanız	,	yerden	1	metre	yüksekliği	olan	bir	telefon	rehberi	sütunu	demek	.
+şimdi	de	bugün	sahip	olduğumuz	makinelerle	yaptıklarımıza	bir	bakalım	,	sadece	birkaç	saniye	içinde	,	vücuttan	24	bin	görüntü	alabiliyoruz	.	bu	yaklaşık	20	gb	veri	demek	,	ya	da	800	telefon	rehberi	.	üstüste	koysanız	bu	yaklaşık	200	metre	eder	.
+gördüğünüz	,	görmekte	olduğunuz	şu	anda	süregelen	bu	teknoloji	trendi	ile	artık	zamana	bağlı	durumlarla	da	ilgilenmeye	başlıyoruz	.
+artık	vücuttan	ilgili	dinamikleri	de	alabiliyoruz	.
+farz	edin	ki	beş	saniye	boyunca	veri	toplayacağız	,	bu	bir	terabayt	veriye	eşdeğer	olacaktır	.	bu	800.000	kitap	ve	16	km	yüksekliğinde	bir	telefon	rehberi	kulesi	demek	.
+bu	tek	bir	hasta	,	bir	veri	seti	.
+altından	_UNK_	gereken	sorun	da	bu	.
+yani	gerçekten	önümüzde	müthiş	bir	zorluk	var	.
+ve	bugün	bile	,	--	bu	250	bin	görüntü	.
+bunları	radyoloji	uzmanlarının	yaptığı	günleri	düşünün	.
+25	bin	görüntüye	bakıp	,	``	evet	,	evet	,	25	bin	,	evet	...
+hah	,	işte	problem	şurada	.	``	diyeceklerdi	.
+bunu	artık	yapamıyorlar	;	bu	imkansız	.
+bu	nedenle	,	artık	bunu	yapabilecek	daha	akıllı	birşeye	ihtiyacımız	var	.
+bu	nedenle	,	bütün	bu	dilimleri	bir	araya	getiriyoruz	.
+vücudunuzu	tüm	yönlerde	_UNK_	hayal	edin	,	daha	sonra	da	bu	dilimleri	tekrar	birleştirmeye	çalışıyorsunuz	,	tek	bir	bilgi	yığını	halinde	,	bir	blok	veri	.
+i̇şte	bizim	gerçekte	yaptığımız	bu	.
+bu	bir	gigabayt	ya	da	_UNK_	veriyi	bir	blok	halinde	_UNK_	.
+ama	elbette	,	bu	veri	yığını	insan	vücudundaki	her	nokta	tarafından	_UNK_	x	-	ışını	miktarı	kadar	veri	içeriyor	.
+bu	nedenle	,	yapmamız	gereken	bakmak	istediğimiz	şeyleri	bize	gösteren	görmek	_UNK_	ise	_UNK_	bir	yöntem	bulmak	.
+bu	veri	dizisini	şuna	benzer	bir	şeye	dönüştürüyoruz	.
+i̇şte	işin	zor	olan	kısmı	bu	.
+bu	,	bizim	aşmamız	gereken	ciddi	bir	engel	.
+_UNK_	veriyi	işlemek	için	bilgisayarları	kullanmak	,	her	ne	kadar	her	geçen	anda	daha	hızlı	ve	iyi	_UNK_	da	_UNK_	veriyi	işlemek	ve	işe	yarar	veriyi	içlerinden	ayıklamak	gerçekten	zor	.
+kalbe	bakmak	istiyorum	,
+kan	damarlarına	bakmak	istiyorum	,	karaciğere	bakmak	istiyorum	,
+hatta	bazı	vakalarda	bir	tümör	arıyorum	.
+i̇şte	bu	_UNK_	devreye	girdiği	an	bu	.
+bu	benim	kızım	.
+burada	saat	sabah	_UNK_	,
+ve	o	bilgisayarda	oyun	oynuyor	.
+henüz	sadece	iki	yaşında	,	ve	acayip	eğleniyor	.
+grafik	işlemci	geliştirme	birimlerinin	arkasındaki	itici	güç	gerçekte	o	.
+çocuklar	bilgisayar	oynamaya	devam	ettikleri	sürece	grafikler	her	geçen	gün	daha	iyiye	gidecektir	.
+bu	nedenle	eve	gidince	,	çocuklarınıza	bilgisayarda	oyun	oynamalarını	söyleyin	.	çünkü	ihtiyacımız	olan	şey	bu	.
+bakın	,	bu	makinenin	içinde	tıbbi	verilerle	yaptığım	bu	işleri	yapmamı	sağlayan	düzenek	mevcut	.
+aslında	_UNK_	bu	ufak	müthiş	cihazlar	.
+biliyorsunuz	ya	,	geçmişe	gidecek	olursak	belki	de	10	yıl	geriye	,	ilk	grafik	bilgisayarımı	almamı	sağlayan	ödeneği	aldığım	zamana	.	o	zamanlar	bunlar	dev	gibi	_UNK_	.
+_UNK_	,	_UNK_	kocaman	_UNK_	.
+bu	makine	için	yaklaşık	bir	milyon	dolar	_UNK_	.
+bu	makine	,	yaklaşık	benim	bugün	kullandığım	iphone	hızında	.
+her	ay	yeni	bir	görüntü	kartı	piyasaya	çıkıyor	.	burada	tedarikçilerin	son	makinelerinden	örnekler	var	--	_UNK_	,	_UNK_	,	intel	de	bunlardan	biri	.
+biliyorsunuz	,	birkaç	yüz	dolar	verirseniz	bunlardan	birini	alıp	evdeki	bilgisayarınıza	_UNK_	ve	bu	görüntü	kartları	ile	muhteşem	şeyler	yapabilirsiniz	.
+bizim	,	tıp	alanındaki	patlama	yapan	veri	ile	_UNK_	sağlayan	şey	bu	,	algoritma	içeren	hoş	birkaç	iş	ile	birlikte	--	veri	sıkıştırma	ve	_UNK_	anlamlı	veriyi	diğerlerinin	arasından	bulma	.
+size	neler	_UNK_	ilişkin	birkaç	örnek	vermek	istiyorum	.
+bu	veri	seti	bir	bt	tarayıcı	kullanılarak	elde	edildi	.
+bunun	eksiksiz	bir	veri	olduğunu	görüyorsunuz	.
+o	bir	kadın	.	saçları	görebiliyorsunuz	.
+kadının	vücudunun	detaylarını	seçebilirsiniz	.
+burada	,	dişlerde	x	-	ışını	_UNK_	görebilirsiniz	,	bunlar	_UNK_	metaller	.
+bu	artifaktlar	buradan	geliyor	.
+ama	aynen	normal	bir	bilgisayardaki	standart	bir	grafik	kartı	gibi	,	verileri	bir	klip	haline	getirebilirim	.
+elbette	bütün	veri	burada	,	içinde	.	böylece	sağa	sola	çevirebilir	,	istediğim	açılardan	bakabilirim	.	bakınca	bu	kadının	bir	sorunu	olduğunu	görebiliyorum	.
+beyninde	bir	kanama	var	.	ufak	bir	stent	ile	tamir	edilmiş	,	yani	damarı	_UNK_	bir	metal	_UNK_	.
+fonksiyonları	değiştirerek	,	neyin	saydam	olacağını	,	neyin	görünür	olacağını	ayarlayabilirim	.
+kafatasının	yapısına	bakabilirim	,	bu	kadının	kafatasını	açtıkları	yeri	görebilirim	,	ve	işte	beyine	buradan	_UNK_	.
+yani	bunlar	muhteşem	görüntüler	.
+yüksek	çözünürlüklü	görüntüler	,	ve	bugün	standart	bir	grafik	kartı	ile	neler	yapabileceğimizi	gösteriyorlar	.
+bunları	pekçok	yerde	kullandık	ve	sisteme	epey	veri	yüklemeye	çalıştık	.
+üzerinde	uğraştığımız	uygulamalardan	biri	de	--	ki	bu	dünya	çapında	epey	ilgi	çekti	--	bu	verilerin	sanal	_UNK_	kullanılması	.
+anımsayın	,	çok	ama	çok	büyük	veri	_UNK_	baktınız	ve	bizim	bu	tüm	-	vücut	taraması	ile	neler	yapabildiğimizi	gördünüz	.
+vücudu	bir	bütün	olarak	bt	tarayıcısından	geçiriyoruz	,	ve	birkaç	saat	içinde	tüm	-	vücut	veri	seti	elde	edebiliyoruz	.
+bu	görüntü	,	bir	sanal	_UNK_	.
+nasıl	kat	kat	_UNK_	görebiliyorsunuz	.
+i̇lk	gördüğünüz	vücudun	içinde	geldiği	ceset	torbası	,	sonra	deriyi	soyuyorum	--	kasları	görebilirsiniz	--	sonunda	bu	kadının	kemiklerine	kadar	ineceksiniz	.
+bu	noktada	,	size	şimdi	göstereceğim	kişilerin	görüntülerine	büyük	bir	saygı	duyduğumu	belirtmek	isterim	.	size	birkaç	sanal	otopsi	örneği	göstereceğim	--	göstereceğim	örneklerde	yer	alan	vahşice	öldürülen	bu	insanlara	büyük	saygı	duyduğumu	belirtmek	isterim	.
+adli	bir	vakada	--	ki	geçtiğimiz	dört	yıl	içinde	benim	de	yaşadığım	i̇sveç'in	bu	bölgesinde	her	yıl	sanal	otopsi	yapılan	yaklaşık	400	vaka	mevcut	.
+bu	_UNK_	tipik	iş	akışı	şöyledir	.
+polis	akşamdan	vakalara	karar	verir	bir	vaka	geldiğinde	--	tamam	derler	,	bu	otopsi	yapılması	gereken	bir	vaka	.
+böylece	,	sabahleyin	,	saat	6	ile	7	arasında	cesetler	,	ceset	torbalarının	içinde	merkezimize	getirilirler	ve	bt	_UNK_	biri	ile	_UNK_	.
+daha	sonra	radyolog	ve	patolog	,	bazen	de	adli	tıp	uzmanı	bir	araya	gelirler	ve	çıkan	verilere	bakarlar	.
+ancak	bundan	sonra	vakaya	gerçek	otopsi	yapıp	yapmamaya	karar	verilir	.
+birkaç	örnek	vakaya	beraber	bakalım	.	bu	ilk	_UNK_	biri	.
+veri	setinin	detaylarını	gerçekten	de	görebilirsiniz	;
+çok	yüksek	çözünürlükte	.	tüm	detaylara	yakın	görüş	imkanı	sağlayan	şey	bizim	algoritmalarımız	.
+tekrar	belirteyim	,	bunlar	tamamen	interaktif	,	yani	buradaki	sistemleri	döndürebilir	ve	istediğiniz	şeye	gerçek	zamanlı	olarak	bakabilirsiniz	.
+bu	vaka	hakkında	çok	birşey	söylemeye	gerek	yok	,	bu	bir	trafik	kazası	,	alkollü	bir	sürücü	bu	kadına	çarpmış	.
+kemik	_UNK_	hasarı	görmek	çok	ama	çok	kolay	.
+ölüm	nedeni	boyun	kırılması	.
+aynı	zamanda	araba	bu	kadının	üzerinden	de	geçmiş	,	bu	kaza	gerçekten	onu	çok	ciddi	şekilde	_UNK_	.
+bu	başka	bir	vaka	,	bir	bıçaklanma	.
+bu	vaka	da	neler	yapabileceğimizi	çok	iyi	gösteriyor	.
+vücut	içinde	kalan	metal	kalıntılarına	bakmamız	çok	kolay	.
+dişlerde	de	bazı	artifaktlar	görüyorsunuz	--	bunlar	diş	dolguları	--	bunları	görüyorsunuz	çünkü	_UNK_	sadece	metalleri	gösterecek	ve	bunun	dışındaki	herşeyi	_UNK_	hale	getirdim	.
+bu	bir	başka	şiddet	vakası	.	bu	kişiyi	öldüren	şey	bu	değil	.
+bu	kişi	,	kalbinden	_UNK_	için	ölmüş	,	ama	katiller	işleri	bitince	bıçağı	göz	_UNK_	birine	_UNK_	bırakmışlar	.
+bu	başka	bir	vaka	.
+bizim	için	,	bu	tip	bıçaklanma	olaylarına	böyle	bakabiliyor	olmak	çok	ilginç	.
+burada	_UNK_	kalbi	nasıl	_UNK_	görüyorsunuz	.
+havanın	bir	taraftan	diğer	tarafa	sızdığını	görmek	çok	kolay	.	ki	bunu	görmek	standart	bir	otopside	çok	zordur	.
+bu	teknik	,	adli	_UNK_	ölüm	nedenini	bulma	konusunda	çok	ama	çok	yardımcı	olup	,	bazı	vakalarda	soruşturmanın	doğru	yöne	gitmesini	sağlayarak	katilin	bulunmasına	yardımcı	oluyor	.
+benim	ilginç	bulduğum	bir	başka	vaka	.
+burada	,	bu	kişinin	_UNK_	_UNK_	olan	bu	kurşunu	görebiliyorsunuz	.
+yaptığımız	kurşunu	bir	ışık	kaynağı	haline	getirmek	,	böylece	ışıldıyor	ve	onu	bu	parçalar	arasında	bulmak	kolaylaşıyor	.
+fiziksel	bir	otopside	,	bu	parçaları	bulmak	için	organların	arasını	_UNK_	gerekir	,	ki	bu	oldukça	zor	bir	şeydir	.
+bugün	,	burada	size	göstermekten	mutluluk	duyduğum	şeylerden	biri	de	bizim	sanal	otopsi	masamız	.
+bu	algoritmaları	baz	alarak	ve	standart	grafik	_UNK_	kullanarak	geliştirdiğimiz	bir	dokunmatik	cihaz	.
+aslında	şöyle	birşey	,	size	nasıl	olduğunu	anlatmak	istiyorum	.
+dev	bir	iphone	gibi	çalışıyor	aslında	.
+bir	masada	yapacağınız	tüm	hareketleri	buna	_UNK_	.	bunu	dev	bir	dokunmatik	arayüz	olarak	düşünün	.
+yani	eğer	bir	ipad	almayı	_UNK_	,	boşverin	,	onun	yerine	bunu	alın	.
+steve	,	umarım	sen	de	_UNK_	bunu	.
+yani	bu	çok	hoş	bir	cihaz	.
+eğer	bir	fırsat	bulursanız	mutlaka	deneyin	.
+bizzat	yaşanması	gereken	bir	deneyim	.
+biraz	ilgi	yarattık	,	şimdi	bunu	yaygınlaştırmaya	ve	eğitim	amaçlı	kullanılmasını	sağlamaya	çalışıyoruz	,	hatta	ileride	belki	klinik	ortamda	da	kullanılabilir	.
+bu	bilgiyi	başkaları	ile	de	paylaşmak	isterseniz	you	_UNK_	sanal	_UNK_	ilgili	bir	video	var	,	izleyebilir	veya	yükleyebilirsiniz	.
+peki	,	dokunmaktan	bahsediyorduk	,	veriye	gerçekten	dokunmaya	geçelim	.
+bunun	biraz	bilim	kurgu	gibi	göründüğünü	biliyorum	,	işte	şimdi	geleceğe	doğru	bakıyoruz	.
+bu	,	doktorların	şu	an	kullanmakta	olduğu	bir	şey	değil	,	ama	umuyorum	gelecekte	olacak	.
+solda	gördüğünüz	bir	dokunmatik	cihaz	.
+küçük	mekanik	bir	kalem	.	bu	kalemin	içinde	çok	hızlı	step	motorları	var	,
+böylelikle	bir	güç	_UNK_	bulunabiliyor	.
+yani	gerçek	anlamda	veriye	dokunduğum	zaman	,	bu	,	_UNK_	dokunma	kuvvetleri	yaratacak	,	ve	ben	bir	geribildirim	alacağım	.
+bu	örnekte	,	veri	,	yaşayan	bir	insanın	_UNK_	.
+elimde	bu	kalemle	veriye	bakıyorum	,	kalemi	kafaya	doğru	yaklaştırıyorum	,	birden	bir	engel	hissediyorum	elimde	.
+böylelikle	deriyi	hissedebiliyorum	.
+biraz	daha	kuvvetle	bastırırsam	,	deriyi	geçebilirim	,	ve	içerideki	kemik	yapıyı	hissedebilirim	.
+daha	da	hızlı	bastırırsam	,	kemik	yapının	da	içine	girebilirim	,	özellikle	de	kemiğin	yumuşak	olduğu	kulağa	yakın	_UNK_	.
+daha	sonra	içerideki	beyin	dokusunu	hissedebilirim	,	böyle	yumuşak	bir	hissi	olacaktır	.
+bu	gerçekten	çok	güzel	.
+daha	da	ileri	gidecek	olursak	,	bu	kalp	.
+gene	bu	yeni	tarayıcılar	sayesinde	,	sadece	_UNK_	saniyede	tüm	kalbi	tarayabilirim	.	bunu	zaman	çözünürlüklü	yapabilirim	.
+böylece	kalbe	bakarken	,	bu	videoyu	_UNK_	.
+bu	_UNK_	,	bu	projede	çalışan	doktora	öğrencilerimden	biri	.
+burada	,	_UNK_	cihazının	,	bu	güç	_UNK_	cihazının	önünde	oturuyor	,	elindeki	kalemi	kalbe	yaklaştırıyor	,	şu	an	kalp	önünde	atıyor	,	böylelikle	kalbin	nasıl	attığını	görebiliyor	.
+kalemi	_UNK_	alıp	kalbe	doğru	yaklaştırıyor	,	kalbe	dokunuyor	,	ve	yaşayan	bir	hastanın	kalp	atışlarını	hissedebiliyor	.
+böylece	kalbin	hareketlerini	inceleyebilir	.
+kalbin	içine	girip	,	içeriden	dokunabilir	,	ve	kalp	kapaklarının	nasıl	hareket	ettiğini	hissedebilir	.
+bence	bu	,	kalp	cerrahlarının	geleceği	.
+büyük	ihtimalle	kalp	cerrahlarının	_UNK_	bu	cihaz	_UNK_	,	ameliyat	yapmadan	önce	,	hastanın	kalbinin	içine	girip	bakmak	,	hem	de	yüksek	çözünürlüklü	veri	ile	.
+gerçekten	fantazi	.
+şimdi	bilim	kurgu	alanına	biraz	daha	girelim	.
+daha	önce	işlevsel	mri	ile	ilgili	birşeyler	duymuştuk	.
+şimdi	bu	gerçekten	ilginç	bir	proje	.
+mri	,	beyni	ya	da	vücudun	herhangi	bir	yerini	görüntüleyebilmek	için	radyo	dalgaları	ya	da	manyetik	alanlar	kullanıyor	.
+burada	bizim	esas	elde	ettiğimiz	şey	beynin	yapısına	ait	bilgi	elde	etmek	.	fakat	,	aynı	zamanda	oksijen	bakımından	zengin	kan	ile	oksijeni	az	olan	kan	arasındaki	manyetik	özellikler	farkını	da	ölçebiliriz	.
+bu	demek	oluyor	ki	,	beyin	faaliyetlerinin	haritasını	çıkarabiliriz	.
+şu	anda	üzerinde	çalıştığımız	şey	bu	.
+burada	gördüğünüz	motts	,	bizim	araştırma	mühendisimiz	mri	cihazına	giriyor	.	gözünde	gözlükler	var	.
+bu	_UNK_	,	tarayıcı	içindeyken	görebilir	,
+ben	de	ona	_UNK_	birşeyler	gösterebilirim	.
+bu	biraz	ürkütücü	,	çünkü	motts	aslında	bunu	görüyor	.
+kendi	beynini	.
+motts	burada	birşeyler	yapıyor	.	muhtemelen	sağ	eliyle	böyle	yapıyor	,	çünkü	sol	taraf	motor	korteks	tarafından	aktif	durumda	.
+aynı	zamanda	bunu	da	görebiliyor	.
+bu	görseller	çok	yeni	.
+son	zamanlarda	araştırdığımız	şeylerden	biri	de	bu	.
+bu	gördüğünüz	_UNK_	beyninin	bir	başka	aktivitesi	.
+burada	_UNK_	100'den	başlayarak	geriye	_UNK_	istedik	.
+``	100	,	97	,	94	...	.	``	diye	sayıyor	.
+geriye	doğru	_UNK_	,
+beynin	_UNK_	ufak	matematik	_UNK_	çalıştığını	ve	bütün	beyni	aydınlattığını	görebilirsiniz	.
+muhteşem	bir	şey	.	gerçek	zamanlı	olarak	yapabiliriz	bunu	.
+bazı	şeyleri	_UNK_	.	ona	birşeyler	yapmasını	söyleyebiliriz	.
+_UNK_	amanda	kafasının	arka	kısmındaki	görme	alanının	da	aktif	hale	geldiğini	görüyorsunuz	,	çünkü	baktığı	şey	bu	,	kendi	beynine	bakıyor	.
+aynı	zamanda	biz	ona	birşeyler	yapmasını	söylediğimizde	bizim	_UNK_	da	duyuyor	.
+bu	sinyal	beynin	epey	derinlerinde	olmasına	rağmen	,	ışıltısı	görülebiliyor	,	bunun	nedeni	buradaki	yüksek	veri	miktarı	.
+biraz	sonra	şunu	göreceksiniz	--	tamam	,	burada	.	motts	sol	ayağını	oynatıyor	.
+böyle	yapıyor	.
+20	saniye	boyunca	böyle	yapıyor	,	birden	yukarılarda	bir	yer	ışıldamaya	başlıyor	.
+burada	aktive	olan	yer	motor	korteks	.
+bu	gerçekten	çok	ama	çok	hoş	.	ve	bence	müthiş	bir	cihaz	.
+bir	önceki	konuşmaya	bir	bağlantı	yapacak	olursam	,	bu	sinir	hücrelerinin	,	beynin	nasıl	çalıştığını	gerçekten	de	anlamamıza	yarayacak	bir	cihaz	.	ve	bunu	çok	ama	çok	iyi	bir	çözünürlükle	ve	görüntü	kalitesiyle	yapabiliriz	.
+bizim	merkezimizde	arada	eğlendiğimiz	zamanlar	da	oluyor	.
+bu	bir	bilgisayar	destekli	tomografi	.
+bu	yerel	hayvanat	bahçesinden	bir	aslan	,	_UNK_	heme	dışından	,	_UNK_	,	_UNK_	.
+bizim	merkezimize	geldi	,	onu	_UNK_	ve	hemen	tarayıcının	içine	koydular	.
+elbette	,	bu	_UNK_	ait	tüm	veri	setini	ben	de	edindim	.
+ve	bu	verilerle	çok	hoş	görüntüler	elde	edebilirim	.
+aslanın	üzerinden	bir	tabaka	_UNK_	.
+onun	içine	bakabilirim	.
+bununla	epey	bir	deney	yaptık	.
+bence	,	bu	cihaz	,	bu	teknolojinin	geleceği	için	çok	önemli	.	çünkü	,	hayvan	anatomisi	hakkında	çok	az	şey	biliniyor	.
+veterinerler	,	çok	basit	ve	temel	şeyleri	biliyorlar	.
+her	şeyi	tarayıcıya	_UNK_	,	her	tür	hayvanı	.
+tek	sorun	makineye	_UNK_	.
+burada	bir	ayı	var	.
+makineye	sokmak	biraz	zor	oldu	.
+ayı	sevecen	,	yumoş	bir	hayvan	değil	mi	?
+i̇şte	burada	.	ayının	burnunu	görüyorsunuz	.
+ama	fonksiyonları	değiştirip	de	öyle	bakarsanız	onu	artık	pek	yumoş	_UNK_	.
+ayılara	dikkat	edin	.
+bu	noktada	,	bu	görüntüleri	_UNK_	yardımcı	olan	herkese	çok	teşekkür	etmek	istiyorum	.
+bunu	yapmak	çok	büyük	bir	emek	gerektirdi	,	verileri	toplamak	,	algoritmaları	geliştirmek	,	bütün	bu	yazılımı	yapmak	.
+hepsi	çok	yetenekli	insanlar	.
+benim	_UNK_	her	zaman	,	benden	daha	zeki	insanları	işe	almak	olmuştur	ve	bu	kişilerin	çoğu	benden	çok	daha	zeki	.
+hepinize	çok	teşekkür	ederim	.
+

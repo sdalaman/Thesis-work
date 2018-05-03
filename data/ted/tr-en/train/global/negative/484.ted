@@ -1,0 +1,175 @@
+zaman_tr akıyor_tr ._tr
+bilgiyi_tr kullanma_tr ve_tr birlikte_tr çalışma_tr yolumuzu_tr yeniden_tr düzenlemek_tr için_tr dünya_tr çapında_tr ağ'ı_tr icat_tr etmemin_tr üzerinden_tr neredeyse_tr 20_tr yıl_tr geçmiş_tr ._tr
+şimdi_tr ,_tr 20_tr yıl_tr sonra_tr ,_tr ted'de_tr yeni_tr bir_tr düzenleme_tr için_tr yardımınızı_tr istiyorum_tr ._tr
+1989'a_tr döndüğümüzde_tr ,_tr ben_tr global_tr hipermetin_tr sistemini_tr öneren_tr bir_tr bildiri_tr yazdım_tr ._tr
+neredeyse_tr hiç_tr kimse_tr ilgilenmedi_tr ._tr
+fakat_tr ,_tr 18_tr ay_tr sonra_tr --_tr ki_tr yenilikler_tr böyle_tr olur_tr --_tr 18_tr ay_tr sonra_tr ,_tr patronum_tr ,_tr bunu_tr yeni_tr bilgisayarımız_tr üzerinde_tr test_tr etmek_tr için_tr ,_tr bir_tr tür_tr yan_tr uğraş_tr olarak_tr yapabileceğimi_tr söyledi_tr ._tr
+ve_tr bana_tr onu_tr _UNK__tr için_tr zaman_tr tanıdı_tr ._tr
+temelde_tr _UNK__tr nasıl_tr olması_tr gerektiğini_tr _UNK__tr ,_tr hipermetin_tr protokolü_tr --_tr http_tr --_tr _UNK__tr fikri_tr --_tr şeyler_tr için_tr isimler_tr http_tr ile_tr başladı_tr ._tr
+kodu_tr yazdım_tr ve_tr ortaya_tr koydum_tr ._tr
+neden_tr yaptım_tr ?_tr
+aslında_tr temeli_tr kafa_tr _UNK__tr ._tr
+kafam_tr karışmıştı_tr --_tr o_tr ilginç_tr ve_tr kocaman_tr laboratuvarda_tr bir_tr yazılım_tr _UNK__tr ,_tr dünyanın_tr her_tr yanından_tr birçok_tr insan_tr geliyordu_tr ._tr
+her_tr türden_tr farklı_tr bilgisayarları_tr kendileriyle_tr getiriyorlardı_tr ._tr
+herbirinin_tr farklı_tr veri_tr formatları_tr vardı_tr ._tr her_tr türden_tr farklı_tr _UNK__tr sistemleri_tr ._tr
+tüm_tr bu_tr çeşitlilik_tr içinde_tr ne_tr zaman_tr bir_tr parça_tr şundan_tr bir_tr parça_tr bundan_tr bir_tr şeyler_tr oluşturmak_tr istesem_tr baktığım_tr her_tr şeyde_tr ,_tr yeni_tr bir_tr makineye_tr bağlanmak_tr ,_tr yeni_tr bir_tr programın_tr nasıl_tr çalışacağını_tr öğrenmek_tr zorundaydım_tr ,_tr bana_tr gereken_tr bilgiyi_tr farklı_tr bir_tr veri_tr formatında_tr buluyordum_tr ._tr
+ve_tr hepsi_tr birbiriyle_tr uyumsuzdu_tr ._tr
+çok_tr sinir_tr bozucuydu_tr ._tr
+tüm_tr bu_tr kafa_tr karışıklığı_tr bu_tr potansiyelin_tr kilidini_tr açtı_tr ._tr
+aslında_tr tüm_tr o_tr _UNK__tr üzerinde_tr dokümanlar_tr vardı_tr ._tr
+yani_tr hepsinin_tr uzayda_tr ,_tr büyük_tr ,_tr sanal_tr bir_tr _UNK__tr sisteminin_tr ,_tr farz_tr edin_tr ki_tr internetin_tr ,_tr bir_tr parçası_tr olduğunu_tr düşünürseniz_tr ,_tr hayat_tr daha_tr kolay_tr olurdu_tr ._tr
+aklınıza_tr böyle_tr bir_tr fikir_tr girdikten_tr sonra_tr rahat_tr durmanız_tr mümkün_tr değil_tr hatta_tr insanlar_tr _UNK__tr _UNK__tr bile_tr --_tr aslında_tr okudu_tr ,_tr o_tr öldükten_tr sonra_tr onun_tr kopyası_tr bulundu_tr ._tr
+köşeye_tr şöyle_tr yazmıştı_tr :_tr "_tr muğlak_tr ,_tr ama_tr heyecan_tr verici_tr "_tr ._tr
+ama_tr genelde_tr zordu_tr ,_tr ağın_tr neye_tr benzediğini_tr açıklamak_tr gerçekten_tr zordu_tr ._tr
+şimdilerde_tr insanlara_tr anlatmak_tr ne_tr kadar_tr _UNK__tr o_tr zaman_tr da_tr öyleydi_tr ._tr
+fakat_tr yine_tr de_tr --_tr pekala_tr ,_tr ted_tr başladığında_tr ağ_tr yoktu_tr tıklamak_tr gibi_tr şeyler_tr bir_tr anlam_tr ifade_tr etmiyordu_tr ._tr
+birine_tr bir_tr hipermetin_tr gösterebilirim_tr ,_tr linkleri_tr olan_tr bir_tr sayfa_tr ,_tr ve_tr linke_tr _UNK__tr ,_tr hop_tr --_tr başka_tr bir_tr hipermetin_tr sayfası_tr açılır_tr ._tr
+etkileyici_tr değil_tr ._tr
+biliyorsunuz_tr biz_tr bunu_tr daha_tr önce_tr gördük_tr ,_tr cdler_tr üzerinde_tr hipermetin_tr vardı_tr ._tr
+zor_tr olan_tr onları_tr şöyle_tr hayal_tr etmekti_tr ._tr farz_tr edin_tr ki_tr bu_tr bağlantı_tr gerçekte_tr aklınıza_tr gelebilecek_tr her_tr _UNK__tr olabilsin_tr ._tr
+pekala_tr ,_tr işte_tr insanlar_tr için_tr yapması_tr çok_tr zor_tr olan_tr sıçrayış_tr buydu_tr ._tr
+doğrusu_tr ,_tr bazıları_tr yaptı_tr ._tr
+buna_tr rağmen_tr ,_tr evet_tr ,_tr açıklaması_tr zordu_tr ama_tr tabandan_tr gelen_tr bir_tr hareket_tr vardı_tr ._tr
+i̇şte_tr onu_tr eğlenceli_tr yapan_tr buydu_tr ._tr
+en_tr heyecanlı_tr kısmı_tr buydu_tr ,_tr teknolojinin_tr kendisi_tr değil_tr ,_tr insanların_tr o_tr teknolojiyle_tr yaptıkları_tr değil_tr ,_tr aslında_tr _UNK__tr ,_tr biraraya_tr gelen_tr ,_tr _UNK__tr yollayan_tr tüm_tr o_tr insanların_tr _UNK__tr ._tr
+o_tr zamanlar_tr böyleydi_tr ._tr
+biliyor_tr musunuz_tr ?_tr çok_tr komik_tr ,_tr ama_tr şimdi_tr durum_tr yine_tr aynen_tr öyle_tr ._tr
+aşağı_tr yukarı_tr herkese_tr ,_tr dokümanlarını_tr koymalarını_tr söyledim_tr --_tr dedim_tr ki_tr "_tr dokümanlarını_tr internete_tr koyar_tr mısınız_tr ?_tr "_tr
+ve_tr koydunuz_tr ._tr
+teşekkürler_tr ._tr
+harika_tr zamanlardı_tr ,_tr değil_tr mi_tr ?_tr
+demek_tr istediğim_tr ,_tr çok_tr ilginçti_tr çünkü_tr internetle_tr birlikte_tr olanlar_tr bizi_tr gerçekten_tr son_tr derece_tr şaşırttı_tr ._tr
+başladığımız_tr ilk_tr web_tr sitesini_tr açtıktan_tr sonra_tr olanlar_tr aslen_tr hayal_tr ettiğimizden_tr çok_tr daha_tr fazlasıydı_tr ._tr
+şimdi_tr verilerinizi_tr internete_tr koymanızı_tr istiyorum_tr ._tr
+görünen_tr o_tr ki_tr halen_tr açılmayı_tr bekleyen_tr büyük_tr bir_tr potansiyel_tr var_tr ._tr
+halen_tr insanların_tr kafası_tr çok_tr karışık_tr çünkü_tr internete_tr koyduğumuz_tr veri_tr veri_tr değil_tr
+ne_tr demek_tr bu_tr şimdi_tr ?_tr fark_tr nedir_tr --_tr dokümanlar_tr ,_tr veri_tr ?_tr
+dokümanları_tr okursunuz_tr ,_tr değil_tr mi_tr ?_tr
+öyle_tr ya_tr da_tr böyle_tr ,_tr okursunuz_tr ,_tr üzerlerine_tr takip_tr linkleri_tr koyarsınız_tr ve_tr bundan_tr ibarettir_tr ._tr
+veri_tr --_tr bilgisayarla_tr her_tr türlü_tr şeyi_tr yapabilirsiniz_tr ._tr
+i̇çinizden_tr kimler_tr hans_tr rosling'in_tr konuşmasını_tr duydu_tr veya_tr izledi_tr ?_tr
+çok_tr harika_tr --_tr evet_tr bir_tr çok_tr insan_tr onu_tr görmüş_tr --_tr çok_tr harika_tr bir_tr ted_tr konuşmasıdır_tr ._tr
+hans_tr bir_tr sunum_tr yaptı_tr ,_tr o_tr sunumda_tr farklı_tr ülkeler_tr için_tr farklı_tr renklerde_tr bir_tr eksende_tr gelir_tr düzeylerini_tr diğerinde_tr bebek_tr ölümlerini_tr ve_tr bunların_tr zaman_tr içindeki_tr değişimini_tr gösterdi_tr ._tr
+yani_tr o_tr veri_tr topladı_tr ve_tr bir_tr sunum_tr yaptı_tr ve_tr bu_tr sunum_tr insanların_tr gelişen_tr dünya_tr ekonomisi_tr ile_tr ilgili_tr fikirlerini_tr yerle_tr bir_tr etti_tr ._tr
+buna_tr benzer_tr bir_tr şeydi_tr ._tr
+tabanında_tr sadece_tr veriler_tr vardı_tr ._tr veri_tr kahverengi_tr ,_tr kutu_tr gibi_tr ve_tr sıkıcıdır_tr ,_tr ve_tr biz_tr onu_tr öyle_tr görüyoruz_tr ,_tr değil_tr mi_tr ?_tr
+çünkü_tr doğal_tr olarak_tr veriyi_tr olduğu_tr haliyle_tr kullanamazsınız_tr ._tr fakat_tr aslında_tr ,_tr veriler_tr hayatımızda_tr olan_tr biten_tr çok_tr şeyi_tr yönlendirir_tr ve_tr öyle_tr olur_tr çünkü_tr birileri_tr bu_tr veriyi_tr alır_tr ve_tr onunla_tr bir_tr şeyler_tr yapar_tr ._tr
+bu_tr durumda_tr hans_tr ,_tr birleşik_tr devletlerdeki_tr birçok_tr siteden_tr ve_tr ordan_tr burdan_tr bu_tr verileri_tr toplayıp_tr bir_tr araya_tr getirdi_tr ._tr
+onları_tr bir_tr araya_tr koydu_tr ,_tr ve_tr orijinal_tr bileşenlerinden_tr daha_tr ilginç_tr bir_tr şey_tr oluşturdu_tr ve_tr onu_tr sanırım_tr ilk_tr kez_tr oğlunun_tr geliştirdiği_tr bu_tr yazılımın_tr içine_tr koydu_tr ,_tr ve_tr o_tr harika_tr sunumu_tr üretti_tr ._tr
+ve_tr hans_tr bir_tr noktaya_tr değindi_tr "_tr bakın_tr ,_tr birçok_tr verinin_tr olması_tr gerçekten_tr önemlidir_tr ._tr "_tr
+ve_tr geçen_tr akşamki_tr partide_tr onu_tr gördüğümde_tr onun_tr halen_tr ,_tr zorla_tr da_tr olsa_tr ,_tr "_tr birçok_tr verinin_tr olması_tr gerçekten_tr önemlidir_tr "_tr demesi_tr beni_tr mutlu_tr etti_tr ._tr
+şimdi_tr kafa_tr yormanızı_tr istediğim_tr şey_tr ,_tr iki_tr parça_tr veya_tr o'nun_tr yaptığı_tr gibi_tr altı_tr parça_tr verinin_tr bağlanması_tr değil_tr ,_tr düşünmek_tr istediğim_tr ,_tr herkesin_tr internete_tr veri_tr koyduğu_tr bir_tr dünya_tr ve_tr böylece_tr aslında_tr aklınıza_tr gelen_tr her_tr şeyin_tr internette_tr olması_tr ,_tr ve_tr buna_tr "_tr bağlı_tr veri_tr "_tr demektir_tr ._tr
+teknoloji_tr bağlı_tr veridir_tr ve_tr son_tr derece_tr basittir_tr ._tr
+eğer_tr internete_tr bir_tr şey_tr koymak_tr istiyorsanız_tr ,_tr ü_tr ç_tr kural_tr var_tr :_tr ilki_tr ,_tr bu_tr http_tr isimleri_tr --_tr "_tr http_tr :_tr "_tr ile_tr başlayan_tr o_tr şeyler_tr --_tr artık_tr onları_tr sadece_tr dokümanlar_tr için_tr değil_tr ,_tr dokümanların_tr ne_tr hakkında_tr olduğu_tr için_tr de_tr kullanacağız_tr ._tr
+onları_tr insanlar_tr için_tr ve_tr mekanlar_tr için_tr kullanacağız_tr ,_tr ürünler_tr için_tr kullanacağız_tr ,_tr etkinlikler_tr için_tr kullanacağız_tr ._tr
+tüm_tr kavramsal_tr şeyler_tr ,_tr onların_tr artık_tr http_tr ile_tr başlayan_tr isimleri_tr olacak_tr ._tr
+i̇kinci_tr kural_tr ,_tr eğer_tr ben_tr bu_tr http_tr isimlerinden_tr birini_tr alıp_tr ,_tr arayıp_tr ve_tr onunla_tr bağlama_tr şeyini_tr yapıp_tr ve_tr veriyi_tr http_tr _UNK__tr kullanarak_tr alırsam_tr standart_tr formatta_tr bir_tr veri_tr elde_tr edeceğim_tr ve_tr bu_tr birilerinin_tr bu_tr şey_tr ,_tr bu_tr etkinlik_tr hakkında_tr bilmek_tr isteyeceği_tr işe_tr yarar_tr bir_tr veri_tr olacak_tr ._tr
+kim_tr vardı_tr etkinlikte_tr ?_tr o_tr kişinin_tr nerede_tr doğduğu_tr gibi_tr ne_tr kadar_tr veri_tr filan_tr varsa_tr ._tr
+yani_tr ikinci_tr kural_tr bilgiyi_tr geri_tr alıyorum_tr ._tr
+üçüncü_tr kural_tr ,_tr ben_tr bu_tr bilgiyi_tr geri_tr aldığımda_tr o_tr sadece_tr birinin_tr boyu_tr ,_tr kilosu_tr ve_tr nerede_tr doğduğu_tr bilgisinden_tr ibaret_tr değil_tr ,_tr onun_tr bağları_tr olmalı_tr ._tr
+veriler_tr bağlardır_tr ._tr
+i̇lginç_tr biçimde_tr ,_tr veriler_tr bağlardır_tr ._tr
+bu_tr kişi_tr berlin'de_tr doğdu_tr ,_tr berlin_tr almanya'da_tr ._tr
+ve_tr bağlar_tr olduğunda_tr ,_tr ne_tr zaman_tr bir_tr bağ_tr bilgisi_tr _UNK__tr bağlı_tr olduğu_tr diğer_tr şeyin_tr de_tr bu_tr http_tr ile_tr başlayan_tr bir_tr ismi_tr olmalıdır_tr ._tr
+yani_tr gidip_tr bu_tr şeyi_tr _UNK__tr ._tr
+böyle_tr bir_tr insanı_tr aradığımda_tr --_tr doğduğu_tr _UNK__tr ,_tr ilin_tr içinde_tr olduğu_tr bölgeyi_tr ilin_tr _UNK__tr ve_tr il_tr nüfusunu_tr ,_tr ve_tr benzeri_tr şeyleri_tr _UNK__tr ._tr
+yani_tr şeyleri_tr tarayabilirim_tr ._tr
+aslında_tr bundan_tr ibaret_tr ._tr
+bu_tr bağlı_tr veridir_tr ._tr
+birkaç_tr yıl_tr önce_tr "_tr bağlı_tr veri_tr "_tr başlıklı_tr bir_tr makale_tr yazdım_tr ve_tr ondan_tr sonra_tr bir_tr şeyler_tr olmaya_tr başladı_tr ._tr
+bağlı_tr veri_tr fikri_tr ,_tr hans_tr gibi_tr bizim_tr de_tr bu_tr kutulara_tr ve_tr onlardan_tr filizlenen_tr çok_tr ama_tr birçok_tr şeylere_tr sahip_tr olduğumuzdur_tr ._tr
+sadece_tr diğer_tr bitkilerden_tr bir_tr demet_tr değildir_tr ._tr
+sadece_tr filizlenen_tr bir_tr _UNK__tr değildir_tr ,_tr fakat_tr tüm_tr bu_tr bitkiler_tr ,_tr onlar_tr her_tr neyse_tr artık_tr ,_tr bir_tr sunum_tr ,_tr bir_tr analiz_tr ,_tr birilerinin_tr veride_tr kalıplar_tr araması_tr --_tr onların_tr tüm_tr veriye_tr bakmaları_tr ve_tr onları_tr bir_tr araya_tr getirmeleri_tr ,_tr ve_tr veriyle_tr ilgili_tr en_tr önemli_tr şey_tr ,_tr ne_tr kadar_tr çok_tr bir_tr araya_tr getirirseniz_tr ,_tr o_tr kadar_tr güçlü_tr olduğudur_tr ._tr
+i̇şte_tr ,_tr bağlı_tr veri_tr ._tr
+bu_tr mem_tr öylece_tr yayıldı_tr ._tr
+bir_tr süre_tr sonra_tr _UNK__tr _UNK__tr üniversitesi'nden_tr ilginç_tr şeyleri_tr dile_tr getiren_tr ilk_tr kişilerden_tr biri_tr olan_tr chris_tr _UNK__tr ,_tr vikipedi'yi_tr fark_tr etti_tr --_tr vikipedi'yi_tr bilirsiniz_tr ,_tr çevrimiçi_tr ansiklopedi_tr onun_tr içinde_tr birçok_tr ilginç_tr dokümanlar_tr var_tr ._tr
+bu_tr dokümanların_tr içinde_tr ,_tr ufak_tr kareler_tr var_tr ,_tr ufak_tr _UNK__tr ._tr
+ve_tr bilgi_tr _UNK__tr çoğunda_tr veriler_tr var_tr ._tr
+ve_tr o_tr vikipedi'den_tr bu_tr verileri_tr toplayan_tr bir_tr program_tr yazdı_tr ve_tr onu_tr internette_tr dbpedia_tr adını_tr verdiği_tr bir_tr bağlı_tr veri_tr havuzuna_tr koydu_tr
+dbpedia_tr bu_tr slaytın_tr ortasındaki_tr mavi_tr damla_tr ile_tr gösterilmiştir_tr ve_tr eğer_tr gerçekten_tr gidip_tr _UNK__tr ararsanız_tr ,_tr başka_tr veri_tr damlaları_tr olduğunu_tr görürsünüz_tr ve_tr onlarda_tr da_tr berlin_tr hakkında_tr şeyler_tr var_tr ve_tr birbirine_tr bağlılar_tr ._tr
+yani_tr eğer_tr _UNK__tr berlin_tr hakkında_tr veri_tr çekerseniz_tr diğer_tr bütün_tr şeyleri_tr de_tr çekmiş_tr olursunuz_tr ._tr
+ve_tr işin_tr heyecanlı_tr kısmı_tr o_tr giderek_tr büyüyor_tr ._tr
+bu_tr yine_tr tabandan_tr hareket_tr olayı_tr ,_tr değil_tr mi_tr ?_tr
+biraz_tr veri_tr hakkında_tr düşünelim_tr ._tr
+veri_tr çok_tr çok_tr farklı_tr formatlarda_tr geliyor_tr i̇nternetin_tr çeşitliliğini_tr düşünün_tr ,_tr internete_tr her_tr türlü_tr veriyi_tr koyabilmeniz_tr gerçekten_tr çok_tr önemli_tr bir_tr şeydir_tr ._tr
+i̇şte_tr veri_tr var_tr ._tr her_tr tür_tr veri_tr hakkında_tr konuşabilirim_tr ._tr
+hükümet_tr verileri_tr hakkında_tr konuşabiliriz_tr ,_tr kurumsal_tr veri_tr gerçekten_tr önemlidir_tr ,_tr bilimsel_tr veriler_tr var_tr ,_tr kişisel_tr veriler_tr var_tr ,_tr hava_tr verileri_tr var_tr ,_tr etkinlikler_tr hakkında_tr konuşmalar_tr hakkında_tr veri_tr var_tr ,_tr haberler_tr var_tr ve_tr bu_tr gibi_tr birçok_tr şey_tr ._tr
+sadece_tr birkaçına_tr değineceğim_tr yani_tr ne_tr kadar_tr çeşitli_tr olduğunu_tr anladınız_tr ,_tr ve_tr ne_tr kadar_tr çok_tr gizli_tr potansiyeli_tr olduğunu_tr gördünüz_tr ._tr
+hükümet_tr verileri_tr ile_tr başlayalım_tr ._tr
+barack_tr obama_tr ,_tr konuşmasında_tr amerikan_tr hükümeti_tr verilerinin_tr internette_tr erişilebilir_tr formatlarda_tr yer_tr alacağını_tr söyledi_tr ._tr
+ve_tr umuyorum_tr onu_tr bağlı_tr veri_tr olarak_tr koyarlar_tr ._tr
+bu_tr önemlidir_tr ._tr bu_tr neden_tr önemlidir_tr ?_tr
+sadece_tr saydamlık_tr için_tr değil_tr ,_tr evet_tr _UNK__tr saydamlık_tr önemlidir_tr ,_tr fakat_tr bu_tr verinin_tr --_tr tüm_tr hükümet_tr birimlerinden_tr toplanan_tr bu_tr verinin_tr --_tr ne_tr kadarının_tr amerikadaki_tr yaşam_tr hakkında_tr olduğunu_tr bir_tr düşünün_tr ._tr
+gerçekten_tr faydalıdır_tr ._tr değerlidir_tr ._tr
+onu_tr şirketimde_tr kullanabilirim_tr ._tr
+öğrenci_tr olarak_tr ödevimi_tr yaparken_tr kullanabilirim_tr ._tr
+yani_tr bu_tr veriyi_tr elverişli_tr kılarak_tr dünyayı_tr daha_tr iyi_tr bir_tr yer_tr yapmaktan_tr söz_tr ediyoruz_tr ._tr
+eğer_tr bu_tr _UNK__tr --_tr yani_tr bir_tr _UNK__tr verilerin_tr birazını_tr biliyorsanız_tr ,_tr çoğu_tr kez_tr bu_tr insanların_tr bu_tr veriyi_tr saklamak_tr istediklerini_tr görürsünüz_tr ._tr hans_tr buna_tr veritabanı_tr kucaklama_tr diyor_tr ._tr
+veritabanını_tr _UNK__tr ve_tr ona_tr güzel_tr bir_tr site_tr yapana_tr kadar_tr gitmesine_tr izin_tr _UNK__tr ._tr
+açıkçası_tr bunun_tr yerine_tr ,_tr tamam_tr ,_tr yap_tr bir_tr güzel_tr site_tr ,_tr ben_tr kimim_tr ki_tr güzel_tr site_tr yapmayın_tr diyorum_tr ?_tr
+güzel_tr bir_tr site_tr yap_tr ama_tr önce_tr bize_tr el_tr değmemiş_tr veriyi_tr ver_tr ,_tr veriyi_tr istiyoruz_tr ._tr
+el_tr değmemiş_tr ,_tr saf_tr veriyi_tr istiyoruz_tr ._tr
+artık_tr ham_tr veriyi_tr istemek_tr zorundayız_tr ._tr
+ve_tr bunu_tr denemenizi_tr istiyorum_tr ,_tr anlaştık_tr mı_tr ?_tr
+"_tr ham_tr "_tr _UNK__tr
+seyirciler_tr :_tr ham_tr
+tim_tr berners_tr -_tr lee_tr :_tr "_tr veri_tr "_tr der_tr misiniz_tr ?_tr
+seyirciler_tr :_tr veri_tr
+tbl_tr :_tr "_tr şimdi_tr "_tr der_tr misiniz_tr ?_tr
+seyirciler_tr :_tr şimdi_tr !_tr
+tbl_tr :_tr pekala_tr ,_tr şimdi_tr ham_tr veri_tr !_tr
+seyirciler_tr :_tr şimdi_tr ham_tr veri_tr !_tr
+deneyin_tr bunu_tr ._tr bu_tr önemlidir_tr çünkü_tr vatandaş_tr olarak_tr vergi_tr vermenize_tr rağmen_tr onların_tr bu_tr verileri_tr elde_tr tutmak_tr ve_tr size_tr vermemek_tr için_tr ne_tr kadar_tr çok_tr mazeret_tr ürettiğini_tr tahmin_tr bile_tr edemezsiniz_tr ._tr
+ve_tr bu_tr sadece_tr amerika_tr değil_tr ,_tr tüm_tr dünyada_tr böyle_tr ._tr
+ve_tr bu_tr sadece_tr hükümetlerde_tr böyle_tr değil_tr tabii_tr ki_tr ,_tr kurumlar_tr da_tr öyle_tr ._tr
+veri_tr üzerine_tr birkaç_tr düşünceye_tr daha_tr değineceğim_tr ._tr
+burada_tr _UNK__tr ve_tr insanlığın_tr karşılaştığı_tr çok_tr büyük_tr sorunlar_tr için_tr her_tr daim_tr _UNK__tr :_tr kanserin_tr tedavisi_tr alzheimer_tr hastalarının_tr beynini_tr anlamak_tr ,_tr biraz_tr daha_tr istikrarlı_tr yapmak_tr için_tr ekonomiyi_tr anlamak_tr ,_tr dünyanın_tr nasıl_tr işlediğini_tr anlamak_tr ._tr
+bunları_tr çözecek_tr olan_tr insanlar_tr --_tr bilim_tr insanları_tr --_tr kafalarında_tr düşünceyi_tr _UNK__tr ,_tr bunları_tr internet_tr üzerinden_tr iletmeye_tr çalışıyorlar_tr ._tr
+fakat_tr şu_tr anda_tr insan_tr ırkının_tr sahip_tr olduğu_tr bilgi_tr birikimi_tr _UNK__tr ,_tr bilgisayarlarda_tr öylece_tr duruyor_tr ,_tr ve_tr gerçekten_tr şu_tr an_tr _UNK__tr ._tr
+aslında_tr bir_tr alana_tr değineceğim_tr --_tr alzheimer'a_tr baktığınızda_tr ,_tr örneğin_tr ,_tr ilaç_tr keşfi_tr --_tr yeni_tr yeni_tr ortaya_tr çıkan_tr çok_tr fazla_tr bağlı_tr veri_tr var_tr çünkü_tr bu_tr alandaki_tr bilim_tr insanları_tr bu_tr _UNK__tr bir_tr şeyler_tr çıkarmanın_tr harika_tr bir_tr yolu_tr olduğunu_tr fark_tr ettiler_tr ,_tr çünkü_tr bir_tr veritabanında_tr genler_tr başka_tr bir_tr veritabanında_tr protein_tr verileri_tr var_tr ._tr
+ve_tr şimdi_tr buna_tr _UNK__tr --_tr bağlı_tr veri_tr --_tr ve_tr muhtemelen_tr _UNK__tr soruları_tr artık_tr _UNK__tr ._tr ben_tr değil_tr --_tr onlar_tr soracak_tr ._tr
+sinyal_tr _UNK__tr yer_tr alan_tr ve_tr ayrıca_tr _UNK__tr nöronlara_tr bağlı_tr proteinler_tr hangileridir_tr ?_tr
+bu_tr ağız_tr dolusu_tr _UNK__tr alın_tr ve_tr google'da_tr _UNK__tr ._tr
+tabii_tr ki_tr bu_tr sorunun_tr cevabını_tr içeren_tr hiçbir_tr sayfa_tr bulamazsınız_tr çünkü_tr daha_tr önce_tr kimse_tr sormadı_tr bu_tr soruyu_tr ._tr
+_UNK__tr tane_tr sonuç_tr --_tr ama_tr hiçbirini_tr kullanamazsınız_tr ._tr
+şimdi_tr bir_tr araya_tr getirdikleri_tr bağlı_tr veriye_tr sorarsınız_tr 32_tr sonuç_tr ,_tr herbiri_tr bu_tr özelliklere_tr sahip_tr proteinlerdir_tr ve_tr bunları_tr inceleyebilirsiniz_tr ._tr
+bir_tr bilim_tr insanı_tr olarak_tr farklı_tr disiplinleri_tr bir_tr araya_tr getiren_tr bu_tr soruları_tr sorabilme_tr gücünüzün_tr olması_tr gerçekten_tr başlı_tr başına_tr bir_tr değişim_tr ._tr
+bu_tr çok_tr çok_tr önemlidir_tr ._tr
+şu_tr anda_tr bilim_tr insanlarının_tr yoluna_tr tamamen_tr taş_tr konulmuş_tr durumda_tr ,_tr diğer_tr bilim_tr insanlarının_tr topladığı_tr veriler_tr kilitli_tr ve_tr tüm_tr bu_tr büyük_tr insanlık_tr sorunlarını_tr çözmek_tr için_tr bu_tr kilidi_tr açmalıyız_tr ._tr
+eğer_tr böyle_tr devam_tr edersem_tr ,_tr tüm_tr verilerin_tr büyük_tr kurumlardan_tr geldiğini_tr ve_tr sizinle_tr hiç_tr ilgisi_tr olmadığını_tr _UNK__tr ._tr
+ama_tr bu_tr doğru_tr değil_tr ._tr
+aslında_tr veri_tr _UNK__tr ._tr
+gidip_tr favori_tr sosyal_tr ağınıza_tr bağlanırsınız_tr ,_tr ve_tr "_tr bu_tr benim_tr arkadaşım_tr ._tr "_tr dersiniz_tr ._tr
+hop_tr !_tr bağlantı_tr ._tr veri_tr ._tr
+dersiniz_tr ki_tr "_tr bu_tr fotoğraf_tr ,_tr bu_tr kişiyi_tr gösteriyor_tr ._tr "_tr hop_tr !_tr bu_tr veridir_tr ._tr veri_tr ,_tr veri_tr ,_tr veri_tr ._tr
+sosyal_tr ağ_tr _UNK__tr ne_tr zaman_tr bir_tr şeyler_tr yapsanız_tr ,_tr o_tr sosyal_tr ağ_tr sitesi_tr bu_tr veriyi_tr alır_tr ve_tr kullanır_tr --_tr onu_tr yeniden_tr amaçlar_tr --_tr ve_tr o_tr sitedeki_tr diğer_tr insanların_tr hayatını_tr daha_tr ilginç_tr hale_tr getirir_tr ._tr
+fakat_tr başka_tr bir_tr bağlı_tr veri_tr sitesine_tr gittiğinizde_tr ve_tr farz_tr edin_tr ki_tr bu_tr seyahat_tr ile_tr ilgili_tr bir_tr site_tr ,_tr dersiniz_tr ki_tr ,_tr "_tr bu_tr _UNK__tr bu_tr gruptaki_tr herkese_tr göndermek_tr istiyorum_tr ,_tr "_tr o_tr vakit_tr duvarları_tr _UNK__tr ._tr
+ekonomist_tr dergisi_tr bu_tr konuda_tr bir_tr makale_tr yazdı_tr ve_tr birçok_tr insan_tr bloglarında_tr değindi_tr olağanüstü_tr bir_tr karmaşa_tr ._tr
+yığınları_tr ayırmanın_tr yolu_tr sosyal_tr ağ_tr sitelerinin_tr birbiriyle_tr uyumlu_tr olmasını_tr sağlamaktır_tr ._tr
+bunu_tr bağlı_tr veri_tr ile_tr yapmalıyız_tr ._tr
+son_tr bir_tr veri_tr türünden_tr bahsedeceğim_tr ,_tr belki_tr de_tr en_tr heyecan_tr verici_tr olanı_tr ._tr
+buraya_tr gelmeden_tr önce_tr ,_tr _UNK__tr yerine_tr baktım_tr _UNK__tr bir_tr haritadır_tr ama_tr aynı_tr zamanda_tr bir_tr _UNK__tr ._tr
+odaklan_tr ve_tr oradaki_tr _UNK__tr şey_tr bir_tr tiyatro_tr --_tr şu_tr an_tr bulunduğumuz_tr alan_tr --_tr terrace_tr tiyatrosu_tr ._tr onun_tr bir_tr adı_tr yoktu_tr ._tr
+düzenle_tr moduna_tr girebilirim_tr ,_tr tiyatroyu_tr seçebilirim_tr ,_tr altına_tr isim_tr ekleyebilirim_tr ve_tr ardından_tr kaydedebilirim_tr ._tr
+ve_tr şimdi_tr _UNK__tr sitesine_tr giderseniz_tr ve_tr bu_tr mekanı_tr bulursanız_tr ,_tr terrace_tr _UNK__tr artık_tr bir_tr ismi_tr olduğunu_tr göreceksiniz_tr ._tr
+ben_tr yaptım_tr ._tr ben_tr ._tr
+haritada_tr yaptım_tr onu_tr ,_tr ben_tr yaptım_tr !_tr
+onu_tr oraya_tr ekledim_tr ._tr ve_tr ,_tr ne_tr biliyor_tr musunuz_tr ?_tr
+o_tr sokak_tr haritası_tr herkesin_tr üzerine_tr düşen_tr parçayı_tr yapmasından_tr ibaret_tr ve_tr muazzam_tr bir_tr kaynak_tr oluşturur_tr çünkü_tr herkes_tr kendi_tr _UNK__tr ekliyor_tr ._tr
+ve_tr işte_tr bağlı_tr veri_tr tamamen_tr bundan_tr ibarettir_tr ._tr
+i̇nsanların_tr üzerine_tr düşeni_tr yapması_tr ufak_tr bir_tr katkı_tr sağlaması_tr ve_tr hepsinin_tr bağlanmasıdır_tr ._tr
+bağlı_tr veri_tr böyle_tr işler_tr ._tr
+siz_tr üzerinize_tr düşeni_tr yaparsanız_tr ,_tr diğer_tr herkes_tr kendisinin_tr ._tr
+oraya_tr koyacak_tr çok_tr fazla_tr veriye_tr sahip_tr olmayabilirsiniz_tr ama_tr nasıl_tr talep_tr edeceğinizi_tr biliyorsunuz_tr ._tr
+ve_tr biz_tr bunu_tr denedik_tr ._tr
+yani_tr ,_tr bağlı_tr veri_tr --_tr _UNK__tr ._tr
+ben_tr size_tr sadece_tr birkaç_tr ufak_tr kısmını_tr anlattım_tr ._tr hayatımızın_tr her_tr anında_tr veri_tr var_tr ,_tr çalışma_tr ve_tr _UNK__tr her_tr yönünde_tr ,_tr ve_tr bu_tr sadece_tr verinin_tr geldiği_tr yerlerin_tr sayısından_tr ibaret_tr değildir_tr ,_tr onları_tr bağlamak_tr da_tr önemlidir_tr ._tr
+ve_tr veriyi_tr _UNK__tr ,_tr sadece_tr internet_tr ve_tr dokümanlardan_tr ibaret_tr olmayan_tr bir_tr güç_tr elde_tr edersiniz_tr ._tr
+ondan_tr çıkan_tr bu_tr muazzam_tr güce_tr _UNK__tr ._tr
+şimdi_tr bunun_tr harika_tr bir_tr fikir_tr olduğunu_tr düşünen_tr insanlar_tr olarak_tr bunu_tr yapmamız_tr gereken_tr bir_tr noktadayız_tr ._tr
+ve_tr tüm_tr insanlar_tr --_tr ve_tr eminim_tr ted'de_tr hemen_tr bir_tr geri_tr dönüş_tr alınmazsa_tr bile_tr --_tr bu_tr çalışmaya_tr katkı_tr sağlayacak_tr insanlar_tr var_tr ,_tr çünkü_tr esas_tr fayda_tr herkes_tr bunu_tr yapmaya_tr başladığında_tr ortaya_tr çıkacaktır_tr onlar_tr bunu_tr yapacaktır_tr çünkü_tr onlar_tr başkaları_tr da_tr yaptığında_tr güzel_tr olan_tr işleri_tr yapmakta_tr _UNK__tr ._tr
+i̇şte_tr buna_tr bağlı_tr veri_tr diyoruz_tr ._tr
+yapmanızı_tr istiyorum_tr ._tr
+talep_tr etmenizi_tr istiyorum_tr ._tr
+ve_tr bence_tr bu_tr yaymaya_tr değer_tr bir_tr fikir_tr ._tr
+teşekkürler_tr ._tr

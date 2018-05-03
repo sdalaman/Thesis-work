@@ -1,0 +1,75 @@
+i_en 'm_en really_en ,_en really_en excited_en to_en be_en here_en today_en ,_en because_en i_en 'm_en about_en to_en show_en you_en some_en stuff_en that_en 's_en just_en ready_en to_en come_en out_en of_en the_en lab_en ,_en literally_en ,_en and_en i_en 'm_en really_en glad_en that_en you_en guys_en are_en going_en to_en be_en amongst_en the_en first_en to_en be_en able_en to_en see_en it_en in_en person_en ,_en because_en i_en really_en ,_en really_en think_en this_en is_en going_en to_en change_en --_en really_en change_en --_en the_en way_en we_en interact_en with_en machines_en from_en this_en point_en on_en ._en
+now_en ,_en this_en is_en a_en rear_en -_en projected_en drafting_en table_en ._en it_en 's_en about_en 36_en inches_en wide_en and_en it_en 's_en equipped_en with_en a_en multi_en -_en touch_en sensor_en ._en now_en ,_en normal_en touch_en sensors_en that_en you_en see_en ,_en like_en on_en a_en kiosk_en or_en interactive_en whiteboards_en ,_en can_en only_en register_en one_en point_en of_en contact_en at_en a_en time_en ._en
+this_en thing_en allows_en you_en to_en have_en multiple_en points_en at_en the_en same_en time_en ._en
+they_en can_en use_en both_en my_en hands_en ;_en i_en can_en use_en chording_en actions_en ;_en i_en can_en just_en go_en right_en up_en and_en use_en all_en 10_en fingers_en if_en i_en wanted_en to_en ._en
+you_en know_en ,_en like_en that_en ._en
+now_en ,_en multi_en -_en touch_en sensing_en is_en n't_en completely_en new_en ._en
+i_en mean_en ,_en people_en like_en bill_en buxton_en have_en been_en playing_en around_en with_en it_en in_en the_en '80s_en ._en
+however_en ,_en the_en approach_en i_en built_en here_en is_en actually_en high_en -_en resolution_en ,_en low_en -_en cost_en ,_en and_en probably_en most_en importantly_en ,_en very_en scalable_en ._en
+so_en ,_en the_en technology_en ,_en you_en know_en ,_en is_en n't_en the_en most_en exciting_en thing_en here_en right_en now_en ,_en other_en than_en probably_en its_en newfound_en accessibility_en ._en
+what_en 's_en really_en interesting_en here_en is_en what_en you_en can_en do_en with_en it_en and_en the_en kind_en of_en interfaces_en you_en can_en build_en on_en top_en of_en it_en ._en so_en let_en 's_en see_en ._en
+so_en ,_en for_en instance_en ,_en we_en have_en a_en lava_en lamp_en application_en here_en ._en now_en ,_en you_en can_en see_en ,_en i_en can_en use_en both_en of_en my_en hands_en to_en kind_en of_en squeeze_en together_en and_en put_en the_en blobs_en
+together_en ._en i_en can_en inject_en heat_en into_en the_en system_en here_en ,_en or_en i_en can_en pull_en it_en apart_en with_en two_en of_en my_en fingers_en ._en
+it_en 's_en completely_en intuitive_en ;_en there_en 's_en no_en instruction_en manual_en ._en
+the_en interface_en just_en kind_en of_en disappears_en ._en
+this_en started_en out_en as_en kind_en of_en a_en screensaver_en app_en that_en one_en of_en the_en ph.d._en students_en in_en our_en lab_en ,_en ilya_en rosenberg_en ,_en made_en ._en but_en i_en think_en its_en true_en identity_en comes_en out_en here_en ._en
+now_en what_en 's_en great_en about_en a_en multi_en -_en touch_en sensor_en is_en that_en ,_en you_en know_en ,_en i_en could_en be_en doing_en this_en with_en as_en many_en fingers_en here_en ,_en but_en of_en course_en multi_en -_en touch_en also_en inherently_en means_en multi_en -_en user_en ._en
+so_en chris_en could_en be_en out_en here_en interacting_en with_en another_en part_en of_en lava_en ,_en while_en i_en kind_en of_en play_en around_en with_en it_en here_en ._en you_en can_en imagine_en a_en new_en kind_en of_en sculpting_en tool_en ,_en where_en i_en 'm_en kind_en of_en warming_en something_en up_en ,_en making_en it_en malleable_en ,_en and_en then_en letting_en it_en cool_en down_en and_en solidifying_en in_en a_en certain_en state_en ._en
+google_en should_en have_en something_en like_en this_en in_en their_en lobby_en ._en
+i_en 'll_en show_en you_en something_en --_en a_en little_en more_en of_en a_en concrete_en example_en here_en ,_en as_en this_en thing_en loads_en ._en
+this_en is_en a_en photographer_en 's_en light_en box_en application_en ._en
+again_en ,_en i_en can_en use_en both_en of_en my_en hands_en to_en interact_en and_en move_en photos_en around_en ._en
+but_en what_en 's_en even_en cooler_en is_en that_en if_en i_en have_en two_en fingers_en ,_en i_en can_en actually_en grab_en a_en photo_en and_en then_en stretch_en it_en out_en like_en that_en really_en easily_en ._en
+i_en can_en pan_en ,_en zoom_en and_en rotate_en it_en effortlessly_en ._en
+i_en can_en do_en that_en grossly_en with_en both_en of_en my_en hands_en ,_en or_en i_en can_en do_en it_en just_en with_en two_en fingers_en on_en each_en of_en my_en hands_en together_en ._en
+if_en i_en grab_en the_en canvas_en ,_en i_en can_en kind_en of_en do_en the_en same_en thing_en --_en stretch_en it_en out_en ._en
+i_en can_en do_en it_en simultaneously_en ,_en where_en i_en 'm_en holding_en this_en down_en ,_en and_en gripping_en on_en another_en one_en ,_en stretching_en this_en out_en like_en this_en ._en
+again_en ,_en the_en interface_en just_en disappears_en here_en ._en
+there_en 's_en no_en manual_en ._en this_en is_en exactly_en what_en you_en expect_en ,_en especially_en if_en you_en have_en n't_en interacted_en with_en a_en computer_en before_en ._en
+now_en ,_en when_en you_en have_en initiatives_en like_en the_en $_en 100_en laptop_en ,_en i_en kind_en of_en cringe_en at_en the_en idea_en that_en we_en 're_en going_en to_en introduce_en a_en whole_en new_en generation_en of_en people_en to_en computing_en with_en this_en standard_en mouse_en -_en and_en -_en windows_en -_en pointer_en interface_en ._en
+this_en is_en something_en that_en i_en think_en is_en really_en the_en way_en we_en should_en be_en interacting_en with_en machines_en from_en this_en point_en on_en ._en
+now_en ,_en of_en course_en ,_en i_en can_en bring_en up_en a_en keyboard_en ._en
+and_en i_en can_en bring_en that_en around_en ,_en put_en that_en up_en there_en ._en
+now_en ,_en obviously_en ,_en this_en is_en kind_en of_en a_en standard_en keyboard_en ,_en but_en of_en course_en i_en can_en rescale_en it_en to_en make_en it_en work_en well_en for_en my_en hands_en ._en
+and_en that_en 's_en really_en important_en ,_en because_en there_en 's_en no_en reason_en in_en this_en day_en and_en age_en that_en we_en should_en be_en conforming_en to_en a_en physical_en device_en ._en
+that_en leads_en to_en bad_en things_en ,_en like_en rsi_en ._en
+we_en have_en so_en much_en technology_en nowadays_en that_en these_en interfaces_en should_en start_en conforming_en to_en us_en ._en
+there_en 's_en so_en little_en applied_en now_en to_en actually_en improving_en the_en way_en we_en interact_en with_en interfaces_en from_en this_en point_en on_en ._en
+this_en keyboard_en is_en probably_en actually_en the_en really_en wrong_en direction_en to_en go_en ._en
+you_en can_en imagine_en ,_en in_en the_en future_en ,_en as_en we_en develop_en this_en kind_en of_en technology_en ,_en a_en keyboard_en that_en kind_en of_en automatically_en drifts_en as_en your_en hand_en moves_en away_en ,_en and_en really_en intelligently_en anticipates_en which_en key_en you_en 're_en trying_en to_en stroke_en with_en your_en hands_en ._en
+so_en --_en again_en ,_en is_en n't_en this_en great_en ?_en
+audience_en :_en where_en 's_en your_en lab_en ?_en
+jeff_en han_en :_en i_en 'm_en a_en research_en scientist_en at_en nyu_en in_en new_en york_en ._en
+here_en 's_en an_en example_en of_en another_en kind_en of_en app_en ._en i_en can_en make_en these_en little_en fuzz_en balls_en ._en
+it_en 'll_en remember_en the_en strokes_en i_en 'm_en making_en ._en of_en course_en i_en can_en do_en it_en with_en all_en my_en hands_en ._en
+it_en 's_en pressure_en -_en sensitive_en ,_en you_en can_en notice_en ._en
+but_en what_en 's_en neat_en about_en that_en is_en ,_en again_en ,_en i_en showed_en you_en that_en two_en -_en finger_en gesture_en that_en allows_en you_en to_en zoom_en in_en really_en quickly_en ._en because_en you_en do_en n't_en have_en to_en switch_en to_en a_en hand_en tool_en or_en the_en magnifying_en glass_en tool_en ,_en you_en can_en just_en continuously_en make_en things_en in_en real_en multiple_en scales_en ,_en all_en at_en the_en same_en time_en ._en
+i_en can_en create_en big_en things_en out_en here_en ,_en but_en i_en can_en go_en back_en and_en really_en quickly_en go_en back_en to_en where_en i_en started_en ,_en and_en make_en even_en smaller_en things_en here_en ._en
+now_en this_en is_en going_en to_en be_en really_en important_en as_en we_en start_en getting_en to_en things_en like_en data_en visualization_en ._en for_en instance_en ,_en i_en think_en we_en all_en really_en enjoyed_en hans_en rosling_en 's_en talk_en ,_en and_en he_en really_en emphasized_en the_en fact_en that_en i_en 've_en been_en thinking_en about_en for_en a_en long_en time_en too_en :_en we_en have_en all_en this_en great_en data_en ,_en but_en for_en some_en reason_en ,_en it_en 's_en just_en sitting_en there_en ._en
+we_en 're_en not_en really_en accessing_en it_en ._en and_en one_en of_en the_en reasons_en why_en i_en think_en that_en is_en ,_en is_en because_en --_en we_en 'll_en be_en helped_en by_en things_en like_en graphics_en and_en visualization_en and_en inference_en tools_en ,_en
+but_en i_en also_en think_en a_en big_en part_en of_en it_en is_en going_en to_en be_en starting_en to_en be_en able_en to_en have_en better_en interfaces_en ,_en to_en be_en able_en to_en drill_en down_en into_en this_en kind_en of_en data_en ,_en while_en still_en thinking_en about_en the_en big_en picture_en here_en ._en
+let_en me_en show_en you_en another_en app_en here_en ._en this_en is_en something_en called_en worldwind_en ._en
+it_en 's_en done_en by_en nasa_en ._en it_en 's_en a_en kind_en of_en --_en we_en 've_en all_en seen_en google_en earth_en ;_en this_en is_en an_en open_en -_en source_en version_en of_en that_en ._en there_en are_en plug_en -_en ins_en to_en be_en able_en to_en load_en in_en different_en data_en sets_en that_en nasa_en 's_en collected_en over_en the_en years_en ._en
+but_en as_en you_en can_en see_en ,_en i_en can_en use_en the_en same_en two_en -_en fingered_en gestures_en to_en go_en down_en and_en go_en in_en really_en seamlessly_en ._en there_en 's_en no_en interface_en ,_en again_en ._en
+it_en really_en allows_en anybody_en to_en kind_en of_en go_en in_en --_en and_en ,_en it_en just_en does_en what_en you_en 'd_en expect_en ,_en you_en know_en ?_en again_en ,_en there_en 's_en just_en no_en interface_en here_en ._en the_en interface_en just_en disappears_en ._en
+i_en can_en switch_en to_en different_en data_en views_en ._en that_en 's_en what_en 's_en neat_en about_en this_en app_en here_en ._en
+there_en you_en go_en ._en nasa_en 's_en really_en cool_en ._en they_en have_en these_en hyper_en -_en spectral_en images_en that_en are_en false_en -_en colored_en so_en you_en can_en --_en it_en 's_en really_en good_en for_en determining_en vegetative_en use_en ._en well_en ,_en let_en 's_en go_en back_en to_en this_en ._en
+now_en ,_en the_en great_en thing_en about_en mapping_en applications_en --_en it_en 's_en not_en really_en 2d_en ,_en it_en 's_en kind_en of_en 3d_en ._en so_en ,_en again_en ,_en with_en a_en multi_en -_en point_en interface_en ,_en you_en can_en do_en a_en gesture_en like_en this_en --_en so_en you_en can_en be_en able_en to_en tilt_en around_en like_en that_en ,_en you_en know_en ._en it_en 's_en not_en just_en simply_en relegated_en to_en a_en kind_en of_en 2d_en panning_en and_en motion_en ._en
+now_en ,_en this_en gesture_en that_en we_en 've_en developed_en ,_en again_en ,_en is_en just_en putting_en two_en fingers_en down_en --_en it_en 's_en defining_en an_en axis_en of_en tilt_en --_en and_en i_en can_en tilt_en up_en and_en down_en that_en way_en ._en
+that_en 's_en something_en we_en just_en came_en up_en with_en on_en the_en spot_en ,_en you_en know_en ;_en it_en 's_en probably_en not_en the_en right_en thing_en to_en do_en ,_en but_en there_en 's_en such_en interesting_en things_en you_en can_en do_en with_en this_en kind_en of_en interface_en ._en
+it_en 's_en just_en so_en much_en fun_en playing_en around_en with_en too_en ._en
+and_en so_en the_en last_en thing_en i_en want_en to_en show_en you_en is_en --_en you_en know_en ,_en i_en 'm_en sure_en we_en can_en all_en think_en of_en a_en lot_en of_en entertainment_en apps_en that_en you_en can_en do_en with_en this_en thing_en ._en
+i_en 'm_en a_en little_en more_en interested_en in_en the_en kind_en of_en creative_en applications_en we_en can_en do_en with_en this_en ._en
+now_en ,_en here_en 's_en a_en simple_en application_en here_en --_en i_en can_en draw_en out_en a_en curve_en ._en
+and_en when_en i_en close_en it_en ,_en it_en becomes_en a_en character_en ._en
+but_en the_en neat_en thing_en about_en it_en is_en i_en can_en add_en control_en points_en ._en
+and_en then_en what_en i_en can_en do_en is_en manipulate_en them_en with_en both_en of_en my_en fingers_en at_en the_en same_en time_en ._en
+and_en you_en notice_en what_en it_en does_en ._en
+it_en 's_en kind_en of_en a_en puppeteering_en thing_en ,_en where_en i_en can_en use_en as_en many_en fingers_en as_en i_en have_en to_en draw_en and_en make_en --_en now_en ,_en there_en 's_en a_en lot_en of_en actual_en math_en going_en on_en under_en here_en for_en this_en to_en control_en this_en mesh_en and_en do_en the_en right_en thing_en ._en
+i_en mean_en ,_en this_en technique_en of_en being_en able_en to_en manipulate_en a_en mesh_en here_en ,_en with_en multiple_en control_en points_en ,_en is_en actually_en something_en that_en 's_en state_en of_en the_en art_en ._en
+it_en was_en just_en released_en at_en siggraph_en last_en year_en ,_en but_en it_en 's_en a_en great_en example_en of_en the_en kind_en of_en research_en i_en really_en love_en :_en
+all_en this_en compute_en power_en to_en apply_en to_en make_en things_en do_en the_en right_en things_en ,_en
+intuitive_en things_en ,_en to_en do_en exactly_en what_en you_en expect_en ._en
+so_en ,_en multi_en -_en touch_en interaction_en research_en is_en a_en very_en active_en field_en right_en now_en in_en hci_en ._en i_en 'm_en not_en the_en only_en one_en doing_en it_en ;_en there_en are_en a_en lot_en of_en other_en people_en getting_en into_en it_en ._en
+this_en kind_en of_en technology_en is_en going_en to_en let_en even_en more_en people_en get_en into_en it_en ,_en and_en i_en 'm_en really_en looking_en forward_en to_en interacting_en with_en all_en you_en guys_en over_en the_en next_en few_en days_en and_en seeing_en how_en it_en can_en apply_en to_en your_en respective_en fields_en ._en
+thank_en you_en ._en

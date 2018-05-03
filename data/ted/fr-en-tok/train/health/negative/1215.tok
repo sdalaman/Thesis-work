@@ -1,0 +1,70 @@
+aujourd'hui	je	veux	vous	montrer	le	futur	de	la	manière	dont	nous	construisons	les	choses	.
+je	crois	que	bientôt	nos	immeubles	et	nos	machines	s'auto	-	_UNK_	,	se	reproduiront	et	se	répareront	tout	seuls	.
+je	vais	donc	vous	montrer	ce	que	je	crois	être	l'état	actuel	de	la	fabrication	,	et	le	comparer	aux	systèmes	naturels	.
+à	l'état	actuel	de	la	fabrication	,	nous	avons	les	gratte	-	ciels	--	deux	ans	et	demi	,	500	000	à	1	million	de	pièces	,	assez	complexe	,	des	technologies	nouvelles	et	passionnantes	technologies	en	acier	,	béton	,	verre	.
+nous	avons	des	machines	extraordinaires	qui	peuvent	nous	transporter	dans	l'espace	--	cinq	ans	,	2,5	millions	de	pièces	.
+mais	d'un	autre	coté	,	si	nous	regardons	les	systèmes	naturels	,	nous	avons	des	protéines	il	y	en	a	deux	millions	de	types	,	qui	peuvent	se	replier	en	10	000	nanosecondes	,	ou	l'adn	avec	trois	milliards	de	paires	de	base	que	nous	pouvons	reproduire	en	à	peu	près	une	heure	.
+il	y	a	donc	toute	cette	complexité	dans	nos	systèmes	naturels	,	mais	ils	sont	extrêmement	efficaces	,	beaucoup	plus	efficaces	que	tout	ce	que	nous	pouvons	construire	,	beaucoup	plus	complexe	que	ce	que	nous	pouvons	construire	.
+ils	sont	beaucoup	plus	efficaces	en	termes	d'énergie	.
+ils	se	trompent	rarement	.
+et	ils	peuvent	se	réparer	tous	seuls	pour	prolonger	leur	longévité	.
+il	y	a	donc	quelque	chose	de	très	intéressant	dans	les	systèmes	naturels	.
+et	si	nous	pouvons	transférer	ceci	dans	nos	constructions	,	il	y	a	un	formidable	potentiel	pour	la	manière	dont	nous	construisons	les	choses	.
+et	je	crois	que	la	clef	est	l'auto	-	assemblage	.
+si	nous	voulons	donc	utiliser	l'auto	-	assemblage	dans	notre	environnement	physique	,	je	crois	qu'il	y	a	quatre	facteurs	clef	.
+le	premier	est	que	nous	avons	besoin	de	décoder	toute	la	complexité	de	ce	que	nous	voulons	construire	--	donc	nos	immeubles	et	nos	machines	.
+et	il	nous	faut	le	décoder	en	de	simples	séquences	--	en	gros	l'adn	du	mode	de	fonctionnement	de	nos	bâtiments	.
+nous	avons	ensuite	besoin	de	pièces	programmables	qui	peuvent	prendre	cette	séquence	et	l'utiliser	pour	se	replier	et	se	reconfigurer	.
+il	nous	faut	de	l'énergie	qui	permette	de	l'activer	,	en	permettant	aux	parties	de	se	replier	selon	le	programme	.
+et	il	nous	faut	une	certaine	redondance	de	correction	des	erreurs	pour	nous	assurer	d'avoir	bien	construit	ce	que	nous	voulions	.
+je	vais	donc	vous	montrer	un	certain	nombre	de	projets	sur	lesquelles	nous	travaillons	mes	collègues	et	moi	au	mit	pour	réaliser	ce	futur	qui	s'auto	-	assemble	.
+les	deux	premiers	sont	les	_UNK_	et	les	_UNK_	.
+ces	projets	sont	des	robots	_UNK_	à	large	échelle	--	des	protéines	de	3	à	4	mètres	de	longueur	.
+ils	sont	implantés	dans	des	appareils	,	des	capteurs	mécaniques	électriques	vous	_UNK_	la	forme	que	vous	voulez	obtenir	,	en	une	séquence	d'angles	--	donc	négatif	120	,	négatif	120	,	0	,	0	,	120	,	négatif	120	--	quelque	chose	de	ce	genre	la	;	donc	une	séquence	d'angles	,	ou	de	courbes	,	et	vous	envoyez	cette	séquence	à	travers	la	chaine	.
+chaque	unité	reçoit	le	message	--	donc	négatif	120	.
+il	tourne	en	conséquence	,	vérifie	que	ce	soit	bon	et	ensuite	le	passe	à	son	voisin	.
+voila	donc	les	brillants	scientifiques	,	ingénieurs	,	designers	qui	ont	travaillé	sur	ce	projet	.
+et	je	crois	que	ça	met	vraiment	en	lumière	:	est	-	ce	réellement	_UNK_	?
+des	milliers	de	dollars	,	beaucoup	d'heures	de	travail	pour	faire	ce	robot	de	3	mètres	de	hauteur	.
+peut	-	on	réellement	l'appliquer	à	grande	échelle	?	peut	-	on	implanter	la	robotique	dans	chaque	partie	?
+le	projet	suivant	met	en	question	et	examine	la	nature	passive	,	ou	le	fait	d'essayer	de	pouvoir	programmer	une	_UNK_	passivement	.
+mais	ça	va	plus	loin	,	et	il	essaye	de	faire	un	vrai	calcul	.
+essentiellement	il	_UNK_	aux	composantes	de	base	du	calcul	,	l'élément	numérique	logique	,	directement	dans	vos	composants	.
+voici	donc	un	élément	nand	.
+vous	avez	un	tétraèdre	qui	est	l'élément	logique	,	qui	va	faire	tous	les	calculs	,	et	vous	avez	deux	_UNK_	.
+l'un	d'eux	est	saisi	par	l'utilisateur	,	pendant	que	vous	construisez	vos	composants	.
+l'autre	est	issu	du	composant	qui	a	été	placé	précédemment	.
+et	ça	vous	donne	ensuite	un	résultat	en	3d	dans	l'espace	.
+cela	signifie	que	l'utilisateur	peut	commencer	à	programmer	ce	qu'il	veut	que	les	composants	fassent	.
+le	calcul	est	basé	sur	ce	qu'il	faisait	avant	et	ce	que	vous	voulez	qu'il	fasse	.
+et	maintenant	il	commence	à	se	déplacer	dans	un	espace	en	trois	dimensions	--	de	haut	en	bas	.
+sur	le	coté	gauche	,	[	1,1	]	,	donnée	égale	0	donné	de	sortie	,	il	descend	.
+sur	le	coté	droit	,	[	0,0	]	,	donnée	égale	1	donné	de	sortie	,	il	monte	.
+donc	cela	veut	dire	en	fait	que	nos	structures	contiennent	maintenant	le	modèle	de	ce	que	nous	voulons	construire	.
+ils	ont	donc	incorporé	toutes	les	informations	de	ce	qui	a	été	construit	.
+cela	signifie	que	nous	pouvons	obtenir	certaine	formes	_UNK_	.
+dans	ce	cas	je	l'appelle	reproduction	_UNK_	,	parce	que	notre	structure	contient	le	modèle	exact	.
+s'il	y	a	des	erreurs	,	vous	pouvez	remplacer	des	parties	.
+toutes	les	informations	locales	pour	expliquer	comment	se	réparer	sont	incorporées	.
+vous	pouvez	donc	avoir	quelque	chose	qui	grimpe	et	lit	et	donne	le	résultat	1	à	1	.
+c'est	directement	incorporé	;	il	n'y	a	pas	d'instructions	externes	.
+le	dernier	projet	que	je	vais	vous	montrer	s'appelle	_UNK_	_UNK_	et	c'est	probablement	l'exemple	le	plus	extraordinaire	que	nous	avons	aujourd'hui	de	systèmes	d'auto	-	assemblage	passifs	.
+il	prend	la	_UNK_	et	la	_UNK_	et	en	fait	un	système	complètement	passif	.
+en	gros	vous	avez	une	chaine	d'éléments	.
+chaque	élément	est	totalement	identique	,	et	ils	sont	orientés	.
+donc	chaque	chaine	,	ou	chaque	élément	,	veut	se	tourner	à	droite	ou	à	gauche	.
+pendant	que	vous	assembler	la	chaine	,	en	gros	vous	la	programmez	.
+vous	dites	à	chaque	unité	si	elle	doit	se	tourner	à	droite	ou	à	gauche	.
+quand	vous	secouez	la	chaine	,	elle	se	replie	en	n'importe	quelle	configuration	que	vous	avez	programmée	--	dans	ce	cas	,	une	spirale	,	ou	dans	ce	cas	là	,	deux	cubes	l'un	à	coté	de	l'autre	.
+donc	vous	pouvez	en	gros	programmer	n'importe	quelle	forme	en	trois	dimensions	--	ou	une	dimension	,	deux	dimensions	--	de	manière	complètement	passive	dans	la	chaine	.
+qu'est	ce	que	cela	nous	dit	sur	le	futur	?
+je	crois	que	ça	nous	dit	qu'il	y	a	de	nouvelles	possibilités	d'auto	-	assemblage	,	réplication	,	réparation	dans	nos	structures	physiques	,	nos	bâtiments	,	nos	machines	.
+il	y	a	des	nouvelles	_UNK_	pour	ces	parties	.
+et	à	partir	de	ça	vous	avez	des	nouvelles	possibilités	de	calcul	.
+nous	aurons	un	calcul	spatial	.
+imaginez	nos	bâtiments	,	nos	ponts	,	nos	machines	,	tous	nos	composants	pourraient	calculer	.
+c'est	un	extraordinaire	pouvoir	de	calcul	parallèle	,	réparti	,	nouvelle	possibilité	de	création	.
+c'est	un	potentiel	passionnant	.
+je	crois	donc	que	ces	projets	que	je	vous	ai	montrés	sont	un	tout	petit	pas	vers	le	futur	,	si	nous	mettons	en	pratique	ces	nouvelles	technologies	pour	un	tout	nouveau	monde	qui	s'auto	-	assemble	.
+merci	.
+

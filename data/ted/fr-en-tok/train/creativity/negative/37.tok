@@ -1,0 +1,187 @@
+en	1962	,	charles	van	doren	,	qui	devint	par	la	suite	rédacteur	en	chef	de	_UNK_	britannica	,	disait	que	l'encyclopédie	idéale	devait	être	radicale	--	elle	ne	devait	plus	être	sûre	.
+mais	si	vous	connaissez	l'histoire	de	britannica	depuis	1962	,	l'encyclopédie	était	tout	sauf	radicale	:	toujours	extrêmement	sûre	et	_UNK_	.
+wikipédia	,	à	côté	de	ça	,	a	commencé	avec	une	idée	radicale	,	celle	que	nous	imaginons	tous	un	monde	où	chaque	personne	sur	la	planète	ait	un	accès	libre	à	l'ensemble	de	la	connaissance	humaine	.
+et	c'est	ce	que	nous	faisons	.	donc	wikipédia	--	vous	en	avez	vu	une	petite	démonstration	--	est	une	encyclopédie	sous	licence	libre	.	elle	est	écrite	par	des	milliers	de	volontaires	de	toute	la	planète	dans	beaucoup	,	beaucoup	de	langues	.
+elle	est	écrite	en	utilisant	le	logiciel	wiki	--	qui	est	le	type	de	logiciel	qu'il	a	présenté	--	--	qui	permet	à	n'importe	qui	_UNK_	et	de	sauvegarder	rapidement	,	et	devient	immédiatement	disponible	en	ligne	.
+tout	ce	qui	touche	à	wikipédia	est	dirigé	par	une	équipe	virtuelle	composée	uniquement	de	volontaires	.
+donc	quand	yochai	parle	de	nouvelles	méthodes	d'organisation	,	il	décrit	exactement	wikipédia	.	et	ce	que	je	vais	faire	aujourd'hui	c'est	vous	parler	un	peu	plus	de	son	fonctionnement	interne	.
+wikipédia	appartient	à	la	fondation	wikimédia	,	que	j'ai	fondée	,	une	organisation	à	but	non	-	lucratif	.	et	la	visée	,	le	principe	fondateur	de	la	fondation	wikimédia	,	est	de	donner	l'accès	à	une	encyclopédie	libre	à	chaque	personne	sur	la	planète	.
+et	donc	si	vous	réfléchissez	à	ce	que	cela	implique	,	cela	veut	dire	beaucoup	plus	que	construire	un	site	web	cool	.
+nous	sommes	vraiment	intéressés	à	tous	les	problèmes	d'accès	à	internet	,	la	pauvreté	mondiale	,	pour	permettre	aux	gens	vivant	n'importe	où	d'avoir	l'information	dont	ils	ont	besoin	afin	de	prendre	de	bonnes	décisions	.
+nous	allons	avoir	à	faire	à	énormément	de	travail	qui	ne	se	limite	pas	à	la	toile	.
+c'est	une	des	raisons	principales	qui	nous	a	poussé	à	choisir	un	modèle	de	licence	libre	,	parce	que	cela	permet	aux	entrepreneurs	locaux	--	ou	à	n'importe	qui	qui	le	souhaite	,	de	prendre	notre	contenu	et	de	faire	tout	ce	qu'il	veut	avec	--	vous	pouvez	le	copier	,	le	redistribuer	,	et	ceci	commercialement	ou	non	.
+il	y	a	donc	énormément	d'opportunités	qui	vont	apparaître	autour	de	wikipédia	partout	dans	le	monde	.
+nous	fonctionnons	grâce	aux	donations	du	public	,	et	l'une	des	choses	les	plus	intéressantes	à	ce	propos	est	le	peu	d'argent	nécessaire	au	fonctionnement	de	wikipédia	.
+donc	yochai	vous	a	montré	le	graphique	sur	les	coûts	de	la	presse	écrite	.
+je	vais	vous	dire	quel	est	le	coût	de	wikipédia	,	mais	d'abord	je	vais	vous	montrer	l'ampleur	de	wikipedia	.
+donc	nous	avons	environ	600	000	articles	en	anglais	.
+nous	avons	deux	millions	d'articles	au	total	écrits	dans	de	nombreuses	langues	différentes	.
+les	langues	les	plus	importantes	sont	l'allemand	,	le	japonais	et	le	français	.
+toutes	les	langues	de	l'europe	de	l'ouest	sont	vraiment	importantes	.
+mais	seulement	un	tier	de	tout	notre	trafic	est	pour	le	wikipédia	en	anglais	,	ce	qui	surprend	beaucoup	de	monde	.
+beaucoup	de	personnes	pensent	qu'internet	est	un	média	majoritairement	anglophone	,	mais	nous	sommes	vraiment	global	.	wikipédia	existe	dans	beaucoup	,	beaucoup	de	langues	.
+le	succès	que	nous	avons	connu	--	le	site	est	dans	le	top	50	des	sites	web	et	nous	sommes	plus	populaires	que	le	new	york	times	.
+donc	c'est	là	que	nous	arrivons	à	la	discussion	de	yochai	.
+ce	graphique	montre	la	croissance	de	wikipédia	--	nous	sommes	la	ligne	bleue	--	et	ici	c'est	le	new	york	times	.
+et	ce	qui	est	intéressant	à	ce	propos	c'est	que	le	site	du	new	york	times	est	énorme	,	une	énorme	société	avec	--	je	ne	sais	combien	de	centaines	d'employés	.
+nous	avons	exactement	un	seul	employé	,	et	cet	employé	est	notre	développeur	logiciel	en	chef	.
+et	il	est	notre	employé	uniquement	depuis	janvier	2005	,	soit	après	la	grosse	croissance	de	wikipédia	.
+donc	les	serveurs	sont	dirigés	par	une	petite	équipe	de	volontaires	,	tous	les	ajouts	sont	faits	par	des	volontaires	.
+et	la	façon	dont	nous	sommes	organisés	n'est	semblable	à	aucune	organisation	traditionnelle	.
+les	gens	se	demandent	,	``	mais	qui	s'occupe	de	tout	ça	?	``
+ou	``	qui	fait	ça	?	``	.	et	la	réponse	est	:	n'importe	qui	qui	le	souhaite	.
+c'est	quelque	chose	de	très	perturbateur	et	nouveau	.
+nous	avons	environ	90	serveurs	répartis	sur	trois	endroits	différents	.
+ces	serveurs	sont	gérés	par	des	administrateurs	systèmes	volontaires	via	internet	.
+je	peux	me	connecter	à	n'importe	quel	moment	du	jour	ou	de	la	nuit	,	et	trouver	huit	à	dix	personnes	_UNK_	pour	me	poser	une	question	ou	quoi	que	ce	soit	à	propos	des	serveurs	.
+vous	ne	pourriez	jamais	payer	pour	ça	dans	une	entreprise	.
+vous	ne	pourriez	jamais	payer	pour	avoir	une	équipe	de	secours	en	cas	de	problème	24	heures	par	jour	et	faire	ce	qu'on	fait	sur	wikipédia	.
+nous	avons	à	peu	près	1.4	milliards	de	pages	vues	par	mois	,	c'est	vraiment	devenu	énorme	.
+et	tout	est	géré	par	des	volontaires	.
+le	coût	total	mensuel	pour	la	bande	passante	est	d'environ	5	000	dollars	.
+et	c'est	notre	coût	principal	.
+nous	pourrions	fonctionner	sans	l'employé	.	en	fait	,	nous	--	nous	avons	engagé	brian	parce	qu'il	travaillait	à	temps	partiel	depuis	deux	ans	et	à	temps	plein	sur	wikipédia	,	donc	nous	l'avons	engagé	pour	qu'il	puisse	avoir	une	vie	et	aller	au	cinéma	de	temps	en	temps	.
+la	grande	question	quand	vous	avez	ce	type	d'organisation	très	chaotique	est	,	pourquoi	n'est	-	ce	pas	de	mauvaise	qualité	?	pourquoi	le	site	est	-	il	aussi	bien	qu'il	l'est	en	ce	moment	?
+tout	d'abord	,	à	quel	point	est	-	il	bon	?	le	site	est	assez	bon	.	il	n'est	pas	parfait	,	mais	c'est	beaucoup	,	beaucoup	mieux	que	vous	auriez	pu	l'imaginer	,	étant	donné	notre	modèle	très	novateur	.
+donc	quand	vous	voyez	quelqu'un	faire	une	toute	petite	édition	ridicule	sur	la	page	me	concernant	,	vous	pensez	,	oh	,	tout	cela	va	forcement	_UNK_	en	quelque	chose	de	très	mauvais	,	mais	quand	nous	avons	vu	les	tests	de	qualité	--	et	il	n'y	en	a	pas	eu	assez	pour	l'instant	,	j'encourage	vraiment	les	gens	à	en	faire	plus	,	en	comparant	wikipédia	aux	encyclopédies	traditionnelles	--	nous	gagnons	les	mains	dans	les	poches	.
+une	revue	allemande	a	comparé	wikipédia	allemand	,	qui	est	beaucoup	,	beaucoup	plus	petite	que	la	version	anglaise	,	à	microsoft	encarta	et	à	_UNK_	multimédia	,	et	nous	avons	gagné	loin	haut	la	main	.
+ils	ont	engagé	des	experts	qui	sont	venus	pour	lire	les	articles	et	en	ont	comparé	la	qualité	,	et	nous	avons	été	très	touchés	par	ce	résultat	.
+beaucoup	de	personnes	sont	au	courant	à	propos	de	la	controverse	bush	-	kerry	.
+c'est	un	--	les	médias	en	ont	énormément	parlé	.
+ça	a	commencé	avec	un	article	sur	red	_UNK_	.
+les	journalistes	m'ont	appelé	et	ils	--	je	veux	dire	,	je	dois	admettre	qu'ils	ont	bien	orthographié	mon	nom	,	mais	ils	voulaient	vraiment	relayer	que	l'élection	bush	-	kerry	est	si	_UNK_	,	que	cela	brise	la	communauté	wikipédia	.	et	donc	ils	m'ont	cité	disant	,	``	c'est	l'élection	la	plus	problématique	de	toute	l'histoire	de	wikipédia	``	.
+ce	que	j'ai	vraiment	dit	,	c'est	que	ce	n'était	pas	du	tout	problématique	.
+donc	il	y	a	un	léger	malentendu	.	les	articles	ont	été	publiés	assez	massivement	.
+et	c'est	vrai	que	nous	avions	dû	par	moment	verrouiller	quelques	articles	.
+le	time	magazine	a	_UNK_	rapporté	que	``	des	décisions	extrêmes	ont	dû	être	prises	,	et	wales	a	verrouillé	les	articles	sur	kerry	et	bush	durant	la	majorité	de	l'année	2004	``	.
+c'est	sorti	après	que	j'ai	dit	au	journaliste	que	nous	avions	dû	verrouillé	--	de	temps	en	temps	,	un	petit	peu	ici	et	là	.
+la	vérité	est	que	le	genre	de	controverses	sur	lesquelles	vous	pourriez	imaginer	qu'il	y	ait	débat	au	sein	de	la	communauté	de	wikipédia	ne	sont	pas	du	tout	des	controverses	.
+les	articles	sur	des	sujets	controversés	sont	beaucoup	publiés	,	mais	cela	ne	pose	pas	beaucoup	de	problèmes	au	sein	de	la	communauté	.
+la	raison	est	que	la	plupart	des	personnes	comprennent	le	besoin	de	neutralité	.
+la	vraie	lutte	n'est	pas	vraiment	entre	la	gauche	et	la	droite	--	ce	que	la	plupart	des	personnes	imaginent	--	mais	elle	est	entre	le	parti	des	penseurs	et	le	parti	des	idiots	.
+et	aucun	des	bords	politique	n'a	le	monopole	sur	ces	qualités	.
+la	vérité	à	propos	de	l'incident	bush	-	kerry	est	que	les	articles	bush	-	kerry	ont	été	_UNK_	moins	d'1	%	du	temps	en	2004	,	et	ce	n'était	pas	parce	qu'ils	étaient	sujets	à	débats	,	c'était	à	cause	de	vandalisme	fréquent	--	ce	qui	arrive	quelques	fois	même	sur	un	plateau	--	quelques	fois	même	des	journalistes	m'ont	dit	qu'ils	avaient	_UNK_	wikipédia	et	étaient	_UNK_	que	cela	ai	été	_UNK_	aussi	rapidement	.
+et	j'ai	dit	--	vous	savez	,	je	dis	toujours	:	``	s'il	vous	plaît	,	ne	faites	pas	ça	,	ce	n'est	pas	une	bonne	chose	..	``
+comment	nous	faisons	ça	?
+quoi	--	comment	nous	gérons	les	contrôles	de	qualité	?
+qu'est	-	ce	qui	fait	--	comment	ça	marche	?
+voici	plusieurs	éléments	,	principalement	notre	politique	sociale	et	quelques	éléments	du	logiciel	.
+la	chose	la	plus	importante	est	notre	politique	sur	la	neutralité	.
+c'est	quelque	chose	que	j'ai	mis	au	clair	dès	le	début	,	comme	étant	un	principe	fondamental	qui	est	complétement	indiscutable	.
+c'est	un	concept	de	coopération	,	donc	nous	ne	parlons	pas	beaucoup	de	vérité	et	d'objectivité	.
+la	raison	pour	ça	est	que	si	on	dit	que	nous	allons	écrire	la	vérité	sur	tel	sujet	,	cela	ne	va	pas	nous	aider	à	écrire	l'article	,	car	je	ne	suis	pas	d'accord	avec	vous	sur	ce	qu'est	la	vérité	.
+nous	avons	ce	terme	de	neutralité	dans	notre	jargon	,	qui	a	sa	propre	histoire	au	sein	de	la	communauté	,	qui	dit	principalement	qu'à	chaque	fois	qu'il	existe	un	problème	controversé	,	wikipedia	ne	devrait	pas	prendre	position	dans	le	débat	,	nous	devons	méticuleusement	présenter	ce	que	les	parties	légitimes	ont	à	dire	à	ce	propos	.
+cette	politique	de	neutralité	est	vraiment	importante	pour	nous	,	car	cela	encourage	une	communauté	très	diversifiée	à	travailler	main	dans	la	main	afin	de	produire	quelque	chose	.
+nous	avons	une	grande	diversité	de	contributeurs	,	en	terme	de	passés	politiques	,	religieux	ou	culturels	.
+en	ayant	cette	politique	de	neutralité	,	qui	est	non	-	négociable	depuis	le	début	,	nous	nous	assurons	que	les	gens	peuvent	travailler	ensemble	et	que	les	articles	ne	deviennent	une	simple	guerre	entre	la	gauche	et	la	droite	.
+si	vous	vous	engager	dans	ce	type	de	comportement	,	on	vous	demandera	de	quitter	la	communauté	.
+donc	,	la	relecture	en	temps	réel	:	chacun	des	petits	changements	sur	le	site	sont	classés	dans	une	page	des	changements	récents	.
+donc	à	partir	du	moment	où	on	fait	un	changement	,	il	s'affiche	sur	cette	page	.
+cette	page	des	changements	récents	est	aussi	diffusé	sur	des	canaux	irc	,	qui	est	un	canal	de	discussion	sur	internet	auquel	les	gens	peuvent	accéder	avec	de	nombreux	logiciels	différents	.
+et	les	gens	peuvent	obtenir	les	flux	_UNK_	--	ils	peuvent	recevoir	des	_UNK_	par	e-mail	de	ces	changements	.
+et	les	utilisateurs	peuvent	paramétrer	leur	propre	liste	de	suivi	.
+ma	page	est	donc	sur	la	liste	de	suivi	de	quelques	volontaires	,	parce	qu'elle	est	parfois	_UNK_	.
+et	jusque	là	,	ce	qu'il	se	passe	est	que	quelqu'un	va	se	rendre	compte	du	changement	très	rapidement	,	et	ils	vont	simplement	annuler	le	changement	.
+il	y	a	un	flux	pour	les	nouvelles	pages	,	par	exemple	,	vous	pouvez	aller	sur	une	certaine	page	de	wikipedia	et	voir	tous	les	nouveaux	articles	quand	ils	sont	créés	.
+c'est	très	important	,	parce	qu'un	grand	nombre	des	pages	qui	sont	crées	sont	justes	des	torchons	qui	doivent	être	supprimés	.
+mais	c'est	aussi	l'une	des	choses	les	plus	intéressantes	et	amusantes	de	wikipedia	,	certains	des	nouveaux	articles	.
+les	gens	vont	commencer	un	article	sur	un	sujet	intéressant	,	d'autres	vont	trouver	ça	intriguant	et	vont	sauter	dedans	et	aider	à	le	rendre	bien	meilleur	.
+nous	avons	effectivement	des	publications	par	des	utilisateurs	anonymes	,	ce	qui	est	l'une	des	choses	les	plus	controversées	et	_UNK_	à	propos	de	wikipédia	.
+donc	chris	a	été	capable	de	faire	sa	modification	--	il	n'a	pas	eu	à	se	connecter	ou	autre	,	il	est	juste	allé	sur	le	site	et	a	fait	un	changement	.
+mais	il	se	trouve	que	seulement	18	%	de	toutes	les	publications	du	site	sont	faîtes	par	des	utilisateurs	anonymes	.
+c'est	quelque	chose	de	très	important	à	comprendre	,	la	vaste	majorité	des	publications	qui	vont	sur	le	site	proviennent	d'une	communauté	très	proche	de	peut	-	être	600	à	1000	personnes	qui	sont	en	communication	constante	.
+et	nous	avons	plus	de	40	chaînes	irc	,	40	liste	d'envoi	.
+toutes	ces	personnes	se	connaissent	.	ils	communiquent	,	nous	avons	des	réunions	hors	-	ligne	.
+ce	sont	les	gens	qui	portent	le	site	sur	leurs	épaules	,	et	ils	sont	,	dans	un	sens	,	semi	-	professionnel	dans	ce	qu'ils	font	,	les	standards	que	nous	nous	imposons	à	nous	-	même	sont	équivalents	ou	supérieurs	à	des	critères	de	qualité	professionnel	.
+nous	n'arrivons	pas	toujours	à	atteindre	ces	standards	mais	c'est	ce	à	quoi	nous	aspirons	.
+cette	communauté	très	rapprochée	représente	les	gens	qui	s'impliquent	vraiment	pour	le	site	et	ils	font	partie	des	gens	les	plus	intelligent	que	j'ai	eu	l'occasion	de	rencontrer	,	bien	sûr	,	c'est	mon	boulot	de	dire	ça	,	mais	c'est	pourtant	vrai	.
+le	type	de	gens	qui	ont	été	convaincu	d'écrire	une	encyclopédie	pour	s'amuser	ont	tendance	à	être	des	gens	très	intelligents	.
+les	outils	et	le	logiciel	:	il	y	a	de	nombreux	outils	qui	nous	permettent	--	par	nous	,	j'entend	la	communauté	--	d'effectuer	un	suivi	de	tout	le	travail	.
+ceci	est	exemple	d'un	historique	d'une	page	sur	la	terre	plate	,	et	vous	pouvez	voir	quelques	changements	qui	ont	été	faits	.
+ce	qui	est	bien	avec	cette	page	c'est	que	vous	pouvez	immédiatement	jeter	un	oeil	à	ça	et	voir	,	oh	ok	,	je	comprend	maintenant	.
+quand	n'importe	qui	vient	et	regarde	ça	--	il	voit	que	quelqu'un	,	une	adresse	ip	anonyme	,	a	fait	un	changement	à	ma	page	--	cela	semble	douteux	--	qui	est	cette	persone	?	n'importe	qui	qui	regarde	ça	,	peux	immédiatement	voir	en	rouge	tous	les	changements	qui	ont	été	établis	,	pour	voir	,	ok	,	bon	,	ces	mots	ont	changés	,	des	choses	comme	ça	.
+donc	c'est	l'un	des	outils	que	nous	pouvons	utiliser	pour	suivre	vraiment	rapidement	l'histoire	d'une	page	.
+une	autre	chose	que	nous	faisons	au	sein	de	la	communauté	est	que	nous	considérons	tous	les	articles	comme	incomplets	.
+la	plupart	des	règles	sociales	et	des	méthodes	de	travail	sont	complètement	_UNK_	dans	le	logiciel	.
+tout	ce	matériel	est	juste	sur	les	pages	wiki	.
+et	il	n'y	a	donc	rien	dans	le	logiciel	qui	_UNK_	la	loi	.
+l'exemple	que	je	vous	montre	ici	est	une	page	de	vote	pour	la	suppression	d'une	page	.
+donc	,	je	l'ai	mentionné	plus	tôt	,	les	personnes	qui	``	_UNK_	le	bordel	``	--	cela	doit	être	supprimé	.	dans	les	cas	comme	ça	,	les	administrateurs	les	détruisent	tout	simplement	.
+il	n'y	pas	de	raisons	d'avoir	une	grosse	dispute	à	propos	de	ça	.
+mais	vous	pouvez	imaginer	qu'il	y	a	beaucoup	d'autres	terrains	pour	lesquels	la	question	se	pose	,	le	sujet	est	-	il	suffisamment	pertinent	pour	aller	dans	une	encyclopédie	?
+l'information	est	-	elle	vérifiable	?	est	-	ce	une	blague	?	est	-	ce	vrai	?	qu'est	-	ce	que	c'est	?
+donc	nous	avions	besoin	d'une	méthode	sociale	pour	trouver	des	réponses	à	cela	.
+et	la	méthode	qui	est	née	organiquement	au	sein	de	la	communauté	est	la	page	vote	pour	suppression	.
+et	dans	cet	exemple	particulier	que	nous	avons	ici	,	c'est	un	film	,	``	_UNK_	issues	``	,	et	la	première	personne	dit	,	``	si	c'est	hypothétiquement	un	film	,	il	a	raté	le	test	google	misérablement	.	``
+le	test	google	est	d'aller	voir	dans	google	pour	voir	si	il	y	est	présent	,	car	si	quelque	chose	n'est	même	pas	dans	google	,	il	n'existe	probablement	pas	du	tout	.
+ce	n'est	pas	une	règle	parfaite	,	mais	c'est	un	point	de	départ	pour	une	recherche	rapide	.
+donc	quelqu'un	dit	:	``	supprimez	le	,	s'il	vous	plaît	,	supprimez	le	--	ce	n'est	pas	pertinent	.	``
+puis	quelqu'un	dit	:	``	attendez	,	attendez	,	je	l'ai	trouvé	.
+je	l'ai	trouvé	dans	un	livre	,	le	guide	des	films	catastrophes	:	les	20	films	_UNK_	que	vous	devez	avoir	vu	.	``
+oh	,	ok	.	donc	la	personne	suivante	dit	:	``	nettoie	-	le	``	quelqu'un	dit	:	``	je	l'ai	trouvé	sur	_UNK_	.	gardez	-	le	,	gardez	-	le	!	``
+et	ce	qui	est	intéressant	à	propos	de	tout	ça	est	que	le	logiciel	--	ces	votes	sont	justes	--	ils	sont	juste	tapés	dans	une	page	.
+ceci	est	en	fait	plus	un	dialogue	qu'un	vote	.
+c'est	vrai	qu'à	la	fin	de	la	journée	un	administrateur	peut	jeter	un	oeil	à	tout	ça	et	dire	,	ok	,	18	suppressions	,	2	maintiens	,	nous	allons	le	supprimer	.
+mais	dans	d'autres	cas	,	cela	pourrait	être	18	suppressions	et	2	maintiens	mais	nous	le	_UNK_	quand	même	,	parce	que	si	ces	deux	derniers	maintiens	disent	:	``	attendez	une	minute	,	attendez	une	minute	.
+personne	d'autre	n'a	vu	ça	mais	je	l'ai	trouvé	dans	un	livre	,	et	j'ai	trouvé	un	lien	vers	une	page	qui	le	décrit	et	je	vais	le	corriger	demain	,	donc	merci	de	ne	pas	le	supprimer	,	``	et	l'article	survivrait	.
+ce	qui	compte	aussi	c'est	qui	sont	les	gens	qui	votent	.
+comme	je	l'ai	dit	,	c'est	une	communauté	très	soudée	.
+ici	,	tout	en	en	bas	,	:	``	gardez	,	vrai	film	``	,	rick	kay	.
+rick	kay	est	un	_UNK_	très	connu	qui	fait	une	énorme	quantité	de	travail	avec	le	vandalisme	,	les	faux	et	les	votes	pour	suppression	.
+sa	voix	a	beaucoup	de	poids	au	sein	de	la	communauté	car	il	sait	ce	qu'il	fait	.
+donc	,	comment	tout	cela	est	-	il	gouverné	?
+les	gens	veulent	vraiment	savoir	,	ok	,	les	administrateurs	,	les	choses	comme	ça	.
+donc	le	modèle	de	gouvernance	de	wikipédia	,	de	gouvernance	de	la	communauté	,	est	très	confus	,	mais	constitue	un	mélange	de	consensus	qui	permettent	de	travailler	.
+je	veux	dire	que	nous	essayons	de	ne	pas	voter	sur	le	contenu	des	articles	,	parce	que	l'avis	de	la	majorité	n'est	pas	nécessairement	neutre	.
+un	peu	de	démocratie	,	tous	les	administrateurs	--	ce	sont	les	gens	qui	ont	la	possibilité	de	supprimer	des	pages	,	cela	ne	signifie	pas	qu'ils	ont	le	droit	de	supprimer	des	pages	,	ils	doivent	quand	même	suivre	les	règles	--	mais	ils	sont	élus	,	ils	sont	élus	par	la	communauté	.	parfois	les	gens	--	des	_UNK_	quelconques	sur	internet	--	aiment	m'accuser	de	soudoyer	les	administrateurs	pour	biaiser	le	contenu	de	l'encyclopédie	.
+je	rigole	souvent	de	tout	ça	,	car	je	n'ai	en	fait	aucune	idée	de	comment	ils	sont	élus	.
+il	y	a	une	petite	quantité	_UNK_	.
+vous	en	avez	eu	un	_UNK_	quand	j'ai	parlé	par	exemple	de	la	voix	de	rick	kay	qui	a	plus	de	portée	que	celle	de	quelqu'un	que	nous	ne	connaissons	pas	.
+je	donne	ce	discours	parfois	avec	angela	,	qui	vient	juste	d'être	_UNK_	au	conseil	de	la	communauté	--	au	conseil	de	la	fondation	,	avec	près	de	plus	de	deux	fois	le	score	de	l'autre	candidat	.
+et	je	_UNK_	toujours	car	je	dis	,	bon	,	angela	pourrait	toujours	s'en	sortir	en	ne	faisant	absolument	rien	pour	wikipedia	,	car	elle	est	très	_UNK_	et	très	puissante	.
+mais	l'ironie	est	que	,	bien	sûr	,	angela	peut	faire	cela	car	elle	est	la	personne	élue	dont	vous	savez	qu'elle	_UNK_	jamais	aucune	règle	de	wikipedia	.
+j'aime	aussi	dire	que	c'est	la	seule	personne	qui	connaît	toutes	les	règles	de	wikipedia	,	donc	...
+et	après	il	y	a	la	monarchie	et	c'est	mon	rôle	dans	la	communauté	,	donc	...
+j'avais	décrit	ça	à	berlin	une	fois	et	le	lendemain	dans	les	journaux	la	presse	_UNK_	:	``	je	suis	la	reine	d'angleterre	.	``
+ce	n'est	pas	exactement	ce	que	j'avais	dit	mais	--	la	question	est	mon	rôle	dans	la	communauté	--	dans	le	monde	du	logiciel	libre	,	il	y	a	une	longue	--	il	existait	une	vielle	tradition	du	modèle	du	dictateur	bénévole	.
+donc	si	vous	regardez	la	plupart	des	projets	de	logiciels	libres	,	ils	ont	une	seule	personne	en	place	dont	tout	le	monde	est	d'accord	pour	dire	qu'elle	est	le	dictateur	bénévole	.
+bon	,	je	n'aime	pas	ce	terme	de	dictateur	bénévole	,	et	je	ne	pense	pas	que	mon	job	ou	mon	rôle	dans	le	monde	des	idées	est	d'être	le	décideur	du	futur	de	ce	qui	sera	la	compilation	de	toutes	les	connaissances	humaines	.
+c'est	simplement	inapproprié	.
+mais	il	y	a	un	besoin	pour	une	petite	dose	de	monarchie	,	une	certaine	quantité	de	--	parfois	nous	avons	à	prendre	une	décision	,	et	nous	ne	voulons	pas	être	alourdis	et	ralentis	par	un	processus	de	décision	formel	.
+un	exemple	du	pourquoi	cela	c'est	fait	comme	ça	--	et	de	combien	cela	est	important	,	nous	avons	récemment	vécu	une	situation	dans	laquelle	un	site	néo	-	nazi	a	découvert	wikipedia	,	et	ils	ont	dit	:	``	oh	,	c'est	horrible	,	ce	site	est	une	conspiration	juive	et	nous	allons	faire	en	sorte	que	certains	articles	que	nous	n'aimons	pas	disparaissent	.
+il	existe	un	système	de	vote	,	donc	nous	allons	envoyer	--	nous	avons	40	000	membres	and	nous	allons	les	envoyer	là	-	dessus	et	ils	vont	tous	voter	et	faire	supprimer	ces	pages	.	``
+en	fait	ils	ont	réussi	à	avoir	18	personnes	ceci	est	un	exemple	de	mathématiques	néo	-	nazi	.
+ils	pensent	toujours	qu'ils	ont	40	000	membres	alors	qu'ils	en	ont	18	.
+mais	ils	ont	réussi	à	faire	en	sorte	que	18	personnes	viennent	voter	de	façon	complètement	absurde	pour	supprimer	un	article	parfaitement	valide	.
+bien	sûr	,	le	vote	s'est	terminé	à	85	voix	contre	18	,	donc	ce	n'était	pas	un	réel	danger	pour	notre	procédé	démocratique	.
+d'un	autre	côté	,	les	gens	disent	:	``	mais	qu'allons	-	nous	faire	?
+je	veux	dire	,	cela	pourrait	arriver	,	que	ce	passerait	-	il	si	certains	groupes	arrivent	à	s'organiser	nous	rejoignent	et	demande	le	droit	de	vote	?	``
+et	jai	dit	:	``	et	bien	,	tant	pis	,	nous	changerons	juste	les	règles	.	``
+c'est	mon	travail	dans	la	communauté	:	de	dire	que	nous	_UNK_	pas	notre	ouverture	d'esprit	et	notre	liberté	pour	_UNK_	la	qualité	du	contenu	.
+et	aussi	longtemps	que	les	gens	me	feront	confiance	dans	mon	rôle	,	et	bien	c'est	une	place	valide	pour	moi	.
+bien	sûr	,	à	cause	de	la	licence	libre	,	si	je	fais	du	mauvais	boulot	,	les	volontaires	sont	plus	que	contents	de	partir	.
+je	ne	peux	dire	à	personne	ce	qu'il	a	à	faire	.
+donc	la	conclusion	ici	est	que	pour	comprendre	comment	marche	wikipedia	,	il	est	important	de	comprendre	que	notre	modèle	wiki	est	notre	façon	de	travailler	,	mais	nous	ne	sommes	pas	des	anarchistes	fanatiques	du	web	.	en	fait	,	notre	--	nous	sommes	très	flexible	à	propos	de	la	méthodologie	sociale	,	parce	que	c'est	ultimement	la	passion	de	la	communauté	est	pour	la	qualité	du	travail	.
+et	pas	nécessairement	pour	le	procédé	que	nous	utilisons	pour	le	générer	.
+merci	.
+ben	_UNK_	:	oui	,	bonjour	,	ben	saunders	.
+jimmy	,	vous	avez	mentionné	que	_UNK_	est	une	clef	du	succès	de	wikipedia	.
+cela	me	fait	penser	aux	livres	de	classe	qui	sont	utilisés	pour	éduquer	nos	enfants	sont	_UNK_	de	manière	inhérente	.
+vous	-	êtes	vous	rendu	compte	que	wikipedia	est	utilisé	par	des	professeurs	,	et	comment	vous	pensez	que	wikipedia	va	changer	l'éducation	?
+jimmy	wales	:	oui	,	beaucoup	de	professeurs	commencent	à	utiliser	wikipedia	.	une	autre	--	il	y	a	une	ligne	historique	médiatique	sur	wikipedia	,	et	je	pense	qu'elle	est	fausse	.
+elle	se	construit	sur	la	chronologie	des	blogueurs	contre	les	journaux	.
+et	la	chronologie	est	,	il	y	a	cette	chose	folle	,	wikipedia	,	mais	les	académiciens	le	déteste	et	les	professeurs	le	déteste	.	et	on	a	découvert	que	ceci	était	faux	.
+la	dernière	fois	que	j'ai	reçu	un	courriel	d'un	journaliste	disant	,	``	pourquoi	les	universitaires	détestent	wikipédia	?	``
+je	l'ai	envoyé	de	mon	courriel	d'harvard	car	j'avais	été	récemment	considéré	comme	collègue	là	-	bas	.
+et	j'ai	dit	,	``	et	bien	,	ils	ne	le	détestent	pas	tous	.	``
+mais	je	pense	qu'il	y	aura	des	énormes	impacts	.
+et	nous	avons	actuellement	un	projet	dont	je	suis	personnellement	très	excité	,	qui	est	le	projet	de	livres	wiki	,	qui	est	un	effort	pour	créer	des	livres	de	classes	dans	toutes	les	langues	.
+et	c'est	un	projet	bien	plus	gros	;	cela	va	prendre	20	ans	ou	a	peu	près	pour	qu'il	_UNK_	.
+mais	une	partie	de	tout	ça	est	pour	remplir	notre	mission	de	donner	une	encyclopédie	à	toutes	les	personnes	de	cette	planète	.
+nous	ne	voulons	pas	dire	que	nous	allons	les	_UNK_	avec	des	cd	type	aol	.
+nous	voulons	dire	que	nous	allons	leur	donner	un	outil	dont	ils	peuvent	se	servir	.
+et	pour	un	grand	nombre	de	gens	dans	le	monde	,	si	je	vous	donne	une	encyclopédie	qui	est	écrite	à	un	niveau	universitaire	,	cela	ne	sert	à	rien	sans	un	hébergement	complet	de	matériel	littéraire	pour	vous	amener	jusqu'au	point	ou	vous	pourriez	effectivement	vous	en	servir	.
+et	le	projet	de	livres	wiki	est	une	avancée	pour	faire	ça	.
+je	pense	que	nous	allons	vraiment	voir	un	énorme	--	cela	peut	même	ne	pas	venir	de	nous	,	tous	les	types	d'innovations	possibles	sont	en	cours	.
+mais	les	livres	de	cours	gratuits	sont	le	prochain	gros	tournant	de	l'éducation	.
+

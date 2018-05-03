@@ -1,0 +1,222 @@
+kaçınız_tr buna_tr benzer_tr şekli_tr bozulmuş_tr bir_tr karakter_tr dizisini_tr okumanızı_tr gerektiren_tr bir_tr web_tr formu_tr doldurmak_tr zorunda_tr kaldınız_tr ?_tr
+kaçınız_tr bunu_tr gerçekten_tr ama_tr gerçekten_tr sinir_tr bozucu_tr buluyor_tr ?_tr
+pekala_tr ,_tr harika_tr ._tr bunu_tr ben_tr icat_tr ettim_tr ._tr
+ya_tr da_tr icat_tr edenlerden_tr biriydim_tr ._tr
+bu_tr şeye_tr captcha_tr deniyor_tr ._tr
+ve_tr bunun_tr orada_tr olmasının_tr nedeni_tr formu_tr dolduran_tr kişinin_tr ,_tr sizin_tr ,_tr formu_tr milyonlarca_tr defa_tr göndermeye_tr programlanmış_tr bir_tr bilgisayar_tr programı_tr değil_tr ,_tr insan_tr olduğunuzdan_tr emin_tr olmak_tr ._tr
+i̇şe_tr yarıyor_tr çünkü_tr insanlar_tr ,_tr en_tr azından_tr görme_tr engelli_tr olmayan_tr insanlar_tr ,_tr şekli_tr bozulmuş_tr dalgalı_tr karakterleri_tr _UNK__tr sorun_tr _UNK__tr ,_tr fakat_tr bilgisayarlar_tr bunu_tr henüz_tr yapamıyorlar_tr ._tr
+örneğin_tr ,_tr _UNK__tr durumunda_tr ,_tr bu_tr şekli_tr bozuk_tr karakterleri_tr _UNK__tr nedeni_tr ,_tr bilet_tr _UNK__tr ikişer_tr defa_tr milyonlarca_tr bilet_tr alabilen_tr bir_tr program_tr yazmalarını_tr engellemek_tr ._tr
+_UNK__tr bütün_tr i̇nternet'te_tr kullanılıyor_tr ._tr
+ve_tr çok_tr sık_tr _UNK__tr ,_tr birçok_tr kez_tr kullanıcının_tr karşısına_tr rastgele_tr karakterlerin_tr düzgün_tr sıralanmış_tr olarak_tr çıkması_tr olağan_tr ._tr
+örneğin_tr bu_tr yahoo'nun_tr kayıt_tr sayfası_tr ._tr
+kullanıcının_tr karşısına_tr çıkan_tr rastgele_tr karakterler_tr şunlardı_tr w_tr ,_tr a_tr ,_tr i_tr ,_tr t_tr ,_tr tabi_tr ki_tr bu_tr aynı_tr zamanda_tr bir_tr kelime_tr ._tr
+ama_tr işin_tr en_tr iyi_tr kısmı_tr yahoo'nun_tr yardım_tr masasına_tr 20_tr dakika_tr sonra_tr gelen_tr mesaj_tr ._tr
+yazı_tr :_tr "_tr yardım_tr edin_tr !_tr 20_tr dakikadır_tr bekliyorum_tr ama_tr hiçbir_tr şey_tr olmuyor_tr ._tr "_tr
+bu_tr kişi_tr beklemeleri_tr gerektiğini_tr düşünmüş_tr ._tr
+bu_tr tabi_tr ki_tr ,_tr bu_tr zavallı_tr _UNK__tr kadar_tr kötü_tr değil_tr ._tr
+captcha_tr projesi_tr burada_tr carnegie_tr mellon'da_tr 10_tr yıl_tr önce_tr yaptığımız_tr birşey_tr ,_tr ve_tr her_tr yerde_tr kullanılıyor_tr ._tr
+şimdi_tr size_tr bundan_tr birkaç_tr yıl_tr sonra_tr yaptığımız_tr bir_tr projeden_tr bahsedeyim_tr ,_tr ki_tr bu_tr _UNK__tr bir_tr çeşit_tr evrimleşmiş_tr hali_tr ._tr
+bu_tr projeye_tr recaptcha_tr diyoruz_tr ,_tr burada_tr carnegie_tr mellon'da_tr başlattığımız_tr birşey_tr ,_tr sonra_tr bunu_tr yeni_tr kurulmuş_tr bir_tr şirkete_tr çevirdik_tr ._tr
+ve_tr yaklaşık_tr bir_tr buçuk_tr yıl_tr sonra_tr ,_tr aslında_tr google_tr bu_tr şirketi_tr satın_tr aldı_tr ._tr
+size_tr bu_tr projenin_tr neyi_tr başlattığını_tr anlatayım_tr ._tr
+bu_tr proje_tr arka_tr arkaya_tr gelen_tr _UNK__tr başladı_tr :_tr anlaşıldı_tr ki_tr dünyanın_tr her_tr yerinde_tr insanlar_tr hergün_tr yaklaşık_tr 200_tr milyon_tr captcha_tr yazıyor_tr ._tr
+bunu_tr ilk_tr duyduğumda_tr ,_tr kendimle_tr gerçekten_tr gurur_tr duydum_tr ._tr
+şöyle_tr düşündüm_tr ,_tr araştırmamın_tr yarattığı_tr etkiye_tr bakın_tr ._tr
+ama_tr sonra_tr kendimi_tr kötü_tr hissetmeye_tr başladım_tr ._tr
+olay_tr şu_tr ,_tr her_tr bir_tr captcha_tr _UNK__tr ,_tr aslında_tr hayatınızın_tr 10_tr saniyesini_tr harcıyorsunuz_tr ._tr
+ve_tr bunu_tr 200_tr milyonla_tr çarptığınızda_tr ,_tr şu_tr sonuç_tr çıkıyor_tr ,_tr tüm_tr insanlık_tr hergün_tr bu_tr sinir_tr bozucu_tr captcha'ları_tr yazarak_tr günde_tr yaklaşık_tr 500,000_tr saat_tr harcıyor_tr ._tr
+sonra_tr kendimi_tr kötü_tr hissetmeye_tr başladım_tr ._tr
+ve_tr sonra_tr düşünmeye_tr başladım_tr ,_tr tabi_tr ki_tr ,_tr _UNK__tr vazgeçemeyiz_tr ,_tr çünkü_tr web_tr güvenliği_tr bir_tr şekilde_tr onlara_tr dayanıyor_tr ._tr
+ama_tr sonra_tr bu_tr _UNK__tr insanlığa_tr faydalı_tr olacak_tr bir_tr şekilde_tr kullanabilir_tr miyiz_tr diye_tr düşünmeye_tr başladım_tr ?_tr
+görüyorsunuz_tr ,_tr olay_tr bu_tr ._tr
+bir_tr captcha_tr _UNK__tr 10_tr saniye_tr içinde_tr ,_tr beyniniz_tr muhteşem_tr birşey_tr yapıyor_tr ._tr
+beyniniz_tr henüz_tr bilgisayarların_tr yapamadığı_tr birşeyi_tr yapıyor_tr ._tr
+peki_tr size_tr bu_tr 10_tr saniye_tr içinde_tr bu_tr faydalı_tr işi_tr _UNK__tr miyiz_tr ?_tr
+başka_tr bir_tr deyişle_tr ,_tr henüz_tr bilgisayarların_tr çözemediği_tr ,_tr bir_tr kişinin_tr her_tr captcha_tr _UNK__tr bu_tr sorunun_tr da_tr bir_tr kısmını_tr çözmesini_tr sağlayan_tr 10_tr saniyelik_tr küçük_tr parçalara_tr _UNK__tr büyük_tr sorunlar_tr var_tr mı_tr ?_tr
+ve_tr bunun_tr cevabı_tr "_tr evet_tr "_tr ,_tr ve_tr şu_tr an_tr bunu_tr yapıyoruz_tr ._tr
+şunu_tr bilmiyor_tr olabilirsiniz_tr ama_tr bugünlerde_tr captcha'yı_tr yazarken_tr sadece_tr insan_tr olduğunuzu_tr doğrulamakla_tr kalmıyor_tr ,_tr aynı_tr zamanda_tr aslında_tr bize_tr kitapları_tr _UNK__tr yardımcı_tr oluyorsunuz_tr ._tr
+size_tr nasıl_tr çalıştığını_tr anlatayım_tr ._tr
+kitapları_tr dijitalleştirmeye_tr çalışan_tr çok_tr fazla_tr proje_tr var_tr ._tr
+google'ın_tr var_tr ._tr the_tr internet_tr _UNK__tr var_tr ._tr
+amazon_tr ,_tr şimdi_tr kindle_tr ile_tr ,_tr kitapları_tr dijitalleştirmeye_tr çalışıyor_tr ._tr
+temelde_tr şöyle_tr çalışıyor_tr eski_tr bir_tr kitapla_tr başlıyorsunuz_tr ._tr
+bunlardan_tr daha_tr önce_tr gördünüz_tr ,_tr değil_tr mi_tr ?_tr kitap_tr gibi_tr ?_tr
+bir_tr kitapla_tr başlıyorsunuz_tr ve_tr sonra_tr onu_tr _UNK__tr ._tr
+şimdi_tr bir_tr kitabı_tr taramak_tr kitabın_tr her_tr sayfasının_tr dijital_tr fotoğrafını_tr çekmek_tr gibi_tr birşey_tr ._tr
+kitabın_tr her_tr sayfası_tr için_tr bir_tr resim_tr veriyor_tr size_tr ._tr
+bu_tr kitabın_tr her_tr sayfası_tr için_tr bir_tr yazılı_tr resim_tr ._tr
+süreçteki_tr bir_tr sonraki_tr adımda_tr bilgisayarın_tr bu_tr resimdeki_tr tüm_tr kelimeleri_tr deşifre_tr etmesi_tr gerekiyor_tr ._tr
+bunun_tr için_tr ocr_tr isimli_tr bir_tr teknoloji_tr kullanıyor_tr ,_tr optik_tr karakter_tr tanımlaması_tr için_tr ,_tr yazının_tr fotoğrafı_tr gerekiyor_tr ve_tr yazıyı_tr çözmeye_tr çalışıyor_tr ._tr
+sorun_tr şu_tr ki_tr ocr_tr mükemmel_tr değil_tr ._tr
+özellikle_tr mürekkebin_tr _UNK__tr ve_tr sayfaların_tr _UNK__tr daha_tr eski_tr kitaplarda_tr ,_tr ocr_tr tüm_tr kelimeleri_tr tanıyamıyor_tr ._tr
+örneğin_tr ,_tr 50_tr yıl_tr önce_tr yazılmış_tr şeylerde_tr ,_tr bilgisayar_tr kelimelerin_tr yaklaşık_tr yüzde_tr 30'unu_tr tanıyamıyor_tr ._tr
+bu_tr yüzden_tr şunu_tr yapıyoruz_tr ,_tr bilgisayarın_tr tanıyamadığı_tr bütün_tr kelimeleri_tr alıyoruz_tr ve_tr insanların_tr i̇nternette_tr bir_tr captcha_tr yazarken_tr bunları_tr bizim_tr için_tr okumalarını_tr sağlıyoruz_tr ._tr
+yani_tr bir_tr daha_tr ki_tr sefere_tr bir_tr captcha_tr yazdığınızda_tr ,_tr yazdığınız_tr kelimeler_tr aslında_tr _UNK__tr olan_tr kitapların_tr bilgisayarın_tr tanıyamadığı_tr kelimeleri_tr olacak_tr ._tr
+ve_tr artık_tr günümüzde_tr bir_tr yerine_tr iki_tr kelimenin_tr olmasının_tr nedeni_tr şu_tr ,_tr görüyorsunuz_tr ,_tr kelimelerden_tr biri_tr sistemin_tr kitaptan_tr bulduğu_tr bir_tr kelime_tr ,_tr ne_tr olduğunu_tr bilmiyordu_tr ve_tr bunu_tr size_tr sunacak_tr ._tr
+ama_tr bunu_tr cevabını_tr bilmediği_tr için_tr bunu_tr sizin_tr için_tr _UNK__tr ._tr
+bu_tr yüzden_tr size_tr bir_tr kelime_tr daha_tr veriyoruz_tr ,_tr bilgisayarın_tr cevabını_tr bildiği_tr bir_tr kelime_tr ._tr
+size_tr hangisinin_tr hangisi_tr olduğunu_tr _UNK__tr ve_tr ikisini_tr de_tr yazmanızı_tr istiyoruz_tr ._tr
+ve_tr eğer_tr sistemin_tr çoktan_tr cevabını_tr bildiği_tr doğru_tr kelimeyi_tr yazarsanız_tr ,_tr sizi_tr insan_tr olarak_tr kabul_tr eder_tr ,_tr ve_tr ayrıca_tr diğer_tr kelimeyi_tr de_tr doğru_tr _UNK__tr düşünür_tr ._tr
+ve_tr bu_tr süreci_tr 10_tr farklı_tr kişi_tr için_tr tekrar_tr edersek_tr ve_tr hepsi_tr yeni_tr kelimenin_tr ne_tr olduğu_tr konusunda_tr hem_tr fikir_tr olursa_tr ,_tr bir_tr kelimeyi_tr daha_tr doğru_tr bir_tr şekilde_tr _UNK__tr oluyoruz_tr ._tr
+yani_tr sistem_tr bu_tr şekilde_tr işliyor_tr ._tr
+ve_tr aslında_tr ,_tr bunu_tr yapmaya_tr başlayalı_tr ü_tr ç_tr ya_tr da_tr dört_tr yıl_tr geçti_tr ,_tr birçok_tr websitesi_tr insanların_tr vakitlerini_tr harcadıkları_tr eski_tr captcha'yı_tr insanların_tr kitapları_tr dijitalleştirmeye_tr yardımcı_tr olduğu_tr yeni_tr captcha_tr ile_tr değiştirmeye_tr başladı_tr ._tr
+örneğin_tr ,_tr _UNK__tr ._tr
+yani_tr _UNK__tr her_tr bilet_tr alışınızda_tr bir_tr kitabı_tr dijitalleştirmeye_tr yardım_tr ediyorsunuz_tr ._tr
+facebook_tr :_tr her_tr yeni_tr arkadaş_tr eklediğinizde_tr veya_tr birini_tr _UNK__tr ,_tr bir_tr kitabı_tr dijitalleştirmeye_tr yardım_tr ediyorsunuz_tr ._tr
+twitter_tr ve_tr yaklaşık_tr 350,000_tr başka_tr site_tr recaptcha'yı_tr kullanıyor_tr ._tr
+ve_tr aslında_tr ,_tr recaptcha'yı_tr kullanan_tr sitelerin_tr sayısı_tr o_tr kadar_tr fazla_tr ki_tr ,_tr bir_tr günde_tr _UNK__tr kelimelerin_tr sayısı_tr gerçekten_tr çok_tr fazla_tr ._tr
+günde_tr yaklaşık_tr 100_tr milyon_tr ,_tr ki_tr bu_tr da_tr yılda_tr yaklaşık_tr iki_tr buçuk_tr milyon_tr kitaba_tr eşdeğer_tr ._tr
+ve_tr bu_tr insanların_tr i̇nternette_tr captcha'ları_tr yazmasıyla_tr her_tr seferde_tr tek_tr kelime_tr ile_tr oluyor_tr ._tr
+tabi_tr ki_tr ,_tr günde_tr çok_tr fazla_tr kelime_tr yazdığımız_tr için_tr ,_tr komik_tr şeyler_tr olabiliyor_tr ._tr
+bu_tr gerçekten_tr doğru_tr çünkü_tr insanlara_tr rastgele_tr seçilmiş_tr i̇ngilizce_tr kelimeleri_tr yan_tr yana_tr veriyoruz_tr ._tr
+çok_tr komik_tr şeyler_tr olabiliyor_tr ._tr
+örneğin_tr ,_tr bu_tr kelimeyi_tr sunduk_tr ._tr
+"_tr _UNK__tr "_tr kelimesi_tr ,_tr bunda_tr bir_tr sorun_tr yok_tr ._tr
+ama_tr bunu_tr rastgele_tr seçilen_tr başka_tr bir_tr kelimeyle_tr sunduğunuzda_tr ,_tr kötü_tr şeyler_tr olabilir_tr ._tr
+başımıza_tr bu_tr geliyor_tr ._tr
+daha_tr da_tr kötüsü_tr ,_tr bunu_tr gösterdiğimiz_tr sitenin_tr adı_tr tanrı'nın_tr krallığının_tr _UNK__tr ._tr
+oops_tr ._tr
+i̇şte_tr gerçekten_tr kötü_tr olan_tr başka_tr bir_tr tanesi_tr ._tr
+_UNK__tr yani_tr hergün_tr solcu_tr ve_tr _UNK__tr aşağılamaya_tr devam_tr ediyoruz_tr ._tr
+tabi_tr ki_tr ,_tr sadece_tr insanları_tr _UNK__tr kalmıyoruz_tr ._tr
+olay_tr şu_tr ,_tr iki_tr rastgele_tr seçilmiş_tr kelime_tr sunduğumuz_tr için_tr ,_tr ilginç_tr şeyler_tr olabiliyor_tr ._tr
+hatta_tr bu_tr durum_tr on_tr binlerce_tr insanın_tr katıldığı_tr bir_tr i̇nternet_tr etkinliğine_tr neden_tr oldu_tr ,_tr buna_tr captcha_tr sanatı_tr deniyor_tr ._tr
+eminim_tr bir_tr kaçınız_tr bunu_tr duymuştur_tr ._tr
+bu_tr şekilde_tr oluyor_tr ._tr
+düşünün_tr ki_tr i̇nterneti_tr kullanıyorsunuz_tr ve_tr bir_tr şekilde_tr tuhaf_tr olduğunu_tr düşündüğünüz_tr bir_tr captcha_tr görüyorsunuz_tr ,_tr bu_tr captcha_tr gibi_tr ._tr
+sonra_tr yapmanız_tr gereken_tr şey_tr bunun_tr ekran_tr resmini_tr çekmek_tr ._tr
+sonra_tr tabi_tr ki_tr ,_tr captcha_tr dolduruyorsunuz_tr çünkü_tr bize_tr bir_tr kitabı_tr dijitalleştirmede_tr yardım_tr ediyorsunuz_tr ._tr
+ama_tr sonra_tr ,_tr önce_tr ekran_tr resmi_tr çekiyorsunuz_tr ,_tr ve_tr sonra_tr onunla_tr alakalı_tr birşey_tr çiziyorsunuz_tr ._tr
+i̇şte_tr bu_tr şekilde_tr çalışıyor_tr ._tr
+bunlardan_tr on_tr binlerce_tr var_tr ._tr
+bazıları_tr çok_tr sevimli_tr ._tr
+bazıları_tr daha_tr komik_tr ._tr
+ve_tr bazılarında_tr ,_tr paleontolojik_tr _UNK__tr gibi_tr ,_tr _UNK__tr _UNK__tr kullanılıyor_tr ._tr
+pekala_tr ,_tr bu_tr benim_tr favori_tr recaptcha_tr _UNK__tr ._tr
+bu_tr tüm_tr projeyle_tr ilgili_tr en_tr sevdiğim_tr şey_tr ._tr
+bu_tr recaptcha_tr sayesinde_tr bir_tr kitabın_tr en_tr az_tr bir_tr kelimesini_tr dijitalleştirmede_tr yardımcı_tr olan_tr net_tr kişi_tr sayısı_tr :_tr 750_tr milyon_tr ,_tr bu_tr ,_tr dünya_tr nüfusunun_tr yüzde_tr 10'undan_tr biraz_tr fazla_tr ,_tr bu_tr kadar_tr kişi_tr bilgiyi_tr dijitalleştirmemize_tr yardım_tr etti_tr ._tr
+ve_tr bunun_tr gibi_tr rakamlar_tr araştırma_tr _UNK__tr harekete_tr geçiriyor_tr ._tr
+beni_tr araştırmaya_tr sevk_tr eden_tr şey_tr şu_tr :_tr eğer_tr insanların_tr büyük_tr ölçekli_tr başarılarına_tr bakarsanız_tr ,_tr insanlığın_tr tarihi_tr açıdan_tr beraber_tr yaptıkları_tr gerçekten_tr büyük_tr şeyler_tr --_tr örneğin_tr ,_tr mısır_tr _UNK__tr ya_tr da_tr panama_tr kanalını_tr inşa_tr etmek_tr ya_tr da_tr ay'a_tr adam_tr göndermek_tr --_tr bunlarla_tr ilgili_tr garip_tr bir_tr gerçek_tr var_tr ,_tr ve_tr bu_tr da_tr şu_tr ,_tr bunların_tr hepsi_tr aynı_tr sayıda_tr insanla_tr yapıldı_tr ._tr
+çok_tr garip_tr ;_tr hepsi_tr yaklaşık_tr 100,000_tr insanla_tr yapıldılar_tr ._tr
+ve_tr bunun_tr nedeni_tr ,_tr i̇nternetten_tr önce_tr ,_tr 100,000_tr insanı_tr bir_tr araya_tr getirmek_tr ,_tr onlara_tr ödeme_tr yapmayı_tr bir_tr kenara_tr bırakın_tr ,_tr kesinlikle_tr imkansız_tr ._tr
+ama_tr şimdi_tr _UNK__tr ,_tr size_tr bilgiyi_tr dijitalleştirmemize_tr yardım_tr eden_tr 750_tr milyon_tr insanın_tr katıldığı_tr bir_tr projeyi_tr gösterdim_tr ._tr
+yani_tr beni_tr araştırmaya_tr sevk_tr eden_tr soru_tr şuydu_tr ,_tr eğer_tr 100,000_tr kişiyle_tr bir_tr adamı_tr ay'a_tr _UNK__tr ,_tr 100_tr milyon_tr kişiyle_tr ne_tr yapabiliriz_tr ?_tr
+bu_tr soruyu_tr temel_tr alarak_tr ,_tr üzerinde_tr çalıştığımız_tr çok_tr farklı_tr projeler_tr geliştirdik_tr ._tr
+size_tr beni_tr en_tr çok_tr _UNK__tr bahsedeyim_tr ._tr
+bu_tr yaklaşık_tr bir_tr buçuk_tr yıldır_tr üzerinde_tr çok_tr da_tr ses_tr çıkarmadan_tr çalıştığımız_tr bir_tr proje_tr ._tr
+site_tr henüz_tr açılmadı_tr ._tr adı_tr duolingo_tr ._tr
+henüz_tr _UNK__tr için_tr ,_tr _UNK__tr !_tr
+evet_tr ,_tr size_tr güvenebilirim_tr ._tr
+proje_tr bu_tr ._tr şu_tr şekilde_tr başladı_tr ._tr
+mezun_tr olmuş_tr bir_tr öğrencime_tr bir_tr soru_tr _UNK__tr başladı_tr ,_tr severin_tr _UNK__tr ._tr
+evet_tr ,_tr bu_tr severin_tr hacker_tr ._tr
+mezun_tr olan_tr öğrencime_tr bir_tr soru_tr yönelttim_tr ._tr
+bu_tr arada_tr ,_tr beni_tr doğru_tr duydunuz_tr ;_tr soyadı_tr hacker_tr
+ona_tr şu_tr soruyu_tr sordum_tr :_tr nasıl_tr 100_tr milyon_tr insana_tr web'i_tr ücretsiz_tr olarak_tr her_tr anadile_tr _UNK__tr ?_tr
+bu_tr soruyla_tr ilgili_tr söylenebilecek_tr çok_tr şey_tr var_tr ._tr
+öncelikle_tr ,_tr web'i_tr çevirmek_tr ._tr
+şu_tr an_tr web_tr çok_tr fazla_tr dile_tr bölünmüş_tr durumda_tr ._tr
+büyük_tr kısmı_tr i̇ngilizce_tr ._tr
+eğer_tr hiç_tr i̇ngilizce_tr bilmiyorsanız_tr ,_tr kullanamazsınız_tr ._tr
+başka_tr diller_tr de_tr büyük_tr ölçüde_tr kullanılıyor_tr ,_tr ve_tr eğer_tr bu_tr dilleri_tr bilmiyorsanız_tr ,_tr kullanamazsınız_tr ._tr
+web'in_tr tamamını_tr en_tr azından_tr büyük_tr bir_tr kısmını_tr çevirmek_tr istiyorum_tr ,_tr her_tr anadile_tr ._tr
+yapmak_tr istediğim_tr bu_tr ._tr
+bazılarınız_tr şöyle_tr diyebilir_tr ,_tr neden_tr bunun_tr için_tr bilgisayar_tr kullanmıyoruz_tr ?_tr
+neden_tr makine_tr çevirisini_tr kullanamıyoruz_tr ?_tr
+makine_tr çevirisi_tr bu_tr günlerde_tr oradan_tr buradan_tr bazı_tr cümleleri_tr çevirmeye_tr başlıyor_tr ._tr
+neden_tr bunu_tr tüm_tr web'i_tr çevirmek_tr için_tr kullanamıyoruz_tr ?_tr
+sorun_tr şu_tr ki_tr ,_tr bu_tr sistem_tr henüz_tr yeterince_tr iyi_tr değil_tr ,_tr ve_tr muhtemelen_tr önümüzdeki_tr 15_tr ila_tr 20_tr yıl_tr içinde_tr de_tr olmayacak_tr ._tr
+çok_tr fazla_tr hata_tr yapıyor_tr ._tr
+hata_tr _UNK__tr bile_tr ,_tr çok_tr fazla_tr hata_tr yaptığı_tr için_tr ,_tr doğruluğuna_tr güvenmeli_tr _UNK__tr bilmiyorsunuz_tr ._tr
+size_tr makine_tr ile_tr çevrilmiş_tr birşeyin_tr örneğini_tr göstereyim_tr ._tr
+aslında_tr bu_tr foruma_tr yazılmış_tr bir_tr yazı_tr ._tr
+javascript_tr hakkında_tr soru_tr sormaya_tr çalışan_tr bir_tr kişiymiş_tr ._tr
+_UNK__tr _UNK__tr çevrilmiş_tr ._tr
+sadece_tr okuyacağım_tr ._tr
+bu_tr kişi_tr bilgisayar_tr kullanarak_tr çeviri_tr yaptığı_tr için_tr özür_tr _UNK__tr başlıyor_tr ._tr
+bir_tr sonraki_tr cümle_tr sorunun_tr giriş_tr kısmı_tr olacak_tr ._tr
+birşeyi_tr açıklıyor_tr ._tr
+unutmayın_tr ,_tr bu_tr javascript_tr hakkında_tr bir_tr soru_tr ._tr
+sonra_tr sorunun_tr ilk_tr kısmı_tr geliyor_tr ._tr
+sonra_tr sorunun_tr en_tr sevdiğim_tr kısmı_tr geliyor_tr ._tr
+ve_tr sonra_tr son_tr kısım_tr ,_tr ki_tr bu_tr tüm_tr yazının_tr en_tr sevdiğim_tr kısmı_tr ._tr
+tamam_tr ,_tr yani_tr bilgisayar_tr çevirisi_tr henüz_tr yeterince_tr iyi_tr değil_tr ._tr
+soruya_tr geri_tr dönelim_tr ._tr
+yani_tr tüm_tr web'i_tr çevirmek_tr için_tr insanlara_tr ihtiyacım_tr var_tr ._tr
+şimdi_tr soracağınız_tr bir_tr sonraki_tr soru_tr şu_tr olabilir_tr ,_tr neden_tr bunun_tr için_tr insanları_tr işe_tr almıyoruz_tr ?_tr
+tüm_tr web'i_tr çevirmek_tr için_tr profesyonel_tr _UNK__tr işe_tr alabilirdik_tr ._tr
+bunu_tr yapabilirdik_tr ._tr
+malesef_tr ,_tr son_tr derece_tr pahalı_tr olurdu_tr ._tr
+örneğin_tr tüm_tr web'in_tr ,_tr wikipedia'nın_tr küçük_tr ,_tr çok_tr küçük_tr bir_tr kısmını_tr başka_tr bir_tr dile_tr ,_tr i̇spanyolcaya_tr çevirmek_tr ._tr
+wikipedia'nın_tr _UNK__tr var_tr ,_tr ama_tr i̇ngilizce_tr olanına_tr kıyasla_tr çok_tr küçük_tr bir_tr oranda_tr ._tr
+i̇ngilizce_tr olanın_tr yaklaşık_tr yüzde_tr 20'si_tr kadar_tr ._tr
+eğer_tr kalan_tr yüzde_tr 80'i_tr i̇spanyolcaya_tr çevirmek_tr isteseydik_tr ,_tr 50_tr milyon_tr dolara_tr _UNK__tr --_tr ve_tr bu_tr en_tr çok_tr _UNK__tr ,_tr dış_tr kaynakları_tr kullanılan_tr bir_tr ülkenin_tr şartlarında_tr ._tr
+yani_tr çok_tr pahalı_tr olurdu_tr ._tr
+bizim_tr yapmak_tr istediğimiz_tr şeyse_tr 100_tr milyon_tr insana_tr web'i_tr her_tr anadile_tr tercüme_tr ettirmek_tr ,_tr bedavaya_tr ._tr
+eğer_tr yapmak_tr istediğiniz_tr şey_tr buysa_tr ,_tr iki_tr oldukça_tr büyük_tr engelle_tr karşılaşacağınızı_tr çabucak_tr fark_tr ediyorsunuz_tr ._tr
+i̇lki_tr iki_tr dile_tr de_tr hakim_tr kişilerin_tr azlığı_tr ._tr
+bize_tr tercüme_tr yapmakta_tr yardımcı_tr olmaya_tr yetecek_tr kadar_tr iyi_tr iki_tr dil_tr kullanabilen_tr 100_tr milyon_tr kişi_tr var_tr mıdır_tr bilmiyorum_tr ._tr
+bu_tr büyük_tr bir_tr sorun_tr ._tr
+karşılaşacağınız_tr bir_tr diğer_tr problem_tr ise_tr motivasyon_tr eksikliği_tr ._tr
+i̇nsanları_tr web'i_tr bedavaya_tr tercüme_tr etmeleri_tr için_tr nasıl_tr motive_tr edebiliriz_tr ?_tr
+normalde_tr ,_tr bunun_tr için_tr insanlara_tr ödeme_tr yaparsınız_tr ._tr
+peki_tr onları_tr bunu_tr bedavaya_tr yapmaya_tr nasıl_tr motive_tr ederiz_tr ?_tr
+bunu_tr düşünmeye_tr başladığımızda_tr ,_tr bu_tr iki_tr konu_tr bizi_tr engelledi_tr ._tr
+ama_tr sonra_tr fark_tr ettik_tr ki_tr ,_tr aslında_tr bu_tr iki_tr sorunu_tr aynı_tr çözüm_tr yoluyla_tr aşabiliriz_tr ._tr
+bir_tr taşla_tr iki_tr kuş_tr vurmanın_tr bir_tr yolu_tr var_tr ._tr
+ve_tr bu_tr da_tr tercüme_tr yapmayı_tr milyonlarca_tr insanın_tr yapmak_tr isteyeceği_tr bir_tr hale_tr ,_tr ve_tr ayrıca_tr iki_tr dile_tr hakim_tr _UNK__tr sorununa_tr çözüm_tr bulmaya_tr ,_tr ve_tr dil_tr eğitimine_tr dönüştürmek_tr ._tr
+bugün_tr görüyoruz_tr ki_tr ,_tr 1.2_tr milyardan_tr fazla_tr insan_tr yabancı_tr dil_tr öğreniyor_tr ._tr
+i̇nsanlar_tr gerçekten_tr yabancı_tr bir_tr dil_tr öğrenmek_tr istiyor_tr ._tr
+ve_tr sadece_tr okulda_tr yapmak_tr zorunda_tr oldukları_tr için_tr değil_tr ._tr
+örneğin_tr ,_tr yalnızca_tr amerika_tr birleşik_tr devletleri'nde_tr ,_tr yeni_tr bir_tr dil_tr öğrenmek_tr için_tr _UNK__tr 500_tr dolardan_tr fazla_tr para_tr veren_tr beş_tr milyondan_tr fazla_tr kişi_tr var_tr ._tr
+yani_tr insanlar_tr gerçekten_tr yeni_tr bir_tr dil_tr öğrenmek_tr istiyor_tr ._tr
+son_tr bir_tr buçuk_tr yıldır_tr yeni_tr bir_tr websitesi_tr üzerinde_tr çalışıyoruz_tr --_tr adı_tr duolingo_tr --_tr ana_tr fikir_tr insanların_tr web'i_tr eş_tr zamanlı_tr tercüme_tr ederek_tr ücretsiz_tr olarak_tr yeni_tr bir_tr dil_tr öğrenmesi_tr ._tr
+ve_tr temelde_tr yaparak_tr öğreniyorlar_tr ._tr
+şu_tr şekilde_tr işliyor_tr eğer_tr başlangıç_tr seviyesinde_tr biliyorsanız_tr çok_tr çok_tr basit_tr cümleler_tr veriyoruz_tr ._tr
+tabi_tr ki_tr web'te_tr çok_tr fazla_tr kolay_tr cümle_tr var_tr ._tr
+çok_tr ,_tr çok_tr basit_tr cümleler_tr veriyoruz_tr beraberinde_tr de_tr her_tr kelimenin_tr anlamını_tr ._tr
+tercüme_tr ederek_tr ve_tr başkalarının_tr nasıl_tr tercüme_tr ettiğini_tr görerek_tr ,_tr dili_tr öğrenmeye_tr başlıyorsunuz_tr ._tr
+ve_tr siz_tr dili_tr ilerlettikçe_tr ,_tr çok_tr daha_tr karmaşık_tr cümleleri_tr tercüme_tr etmenizi_tr istiyoruz_tr ._tr
+ama_tr her_tr zaman_tr yaparak_tr öğreniyorsunuz_tr ._tr
+bu_tr metodla_tr ilgili_tr çılgınca_tr olan_tr şeyse_tr gerçekten_tr işe_tr yarıyor_tr olması_tr ._tr
+herşeyden_tr önce_tr insanlar_tr gerçekten_tr yeni_tr bir_tr dil_tr öğrenmek_tr istiyor_tr ._tr
+sistemi_tr kurmayı_tr bitirdik_tr ve_tr şu_tr an_tr test_tr ediyoruz_tr ._tr
+i̇nsanlar_tr gerçekten_tr bu_tr yöntemle_tr bir_tr dil_tr öğrenebilirler_tr ._tr
+ve_tr neredeyse_tr en_tr iyi_tr dil_tr öğrenme_tr yazılımında_tr olduğu_tr kadar_tr iyi_tr öğreniyorlar_tr ._tr
+yani_tr insanlar_tr gerçekten_tr bir_tr dil_tr öğreniyor_tr ._tr
+ve_tr hem_tr iyi_tr hem_tr de_tr ilginç_tr bir_tr yöntemle_tr öğreniyorlar_tr ._tr
+çünkü_tr görüyorsunuz_tr ,_tr insanlar_tr gerçek_tr içeriklerle_tr öğreniyorlar_tr ._tr
+uydurma_tr cümleler_tr yerine_tr kendiliğinden_tr ilginç_tr olan_tr gerçek_tr içeriklerle_tr öğreniyorlar_tr ._tr
+yani_tr insanlar_tr gerçekten_tr bir_tr dil_tr öğreniyorlar_tr ._tr
+ve_tr şaşırtıcı_tr bir_tr şekilde_tr ,_tr bu_tr siteyi_tr kullananların_tr çevirileri_tr ,_tr daha_tr başlangıç_tr seviyesinde_tr olmalarına_tr rağmen_tr ,_tr profesyonel_tr _UNK__tr çevirileri_tr kadar_tr iyi_tr ,_tr ki_tr bu_tr çok_tr şaşırtıcı_tr ._tr
+size_tr bir_tr örnek_tr göstereyim_tr ._tr
+bu_tr _UNK__tr i̇ngilizceye_tr çevrilmiş_tr bir_tr cümle_tr ._tr
+üstteki_tr almanca_tr ._tr
+ortadaki_tr bu_tr çeviri_tr için_tr kelime_tr başına_tr 20_tr sent_tr alan_tr profesyonel_tr bir_tr i̇ngilizce_tr çevirmen_tr tarafından_tr yapılan_tr i̇ngilizce_tr çeviri_tr ._tr
+alttaki_tr ise_tr duolingo_tr kullanıcıları_tr tarafından_tr yapılan_tr bir_tr çeviri_tr ,_tr bu_tr siteyi_tr kullanmaya_tr başlamadan_tr önce_tr hiçbiri_tr almanca_tr bilmiyordu_tr ._tr
+görüyorsunuz_tr ,_tr neredeyse_tr mükemmel_tr ._tr
+tabi_tr ki_tr ,_tr _UNK__tr _UNK__tr _UNK__tr kadar_tr iyi_tr olabilmesi_tr için_tr burada_tr biraz_tr hile_tr yapıyoruz_tr ._tr
+tek_tr bir_tr profesyonel_tr çevirmenin_tr kalitesine_tr ulaşmak_tr için_tr birçok_tr yeni_tr _UNK__tr çevirisini_tr birleştiriyoruz_tr ._tr
+çevirileri_tr birleştirsek_tr bile_tr ,_tr site_tr oldukça_tr çabuk_tr çevirebiliyor_tr ._tr
+göstereyim_tr ,_tr bu_tr wikipedia'yı_tr _UNK__tr i̇spanyolcaya_tr ne_tr kadar_tr hızlı_tr _UNK__tr hesabı_tr ._tr
+unutmayın_tr ,_tr bu_tr 50_tr milyon_tr dolar_tr değerinde_tr ._tr
+wikipedia'yı_tr i̇spanyolcaya_tr _UNK__tr isteseydik_tr ,_tr bunu_tr 100,000_tr aktif_tr kullanıcıyla_tr beş_tr hafta_tr içinde_tr yapabilirdik_tr ._tr
+ve_tr bir_tr milyon_tr aktif_tr kullanıcıyla_tr ise_tr yaklaşık_tr 80_tr saatte_tr yapabilirdik_tr ._tr
+grubumun_tr şimdiye_tr kadar_tr üzerinde_tr çalıştığı_tr tüm_tr projelerin_tr milyonlarca_tr kullanıcısı_tr olduğu_tr için_tr ,_tr bu_tr projeyle_tr son_tr derece_tr hızlı_tr bir_tr şekilde_tr çevirebileceğimizi_tr düşünüyoruz_tr ._tr
+duolingo_tr ile_tr ilgili_tr beni_tr en_tr çok_tr heyecanlandıran_tr şey_tr dil_tr eğitimi_tr için_tr adil_tr bir_tr iş_tr modeli_tr ihtiyacını_tr karşılıyor_tr olması_tr ._tr
+olay_tr şu_tr :_tr dil_tr eğitiminin_tr mevcut_tr iş_tr modelinde_tr öğrenci_tr para_tr ödüyor_tr ,_tr ve_tr özellikle_tr ,_tr öğrenci_tr rosetta_tr _UNK__tr 500_tr dolar_tr ödüyor_tr ._tr
+bu_tr mevcut_tr iş_tr modeli_tr ._tr
+bu_tr iş_tr modeliyle_tr ilgili_tr sorun_tr şuydu_tr dünya_tr nüfusunun_tr yüzde_tr 95'inin_tr 500_tr doları_tr yok_tr ._tr
+yani_tr bu_tr fakirler_tr için_tr son_tr derece_tr adaletsiz_tr bir_tr durum_tr ._tr
+tamamiyle_tr _UNK__tr yana_tr bir_tr durum_tr ._tr
+şimdi_tr bakın_tr ,_tr _UNK__tr ,_tr öğrenirken_tr aynı_tr zamanda_tr değer_tr yaratıyorsunuz_tr ,_tr birşeyler_tr çeviriyorsunuz_tr --_tr örneğin_tr ,_tr birini_tr çeviri_tr yapmak_tr için_tr _UNK__tr ._tr
+bu_tr şekilde_tr finanse_tr edebilirdik_tr ._tr
+i̇nsanlar_tr öğrenirken_tr değer_tr yarattıkları_tr için_tr ,_tr para_tr ödemek_tr zorunda_tr değiller_tr ,_tr zamanlarıyla_tr ödeme_tr yapıyorlar_tr ._tr
+ama_tr bunda_tr büyüleyici_tr olan_tr şey_tr ,_tr zamanlarıyla_tr ödeme_tr yapıyorlar_tr ,_tr ama_tr bu_tr aynı_tr zamanda_tr dil_tr öğrenirken_tr bir_tr şekilde_tr harcamak_tr zorunda_tr oldukları_tr zaman_tr ._tr
+_UNK__tr güzel_tr yani_tr adil_tr bir_tr iş_tr modeli_tr sunuyor_tr olması_tr --_tr fakirlere_tr karşı_tr ayırım_tr yapmayan_tr bir_tr model_tr olması_tr ._tr
+i̇şte_tr site_tr bu_tr ._tr teşekkürler_tr ._tr
+i̇şte_tr site_tr burada_tr ._tr
+site_tr henüz_tr açılmadı_tr ,_tr ama_tr oraya_tr gidip_tr ,_tr özel_tr _UNK__tr bir_tr parçası_tr olmak_tr için_tr üye_tr olabilirsiniz_tr ,_tr muhtemelen_tr yaklaşık_tr ü_tr ç_tr ,_tr dört_tr haftaya_tr kadar_tr faaliyete_tr geçecek_tr ._tr
+bu_tr _UNK__tr henüz_tr _UNK__tr ._tr
+bu_tr arada_tr ,_tr burada_tr konuşan_tr benim_tr ,_tr ama_tr aslında_tr duolingo_tr bazılarının_tr burada_tr olduğu_tr gerçekten_tr müthiş_tr bir_tr takımın_tr çalışması_tr ._tr
+teşekkürler_tr ._tr

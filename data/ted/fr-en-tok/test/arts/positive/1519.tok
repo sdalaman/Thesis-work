@@ -1,0 +1,105 @@
+en	tant	qu'architecte	,	je	me	demande	souvent	,	quelle	est	l'origine	des	formes	que	nous	concevons	?
+quel	genre	de	formes	pourrions	-	nous	concevoir	si	on	arrêtait	de	travailler	avec	des	références	?
+si	on	n'avait	aucun	préjugé	,	si	on	n'avait	aucune	idée	préconçue	,	quel	genre	de	formes	pourrions	-	nous	concevoir	si	nous	pouvions	nous	libérer	de	notre	expérience	?
+si	nous	pouvions	nous	libérer	de	notre	éducation	?
+a	quoi	ressembleraient	ces	formes	inédites	?
+est	-	ce	qu'elles	nous	_UNK_	?	est	-	ce	qu'elles	nous	_UNK_	?
+est	-	ce	qu'elles	nous	_UNK_	?
+si	oui	,	alors	comment	pouvons	-	nous	créer	quelque	chose	qui	soit	vraiment	nouveau	?
+je	propose	que	nous	nous	tournions	vers	la	nature	.
+on	a	appelé	la	nature	``	le	plus	grand	architecte	des	formes	``	.
+et	je	ne	dis	pas	que	nous	devrions	copier	la	nature	,	_UNK_	ne	dis	pas	que	nous	devrions	imiter	la	biologie	,	au	lieu	de	ça	,	je	propose	que	nous	puissions	emprunter	les	processus	de	la	nature	.
+nous	pouvons	les	abstraire	et	créer	quelque	chose	de	nouveau	.
+le	processus	principal	de	création	de	la	nature	,	la	_UNK_	,	est	la	division	d'une	cellule	en	deux	cellules	.
+et	ces	cellules	peuvent	être	soit	identiques	,	ou	elles	peuvent	être	distinctes	les	unes	des	autres	par	le	biais	de	la	division	cellulaire	asymétrique	.
+si	nous	faisons	une	abstraction	de	ce	processus	et	le	_UNK_	autant	que	possible	,	alors	nous	pouvons	commencer	avec	une	seule	feuille	de	papier	,	une	surface	et	nous	pourrions	faire	une	pliure	et	diviser	la	surface	en	deux	surfaces	.
+nous	sommes	libres	de	choisir	où	nous	plions	.
+et	,	ce	faisant	,	nous	pouvons	distinguer	les	surfaces	.
+grâce	à	ce	processus	très	simple	,	nous	pouvons	créer	une	étonnante	variété	de	formes	.
+maintenant	,	nous	pouvons	prendre	cette	forme	et	utiliser	le	même	processus	pour	générer	des	structures	tridimensionnelles	,	mais	plutôt	que	de	plier	les	choses	à	la	main	,	nous	amenons	la	structure	dans	l'ordinateur	,	et	la	codons	sous	forme	d'algorithme	.
+et	,	ce	faisant	,	nous	pouvons	soudain	plier	n'importe	quoi	.
+nous	pouvons	plier	un	millions	de	fois	plus	vite	,	nous	pouvons	plier	des	centaines	et	des	centaines	de	variantes	.
+et	comme	nous	essayons	de	faire	quelque	chose	en	trois	dimensions	,	nous	commençons	non	pas	avec	une	surface	unique	,	mais	avec	un	volume	.
+un	volume	simple	,	le	cube	.
+si	nous	prenons	ses	surfaces	et	les	plions	encore	et	encore	et	encore	et	encore	,	puis	après	16	itérations	,	16	étapes	,	nous	nous	retrouvons	avec	400	000	surfaces	et	une	forme	qui	ressemble	,	par	exemple	,	à	ça	.
+et	si	nous	changeons	l'endroit	où	nous	faisons	les	pliures	,	si	nous	modifions	le	ratio	de	pliage	,	alors	ce	cube	se	transforme	en	celui	-	ci	.
+nous	pouvons	changer	le	ratio	de	pliage	pour	produire	cette	forme	-	ci	,	ou	cette	forme	-	là	.
+nous	_UNK_	un	contrôle	sur	la	forme	en	_UNK_	la	position	de	l'endroit	où	nous	faisons	de	la	pliure	,	mais	essentiellement	,	vous	voyez	un	cube	plié	.
+et	nous	pouvons	jouer	avec	ça	.
+nous	pouvons	appliquer	différents	ratios	à	différentes	parties	de	la	forme	pour	créer	des	conditions	locales	.
+nous	pouvons	commencer	à	sculpter	la	forme	.
+et	parce	que	nous	faisons	le	pliage	sur	l'ordinateur	,	nous	sommes	complètement	libres	de	toute	contrainte	physique	.
+ça	signifie	que	les	surfaces	peuvent	se	croisent	ils	peuvent	devenir	incroyablement	petits	.
+nous	pouvons	faire	des	pliures	que	nous	ne	pourrions	pas	faire	autrement	.
+les	surfaces	peuvent	devenir	_UNK_	.
+elles	peuvent	s'étirer	.	elles	peuvent	déchirer	.
+et	tout	cela	expose	la	portée	des	formes	que	nous	pouvons	produire	.
+mais	dans	chaque	cas	,	je	n'ai	pas	conçu	la	forme	.
+j'ai	conçu	le	processus	qui	a	généré	la	forme	.
+en	général	,	si	nous	faisons	un	petit	changement	dans	le	ratio	de	pliage	,	et	c'est	ce	que	vous	avez	vu	ici	,	alors	la	forme	change	proportionnellement	.
+mais	c'est	seulement	la	moitié	de	l'histoire	,	99,9	%	des	ratios	de	_UNK_	produisent	non	pas	ceci	,	mais	cela	,	l'équivalent	géométrique	du	bruit	.
+les	formes	que	j'ai	montrées	avant	ont	été	effectivement	produites	grâce	à	très	longs	tâtonnements	.
+j'ai	trouvé	qu'une	manière	beaucoup	plus	efficace	de	créer	des	formes	,	consiste	à	utiliser	les	informations	déjà	contenues	dans	les	formes	.
+une	forme	très	simple	telle	que	celle	-	ci	contient	en	fait	beaucoup	d'informations	qui	peuvent	être	invisibles	à	l'œil	humain	.
+ainsi	,	par	exemple	,	nous	pouvons	tracer	la	longueur	des	bords	.
+les	surfaces	blanches	ont	des	bords	longs	,	les	noires	en	ont	des	courts	.
+nous	pouvons	tracer	la	_UNK_	des	surfaces	,	leur	courbure	,	leur	_UNK_	,	toutes	les	informations	qui	peuvent	ne	pas	être	instantanément	visible	pour	vous	,	mais	que	nous	pouvons	faire	ressortir	,	que	nous	pouvons	formuler	,	et	que	nous	pouvons	utiliser	pour	contrôler	le	pliage	.
+maintenant	je	ne	spécifie	plus	de	ratio	pour	le	pliage	,	mais	j'établis	plutôt	une	règle	,	j'établis	un	lien	entre	la	propriété	d'une	surface	et	comment	cette	surface	est	pliée	.
+et	parce	que	j'ai	conçu	le	processus	et	non	la	forme	,	je	peux	faire	tourner	le	processus	encore	et	encore	et	encore	pour	produire	une	famille	entière	de	formes	.
+ces	formes	semblent	complexes	,	mais	le	processus	est	très	minime	.
+il	y	a	une	entrée	simple	,	je	commence	toujours	par	un	cube	,	et	c'est	une	opération	très	simple	,	c'est	faire	une	pliure	,	et	le	refaire	encore	et	encore	.
+appliquons	ce	processus	à	l'architecture	.
+comment	?	et	à	quelle	échelle	?
+j'ai	choisi	de	concevoir	une	colonne	.
+les	colonnes	sont	des	archétypes	architecturaux	.
+elles	ont	été	utilisées	tout	au	long	de	l'histoire	pour	exprimer	les	idéaux	de	beauté	,	de	technologie	.
+ce	qui	me	posait	problème	,	c'était	comment	exprimer	ce	nouvel	ordre	algorithmique	dans	une	colonne	.
+j'ai	commencé	avec	quatre	cylindres	.
+après	de	nombreuses	expérimentations	,	ces	cylindres	ont	_UNK_	par	aboutir	à	ceci	.
+ces	colonnes	ont	des	informations	à	de	très	nombreuses	échelles	.
+nous	pouvons	commencer	à	zoomer	dessus	.
+plus	on	s'approche	,	plus	on	découvre	de	nouvelles	caractéristiques	.
+certaines	formations	sont	presque	au	seuil	de	visibilité	humaine	.
+et	contrairement	à	l'architecture	traditionnelle	,	c'est	un	processus	unique	qui	crée	à	la	fois	la	forme	globale	et	les	détails	microscopiques	de	la	surface	.
+on	ne	peut	pas	dessiner	ces	formes	.
+un	architecte	qui	voudrait	les	dessiner	avec	un	stylo	et	un	papier	mettrait	probablement	des	mois	,	voire	un	an	pour	dessiner	toutes	les	sections	,	toutes	les	élévations	,	on	ne	peut	créer	quelque	chose	comme	ça	qu'avec	un	algorithme	.
+la	question	la	plus	intéressante	,	peut	-	être	,	est	:	ces	formes	sont	-	elles	imaginables	?
+habituellement	,	un	architecte	peut	envisager	d'une	certaine	manière	l'état	final	de	ce	qu'il	conçoit	.
+dans	ce	cas	,	le	processus	est	déterministe	.
+il	ne	laisse	aucune	place	au	hasard	,	mais	il	n'est	pas	entièrement	prévisible	.
+il	y	a	trop	de	surfaces	,	il	y	a	trop	de	détails	,	on	ne	peut	pas	voir	l'état	final	.
+ceci	conduit	donc	à	un	nouveau	rôle	pour	l'architecte	.
+il	lui	faut	une	nouvelle	méthode	pour	explorer	toutes	les	possibilités	qui	s'offrent	à	lui	.
+d'une	part	,	on	peut	concevoir	de	nombreuses	variantes	de	forme	,	en	parallèle	et	on	peut	les	cultiver	.
+et	pour	revenir	à	l'analogie	avec	la	nature	,	on	peut	commencer	à	penser	en	termes	de	populations	,	on	peut	parler	de	permutations	,	de	générations	,	de	croisement	et	de	reproduction	pour	aboutir	à	une	conception	.
+et	l'architecte	est	vraiment	,	il	se	retrouve	dans	le	rôle	d'un	chef	d'orchestre	de	tous	ces	processus	.
+mais	assez	de	théorie	.
+à	un	moment	donné	,	je	voulais	simplement	sauter	à	l'intérieur	cette	image	,	pour	ainsi	dire	,	alors	j'ai	acheté	ces	lunettes	3d	rouge	et	bleu	,	je	me	suis	approché	très	près	de	l'écran	,	mais	ce	n'était	encore	pas	comme	de	pouvoir	marcher	et	toucher	les	choses	.
+donc	,	il	n'y	n'avait	qu'une	seule	possibilité	,	sortir	la	colonne	de	l'ordinateur	.
+on	a	beaucoup	parlé	d'impression	3d	.
+pour	moi	,	ou	mon	objectif	en	ce	moment	,	il	y	a	encore	trop	de	compromis	défavorable	entre	l'échelle	,	d'une	part	et	la	résolution	et	la	vitesse	,	de	l'autre	.
+nous	avons	donc	décidé	de	prendre	plutôt	la	colonne	,	et	nous	avons	décidé	d'en	construire	un	modèle	en	couches	,	fait	de	très	nombreuses	tranches	,	finement	empilées	les	unes	sur	les	uns	les	autres	.
+ce	que	vous	voyez	ici	est	une	radiographie	de	la	colonne	que	vous	venez	de	voir	,	vue	d'en	haut	.
+à	mon	insu	,	à	l'époque	,	parce	que	nous	n'avions	vu	que	l'extérieur	,	les	surfaces	continuaient	à	se	replier	à	croitre	à	l'intérieur	de	la	colonne	,	ce	qui	était	une	découverte	tout	à	fait	surprenante	.
+de	cette	forme	,	nous	avons	calculé	une	ligne	de	découpe	,	et	puis	nous	avons	donné	cette	ligne	de	découpe	à	un	_UNK_	laser	pour	produire	,	et	vous	en	avez	vu	un	segment	ici	,	de	très	nombreuses	tranches	minces	,	découpées	individuellement	,	les	unes	sur	les	autres	.
+et	voici	une	photo	maintenant	,	ce	n'est	pas	un	rendu	,	et	la	colonne	que	nous	avons	obtenue	au	final	,	après	beaucoup	de	travail	,	qui	a	fini	par	ressembler	remarquablement	à	celle	que	nous	avions	conçu	dans	l'ordinateur	.
+presque	tous	les	détails	,	la	quasi	-	totalité	de	la	subtilités	de	surfaces	a	été	préservée	.
+mais	ce	fut	un	travail	énorme	.
+il	y	a	encore	une	énorme	déconnexion	en	ce	moment	entre	le	virtuel	et	le	physique	.
+il	m'a	fallu	plusieurs	mois	pour	la	conception	de	la	colonne	,	mais	en	fin	de	compte	il	faut	à	l'ordinateur	environ	30	secondes	pour	calculer	toutes	les	16	millions	de	faces	.
+le	modèle	physique	,	d'autre	part	,	est	composé	de	2	700	couches	,	un	millimètre	d'épaisseur	,	il	pèse	700	kg	,	il	est	faite	de	feuilles	qui	peuvent	couvrir	la	totalité	de	cet	auditorium	.
+et	le	chemin	de	découpe	que	le	laser	a	suivi	va	d'ici	à	l'aéroport	et	retour	.
+mais	c'est	de	plus	en	plus	possible	.
+les	machines	sont	de	plus	en	plus	rapides	,	elles	sont	de	moins	en	moins	chères	,	et	il	y	a	certains	des	développements	technologiques	prometteurs	en	vue	.
+ce	sont	des	images	de	la	biennale	de	_UNK_	.
+et	dans	ce	cas	,	j'ai	utilisé	du	plastique	_UNK_	pour	produire	les	colonnes	,	nous	avons	utilisé	une	machine	plus	grande	,	plus	rapide	,	et	elles	ont	un	noyau	d'acier	à	l'intérieur	,	elles	sont	donc	structurelles	,	elles	peuvent	supporter	des	charges	pour	une	fois	.
+chaque	colonne	est	en	fait	un	hybride	de	deux	colonnes	.
+vous	pouvez	voir	une	colonne	différente	dans	le	miroir	,	s'il	y	a	un	miroir	derrière	la	colonne	qui	crée	une	sorte	d'une	illusion	d'optique	.
+alors	où	cela	nous	mène	-	t	-	il	?
+je	pense	que	ce	projet	nous	donne	un	aperçu	des	objets	inédits	qui	nous	attendent	si	nous	,	les	architectes	commençons	à	réfléchir	à	la	conception	non	pas	de	l'objet	,	mais	d'un	processus	pour	générer	des	objets	.
+j'ai	montré	un	processus	simple	inspiré	par	la	nature	;	il	y	en	a	d'innombrables	autres	.
+en	bref	,	nous	n'avons	aucune	contrainte	.
+au	lieu	de	cela	,	nous	avons	des	processus	entre	nos	mains	dès	maintenant	qui	nous	permettent	de	créer	des	structures	à	toutes	les	échelles	que	nous	ne	pouvions	même	pas	imaginer	.
+et	,	si	je	peux	ajouter	,	à	un	moment	donné	nous	les	construirons	.
+merci	.
+

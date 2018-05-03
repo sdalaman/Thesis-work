@@ -1,0 +1,251 @@
+wie schon andere vor mir gesagt haben , ist es eine recht einschüchternde sache -- eine besonders einschüchternde erfahrung -- vor dieser zuhörerschaft zu sprechen .
+aber im gegensatz zu anderen rednern werde ich ihnen nichts von den wundern des universums oder den wundern der evolution erzählen , oder über die wirklich schlauen und innovativen methoden , mit denen die leute die größten ungleichheiten auf der welt angehen .
+oder von den herausforderungen der nationalstaaten in der modernen globalen wirtschaft .
+mein auftrag , wie sie es eben gehört haben , ist ihnen etwas über statistik zu erzählen -- um noch genauer zu sein , ihnen einige aufregende dinge über statistik zu erzählen .
+und das ist -- -- das ist noch viel herausfordernder als all die redner vor mir und all die , die nach mir kommen werden .
+einer meiner älteren kollegen sagte mir -- als ich noch _UNK_ war -- mit einigem stolz , statistiker seien menschen , die zahlen mögen , aber ohne besondere fähigkeiten im umgang mit menschen , um buchhalter zu werden .
+ein anderer insiderwitz der statistiker ist : " wie kann man den introvertierten vom extrovertierten statistiker unterscheiden ? "
+was beantwortet wird mit : " der extrovertierte statistiker sieht auf die schuhe der anderen . "
+aber ich will ihnen etwas nützliches erzählen -- also los geht 's , konzentrieren sie sich .
+heute abend ist ein empfang im museum für naturgeschichte der universität .
+eine wunderbare umgebung , wie sie hoffentlich finden werden , und ein großartiges symbol bester viktorianischer tradition .
+es ist sehr unwahrscheinlich -- bei dieser speziellen umgebung und dieser auswahl an personen -- aber vielleicht geraten sie in ein gespräch mit jemandem , mit dem sie lieber nicht reden wollen .
+dann machen sie folgendes :
+wenn man sie fragt , " was machen sie beruflich ? " -- sagen sie : " ich bin statistiker . "
+nun , wenn sie nicht gewarnt wurden und wissen , dass sie sich das ausdenken ,
+wird eins von zwei dingen passieren .
+sie entdecken einen lang _UNK_ cousin am ende des raums und laufen zu ihm , um mit ihm zu reden .
+oder sie werden plötzlich unglaublich durstig oder hungrig -- meist beides -- und laufen davon , um sich einen drink und etwas zu essen zu besorgen .
+dann haben sie ihre ruhe und können mit einer person ihrer wahl sprechen .
+das ist eine der herausforderungen unseres berufs ; der versuch ihn zu erklären .
+wir stehen nie oben auf der _UNK_ einer dinnerparty oder bei unterhaltungen .
+und ich habe auch nie wirklich einen guten weg dafür gefunden .
+meine frau jedoch -- die damals noch meine freundin war -- kam damit viel besser zurecht , als ich es je konnte .
+vor vielen jahren , als wir begannen auszugehen , arbeitete sie für bbc in england , und ich arbeitete damals in amerika .
+ich kam zu besuch .
+sie erzählte das einem ihrer kollegen , der sagte " nun , was macht er denn beruflich ? "
+sarah dachte angestrengt an die dinge , die ich ihr erklärt hatte -- und sie hörte damals aufmerksam zu .
+sagen sie ihr nicht , dass ich das gesagt habe .
+und sie dachte über meine arbeit an mathematischen modellen nach , die ein verständnis von evolution und moderner genetik fördern sollten .
+als ihr kollege also fragte : " was macht er beruflich ? "
+machte sie ein pause und sagte , " er modelliert dinge . "
+nun , ihr kollege wurde plötzlich viel neugieriger als ich hätte erwarten dürfen , und fragte weiter , " was modelliert er ? "
+tja , sarah dachte ein wenig mehr über meine arbeit nach und sagte , " gene . "
+" er modelliert gene . "
+das ist meine erste liebe , und darüber werde ich ihnen ein klein wenig erzählen .
+etwas allgemeiner will ich sie dazu bewegen , darüber nachzudenken , welchen stellenwert unsicherheit und _UNK_ und zufall in unserer welt haben , wie wir darauf reagieren und wie gut oder nicht wir darüber nachdenken .
+bis jetzt war es für sie ziemlich einfach -- einige lacher , und all so was -- in den vorträgen bislang .
+sie denken jetzt , ich werde ihnen einige fragen stellen .
+hier also die szene für meine erste frage an sie :
+können sie sich vorstellen , wieder und wieder eine münze zu werfen ?
+und aus einem bestimmten grund -- der recht vage bleiben soll -- interessiert uns ein bestimmtes muster .
+dieses zum beispiel -- kopf , dann zahl , dann zahl .
+stellen wir uns vor , wir werfen wiederholt eine münze .
+dann kommt das muster auf das wir jetzt so gespannt sind .
+und wir zählen : eins , zwei , drei , vier , fünf , sechs , sieben , acht , neun , zehn -- es kommt nach dem zehnten wurf .
+sie können sich vielleicht interessantere dinge vorstellen , aber tun sie mir den gefallen .
+stellen sie sich diese hälfte des publikums vor , jeder nimmt eine münze und wirft sie , bis zum ersten mal das kopf - zahl - zahl - muster auftaucht .
+beim ersten mal kommt es vielleicht nach dem zehnten wurf , wie hier .
+beim zweiten mal vielleicht beim vierten wurf .
+beim nächsten mal nach dem 15. wurf .
+sie machen das viele , viele male und mitteln diese zahlen .
+ich möchte , dass diese seite darüber nachdenkt .
+die andere hälfte des publikums mag kopf - zahl - zahl nicht -- aus tiefgehenden , kulturellen gründen halten sie es für langweilig -- und finden ein anderes muster viel interessanter -- kopf - zahl - kopf .
+auf dieser seite nehmen sie also ihre münzen hervor und werfen sie immer wieder .
+sie zählen , wie oft sie werfen bis das kopf - zahl - kopf - muster erscheint , und sie mitteln die zahlen . klar ?
+auf dieser seite haben sie also eine zahl -- und weil sie oft geworfen haben , ist sie recht genau -- sie ist die durchschnittliche anzahl der würfe bis kopf - zahl - zahl kommt .
+auf dieser seite haben sie eine zahl -- die durchschnittliche anzahl der würfe bis kopf - zahl - kopf kommt .
+jetzt kommt eine grundlegende mathematische wahrheit -- wenn sie zwei zahlen haben , muss eines der folgenden dinge wahr sein .
+entweder sind sie gleich , oder diese ist größer als jene , oder jene ist größer als diese .
+was passiert hier also ?
+sie können also alle darüber nachdenken und abstimmen -- und wir machen nicht weiter .
+und ich will nicht zwei minuten in schweigen verbringen , damit sie darüber nachdenken können , bis jeder eine meinung äußert , okay .
+was wir also machen wollen , ist die durchschnittliche anzahl der würfe , bis wir kopf - zahl - kopf sehen , vergleichen mit der durchschnittlichen anzahl würfe , bis kopf - zahl - zahl kommt .
+wer denkt , dass a richtig ist -- dass im durchschnitt kopf - zahl - kopf später kommt als kopf - zahl - zahl ?
+wer glaubt , dass b richtig ist -- das durchschnittlich beide gleichzeitig kommen ?
+wer glaubt das c richtig ist -- das durchschnittlich kopf - zahl - kopf eher kommt als kopf - zahl - zahl ?
+aha , wer hat noch nicht gewählt ? das gehört sich nicht -- ich sagte , sie müssen .
+ok . die meisten denken also , b sei richtig .
+und es mag sie erleichtern , dass selbst herausragende mathematiker so fühlen .
+aber es ist falsch , a ist die richtige antwort .
+im durchschnitt dauert es länger .
+tatsächlich kommt kopf - zahl - kopf durchschnittlich nach 10 würfen , während kopf - zahl - zahl nach 8 würfen kommt .
+wie kann das sein ?
+unterscheiden sich die muster irgendwie ?
+ja . kopf - zahl - kopf überlappt sich selbst .
+wenn man auf kopf - zahl - kopf lauert , kann man das muster _UNK_ zwei mal in nur fünf würfen bekommen .
+das geht nicht mit kopf - zahl - zahl .
+das stellt sich als wichtig heraus .
+man kann auf zwei arten darüber nachdenken .
+ich nenne ihnen eine :
+stellen sie sich vor -- nehmen wir an , wir machen es .
+auf dieser seite -- denken sie daran , sie sind ganz erpicht auf kopf - zahl - zahl , sie sind ganz erpicht auf kopf - zahl - kopf .
+wir beginnen also mir dem münzwurf , und erhalten kopf -- und sie sitzen plötzlich auf der kante ihres stuhls , denn etwas großartiges und wunderbares könnte gleich passieren .
+der nächste wurf bringt zahl -- sie werden wirklich aufgeregt .
+den sekt auf eis griffbereit haben sie die gläser für die feier bereits gekühlt .
+mit _UNK_ atem warten sie auf den letzten wurf .
+es kommt kopf , das ist großartig .
+sie haben es geschafft , und sie feiern .
+wenn zahl kommt -- nun ja , dann räumen sie einigermaßen enttäuscht die gläser und den sekt wieder weg .
+sie werfen weiter um beim nächsten kopf wieder begeistert zu sein .
+auf dieser seite machen sie eine andere erfahrung .
+bei den ersten beiden teilen der sequenz ist es noch egal .
+sie sind etwas aufgeregt wenn zum ersten mal kopf kommt -- und noch mehr , wenn dann zahl kommt .
+dann werfen sie die münze .
+kommt zahl , knallt der _UNK_ ,
+kommt kopf sind sie enttäuscht , aber ein drittel ihres musters ist immer noch erfüllt .
+so stellt es sich formlos dar -- das ist der unterschied .
+eine andere betrachtungsweise -- wenn wir die münze acht millionen mal werfen , erwarten wir eine million kopf - zahl - kopf und eine million kopf - zahl - zahl -- aber kopf - zahl - kopf kann nur gruppiert auftauchen .
+wenn sie also eine million dinge auf acht millionen positionen unterbringen wollen , und sie eine überlappung zulassen , dann sind die gruppen weiter auseinander .
+so kann man auch zur intuition gelangen .
+worauf will ich hinaus ?
+es ist ein sehr , sehr einfaches beispiel , eine einfach formulierte frage zur wahrscheinlichkeit , die jeder -- sie sind in guter gesellschaft -- jeder falsch beantwortet .
+hier meine kleine _UNK_ zu meiner wahren leidenschaft -- genetik .
+es gibt eine verbindung zwischen kopf - zahl - kopf und kopf - zahl - zahl in der genetik , und zwar folgende :
+wenn sie eine münze werfen , erhalten sie eine abfolge von kopf und zahl .
+wenn sie sich die dna ansehen , gibt es auch dort eine abfolge zweier dinge -- kopf und zahl -- aber mit vier buchstaben -- a , g , c und t.
+und es gibt kleine chemische scheren , die man restriktionsenzyme nennt , die dna trennen , wo immer sie ein bestimmtes muster finden .
+sie sind ein unglaubliches nützliches werkzeug der modernen molekularbiologie .
+aber anstatt zu fragen , " wie lang bis kopf - zahl - kopf kommt ? " -- können sie fragen , " wie groß werden die abschnitte , wenn ich ein restriktionsenzym verwende , dass immer schneidet , wenn es zum beispile g - a - a - g antrifft ?
+wie groß werden die stücke ? "
+das ist eine eher triviale verbindung zwischen wahrscheinlichkeit und genetik .
+es gibt eine viel _UNK_ verbindung , für deren erklärung mir die zeit fehlt , und zwar , dass moderne genetik ein wirklich _UNK_ _UNK_ ist .
+wir werden später im rahmen der konferenz noch vorträge speziell dazu hören .
+aber es stellt sich heraus , der schlüssel zu informationen aus modernen experimentellen technologien liegt in ziemlich ausgeklügelten -- es wird sie erleichtern , dass ich meinen lebensunterhalt mit etwas _UNK_ verdiene , raffinierter als die kopf - zahl - kopf - geschichte -- nämlich ziemlich _UNK_ computer - und mathematische modelle und moderne statistische verfahren .
+ich präsentiere ihnen nur zwei ausschnitte -- zwei beispiele -- projekte , an denen mein team in oxford teil nimmt , die ich beide sehr aufregend finde .
+sie kennen das human genome project .
+ziel des projekts war , das menschliche genom zu erfassen .
+was macht man , wenn man damit fertig ist ? natürlich das : das international hapmap project , eine zusammenarbeit von fünf laboren in _UNK_ verschiedene ländern .
+stellen sie sich das human genome project als unser gemeinsames lernen vor , und das hapmap project als den versuch die herkunft der unterschiede verschiedener menschen zu verstehen .
+warum interessiert uns das ?
+nun , es gibt eine menge gründe .
+der _UNK_ ist , dass wir verstehen wollen , warum einige unterscheide manche menschen anfälliger für eine krankheit machen -- typ - 2 diabetes zum beispiel -- und andere unterschiede menschen anfälliger für herzkrankheiten machen , oder schlaganfall , oder autismus , und so fort .
+da gibt es ein großes projekt .
+es gibt ein weiteres großes projekt , kürzlich finanziert durch den _UNK_ trust in diesem land , dabei geht es um sehr große studien -- tausende individuen , mit jeder von acht verschiedenen krankheiten , verbreitete krankheiten wie typ - 1 und typ - 2 diabetes , koronare herzerkrankung , bipolare störung und so weiter -- um diese krankheiten zu verstehen .
+um zu verstehen , welche genetischen unterschiede die krankheiten verursachen .
+warum wollen wir das tun ?
+weil wir sehr wenig über die meisten menschlichen krankheiten wissen .
+wir wissen nicht , was sie verursacht .
+und wenn wir dem auf den grund gelangen , und die genetik verstehen , haben wir einen einblick in die funktionsweise der krankheit . und können auf ganz neue weise über therapien , vorbeugung und dergleichen nachdenken .
+dies also der kleine exkurs zu meiner eigentlichen liebe .
+zurück zu eher weltlichen _UNK_ , wegen derer man sich mit unsicherheit beschäftigt .
+ich habe noch ein quiz für sie -- angenommen , wir haben einen test für eine krankheit , der nicht _UNK_ ist , aber ziemlich gut .
+er zeigt in 99 prozent der fälle das richtige ergebnis .
+und ich wähle einen von ihnen oder von der straße aus , und teste ihn hinsichtlich der betreffenden krankheit .
+angenommen , es ist ein hiv - test -- für das virus , das aids auslöst -- und angenommen , der test sagt , die person sei infiziert .
+wie hoch ist die _UNK_ ?
+der test liegt in 99 von 100 fällen richtig .
+dann ist die antwort natürlich 99 prozent .
+wem gefällt diese antwort ?
+na los -- jeder soll mitmachen .
+glauben sie nicht , sie vertrauen mir nicht mehr .
+tja , sie sind zu recht skeptisch , denn die antwort ist falsch .
+das haben sie sich gedacht .
+sie ist falsch , und zwar nicht nur , weil das teil der geschichte ist .
+es hängt tatsächlich davon ab , wie verbreitet oder selten die krankheit ist .
+lassen sie mich versuchen , dass zu veranschaulichen .
+hier eine kleine karikatur einer million individuen .
+denken wir also über eine krankheit nach -- sie ist recht selten , sie betrifft nur eine von 10.000 personen .
+von diesen eine million individuen sind die meisten gesund , und einige werden krank sein .
+tatsächlich werden bei dieser prävalenz etwa 100 krank sein , und die übrigen gesund .
+angenommen , wir testen sie alle .
+was passiert ?
+nun , bei den 100 kranken wird der test bei 99 prozent richtig liegen , und 99 positiv testen .
+von den anderen leuten , die nicht krank sind wird der test auch 99 prozent richtig testen ,
+und nur bei einem prozent daneben liegen .
+aber es gibt so viele gesunde , das es eine menge falscher positiv - tests geben wird .
+anders gesagt -- von allen die positiv getestet werden -- hier sieht man sie , die dazu gehören -- haben weniger als 100 wirklich die krankheit .
+obwohl wir also glauben der test sei treffsicher , ist das entscheidende hierbei , dass wir noch eine _UNK_ benötigen .
+hier ist die entscheidende intuition .
+wir müssen , sobald wir wissen , dass der test positiv ausgefallen ist , die plausibilität , oder die wahrscheinlichkeit konkurrierender erklärungen abwägen .
+jede dieser erklärungen hat einen wahrscheinlichen und einen unwahrscheinlichen teil .
+eine erklärung ist , das die person nicht infiziert ist -- das ist überwiegend wahrscheinlich , wenn man jemanden zufällig auswählt -- aber der test liegt falsch , was unwahrscheinlich ist .
+die andere erklärung ist , das die person krank ist -- das ist unwahrscheinlich -- aber der test ist richtig , was wahrscheinlich ist .
+zum schluss erhalten wir eine zahl -- die ein wenig kleiner ist als 1 in 100 -- sie zeigt , wie wahrscheinlich die eine erklärung im vergleich mit der anderen ist .
+jede von ihnen zusammen genommen ist unwahrscheinlich .
+nun ein _UNK_ beispiel für genau die gleiche sache .
+die zuhörer in england werden vertraut sein mit dem ziemlich berühmten fall einer frau namens sally clark , deren zwei kinder plötzlich starben .
+zunächst hielt man es für fälle vom tod im _UNK_ , wie das gemeinhin genannt wird , etwas formaler spricht man von plötzlichem kindstod .
+aus verschiedenen gründen wurde sie später des mordes angeklagt .
+und während ihrer verhandlung bezeugte ein sehr _UNK_ kinderarzt , dass die wahrscheinlichkeit zweier _UNK_ - tode , ohne _UNK_ , in einer familie wie der ihren -- die sachkundig und _UNK_ waren -- bei eins zu 73 millionen lag .
+um die geschichte abzukürzen , sie wurde damals verurteilt .
+kürzlich wurde sie im _UNK_ frei gesprochen -- tatsächlich erst bei der zweiten berufung .
+nur damit sie den kontext im auge behalten , stellen sie sich vor , wie schlimm es sein muss , ein kind verloren zu haben , dann noch eins , und obwohl sie unschuldig sind werden sie dafür verurteilt , sie ermordet zu haben .
+den belastungen durch die verhandlung ausgesetzt zu sein , für den mord an ihnen verurteilt werden -- und einige zeit im _UNK_ _UNK_ , wo all die anderen gefangenen sie für den mörder ihrer kinder halten -- das ist wirklich ein entsetzliches geschick .
+und zum größten teil kam es dazu , weil der experte die zahlen auf zweierlei art fürchterlich durcheinander brachte .
+wie kam er auf die 1 in 73 millionen zahl ?
+er sah sich einige forschung an , wonach die wahrscheinlichkeit für plötzlichen kindstod in einer familie wie der sally _UNK_ bei eins zu 8.500 liegt .
+er postulierte : " ich nehme an , das nach einem plötzlichen kindstod in einer familie die wahrscheinlichkeit für einen weiteren gleich bleibt . "
+statistiker nennen das vermutung _UNK_ unabhängigkeit .
+als würde man sagen , " wenn kopf kommt , verändert das nicht die wahrscheinlichkeit beim zweiten wurf kopf zu bekommen . "
+wenn man also eine münze zweimal wirft , ist die aussicht zweimal kopf zu erhalten ½ -- das ist die wahrscheinlichkeit beim ersten mal -- mal ½ -- der wahrscheinlichkeit beim zweiten mal .
+er sagte also , " nehmen wir hier an -- ich nehme hier an , diese ereignisse sind unabhängig voneinander .
+wenn man 8.500 mit sich selbst multipliziert , kommt etwa 73 millionen heraus . "
+und nichts davon wurde dem gericht als these vorgetragen , oder den geschworen so dargestellt .
+unglücklicherweise -- und wirklich zum großen bedauern -- muss man zunächst empirische belege finden .
+und dann ist das offenkundig falsch .
+es gibt so viel unbekanntes im zusammenhang mit plötzlichem kindstod .
+uns unbekannte umweltfaktoren könnten eine rolle spielen , und das gilt sehr wahrscheinlich auch für genetische faktoren , deren wir uns nicht bewusst sind .
+wenn also eine familie von plötzlichem kindstod betroffen ist , ordnet man sie einer hochrisikogruppe zu .
+für sie gelten wahrscheinlich die umwelt - risikofaktoren oder genetische risikofaktoren , von denen wir nichts wissen .
+und über den zweiten tod zu _UNK_ , als ob man von dem ersten nichts wüsste ist wirklich dumm .
+es ist schlimmer als dumm -- es ist schlechte wissenschaft .
+trotzdem ist es so präsentiert worden , und niemand beim verfahren erhob einwände .
+das ist das eine problem .
+das andere ist , was bedeutet die zahl eins in 73 millionen ?
+nachdem sally clark verurteilt war -- sie können sich vorstellen , wie das in der presse einschlug -- schrieb einer der journalisten einer _UNK_ englischen zeitung , der experte habe gesagt , " die wahrscheinlichkeit das die unschuldig ist liegt bei eins zu 73 millionen . "
+das ist nun ein logischer fehler .
+und zwar genau der gleiche logische fehler , anzunehmen , dass nach einem krankheits - test , der zu 99 prozent zuverlässig ist , die wahrscheinlichkeit , krank zu sein , 99 prozent beträgt .
+bei diesem beispiel müssen wir an zwei dinge denken , zum einen an die _UNK_ des tests ,
+zum anderen die wahrscheinlichkeit -- a priori -- das die person krank ist .
+in diesem zusammenhang ist es haargenau so .
+es geht um zwei dinge -- zwei teile der erklärung .
+wir wollen wissen , wie wahrscheinlich -- in relation zueinander -- die beiden erklärungen sind .
+eine ist , dass sally clark unschuldig ist -- was a priori überwältigend wahrscheinlich ist -- die wenigsten mütter töten ihre kinder .
+und der zweite teil der erklärung ist , das ihr etwas unglaublich _UNK_ _UNK_ .
+nicht so unwahrscheinlich wie eins in 73 millionen , aber dennoch ziemlich unwahrscheinlich .
+die andere erklärung ist , dass sie schuldig ist .
+jetzt nehmen wir wohl a priori an , das sei unwahrscheinlich .
+und im rahmen eines _UNK_ sollten wir natürlich annehmen , das sei unwahrscheinlich , wegen der _UNK_ .
+und wenn sie versucht hat , die kinder zu töten , hatte sie erfolg .
+die wahrscheinlichkeit ihrer unschuld ist also nicht eins in 73 millionen .
+wir kennen sie nicht .
+es hängt zusammen mit der abwägung der kraft anderer beweise gegen sie und den statistischen beweisen .
+wir wissen , dass die kinder gestorben sind .
+es kommt darauf an , wie wahrscheinlich oder unwahrscheinlich die beiden erklärungen im verhältnis zueinander sind .
+sie sind beide nicht plausibel .
+hier haben sie ein beispiel für profunde und wirklich _UNK_ auswirkungen von fehlern der statistik .
+tatsächlich gibt es noch zwei weitere frauen , die wegen aussagen dieses _UNK_ verurteilt wurden und später durch berufung frei kamen .
+viele fälle wurden noch einmal aufgerollt .
+das ist besonders aktuell , weil er gegenwärtig wegen einer _UNK_ englands _UNK_ medizinischen rat gegenübersteht .
+nur um zum schluss zu kommen -- welche lehren können sie mit nach hause nehmen ?
+nun , wir wissen , dass _UNK_ , unsicherheit und zufall ein großer teil unseres täglichen lebens sind .
+auch wahr ist -- obwohl sie als gemeinschaft in vielen dingen verschieden sind , dass sie absolut typisch waren bei ihren falschen antworten zu meinen beispielen .
+es ist gut dokumentiert , dass menschen irren .
+sie machen logische fehler , wenn sie über unsicherheiten nachdenken .
+wir können mit den feinheiten der sprache wunderbar zurecht kommen -- es gibt einige interessante evolutionäre fragen dazu , wie uns das gelingt .
+im einschätzen von wahrscheinlichkeiten sind wir nicht gut .
+das ist im alltag ein problem .
+und wie sie bei vielen vorträgen gehört haben , untermauert statistik einen riesigen teil wissenschaftlicher forschung -- in den _UNK_ , der medizin , und tatsächlich auch oft in der industrie .
+die ganze qualitätskontrolle , die weitreichende auswirkungen auf die industrielle verarbeitung hat , wird getragen von statistik .
+etwas , in dem wir schlecht sind .
+das sollten wir wenigstens anerkennen , aber wir neigen nicht dazu .
+um nochmal zum rechtlichen kontext zurück zu kommen , beim verfahren von sally clark haben alle anwälte einfach akzeptiert , was die experten sagten .
+wenn also der kinderarzt vor die geschworenen getreten wäre , und gesagt hätte , " ich weiß wie man brücken baut . ich habe am ende der straße eine gebaut .
+bitte fahren sie mit ihrem auto dort lang nach hause , " hätten sie gesagt , " nun , was wissen _UNK_ schon vom _UNK_ .
+das ist eine _UNK_ . "
+andererseits , sagte er im grunde , oder _UNK_ , " ich kenne mich mit wahrscheinlichkeiten aus . ich weiß , wie man statistik macht . "
+und alle sagten , " tja , na schön . er ist der experte . "
+wir müssen also die grenzen unserer kompetenz kennen .
+genau die gleichen probleme tauchten in den anfängen des dns - profiling auf , als wissenschaftler , und anwälte , manchmal sogar richter , regelmäßig beweise _UNK_ .
+für gewöhnlich -- so hofft man -- gutgläubig , aber sie interpretierten beweise falsch .
+_UNK_ sagten , " die wahrscheinlichkeit , dass dieser kerl unschuldig ist , beträgt eins zu drei millionen . "
+selbst wenn man der zahl glaubt , wie 73 millionen zu eins , ist das nicht , was sie bedeutet .
+und es gab deshalb in england und anderswo gefeierte _UNK_ .
+und nur , um den kontext des rechtssystems abzuschließen .
+es ist schön und gut zu sagen , " wir wollen nach besten möglichkeiten die beweise vorlegen . "
+aber mehr und mehr erwarten wir in fällen des dna - profiling -- hier ein weiterer -- dass geschworene , die gewöhnliche menschen sind -- und von denen man weiß , dass sie sehr schlecht darin sind -- wir erwarten von geschworenen , mit allen möglichen argumentationen zurecht zu kommen .
+wenn in anderen lebensbereichen menschen -- nun ja , die politik vielleicht ausgenommen -- aber wenn in anderen lebensbereichen menschen unlogisch argumentieren , erkennen wir das als schlechte sache .
+von politikern erwarten wir es irgendwie und haben die hoffnung aufgegeben .
+was wahrscheinlichkeiten angeht , liegen wir ständig daneben -- und wenigstens sollten wir uns dessen bewusst sein . idealerweise jedoch könnten wir versuchen , dass zu ändern .
+vielen dank .

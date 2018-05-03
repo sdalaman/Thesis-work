@@ -1,0 +1,165 @@
+i_en 'm_en going_en to_en talk_en about_en the_en strategizing_en brain_en ._en
+we_en 're_en going_en to_en use_en an_en unusual_en combination_en of_en tools_en from_en game_en theory_en and_en neuroscience_en to_en understand_en how_en people_en interact_en socially_en when_en value_en is_en on_en the_en line_en ._en
+so_en game_en theory_en is_en a_en branch_en of_en ,_en originally_en ,_en applied_en mathematics_en ,_en used_en mostly_en in_en economics_en and_en political_en science_en ,_en a_en little_en bit_en in_en biology_en ,_en that_en gives_en us_en a_en mathematical_en taxonomy_en of_en social_en life_en and_en it_en predicts_en what_en people_en are_en likely_en to_en do_en and_en believe_en others_en will_en do_en in_en cases_en where_en everyone_en 's_en actions_en affect_en everyone_en else_en ._en
+that_en 's_en a_en lot_en of_en things_en :_en competition_en ,_en cooperation_en ,_en bargaining_en ,_en games_en like_en hide_en -_en and_en -_en seek_en ,_en and_en poker_en ._en
+here_en 's_en a_en simple_en game_en to_en get_en us_en started_en ._en
+everyone_en chooses_en a_en number_en from_en zero_en to_en 100_en ,_en we_en 're_en going_en to_en compute_en the_en average_en of_en those_en numbers_en ,_en and_en whoever_en 's_en closest_en to_en two_en -_en thirds_en of_en the_en average_en wins_en a_en fixed_en prize_en ._en
+so_en you_en want_en to_en be_en a_en little_en bit_en below_en the_en average_en number_en ,_en but_en not_en too_en far_en below_en ,_en and_en everyone_en else_en wants_en to_en be_en a_en little_en bit_en below_en the_en average_en number_en as_en well_en ._en
+think_en about_en what_en you_en might_en pick_en ._en
+as_en you_en 're_en thinking_en ,_en this_en is_en a_en toy_en model_en of_en something_en like_en selling_en in_en the_en stock_en market_en during_en a_en rising_en market_en ._en right_en ?_en
+you_en do_en n't_en want_en to_en sell_en too_en early_en ,_en because_en you_en miss_en out_en on_en profits_en ,_en but_en you_en do_en n't_en want_en to_en wait_en too_en late_en to_en when_en everyone_en else_en sells_en ,_en triggering_en a_en crash_en ._en
+you_en want_en to_en be_en a_en little_en bit_en ahead_en of_en the_en competition_en ,_en but_en not_en too_en far_en ahead_en ._en
+okay_en ,_en here_en 's_en two_en theories_en about_en how_en people_en might_en think_en about_en this_en ,_en and_en then_en we_en 'll_en see_en some_en data_en ._en
+some_en of_en these_en will_en sound_en familiar_en because_en you_en probably_en are_en thinking_en that_en way_en ._en i_en 'm_en using_en my_en brain_en theory_en to_en see_en ._en
+a_en lot_en of_en people_en say_en ,_en "_en i_en really_en do_en n't_en know_en what_en people_en are_en going_en to_en pick_en ,_en so_en i_en think_en the_en average_en will_en be_en 50._en "_en they_en 're_en not_en being_en really_en strategic_en at_en all_en ._en
+"_en and_en i_en 'll_en pick_en two_en -_en thirds_en of_en 50._en that_en 's_en 33._en "_en that_en 's_en a_en start_en ._en
+other_en people_en who_en are_en a_en little_en more_en sophisticated_en ,_en using_en more_en working_en memory_en ,_en say_en ,_en "_en i_en think_en people_en will_en pick_en 33_en because_en they_en 're_en going_en to_en pick_en a_en response_en to_en 50_en ,_en and_en so_en i_en 'll_en pick_en 22_en ,_en which_en is_en two_en -_en thirds_en of_en 33._en "_en
+they_en 're_en doing_en one_en extra_en step_en of_en thinking_en ,_en two_en steps_en ._en
+that_en 's_en better_en ._en and_en of_en course_en ,_en in_en principle_en ,_en you_en could_en do_en three_en ,_en four_en or_en more_en ,_en but_en it_en starts_en to_en get_en very_en difficult_en ._en
+just_en like_en in_en language_en and_en other_en domains_en ,_en we_en know_en that_en it_en 's_en hard_en for_en people_en to_en parse_en very_en complex_en sentences_en with_en a_en kind_en of_en recursive_en structure_en ._en
+this_en is_en called_en a_en cognitive_en hierarchy_en theory_en ,_en by_en the_en way_en ._en
+it_en 's_en something_en that_en i_en 've_en worked_en on_en and_en a_en few_en other_en people_en ,_en and_en it_en indicates_en a_en kind_en of_en hierarchy_en along_en with_en some_en assumptions_en about_en how_en many_en people_en stop_en at_en different_en steps_en and_en how_en the_en steps_en of_en thinking_en are_en affected_en by_en lots_en of_en interesting_en variables_en and_en variant_en people_en ,_en as_en we_en 'll_en see_en in_en a_en minute_en ._en
+a_en very_en different_en theory_en ,_en a_en much_en more_en popular_en one_en ,_en and_en an_en older_en one_en ,_en due_en largely_en to_en john_en nash_en of_en "_en a_en beautiful_en mind_en "_en fame_en ,_en is_en what_en 's_en called_en equilibrium_en analysis_en ._en
+so_en if_en you_en 've_en ever_en taken_en a_en game_en theory_en course_en at_en any_en level_en ,_en you_en will_en have_en learned_en a_en little_en bit_en about_en this_en ._en
+an_en equilibrium_en is_en a_en mathematical_en state_en in_en which_en everybody_en has_en figured_en out_en exactly_en what_en everyone_en else_en will_en do_en ._en
+it_en is_en a_en very_en useful_en concept_en ,_en but_en behaviorally_en ,_en it_en may_en not_en exactly_en explain_en what_en people_en do_en the_en first_en time_en they_en play_en these_en types_en of_en economic_en games_en or_en in_en situations_en in_en the_en outside_en world_en ._en
+in_en this_en case_en ,_en the_en equilibrium_en makes_en a_en very_en bold_en prediction_en ,_en which_en is_en everyone_en wants_en to_en be_en below_en everyone_en else_en ,_en therefore_en they_en 'll_en play_en zero_en ._en
+let_en 's_en see_en what_en happens_en ._en this_en experiment_en 's_en been_en done_en many_en ,_en many_en times_en ._en
+some_en of_en the_en earliest_en ones_en were_en done_en in_en the_en '90s_en by_en me_en and_en rosemarie_en nagel_en and_en others_en ._en
+this_en is_en a_en beautiful_en data_en set_en of_en 9,000_en people_en who_en wrote_en in_en to_en three_en newspapers_en and_en magazines_en that_en had_en a_en contest_en ._en
+the_en contest_en said_en ,_en send_en in_en your_en numbers_en and_en whoever_en is_en close_en to_en two_en -_en thirds_en of_en the_en average_en will_en win_en a_en big_en prize_en ._en
+and_en as_en you_en can_en see_en ,_en there_en 's_en so_en much_en data_en here_en ,_en you_en can_en see_en the_en spikes_en very_en visibly_en ._en
+there_en 's_en a_en spike_en at_en 33._en those_en are_en people_en doing_en one_en step_en ._en
+there_en is_en another_en spike_en visible_en at_en 22_en ._en
+and_en notice_en ,_en by_en the_en way_en ,_en that_en most_en people_en pick_en numbers_en right_en around_en there_en ._en
+they_en do_en n't_en necessarily_en pick_en exactly_en 33_en and_en 22_en ._en
+there_en 's_en something_en a_en little_en bit_en noisy_en around_en it_en ._en
+but_en you_en can_en see_en those_en spikes_en ,_en and_en they_en 're_en there_en ._en
+there_en 's_en another_en group_en of_en people_en who_en seem_en to_en have_en a_en firm_en grip_en on_en equilibrium_en analysis_en ,_en because_en they_en 're_en picking_en zero_en or_en one_en ._en
+but_en they_en lose_en ,_en right_en ?_en
+because_en picking_en a_en number_en that_en low_en is_en actually_en a_en bad_en choice_en if_en other_en people_en are_en n't_en doing_en equilibrium_en analysis_en as_en well_en ._en
+so_en they_en 're_en smart_en ,_en but_en poor_en ._en
+where_en are_en these_en things_en happening_en in_en the_en brain_en ?_en
+one_en study_en by_en coricelli_en and_en nagel_en gives_en a_en really_en sharp_en ,_en interesting_en answer_en ._en
+so_en they_en had_en people_en play_en this_en game_en while_en they_en were_en being_en scanned_en in_en an_en fmri_en ,_en and_en two_en conditions_en :_en in_en some_en trials_en ,_en they_en 're_en told_en you_en 're_en playing_en another_en person_en who_en 's_en playing_en right_en now_en and_en we_en 're_en going_en to_en match_en up_en your_en behavior_en at_en the_en end_en and_en pay_en you_en if_en you_en win_en ._en
+in_en the_en other_en trials_en ,_en they_en 're_en told_en ,_en you_en 're_en playing_en a_en computer_en ._en
+they_en 're_en just_en choosing_en randomly_en ._en
+so_en what_en you_en see_en here_en is_en a_en subtraction_en of_en areas_en in_en which_en there_en 's_en more_en brain_en activity_en when_en you_en 're_en playing_en people_en compared_en to_en playing_en the_en computer_en ._en
+and_en you_en see_en activity_en in_en some_en regions_en we_en 've_en seen_en today_en ,_en medial_en prefrontal_en cortex_en ,_en dorsomedial_en ,_en however_en ,_en up_en here_en ,_en ventromedial_en prefrontal_en cortex_en ,_en anterior_en cingulate_en ,_en an_en area_en that_en 's_en involved_en in_en lots_en of_en types_en of_en conflict_en resolution_en ,_en like_en if_en you_en 're_en playing_en "_en simon_en says_en ,_en "_en and_en also_en the_en right_en and_en left_en temporoparietal_en junction_en ._en
+and_en these_en are_en all_en areas_en which_en are_en fairly_en reliably_en known_en to_en be_en part_en of_en what_en 's_en called_en a_en "_en theory_en of_en mind_en "_en circuit_en ,_en or_en "_en mentalizing_en circuit_en ._en "_en
+that_en is_en ,_en it_en 's_en a_en circuit_en that_en 's_en used_en to_en imagine_en what_en other_en people_en might_en do_en ._en
+so_en these_en were_en some_en of_en the_en first_en studies_en to_en see_en this_en tied_en in_en to_en game_en theory_en ._en
+what_en happens_en with_en these_en one_en -_en and_en two_en -_en step_en types_en ?_en
+so_en we_en classify_en people_en by_en what_en they_en picked_en ,_en and_en then_en we_en look_en at_en the_en difference_en between_en playing_en humans_en versus_en playing_en computers_en ,_en which_en brain_en areas_en are_en differentially_en active_en ._en
+on_en the_en top_en you_en see_en the_en one_en -_en step_en players_en ._en
+there_en 's_en almost_en no_en difference_en ._en
+the_en reason_en is_en ,_en they_en 're_en treating_en other_en people_en like_en a_en computer_en ,_en and_en the_en brain_en is_en too_en ._en
+the_en bottom_en players_en ,_en you_en see_en all_en the_en activity_en in_en dorsomedial_en pfc_en ._en
+so_en we_en know_en that_en those_en two_en -_en step_en players_en are_en doing_en something_en differently_en ._en
+now_en if_en you_en were_en to_en step_en back_en and_en say_en ,_en "_en what_en can_en we_en do_en with_en this_en information_en ?_en "_en you_en might_en be_en able_en to_en look_en at_en brain_en activity_en and_en say_en ,_en "_en this_en person_en 's_en going_en to_en be_en a_en good_en poker_en player_en ,_en "_en or_en ,_en "_en this_en person_en 's_en socially_en naive_en ,_en "_en and_en we_en might_en also_en be_en able_en to_en study_en things_en like_en development_en of_en adolescent_en brains_en once_en we_en have_en an_en idea_en of_en where_en this_en circuitry_en exists_en ._en
+okay_en ._en get_en ready_en ._en
+i_en 'm_en saving_en you_en some_en brain_en activity_en ,_en because_en you_en do_en n't_en need_en to_en use_en your_en hair_en detector_en cells_en ._en
+you_en should_en use_en those_en cells_en to_en think_en carefully_en about_en this_en game_en ._en
+this_en is_en a_en bargaining_en game_en ._en
+two_en players_en who_en are_en being_en scanned_en using_en eeg_en electrodes_en are_en going_en to_en bargain_en over_en one_en to_en six_en dollars_en ._en
+if_en they_en can_en do_en it_en in_en 10_en seconds_en ,_en they_en 're_en going_en to_en actually_en earn_en that_en money_en ._en
+if_en 10_en seconds_en goes_en by_en and_en they_en have_en n't_en made_en a_en deal_en ,_en they_en get_en nothing_en ._en
+that_en 's_en kind_en of_en a_en mistake_en together_en ._en
+the_en twist_en is_en that_en one_en player_en ,_en on_en the_en left_en ,_en is_en informed_en about_en how_en much_en on_en each_en trial_en there_en is_en ._en
+they_en play_en lots_en of_en trials_en with_en different_en amounts_en each_en time_en ._en
+in_en this_en case_en ,_en they_en know_en there_en 's_en four_en dollars_en ._en
+the_en uninformed_en player_en does_en n't_en know_en ,_en but_en they_en know_en that_en the_en informed_en player_en knows_en ._en
+so_en the_en uninformed_en player_en 's_en challenge_en is_en to_en say_en ,_en "_en is_en this_en guy_en really_en being_en fair_en or_en are_en they_en giving_en me_en a_en very_en low_en offer_en in_en order_en to_en get_en me_en to_en think_en that_en there_en 's_en only_en one_en or_en two_en dollars_en available_en to_en split_en ?_en "_en in_en which_en case_en they_en might_en reject_en it_en and_en not_en come_en to_en a_en deal_en ._en
+so_en there_en 's_en some_en tension_en here_en between_en trying_en to_en get_en the_en most_en money_en but_en trying_en to_en goad_en the_en other_en player_en into_en giving_en you_en more_en ._en
+and_en the_en way_en they_en bargain_en is_en to_en point_en on_en a_en number_en line_en that_en goes_en from_en zero_en to_en six_en dollars_en ,_en and_en they_en 're_en bargaining_en over_en how_en much_en the_en uninformed_en player_en gets_en ,_en and_en the_en informed_en player_en 's_en going_en to_en get_en the_en rest_en ._en
+so_en this_en is_en like_en a_en management_en -_en labor_en negotiation_en in_en which_en the_en workers_en do_en n't_en know_en how_en much_en profits_en the_en privately_en held_en company_en has_en ,_en right_en ,_en and_en they_en want_en to_en maybe_en hold_en out_en for_en more_en money_en ,_en but_en the_en company_en might_en want_en to_en create_en the_en impression_en that_en there_en 's_en very_en little_en to_en split_en :_en "_en i_en 'm_en giving_en you_en the_en most_en that_en i_en can_en ._en "_en first_en some_en behavior_en ._en so_en a_en bunch_en of_en the_en subject_en pairs_en ,_en they_en play_en face_en to_en face_en ._en
+we_en have_en some_en other_en data_en where_en they_en play_en across_en computers_en ._en
+that_en 's_en an_en interesting_en difference_en ,_en as_en you_en might_en imagine_en ._en
+but_en a_en bunch_en of_en the_en face_en -_en to_en -_en face_en pairs_en agree_en to_en divide_en the_en money_en evenly_en every_en single_en time_en ._en
+boring_en ._en it_en 's_en just_en not_en interesting_en neurally_en ._en
+it_en 's_en good_en for_en them_en ._en they_en make_en a_en lot_en of_en money_en ._en
+but_en we_en 're_en interested_en in_en ,_en can_en we_en say_en something_en about_en when_en disagreements_en occur_en versus_en do_en n't_en occur_en ?_en
+so_en this_en is_en the_en other_en group_en of_en subjects_en who_en often_en disagree_en ._en
+so_en they_en have_en a_en chance_en of_en --_en they_en bicker_en and_en disagree_en and_en end_en up_en with_en less_en money_en ._en
+they_en might_en be_en eligible_en to_en be_en on_en "_en real_en housewives_en ,_en "_en the_en tv_en show_en ._en
+you_en see_en on_en the_en left_en ,_en when_en the_en amount_en to_en divide_en is_en one_en ,_en two_en or_en three_en dollars_en ,_en they_en disagree_en about_en half_en the_en time_en ,_en and_en when_en the_en amount_en is_en four_en ,_en five_en ,_en six_en ,_en they_en agree_en quite_en often_en ._en
+this_en turns_en out_en to_en be_en something_en that_en 's_en predicted_en by_en a_en very_en complicated_en type_en of_en game_en theory_en you_en should_en come_en to_en graduate_en school_en at_en caltech_en and_en learn_en about_en ._en
+it_en 's_en a_en little_en too_en complicated_en to_en explain_en right_en now_en ,_en but_en the_en theory_en tells_en you_en that_en this_en shape_en kind_en of_en should_en occur_en ._en
+your_en intuition_en might_en tell_en you_en that_en too_en ._en
+now_en i_en 'm_en going_en to_en show_en you_en the_en results_en from_en the_en eeg_en recording_en ._en
+very_en complicated_en ._en the_en right_en brain_en schematic_en is_en the_en uninformed_en person_en ,_en and_en the_en left_en is_en the_en informed_en ._en
+remember_en that_en we_en scanned_en both_en brains_en at_en the_en same_en time_en ,_en so_en we_en can_en ask_en about_en time_en -_en synced_en activity_en in_en similar_en or_en different_en areas_en simultaneously_en ,_en just_en like_en if_en you_en wanted_en to_en study_en a_en conversation_en and_en you_en were_en scanning_en two_en people_en talking_en to_en each_en other_en
+and_en you_en 'd_en expect_en common_en activity_en in_en language_en regions_en when_en they_en 're_en actually_en kind_en of_en listening_en and_en communicating_en ._en
+so_en the_en arrows_en connect_en regions_en that_en are_en active_en at_en the_en same_en time_en ,_en and_en the_en direction_en of_en the_en arrows_en flows_en from_en the_en region_en that_en 's_en active_en first_en in_en time_en ,_en and_en the_en arrowhead_en goes_en to_en the_en region_en that_en 's_en active_en later_en ._en
+so_en in_en this_en case_en ,_en if_en you_en look_en carefully_en ,_en most_en of_en the_en arrows_en flow_en from_en right_en to_en left_en ._en
+that_en is_en ,_en it_en looks_en as_en if_en the_en uninformed_en brain_en activity_en is_en happening_en first_en ,_en and_en then_en it_en 's_en followed_en by_en activity_en in_en the_en informed_en brain_en ._en
+and_en by_en the_en way_en ,_en these_en were_en trials_en where_en their_en deals_en were_en made_en ._en
+this_en is_en from_en the_en first_en two_en seconds_en ._en
+we_en have_en n't_en finished_en analyzing_en this_en data_en ,_en so_en we_en 're_en still_en peeking_en in_en ,_en but_en the_en hope_en is_en that_en we_en can_en say_en something_en in_en the_en first_en couple_en of_en seconds_en about_en whether_en they_en 'll_en make_en a_en deal_en or_en not_en ,_en
+which_en could_en be_en very_en useful_en in_en thinking_en about_en avoiding_en litigation_en and_en ugly_en divorces_en and_en things_en like_en that_en ._en
+those_en are_en all_en cases_en in_en which_en a_en lot_en of_en value_en is_en lost_en by_en delay_en and_en strikes_en ._en
+here_en 's_en the_en case_en where_en the_en disagreements_en occur_en ._en
+you_en can_en see_en it_en looks_en different_en than_en the_en one_en before_en ._en
+there_en 's_en a_en lot_en more_en arrows_en ._en
+that_en means_en that_en the_en brains_en are_en synced_en up_en more_en closely_en in_en terms_en of_en simultaneous_en activity_en ,_en and_en the_en arrows_en flow_en clearly_en from_en left_en to_en right_en ._en
+that_en is_en ,_en the_en informed_en brain_en seems_en to_en be_en deciding_en ,_en "_en we_en 're_en probably_en not_en going_en to_en make_en a_en deal_en here_en ._en "_en and_en then_en later_en there_en 's_en activity_en in_en the_en uninformed_en brain_en ._en
+next_en i_en 'm_en going_en to_en introduce_en you_en to_en some_en relatives_en ._en
+they_en 're_en hairy_en ,_en smelly_en ,_en fast_en and_en strong_en ._en
+you_en might_en be_en thinking_en back_en to_en your_en last_en thanksgiving_en ._en
+maybe_en if_en you_en had_en a_en chimpanzee_en with_en you_en ._en
+charles_en darwin_en and_en i_en and_en you_en broke_en off_en from_en the_en family_en tree_en from_en chimpanzees_en about_en five_en million_en years_en ago_en ._en
+they_en 're_en still_en our_en closest_en genetic_en kin_en ._en
+we_en share_en 98.8_en percent_en of_en the_en genes_en ._en
+we_en share_en more_en genes_en with_en them_en than_en zebras_en do_en with_en horses_en ._en
+and_en we_en 're_en also_en their_en closest_en cousin_en ._en
+they_en have_en more_en genetic_en relation_en to_en us_en than_en to_en gorillas_en ._en
+so_en how_en humans_en and_en chimpanzees_en behave_en differently_en might_en tell_en us_en a_en lot_en about_en brain_en evolution_en ._en
+so_en this_en is_en an_en amazing_en memory_en test_en from_en nagoya_en ,_en japan_en ,_en primate_en research_en institute_en ,_en where_en they_en 've_en done_en a_en lot_en of_en this_en research_en ._en
+this_en goes_en back_en quite_en a_en ways_en ._en they_en 're_en interested_en in_en working_en memory_en ._en
+they_en 're_en going_en to_en see_en 200_en milliseconds_en '_en exposure_en --_en that_en 's_en fast_en ,_en that_en 's_en eight_en movie_en frames_en --_en of_en numbers_en one_en ,_en two_en ,_en three_en ,_en four_en ,_en five_en ._en
+then_en they_en disappear_en and_en they_en 're_en replaced_en by_en squares_en ,_en and_en they_en have_en to_en press_en the_en squares_en that_en correspond_en to_en the_en numbers_en from_en low_en to_en high_en to_en get_en an_en apple_en reward_en ._en
+let_en 's_en see_en how_en they_en can_en do_en it_en ._en
+this_en is_en a_en young_en chimp_en ._en the_en young_en ones_en are_en better_en than_en the_en old_en ones_en ,_en just_en like_en humans_en ._en
+and_en they_en 're_en highly_en experienced_en ,_en so_en they_en 've_en done_en this_en thousands_en and_en thousands_en of_en time_en ._en
+obviously_en there_en 's_en a_en big_en training_en effect_en ,_en as_en you_en can_en imagine_en ._en
+you_en can_en see_en they_en 're_en very_en blasé_en and_en kind_en of_en effortless_en ._en
+not_en only_en can_en they_en do_en it_en very_en well_en ,_en they_en do_en it_en in_en a_en sort_en of_en lazy_en way_en ._en
+right_en ?_en who_en thinks_en you_en could_en beat_en the_en chimps_en ?_en
+wrong_en ._en
+we_en can_en try_en ._en we_en 'll_en try_en ._en maybe_en we_en 'll_en try_en ._en
+okay_en ,_en so_en the_en next_en part_en of_en this_en study_en i_en 'm_en going_en to_en go_en quickly_en through_en is_en based_en on_en an_en idea_en of_en tetsuro_en matsuzawa_en ._en
+he_en had_en a_en bold_en idea_en that_en --_en what_en he_en called_en the_en cognitive_en trade_en -_en off_en hypothesis_en ._en
+we_en know_en chimps_en are_en faster_en and_en stronger_en ._en
+they_en 're_en also_en very_en obsessed_en with_en status_en ._en
+his_en thought_en was_en ,_en maybe_en they_en 've_en preserved_en brain_en activities_en and_en they_en practice_en them_en in_en development_en that_en are_en really_en ,_en really_en important_en to_en them_en to_en negotiate_en status_en and_en to_en win_en ,_en which_en is_en something_en like_en strategic_en thinking_en during_en competition_en ._en
+so_en we_en 're_en going_en to_en check_en that_en out_en by_en having_en the_en chimps_en actually_en play_en a_en game_en by_en touching_en two_en touch_en screens_en ._en
+the_en chimps_en are_en actually_en interacting_en with_en each_en other_en through_en the_en computers_en ._en
+they_en 're_en going_en to_en press_en left_en or_en right_en ._en
+one_en chimp_en is_en called_en a_en matcher_en ._en
+they_en win_en if_en they_en press_en left_en ,_en left_en ,_en like_en a_en seeker_en finding_en someone_en in_en hide_en -_en and_en -_en seek_en ,_en or_en right_en ,_en right_en ._en
+the_en mismatcher_en wants_en to_en mismatch_en ._en
+they_en want_en to_en press_en the_en opposite_en screen_en of_en the_en chimp_en ._en
+and_en the_en rewards_en are_en apple_en cube_en rewards_en ._en
+so_en here_en 's_en how_en game_en theorists_en look_en at_en these_en data_en ._en
+this_en is_en a_en graph_en of_en the_en percentage_en of_en times_en the_en matcher_en picked_en right_en on_en the_en x_en -_en axis_en ,_en and_en the_en percentage_en of_en times_en they_en predicted_en right_en by_en the_en mismatcher_en on_en the_en y_en -_en axis_en ._en
+so_en a_en point_en here_en is_en the_en behavior_en by_en a_en pair_en of_en players_en ,_en one_en trying_en to_en match_en ,_en one_en trying_en to_en mismatch_en ._en
+the_en ne_en square_en in_en the_en middle_en --_en actually_en ne_en ,_en ch_en and_en qre_en --_en those_en are_en three_en different_en theories_en of_en nash_en equilibrium_en ,_en and_en others_en ,_en tells_en you_en what_en the_en theory_en predicts_en ,_en which_en is_en that_en they_en should_en match_en 50-50_en ,_en because_en if_en you_en play_en left_en too_en much_en ,_en for_en example_en ,_en i_en can_en exploit_en that_en if_en i_en 'm_en the_en mismatcher_en by_en then_en playing_en right_en ._en
+and_en as_en you_en can_en see_en ,_en the_en chimps_en ,_en each_en chimp_en is_en one_en triangle_en ,_en are_en circled_en around_en ,_en hovering_en around_en that_en prediction_en ._en
+now_en we_en move_en the_en payoffs_en ._en
+we_en 're_en actually_en going_en to_en make_en the_en left_en ,_en left_en payoff_en for_en the_en matcher_en a_en little_en bit_en higher_en ._en
+now_en they_en get_en three_en apple_en cubes_en ._en
+game_en theoretically_en ,_en that_en should_en actually_en make_en the_en mismatcher_en 's_en behavior_en shift_en ,_en because_en what_en happens_en is_en ,_en the_en mismatcher_en will_en think_en ,_en oh_en ,_en this_en guy_en 's_en going_en to_en go_en for_en the_en big_en reward_en ,_en and_en so_en i_en 'm_en going_en to_en go_en to_en the_en right_en ,_en make_en sure_en he_en does_en n't_en get_en it_en ._en and_en as_en you_en can_en see_en ,_en their_en behavior_en moves_en up_en in_en the_en direction_en of_en this_en change_en in_en the_en nash_en equilibrium_en ._en
+finally_en ,_en we_en changed_en the_en payoffs_en one_en more_en time_en ._en
+now_en it_en 's_en four_en apple_en cubes_en ,_en and_en their_en behavior_en again_en moves_en towards_en the_en nash_en equilibrium_en ._en
+it_en 's_en sprinkled_en around_en ,_en but_en if_en you_en average_en the_en chimps_en out_en ,_en they_en 're_en really_en ,_en really_en close_en ,_en within_en .01_en ._en
+they_en 're_en actually_en closer_en than_en any_en species_en we_en 've_en observed_en ._en
+what_en about_en humans_en ?_en you_en think_en you_en 're_en smarter_en than_en a_en chimpanzee_en ?_en
+here_en 's_en two_en human_en groups_en in_en green_en and_en blue_en ._en
+they_en 're_en closer_en to_en 50-50_en ._en they_en 're_en not_en responding_en to_en payoffs_en as_en closely_en ,_en and_en also_en if_en you_en study_en their_en learning_en in_en the_en game_en ,_en they_en are_en n't_en as_en sensitive_en to_en previous_en rewards_en ._en
+the_en chimps_en are_en playing_en better_en than_en the_en humans_en ,_en better_en in_en the_en sense_en of_en adhering_en to_en game_en theory_en ._en
+and_en these_en are_en two_en different_en groups_en of_en humans_en from_en japan_en and_en africa_en ._en they_en replicate_en quite_en nicely_en ._en
+none_en of_en them_en are_en close_en to_en where_en the_en chimps_en are_en ._en
+so_en here_en are_en some_en things_en we_en learned_en today_en ._en
+people_en seem_en to_en do_en a_en limited_en amount_en of_en strategic_en thinking_en using_en theory_en of_en mind_en ._en
+we_en have_en some_en preliminary_en evidence_en from_en bargaining_en that_en early_en warning_en signs_en in_en the_en brain_en might_en be_en used_en to_en predict_en whether_en there_en will_en be_en a_en bad_en disagreement_en that_en costs_en money_en ,_en and_en chimps_en are_en better_en competitors_en than_en humans_en ,_en as_en judged_en by_en game_en theory_en ._en
+thank_en you_en ._en

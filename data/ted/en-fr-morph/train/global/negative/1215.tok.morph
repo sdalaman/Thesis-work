@@ -1,0 +1,70 @@
+ to 	 day 	 	i	'd	like	to	show	you	the	future	of	the	way	we	make	 thing 	 s 	 	.
+i	 believ 	 e 	 	that	soon	our	 building 	 s 	 	and	 machine 	 s 	 	will	be	self	-	 assem 	 bling 	 	,	 replica 	 ting 	 	and	 repair 	 ing 	 	 them 	 s 	 elves 	 	.
+so	i	'm	going	to	show	you	what	i	 believ 	 e 	 	is	the	current	state	of	 manufactur 	 ing 	 	,	and	then	 compar 	 e 	 	that	to	some	natural	 system 	 s 	 	.
+so	in	the	current	state	of	 manufactur 	 ing 	 	,	we	have	 sky 	 scrap 	 ers 	 	--	two	and	a	half	 year 	 s 	 	[	of	 assem 	 bly 	 	time	]	,	500,000	to	a	million	 part 	 s 	 	,	 fair 	 ly 	 	complex	,	new	,	 excit 	 ing 	 	 techno 	 logies 	 	in	steel	,	 con 	 cre 	 te 	 	,	glass	.
+we	have	 excit 	 ing 	 	 machine 	 s 	 	that	can	take	us	 in 	 to 	 	space	--	five	 year 	 s 	 	[	of	 assem 	 bly 	 	time	]	,	2.5	million	 part 	 s 	 	.
+but	on	the	other	side	,	if	you	look	at	the	natural	 system 	 s 	 	,	we	have	 protein 	 s 	 	that	have	two	million	 type 	 s 	 	,	can	fold	in	10,000	 nano 	 second 	 s 	 	,	or	dna	with	three	billion	base	 pair 	 s 	 	we	can	replicate	in	 rough 	 ly 	 	an	hour	.
+so	there	's	all	of	 th 	 is 	 	 complex 	 ity 	 	in	our	natural	 system 	 s 	 	,	but	they	're	 extrem 	 e 	 ly 	 	efficient	,	far	more	efficient	than	 any 	 thing 	 	we	can	build	,	far	more	complex	than	 any 	 thing 	 	we	can	build	.
+they	're	far	more	efficient	in	 term 	 s 	 	of	energy	.
+they	 hard 	 ly 	 	ever	make	 mistak 	 es 	 	.
+and	they	can	repair	 them 	 s 	 elves 	 	for	 long 	 ev 	 ity 	 	.
+so	there	's	 some 	 thing 	 	super	 interest 	 ing 	 	about	natural	 system 	 s 	 	.
+and	if	we	can	 transl 	 ate 	 	that	 in 	 to 	 	our	built	environment	,	then	there	's	some	 excit 	 ing 	 	potential	for	the	way	that	we	build	 thing 	 s 	 	.
+and	i	think	the	key	to	that	is	self	-	 assem 	 bly 	 	.
+so	if	we	want	to	 util 	 ize 	 	self	-	 assem 	 bly 	 	in	our	physical	environment	,	i	think	there	's	four	key	 factor 	 s 	 	.
+the	first	is	that	we	need	to	decode	all	of	the	 complex 	 ity 	 	of	what	we	want	to	build	--	so	our	 building 	 s 	 	and	 machine 	 s 	 	.
+and	we	need	to	decode	that	 in 	 to 	 	simple	 sequence 	 s 	 	--	 bas 	 ically 	 	the	dna	of	how	our	 building 	 s 	 	work	.
+then	we	need	 programm 	 able 	 	 part 	 s 	 	that	can	take	that	sequence	and	use	that	to	fold	up	,	or	 reconfigur 	 e 	 	.
+we	need	some	energy	that	's	going	to	allow	that	to	activate	,	allow	our	 part 	 s 	 	to	be	able	to	fold	up	from	the	program	.
+and	we	need	some	type	of	error	 correct 	 ion 	 	 red 	 un 	 d 	 ancy 	 	to	guarantee	that	we	have	 success 	 fully 	 	built	what	we	want	.
+so	i	'm	going	to	show	you	a	number	of	 project 	 s 	 	that	my	 col 	 league 	 s 	 	and	i	at	mit	are	 work 	 ing 	 	on	to	 achiev 	 e 	 	 th 	 is 	 	self	-	 assem 	 bling 	 	future	.
+the	first	two	are	the	macrobot	and	decibot	.
+so	these	 project 	 s 	 	are	large	-	scale	 reconfigur 	 able 	 	 robot 	 s 	 	--	8	ft.	,	12	ft.	long	 protein 	 s 	 	.
+they	're	 embed 	 d 	 ed 	 	with	 mechanic 	 al 	 	 electric 	 al 	 	 de 	 vice 	 s 	 	,	 sensor 	 s 	 	.	you	decode	what	you	want	to	fold	up	 in 	 to 	 	,	 in 	 to 	 	a	sequence	of	 angle 	 s 	 	--	so	negative	120	,	negative	120	,	0	,	0	,	120	,	negative	120	--	 some 	 thing 	 	like	that	;	so	a	sequence	of	 angle 	 s 	 	,	or	 turn 	 s 	 	,	and	you	 s 	 end 	 	that	sequence	through	the	string	.
+each	unit	 take 	 s 	 	 it 	 s 	 	 mess 	 age 	 	--	so	negative	120	--
+it	 rot 	 ates 	 	to	that	,	 check 	 s 	 	if	it	got	there	and	then	 pass 	 es 	 	it	to	 it 	 s 	 	neighbor	.
+so	these	are	the	 brilli 	 ant 	 	 scientist 	 s 	 	,	 engineer 	 s 	 	,	 design 	 ers 	 	that	 work 	 ed 	 	on	 th 	 is 	 	project	.
+and	i	think	it	 re 	 ally 	 	 br 	 ing 	 s 	 	to	light	:	is	 th 	 is 	 	 re 	 ally 	 	 scal 	 able 	 	?
+i	mean	,	 thousand 	 s 	 	of	 dollar 	 s 	 	,	 lot 	 s 	 	of	man	 hour 	 s 	 	made	to	make	 th 	 is 	 	eight	-	foot	robot	.
+can	we	 re 	 ally 	 	scale	 th 	 is 	 	up	?	can	we	 re 	 ally 	 	embed	 robotic 	 s 	 	 in 	 to 	 	every	part	?
+the	next	one	 question 	 s 	 	that	and	 look 	 s 	 	at	 pass 	 ive 	 	nature	,	or	 pass 	 ively 	 	 try 	 ing 	 	to	have	 reconfigur 	 ation 	 	 programm 	 ability 	 	.
+but	it	 go 	 es 	 	a	step	further	,	and	it	tries	to	have	actual	computation	.
+it	 bas 	 ically 	 	 embed 	 s 	 	the	most	fundamental	building	block	of	computing	,	the	digital	logic	gate	,	 direct 	 ly 	 	 in 	 to 	 	your	 part 	 s 	 	.
+so	 th 	 is 	 	is	a	nand	gate	.
+you	have	one	tetrahedron	which	is	the	gate	that	's	going	to	do	your	computing	,	and	you	have	two	 in 	 put 	 	 tetrahedron 	 s 	 	.
+one	of	them	is	the	 in 	 put 	 	from	the	user	,	 a 	 s 	 	you	're	building	your	 brick 	 s 	 	.
+the	other	one	is	from	the	previous	brick	that	was	 place 	 d 	 	.
+and	then	it	 give 	 s 	 	you	an	 out 	 put 	 	in	3d	space	.
+so	what	 th 	 is 	 	 mean 	 s 	 	is	that	the	user	can	start	 plug 	 ging 	 	in	what	they	want	the	 brick 	 s 	 	to	do	.
+it	 compute 	 s 	 	on	what	it	was	 do 	 ing 	 	before	and	what	you	 s 	 aid 	 	you	 want 	 ed 	 	it	to	do	.
+and	now	it	 start 	 s 	 	moving	in	three	-	dimensional	space	--	so	up	or	down	.
+so	on	the	left	-	hand	side	,	[	1,1	]	 in 	 put 	 	 equal 	 s 	 	0	 out 	 put 	 	,	which	 go 	 es 	 	down	.
+on	the	right	-	hand	side	,	[	0,0	]	 in 	 put 	 	is	a	1	 out 	 put 	 	,	which	 go 	 es 	 	up	.
+and	so	what	that	 re 	 ally 	 	 mean 	 s 	 	is	that	our	 structure 	 s 	 	now	contain	the	 blue 	 print 	 s 	 	of	what	we	want	to	build	.
+so	they	have	all	of	the	information	 embed 	 d 	 ed 	 	in	them	of	what	was	 construct 	 ed 	 	.
+so	that	 mean 	 s 	 	that	we	can	have	some	form	of	self	-	 replica 	 tion 	 	.
+in	 th 	 is 	 	case	i	call	it	self	-	 guide 	 d 	 	 replica 	 tion 	 	,	 be 	 cause 	 	your	structure	 contain 	 s 	 	the	exact	 blue 	 print 	 s 	 	.
+if	you	have	 error 	 s 	 	,	you	can	replace	a	part	.
+all	the	local	information	is	 embed 	 d 	 ed 	 	to	tell	you	how	to	fix	it	.
+so	you	could	have	 some 	 thing 	 	that	 climb 	 s 	 	 a 	 long 	 	and	 read 	 s 	 	it	and	can	 out 	 put 	 	at	one	to	one	.
+it	's	 direct 	 ly 	 	 embed 	 d 	 ed 	 	;	there	's	no	external	 instruct 	 ions 	 	.
+so	the	last	project	i	'll	show	is	 call 	 ed 	 	 bias 	 ed 	 	 chain 	 s 	 	,	and	it	's	 prob 	 ably 	 	the	most	 excit 	 ing 	 	 ex 	 ample 	 	that	we	have	right	now	of	 pass 	 ive 	 	self	-	 assem 	 bly 	 	 system 	 s 	 	.
+so	it	 take 	 s 	 	the	 reconfigur 	 ability 	 	and	 programm 	 ability 	 	and	 make 	 s 	 	it	a	 complete 	 ly 	 	 pass 	 ive 	 	system	.
+so	 bas 	 ically 	 	you	have	a	chain	of	 element 	 s 	 	.
+each	element	is	 complete 	 ly 	 	 ident 	 ical 	 	,	and	they	're	 bias 	 ed 	 	.
+so	each	chain	,	or	each	element	,	 want 	 s 	 	to	turn	right	or	left	.
+so	 a 	 s 	 	you	assemble	the	chain	,	you	're	 bas 	 ically 	 	 programm 	 ing 	 	it	.
+you	're	 tell 	 ing 	 	each	unit	if	it	should	turn	right	or	left	.
+so	when	you	shake	the	chain	,	it	then	 fold 	 s 	 	up	 in 	 to 	 	any	 configu 	 ration 	 	that	you	've	 programm 	 ed 	 	in	--	so	in	 th 	 is 	 	case	,	a	spiral	,	or	in	 th 	 is 	 	case	,	two	 cube 	 s 	 	next	to	each	other	.
+so	you	can	 bas 	 ically 	 	program	any	three	-	dimensional	shape	--	or	one	-	dimensional	,	two	-	dimensional	--	up	 in 	 to 	 	 th 	 is 	 	chain	 complete 	 ly 	 	 pass 	 ively 	 	.
+so	what	 do 	 es 	 	 th 	 is 	 	tell	us	about	the	future	?
+i	think	that	it	's	 tell 	 ing 	 	us	that	there	's	new	 possibil 	 ities 	 	for	self	-	 assem 	 bly 	 	,	 replica 	 tion 	 	,	repair	in	our	physical	 structure 	 s 	 	,	our	 building 	 s 	 	,	 machine 	 s 	 	.
+there	's	new	 programm 	 ability 	 	in	these	 part 	 s 	 	.
+and	from	that	you	have	new	 possibil 	 ities 	 	for	computing	.
+we	'll	have	spatial	computing	.
+imagine	if	our	 building 	 s 	 	,	our	 bridge 	 s 	 	,	 machine 	 s 	 	,	all	of	our	 brick 	 s 	 	could	 actual 	 ly 	 	compute	.
+that	's	 amaz 	 ing 	 	parallel	and	 distribut 	 ed 	 	computing	power	,	new	design	 possibil 	 ities 	 	.
+so	it	's	 excit 	 ing 	 	potential	for	 th 	 is 	 	.
+so	i	think	these	 project 	 s 	 	i	've	 show 	 ed 	 	here	are	just	a	 tin 	 y 	 	step	 to 	 ward 	 s 	 	 th 	 is 	 	future	,	if	we	implement	these	new	 techno 	 logies 	 	for	a	new	self	-	 assem 	 bling 	 	world	.
+thank	you	.
+

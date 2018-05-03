@@ -1,0 +1,34 @@
+yaşadığımız	dünyayı	anlamak	için	,	hikayeler	anlatırız	.
+ve	bildiğimiz	gibi	web'i	tanımlamak	için	yeniden	düzenleme	ve	paylaşma	geldi	,	şimdi	hepimiz	olayları	online	hale	getirmemizi	sağlayan	basit	araçlarla	bu	hikayenin	parçası	olabiliriz	.
+ama	video	ihmal	edildi	.	web'e	küçük	bir	kutu	içinde	geldi	ve	orada	kaldı	,	etrafındaki	veri	ve	içerikten	bütünüyle	bağını	_UNK_	olarak	.
+aslında	,	on	yıl	boyunca	web	üzerindeki	videolarda	,	tek	değişen	kutunun	boyutu	ve	resmin	kalitesi	oldu	.
+popcorn	bunu	değiştiriyor	.
+herhangi	birisinin	web	üzerinden	direk	olarak	çekilen	içerikle	videoyu	_UNK_	sağlayan	online	bir	araç	.
+popcorn	ile	yaratılan	videolar	,	web'in	kendisi	gibi	olacak	:	dinamik	,	linklerle	dolu	,	bütünüyle	yeniden	düzenlenebilir	ve	son	olarak	çerçeveden	kurtulabilecek	.
+size	bu	_UNK_	sonuna	doğru	sunmak	için	üzerinde	çalıştığımız	bir	prototipin	demosunu	izlettirmek	istiyorum	.
+tamamen	ücretsiz	olacak	ve	her	internet	_UNK_	çalışabilecek	.
+her	popcorn	üretimi	video	ile	başlar	,	ben	de	bunun	için	_UNK_	kullandığımız	haber	spikeri	şablonunu	kullanarak	20	saniyelik	kısa	bir	klip	hazırladım	.
+bunu	izleyelim	.	daha	sonra	geriye	gideceğiz	ve	nasıl	yaptığımı	anlatacağım	.
+merhaba	,	haber	_UNK_	hoşgeldiniz	.
+google	map	kullanarak	yerimi	ekledim	ve	harita	canlı	,	_UNK_	deneyin	.
+canlı	linkler	ve	özel	ikonlar	içeren	açılır	pencereler	ekleyebilirsiniz	,	ya	da	flickr	benzeri	herhangi	bir	web	servisinden	veri	çekebilirsiniz	,	ya	da	tam	içeriğe	linkler	içeren	yazılar	ya	da	blog	yazıları	ekleyebilirsiniz	.
+geriye	gidelim	ve	gördüklerinizi	göstereyim	.	çok	şey	içeriyordu	.
+bu	zaman	çizelgesi	,	ve	daha	önce	video	_UNK_	,	buna	aşinasınızdır	,	ama	bu	sefer	zaman	_UNK_	klipler	yerine	,	videonun	içinde	gösterilen	web	olayları	var	.
+şimdi	bu	popcorn	üretiminde	başlık	_UNK_	var	,	resim	içinde	resim	gösteren	google	map	haritamız	var	,	ve	popcorn	haritanın	çerçeve	dışına	_UNK_	ve	bütün	ekranı	_UNK_	sağlıyor	.
+başka	bilgiler	getiren	iki	açılır	pencere	ve	son	olarak	orjinal	yazıya	link	içeren	bir	yazı	var	.
+google	_UNK_	gidelim	ve	onu	nasıl	_UNK_	göstereyim	.
+bütün	yapacağınız	,	zaman	çizelgesine	gitmek	,	ilgili	nesneye	çift	tıklamak	,	ve	ben	_UNK_	olduğum	için	orası	olarak	ayarladım	.
+başka	bir	yer	olarak	_UNK_	.
+popcorn	hemen	web	üzerinden	google	ile	konuşuyor	,	haritayı	alıyor	ve	gösteriyor	.
+ve	bu	sizin	_UNK_	izleyen	insanlar	için	de	,	tamamen	aynı	.
+ve	canlı	.	resim	değil	.	üzerine	_UNK_	,	yakınlaştırabiliyorsunuz	,	isterseniz	sokak	görünümüne	_UNK_	.
+videoda	canlı	bilgilendirme	eklemekten	bahsettim	,	şimdi	onu	yapalım	,	flickr'dan	canlı	bilgilendirme	ekleyelim	.	sağ	tarafa	gidin	,	listedeki	seçeneklerden	_UNK_	seçin	ve	zaman	çizelgesine	_UNK_	,	çizelgede	istediğiniz	bir	yere	koyun	ve	canlı	bilgilendirme	hemen	flickr'a	gidecek	ve	etiketlerle	ilgili	resimleri	çekmeye	başlayacak	.	yazılım	_UNK_	küçük	atları	sevdikleri	için	,	varsayılan	etiket	olarak	onu	ayarlamışlar	.
+başka	bir	şey	deneyelim	,	belki	bugünle	daha	fazla	ilgili	birşey	.
+bunlar	_UNK_	gelen	canlı	resimler	.
+bu	videoyu	bir	hafta	sonra	gelip	yeniden	izlerseniz	,	tamamıyla	farklı	olacak	,	web	gibi	dinamik	olacak	ve	web	gibi	kaynağına	bağlı	olacak	,	bağlantıya	tıklayın	ve	doğruca	flickr'a	gidip	kaynak	resmi	görebileceksiniz	.
+burada	gördüğünüz	herşey	basit	web	blokları	kullanılarak	yapıldı	:	html	,	_UNK_	ve	javascript	.
+yani	tamamen	yeniden	düzenlenebilir	.	ve	de	tescilli	yazılım	yok	.	tüm	ihtiyacınız	bir	web	tarayıcısı	.
+web	üzerinde	izlediğimiz	her	videonun	web	gibi	çalıştığını	hayal	edin	,	bütünüyle	yeniden	düzenlenebilir	,	kaynak	içeriğine	linklerle	bağlı	ve	_UNK_	herkes	için	etkileşimli	.
+bence	popcorn	web	üzerinde	hikayeler	anlatma	yolumuzu	ve	yaşadığımız	dünyayı	anlama	yolunu	değiştirecek	.
+teşekkür	ederim	.
+

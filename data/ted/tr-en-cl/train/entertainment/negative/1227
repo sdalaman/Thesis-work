@@ -1,0 +1,164 @@
+erez lieberman aiden : herkes bilir ki bir resim 1000 kelimeye değerdir .
+ama harvard'daki bizler bunun gerçekten doğru olup olmadığını merak ediyorduk .
+böylece , harvard , mit , american _UNK_ sözlüğü , britannica ansiklopedisi , ve gururlu _UNK_ google'ın da arasında bulunduğu uzmanlardan oluşan bir ekip hazırladık .
+ve 4 yıl kadar bunun üzerinde düşündük .
+ve şaşırtıcı bir sonuca vardık .
+bayanlar baylar , bir resim 1000 kelimeye değer değil .
+hatta , biz 500 milyar kelimeye değer resimler bulduk .
+jean - baptiste michel : peki bu sonuca nasıl vardık ?
+erez ve ben , insan kültürünün ve insanlık tarihinin zamanla değişiminin genel bir tablosunu oluşturmak istiyorduk .
+yıllar içinde o kadar çok kitap yazılmış ki .
+biz de düşündük ki . onlardan öğrenmenin en iyi yolu tüm bu milyonlarca kitapları okumak .
+tabiki eğer bunun ne kadar süper bir şey olduğunu gösteren bir grafik varsa , bu çok çok yüksek bir sıralamaya sahip olmalı .
+problem şu ki , bir de x ekseni var , ki o da _UNK_ ekseni .
+bu da çok çok düşük bir seviyede .
+şimdi insanlar alternatif bir yaklaşım kullanmaya meyilli , bu da bir kaç kaynağı almak ve onlar dikkatlice okumak .
+bu inanılmaz kullanışlı , ama o kadar süper değil .
+gerçekte yapmak istediğiniz şey süper ama kullanışlı olan bu alana gelmek .
+öğrendik ki bir kaç sene önce bir dijitalizasyon projesi başlatan bu yaklaşımı mümkün kılabilecek nehrin ötesinde google adında bir şirket varmış .
+_UNK_ kitabı dijitalize hale getirdiler .
+yani bu şu anlama geliyor : biri bu kitapların hepsini okumak için bir _UNK_ bilgisayarlı _UNK_ kullanabilir .
+bu çok kullanışlı ve inanılmaz süper .
+ela : sizlere biraz kitapların nereden geldiğinden bahsedeyim .
+zamanın başlangıcından beri , yazarlar vardı .
+bu yazarlar kitap yazmak için _UNK_ durdular .
+bir kaç yüzyıl önce matbaa makinesinin _UNK_ bu gittikçe kolaylaştı .
+o zamandan beri , _UNK_ milyon farklı _UNK_ kitaplar yayınlayarak , yazarlar kazandı .
+şimdi ise bu kitaplar tarih arasında kaybolup gitmediyse bir kütüphanenin _UNK_ ve bu kitapların çoğu _UNK_ _UNK_ , ve günümüze kadar 15 milyon kitabı taramış olan , google tarafından dijitalize hale getiriliyorlar .
+şimdi google bir kitabı dijitalize hale getirdiğinde , onu çok güzel bir _UNK_ sunuyorlar .
+şimdi elimizde veri var ve meta veri var .
+kitabın nerede basıldığı , yazarın kim olduğu ne zaman basıldığı gibi şeyler hakkında bilgimiz var .
+yaptığımız ise bütün bu bilgileri taramak ve yüksek kaliteli olmayan tüm verileri ayıklamak .
+elimizde kalan şey ise 5 milyon kitabın 500 milyar kelimenin toplamı , kültürel _UNK_ gerçek bir parçası , açık açık _UNK_ , buradan aya kadar , 10 kez gidip gelebilecek , insan _UNK_ 1000 kere daha uzun olan bir karakterler dizisi .
+böyle aşırı abartılı bir durumla karşı karşıya kaldığımızda yaptığımız şey
+kendine saygısı olan her araştırmacının yapacağı şeydi .
+_UNK_ bir sayfayı aldık , ve " sıkı durun , bilim yapmayı deneyeceğiz "
+dedik .
+jm : tabii ki , şöyle düşündük , bilimle ilgilenen insanlar için elimizdeki datayı ortaya koyalım .
+düşünmeye başladık , hangi datayı _UNK_ ?
+tabii ki , bu kitapları alıp bu 5 milyon kitabın tam _UNK_ yayınlamak istiyorsunuz .
+_UNK_ , özellikle jon orwant , bize öğrenmemiz gereken bir denklemden bahsettiler .
+şimdi elinizde 5 milyon yazar var ve 5 milyon _UNK_ devasa bir toplu dava demek .
+yani bu her ne kadar çok çok süper bir şey olsa da , tekrar edelim , çok ama çok kullanışsız .
+ve tekrardan , boyun _UNK_ , ve o kadar süper olmayan kullanışlı yaklaşımı kullandık .
+tam _UNK_ yayınlamak yerine , kitaplar hakkında istatistikleri yayınlayalım dedik .
+" bir pırıltı mutluluk " ' u ele alalım .
+3 kelime ; biz buna ü ç - gram dedik .
+size bu ü ç - _UNK_ _UNK_ , _UNK_ , _UNK_ ten baslayip 2008'e kadar olan kitaplarda kaç defa geçtiğini söyleyeceğiz .
+bu , bize bu cümlenin zaman içinde kaç defa _UNK_ gösteren bir zaman dizini sunacak .
+bu yöntemi , bu kitaplardaki tüm kelime ve _UNK_ uygularsak sonunda elimizde kültürümüzün ne şekilde _UNK_ gösteren iki milyar _UNK_ bir tablo ortaya çıkacak .
+ela : peki , bu iki milyar satır , bunlara iki milyar n - gram diyelim .
+bize ne söylüyorlar ?
+yalın n - _UNK_ , kültürel trendleri ölçmeye yarıyor .
+bir örnek vermeme izin verin .
+diyelim ki ben çok başarılı oldum . ve ertesi gün size ne kadar başarılı olduğumu söylemek istedim .
+diyebilirim ki , ben dün " başardım . "
+ya da diyebilirim ki " başardım " .
+hangisini kullanmalıyım ?
+nasıl bileceğiz ?
+bundan yaklaşık altı ay önce bu sorunun yanıtını öğrenmek için mesela bu muhteşem saçlara sahip psikoloğa gider ve derdiniz ki , " steve , sen düzensiz fiil çekimi konusunda tam bir _UNK_ . hangisini
+kullanmam gerekir ? "
+o da size derdi ki " bak insanların çoğu ' thrived ' diyor , ama bazıları ' _UNK_ ' da diyorlar . "
+ve şunu da biliyorsunuz ki , eğer bundan 200 yıl önceye gidebiliyor olsanız ve aynı derece müthiş saçlara sahip bu devlet adamına aynı soruyu sorsanız , " tom , hangisini kullanmalıyım ? " deseniz
+o size " bak , benim zamanımda çoğu insan ' throve ' diyordu , ama bazıları ' thrived ' da der . " diyecektir .
+öylese şimdi sizle ham veriyi paylaşacağım .
+bu tablodaki iki sıra , iki milyar kayıt demek .
+burada gördüğünüz zaman içinde " thrived " ve " throve " kelimelerinin yıllık frekansı .
+burada gördüğünüz , iki milyar _UNK_ sadece iki tanesi .
+yani aslında veri setinin tamamı bu slaytta _UNK_ milyar kez daha müthiş .
+jm : şimdi , 500 milyar kelime eden çok farklı başka resimler de var .
+mesela bu gördüğünüz .
+eğer sadece grip virüsünü alırsanız , dünyada insanların ölümüne neden olan bir grip salgını olduğu zamanlarda pik yaptığını görürsünüz .
+ela : eğer hala deniz seviyesinin yükseldiğine ve atmosferik co 2 ve yerkürenin ısısının arttığına ikna _UNK_ buna bakabilirsiniz .
+jm : ya da bu diğer n - _UNK_ bakarsanız , _UNK_ tanrıinın ölmediğini söyleyebilirsiniz , ama siz de kabul edeceksiniz ki daha iyi bir halkla ilişkiler uzmanına ihtiyacı var .
+ela : bu tip birşeyi kullanarak epey soyut kavramlara _UNK_ .
+mesela izin verin size 1950 yılının hikayesini anlatayım .
+tarih boyunca 1950 yılı kimsenin pek de umrunda olmadı .
+_UNK_ , _UNK_ veya _UNK_ kimsenin umrunda değildi .
+_UNK_ ve 40'larda da öyle . kimse takmadı .
+birden , 40'lı yılların ortasında , bir _UNK_ ortaya çıkmaya başladı .
+i̇nsanlar 1950'nin yaklaştığını fark ettiler , ve bu büyük bir olaydı .
+ama 1950'lerde hiçbir şey insanları 1950 yılı kadar çok _UNK_ .
+i̇nsanlar kafayı _UNK_ , 1950'de yaptıkları
+_UNK_ anlatmaktan başka hiçbir şey yapmadan ortalıkta _UNK_ , 1950'de yapmayı _UNK_ şeyler , 1950'de kavuşmayı umdukları bütün hayalleri .
+aslında , 1950 öylesine inanılmazdı ki , geçtikten yıllarca sonra bile , bu müthiş yıl ve onda olup bitenlerden bahsettiler . _UNK_ , 52 , 53 yıllarında .
+sonunda 1954 yılında biri uyandı ve nihayet insanlar 1950'nin geçip gitmiş olduğunu fark ettiler .
+birdenbire , patlayan bir balon gibi .
+ve 1950 yılının hikayesi aslında yaşadığımız her yılın hikayesi . ufak tefek farklılıklar , çünkü artık bu güzel grafiklere sahibiz .
+bunlara sahip olduğumuz için bazı şeyleri _UNK_ .
+böylece şunu _UNK_ , " balonun patlaması ne kadar sürer ? "
+ve görünen o ki artık bunu oldukça hassas şekilde ölçebiliyoruz .
+formüller yazıyor , grafikler çiziyoruz , ve net sonuç şu ki her geçen yıl bu baloncuklar daha kolay sönüyor . her geçen yıl geçmişe olan ilgimizi
+daha büyük bir hızla kaybediyoruz .
+jm : siz ufak bir kariyer önerisi .
+eğer aranızda ünlü olmayı _UNK_ varsa , bu 25 ünlü politik figürden , _UNK_ ve aktörden birşeyler öğrenebilirsiniz .
+eğer genç yaşta ünlü olmak isterseniz , aktör olmalısınız , çünkü onlar 20'li yaşların sonunda ünlü olmaya başlıyorlar -- hala genç bir yaş , süper .
+eğer biraz daha bekleyecek olursanız , o zaman yazar olmalısınız , çünkü o zaman çok ama çok ünlü olabilirsiniz . mark twain gibi mesela : çok çok ünlü .
+ama en tepeye ulaşmak istiyorsanız , o zaman ünlü olmak için daha _UNK_ ve elbette ki _UNK_ olmalısınız .
+böylece 50 yaş civarında ünlü olabilir , ve hayatınızın sonrasını çok ama çok ünlü geçirebilirsiniz .
+_UNK_ çok daha geç yaşlarda ünlü oluyorlar .
+mesela biyologlar ve fizikçiler neredeyse aktörler kadar ünlü olabilirler .
+ama yapacağınız en büyük hata matematikçi olmak olacaktır .
+eğer bunu yaparsanız , şöyle düşünebilirsiniz , " şahane , 20'li yaşlarda en önemli çalışmalarımı yapacağım . "
+ama bilin bakalım ne olacak : kimse sizi _UNK_ .
+ela : n - _UNK_ elde edebileceğiniz daha fena veriler de var .
+mesela , marc chagall'ın trajedisini ele alalım . 1887 yılında doğmuş bir sanatçı .
+bu gördüğünüz ünlü bir insanın normal grafiğini gösteriyor .
+her geçen gün daha ünlü oluyor , ama eğer almanca kayıtlara bakarsanız ,
+almanca kayıtlarda çok acaip birşey göreceksiniz , daha önce pek görmediğiniz birşey . çok çok ünlü olurken , birden bire adeta yok oluyor . _UNK_ yılları arasında birden bire düşüyor , daha sonra da tekrar yükseliyor .
+ve burada _UNK_ şeyin açıklaması da marc chagall'ın nazi _UNK_ yahudi bir sanatçı _UNK_ kaynaklanıyor .
+bu işaretler öylesine güçlü ki birinin sansürlendiğini önceden bilmenize gerek yok .
+bunu basit veri işleme yolu ile kendiniz bulabilirsiniz .
+i̇şte bunu yapmanın basit bir yolu .
+bir kimsenin herhangi bir zamandaki ün miktarı , kabaca ünlü olmadan önceki ve ünlü olduktan sonraki ün _UNK_ ortalaması olmalıdır .
+görmeyi beklediğimiz şey budur .
+ve bu veriyi gözlemlediğimiz ünle karşılaştırırız .
+sonra bunları birbirine bölerek baskılama indeksi dediğimiz bir rakam buluruz .
+eğer baskılama indeksi çok çok küçük bir _UNK_ , baskılanmış olma ihtimaliniz çok yüksektir .
+eğer çok büyükse o zaman da _UNK_ _UNK_ olma ihtimaliniz vardır .
+jm : şimdi , eğer toplumların genel _UNK_ _UNK_ dağılımına bakacak olursanız ,
+mesela burada -- 5000 kişinin baskılama _UNK_ var , bilinen bir baskılama olmayan i̇ngilizce kitaplar bunlar -- buna benzer birşey olacaktır , ortada yoğunlaşıyor .
+kısaca görmeyi beklediğiniz şey ile gördüşünüz aynıdır .
+almanya'da gördüğümüz dağılım ise bu -- çok farklı , sola doğru _UNK_ durumda .
+i̇nsanlar bunlar hakkında konuşmuş olmaları gerekenin yarısı kadar _UNK_ ,
+daha da önemlisi , dağılım çok daha geniş .
+dağılımın en solunda yer alan pek çok insan var , bunlar haklarında beklenenden 10 kat daha az _UNK_ olan insanlar .
+ama en sağda da başkaları var . bunlar da _UNK_ _UNK_ kimseler .
+bu şekil , kitaplardaki sansürün fotoğrafı .
+ela : biz bu yönteme kültüromik adını verdik .
+biraz genomik gibi .
+ancak genomik insan genomundaki baz dizilimi aracılığı ile biyoloji bilimine bir pencere açıyor .
+kültüromik de buna benziyor .
+i̇nsan _UNK_ incelemek için yapılan çok yoğun bir veri toplama analizi uygulaması .
+burada , genomdaki pencere yerine dijital hale getirilmiş tarihsel verilerin penceresinden bakıyoruz .
+kültüromik ile ilgili müthiş olan şey bunu herkesin yapabiliyor olması .
+nasıl herkes yapabilir ?
+herkes yapabilir , çünkü ü ç kişi google'da çalışan jon orwant , matt gray ve _UNK_ _UNK_ , ngram _UNK_ baktılar ve dediler ki , " bu çok eğlenceli birşey .
+bunu herkesin ulaşabileceği hale getirmemiz lazım . "
+ve iki hafta içinde -- bizim makalemiz yayınlanmadan iki hafta önce -- herkesin kullanımına açık bir ngram versiyonu _UNK_ .
+ve artık siz de ilginizi çeken bir kelime ya da deyim yazarak ona ait n - _UNK_ hemen görebilirsiniz -- ve sizin n - _UNK_ yer aldığı kitapları _UNK_ .
+jm : bu uygulama , hayata geçtiği ilk gün ir milyonda defadan fazla kullanıldı , ve bu bence en güzel sorgulardan biri .
+i̇nsanlar iyi bir şey yapmak istediklerinde " ellerinden geleni yaptılar "
+ama görünen o ki , 18. yüzyılda bunu pek _UNK_ .
+o zaman " ellerinden geleni " değil , " evlerinden geleni " yapmak istediler .
+aslında olan şu , be elbette bir hata .
+gayret etmeyi _UNK_ , sadece o dönemde l harfi daha farklı _UNK_ , _UNK_ _UNK_ biraz .
+elbette , google bunu o zaman _UNK_ , bu nedenle bunu yazdığımız makaleye ekledik .
+ama görünen o ki , bu her ne kadar eğlenceli birşey olsa da , bize şunu anımsattı bu grafikleri _UNK_ çok dikkatli olmanız gerekiyor . ve mutlaka bilimsel _UNK_ temel standartları _UNK_ .
+ela : i̇nsanlar bunu her türlü eğlenceli şey için kullanıyorlar .
+aslında bundan sonra konuşmamız gereksiz , size sadece bazı slaytları üzerinde konuşmaksızın göstereceğiz .
+bu kişi , düşkırıklığının , sıkıntının tarihçesi ile _UNK_ .
+düşkırıklığının birkaç çeşidi vardır .
+eğer ayak parmağınızı bir yere çarpacak olursanız bu tek a harfli bir " ah " demek .
+eğer gezegenimiz dünya gezegenler arası otoyol yapmak isteyen _UNK_ tarafından işgal edilecek olursa , bu sekiz a değerinde bir " _UNK_ " eder .
+bu kişi bütün " _UNK_ incelemiş . tek _UNK_ sekiz _UNK_ dek .
+ve görmüş ki , daha can sıkıcı şeylere ait " ah " lar daha az sıklıkla ortaya çıkıyor , ama 80'li yılların başları hariç .
+biz bu durumun reagan ile ilgili olduğunu düşünüyoruz .
+( gülüşmeler ( jm : bu verilerin pek çok kullanım alanı var ama nihayetinde , bunlar tarihsel kayıtların dijital veriler _UNK_ çevrilmesi .
+google , 15 milyon kitabı dijital hale getirdi .
+bu , bugüne dek basılmış kitapların % 12'si demek .
+_UNK_ ait kültür birikimin kayda değer bir kısmı .
+kültüre ait daha pek çok veri var : _UNK_ , gazeteler , yazılı olmayan şeyler , sanat ve tablolar gibi .
+bunların hepsi dünyanın dört bir yanındaki _UNK_ geçebilir .
+ve bu olduğunda , insanlığın geçmişi , bu günü ve tüm yarattığı kültüre bakış açımız tamamen değişecek .
+çok teşekkürler .

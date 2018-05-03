@@ -1,0 +1,42 @@
+ siz 	 i 	 	rezero	ile	 tanıştıra 	 yım 	 	.
+bu	küçük	 dost 	 umuz 	 	,	_UNK_	-	_UNK_	otonom	 sistem 	 ler 	 	laboratuvarı'nda	10	üniversite	_UNK_	 oluşa 	 n 	 	bir	grup	 tarafı 	 ndan 	 	 geliştir 	 ildi 	 	.
+ robot 	 umuz 	 	_UNK_	 a 	 dı 	 	 verile 	 n 	 	bir	robot	 aile 	 sine 	 	mensup	.
+ tekerlek 	 ler 	 	yerine	,	bir	 ball 	 bot 	 	 robot 	 u 	 	tek	bir	top	üzerinde	 denge 	 de 	 	duruyor	ve	hareket	ediyor	.
+böyle	bir	 sistemi 	 n 	 	temel	özelliği	,	yere	yalnız	bir	zemin	 nokta 	 sı 	 	 olma 	 sı 	 	.
+bu	da	 robot 	 un 	 	doğuştan	dengesiz	olduğu	 anlamı 	 na 	 	geliyor	.
+ örneği 	 n 	 	benim	tek	ayak	üstünde	 dur 	 maya 	 	 çalışma 	 m 	 	gibi	.
+ kendi 	 nize 	 	şunu	 sora 	 bilirsiniz 	 	,	dengesiz	bir	robot	ne	işe	yarar	?
+bunu	 biraz 	 dan 	 	 açıklaya 	 cağız 	 	.
+ öncelik 	 le 	 	rezero'nun	 sahi 	 den 	 	nasıl	 denge 	 sini 	 	 koru 	 duğunu 	 	 açıklaya 	 yım 	 	.
+rezero	eğim	 açı 	 sını 	 	bir	sensör	ile	sürekli	 ölçe 	 rek 	 	 denge 	 sini 	 	 koru 	 yor 	 	.
+sonra	etkisiz	hale	geliyor	ve	 motor 	 unu 	 	uygun	olarak	 aktiv 	 e 	 	ederek	 düşme 	 sini 	 	önlüyor	.
+bu	 saniye 	 de 	 	160	kez	 gerçek 	 leşiyor 	 	,	ve	eğer	bu	 süreç 	 te 	 	 her 	 hangi 	 	birşey	 başarısız 	 lığa 	 	uğrarsa	,	rezero	 an 	 ında 	 	yere	düşer	.
+hareket	 etme 	 si 	 	ve	 denge 	 de 	 	 dur 	 ması 	 	için	,	rezero'nun	 top 	 u 	 	_UNK_	gerekli	.
+top	rezero'nun	 her 	 hangi 	 	bir	 yön 	 e 	 	doğru	ve	aynı	 zaman 	 da 	 	kendi	ekseni	 etrafın 	 da 	 	hareket	 etme 	 sini 	 	 sağlaya 	 n 	 	ü	ç	özel	tekerlek	 tarafı 	 ndan 	 	 sürü 	 lüyor 	 	.
+ dengesiz 	 liği 	 	 yüzü 	 nden 	 	,	rezero	sürekli	hareket	halinde	.	i̇şte	işin	sırrı	burada	.
+ gerçek 	 ten 	 	bir	 robot 	 un 	 	çok	dinamik	bir	şekilde	hareket	 etme 	 sini 	 	tam	da	bu	 dengesiz 	 lik 	 	sağlıyor	.
+hadi	biraz	 oyna 	 yalım 	 	.
+ robot 	 u 	 	biraz	_UNK_	ne	olduğunu	merak	etmiş	 ola 	 bilirsiniz 	 	.
+bu	 modu 	 nda 	 	,	 konum 	 unu 	 	 koruma 	 ya 	 	çalışıyor	.
+bir	sonraki	demo	için	,	 meslektaş 	 larım 	 	bilgisayar	 başı 	 ndaki 	 	michael	ve	 sahne 	 de 	 	bana	yardım	eden	_UNK_	takdim	etmek	istiyorum	.
+bir	sonraki	 modu 	 nda 	 	,	rezero	pasif	,	ve	onu	hareket	 ettire 	 biliriz 	 	.
+ nerede 	 yse 	 	hiç	kuvvet	 kullanma 	 dan 	 	,	 konum 	 unu 	 	ve	_UNK_	kontrol	 edebiliyor 	 um 	 	.
+onu	ayrıca	 döndüre 	 bilirim 	 	.
+bir	sonraki	 modu 	 nda 	 	,	rezero'nun	bir	insanı	 taki 	 p 	 	 ettire 	 biliyoruz 	 	.
+şu	an	thomas	ile	arasında	sabit	bir	mesafe	tutuyor	.
+bu	rezero'nun	başında	takılı	bir	lazer	sensör	ile	çalışıyor	.
+aynı	yöntem	ile	,	bir	 insan 	 ın 	 	 etrafın 	 da 	 	 dolaşma 	 sını 	 	da	 sağlaya 	 biliyoruz 	 	.
+biz	buna	_UNK_	modu	 di 	 yoruz 	 	.
+ pek 	 i 	 	,	 teşekkür 	 ler 	 	,	thomas	.
+ pek 	 i 	 	,	bu	 teknoloji 	 nin 	 	 fayda 	 sı 	 	 ne 	 dir 	 	?
+ şimdi 	 lik 	 	,	bu	bir	deney	,	ama	izin	 veri 	 n 	 	 siz 	 e 	 	bazı	olası	gelecek	 uygulama 	 larını 	 	 göstere 	 yim 	 	.
+rezero	 sergi 	 lerde 	 	ya	da	 park 	 larda 	 	 kullanıla 	 bilir 	 	.
+bir	ekran	ile	 insan 	 ları 	 	 bilgi 	 lendire 	 bilir 	 	ya	da	onlara	eğlenceli	bir	şekilde	 etraf 	 ı 	 	 göstere 	 bilir 	 	.
+bir	 hastane 	 de 	 	,	bu	cihaz	 tı 	 bbi 	 	malzeme	 taşıma 	 k 	 	için	 kullanıla 	 bilir 	 	.
+ ball 	 bot 	 	 sistemi 	 nden 	 	dolayı	,	çok	küçük	bir	 ayakizi 	 ne 	 	sahip	ve	hareket	 ettirme 	 si 	 	de	kolay	.
+ve	 elbet 	 te 	 	,	kim	 bunlar 	 dan 	 	birini	 sürme 	 k 	 	istemez	ki	.
+bunlar	daha	çok	pratik	 uygulama 	 lar 	 	.
+ama	bu	teknoloji	içerisinde	 kuşku 	 suz 	 	bir	güzellik	 barındı 	 rıyor 	 	.
+ teşekkür 	 ler 	 	.
+ teşekkür 	 ler 	 	.
+

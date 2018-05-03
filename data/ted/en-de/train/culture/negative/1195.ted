@@ -1,0 +1,38 @@
+it_en is_en a_en dream_en of_en mankind_en to_en fly_en like_en a_en bird_en ._en
+birds_en are_en very_en agile_en ._en
+they_en fly_en ,_en not_en with_en rotating_en components_en ,_en so_en they_en fly_en only_en by_en flapping_en their_en wings_en ._en
+so_en we_en looked_en at_en the_en birds_en ,_en and_en we_en tried_en to_en make_en a_en model_en that_en is_en powerful_en ,_en ultralight_en ,_en and_en it_en must_en have_en excellent_en aerodynamic_en qualities_en that_en would_en fly_en by_en its_en own_en and_en only_en by_en flapping_en its_en wings_en ._en
+so_en what_en would_en be_en better_en [_en than_en ]_en to_en use_en the_en herring_en gull_en ,_en in_en its_en freedom_en ,_en circling_en and_en swooping_en over_en the_en sea_en ,_en and_en [_en to_en ]_en use_en this_en as_en a_en role_en model_en ?_en
+so_en we_en bring_en a_en team_en together_en ._en
+there_en are_en generalists_en and_en also_en specialists_en in_en the_en field_en of_en aerodynamics_en in_en the_en field_en of_en building_en gliders_en ._en
+and_en the_en task_en was_en to_en build_en an_en ultralight_en indoor_en -_en flying_en model_en that_en is_en able_en to_en fly_en over_en your_en heads_en ._en
+so_en be_en careful_en later_en on_en ._en
+and_en this_en was_en one_en issue_en :_en to_en build_en it_en that_en lightweight_en that_en no_en one_en would_en be_en hurt_en if_en it_en fell_en down_en ._en
+so_en why_en do_en we_en do_en all_en this_en ?_en
+we_en are_en a_en company_en in_en the_en field_en of_en automation_en ,_en and_en we_en 'd_en like_en to_en do_en very_en lightweight_en structures_en because_en that_en 's_en energy_en efficient_en ,_en and_en we_en 'd_en like_en to_en learn_en more_en about_en pneumatics_en and_en air_en flow_en phenomena_en ._en
+so_en i_en now_en would_en like_en you_en to_en [_en put_en ]_en your_en seat_en belts_en on_en and_en put_en your_en hats_en [_en on_en ]_en ._en
+so_en maybe_en we_en 'll_en try_en it_en once_en --_en to_en fly_en a_en smartbird_en ._en
+thank_en you_en ._en
+so_en we_en can_en now_en look_en at_en the_en smartbird_en ._en
+so_en here_en is_en one_en without_en a_en skin_en ._en
+we_en have_en a_en wingspan_en of_en about_en two_en meters_en ._en
+the_en length_en is_en one_en meter_en and_en six_en ,_en and_en the_en weight_en ,_en it_en is_en only_en 450_en grams_en ._en
+and_en it_en is_en all_en out_en of_en carbon_en fiber_en ._en
+in_en the_en middle_en we_en have_en a_en motor_en ,_en and_en we_en also_en have_en a_en gear_en in_en it_en ,_en and_en we_en use_en the_en gear_en to_en transfer_en the_en circulation_en of_en the_en motor_en ._en
+so_en within_en the_en motor_en ,_en we_en have_en three_en hall_en sensors_en ,_en so_en we_en know_en exactly_en where_en the_en wing_en is_en ._en
+and_en if_en we_en now_en beat_en up_en and_en down_en ..._en
+we_en have_en the_en possibility_en to_en fly_en like_en a_en bird_en ._en
+so_en if_en you_en go_en down_en ,_en you_en have_en the_en large_en area_en of_en propulsion_en ,_en and_en if_en you_en go_en up_en ,_en the_en wings_en are_en not_en that_en large_en ,_en and_en it_en is_en easier_en to_en get_en up_en ._en
+so_en ,_en the_en next_en thing_en we_en did_en ,_en or_en the_en challenges_en we_en did_en ,_en was_en to_en coordinate_en this_en movement_en ._en
+we_en have_en to_en turn_en it_en ,_en go_en up_en and_en go_en down_en ._en
+we_en have_en a_en split_en wing_en ._en
+with_en a_en split_en wing_en we_en get_en the_en lift_en at_en the_en upper_en wing_en ,_en and_en we_en get_en the_en propulsion_en at_en the_en lower_en wing_en ._en
+also_en ,_en we_en see_en how_en we_en measure_en the_en aerodynamic_en efficiency_en ._en
+we_en had_en knowledge_en about_en the_en electromechanical_en efficiency_en and_en then_en we_en can_en calculate_en the_en aerodynamic_en efficiency_en ._en
+so_en therefore_en ,_en it_en rises_en up_en from_en passive_en torsion_en to_en active_en torsion_en ,_en from_en 30_en percent_en up_en to_en 80_en percent_en ._en
+next_en thing_en we_en have_en to_en do_en ,_en we_en have_en to_en control_en and_en regulate_en the_en whole_en structure_en ._en
+only_en if_en you_en control_en and_en regulate_en it_en ,_en you_en will_en get_en that_en aerodynamic_en efficiency_en ._en
+so_en the_en overall_en consumption_en of_en energy_en is_en about_en 25_en watts_en at_en takeoff_en and_en 16_en to_en 18_en watts_en in_en flight_en ._en
+thank_en you_en ._en
+bruno_en giussani_en :_en markus_en ,_en i_en think_en that_en we_en should_en fly_en it_en once_en more_en ._en
+markus_en fischer_en :_en yeah_en ,_en sure_en ._en

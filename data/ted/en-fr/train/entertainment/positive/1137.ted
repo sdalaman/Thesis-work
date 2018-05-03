@@ -1,0 +1,150 @@
+good_en afternoon_en ,_en everybody_en ._en
+i_en 've_en got_en something_en to_en show_en you_en ._en
+think_en about_en this_en as_en a_en pixel_en ,_en a_en flying_en pixel_en ._en
+this_en is_en what_en we_en call_en ,_en in_en our_en lab_en ,_en sensible_en design_en ._en
+let_en me_en tell_en you_en a_en bit_en about_en it_en ._en
+now_en if_en you_en take_en this_en picture_en --_en i_en 'm_en italian_en originally_en ,_en and_en every_en boy_en in_en italy_en grows_en up_en with_en this_en picture_en on_en the_en wall_en of_en his_en bedroom_en --_en
+but_en the_en reason_en i_en 'm_en showing_en you_en this_en is_en that_en something_en very_en interesting_en happened_en in_en formula_en 1_en racing_en over_en the_en past_en couple_en of_en decades_en ._en
+now_en some_en time_en ago_en ,_en if_en you_en wanted_en to_en win_en a_en formula_en 1_en race_en ,_en you_en take_en a_en budget_en ,_en and_en you_en bet_en your_en budget_en on_en a_en good_en driver_en and_en a_en good_en car_en ._en
+and_en if_en the_en car_en and_en the_en driver_en were_en good_en enough_en ,_en then_en you_en 'd_en win_en the_en race_en ._en
+now_en today_en ,_en if_en you_en want_en to_en win_en the_en race_en ,_en actually_en you_en need_en also_en something_en like_en this_en --_en something_en that_en monitors_en the_en car_en in_en real_en time_en ,_en has_en a_en few_en thousand_en sensors_en collecting_en information_en from_en the_en car_en ,_en transmitting_en this_en information_en into_en the_en system_en ,_en and_en then_en processing_en it_en and_en using_en it_en in_en order_en to_en go_en back_en to_en the_en car_en with_en decisions_en and_en changing_en things_en in_en real_en time_en as_en information_en is_en collected_en ._en
+this_en is_en what_en ,_en in_en engineering_en terms_en ,_en you_en would_en call_en a_en real_en time_en control_en system_en ._en
+and_en basically_en ,_en it_en 's_en a_en system_en made_en of_en two_en components_en --_en a_en sensing_en and_en an_en actuating_en component_en ._en
+what_en is_en interesting_en today_en is_en that_en real_en time_en control_en systems_en are_en starting_en to_en enter_en into_en our_en lives_en ._en
+our_en cities_en ,_en over_en the_en past_en few_en years_en ,_en just_en have_en been_en _UNK__en with_en networks_en ,_en electronics_en ._en
+they_en 're_en becoming_en like_en computers_en in_en open_en air_en ._en
+and_en ,_en as_en computers_en in_en open_en air_en ,_en they_en 're_en starting_en to_en respond_en in_en a_en different_en way_en to_en be_en able_en to_en be_en sensed_en and_en to_en be_en actuated_en ._en
+if_en we_en fix_en cities_en ,_en actually_en it_en 's_en a_en big_en deal_en ._en
+just_en as_en an_en aside_en ,_en i_en wanted_en to_en mention_en ,_en cities_en are_en only_en two_en percent_en of_en the_en earth_en 's_en crust_en ,_en but_en they_en are_en 50_en percent_en of_en the_en world_en 's_en population_en ._en
+they_en are_en 75_en percent_en of_en the_en energy_en consumption_en --_en up_en to_en 80_en percent_en of_en co_en 2_en emissions_en ._en
+so_en if_en we_en 're_en able_en to_en do_en something_en with_en cities_en ,_en that_en 's_en a_en big_en deal_en ._en
+beyond_en cities_en ,_en all_en of_en this_en sensing_en and_en actuating_en is_en entering_en our_en everyday_en objects_en ._en
+that_en 's_en from_en an_en exhibition_en that_en paola_en antonelli_en is_en organizing_en at_en moma_en later_en this_en year_en ,_en during_en the_en summer_en ._en
+it_en 's_en called_en "_en talk_en to_en me_en ._en "_en
+well_en our_en objects_en ,_en our_en environment_en is_en starting_en to_en talk_en back_en to_en us_en ._en
+in_en a_en certain_en sense_en ,_en it_en 's_en almost_en as_en if_en every_en atom_en out_en there_en were_en becoming_en both_en a_en sensor_en and_en an_en actuator_en ._en
+and_en that_en is_en radically_en changing_en the_en interaction_en we_en have_en as_en humans_en with_en the_en environment_en out_en there_en ._en
+in_en a_en certain_en sense_en ,_en it_en 's_en almost_en as_en if_en the_en old_en dream_en of_en michelangelo_en ..._en
+you_en know_en ,_en when_en michelangelo_en sculpted_en the_en moses_en ,_en at_en the_en end_en it_en said_en that_en he_en took_en the_en hammer_en ,_en threw_en it_en at_en the_en moses_en --_en actually_en you_en can_en still_en see_en a_en small_en chip_en underneath_en --_en and_en said_en ,_en shouted_en ,_en "_en _UNK__en non_en _UNK__en ?_en why_en do_en n't_en you_en talk_en ?_en "_en
+well_en today_en ,_en for_en the_en first_en time_en ,_en our_en environment_en is_en starting_en to_en talk_en back_en to_en us_en ._en
+and_en i_en 'll_en show_en just_en a_en few_en examples_en --_en again_en ,_en with_en this_en idea_en of_en sensing_en our_en environment_en and_en actuating_en it_en ._en
+let_en 's_en starting_en with_en sensing_en ._en
+well_en ,_en the_en first_en project_en i_en wanted_en to_en share_en with_en you_en is_en actually_en one_en of_en the_en first_en projects_en by_en our_en lab._en
+it_en was_en four_en and_en a_en half_en years_en ago_en in_en italy_en ._en
+and_en what_en we_en did_en there_en was_en actually_en use_en a_en new_en type_en of_en network_en at_en the_en time_en that_en had_en been_en deployed_en all_en across_en the_en world_en --_en that_en 's_en a_en cellphone_en network_en --_en and_en use_en anonymous_en and_en aggregated_en information_en from_en that_en network_en ,_en that_en 's_en collected_en anyway_en by_en the_en operator_en ,_en in_en order_en to_en understand_en how_en the_en city_en works_en ._en
+the_en summer_en was_en a_en lucky_en summer_en --_en 2006_en ._en
+it_en 's_en when_en italy_en won_en the_en soccer_en world_en cup_en ._en
+some_en of_en you_en might_en remember_en ,_en it_en was_en italy_en and_en france_en playing_en ,_en and_en then_en zidane_en at_en the_en end_en ,_en the_en headbutt_en ._en
+and_en anyway_en ,_en italy_en won_en at_en the_en end_en ._en
+now_en look_en at_en what_en happened_en that_en day_en just_en by_en monitoring_en activity_en happening_en on_en the_en network_en ._en
+here_en you_en see_en the_en city_en ._en
+you_en see_en the_en colosseum_en in_en the_en middle_en ,_en the_en river_en _UNK__en ._en
+it_en 's_en morning_en ,_en before_en the_en match_en ._en
+you_en see_en the_en timeline_en on_en the_en top_en ._en
+early_en afternoon_en ,_en people_en here_en and_en there_en ,_en making_en calls_en and_en moving_en ._en
+the_en match_en begins_en --_en silence_en ._en
+france_en scores_en ._en italy_en scores_en ._en
+halftime_en ,_en people_en make_en a_en quick_en call_en and_en go_en to_en the_en bathroom_en ._en
+second_en half_en ._en end_en of_en normal_en time_en ._en
+first_en overtime_en ,_en second_en ._en
+zidane_en ,_en the_en headbutt_en in_en a_en moment_en ._en
+italy_en wins_en ._en yeah_en ._en
+well_en ,_en that_en night_en ,_en everybody_en went_en to_en celebrate_en in_en the_en center_en ._en
+you_en saw_en the_en big_en peak_en ._en
+the_en following_en day_en ,_en again_en everybody_en went_en to_en the_en center_en to_en meet_en the_en winning_en team_en and_en the_en prime_en minister_en at_en the_en time_en ._en
+and_en then_en everybody_en moved_en down_en ._en
+you_en see_en the_en image_en of_en the_en place_en called_en _UNK__en massimo_en ,_en where_en ,_en since_en roman_en times_en ,_en people_en go_en to_en celebrate_en ,_en to_en have_en a_en big_en party_en ,_en and_en you_en see_en the_en peak_en at_en the_en end_en of_en the_en day_en ._en
+well_en ,_en that_en 's_en just_en one_en example_en of_en how_en we_en can_en sense_en the_en city_en today_en in_en a_en way_en that_en we_en could_en n't_en have_en done_en just_en a_en few_en years_en ago_en ._en
+another_en quick_en example_en about_en sensing_en :_en it_en 's_en not_en about_en people_en ,_en but_en about_en things_en we_en use_en and_en consume_en ._en
+well_en today_en ,_en we_en know_en everything_en about_en where_en our_en objects_en come_en from_en ._en
+this_en is_en a_en map_en that_en shows_en you_en all_en the_en chips_en that_en form_en a_en mac_en computer_en ,_en how_en they_en came_en together_en ._en
+but_en we_en know_en very_en little_en about_en where_en things_en go_en ._en
+so_en in_en this_en project_en ,_en we_en actually_en developed_en some_en small_en tags_en to_en track_en trash_en as_en it_en moves_en through_en the_en system_en ._en
+so_en we_en actually_en started_en with_en a_en number_en of_en volunteers_en who_en helped_en us_en in_en seattle_en ,_en just_en over_en a_en year_en ago_en ,_en to_en tag_en what_en they_en were_en throwing_en away_en --_en different_en types_en of_en things_en ,_en as_en you_en can_en see_en here_en --_en things_en they_en would_en throw_en away_en anyway_en ._en
+then_en we_en put_en a_en little_en chip_en ,_en little_en tag_en ,_en onto_en the_en trash_en and_en then_en started_en following_en it_en ._en
+here_en are_en the_en results_en we_en just_en obtained_en ._en
+from_en seattle_en ..._en
+after_en one_en week_en ._en
+with_en this_en information_en we_en realized_en there_en 's_en a_en lot_en of_en inefficiencies_en in_en the_en system_en ._en
+we_en can_en actually_en do_en the_en same_en thing_en with_en much_en less_en energy_en ._en
+this_en data_en was_en not_en available_en before_en ._en
+but_en there_en 's_en a_en lot_en of_en wasted_en transportation_en and_en convoluted_en things_en happening_en ._en
+but_en the_en other_en thing_en is_en that_en we_en believe_en that_en if_en we_en see_en every_en day_en that_en the_en cup_en we_en 're_en throwing_en away_en ,_en it_en does_en n't_en disappear_en ,_en it_en 's_en still_en somewhere_en on_en the_en planet_en ._en
+and_en the_en plastic_en bottle_en we_en 're_en throwing_en away_en every_en day_en still_en stays_en there_en ._en
+and_en if_en we_en show_en that_en to_en people_en ,_en then_en we_en can_en also_en promote_en some_en behavioral_en change_en ._en
+so_en that_en was_en the_en reason_en for_en the_en project_en ._en
+my_en colleague_en at_en mit_en ,_en _UNK__en _UNK__en ,_en he_en could_en tell_en you_en much_en more_en about_en sensing_en and_en many_en other_en wonderful_en things_en we_en can_en do_en with_en sensing_en ,_en but_en i_en wanted_en to_en go_en to_en the_en second_en part_en we_en discussed_en at_en the_en beginning_en ,_en and_en that_en 's_en actuating_en our_en environment_en ._en
+and_en the_en first_en project_en is_en something_en we_en did_en a_en couple_en of_en years_en ago_en in_en zaragoza_en ,_en spain_en ._en
+it_en started_en with_en a_en question_en by_en the_en mayor_en of_en the_en city_en ,_en who_en came_en to_en us_en saying_en that_en spain_en and_en southern_en europe_en have_en a_en beautiful_en tradition_en of_en using_en water_en in_en public_en space_en ,_en in_en architecture_en ._en
+and_en the_en question_en was_en :_en how_en could_en technology_en ,_en new_en technology_en ,_en be_en added_en to_en that_en ?_en
+and_en one_en of_en the_en ideas_en that_en was_en developed_en at_en mit_en in_en a_en workshop_en was_en ,_en imagine_en this_en pipe_en ,_en and_en you_en 've_en got_en valves_en ,_en _UNK__en valves_en ,_en taps_en ,_en opening_en and_en closing_en ._en
+you_en create_en like_en a_en water_en curtain_en with_en pixels_en made_en of_en water_en ._en
+if_en those_en pixels_en fall_en ,_en you_en can_en write_en on_en it_en ,_en you_en can_en show_en patterns_en ,_en images_en ,_en text_en ._en
+and_en even_en you_en can_en approach_en it_en ,_en and_en it_en will_en open_en up_en to_en let_en you_en jump_en through_en ,_en as_en you_en see_en in_en this_en image_en ._en
+well_en ,_en we_en presented_en this_en to_en mayor_en _UNK__en ._en
+he_en liked_en it_en very_en much_en ._en
+and_en we_en got_en a_en commission_en to_en design_en a_en building_en at_en the_en entrance_en of_en the_en expo_en ._en
+we_en called_en it_en digital_en water_en pavilion_en ._en
+the_en whole_en building_en is_en made_en of_en water_en ._en
+there_en 's_en no_en doors_en or_en windows_en ,_en but_en when_en you_en approach_en it_en ,_en it_en will_en open_en up_en to_en let_en you_en in_en ._en the_en roof_en also_en is_en covered_en with_en water_en ._en
+and_en if_en there_en 's_en a_en bit_en of_en wind_en ,_en if_en you_en want_en to_en minimize_en splashing_en ,_en you_en can_en actually_en lower_en the_en roof_en ._en
+or_en you_en could_en close_en the_en building_en ,_en and_en the_en whole_en architecture_en will_en disappear_en ,_en like_en in_en this_en case_en ._en
+you_en know_en ,_en these_en days_en ,_en you_en always_en get_en images_en during_en the_en winter_en ,_en when_en they_en take_en the_en roof_en down_en ,_en of_en people_en who_en have_en been_en there_en and_en said_en ,_en "_en they_en demolished_en the_en building_en ._en "_en
+no_en ,_en they_en did_en n't_en demolish_en it_en ,_en just_en when_en it_en goes_en down_en ,_en the_en architecture_en almost_en disappears_en ._en
+here_en 's_en the_en building_en working_en ._en
+you_en see_en the_en person_en puzzled_en about_en what_en was_en going_en on_en inside_en ._en
+and_en here_en was_en myself_en trying_en not_en to_en get_en wet_en ,_en testing_en the_en sensors_en that_en open_en the_en water_en ._en
+well_en ,_en i_en should_en tell_en you_en now_en what_en happened_en one_en night_en when_en all_en of_en the_en sensors_en stopped_en working_en ._en
+but_en actually_en that_en night_en ,_en it_en was_en even_en more_en fun_en ._en
+all_en the_en kids_en from_en zaragoza_en came_en to_en the_en building_en ,_en because_en the_en way_en of_en engaging_en with_en the_en building_en became_en something_en different_en ._en
+not_en anymore_en a_en building_en that_en would_en open_en up_en to_en let_en you_en in_en ,_en but_en a_en building_en that_en would_en still_en make_en cuts_en and_en holes_en through_en the_en water_en ,_en and_en you_en had_en to_en jump_en without_en getting_en wet_en ._en
+and_en that_en was_en ,_en for_en us_en ,_en was_en very_en interesting_en ,_en because_en ,_en as_en architects_en ,_en as_en engineers_en ,_en as_en designers_en ,_en we_en always_en think_en about_en how_en people_en will_en use_en the_en things_en we_en design_en ._en
+but_en then_en reality_en 's_en always_en unpredictable_en ._en
+and_en that_en 's_en the_en beauty_en of_en doing_en things_en that_en are_en used_en and_en interact_en with_en people_en ._en
+here_en is_en an_en image_en then_en of_en the_en building_en with_en the_en physical_en pixels_en ,_en the_en pixels_en made_en of_en water_en ,_en and_en then_en projections_en on_en them_en ._en
+and_en this_en is_en what_en led_en us_en to_en think_en about_en the_en following_en project_en i_en 'll_en show_en you_en now_en ._en
+that_en 's_en ,_en imagine_en those_en pixels_en could_en actually_en start_en flying_en ._en
+imagine_en you_en could_en have_en small_en helicopters_en that_en move_en in_en the_en air_en ,_en and_en then_en each_en of_en them_en with_en a_en small_en pixel_en in_en changing_en lights_en --_en almost_en as_en a_en cloud_en that_en can_en move_en in_en space_en ._en
+here_en is_en the_en video_en ._en
+so_en imagine_en one_en helicopter_en ,_en like_en the_en one_en we_en saw_en before_en ,_en moving_en with_en others_en ,_en in_en synchrony_en ._en
+so_en you_en can_en have_en this_en cloud_en ._en
+you_en can_en have_en a_en kind_en of_en flexible_en screen_en or_en display_en ,_en like_en this_en --_en a_en regular_en configuration_en in_en two_en dimensions_en ._en
+or_en in_en regular_en ,_en but_en in_en three_en dimensions_en ,_en where_en the_en thing_en that_en changes_en is_en the_en light_en ,_en not_en the_en pixels_en '_en position_en ._en
+you_en can_en play_en with_en a_en different_en type_en ._en
+imagine_en your_en screen_en could_en just_en appear_en in_en different_en scales_en or_en sizes_en ,_en different_en types_en of_en resolution_en ._en
+but_en then_en the_en whole_en thing_en can_en be_en just_en a_en 3d_en cloud_en of_en pixels_en that_en you_en can_en approach_en and_en move_en through_en it_en and_en see_en from_en many_en ,_en many_en directions_en ._en
+here_en is_en the_en real_en flyfire_en control_en and_en going_en down_en to_en form_en the_en regular_en grid_en as_en before_en ._en
+when_en you_en turn_en on_en the_en light_en ,_en actually_en you_en see_en this_en ._en so_en the_en same_en as_en we_en saw_en before_en ._en
+and_en imagine_en each_en of_en them_en then_en controlled_en by_en people_en ._en
+you_en can_en have_en each_en pixel_en having_en an_en input_en that_en comes_en from_en people_en ,_en from_en people_en 's_en movement_en ,_en or_en so_en and_en so_en ._en
+i_en want_en to_en show_en you_en something_en here_en for_en the_en first_en time_en ._en
+we_en 've_en been_en working_en with_en roberto_en _UNK__en ,_en
+one_en of_en today_en 's_en top_en ballet_en dancers_en --_en the_en _UNK__en at_en metropolitan_en in_en new_en york_en and_en la_en scala_en in_en milan_en --_en and_en actually_en captured_en his_en movement_en in_en 3d_en in_en order_en to_en use_en it_en as_en an_en input_en for_en flyfire_en ._en
+and_en here_en you_en can_en see_en roberto_en dancing_en ._en
+you_en see_en on_en the_en left_en the_en pixels_en ,_en the_en different_en resolutions_en being_en captured_en ._en
+it_en 's_en both_en 3d_en scanning_en in_en real_en time_en and_en motion_en capture_en ._en
+so_en you_en can_en reconstruct_en a_en whole_en movement_en ._en
+you_en can_en go_en all_en the_en way_en through_en ._en
+but_en then_en ,_en once_en we_en have_en the_en pixels_en ,_en then_en you_en can_en play_en with_en them_en and_en play_en with_en color_en and_en movement_en and_en gravity_en and_en rotation_en ._en
+so_en we_en want_en to_en use_en this_en as_en one_en of_en the_en possible_en inputs_en for_en flyfire_en ._en
+i_en wanted_en to_en show_en you_en the_en last_en project_en we_en are_en working_en on_en ._en
+it_en 's_en something_en we_en 're_en working_en on_en for_en the_en london_en olympics_en ._en
+it_en 's_en called_en the_en cloud_en ._en
+and_en the_en idea_en here_en is_en ,_en imagine_en ,_en again_en ,_en we_en can_en involve_en people_en in_en doing_en something_en and_en changing_en our_en environment_en --_en almost_en to_en _UNK__en what_en we_en call_en cloud_en raising_en --_en like_en barn_en raising_en ,_en but_en with_en a_en cloud_en ._en
+imagine_en you_en can_en have_en everybody_en make_en a_en small_en donation_en for_en one_en pixel_en ._en
+and_en i_en think_en what_en is_en remarkable_en that_en has_en happened_en over_en the_en past_en couple_en of_en years_en is_en that_en ,_en over_en the_en past_en couple_en of_en decades_en ,_en we_en went_en from_en the_en physical_en world_en to_en the_en digital_en one_en ._en
+this_en has_en been_en digitizing_en everything_en ,_en knowledge_en ,_en and_en making_en that_en accessible_en through_en the_en internet_en ._en
+now_en today_en ,_en for_en the_en first_en time_en --_en and_en the_en obama_en campaign_en showed_en us_en this_en --_en we_en can_en go_en from_en the_en digital_en world_en ,_en from_en the_en self_en -_en organizing_en power_en of_en networks_en ,_en to_en the_en physical_en one_en ._en
+this_en can_en be_en ,_en in_en our_en case_en ,_en we_en want_en to_en use_en it_en for_en designing_en and_en doing_en a_en symbol_en ._en
+that_en means_en something_en built_en in_en a_en city_en ._en
+but_en tomorrow_en it_en can_en be_en ,_en in_en order_en to_en tackle_en today_en 's_en pressing_en challenges_en --_en think_en about_en climate_en change_en or_en co_en 2_en emissions_en --_en how_en we_en can_en go_en from_en the_en digital_en world_en to_en the_en physical_en one_en ._en
+so_en the_en idea_en that_en we_en can_en actually_en involve_en people_en in_en doing_en this_en thing_en together_en ,_en collectively_en ._en
+the_en cloud_en is_en a_en cloud_en ,_en again_en ,_en made_en of_en pixels_en ,_en in_en the_en same_en way_en as_en the_en real_en cloud_en is_en a_en cloud_en made_en of_en particles_en ._en
+and_en those_en particles_en are_en water_en ,_en where_en our_en cloud_en is_en a_en cloud_en of_en pixels_en ._en
+it_en 's_en a_en physical_en structure_en in_en london_en ,_en but_en covered_en with_en pixels_en ._en
+you_en can_en move_en inside_en ,_en have_en different_en types_en of_en experiences_en ._en
+you_en can_en actually_en see_en from_en underneath_en ,_en sharing_en the_en main_en moments_en for_en the_en olympics_en in_en 2012_en and_en beyond_en ,_en and_en really_en using_en it_en as_en a_en way_en to_en connect_en with_en the_en community_en ._en
+so_en both_en the_en physical_en cloud_en in_en the_en sky_en and_en something_en you_en can_en go_en to_en the_en top_en [_en of_en ]_en ,_en like_en london_en 's_en new_en mountaintop_en ._en
+you_en can_en enter_en inside_en it_en ._en
+and_en a_en kind_en of_en new_en digital_en beacon_en for_en the_en night_en --_en but_en most_en importantly_en ,_en a_en new_en type_en of_en experience_en for_en anybody_en who_en will_en go_en to_en the_en top_en ._en
+thank_en you_en ._en

@@ -1,0 +1,92 @@
+combien d'entre vous vous êtes déjà retrouvés au volant d'une voiture à un moment ou vous n'auriez vraiment pas dû conduire ?
+vous étiez peut - être sur la route toute la journée , et tout ce que vous vouliez , c'était rentrer chez vous .
+vous étiez fatigué , mais vous aviez l'impression que vous pouviez rouler pendant quelques kilomètres de plus .
+vous pensiez peut - être , j'ai moins bu que tous les autres , c'est moi qui devrait rentrer .
+ou peut - être que votre esprit était totalement ailleurs .
+ça vous dit quelque chose ?
+dans ces situations , est - ce que ça ne serait pas génial s'il y avait un bouton sur le tableau de bord sur lequel appuyer pour que la voiture vous ramène à la maison en toute sécurité ?
+c'est la promesse d'une voiture qui se conduit toute seule , le véhicule autonome , et c'est le rêve depuis au moins 1939 , quand general motors a dévoilé cette idée à leur stand _UNK_ lors de l'exposition universelle .
+c'est un de ces rêves qui semble toujours pour dans une vingtaine d'années dans le futur .
+il y a deux semaines , ce rêve a franchi une étape , lorsque l'état du nevada a accordé à la voiture sans chauffeur de google la première licence pour un véhicule autonome , établissant clairement qu'il est légal pour eux de le tester sur les routes du nevada .
+la californie envisage des lois similaires , et cela _UNK_ que la voiture autonome n'est pas une de ces choses qui doit rester à vegas .
+dans mon laboratoire à stanford , nous travaillons aussi sur les voitures autonomes , mais sous un angle légèrement différent vous voyez , nous mettons au point des voitures de course robotiques , des voitures qui peuvent effectivement se pousser elles - mêmes jusqu'aux limites de la performance physique .
+pourquoi vouloir faire une telle chose ?
+eh bien , il y a deux très bonnes raisons à cela .
+tout d'abord , nous croyons qu'avant que les gens _UNK_ le contrôle à une voiture autonome , cette voiture autonome doit être au moins aussi bonne que les meilleurs conducteurs humains .
+si vous êtes comme moi et les autres 70 % de la population qui savons que nous sommes des conducteurs au - dessus de la moyenne , vous comprenez qu'on place la barre très haut .
+il y a aussi une autre raison .
+tout comme les pilotes de voiture de course peuvent utiliser toute la friction entre le pneu et la route , toutes les capacités de la voiture pour aller aussi vite que possible , nous voulons utiliser toutes ces capacités pour éviter tous les accidents que nous le pouvons .
+vous pouvez pousser la voiture à la limite non pas parce que vous conduisez trop vite , mais parce que vous êtes passé sur une plaque de _UNK_ sur la route , les conditions ont changé .
+dans ces situations , nous voulons une voiture capable d'éviter tout accident qui peut être évité physiquement .
+je dois avouer , il y a aussi une troisième motivation .
+vous voyez , j'ai une passion pour la course .
+dans le passé , j'ai été propriétaire de voitures de course , chef d'équipe et coach de conduite , bien que peut - être pas au niveau que vous espérez actuellement .
+une des choses que nous avons mis au point dans le laboratoire , nous avons développé plusieurs véhicules , c'est ce que nous croyons être la première voiture à dérive autonome du monde .
+c'est encore une de ces catégories où peut - être il n'y a pas beaucoup de concurrence .
+mais c'est la p 1. c'est un véhicule électrique entièrement construit par les étudiants , qui , grâce à ses roues arrières motrices et sa direction avant électronique peut se laisser déraper dans les coins .
+il peut partir latéralement comme un pilote de _UNK_ , toujours capable de prendre la courbe la plus serrée , même sur des surfaces glissantes et changeantes , sans jamais perdre le contrôle .
+nous avons également travaillé avec volkswagen oracle , sur shelley , une voiture de course autonome qui a couru à 240 km / h à travers le _UNK_ salt _UNK_ , a fait le tour du _UNK_ _UNK_ park sous le soleil , le vent et la pluie , et navigué à travers les 153 virages et 20 km de la piste de _UNK_ peak hill _UNK_ dans le colorado sans personne au volant .
+je suppose qu'il va sans dire que nous avons eu beaucoup de plaisir à faire ça .
+mais en fait , nous avons mis au point autre chose dans le cadre du développement de ces voitures autonomes .
+nous avons développé une appréciation considérable des capacités des pilotes humains de voiture de course .
+comme nous avons examiné la question des performances de ces voitures , nous avons voulu comparer à nos homologues humains .
+et nous avons découvert que leurs homologues humains sont incroyables .
+nous pouvons prendre une carte d'une piste de course , nous pouvons prendre un modèle mathématique d'une voiture , et par itération , nous pouvons trouver réellement le moyen le plus rapide pour faire le tour de cette piste .
+nous _UNK_ avec les données que nous enregistrons d'un pilote professionnel , et la ressemblance est tout à fait remarquable .
+oui , il y a des différences subtiles mais le pilote humain de voiture de course est capable de conduire en suivant une ligne étonnamment rapide , sans l'aide d'un algorithme qui compare le compromis entre aller aussi vite que possible dans ce coin et gagner quelques secondes sur la ligne droite ici .
+non seulement cela , ils peuvent le faire tour après tour après tour .
+ils sont capables de le faire à chaque fois , en poussant la voiture à la limite chaque fois .
+c'est extraordinaire à voir .
+vous les mettez dans une nouvelle voiture , et après quelques tours , ils ont trouvé la ligne plus rapide dans cette voiture - là , et ils sont bons pour les courses .
+ça vous fait vraiment réfléchir , nous aimerions savoir ce qui se passe à l'intérieur de leur cerveau .
+en tant que chercheurs , c'est ce que nous avons décidé de découvrir .
+nous avons décidé _UNK_ non seulement la voiture , mais aussi le pilote de voiture de course , pour tenter d'obtenir un aperçu de ce qui se passait dans leur tête quand ils faisaient ça .
+voici le dr _UNK_ _UNK_ qui pose des électrodes sur la tête de john morton .
+john morton est un ancien pilote de can - am et de _UNK_ , qui est aussi un champion au _UNK_ .
+un pilote fantastique et très disposé à se mettre au service des étudiants des cycles supérieurs et ce type de recherche .
+elle met des électrodes sur sa tête afin que nous puissions suivre l'activité électrique du cerveau de john alors qu'il court autour de la piste .
+clairement nous n'allons pas mettre deux ou trois électrodes sur sa tête et comprendre _UNK_ tout ce qu'il pense quand il court .
+cependant , les neuroscientifiques ont identifié certains schémas qui nous permettent de deviner certains aspects très importants de ce processus .
+par exemple , le cerveau au repos a tendance à générer beaucoup d'ondes alpha .
+en revanche , les ondes thêta sont associées à de nombreuses activités cognitives , comme le traitement visuel , des choses où le conducteur _UNK_ pas mal ..
+nous pouvons mesurer ça , et nous pouvons observer la puissance relative entre les ondes thêta et les ondes alpha .
+cela nous donne une mesure de la charge de travail mental , l'importance réelle du défi cognitif auquel le pilote est confronté en tout point le long de la piste .
+nous avons voulu voir si nous pouvions l'enregistrer réellement sur la piste , donc nous sommes allés dans le sud à laguna seca .
+laguna seca est une piste de course légendaire à mi - chemin entre salinas et monterey .
+elle a une courbe appelée le tire - bouchon .
+le tire - bouchon est une _UNK_ , suivie d'un virage à droite rapide en même temps que la route descend de trois étages .
+la stratégie de conduite ici telle qu'on me l'a expliquée , c'était de viser le buisson au loin , et alors que la route tombe soudain , vous vous rendez compte que c'est en fait le haut d'un arbre .
+bon , donc grâce au programme _UNK_ à stanford , nous avons pu y emmener john et le mettre au volant d'une porsche _UNK_ _UNK_ 1960 .
+la vie est bien trop courte pour avoir des voitures ennuyeuses .
+donc , ici vous voyez john sur la piste , il monte la colline , oh ! quelqu'un a aimé ça , et vous pouvez le voir , en fait , sa charge de travail mental , mesurée ici dans la barre rouge , vous pouvez voir ses actions quand il s'approche .
+maintenant regardez , il faut rétrograder .
+et puis il faut tourner à gauche .
+rechercher l'arbre et descendre .
+sans surprise , vous pouvez voir que c'est une tâche assez difficile .
+vous pouvez voir son pic de charge de travail mental quand il fait ça , comme on peut s'y attendre pour quelque chose qui nécessite ce niveau de complexité .
+mais ce qui est vraiment intéressant est de regarder les zones de la piste où sa charge de travail mental n'augmente pas .
+je vais vous emmener maintenant de l'autre côté de la piste .
+virage trois . et john va aller dans ce coin et l'arrière de la voiture va commencer à déraper .
+il va devoir corriger ça avec la direction .
+donc regardez john le faire ici .
+regardez la charge de travail mental et regardez la direction .
+la voiture commence à glisser , une manœuvre spectaculaire pour le corriger , et aucun changement que ce soit dans la charge de travail mental .
+pas une tâche difficile .
+en fait , tout à fait réflexive .
+notre traitement des données ici est encore préliminaire , mais il semble vraiment que ces exploits phénoménaux que les pilotes de voiture de course effectuent sont instinctifs .
+ce sont des choses qu'ils ont tout simplement appris à faire .
+ça leur demande très peu de charge de travail mental pour effectuer ces étonnantes prouesses .
+et leurs actions sont fantastiques .
+c'est exactement ce que vous voulez faire au volant pour prendre la voiture dans cette situation .
+ça nous a donné une idée et une inspiration formidables pour nos propres véhicules autonomes .
+nous avons commencé à poser la question : pouvons - nous nous les rendre un peu moins algorithmiques et un peu plus intuitifs ?
+pouvons - nous prendre cette action réflexive que nous voyons chez les meilleurs pilotes de voiture de course , l'introduire dans nos voitures , et peut - être même dans un système qui pourrait se rajouter à l'avenir sur votre voiture ?
+ça nous ferait franchir une étape importante sur la voie des véhicules autonomes qui _UNK_ aussi bien que les meilleurs humains .
+mais ça nous a aussi fait réfléchir un peu plus profondément .
+voulons - nous que notre voiture soit plus qu'un simple chauffeur ?
+voulons - nous que notre voiture soit peut - être être un partenaire , un entraîneur , une personne qui puisse utiliser sa compréhension de la situation pour nous aider à atteindre notre potentiel ?
+en fait , la technologie peut - elle ne pas simplement remplacer les êtres humains , mais nous permettre d'atteindre le niveau de réflexe et d'intuition dont nous sommes tous capables ?
+et comme nous avançons dans ce futur technologique , je veux que vous preniez un moment pour y réfléchir .
+quel est l'équilibre idéal de l'homme et de la machine ?
+et puisque nous y réfléchissons , inspirons - nous des capacités absolument incroyables du corps humain et de l'esprit humain .
+merci .

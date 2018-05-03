@@ -1,0 +1,188 @@
+in_en 1962_en ,_en charles_en van_en doren_en ,_en who_en was_en later_en a_en senior_en editor_en of_en britannica_en ,_en said_en the_en ideal_en encyclopedia_en should_en be_en radical_en --_en it_en should_en stop_en being_en safe_en ._en
+but_en if_en you_en know_en anything_en about_en the_en history_en of_en britannica_en since_en 1962_en ,_en it_en was_en anything_en but_en radical_en :_en still_en a_en very_en completely_en safe_en ,_en stodgy_en type_en of_en encyclopedia_en ._en
+wikipedia_en ,_en on_en the_en other_en hand_en ,_en begins_en with_en a_en very_en radical_en idea_en ,_en and_en that_en 's_en for_en all_en of_en us_en to_en imagine_en a_en world_en in_en which_en every_en single_en person_en on_en the_en planet_en is_en given_en free_en access_en to_en the_en sum_en of_en all_en human_en knowledge_en ._en
+and_en that_en 's_en what_en we_en 're_en doing_en ._en so_en wikipedia_en --_en you_en just_en saw_en the_en little_en demonstration_en of_en it_en --_en it_en 's_en a_en freely_en licensed_en encyclopedia_en ._en it_en 's_en written_en by_en thousands_en of_en volunteers_en all_en over_en the_en world_en in_en many_en ,_en many_en languages_en ._en
+it_en 's_en written_en using_en wiki_en software_en --_en which_en is_en the_en type_en of_en software_en he_en just_en demonstrated_en --_en so_en anyone_en can_en quickly_en edit_en and_en save_en ,_en and_en it_en goes_en live_en on_en the_en internet_en immediately_en ._en
+and_en everything_en about_en wikipedia_en is_en managed_en by_en virtually_en an_en all_en -_en volunteer_en staff_en ._en
+so_en when_en yochai_en is_en talking_en about_en new_en methods_en of_en organization_en ,_en he_en 's_en exactly_en describing_en wikipedia_en ._en and_en what_en i_en 'm_en going_en to_en do_en today_en is_en tell_en you_en a_en little_en bit_en more_en about_en how_en it_en really_en works_en on_en the_en inside_en ._en
+so_en wikipedia_en 's_en owned_en by_en the_en wikimedia_en foundation_en ,_en which_en i_en founded_en ,_en a_en nonprofit_en organization_en ._en and_en our_en goal_en ,_en the_en core_en aim_en of_en the_en wikimedia_en foundation_en ,_en is_en to_en get_en a_en free_en encyclopedia_en to_en every_en single_en person_en on_en the_en planet_en ._en
+and_en so_en if_en you_en think_en about_en what_en that_en means_en ,_en it_en means_en a_en lot_en more_en than_en just_en building_en a_en cool_en website_en ._en
+we_en 're_en really_en interested_en in_en all_en the_en issues_en of_en the_en digital_en divide_en ,_en poverty_en worldwide_en ,_en empowering_en people_en everywhere_en to_en have_en the_en information_en that_en they_en need_en to_en make_en good_en decisions_en ._en
+and_en so_en we_en 're_en going_en to_en have_en to_en do_en a_en lot_en of_en work_en that_en goes_en beyond_en just_en the_en internet_en ._en
+and_en so_en that_en 's_en a_en big_en part_en of_en why_en we_en 've_en chosen_en the_en free_en licensing_en model_en ,_en because_en that_en empowers_en local_en entrepreneurs_en --_en or_en anyone_en who_en wants_en to_en ,_en can_en take_en our_en content_en and_en do_en anything_en they_en like_en with_en it_en --_en you_en can_en copy_en it_en ,_en redistribute_en it_en and_en you_en can_en do_en it_en commercially_en or_en non_en -_en commercially_en ._en
+so_en there_en 's_en a_en lot_en of_en opportunities_en that_en are_en going_en to_en arise_en around_en wikipedia_en all_en over_en the_en world_en ._en
+we_en 're_en funded_en by_en donations_en from_en the_en public_en ,_en and_en one_en of_en the_en more_en interesting_en things_en about_en that_en is_en how_en little_en money_en it_en actually_en takes_en to_en run_en wikipedia_en ._en
+so_en yochai_en showed_en you_en the_en graph_en of_en what_en the_en cost_en of_en a_en printing_en press_en was_en ._en
+and_en i_en 'm_en going_en to_en tell_en you_en what_en the_en cost_en of_en wikipedia_en is_en ,_en but_en first_en i_en 'll_en show_en you_en how_en big_en it_en is_en ._en
+so_en we_en 've_en got_en over_en 600,000_en articles_en in_en english_en ._en
+we_en 've_en got_en two_en million_en total_en articles_en across_en many_en ,_en many_en different_en languages_en ._en
+the_en biggest_en languages_en are_en german_en ,_en japanese_en ,_en french_en --_en all_en the_en western_en european_en languages_en are_en quite_en big_en ._en
+but_en only_en around_en one_en -_en third_en of_en all_en of_en our_en traffic_en to_en our_en web_en clusters_en to_en the_en english_en wikipedia_en ,_en which_en is_en surprising_en to_en a_en lot_en of_en people_en ._en
+a_en lot_en of_en people_en think_en in_en a_en very_en english_en -_en centric_en way_en on_en the_en internet_en ,_en but_en for_en us_en ,_en we_en 're_en truly_en global_en ._en we_en 're_en in_en many_en ,_en many_en languages_en ._en
+how_en popular_en we_en 've_en gotten_en to_en be_en --_en we_en 're_en a_en top_en 50_en website_en and_en we_en 're_en more_en popular_en than_en the_en new_en york_en times_en ._en
+so_en this_en is_en where_en we_en get_en to_en yochai_en 's_en discussion_en ._en
+this_en shows_en the_en growth_en of_en wikipedia_en --_en we_en 're_en the_en blue_en line_en there_en --_en and_en then_en this_en is_en the_en new_en york_en times_en over_en there_en ._en
+and_en what_en 's_en interesting_en about_en this_en is_en the_en new_en york_en times_en website_en is_en a_en huge_en ,_en enormous_en corporate_en operation_en with_en --_en i_en have_en no_en idea_en how_en many_en hundreds_en of_en employees_en ._en
+we_en have_en exactly_en one_en employee_en ,_en and_en that_en employee_en is_en our_en lead_en software_en developer_en ._en
+and_en he_en 's_en only_en been_en our_en employee_en since_en january_en 2005_en ,_en all_en the_en other_en growth_en before_en that_en ._en
+so_en the_en servers_en are_en managed_en by_en a_en rag_en -_en tag_en band_en of_en volunteers_en ;_en all_en the_en editing_en is_en done_en by_en volunteers_en ._en
+and_en the_en way_en that_en we_en 're_en organized_en is_en not_en like_en any_en traditional_en organization_en you_en can_en imagine_en ._en
+people_en are_en always_en asking_en ,_en "_en well_en ,_en who_en 's_en in_en charge_en of_en this_en ?_en "_en
+or_en "_en who_en does_en that_en ?_en "_en and_en the_en answer_en is_en :_en anybody_en who_en wants_en to_en pitch_en in_en ._en
+it_en 's_en a_en very_en unusual_en and_en chaotic_en thing_en ._en
+we_en 've_en got_en over_en 90_en servers_en now_en in_en three_en locations_en ._en
+these_en are_en managed_en by_en volunteer_en system_en administrators_en who_en are_en online_en ._en
+i_en can_en go_en online_en any_en time_en of_en the_en day_en or_en night_en and_en see_en eight_en to_en 10_en people_en waiting_en for_en me_en to_en ask_en a_en question_en or_en something_en ,_en anything_en about_en the_en servers_en ._en
+you_en could_en never_en afford_en to_en do_en this_en in_en a_en company_en ._en
+you_en could_en never_en afford_en to_en have_en a_en standby_en crew_en of_en people_en 24_en hours_en a_en day_en and_en do_en what_en we_en 're_en doing_en at_en wikipedia_en ._en
+so_en we_en 're_en doing_en around_en 1.4_en billion_en page_en views_en monthly_en ,_en so_en it_en 's_en really_en gotten_en to_en be_en a_en huge_en thing_en ._en
+and_en everything_en is_en managed_en by_en the_en volunteers_en ._en
+and_en the_en total_en monthly_en cost_en for_en our_en bandwidth_en is_en about_en 5,000_en dollars_en ._en
+and_en that_en 's_en essentially_en our_en main_en cost_en ._en
+we_en could_en actually_en do_en without_en the_en employee_en ._en we_en actually_en --_en we_en hired_en brian_en because_en he_en was_en working_en part_en -_en time_en for_en two_en years_en and_en full_en -_en time_en at_en wikipedia_en ,_en so_en we_en actually_en hired_en him_en so_en he_en could_en get_en a_en life_en and_en go_en to_en the_en movies_en sometimes_en ._en
+so_en the_en big_en question_en when_en you_en 've_en got_en this_en really_en chaotic_en organization_en is_en ,_en why_en is_en n't_en it_en all_en rubbish_en ?_en why_en is_en the_en website_en as_en good_en as_en it_en is_en ?_en
+first_en of_en all_en ,_en how_en good_en is_en it_en ?_en well_en ,_en it_en 's_en pretty_en good_en ._en it_en is_en n't_en perfect_en ,_en but_en it_en 's_en much_en ,_en much_en better_en than_en you_en would_en expect_en ,_en given_en our_en completely_en chaotic_en model_en ._en
+so_en when_en you_en saw_en him_en make_en a_en ridiculous_en edit_en to_en the_en page_en about_en me_en ,_en you_en think_en ,_en oh_en ,_en this_en is_en obviously_en just_en going_en to_en degenerate_en into_en rubbish_en ._en
+but_en when_en we_en 've_en seen_en quality_en tests_en --_en and_en there_en have_en n't_en been_en enough_en of_en these_en yet_en and_en i_en 'm_en really_en encouraging_en people_en to_en do_en more_en ,_en comparing_en wikipedia_en to_en traditional_en things_en --_en we_en win_en hands_en down_en ._en
+so_en a_en german_en magazine_en compared_en german_en wikipedia_en ,_en which_en is_en really_en much_en ,_en much_en smaller_en than_en english_en ,_en to_en microsoft_en encarta_en and_en to_en brockhaus_en multimedia_en ,_en and_en we_en won_en across_en the_en board_en ._en
+they_en hired_en experts_en to_en come_en and_en look_en at_en articles_en and_en compare_en the_en quality_en ,_en and_en we_en were_en very_en pleased_en with_en that_en result_en ._en
+so_en a_en lot_en of_en people_en have_en heard_en about_en the_en wikipedia_en bush_en -_en kerry_en controversy_en ._en
+the_en media_en has_en covered_en this_en somewhat_en extensively_en ._en
+it_en started_en out_en with_en an_en article_en in_en red_en herring_en ._en
+the_en reporters_en called_en me_en up_en and_en they_en --_en i_en mean_en ,_en i_en have_en to_en say_en they_en spelled_en my_en name_en right_en ,_en but_en they_en really_en wanted_en to_en say_en ,_en the_en bush_en -_en kerry_en election_en is_en so_en contentious_en ,_en it_en 's_en tearing_en apart_en the_en wikipedia_en community_en ._en and_en so_en they_en quote_en me_en as_en saying_en ,_en "_en they_en 're_en the_en most_en contentious_en in_en the_en history_en of_en wikipedia_en ._en "_en
+what_en i_en actually_en said_en is_en ,_en they_en 're_en not_en contentious_en at_en all_en ._en
+so_en it_en 's_en a_en slight_en misquote_en ._en the_en articles_en were_en edited_en quite_en heavily_en ._en
+and_en it_en is_en true_en that_en we_en did_en have_en to_en lock_en the_en articles_en on_en a_en couple_en of_en occasions_en ._en
+time_en magazine_en recently_en reported_en that_en "_en extreme_en action_en sometimes_en has_en to_en be_en taken_en ,_en and_en wales_en locked_en the_en entries_en on_en kerry_en and_en bush_en for_en most_en of_en 2004_en ._en "_en
+this_en came_en after_en i_en told_en the_en reporter_en that_en we_en had_en to_en lock_en it_en for_en --_en occasionally_en a_en little_en bit_en here_en and_en there_en ._en
+so_en the_en truth_en in_en general_en is_en that_en the_en kinds_en of_en controversies_en that_en you_en would_en probably_en think_en we_en have_en within_en the_en wikipedia_en community_en are_en not_en really_en controversies_en at_en all_en ._en
+articles_en on_en controversial_en topics_en are_en edited_en a_en lot_en ,_en but_en they_en do_en n't_en cause_en much_en controversy_en within_en the_en community_en ._en
+and_en the_en reason_en for_en this_en is_en that_en most_en people_en understand_en the_en need_en for_en neutrality_en ._en
+the_en real_en struggle_en is_en not_en between_en the_en right_en and_en the_en left_en --_en that_en 's_en where_en most_en people_en assume_en --_en but_en it_en 's_en between_en the_en party_en of_en the_en thoughtful_en and_en the_en party_en of_en the_en jerks_en ._en
+and_en no_en side_en of_en the_en political_en spectrum_en has_en a_en monopoly_en on_en either_en of_en those_en qualities_en ._en
+the_en actual_en truth_en about_en the_en specific_en bush_en -_en kerry_en incident_en is_en that_en the_en bush_en -_en kerry_en articles_en were_en locked_en less_en than_en one_en percent_en of_en the_en time_en in_en 2004_en ,_en and_en it_en was_en n't_en because_en they_en were_en contentious_en ;_en it_en was_en just_en because_en there_en was_en routine_en vandalism_en --_en which_en happens_en sometimes_en even_en on_en stage_en ,_en people_en --_en sometimes_en even_en reporters_en have_en reported_en to_en me_en that_en they_en vandalize_en wikipedia_en and_en were_en amazed_en that_en it_en was_en fixed_en so_en quickly_en ._en
+and_en i_en said_en --_en you_en know_en ,_en i_en always_en say_en ,_en please_en do_en n't_en do_en that_en ;_en that_en 's_en not_en a_en good_en thing_en ._en
+so_en how_en do_en we_en do_en this_en ?_en
+how_en do_en we_en manage_en the_en quality_en control_en ?_en
+how_en does_en it_en work_en ?_en
+so_en there_en 's_en a_en few_en elements_en ,_en mostly_en social_en policies_en and_en some_en elements_en of_en the_en software_en ._en
+so_en the_en biggest_en and_en the_en most_en important_en thing_en is_en our_en neutral_en point_en -_en of_en -_en view_en policy_en ._en
+this_en is_en something_en that_en i_en set_en down_en from_en the_en very_en beginning_en ,_en as_en a_en core_en principle_en of_en the_en community_en that_en 's_en completely_en not_en debatable_en ._en
+it_en 's_en a_en social_en concept_en of_en cooperation_en ,_en so_en we_en do_en n't_en talk_en a_en lot_en about_en truth_en and_en objectivity_en ._en
+the_en reason_en for_en this_en is_en if_en we_en say_en we_en 're_en only_en going_en to_en write_en the_en "_en truth_en "_en about_en some_en topic_en ,_en that_en does_en n't_en do_en us_en a_en damn_en bit_en of_en good_en of_en figuring_en out_en what_en to_en write_en ,_en because_en i_en do_en n't_en agree_en with_en you_en about_en what_en 's_en the_en truth_en ._en
+but_en we_en have_en this_en jargon_en term_en of_en neutrality_en ,_en which_en has_en its_en own_en long_en history_en within_en the_en community_en ,_en which_en basically_en says_en ,_en any_en time_en there_en 's_en a_en controversial_en issue_en ,_en wikipedia_en itself_en should_en not_en take_en a_en stand_en on_en the_en issue_en ._en
+we_en should_en merely_en report_en on_en what_en reputable_en parties_en have_en said_en about_en it_en ._en
+so_en this_en neutrality_en policy_en is_en really_en important_en for_en us_en ,_en because_en it_en empowers_en a_en community_en that_en is_en very_en diverse_en to_en come_en together_en and_en actually_en get_en some_en work_en done_en ._en
+so_en we_en have_en very_en diverse_en contributors_en in_en terms_en of_en political_en ,_en religious_en ,_en cultural_en backgrounds_en ._en
+by_en having_en this_en firm_en neutrality_en policy_en ,_en which_en is_en non_en -_en negotiable_en from_en the_en beginning_en ,_en we_en ensure_en that_en people_en can_en work_en together_en and_en that_en the_en entries_en do_en n't_en become_en simply_en a_en war_en back_en and_en forth_en between_en the_en left_en and_en the_en right_en ._en
+if_en you_en engage_en in_en that_en type_en of_en behavior_en ,_en you_en 'll_en be_en asked_en to_en leave_en the_en community_en ._en
+so_en real_en -_en time_en peer_en review_en ._en
+every_en single_en change_en on_en the_en site_en goes_en to_en the_en recent_en changes_en page_en ._en
+so_en as_en soon_en as_en he_en made_en his_en change_en ,_en it_en went_en to_en the_en recent_en changes_en page_en ._en
+that_en recent_en changes_en page_en was_en also_en fed_en into_en irc_en channel_en ,_en which_en is_en an_en internet_en chat_en channel_en that_en people_en are_en monitoring_en with_en various_en software_en tools_en ._en
+and_en people_en can_en get_en rss_en feeds_en --_en they_en can_en get_en e-mail_en notifications_en of_en changes_en ._en
+and_en then_en users_en can_en set_en up_en their_en own_en personal_en watch_en list_en ._en
+so_en my_en page_en is_en on_en quite_en a_en few_en volunteers_en '_en watch_en lists_en ,_en because_en it_en is_en sometimes_en vandalized_en ._en
+and_en therefore_en ,_en what_en happens_en is_en someone_en will_en notice_en the_en change_en very_en quickly_en ,_en and_en then_en they_en 'll_en just_en simply_en revert_en the_en change_en ._en
+there_en 's_en a_en new_en pages_en feed_en ,_en for_en example_en ,_en so_en you_en can_en go_en to_en a_en certain_en page_en of_en wikipedia_en and_en see_en every_en new_en page_en as_en it_en 's_en created_en ._en
+this_en is_en really_en important_en ,_en because_en a_en lot_en of_en new_en pages_en that_en get_en created_en are_en just_en garbage_en that_en have_en to_en be_en deleted_en ,_en you_en know_en ,_en asdfasdf_en ._en
+but_en also_en that_en 's_en some_en of_en the_en most_en interesting_en and_en fun_en things_en at_en wikipedia_en ,_en some_en of_en the_en new_en articles_en ._en
+people_en will_en start_en an_en article_en on_en some_en interesting_en topic_en ,_en other_en people_en will_en find_en that_en intriguing_en and_en jump_en in_en and_en help_en and_en make_en it_en much_en better_en ._en
+so_en we_en do_en have_en edits_en by_en anonymous_en users_en ,_en which_en is_en one_en of_en the_en most_en controversial_en and_en intriguing_en things_en about_en wikipedia_en ._en
+so_en chris_en was_en able_en to_en do_en his_en change_en --_en he_en did_en n't_en have_en to_en log_en in_en or_en anything_en ;_en he_en just_en went_en on_en the_en website_en and_en made_en a_en change_en ._en
+but_en it_en turns_en out_en that_en only_en about_en 18_en percent_en of_en all_en the_en edits_en to_en the_en website_en are_en done_en by_en anonymous_en users_en ._en
+and_en that_en 's_en a_en really_en important_en thing_en to_en understand_en ,_en is_en that_en the_en vast_en majority_en of_en the_en edits_en that_en go_en on_en on_en the_en website_en are_en from_en a_en very_en close_en -_en knit_en community_en of_en maybe_en 600_en to_en 1,000_en people_en who_en are_en in_en constant_en communication_en ._en
+and_en we_en have_en over_en 40_en irc_en channels_en ,_en 40_en mailing_en lists_en ._en
+all_en these_en people_en know_en each_en other_en ._en they_en communicate_en ;_en we_en have_en offline_en meetings_en ._en
+these_en are_en the_en people_en who_en are_en doing_en the_en bulk_en of_en the_en site_en ,_en and_en they_en are_en ,_en in_en a_en sense_en ,_en semi_en -_en professionals_en at_en what_en they_en 're_en doing_en ,_en that_en the_en standards_en we_en set_en for_en ourselves_en are_en equal_en to_en or_en higher_en than_en professional_en standards_en of_en quality_en ._en
+we_en do_en n't_en always_en meet_en those_en standards_en ,_en but_en that_en 's_en what_en we_en 're_en striving_en for_en ._en
+and_en so_en that_en tight_en community_en is_en who_en really_en cares_en for_en the_en site_en ,_en and_en these_en are_en some_en of_en the_en smartest_en people_en i_en 've_en ever_en met_en ._en
+of_en course_en ,_en it_en 's_en my_en job_en to_en say_en that_en ,_en but_en it_en 's_en actually_en true_en ._en
+the_en type_en of_en people_en who_en were_en drawn_en to_en writing_en an_en encyclopedia_en for_en fun_en tend_en to_en be_en pretty_en smart_en people_en ._en
+the_en tools_en and_en the_en software_en :_en there_en 's_en lots_en of_en tools_en that_en allow_en us_en --_en allow_en us_en ,_en meaning_en the_en community_en --_en to_en self_en -_en monitor_en and_en to_en monitor_en all_en the_en work_en ._en
+this_en is_en an_en example_en of_en a_en page_en history_en on_en "_en flat_en earth_en ,_en "_en and_en you_en can_en see_en some_en changes_en that_en were_en made_en ._en
+what_en 's_en nice_en about_en this_en page_en is_en you_en can_en immediately_en take_en a_en look_en at_en this_en and_en see_en ,_en oh_en ok_en ,_en i_en understand_en now_en ._en
+when_en somebody_en goes_en and_en looks_en at_en --_en they_en see_en that_en someone_en ,_en an_en anonymous_en ip_en number_en ,_en made_en an_en edit_en to_en my_en page_en --_en that_en sounds_en suspicious_en --_en who_en is_en this_en person_en ?_en somebody_en looks_en at_en it_en --_en they_en can_en immediately_en see_en highlighted_en in_en red_en all_en of_en the_en changes_en that_en took_en place_en ,_en to_en see_en ,_en ok_en ,_en well_en ,_en these_en words_en have_en changed_en ,_en things_en like_en this_en ._en
+so_en that_en 's_en one_en tool_en that_en we_en can_en use_en to_en very_en quickly_en monitor_en the_en history_en of_en a_en page_en ._en
+another_en thing_en that_en we_en do_en within_en the_en community_en is_en we_en leave_en everything_en very_en open_en -_en ended_en ._en
+most_en of_en the_en social_en rules_en and_en the_en methods_en of_en work_en are_en left_en completely_en open_en -_en ended_en in_en the_en software_en ._en
+all_en of_en that_en stuff_en is_en just_en on_en wiki_en pages_en ._en
+and_en so_en there_en 's_en nothing_en in_en the_en software_en that_en enforces_en the_en rules_en ._en
+the_en example_en i_en 've_en got_en up_en here_en is_en a_en votes_en for_en deletion_en page_en ._en
+so_en ,_en i_en mentioned_en earlier_en ,_en people_en type_en asdfasdf_en --_en it_en needs_en to_en be_en deleted_en ._en cases_en like_en that_en ,_en the_en administrators_en just_en delete_en it_en ._en
+there_en 's_en no_en reason_en to_en have_en a_en big_en argument_en about_en it_en ._en
+but_en you_en can_en imagine_en there_en 's_en a_en lot_en of_en other_en areas_en where_en the_en question_en is_en ,_en is_en this_en notable_en enough_en to_en go_en in_en an_en encyclopedia_en ?_en
+is_en the_en information_en verifiable_en ?_en is_en it_en a_en hoax_en ?_en is_en it_en true_en ?_en is_en it_en what_en ?_en
+so_en we_en needed_en a_en social_en method_en for_en figuring_en out_en the_en answer_en to_en this_en ._en
+and_en so_en the_en method_en that_en arose_en organically_en within_en the_en community_en is_en the_en votes_en for_en deletion_en page_en ._en
+and_en in_en the_en particular_en example_en we_en have_en here_en ,_en it_en 's_en a_en film_en ,_en "_en twisted_en issues_en ,_en "_en and_en the_en first_en person_en says_en ,_en "_en now_en this_en is_en supposedly_en a_en film_en ._en it_en fails_en the_en google_en test_en miserably_en ._en "_en
+the_en google_en test_en is_en ,_en you_en look_en in_en google_en and_en see_en if_en it_en 's_en there_en ,_en because_en if_en something_en 's_en not_en even_en in_en google_en ,_en it_en probably_en does_en n't_en exist_en at_en all_en ._en
+it_en 's_en not_en a_en perfect_en rule_en ,_en but_en it_en 's_en a_en nice_en starting_en point_en for_en quick_en research_en ._en
+so_en somebody_en says_en ,_en "_en delete_en it_en ,_en please_en ._en delete_en it_en --_en it_en 's_en not_en notable_en ._en "_en
+and_en then_en somebody_en says_en ,_en "_en wait_en ,_en wait_en ,_en wait_en ,_en wait_en ,_en i_en found_en it_en ._en
+i_en found_en it_en in_en a_en book_en ,_en '_en film_en threat_en video_en guide_en :_en the_en 20_en underground_en films_en you_en must_en see_en ._en '_en "_en oh_en ,_en ok_en ._en so_en the_en next_en persons_en says_en ,_en "_en clean_en it_en up_en ._en "_en
+somebody_en says_en ,_en "_en i_en 've_en found_en it_en on_en imdb_en ._en keep_en ,_en keep_en ,_en keep_en ._en "_en
+and_en what_en 's_en interesting_en about_en this_en is_en that_en the_en software_en is_en --_en these_en votes_en are_en just_en --_en they_en 're_en just_en text_en typed_en into_en a_en page_en ._en
+this_en is_en not_en really_en a_en vote_en so_en much_en as_en it_en is_en a_en dialogue_en ._en
+now_en it_en is_en true_en that_en at_en the_en end_en of_en the_en day_en an_en administrator_en can_en go_en through_en here_en and_en take_en a_en look_en at_en this_en and_en say_en ,_en ok_en ,_en 18_en deletes_en ,_en two_en keeps_en :_en we_en 'll_en delete_en it_en ._en
+but_en in_en other_en cases_en ,_en this_en could_en be_en 18_en deletes_en and_en two_en keeps_en ,_en and_en we_en would_en keep_en it_en ,_en because_en if_en those_en last_en two_en keeps_en say_en ,_en "_en wait_en a_en minute_en ,_en wait_en a_en minute_en ._en
+nobody_en else_en saw_en this_en but_en i_en found_en it_en in_en a_en book_en ,_en and_en i_en found_en a_en link_en to_en a_en page_en that_en describes_en it_en ,_en and_en i_en 'm_en going_en to_en clean_en it_en up_en tomorrow_en ,_en so_en please_en do_en n't_en delete_en it_en ,_en "_en then_en it_en would_en survive_en ._en
+and_en it_en also_en matters_en who_en the_en people_en are_en who_en are_en voting_en ._en
+like_en i_en say_en ,_en it_en 's_en a_en tight_en knit_en community_en ._en
+down_en here_en at_en the_en bottom_en ,_en "_en keep_en ,_en real_en movie_en ,_en "_en rick_en kay_en ._en
+rick_en kay_en is_en a_en very_en famous_en wikipedian_en who_en does_en an_en enormous_en amount_en of_en work_en with_en vandalism_en ,_en hoaxes_en and_en votes_en for_en deletion_en ._en
+his_en voice_en carries_en a_en lot_en of_en weight_en within_en the_en community_en because_en he_en knows_en what_en he_en 's_en doing_en ._en
+so_en how_en 's_en all_en this_en governed_en ?_en
+people_en really_en want_en to_en know_en about_en ,_en ok_en ,_en administrators_en ,_en things_en like_en that_en ._en
+so_en the_en wikipedia_en governance_en model_en ,_en the_en governance_en of_en the_en community_en ,_en is_en a_en very_en confusing_en ,_en but_en a_en workable_en mix_en of_en consensus_en --_en meaning_en we_en try_en not_en to_en vote_en on_en the_en content_en of_en articles_en ,_en because_en the_en majority_en view_en is_en not_en necessarily_en neutral_en ._en
+some_en amount_en of_en democracy_en ,_en all_en of_en the_en administrators_en --_en these_en are_en the_en people_en who_en have_en the_en ability_en to_en delete_en pages_en ,_en that_en does_en n't_en mean_en that_en they_en have_en the_en right_en to_en delete_en pages_en ;_en they_en still_en have_en to_en follow_en all_en the_en rules_en --_en but_en they_en 're_en elected_en ;_en they_en 're_en elected_en by_en the_en community_en ._en sometimes_en people_en --_en random_en trolls_en on_en the_en internet_en --_en like_en to_en accuse_en me_en of_en handpicking_en the_en administrators_en to_en bias_en the_en content_en of_en the_en encyclopedia_en ._en
+i_en always_en laugh_en at_en this_en ,_en because_en i_en have_en no_en idea_en how_en they_en 're_en elected_en ,_en actually_en ._en
+there_en 's_en a_en certain_en amount_en of_en aristocracy_en ._en
+and_en so_en you_en 've_en got_en a_en hint_en of_en that_en when_en i_en mentioned_en ,_en like_en ,_en rick_en kay_en 's_en voice_en would_en carry_en a_en lot_en more_en weight_en than_en someone_en we_en do_en n't_en know_en ._en
+i_en give_en this_en talk_en sometimes_en with_en angela_en ,_en who_en was_en just_en re_en -_en elected_en to_en the_en board_en from_en the_en community_en --_en to_en the_en board_en of_en the_en foundation_en ,_en with_en more_en than_en twice_en the_en votes_en of_en the_en person_en who_en did_en n't_en make_en it_en ._en
+and_en i_en always_en embarrass_en her_en because_en i_en say_en ,_en well_en ,_en angela_en ,_en for_en example_en ,_en could_en get_en away_en with_en doing_en absolutely_en anything_en within_en wikipedia_en ,_en because_en she_en 's_en so_en admired_en and_en so_en powerful_en ._en
+but_en the_en irony_en is_en ,_en of_en course_en ,_en that_en angela_en can_en do_en this_en because_en she_en 's_en the_en one_en person_en who_en you_en know_en would_en never_en ,_en ever_en ,_en ever_en break_en any_en rules_en of_en wikipedia_en ._en
+and_en i_en also_en like_en to_en say_en she_en 's_en the_en only_en person_en who_en actually_en knows_en all_en the_en rules_en of_en wikipedia_en ,_en so_en ..._en
+and_en then_en there_en 's_en monarchy_en and_en that_en 's_en my_en role_en on_en the_en community_en ,_en so_en ..._en
+i_en was_en describing_en this_en in_en berlin_en once_en and_en the_en next_en day_en in_en the_en newspaper_en the_en headline_en said_en ,_en "_en i_en am_en the_en queen_en of_en england_en ._en "_en
+and_en that_en 's_en not_en exactly_en what_en i_en said_en ,_en but_en --_en the_en point_en is_en my_en role_en in_en the_en community_en --_en within_en the_en free_en software_en world_en there_en 's_en been_en a_en longstanding_en tradition_en of_en the_en "_en benevolent_en dictator_en "_en model_en ._en
+so_en if_en you_en look_en at_en most_en of_en the_en major_en free_en software_en projects_en ,_en they_en have_en one_en single_en person_en in_en charge_en who_en everyone_en agrees_en is_en the_en benevolent_en dictator_en ._en
+well_en ,_en i_en do_en n't_en like_en the_en term_en "_en benevolent_en dictator_en ,_en "_en and_en i_en do_en n't_en think_en that_en it_en 's_en my_en job_en or_en my_en role_en in_en the_en world_en of_en ideas_en to_en be_en the_en dictator_en of_en the_en future_en of_en all_en human_en knowledge_en compiled_en by_en the_en world_en ._en
+it_en just_en is_en n't_en appropriate_en ._en
+but_en there_en is_en a_en need_en still_en for_en a_en certain_en amount_en of_en monarchy_en ,_en a_en certain_en amount_en of_en --_en sometimes_en we_en have_en to_en make_en a_en decision_en ,_en and_en we_en do_en n't_en want_en to_en get_en bogged_en down_en too_en heavily_en in_en formal_en decision_en -_en making_en processes_en ._en
+so_en as_en an_en example_en of_en why_en this_en has_en been_en --_en or_en how_en this_en can_en be_en important_en :_en we_en recently_en had_en a_en situation_en where_en a_en neo_en -_en nazi_en website_en discovered_en wikipedia_en ,_en and_en they_en said_en ,_en "_en oh_en ,_en well_en ,_en this_en is_en horrible_en ,_en this_en jewish_en conspiracy_en of_en a_en website_en and_en we_en 're_en going_en to_en get_en certain_en articles_en deleted_en that_en we_en do_en n't_en like_en ._en
+and_en we_en see_en they_en have_en a_en voting_en process_en ,_en so_en we_en 're_en going_en to_en send_en --_en we_en have_en 40,000_en members_en and_en we_en 're_en going_en to_en send_en them_en over_en and_en they_en 're_en all_en going_en to_en vote_en and_en get_en these_en pages_en deleted_en ._en "_en
+well_en ,_en they_en managed_en to_en get_en 18_en people_en to_en show_en up_en ._en
+that_en 's_en neo_en -_en nazi_en math_en for_en you_en ._en
+they_en always_en think_en they_en 've_en got_en 40,000_en members_en when_en they_en 've_en got_en 18_en ._en
+but_en they_en managed_en to_en get_en 18_en people_en to_en come_en and_en vote_en in_en a_en fairly_en absurd_en way_en to_en delete_en a_en perfectly_en valid_en article_en ._en
+of_en course_en ,_en the_en vote_en ended_en up_en being_en about_en 85_en to_en 18_en ,_en so_en there_en was_en no_en real_en danger_en to_en our_en democratic_en processes_en ._en
+on_en the_en other_en hand_en ,_en people_en said_en ,_en "_en but_en what_en are_en we_en going_en to_en do_en ?_en
+i_en mean_en ,_en this_en could_en happen_en and_en what_en if_en some_en group_en gets_en really_en seriously_en organized_en and_en comes_en in_en and_en wants_en to_en vote_en ?_en "_en
+then_en i_en said_en ,_en "_en well_en fuck_en it_en ,_en we_en 'll_en just_en change_en the_en rules_en ._en "_en
+that_en 's_en my_en job_en in_en the_en community_en :_en to_en say_en we_en wo_en n't_en allow_en our_en openness_en and_en freedom_en to_en undermine_en the_en quality_en of_en the_en content_en ._en
+and_en so_en as_en long_en as_en people_en trust_en me_en in_en my_en role_en ,_en then_en that_en 's_en a_en valid_en place_en for_en me_en ._en
+of_en course_en ,_en because_en of_en the_en free_en licensing_en ,_en if_en i_en do_en a_en bad_en job_en ,_en the_en volunteers_en are_en more_en than_en happy_en to_en take_en and_en leave_en --_en i_en ca_en n't_en tell_en anyone_en what_en to_en do_en ._en
+so_en the_en final_en point_en here_en is_en that_en to_en understand_en how_en wikipedia_en works_en ,_en it_en 's_en important_en to_en understand_en that_en our_en wiki_en model_en is_en the_en way_en we_en work_en ,_en but_en we_en are_en not_en fanatical_en web_en anarchists_en ._en in_en fact_en ,_en we_en 're_en very_en flexible_en about_en the_en social_en methodology_en ,_en because_en it_en 's_en ultimately_en the_en passion_en of_en the_en community_en is_en for_en the_en quality_en of_en the_en work_en ,_en not_en necessarily_en for_en the_en process_en that_en we_en use_en to_en generate_en it_en ._en
+thank_en you_en ._en
+ben_en saunders_en :_en yeah_en ,_en hi_en ,_en ben_en saunders_en ._en
+jimmy_en ,_en you_en mentioned_en impartiality_en being_en a_en key_en to_en wikipedia_en 's_en success_en ._en
+it_en strikes_en me_en that_en much_en of_en the_en textbooks_en that_en are_en used_en to_en educate_en our_en children_en are_en inherently_en biased_en ._en
+have_en you_en found_en wikipedia_en being_en used_en by_en teachers_en ,_en and_en how_en do_en you_en see_en wikipedia_en changing_en education_en ?_en
+jimmy_en wales_en :_en yeah_en ,_en so_en ,_en a_en lot_en of_en teachers_en are_en beginning_en to_en use_en wikipedia_en ._en
+there_en 's_en a_en media_en storyline_en about_en wikipedia_en ,_en which_en i_en think_en is_en false_en ._en
+it_en builds_en on_en the_en storyline_en of_en bloggers_en versus_en newspapers_en ._en
+and_en the_en storyline_en is_en ,_en there_en 's_en this_en crazy_en thing_en ,_en wikipedia_en ,_en but_en academics_en hate_en it_en and_en teachers_en hate_en it_en ._en and_en that_en turns_en out_en to_en not_en be_en true_en ._en
+the_en last_en time_en i_en got_en an_en e-mail_en from_en a_en journalist_en saying_en ,_en "_en why_en do_en academics_en hate_en wikipedia_en ?_en "_en
+i_en sent_en it_en from_en my_en harvard_en email_en address_en ,_en because_en i_en was_en recently_en appointed_en a_en fellow_en there_en ._en
+and_en i_en said_en ,_en "_en well_en ,_en they_en do_en n't_en all_en hate_en it_en ._en "_en
+but_en i_en think_en there_en 's_en going_en to_en be_en huge_en impacts_en ._en
+and_en we_en actually_en have_en a_en project_en that_en i_en 'm_en personally_en really_en excited_en about_en ,_en which_en is_en the_en wiki_en books_en project_en ,_en which_en is_en an_en effort_en to_en create_en textbooks_en in_en all_en the_en languages_en ._en
+and_en that_en 's_en a_en much_en bigger_en project_en ;_en it_en 's_en going_en to_en take_en 20_en years_en or_en so_en to_en come_en to_en fruition_en ._en
+but_en part_en of_en that_en is_en to_en fulfill_en our_en mission_en of_en giving_en an_en encyclopedia_en to_en every_en single_en person_en on_en the_en planet_en ._en
+we_en do_en n't_en mean_en we_en 're_en going_en to_en spam_en them_en with_en aol_en -_en style_en cds_en ._en
+we_en mean_en we_en 're_en going_en to_en give_en them_en a_en tool_en that_en they_en can_en use_en ._en
+and_en for_en a_en lot_en of_en people_en in_en the_en world_en ,_en if_en i_en give_en you_en an_en encyclopedia_en that_en 's_en written_en at_en a_en university_en level_en ,_en it_en does_en n't_en do_en you_en any_en good_en without_en a_en whole_en host_en of_en literacy_en materials_en to_en build_en you_en up_en to_en the_en point_en where_en you_en can_en actually_en use_en it_en ._en
+and_en so_en the_en wiki_en books_en project_en is_en an_en effort_en to_en do_en that_en ._en
+and_en i_en think_en that_en we_en 're_en going_en to_en really_en see_en a_en huge_en --_en it_en may_en not_en even_en come_en from_en us_en ;_en there_en 's_en all_en kinds_en of_en innovation_en going_en on_en ._en
+but_en freely_en licensed_en textbooks_en are_en the_en next_en big_en thing_en in_en education_en ._en

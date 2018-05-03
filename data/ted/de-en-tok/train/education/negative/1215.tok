@@ -1,0 +1,70 @@
+ich	möchte	ihnen	heute	zeigen	,	wie	wir	in	zukunft	dinge	herstellen	werden	.
+ich	glaube	,	dass	unsere	gebäude	und	maschinen	sich	bald	selbst	zusammenbauen	,	vervielfältigen	und	reparieren	werden	.
+ich	werde	ihnen	zeigen	,	was	ich	für	die	heutigen	produktionsmethoden	halte	,	und	diese	dann	mit	einigen	natürlichen	systemen	vergleichen	.
+in	der	gegenwärtigen	fertigungsindustrie	haben	wir	wolkenkratzer	--	zweieinhalb	jahre	[	bauzeit	]	,	eine	halbe	bis	eine	million	teile	,	ziemlich	komplex	,	neue	und	aufregende	technologien	aus	stahl	,	beton	,	glas	.
+wir	haben	aufregende	maschinen	,	die	uns	in	den	weltraum	bringen	--	fünf	jahre	[	bauzeit	]	,	zweieinhalb	millionen	teile	.
+wenn	man	auf	der	anderen	seite	natürliche	systeme	betrachtet	,	findet	man	proteine	,	die	zwei	millionen	typen	besitzen	und	sich	in	zehn	mikrosekunden	falten	können	,	oder	dna	mit	drei	milliarden	basenpaaren	,	die	sich	in	etwa	einer	stunde	kopieren	lassen	.
+da	gibt	es	also	diese	ganze	komplexität	in	unseren	natürlichen	systemen	,	aber	sie	sind	extrem	effizient	,	viel	effizienter	als	alles	,	was	wir	herstellen	können	,	weit	komplexer	als	alles	,	was	wir	bauen	können	.
+sie	sind	viel	energieeffizienter	.
+sie	machen	fast	nie	fehler	.
+und	sie	sind	langlebig	,	da	sie	sich	selbst	reparieren	können	.
+es	gibt	bei	natürlichen	systemen	also	viel	interessantes	zu	entdecken	.
+und	wenn	wir	es	schaffen	,	das	in	unsere	gebaute	umgebung	einfließen	zu	lassen	,	dann	haben	wir	ein	aufregendes	potential	für	neue	bauweisen	.
+und	ich	glaube	,	dass	der	schlüssel	in	selbstmontage	besteht	.
+wenn	wir	selbstmontage	in	unserer	physischen	umwelt	nutzen	wollen	,	gibt	es	meiner	meinung	nach	vier	zentrale	faktoren	.
+der	erste	ist	,	das	wir	die	ganze	komplexität	der	dinge	,	die	wir	bauen	wollen	,	entschlüsseln	müssen	--	also	unsere	gebäude	und	maschinen	.
+und	wir	müssen	das	in	einfache	sequenzen	übersetzen	--	quasi	die	dna	davon	,	wie	unsere	gebäude	funktionieren	.
+dann	brauchen	wir	_UNK_	teile	,	die	diese	sequenz	heranziehen	und	zum	zusammenfalten	oder	_UNK_	verwenden	können	.
+wir	brauchen	_UNK_	,	damit	unsere	teile	aus	dem	programm	_UNK_	können	.
+und	wir	brauchen	eine	art	redundanz	zur	fehlerkorrektur	,	damit	auch	wirklich	das	entsteht	,	was	wir	bauen	wollen	.
+ich	zeige	ihnen	einige	projekte	,	an	denen	meine	kollegen	und	ich	am	mit	arbeiten	,	damit	selbstmontage	in	zukunft	realisiert	werden	kann	.
+die	ersten	beiden	sind	_UNK_	und	_UNK_	.
+diese	projekte	sind	großangelegte	,	_UNK_	roboter	--	zweieinhalb	bis	vier	meter	lange	proteine	.
+sie	sind	mit	_UNK_	geräten	ausgestattet	,	sensoren	.
+man	dekodiert	das	,	was	man	zusammenfalten	will	,	in	eine	sequenz	von	winkeln	--	also	minus	120	,	minus	120	,	0	,	0	,	120	,	minus	120	--	etwas	in	der	art	;	eine	sequenz	von	winkeln	,	oder	drehungen	,	und	man	sendet	diese	sequenz	durch	die	kette	.
+jede	einheit	greift	ihre	nachricht	auf	--	also	minus	120	--	sie	rotiert	entsprechend	,	prüft	,	ob	sie	angekommen	ist	,	und	leitet	sie	an	die	benachbarte	einheit	weiter	.
+dies	hier	sind	die	brillanten	wissenschaftler	,	ingenieure	und	designer	,	die	an	diesem	projekt	gearbeitet	haben	.
+und	ich	denke	,	es	macht	eines	wirklich	klar	:	ist	dies	wirklich	skalierbar	?
+ich	meine	,	tausende	von	dollar	,	viele	arbeitsstunden	,	um	diesen	zweieinhalb	meter	hohen	roboter	zu	schaffen	.
+können	wir	das	wirklich	_UNK_	?	können	wir	robotik	wirklich	in	jedes	teil	einbetten	?
+das	nächste	projekt	stellt	das	in	frage	und	betrachtet	die	passive	natur	oder	den	passiven	versuch	,	rekonfiguration	programmierbar	zu	machen	.
+aber	es	geht	einen	schritt	weiter	und	versucht	,	tatsächliche	berechnungen	möglich	zu	machen	.
+es	integriert	im	grunde	den	fundamentalsten	bestandteil	von	edv	,	das	digitale	_UNK_	,	direkt	in	die	teile	.
+dies	ist	ein	_UNK_	-	gatter	.
+man	hat	ein	tetraeder	,	welches	das	gatter	darstellt	,	das	die	berechnungen	durchführen	wird	,	und	man	hat	zwei	input	-	tetraeder	.
+eines	stellt	die	eingabe	des	_UNK_	dar	,	während	man	die	bausteine	herstellt	.
+das	andere	stammt	von	dem	vorangegangenen	bauteil	,	das	angeordnet	wurde	.
+und	dann	liefert	es	einen	output	im	dreidimensionalen	raum	.
+das	bedeutet	,	dass	der	benutzer	eingeben	kann	,	was	die	bauteile	tun	sollen	.
+es	führt	berechnungen	durch	auf	grundlage	dessen	,	was	es	vorher	getan	hat	,	und	was	der	benutzer	von	ihm	verlangt	.
+und	nun	beginnt	es	,	sich	im	dreidimensionalen	raum	zu	bewegen	--	hoch	und	runter	.
+auf	der	linken	seite	entspricht	der	input	[	1,1	]	dem	output	0	,	der	hinunter	geht	.
+auf	der	rechten	seite	entspricht	der	input	[	0,0	]	dem	output	1	,	der	hoch	geht	.
+was	das	wirklich	bedeutet	,	ist	,	dass	unsere	strukturen	nun	die	pläne	dessen	enthalten	,	was	wir	bauen	wollen	.
+sie	besitzen	also	sämtliche	informationen	darüber	,	was	gebaut	worden	ist	.
+das	bedeutet	,	wir	können	eine	form	von	_UNK_	erreichen	.
+in	diesem	fall	nenne	ich	es	_UNK_	replikation	,	weil	die	struktur	die	genauen	_UNK_	enthält	.
+tauchen	fehler	auf	,	kann	man	einen	teil	austauschen	.
+die	ganzen	lokalen	informationen	sind	integriert	,	um	zu	zeigen	,	wie	man	sie	beheben	kann	.
+man	könnte	also	etwas	haben	,	das	_UNK_	und	_UNK_	und	einen	output	von	eins	zu	eins	liefert	.
+es	ist	direkt	integriert	;	es	gibt	keine	anweisungen	von	außen	.
+das	letzte	projekt	,	was	ich	zeigen	werde	,	nennt	sich	_UNK_	_UNK_	,	und	es	stellt	das	wohl	aufregendste	beispiel	_UNK_	systeme	dar	,	das	wir	im	moment	haben	.
+es	greift	die	fähigkeit	zur	rekonfiguration	und	zur	programmierung	auf	und	schafft	ein	komplett	passives	system	.
+im	grunde	hat	man	eine	kette	von	elementen	.
+jedes	element	ist	vollkommen	identisch	und	sie	sind	_UNK_	.
+jede	kette	,	oder	jedes	element	,	will	sich	nach	rechts	oder	nach	links	drehen	.
+während	man	also	die	kette	zusammensetzt	,	programmiert	man	sie	im	grunde	.
+man	sagt	jeder	einheit	,	ob	sie	sich	nach	rechts	oder	nach	links	drehen	soll	.
+wenn	man	die	kette	schüttelt	,	faltet	sie	sich	zusammen	zu	einer	konfiguration	,	die	man	einprogrammiert	hat	--	in	diesem	fall	eine	spirale	oder	in	diesem	fall	zwei	nebeneinander	liegende	quadrate	.
+man	kann	also	im	grund	jede	mögliche	dreidimensionale	form	--	oder	eindimensional	,	zweidimensional	--	völlig	passiv	in	diese	kette	einprogrammieren	.
+was	sagt	uns	das	über	die	zukunft	?
+ich	denke	,	dass	es	uns	sagt	,	dass	es	möglichkeiten	der	selbstmontage	,	replikation	und	reparatur	in	unseren	physischen	strukturen	,	unseren	gebäuden	und	maschinen	gibt	.
+es	gibt	neue	möglichkeiten	zur	programmierung	in	diesen	teilen	.
+und	daraus	entstehen	neue	möglichkeiten	für	die	edv	.
+wir	werden	_UNK_	programmieren	haben	.
+stellen	sie	sich	vor	,	unsere	gebäude	,	brücken	,	maschinen	,	all	unsere	bauteile	könnten	berechnungen	durchführen	.
+das	würde	parallele	und	verteilte	rechenleistung	,	neue	_UNK_	bedeuten	.
+es	gibt	also	ein	aufregendes	potential	dafür	.
+ich	denke	,	dass	diese	projekte	,	die	ich	hier	gezeigt	habe	,	nur	ein	winziger	schritt	in	richtung	dieser	zukunft	sind	,	wenn	wir	diese	neuen	technologien	für	eine	neue	,	sich	selbst	erschaffende	welt	implementieren	.
+vielen	dank	.
+

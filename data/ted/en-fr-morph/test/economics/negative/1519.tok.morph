@@ -1,0 +1,105 @@
+ a 	 s 	 	an	architect	,	i	often	ask	 my 	 self 	 	,	what	is	the	origin	of	the	 form 	 s 	 	that	we	design	?
+what	kind	of	 form 	 s 	 	could	we	design	if	we	would	n't	work	with	 re 	 ference 	 s 	 	 any 	 more 	 	?
+if	we	had	no	bias	,	if	we	had	no	 pre 	 conception 	 s 	 	,	what	kind	of	 form 	 s 	 	could	we	design	if	we	could	free	 our 	 s 	 elves 	 	from	our	experience	?
+if	we	could	free	 our 	 s 	 elves 	 	from	our	education	?
+what	would	these	 un 	 s 	 een 	 	 form 	 s 	 	look	like	?
+would	they	surprise	us	?	would	they	 intrigu 	 e 	 	us	?
+would	they	 de 	 light 	 	us	?
+if	so	,	then	how	can	we	go	about	creating	 some 	 thing 	 	that	is	 tru 	 ly 	 	new	?
+i	 pro 	 pose 	 	we	look	to	nature	.
+nature	 ha 	 s 	 	 be 	 en 	 	 call 	 ed 	 	the	 great 	 est 	 	architect	of	 form 	 s 	 	.
+and	i	'm	not	 say 	 ing 	 	that	we	should	copy	nature	,	i	'm	not	 say 	 ing 	 	we	should	mimic	biology	,	 in 	 stead 	 	i	 pro 	 pose 	 	that	we	can	borrow	nature	's	 process 	 es 	 	.
+we	can	abstract	them	and	to	create	 some 	 thing 	 	that	is	new	.
+nature	's	main	process	of	creation	,	morphogenesis	,	is	the	 split 	 ting 	 	of	one	cell	 in 	 to 	 	two	 cell 	 s 	 	.
+and	these	 cell 	 s 	 	can	either	be	 ident 	 ical 	 	,	or	they	can	be	distinct	from	each	other	through	 a 	 symmetric 	 	cell	division	.
+if	we	abstract	 th 	 is 	 	process	,	and	 simpl 	 ify 	 	it	 a 	 s 	 	much	 a 	 s 	 	possible	,	then	we	could	start	with	a	single	sheet	of	paper	,	one	surface	,	and	we	could	make	a	fold	and	divide	the	surface	 in 	 to 	 	two	 surface 	 s 	 	.
+we	're	free	to	 choos 	 e 	 	where	we	make	the	fold	.
+and	by	 do 	 ing 	 	so	,	we	can	 different 	 iate 	 	the	 surface 	 s 	 	.
+through	 th 	 is 	 	 ver 	 y 	 	simple	process	,	we	can	create	an	 astound 	 ing 	 	 varie 	 ty 	 	of	 form 	 s 	 	.
+now	,	we	can	take	 th 	 is 	 	form	and	use	the	same	process	to	generate	three	-	dimensional	 structure 	 s 	 	,	but	 ra 	 ther 	 	than	 fold 	 ing 	 	 thing 	 s 	 	by	hand	,	we	'll	 br 	 ing 	 	the	structure	 in 	 to 	 	the	computer	,	and	code	it	 a 	 s 	 	an	algorithm	.
+and	in	 do 	 ing 	 	so	,	we	can	 sudden 	 ly 	 	fold	 any 	 thing 	 	.
+we	can	fold	a	million	 time 	 s 	 	 fast 	 er 	 	,	we	can	fold	in	 hundred 	 s 	 	and	 hundred 	 s 	 	of	 vari 	 ations 	 	.
+and	 a 	 s 	 	we	're	seeking	to	make	 some 	 thing 	 	three	-	dimensional	,	we	start	not	with	a	single	surface	,	but	with	a	volume	.
+a	simple	volume	,	the	cube	.
+if	we	take	 it 	 s 	 	 surface 	 s 	 	and	fold	them	 aga 	 in 	 	and	 aga 	 in 	 	and	 aga 	 in 	 	and	 aga 	 in 	 	,	then	after	16	 iteration 	 s 	 	,	16	 step 	 s 	 	,	we	end	up	with	400,000	 surface 	 s 	 	and	a	shape	that	 look 	 s 	 	,	for	 in 	 stance 	 	,	like	 th 	 is 	 	.
+and	if	we	change	where	we	make	the	 fold 	 s 	 	,	if	we	change	the	 fold 	 ing 	 	ratio	,	then	 th 	 is 	 	cube	 turn 	 s 	 	 in 	 to 	 	 th 	 is 	 	one	.
+we	can	change	the	 fold 	 ing 	 	ratio	 aga 	 in 	 	to	produce	 th 	 is 	 	shape	,	or	 th 	 is 	 	shape	.
+so	we	exert	control	over	the	form	by	 spec 	 ifying 	 	the	position	of	where	we	're	making	the	fold	,	but	 essential 	 ly 	 	you	're	looking	at	a	 fold 	 ed 	 	cube	.
+and	we	can	play	with	 th 	 is 	 	.
+we	can	 app 	 ly 	 	different	 fold 	 ing 	 	 ratio 	 s 	 	to	different	 part 	 s 	 	of	the	form	to	create	local	 condition 	 s 	 	.
+we	can	begin	to	sculpt	the	form	.
+and	 be 	 cause 	 	we	're	 do 	 ing 	 	the	 fold 	 ing 	 	on	the	computer	,	we	are	 complete 	 ly 	 	free	of	any	physical	 constraint 	 s 	 	.
+so	that	 mean 	 s 	 	that	 surface 	 s 	 	can	intersect	 them 	 s 	 elves 	 	,	they	can	 be 	 come 	 	 im 	 possibly 	 	small	.
+we	can	make	 fold 	 s 	 	that	we	 other 	 wise 	 	could	not	make	.
+ surface 	 s 	 	can	 be 	 come 	 	 por 	 ous 	 	.
+they	can	stretch	.	they	can	tear	.
+and	all	of	 th 	 is 	 	 ex 	 pound 	 s 	 	the	scope	of	 form 	 s 	 	that	we	can	produce	.
+but	in	each	case	,	i	did	n't	design	the	form	.
+i	designed	the	process	that	generated	the	form	.
+in	general	,	if	we	make	a	small	change	to	the	 fold 	 ing 	 	ratio	,	which	is	what	you	're	 see 	 ing 	 	here	,	then	the	form	 change 	 s 	 	 correspond 	 ing 	 ly 	 	.
+but	that	's	 on 	 ly 	 	half	of	the	story	--	99.9	percent	of	the	 fold 	 ing 	 	 ratio 	 s 	 	produce	not	 th 	 is 	 	,	but	 th 	 is 	 	,	the	 geo 	 metric 	 	 equi 	 valent 	 	of	noise	.
+the	 form 	 s 	 	that	i	 show 	 ed 	 	before	 we 	 re 	 	made	 actual 	 ly 	 	through	 ver 	 y 	 	long	trial	and	error	.
+a	far	more	effective	way	to	create	 form 	 s 	 	,	i	have	found	,	is	to	use	information	that	is	 al 	 ready 	 	 contain 	 ed 	 	in	 form 	 s 	 	.
+a	 ver 	 y 	 	simple	form	 s 	 uch 	 	 a 	 s 	 	 th 	 is 	 	one	 actual 	 ly 	 	 contain 	 s 	 	a	lot	of	information	that	may	not	be	visible	to	the	human	eye	.
+so	,	for	 in 	 stance 	 	,	we	can	plot	the	length	of	the	 edge 	 s 	 	.
+white	 surface 	 s 	 	have	long	 edge 	 s 	 	,	black	 one 	 s 	 	have	short	 one 	 s 	 	.
+we	can	plot	the	planarity	of	the	 surface 	 s 	 	,	 the 	 ir 	 	 curv 	 ature 	 	,	how	 radi 	 al 	 	they	are	--	all	information	that	may	not	be	 instant 	 ly 	 	visible	to	you	,	but	that	we	can	 br 	 ing 	 	out	,	that	we	can	articulate	,	and	that	we	can	use	to	control	the	 fold 	 ing 	 	.
+so	now	i	'm	not	 spec 	 ifying 	 	a	single	ratio	 any 	 more 	 	to	fold	it	,	but	 in 	 stead 	 	i	'm	 establish 	 ing 	 	a	rule	,	i	'm	 establish 	 ing 	 	a	link	between	a	 proper 	 ty 	 	of	a	surface	and	how	that	surface	is	 fold 	 ed 	 	.
+and	 be 	 cause 	 	i	've	designed	the	process	and	not	the	form	,	i	can	run	the	process	 aga 	 in 	 	and	 aga 	 in 	 	and	 aga 	 in 	 	to	produce	a	whole	family	of	 form 	 s 	 	.
+these	 form 	 s 	 	look	elaborate	,	but	the	process	is	a	 ver 	 y 	 	minimal	one	.
+there	is	a	simple	 in 	 put 	 	,	it	's	 al 	 ways 	 	a	cube	that	i	start	with	,	and	it	's	a	 ver 	 y 	 	simple	operation	--	it	's	making	a	fold	,	and	 do 	 ing 	 	 th 	 is 	 	over	and	over	 aga 	 in 	 	.
+so	let	's	 br 	 ing 	 	 th 	 is 	 	process	to	 architect 	 ure 	 	.
+how	?	and	at	what	scale	?
+i	chose	to	design	a	column	.
+ column 	 s 	 	are	 architect 	 ural 	 	 arche 	 type 	 s 	 	.
+they	've	 be 	 en 	 	used	 through 	 out 	 	 histo 	 ry 	 	to	express	 ideal 	 s 	 	about	 beaut 	 y 	 	,	about	technology	.
+a	 challeng 	 e 	 	to	me	was	how	we	could	express	 th 	 is 	 	new	 algorithm 	 ic 	 	order	in	a	column	.
+i	 start 	 ed 	 	using	four	 cylinder 	 s 	 	.
+through	a	lot	of	 experiment 	 ation 	 	,	these	 cylinder 	 s 	 	 event 	 ual 	 ly 	 	 evolv 	 ed 	 	 in 	 to 	 	 th 	 is 	 	.
+and	these	 column 	 s 	 	,	they	have	information	at	 ver 	 y 	 	 man 	 y 	 	 scale 	 s 	 	.
+we	can	begin	to	zoom	 in 	 to 	 	them	.
+the	 close 	 r 	 	one	 get 	 s 	 	,	the	more	new	 feature 	 s 	 	one	 discover 	 s 	 	.
+some	 form 	 ations 	 	are	 al 	 most 	 	at	the	threshold	of	human	 vis 	 ibility 	 	.
+and	 un 	 like 	 	 tradition 	 al 	 	 architect 	 ure 	 	,	it	's	a	single	process	that	 create 	 s 	 	both	the	 over 	 all 	 	form	and	the	 micro 	 scopic 	 	surface	detail	.
+these	 form 	 s 	 	are	undrawable	.
+an	architect	who	's	 draw 	 ing 	 	them	with	a	pen	and	a	paper	would	 prob 	 ably 	 	take	 month 	 s 	 	,	or	it	would	take	even	a	year	to	draw	all	the	 section 	 s 	 	,	all	of	the	elevations	,	you	can	 on 	 ly 	 	create	 some 	 thing 	 	like	 th 	 is 	 	through	an	algorithm	.
+the	more	 interest 	 ing 	 	question	,	 per 	 hap 	 s 	 	,	is	,	are	these	 form 	 s 	 	 imagin 	 able 	 	?
+ usual 	 ly 	 	,	an	architect	can	 some 	 how 	 	envision	the	end	state	of	what	he	is	 design 	 ing 	 	.
+in	 th 	 is 	 	case	,	the	process	is	deterministic	.
+there	's	no	 random 	 ness 	 	 involve 	 d 	 	at	all	,	but	it	's	not	 entire 	 ly 	 	 predict 	 able 	 	.
+there	's	too	 man 	 y 	 	 surface 	 s 	 	,	there	's	too	much	detail	,	one	ca	n't	see	the	end	state	.
+so	 th 	 is 	 	 lead 	 s 	 	to	a	new	role	for	the	architect	.
+one	 need 	 s 	 	a	new	method	to	explore	all	of	the	 possibil 	 ities 	 	that	are	out	there	.
+for	one	thing	,	one	can	design	 man 	 y 	 	 vari 	 ants 	 	of	a	form	,	in	parallel	,	and	one	can	 cultiv 	 ate 	 	them	.
+and	to	go	back	to	the	 analog 	 y 	 	with	nature	,	one	can	begin	to	think	in	 term 	 s 	 	of	 population 	 s 	 	,	one	can	talk	about	 per 	 mutation 	 s 	 	,	about	 generation 	 s 	 	,	about	 cross 	 ing 	 	and	 breed 	 ing 	 	to	come	up	with	a	design	.
+and	the	architect	is	 re 	 ally 	 	,	he	 move 	 s 	 	 in 	 to 	 	the	position	of	 be 	 ing 	 	an	orchestrator	of	all	of	these	 process 	 es 	 	.
+but	 en 	 ough 	 	of	the	 theor 	 y 	 	.
+at	one	point	i	 simpl 	 y 	 	 want 	 ed 	 	to	jump	 in 	 side 	 	 th 	 is 	 	image	,	so	to	say	,	i	 b 	 ought 	 	these	red	and	blue	3d	 glass 	 es 	 	,	got	up	 ver 	 y 	 	close	to	the	screen	,	but	still	that	was	n't	the	same	 a 	 s 	 	 be 	 ing 	 	able	to	walk	around	and	touch	 thing 	 s 	 	.
+so	there	was	 on 	 ly 	 	one	 possibil 	 ity 	 	--	to	 br 	 ing 	 	the	column	out	of	the	computer	.
+there	's	 be 	 en 	 	a	lot	of	talk	now	about	3d	 print 	 ing 	 	.
+for	me	,	or	for	my	purpose	at	 th 	 is 	 	moment	,	there	's	still	too	much	of	an	 un 	 favor 	 able 	 	 trade 	 off 	 	between	scale	,	on	the	one	hand	,	and	 re 	 solution 	 	and	speed	,	on	the	other	.
+so	 in 	 stead 	 	,	we	 decide 	 d 	 	to	take	the	column	,	and	we	 decide 	 d 	 	to	build	it	 a 	 s 	 	a	 layer 	 ed 	 	model	,	made	out	of	 ver 	 y 	 	 man 	 y 	 	 slice 	 s 	 	,	 thin 	 ly 	 	 stack 	 ed 	 	over	each	other	.
+what	you	're	looking	at	here	is	an	x	-	ray	of	the	column	that	you	just	saw	,	 view 	 ed 	 	from	the	top	.
+ un 	 beknownst 	 	to	me	at	the	time	,	 be 	 cause 	 	we	had	 on 	 ly 	 	 s 	 een 	 	the	 out 	 side 	 	,	the	 surface 	 s 	 	 we 	 re 	 	 continu 	 ing 	 	to	fold	 them 	 s 	 elves 	 	,	to	grow	on	the	 in 	 side 	 	of	the	column	,	which	was	 quit 	 e 	 	a	surprising	 discover 	 y 	 	.
+from	 th 	 is 	 	shape	,	we	 calcul 	 ated 	 	a	cutting	line	,	and	then	we	 g 	 ave 	 	 th 	 is 	 	cutting	line	to	a	laser	cutter	to	produce	--	and	you	're	 see 	 ing 	 	a	segment	of	it	here	--	 ver 	 y 	 	 man 	 y 	 	thin	 slice 	 s 	 	,	 individual 	 ly 	 	cut	,	on	top	of	each	other	.
+and	 th 	 is 	 	is	a	photo	now	,	it	's	not	a	 render 	 ing 	 	,	and	the	column	that	we	 end 	 ed 	 	up	with	after	a	lot	of	work	,	 end 	 ed 	 	up	looking	 remark 	 ably 	 	like	the	one	that	we	had	designed	in	the	computer	.
+ al 	 most 	 	all	of	the	 detail 	 s 	 	,	 al 	 most 	 	all	of	the	surface	 intric 	 acies 	 	 we 	 re 	 	 preserve 	 d 	 	.
+but	it	was	 ver 	 y 	 	labor	intensive	.
+there	's	a	huge	 dis 	 connect 	 	at	the	moment	still	between	the	virtual	and	the	physical	.
+it	took	me	 s 	 ever 	 al 	 	 month 	 s 	 	to	design	the	column	,	but	 ultimate 	 ly 	 	it	 take 	 s 	 	the	computer	about	30	 second 	 s 	 	to	 calcul 	 ate 	 	all	of	the	16	million	 face 	 s 	 	.
+the	physical	model	,	on	the	other	hand	,	is	2,700	 layer 	 s 	 	,	one	millimeter	thick	,	it	 weigh 	 s 	 	700	 kilo 	 s 	 	,	it	's	made	of	sheet	that	can	cover	 th 	 is 	 	entire	 audit 	 orium 	 	.
+and	the	cutting	path	that	the	laser	 follow 	 ed 	 	 go 	 es 	 	from	here	to	the	 air 	 port 	 	and	back	 aga 	 in 	 	.
+but	it	is	 increasing 	 ly 	 	possible	.
+ machine 	 s 	 	are	 get 	 ting 	 	 fast 	 er 	 	,	it	's	 get 	 ting 	 	less	expensive	,	and	there	's	some	promising	 techno 	 logical 	 	 develop 	 ments 	 	just	on	the	horizon	.
+these	are	 image 	 s 	 	from	the	gwangju	biennale	.
+and	in	 th 	 is 	 	case	,	i	used	 ab 	 s 	 	plastic	to	produce	the	 column 	 s 	 	,	we	used	the	 big 	 ger 	 	,	 fast 	 er 	 	machine	,	and	they	have	a	steel	core	 in 	 side 	 	,	so	they	're	structural	,	they	can	bear	 load 	 s 	 	for	once	.
+each	column	is	 effective 	 ly 	 	a	hybrid	of	two	 column 	 s 	 	.
+you	can	see	a	different	column	in	the	mirror	,	if	there	's	a	mirror	 be 	 hind 	 	the	column	that	 create 	 s 	 	a	sort	of	an	optical	illusion	.
+so	where	 do 	 es 	 	 th 	 is 	 	 leav 	 e 	 	us	?
+i	think	 th 	 is 	 	project	 give 	 s 	 	us	a	 glimps 	 e 	 	of	the	 un 	 s 	 een 	 	 object 	 s 	 	that	await	us	if	we	 a 	 s 	 	 architect 	 s 	 	begin	to	think	about	 design 	 ing 	 	not	the	object	,	but	a	process	to	generate	 object 	 s 	 	.
+i	've	 show 	 n 	 	one	simple	process	that	was	inspired	by	nature	;	there	's	 count 	 less 	 	other	 one 	 s 	 	.
+in	short	,	we	have	no	 constraint 	 s 	 	.
+ in 	 stead 	 	,	we	have	 process 	 es 	 	in	our	 hand 	 s 	 	right	now	that	allow	us	to	create	 structure 	 s 	 	at	all	 scale 	 s 	 	that	we	could	n't	even	have	 dream 	 t 	 	up	.
+and	,	if	i	may	add	,	at	one	point	we	will	build	them	.
+thank	you	.
+

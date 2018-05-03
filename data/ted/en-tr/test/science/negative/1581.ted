@@ -1,0 +1,33 @@
+to_en understand_en the_en world_en that_en live_en in_en ,_en we_en tell_en stories_en ._en
+and_en while_en remixing_en and_en sharing_en have_en come_en to_en define_en the_en web_en as_en we_en know_en it_en ,_en all_en of_en us_en can_en now_en be_en part_en of_en that_en story_en through_en simple_en tools_en that_en allow_en us_en to_en make_en things_en online_en ._en
+but_en video_en has_en been_en left_en out_en ._en it_en arrived_en on_en the_en web_en in_en a_en small_en box_en ,_en and_en there_en it_en has_en remained_en ,_en completely_en disconnected_en from_en the_en data_en and_en the_en content_en all_en around_en it_en ._en
+in_en fact_en ,_en in_en over_en a_en decade_en on_en the_en web_en ,_en the_en only_en thing_en that_en has_en changed_en about_en video_en is_en the_en size_en of_en the_en box_en and_en the_en quality_en of_en the_en picture_en ._en
+popcorn_en changes_en all_en of_en that_en ._en
+it_en 's_en an_en online_en tool_en that_en allows_en anyone_en to_en combine_en video_en with_en content_en pulled_en live_en directly_en from_en the_en web_en ._en
+videos_en created_en with_en popcorn_en behave_en like_en the_en web_en itself_en :_en dynamic_en ,_en full_en of_en links_en ,_en and_en completely_en remixable_en ,_en and_en finally_en allowed_en to_en break_en free_en from_en the_en frame_en ._en
+i_en want_en to_en give_en you_en a_en demo_en of_en a_en prototype_en that_en we_en 're_en working_en on_en that_en we_en 'll_en launch_en later_en this_en fall_en ._en
+it_en will_en be_en completely_en free_en ,_en and_en it_en will_en work_en in_en any_en browser_en ._en
+so_en ,_en every_en popcorn_en production_en begins_en with_en the_en video_en ,_en and_en so_en i_en 've_en made_en a_en short_en ,_en 20_en -_en second_en clip_en using_en a_en newscaster_en template_en that_en we_en use_en in_en workshops_en ._en
+so_en let_en 's_en watch_en it_en ._en we_en 'll_en go_en back_en ,_en and_en i_en 'll_en show_en you_en how_en we_en made_en it_en ._en
+hi_en ,_en and_en welcome_en to_en my_en newscast_en ._en
+i_en 've_en added_en my_en location_en with_en a_en google_en map_en ,_en and_en it_en 's_en live_en ,_en so_en try_en moving_en it_en around_en ._en
+you_en can_en add_en pop_en -_en ups_en with_en live_en links_en and_en custom_en icons_en ,_en or_en pull_en in_en content_en from_en any_en web_en service_en ,_en like_en flickr_en ,_en or_en add_en articles_en and_en blog_en posts_en with_en links_en out_en to_en the_en full_en content_en ._en
+so_en let_en 's_en go_en back_en ,_en and_en i_en 'll_en show_en you_en what_en you_en saw_en ._en there_en was_en a_en lot_en there_en ._en
+so_en this_en is_en the_en timeline_en ,_en and_en if_en you_en 've_en ever_en edited_en video_en ,_en you_en 're_en familiar_en with_en this_en ,_en but_en instead_en of_en clips_en in_en the_en timeline_en ,_en what_en you_en 're_en looking_en at_en is_en web_en events_en pulled_en into_en the_en video_en ._en
+now_en in_en this_en popcorn_en production_en we_en 've_en got_en the_en title_en card_en ,_en we_en 've_en got_en a_en google_en map_en that_en shows_en up_en picture_en -_en in_en -_en picture_en ,_en then_en popcorn_en lets_en it_en push_en outside_en the_en frame_en and_en take_en over_en the_en whole_en screen_en ._en
+there_en are_en two_en pop_en -_en ups_en bringing_en you_en some_en other_en information_en ,_en and_en a_en final_en article_en with_en a_en link_en out_en to_en the_en original_en article_en ._en
+let_en 's_en go_en to_en this_en google_en map_en ,_en and_en i_en 'll_en show_en you_en how_en you_en can_en edit_en it_en ._en
+all_en you_en do_en ,_en go_en into_en the_en timeline_en ,_en double_en -_en click_en the_en item_en ,_en and_en i_en 've_en set_en it_en to_en toronto_en ,_en because_en that_en 's_en where_en i_en 'm_en from_en ._en
+let_en 's_en set_en it_en to_en something_en else_en ._en
+popcorn_en immediately_en goes_en out_en onto_en the_en web_en ,_en talks_en to_en google_en ,_en grabs_en the_en map_en ,_en and_en puts_en it_en in_en the_en display_en ._en
+and_en it_en 's_en exactly_en the_en same_en for_en the_en people_en who_en watch_en your_en production_en ._en
+and_en it_en 's_en live_en ._en it_en 's_en not_en an_en image_en ._en so_en you_en click_en on_en it_en ,_en you_en zoom_en in_en ,_en right_en down_en to_en street_en view_en if_en you_en want_en to_en ._en
+now_en in_en the_en video_en ,_en i_en mentioned_en adding_en a_en live_en feed_en ,_en which_en we_en can_en do_en right_en now_en ,_en so_en let_en 's_en add_en a_en live_en feed_en from_en flickr_en ._en go_en over_en to_en the_en right_en -_en hand_en side_en ,_en grab_en flickr_en from_en the_en list_en of_en options_en ,_en drag_en it_en into_en the_en timeline_en ,_en and_en put_en it_en where_en you_en 'd_en like_en it_en to_en go_en ,_en and_en it_en immediately_en goes_en out_en to_en flickr_en and_en starts_en pulling_en in_en images_en based_en on_en the_en tags_en ._en now_en ,_en my_en developers_en really_en like_en ponies_en ,_en and_en so_en they_en 've_en set_en that_en as_en the_en default_en tag_en ._en
+let_en 's_en try_en something_en else_en ,_en maybe_en something_en a_en bit_en more_en relevant_en to_en today_en ._en
+now_en here_en are_en live_en images_en being_en pulled_en straight_en from_en the_en feed_en ._en
+if_en you_en come_en and_en watch_en this_en a_en week_en from_en now_en ,_en this_en will_en be_en completely_en different_en ,_en dynamic_en ,_en just_en like_en the_en web_en ,_en and_en just_en like_en the_en web_en ,_en everything_en is_en sourced_en ,_en so_en click_en your_en link_en ,_en and_en you_en go_en straight_en to_en flickr_en and_en see_en the_en source_en image_en ._en
+everything_en you_en 've_en seen_en today_en is_en built_en with_en the_en basic_en building_en blocks_en of_en the_en web_en :_en html_en ,_en css_en and_en javascript_en ._en
+that_en means_en it_en 's_en completely_en remixable_en ._en it_en also_en means_en there_en 's_en no_en proprietary_en software_en ._en all_en you_en need_en is_en a_en web_en browser_en ._en
+so_en imagine_en if_en every_en video_en that_en we_en watched_en on_en the_en web_en worked_en like_en the_en web_en ,_en completely_en remixable_en ,_en linked_en to_en its_en source_en content_en ,_en and_en interactive_en for_en everyone_en who_en views_en it_en ._en
+i_en think_en popcorn_en could_en change_en the_en way_en that_en we_en tell_en stories_en on_en the_en web_en ,_en and_en the_en way_en we_en understand_en the_en world_en we_en live_en in_en ._en
+thank_en you_en ._en

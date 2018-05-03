@@ -1,0 +1,110 @@
+ l' 	 idée 	 	derrière	le	ver	informatique	stuxnet	est	en	fait	très	simple	.
+nous	ne	 voul 	 ons 	 	pas	que	l'iran	ait	la	bombe	.
+leur	 a 	 tout 	 	majeur	pour	 développe 	 r 	 	des	 arme 	 s 	 	 nucléaire 	 s 	 	est	 l' 	 usine 	 	 d' 	 enrichi 	 ssement 	 	 d' 	 ura 	 nium 	 	natanz	.
+les	 boit 	 es 	 	 gris 	 es 	 	que	vous	voyez	,	ce	 s 	 ont 	 	des	 système 	 s 	 	de	 contrô 	 le 	 	en	temps	réel	.
+ e 	 t 	 	si	on	arrive	à	 com 	 pro 	 mettre 	 	 ce 	 s 	 	 système 	 s 	 	qui	 contrô 	 lent 	 	la	vitesse	des	 disque 	 s 	 	 e 	 t 	 	les	 val 	 ves 	 	nous	 pouv 	 ons 	 	en	fait	 cause 	 r 	 	beaucoup	de	 problème 	 s 	 	à	la	 centrifuge 	 use 	 	.
+les	 boit 	 es 	 	 gris 	 es 	 	ne	 tourne 	 nt 	 	pas	sous	windows	;	c'est	une	technologie	 complète 	 ment 	 	 différent 	 e 	 	.
+ mai 	 s 	 	si	nous	 par 	 venons 	 	à	 place 	 r 	 	un	bon	virus	windows	dans	un	 port 	 able 	 	utilisé	par	un	ingénieur	pour	_UNK_	 ce 	 tte 	 	 boit 	 e 	 	 gris 	 e 	 	,	alors	on	est	bon	.
+ e 	 t 	 	c'est	le	scénario	derrière	stuxnet	.
+donc	nous	 comme 	 nçons 	 	par	un	 dro 	 p 	 per 	 	windows	.
+la	charge	utile	va	dans	la	 boit 	 e 	 	 gris 	 e 	 	,	endommage	la	 centrifuge 	 use 	 	,	 e 	 t 	 	le	programme	nucléaire	iranien	est	 retard 	 é 	 	--	mission	 accompli 	 e 	 	.
+c'est	facile	,	non	?
+je	veux	vous	dire	comment	nous	avons	 dé 	 couvert 	 	ça	.
+quand	nous	avons	 commenc 	 é 	 	 no 	 s 	 	 recherche 	 s 	 	sur	stuxnet	il	y	a	6	 moi 	 s 	 	,	on	 igno 	 rait 	 	 complète 	 ment 	 	le	but	de	la	chose	.
+la	 seul 	 e 	 	chose	 qu' 	 on 	 	 s 	 avait 	 	est	très	très	 complex 	 e 	 	dans	la	 parti 	 e 	 	windows	,	la	 parti 	 e 	 	du	 dro 	 p 	 per 	 	,	elle	 utilis 	 ait 	 	de	 multi 	 ple 	 s 	 	_UNK_	à	jour	zéro	.
+ e 	 t 	 	ce	 dro 	 p 	 per 	 	 sembla 	 it 	 	 voul 	 oir 	 	faire	quelque	chose	avec	 ce 	 s 	 	 boit 	 es 	 	 gris 	 es 	 	,	 ce 	 s 	 	 système 	 s 	 	de	 contrô 	 le 	 	en	temps	réel	.
+cela	a	donc	attiré	 not 	 re 	 	attention	,	 e 	 t 	 	nous	avons	 ent 	 repris 	 	un	projet	de	 labo 	 ratoire 	 	dans	 le 	 quel 	 	nous	avons	infecté	 not 	 re 	 	environnement	avec	stuxnet	 e 	 t 	 	 examine 	 r 	 	ce	truc	.
+ e 	 t 	 	puis	il	 s' 	 est 	 	passé	de	très	 drôle 	 s 	 	de	 chose 	 s 	 	.
+stuxnet	 s' 	 est 	 	 com 	 porté 	 	comme	un	rat	de	 labo 	 ratoire 	 	qui	 n' 	 aimait 	 	pas	 not 	 re 	 	fromage	--	il	le	_UNK_	,	 mai 	 s 	 	il	ne	 voul 	 ait 	 	pas	le	 mange 	 r 	 	.
+pour	moi	,	ça	 n' 	 avait 	 	pas	de	sens	.
+ e 	 t 	 	après	que	nous	ayons	expérimenté	avec	 différent 	 s 	 	 parfum 	 s 	 	de	fromage	,	je	me	suis	rendu	compte	,	 e 	 t 	 	bien	que	c'est	une	attaque	 dirigé 	 e 	 	.
+elle	est	 complète 	 ment 	 	 dirigé 	 e 	 	.
+le	 dro 	 p 	 per 	 	 rôd 	 e 	 	 active 	 ment 	 	dans	la	 boit 	 e 	 	 gris 	 e 	 	si	il	 trouv 	 e 	 	une	 con 	 figuration 	 	spécifique	,	 e 	 t 	 	même	si	le	programme	même	qu'il	essaye	 d' 	 infecte 	 r 	 	est	ouvert	sur	 ce 	 tte 	 	cible	.
+dans	le	cas	 con 	 traire 	 	,	stuxnet	ne	fait	rien	.
+cela	a	donc	 vrai 	 ment 	 	retenu	mon	attention	,	 e 	 t 	 	nous	avons	 commenc 	 é 	 	à	 travaille 	 r 	 	là	dessus	 pres 	 que 	 	en	permanence	,	parce	que	je	 pens 	 ais 	 	,	nous	ne	 s 	 avons 	 	pas	quelle	est	la	cible	.
+elle	pourrait	être	,	 dis 	 ons 	 	par	exemple	,	une	 central 	 e 	 	aux	etats	-	 uni 	 s 	 	,	ou	une	usine	chimique	en	allemagne	.
+il	 val 	 ait 	 	donc	 mi 	 eux 	 	que	nous	 trouv 	 ions 	 	 rapide 	 ment 	 	quelle	était	la	cible	.
+nous	avons	donc	extrait	 e 	 t 	 	_UNK_	le	code	 d' 	 attaque 	 	,	 e 	 t 	 	nous	avons	 dé 	 couvert 	 	qu'il	est	structuré	en	deux	 bombe 	 s 	 	 numér 	 iques 	 	--	une	plus	petite	 e 	 t 	 	une	plus	 grand 	 e 	 	.
+ e 	 t 	 	nous	avons	vu	aussi	 qu' 	 elles 	 	 s 	 ont 	 	 conçu 	 es 	 	de	façon	très	 professionnel 	 le 	 	par	des	 gen 	 s 	 	qui	avaient	évidemment	des	 informat 	 ions 	 	de	 l' 	 intérieur 	 	.
+ils	 connais 	 s 	 aient 	 	tous	les	 détail 	 s 	 	 e 	 t 	 	les	 octet 	 s 	 	 qu'il 	 s 	 	 dev 	 aient 	 	attaquer	.
+ils	 connais 	 s 	 aient 	 	sans	doute	même	la	 pointu 	 re 	 	de	 l' 	 administ 	 rateur 	 	.
+ils	 s 	 a 	 vent 	 	donc	tout	.
+ e 	 t 	 	si	vous	avez	entendu	dire	que	le	 dro 	 p 	 per 	 	de	stuxnet	est	 complex 	 e 	 	 e 	 t 	 	high	-	tech	,	 permette 	 z 	 	-	moi	de	vous	dire	 ce 	 ci 	 	;	la	charge	utile	,	c'est	du	très	haut	niveau	.
+c'est	bien	au	dessus	de	tout	ce	que	nous	avons	vu	auparavant	.
+vous	voyez	ici	un	échantillon	du	code	 d' 	 attaque 	 	même	.
+nous	 parl 	 ons 	 	de	--	environ	15000	 ligne 	 s 	 	de	code	.
+ca	ressemble	assez	à	du	 lan 	 gage 	 	_UNK_	à	 l' 	 ancienne 	 	.
+ e 	 t 	 	je	veux	vous	dire	comment	nous	avons	été	en	mesure	de	 comprend 	 re 	 	ce	code	.
+donc	ce	que	nous	 cher 	 chi 	 ons 	 	c'est	 d' 	 abord 	 	les	 appel 	 s 	 	de	 fonction 	 s 	 	système	,	parce	que	nous	 s 	 avons 	 	ce	 qu'il 	 s 	 	font	.
+ e 	 t 	 	 en 	 suite 	 	nous	 cher 	 chi 	 ons 	 	les	_UNK_	 e 	 t 	 	les	 structure 	 s 	 	de	 donné 	 es 	 	 e 	 t 	 	nous	 essay 	 ions 	 	de	les	mettre	en	 re 	 lation 	 	avec	le	monde	réel	--	avec	des	 cible 	 s 	 	 potentiel 	 les 	 	du	monde	réel	.
+nous	avons	donc	besoin	de	 théo 	 ries 	 	de	 cible 	 s 	 	que	nous	 pouv 	 ons 	 	 prouve 	 r 	 	ou	 réfu 	 ter 	 	.
+pour	obtenir	 ce 	 s 	 	 théo 	 ries 	 	de	 cible 	 s 	 	,	nous	nous	 sou 	 venons 	 	que	c'est	 vrai 	 ment 	 	du	 sabot 	 age 	 	_UNK_	,	ce	doit	être	une	cible	de	 grand 	 e 	 	 val 	 eur 	 	,	 e 	 t 	 	c'est	le	plus	 vraisemblable 	 ment 	 	situé	en	iran	,	parce	que	c'est	là	que	la	 plu 	 part 	 	des	 infection 	 s 	 	ont	été	_UNK_	.
+on	ne	 trouv 	 e 	 	pas	plusieurs	 milli 	 er 	 s 	 	de	 cible 	 s 	 	dans	 ce 	 tte 	 	zone	.
+ca	 s 	 e 	 	réduit	en	gros	à	la	 central 	 e 	 	nucléaire	de	_UNK_	 e 	 t 	 	à	 l' 	 usine 	 	 d' 	 enrichi 	 ssement 	 	 d' 	 ura 	 nium 	 	de	natanz	.
+alors	j'ai	dit	à	mon	assistant	,	``	 trouv 	 e 	 	moi	une	liste	de	tous	les	 expert 	 s 	 	en	 centrifuge 	 uses 	 	 e 	 t 	 	 central 	 es 	 	 électrique 	 s 	 	dans	 not 	 re 	 	base	de	 client 	 s 	 	.	``
+ e 	 t 	 	je	leur	ai	 télé 	 phon 	 é 	 	 e 	 t 	 	je	les	ai	_UNK_	dans	un	effort	 d' 	 associer 	 	leur	expertise	à	ce	que	nous	avons	trouvé	dans	le	code	 e 	 t 	 	les	 donné 	 es 	 	.
+ e 	 t 	 	ça	a	 plu 	 tôt 	 	bien	marché	.
+nous	avons	donc	été	en	mesure	 d' 	 associer 	 	la	petite	ogive	 numér 	 ique 	 	au	 contrô 	 le 	 	du	rotor	.
+le	rotor	est	 ce 	 tte 	 	 parti 	 e 	 	mobile	dans	la	 centrifuge 	 use 	 	,	 ce 	 t 	 	objet	noir	que	vous	voyez	.
+ e 	 t 	 	si	vous	 manipul 	 ez 	 	la	vitesse	de	ce	rotor	,	vous	êtes	en	fait	capable	de	 craque 	 r 	 	 vot 	 re 	 	rotor	 e 	 t 	 	 final 	 ement 	 	faire	même	 explose 	 r 	 	la	_UNK_	.
+ce	que	nous	avons	vu	aussi	c'est	que	le	but	de	 l' 	 attaque 	 	était	 vrai 	 ment 	 	 qu' 	 elle 	 	soit	 lent 	 e 	 	 e 	 t 	 	progressive	--	dans	un	effort	évident	de	 rend 	 re 	 	les	 technicien 	 s 	 	de	maintenance	 fou 	 s 	 	,	 e 	 t 	 	 qu'il 	 s 	 	ne	soit	pas	en	mesure	de	 comprend 	 re 	 	 rapide 	 ment 	 	ce	qui	 s 	 e 	 	passe	.
+la	 grand 	 e 	 	ogive	 numér 	 ique 	 	--	nous	avons	 essay 	 é 	 	en	 regard 	 ant 	 	de	très	près	les	 donné 	 es 	 	 e 	 t 	 	 leur 	 s 	 	 structure 	 s 	 	.
+donc	par	exemple	,	le	chiffre	164	ressort	 vrai 	 ment 	 	dans	ce	code	;	on	ne	peut	pas	ne	pas	le	voir	.
+j'ai	 ent 	 repris 	 	des	 recherche 	 s 	 	dans	la	 littér 	 a 	 ture 	 	scientifique	sur	la	façon	 do 	 nt 	 	 ce 	 s 	 	 centrifuge 	 uses 	 	 s 	 ont 	 	en	fait	 construit 	 es 	 	à	natanz	 e 	 t 	 	j'ai	trouvé	 qu' 	 elles 	 	 s 	 ont 	 	_UNK_	en	ce	 qu' 	 on 	 	appelle	une	cascade	,	 e 	 t 	 	 cha 	 que 	 	cascade	 con 	 t 	 ient 	 	164	 centrifuge 	 uses 	 	.
+cela	prend	donc	tout	son	sens	,	ça	colle	.
+ e 	 t 	 	c'est	encore	 mi 	 eux 	 	 en 	 suite 	 	.
+ ce 	 s 	 	 centrifuge 	 uses 	 	en	iran	 s 	 ont 	 	_UNK_	en	15	 stade 	 s 	 	 e 	 t 	 	 devine 	 z 	 	ce	 qu' 	 on 	 	a	trouvé	dans	le	code	 d' 	 attaque 	 	?
+une	structure	 quasi 	 ment 	 	identique	.
+donc	là	encore	,	ça	colle	 vrai 	 ment 	 	bien	.
+ e 	 t 	 	ça	nous	a	donné	une	très	 grand 	 e 	 	 confi 	 ance 	 	dans	ce	que	nous	avions	sous	les	yeux	.
+ne	me	faites	pas	dire	ce	que	je	n'ai	pas	dit	,	ça	ne	 s' 	 est 	 	pas	fait	si	 facile 	 ment 	 	.
+on	a	obtenu	 ce 	 s 	 	 résultat 	 s 	 	sur	plusieurs	 semaine 	 s 	 	de	travail	très	dur	.
+ e 	 t 	 	nous	 somme 	 s 	 	 sou 	 vent 	 	 tombé 	 s 	 	sur	des	 impasse 	 s 	 	 e 	 t 	 	il	a	fallu	nous	en	 re 	 mettre 	 	.
+ mai 	 s 	 	bon	,	nous	avons	donc	compris	que	les	deux	 ogive 	 s 	 	 numér 	 iques 	 	 vis 	 aient 	 	en	fait	une	 seul 	 e 	 	 e 	 t 	 	même	cible	,	 mai 	 s 	 	sous	des	 angle 	 s 	 	 différent 	 s 	 	.
+la	petite	ogive	 s' 	 attaque 	 	à	une	cascade	,	 e 	 t 	 	elle	accélère	les	 rotor 	 s 	 	puis	les	 ralenti 	 t 	 	,	 e 	 t 	 	la	 grand 	 e 	 	ogive	 s' 	 adresse 	 	à	6	 cascade 	 s 	 	 e 	 t 	 	elle	 manipul 	 e 	 	les	 val 	 ves 	 	.
+donc	dans	 l' 	 ensemble 	 	,	nous	 somme 	 s 	 	très	 confi 	 ant 	 s 	 	 d' 	 avoir 	 	en	fait	déterminé	quelle	est	la	cible	.
+c'est	natanz	,	 e 	 t 	 	natanz	 seul 	 ement 	 	.
+nous	 n' 	 avons 	 	donc	pas	à	nous	inquiéter	que	 d' 	 autre 	 s 	 	 cible 	 s 	 	 puis 	 s 	 ent 	 	être	 frappé 	 es 	 	par	stuxnet	.
+voici	 certain 	 s 	 	des	 truc 	 s 	 	très	 chou 	 ette 	 s 	 	que	nous	avons	vu	--	ça	m'a	 vrai 	 ment 	 	frappé	.
+là	en	bas	il	y	a	une	 boit 	 e 	 	 gris 	 e 	 	,	 e 	 t 	 	en	haut	vous	voyez	les	 centrifuge 	 uses 	 	.
+ e 	 t 	 	ce	que	ce	truc	fait	c'est	qu'il	_UNK_	les	 val 	 eurs 	 	des	_UNK_	des	 capte 	 urs 	 	--	donc	par	exemple	,	des	 capte 	 urs 	 	de	pression	 e 	 t 	 	des	 capte 	 urs 	 	de	 vib 	 ration 	 s 	 	--	 e 	 t 	 	il	 fourni 	 t 	 	du	code	légitime	,	qui	tourne	 tou 	 jour 	 s 	 	pendant	 l' 	 attaque 	 	,	avec	de	 fausse 	 s 	 	 donné 	 es 	 	 d' 	 input 	 	.
+ e 	 t 	 	en	fait	,	 ce 	 s 	 	 fausse 	 s 	 	 donné 	 es 	 	 d' 	 input 	 	 s 	 ont 	 	en	fait	 pré 	 enregistré 	 es 	 	dans	stuxnet	.
+donc	c'est	comme	dans	les	 film 	 s 	 	 hollywoodien 	 s 	 	quand	pendant	le	_UNK_	-	up	la	caméra	de	 surveil 	 lance 	 	 re 	 çoit 	 	des	 image 	 s 	 	vidéo	 pré 	 enregistré 	 es 	 	.
+c'est	 chou 	 ette 	 	,	non	?
+il	est	évident	que	 l' 	 idée 	 	ici	n'est	pas	 seul 	 ement 	 	de	 trompe 	 r 	 	les	 opérateur 	 s 	 	dans	la	 s 	 alle 	 	de	 contrô 	 le 	 	elle	est	en	fait	plus	 danger 	 euse 	 	 e 	 t 	 	agressive	.
+ l' 	 idée 	 	est	de	 contourne 	 r 	 	un	système	de	sécurité	 numér 	 ique 	 	.
+nous	avons	besoin	de	 système 	 s 	 	de	sécurité	 numér 	 iques 	 	là	où	un	opérateur	humain	ne	pourrait	pas	agir	assez	 rapide 	 ment 	 	.
+donc	,	par	exemple	,	dans	une	 central 	 e 	 	,	quand	la	grosse	turbine	à	vapeur	dépasse	la	vitesse	limite	,	il	vaut	ouvrir	les	 van 	 nes 	 	de	 dé 	 les 	 tage 	 	en	une	 milli 	 seconde 	 	.
+il	est	évident	que	ça	ne	peut	pas	être	fait	par	un	opérateur	humain	.
+c'est	donc	là	que	nous	avons	besoin	de	 système 	 s 	 	de	sécurité	 numér 	 iques 	 	.
+ e 	 t 	 	quand	ils	 s 	 ont 	 	 com 	 promis 	 	,	alors	ça	peut	 vrai 	 ment 	 	mal	tourné	.
+ vot 	 re 	 	 central 	 e 	 	peut	 explose 	 r 	 	.
+ e 	 t 	 	ni	 vo 	 s 	 	 opérateur 	 s 	 	ni	 vot 	 re 	 	système	de	sécurité	ne	s'en	_UNK_	.
+c'est	effrayant	.
+ mai 	 s 	 	il	y	a	 pi 	 re 	 	.
+ e 	 t 	 	c'est	très	important	,	ce	que	je	vais	dire	,	 ré 	 fléchissez 	 	-	y	.
+ ce 	 tte 	 	attaque	est	 géné 	 rique 	 	.
+elle	n'a	rien	à	voir	,	dans	les	 détail 	 s 	 	,	avec	les	 centrifuge 	 uses 	 	,	avec	 l' 	 ura 	 nium 	 	enrichi	.
+donc	,	elle	 marche 	 rait 	 	aussi	bien	,	par	exemple	,	dans	une	 central 	 e 	 	ou	dans	une	usine	de	construction	 auto 	 mobile 	 	.
+elle	est	 géné 	 rique 	 	.
+ e 	 t 	 	vous	 n' 	 avez 	 	pas	--	en	tant	_UNK_	--	vous	 n' 	 avez 	 	pas	besoin	 d' 	 introduire 	 	la	charge	utile	à	 l' 	 aide 	 	 d' 	 une 	 	clé	usb	,	comme	nous	 l' 	 avons 	 	vu	dans	le	cas	de	stuxnet	.
+vous	 pourri 	 ez 	 	aussi	employer	un	ver	conventionnel	pour	le	 répand 	 re 	 	.
+ simple 	 ment 	 	le	 répand 	 re 	 	aussi	 large 	 ment 	 	que	possible	.
+ e 	 t 	 	si	vous	le	faites	,	vous	vous	 retrouve 	 z 	 	avec	une	cyber	arme	de	destruction	massive	.
+c'est	la	 con 	 séquence 	 	à	 la 	 quelle 	 	nous	 dev 	 ons 	 	faire	face	.
+donc	 mal 	 heureuse 	 ment 	 	,	le	plus	grand	nombre	de	 cible 	 s 	 	pour	de	 t 	 elles 	 	 attaque 	 s 	 	n'est	pas	au	moyen	-	orient	.
+c'est	en	europe	,	au	etats	-	 uni 	 s 	 	 e 	 t 	 	au	japon	.
+donc	 tout 	 es 	 	les	 zone 	 s 	 	en	vert	,	ce	 s 	 ont 	 	les	 environnement 	 s 	 	riches	en	 cible 	 s 	 	.
+nous	 dev 	 ons 	 	faire	face	aux	 con 	 séquence 	 s 	 	,	 e 	 t 	 	nous	 fer 	 ions 	 	 mi 	 eux 	 	de	 commence 	 r 	 	à	nous	y	 prépare 	 r 	 	dès	 main 	 tenant 	 	.
+merci	.
+chris	anderson	:	j'ai	une	question	.
+ralph	,	on	a	beaucoup	dit	que	les	 gen 	 s 	 	 pense 	 nt 	 	que	le	mossad	est	la	 principal 	 e 	 	 ent 	 ité 	 	derrière	ça	.
+est	-	ce	 vot 	 re 	 	opinion	?
+ralph	langner	:	bon	,	vous	voulez	 vrai 	 ment 	 	entendre	ça	?
+oui	,	bon	.
+mon	opinion	,	c'est	que	le	mossad	est	 impliqu 	 é 	 	,	 mai 	 s 	 	que	la	puissance	 principal 	 e 	 	n'est	pas	israel	.
+la	force	 principal 	 e 	 	derrière	ça	est	donc	la	cyber	 super 	 puissance 	 	.
+il	 n' 	 y 	 	en	a	 qu'un 	 e 	 	,	 e 	 t 	 	ce	 s 	 ont 	 	les	etats	-	 uni 	 s 	 	--	 heureuse 	 ment 	 	,	 heureuse 	 ment 	 	.
+parce	 qu' 	 autre 	 ment 	 	,	 no 	 s 	 	 problème 	 s 	 	 s 	 e 	 raient 	 	encore	plus	 grand 	 s 	 	.
+ca	:	merci	de	nous	avoir	 terrifi 	 és 	 	.	merci	ralph	.
+

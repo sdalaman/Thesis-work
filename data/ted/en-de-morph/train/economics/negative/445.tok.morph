@@ -1,0 +1,188 @@
+how	can	we	investigate	 th 	 is 	 	 flor 	 a 	 	of	viruses	that	surround	us	,	and	aid	medicine	?
+how	can	we	turn	our	cumulative	knowledge	of	 vir 	 ology 	 	 in 	 to 	 	a	simple	,	hand	-	held	,	single	 diagnos 	 tic 	 	assay	?
+i	want	to	turn	 every 	 thing 	 	we	know	right	now	about	 detect 	 ing 	 	viruses	and	the	spectrum	of	viruses	that	are	out	there	 in 	 to 	 	,	let	's	say	,	a	small	chip	.
+when	we	 start 	 ed 	 	 think 	 ing 	 	about	 th 	 is 	 	project	--	how	we	would	make	a	single	 diagnos 	 tic 	 	assay	to	screen	for	all	 pathogen 	 s 	 	 simultaneous 	 ly 	 	--	well	,	there	's	some	 problem 	 s 	 	with	 th 	 is 	 	idea	.
+first	of	all	,	viruses	are	 pre 	 tty 	 	complex	,	but	they	're	 al 	 so 	 	 evolv 	 ing 	 	 ver 	 y 	 	fast	.
+ th 	 is 	 	is	a	picornavirus	.
+ picornavirus 	 es 	 	--	these	are	 thing 	 s 	 	that	include	the	common	cold	and	 poli 	 o 	 	,	 thing 	 s 	 	like	 th 	 is 	 	.
+you	're	looking	at	the	 out 	 side 	 	shell	of	the	virus	,	and	the	yellow	color	here	are	 t 	 hose 	 	 part 	 s 	 	of	the	virus	that	are	 evolv 	 ing 	 	 ver 	 y 	 	,	 ver 	 y 	 	fast	,	and	the	blue	 part 	 s 	 	are	not	 evolv 	 ing 	 	 ver 	 y 	 	fast	.
+when	people	think	about	making	pan	-	viral	 detect 	 ion 	 	 re 	 agent 	 s 	 	,	 usual 	 ly 	 	it	's	the	fast	-	 evolv 	 ing 	 	problem	that	's	an	issue	,	 be 	 cause 	 	how	can	we	detect	 thing 	 s 	 	if	they	're	 al 	 ways 	 	changing	?
+but	evolution	is	a	balance	:	where	you	have	fast	change	,	you	 al 	 so 	 	have	ultra	-	 conserv 	 ation 	 	--	 thing 	 s 	 	that	 al 	 most 	 	never	change	.
+and	so	we	 look 	 ed 	 	 in 	 to 	 	 th 	 is 	 	a	little	more	 care 	 fully 	 	,	and	i	'm	going	to	show	you	data	now	.
+ th 	 is 	 	is	just	some	stuff	you	can	do	on	the	computer	from	the	 desk 	 top 	 	.
+i	took	a	bunch	of	these	small	 picornavirus 	 es 	 	,	like	the	common	cold	,	like	 poli 	 o 	 	and	so	on	,	and	i	just	broke	them	down	 in 	 to 	 	small	 segment 	 s 	 	.
+and	so	took	 th 	 is 	 	first	 ex 	 ample 	 	,	which	is	 call 	 ed 	 	 coxsackie 	 virus 	 	,	and	just	break	it	 in 	 to 	 	small	 window 	 s 	 	.
+and	i	'm	 color 	 ing 	 	these	small	 window 	 s 	 	blue	if	 an 	 other 	 	virus	 share 	 s 	 	an	 ident 	 ical 	 	sequence	in	 it 	 s 	 	genome	to	that	virus	.
+these	 sequence 	 s 	 	right	up	here	--	which	do	n't	even	code	for	protein	,	by	the	way	--	are	 al 	 most 	 	 absolute 	 ly 	 	 ident 	 ical 	 	 a 	 cross 	 	all	of	these	,	so	i	could	use	 th 	 is 	 	sequence	 a 	 s 	 	a	marker	to	detect	a	wide	spectrum	of	viruses	,	 with 	 out 	 	 hav 	 ing 	 	to	make	 some 	 thing 	 	individual	.
+now	,	over	here	there	's	great	 divers 	 ity 	 	:	that	's	where	 thing 	 s 	 	are	 evolv 	 ing 	 	fast	.
+down	here	you	can	see	 s 	 lower 	 	evolution	:	less	 divers 	 ity 	 	.
+now	,	by	the	time	we	get	out	here	to	,	let	's	say	,	 a 	 cute 	 	bee	 para 	 lysis 	 	virus	--	 prob 	 ably 	 	a	bad	one	to	have	if	you	're	a	bee	--	-	 th 	 is 	 	virus	 share 	 s 	 	 al 	 most 	 	no	 similar 	 ity 	 	to	 coxsackie 	 virus 	 	,	but	i	can	guarantee	you	that	the	 sequence 	 s 	 	that	are	most	 conserv 	 ed 	 	among	these	viruses	on	the	right	-	hand	of	the	screen	are	in	 ident 	 ical 	 	 region 	 s 	 	right	up	here	.
+and	so	we	can	 encapsul 	 ate 	 	these	 region 	 s 	 	of	ultra	-	 conserv 	 ation 	 	through	evolution	--	how	these	viruses	 evolv 	 ed 	 	--	by	just	 choos 	 ing 	 	dna	 element 	 s 	 	or	rna	 element 	 s 	 	in	these	 region 	 s 	 	to	represent	on	our	chip	 a 	 s 	 	 detect 	 ion 	 	 re 	 agent 	 s 	 	.
+ok	,	so	that	's	what	we	did	,	but	how	are	we	going	to	do	that	?
+well	,	for	a	long	time	,	since	i	was	in	graduate	school	,	i	've	 be 	 en 	 	 mess 	 ing 	 	around	making	dna	 chip 	 s 	 	--	that	is	,	 print 	 ing 	 	dna	on	glass	.
+and	that	's	what	you	see	here	:	these	little	salt	 spot 	 s 	 	are	just	dna	 tack 	 ed 	 	onto	glass	,	and	so	i	can	put	 thousand 	 s 	 	of	these	on	our	glass	chip	and	use	them	 a 	 s 	 	a	 detect 	 ion 	 	 re 	 agent 	 	.
+we	took	our	chip	over	to	hewlett	-	packard	and	used	 the 	 ir 	 	atomic	force	 micro 	 scope 	 	on	one	of	these	 spot 	 s 	 	,	and	 th 	 is 	 	is	what	you	see	:	you	can	 actual 	 ly 	 	see	the	 strand 	 s 	 	of	dna	 ly 	 ing 	 	flat	on	the	glass	here	.
+so	,	what	we	're	 do 	 ing 	 	is	just	 print 	 ing 	 	dna	on	glass	--	little	flat	 thing 	 s 	 	--	and	these	are	going	to	be	 marker 	 s 	 	for	 pathogen 	 s 	 	.
+ok	,	i	make	little	 robot 	 s 	 	in	lab	to	make	these	 chip 	 s 	 	,	and	i	'm	 re 	 ally 	 	big	on	 dis 	 semi 	 nating 	 	technology	.
+if	you	've	got	 en 	 ough 	 	money	to	buy	just	a	camry	,	you	can	build	one	of	these	too	,	and	so	we	put	a	deep	how	-	to	guide	on	the	web	,	 total 	 ly 	 	free	,	with	 bas 	 ically 	 	order	-	off	-	the	-	shelf	 part 	 s 	 	.
+you	can	build	a	dna	array	machine	in	your	 gar 	 age 	 	.
+here	's	the	section	on	the	all	-	 import 	 ant 	 	 emerge 	 ncy 	 	stop	 s 	 witch 	 	.
+every	 import 	 ant 	 	machine	's	got	to	have	a	big	red	button	.
+but	 re 	 ally 	 	,	it	's	 pre 	 tty 	 	 ro 	 bust 	 	.
+you	can	 actual 	 ly 	 	be	making	dna	 chip 	 s 	 	in	your	 gar 	 age 	 	and	 de 	 cod 	 ing 	 	some	genetic	 program 	 s 	 	 pre 	 tty 	 	 rapid 	 ly 	 	.	it	's	a	lot	of	 f 	 un 	 	.
+and	so	what	we	did	--	and	 th 	 is 	 	is	a	 re 	 ally 	 	cool	project	--	we	just	 start 	 ed 	 	by	making	a	 respirator 	 y 	 	virus	chip	.
+i	 talk 	 ed 	 	about	that	--	you	know	,	that	 situ 	 ation 	 	where	you	go	 in 	 to 	 	the	clinic	and	you	do	n't	get	 diagnos 	 ed 	 	?
+well	,	we	just	put	 bas 	 ically 	 	all	the	human	 respirator 	 y 	 	viruses	on	one	chip	,	and	we	threw	in	 her 	 pe 	 s 	 	virus	for	good	measure	--	i	mean	,	why	not	?
+the	first	thing	you	do	 a 	 s 	 	a	scientist	is	,	you	make	 s 	 ure 	 	stuff	 work 	 s 	 	.
+and	so	what	we	did	is	,	we	take	tissue	culture	 cell 	 s 	 	and	infect	them	with	 vari 	 ous 	 	viruses	,	and	we	take	the	stuff	and	 fluorescent 	 ly 	 	label	the	 nuclei 	 c 	 	acid	,	the	genetic	material	that	 come 	 s 	 	out	of	these	tissue	culture	 cell 	 s 	 	--	 most 	 ly 	 	viral	stuff	--	and	stick	it	on	the	array	to	see	where	it	 stick 	 s 	 	.
+now	,	if	the	dna	 sequence 	 s 	 	match	,	they	'll	stick	together	,	and	so	we	can	look	at	 spot 	 s 	 	.
+and	if	 spot 	 s 	 	light	up	,	we	know	there	's	a	certain	virus	in	there	.
+that	's	what	one	of	these	 chip 	 s 	 	 re 	 ally 	 	 look 	 s 	 	like	,	and	these	red	 spot 	 s 	 	are	,	in	fact	,	 signal 	 s 	 	coming	from	the	virus	.
+and	each	spot	 represent 	 s 	 	a	different	family	of	virus	or	species	of	virus	.
+and	so	,	that	's	a	hard	way	to	look	at	 thing 	 s 	 	,	so	i	'm	just	going	to	encode	 thing 	 s 	 	 a 	 s 	 	a	little	 bar 	 code 	 	,	 group 	 ed 	 	by	family	,	so	you	can	see	the	 result 	 s 	 	in	a	 ver 	 y 	 	intuitive	way	.
+what	we	did	is	,	we	took	tissue	culture	 cell 	 s 	 	and	 infect 	 ed 	 	them	with	 adeno 	 virus 	 	,	and	you	can	see	 th 	 is 	 	little	yellow	 bar 	 code 	 	next	to	 adeno 	 virus 	 	.
+and	,	 like 	 wise 	 	,	we	 infect 	 ed 	 	them	with	 para 	 influenza 	 	-	3	--	that	's	a	 para 	 myxo 	 virus 	 	--	and	you	see	a	little	 bar 	 code 	 	here	.
+and	then	we	did	 respirator 	 y 	 	 sync 	 y 	 tial 	 	virus	.
+that	's	the	 scour 	 ge 	 	of	 day 	 care 	 	 center 	 s 	 	 every 	 where 	 	--	it	's	like	boogeremia	,	 bas 	 ically 	 	.
+you	can	see	that	 th 	 is 	 	 bar 	 code 	 	is	the	same	family	,	but	it	's	distinct	from	 para 	 influenza 	 	-	3	,	which	 give 	 s 	 	you	a	 ver 	 y 	 	bad	cold	.
+and	so	we	're	 get 	 ting 	 	 un 	 ique 	 	 signature 	 s 	 	,	a	 finger 	 print 	 	for	each	virus	.
+ poli 	 o 	 	and	rhino	:	they	're	in	the	same	family	,	 ver 	 y 	 	close	to	each	other	.
+rhino	's	the	common	cold	,	and	you	all	know	what	 poli 	 o 	 	is	,	and	you	can	see	that	these	 signature 	 s 	 	are	distinct	.
+and	kaposi	's	sarcoma	-	 associate 	 d 	 	 her 	 pe 	 s 	 	virus	 give 	 s 	 	a	nice	signature	down	here	.
+and	so	it	is	not	any	one	 strip 	 e 	 	or	 some 	 thing 	 	that	 tell 	 s 	 	me	i	have	a	virus	of	a	 part 	 icular 	 	type	here	;	it	's	the	 bar 	 code 	 	that	in	bulk	 represent 	 s 	 	the	whole	thing	.
+all	right	,	i	can	see	a	 rhino 	 virus 	 	--	and	here	's	the	blow	-	up	of	the	 rhino 	 virus 	 	's	little	 bar 	 code 	 	--	but	what	about	different	 rhino 	 viruses 	 	?
+how	do	i	know	which	 rhino 	 virus 	 	i	have	?
+there	're	102	known	 vari 	 ants 	 	of	the	common	cold	,	and	there	're	 on 	 ly 	 	102	 be 	 cause 	 	people	got	 bor 	 ed 	 	 collect 	 ing 	 	them	:	there	are	just	new	 one 	 s 	 	every	year	.
+and	so	,	here	are	four	different	 rhino 	 viruses 	 	,	and	you	can	see	,	even	with	your	eye	,	 with 	 out 	 	any	 f 	 ancy 	 	computer	pattern	-	 match 	 ing 	 	 re 	 cognition 	 	 soft 	 ware 	 	 algorithm 	 s 	 	,	that	you	can	distinguish	each	one	of	these	 bar 	 code 	 s 	 	from	each	other	.
+now	,	 th 	 is 	 	is	kind	of	a	cheap	shot	,	 be 	 cause 	 	i	know	what	the	genetic	sequence	of	all	these	 rhino 	 viruses 	 	is	,	and	i	in	fact	designed	the	chip	 express 	 ly 	 	to	be	able	to	tell	them	 a 	 part 	 	,	but	what	about	 rhino 	 viruses 	 	that	have	never	 s 	 een 	 	a	genetic	 sequence 	 r 	 	?
+we	do	n't	know	what	the	sequence	is	;	just	pull	them	out	of	the	field	.
+so	,	here	are	four	 rhino 	 viruses 	 	we	never	 k 	 new 	 	 any 	 thing 	 	about	--	no	one	's	ever	 sequence 	 d 	 	them	--	and	you	can	 al 	 so 	 	see	that	you	get	 un 	 ique 	 	and	 distinguish 	 able 	 	 pattern 	 s 	 	.
+you	can	imagine	building	up	some	library	,	 whet 	 her 	 	real	or	virtual	,	of	 finger 	 print 	 s 	 	of	 essential 	 ly 	 	every	virus	.
+but	that	's	,	 aga 	 in 	 	,	 shoot 	 ing 	 	fish	in	a	barrel	,	you	know	,	right	?
+you	have	tissue	culture	 cell 	 s 	 	.	there	are	a	ton	of	viruses	.
+what	about	real	people	?
+you	ca	n't	control	real	people	,	 a 	 s 	 	you	 prob 	 ably 	 	know	.
+you	have	no	idea	what	 some 	 one 	 	's	going	to	cough	 in 	 to 	 	a	cup	,	and	it	's	 prob 	 ably 	 	 re 	 ally 	 	complex	,	right	?
+it	could	have	 lot 	 s 	 	of	bacteria	,	it	could	have	more	than	one	virus	,	and	it	 certain 	 ly 	 	 ha 	 s 	 	host	genetic	material	.
+so	how	do	we	deal	with	 th 	 is 	 	?
+and	how	do	we	do	the	positive	control	here	?
+well	,	it	's	 pre 	 tty 	 	simple	.
+that	's	me	,	 get 	 ting 	 	a	 na 	 s 	 al 	 	 lav 	 age 	 	.
+and	the	idea	is	,	let	's	 experiment 	 ally 	 	 inocul 	 ate 	 	people	with	virus	.
+ th 	 is 	 	is	all	irb	-	approved	,	by	the	way	;	they	got	paid	.
+and	 bas 	 ically 	 	we	 experiment 	 ally 	 	 inocul 	 ate 	 	people	with	the	common	cold	virus	.
+or	,	even	better	,	let	's	just	take	people	right	out	of	the	 emerge 	 ncy 	 	room	--	 un 	 defined 	 	,	community	-	 acquir 	 ed 	 	 respirator 	 y 	 	tract	 infect 	 ions 	 	.
+you	have	no	idea	what	 walk 	 s 	 	in	through	the	door	.
+so	,	let	's	start	off	with	the	positive	control	first	,	where	we	know	the	person	was	 health 	 y 	 	.
+they	got	a	shot	of	virus	up	the	nose	,	let	's	see	what	 happen 	 s 	 	.
+day	zero	:	 noth 	 ing 	 	 happen 	 ing 	 	.
+they	're	 health 	 y 	 	;	they	're	clean	--	it	's	 amaz 	 ing 	 	.
+ actual 	 ly 	 	,	we	thought	the	 na 	 s 	 al 	 	tract	might	be	full	of	viruses	even	when	you	're	 walk 	 ing 	 	around	 health 	 y 	 	.
+it	's	 pre 	 tty 	 	clean	.	if	you	're	 health 	 y 	 	,	you	're	 pre 	 tty 	 	 health 	 y 	 	.
+day	two	:	we	get	a	 ver 	 y 	 	 ro 	 bust 	 	 rhino 	 virus 	 	pattern	,	and	it	's	 ver 	 y 	 	similar	to	what	we	get	in	the	lab	 do 	 ing 	 	our	tissue	culture	experiment	.
+so	that	's	great	,	but	 aga 	 in 	 	,	cheap	shot	,	right	?
+we	put	a	ton	of	virus	up	 th 	 is 	 	guy	's	nose	.	so	--	--	i	mean	,	we	 want 	 ed 	 	it	to	work	.	he	 re 	 ally 	 	had	a	cold	.
+so	,	how	about	the	people	who	walk	in	off	the	street	?
+here	are	two	 individual 	 s 	 	 represent 	 ed 	 	by	 the 	 ir 	 	 anonym 	 ous 	 	id	 code 	 s 	 	.
+they	both	have	 rhino 	 viruses 	 	;	we	've	never	 s 	 een 	 	 th 	 is 	 	pattern	in	lab	.
+we	 sequence 	 d 	 	part	of	 the 	 ir 	 	viruses	;	they	're	new	 rhino 	 viruses 	 	no	one	's	 actual 	 ly 	 	even	 s 	 een 	 	.
+remember	,	our	 evolution 	 ary 	 	-	 conserv 	 ed 	 	 sequence 	 s 	 	we	're	using	on	 th 	 is 	 	array	allow	us	to	detect	even	novel	or	 un 	 character 	 ized 	 	viruses	,	 be 	 cause 	 	we	pick	what	is	 conserv 	 ed 	 	 through 	 out 	 	evolution	.
+here	's	 an 	 other 	 	guy	.	you	can	play	the	 diagnos 	 is 	 	game	 your 	 self 	 	here	.
+these	different	 block 	 s 	 	represent	the	different	viruses	in	 th 	 is 	 	 para 	 myxo 	 virus 	 	family	,	so	you	can	kind	of	go	down	the	 block 	 s 	 	and	see	where	the	signal	is	.
+well	,	 do 	 es 	 	n't	have	 can 	 ine 	 	 dis 	 temper 	 	;	that	's	 prob 	 ably 	 	good	.
+but	by	the	time	you	get	to	block	nine	,	you	see	that	 respirator 	 y 	 	 sync 	 y 	 tial 	 	virus	.
+ may 	 be 	 	they	have	 kid 	 s 	 	.	and	then	you	can	see	,	 al 	 so 	 	,	the	family	member	that	's	related	:	rsvb	is	 show 	 ing 	 	up	here	.
+so	,	that	's	great	.
+here	's	 an 	 other 	 	individual	,	 s 	 ampl 	 ed 	 	on	two	 separat 	 e 	 	 day 	 s 	 	--	repeat	 visit 	 s 	 	to	the	clinic	.
+ th 	 is 	 	individual	 ha 	 s 	 	 para 	 influenza 	 	-	1	,	and	you	can	see	that	there	's	a	little	 strip 	 e 	 	over	here	for	sendai	virus	:	that	's	mouse	 para 	 influenza 	 	.
+the	genetic	 relationship 	 s 	 	are	 ver 	 y 	 	close	there	.	that	's	a	lot	of	 f 	 un 	 	.
+so	,	we	built	out	the	chip	.
+we	made	a	chip	that	 ha 	 s 	 	every	known	virus	ever	 discover 	 ed 	 	on	it	.
+why	not	?	every	plant	virus	,	every	insect	virus	,	every	marine	virus	.
+ every 	 thing 	 	that	we	could	get	out	of	genbank	--	that	is	,	the	national	 re 	 posit 	 ory 	 	of	 sequence 	 s 	 	.
+now	we	're	using	 th 	 is 	 	chip	.	and	what	are	we	using	it	for	?
+well	,	first	of	all	,	when	you	have	a	big	chip	like	 th 	 is 	 	,	you	need	a	little	bit	more	informatics	,	so	we	designed	the	system	to	do	 autom 	 atic 	 	 diagnos 	 is 	 	.
+and	the	idea	is	that	we	 simpl 	 y 	 	have	virtual	 pattern 	 s 	 	,	 be 	 cause 	 	we	're	never	going	to	get	 s 	 ample 	 s 	 	of	every	virus	--	it	would	be	 virtual 	 ly 	 	 im 	 possible 	 	.	but	we	can	get	virtual	 pattern 	 s 	 	,	and	 compar 	 e 	 	them	to	our	 observ 	 ed 	 	result	--	which	is	a	 ver 	 y 	 	complex	 mix 	 ture 	 	--	and	come	up	with	some	sort	of	score	of	how	 like 	 ly 	 	it	is	 th 	 is 	 	is	a	 rhino 	 virus 	 	or	 some 	 thing 	 	.
+and	 th 	 is 	 	is	what	 th 	 is 	 	 look 	 s 	 	like	.
+if	,	for	 ex 	 ample 	 	,	you	used	a	cell	culture	that	's	 chronic 	 ally 	 	 infect 	 ed 	 	with	papilloma	,	you	get	a	little	computer	 read 	 out 	 	here	,	and	our	algorithm	 say 	 s 	 	it	's	 prob 	 ably 	 	papilloma	type	18	.
+and	that	is	,	in	fact	,	what	these	 part 	 icular 	 	cell	 culture 	 s 	 	are	 chronic 	 ally 	 	 infect 	 ed 	 	with	.
+so	let	's	do	 some 	 thing 	 	a	little	bit	 hard 	 er 	 	.
+we	put	the	 beep 	 er 	 	in	the	clinic	.
+when	 some 	 body 	 	 show 	 s 	 	up	,	and	the	hospital	 do 	 es 	 	n't	know	what	to	do	 be 	 cause 	 	they	ca	n't	 diagnos 	 e 	 	it	,	they	call	us	.
+that	's	the	idea	,	and	we	're	setting	 th 	 is 	 	up	in	the	 ba 	 y 	 	area	.
+and	so	,	 th 	 is 	 	case	report	 happen 	 ed 	 	three	 week 	 s 	 	ago	.
+we	have	a	28	-	year	-	old	 health 	 y 	 	woman	,	no	travel	 histo 	 ry 	 	,	[	 un 	 clear 	 	]	,	 do 	 es 	 	n't	smoke	,	 do 	 es 	 	n't	drink	.
+10	-	day	 histo 	 ry 	 	of	 f 	 ever 	 s 	 	,	night	 sweat 	 s 	 	,	 blood 	 y 	 	sputum	--	she	's	 cough 	 ing 	 	up	blood	--	muscle	pain	.
+she	went	to	the	clinic	,	and	they	 g 	 ave 	 	her	 anti 	 biotic 	 s 	 	and	then	 s 	 ent 	 	her	home	.
+she	came	back	after	ten	 day 	 s 	 	of	 f 	 ever 	 	,	right	?	still	 ha 	 s 	 	the	 f 	 ever 	 	,	and	she	's	 hypo 	 xic 	 	--	she	 do 	 es 	 	n't	have	much	oxygen	in	her	 lung 	 s 	 	.
+they	did	a	ct	 s 	 can 	 	.
+a	normal	lung	is	all	sort	of	dark	and	black	here	.
+all	 th 	 is 	 	white	stuff	--	it	's	not	good	.
+ th 	 is 	 	sort	of	tree	and	bud	 form 	 ation 	 	 indic 	 ates 	 	there	's	 inflamm 	 ation 	 	;	there	's	 like 	 ly 	 	to	be	 infect 	 ion 	 	.
+ok	.	so	,	the	patient	was	 treat 	 ed 	 	then	with	a	third	-	generation	cephalosporin	 anti 	 biotic 	 	and	 dox 	 ycyc 	 line 	 	,	and	on	day	three	,	it	did	n't	help	:	she	had	 progress 	 ed 	 	to	 a 	 cute 	 	failure	.
+they	had	to	 in 	 tub 	 ate 	 	her	,	so	they	put	a	tube	down	her	throat	and	they	 beg 	 an 	 	to	 mechanic 	 ally 	 	 ventil 	 ate 	 	her	.
+she	could	no	 long 	 er 	 	breathe	for	 her 	 self 	 	.
+what	to	do	next	?	do	n't	know	.
+ s 	 witch 	 	 anti 	 biotic 	 s 	 	:	so	they	 s 	 witch 	 ed 	 	to	 an 	 other 	 	 anti 	 biotic 	 	,	it	's	not	clear	why	they	thought	she	had	the	flu	,	but	they	 s 	 witch 	 ed 	 	to	tamiflu	.
+and	on	day	six	,	they	 bas 	 ically 	 	threw	in	the	 to 	 wel 	 	.
+you	do	an	open	lung	biopsy	when	you	've	got	no	other	 option 	 s 	 	.
+there	's	an	eight	percent	 mortal 	 ity 	 	rate	with	just	 do 	 ing 	 	 th 	 is 	 	procedure	,	and	so	 bas 	 ically 	 	--	and	what	do	they	learn	from	it	?
+you	're	looking	at	her	open	lung	biopsy	.
+and	i	'm	no	 patho 	 logist 	 	,	but	you	ca	n't	tell	much	from	 th 	 is 	 	.
+all	you	can	tell	is	,	there	's	a	lot	of	 s 	 well 	 ing 	 	:	 bronchi 	 ol 	 itis 	 	.
+it	was	``	 un 	 reveal 	 ing 	 	``	:	that	's	the	 patho 	 logist 	 	's	report	.
+and	so	,	what	did	they	test	her	for	?
+they	have	 the 	 ir 	 	own	 test 	 s 	 	,	of	course	,	and	so	they	tested	her	for	over	70	different	 assay 	 s 	 	,	for	every	sort	of	bacteria	and	fungus	and	viral	assay	you	can	buy	off	the	shelf	:	sars	,	 meta 	 pneumo 	 virus 	 	,	hiv	,	rsv	--	all	these	.
+ every 	 thing 	 	came	back	negative	,	over	100,000	 dollar 	 s 	 	worth	of	 test 	 s 	 	.
+i	mean	,	they	went	to	the	max	for	 th 	 is 	 	woman	.
+and	 bas 	 ically 	 	on	hospital	day	eight	,	that	's	when	they	 call 	 ed 	 	us	.
+they	 g 	 ave 	 	us	 endo 	 trac 	 heal 	 	 aspir 	 ate 	 	--	you	know	,	a	little	fluid	from	the	throat	,	from	 th 	 is 	 	tube	that	they	got	down	there	--	and	they	 g 	 ave 	 	us	 th 	 is 	 	.
+we	put	it	on	the	chip	;	what	do	we	see	?	well	,	we	saw	 para 	 influenza 	 	-	4	.
+well	,	what	the	hell	's	 para 	 influenza 	 	-	4	?
+no	one	 test 	 s 	 	for	 para 	 influenza 	 	-	4	.	no	one	 care 	 s 	 	about	it	.
+in	fact	,	it	's	not	even	 re 	 ally 	 	 sequence 	 d 	 	that	much	.
+there	's	just	a	little	bit	of	it	 sequence 	 d 	 	.
+there	's	 al 	 most 	 	no	 epidemio 	 logy 	 	or	 stud 	 ies 	 	on	it	.
+no	one	would	even	consider	it	,	 be 	 cause 	 	no	one	had	a	clue	that	it	could	cause	 respirator 	 y 	 	failure	.
+and	why	is	that	?	just	lore	.	there	's	no	data	--	no	data	to	support	 whet 	 her 	 	it	 cause 	 s 	 	severe	or	mild	disease	.
+ clear 	 ly 	 	,	we	have	a	case	of	a	 health 	 y 	 	person	that	's	going	down	.
+ok	,	that	's	one	case	report	.
+i	'm	going	to	tell	you	one	last	thing	in	the	last	two	 minute 	 s 	 	that	's	 un 	 publish 	 ed 	 	--	it	's	going	to	come	out	 to 	 mor 	 row 	 	--	and	it	's	an	 interest 	 ing 	 	case	of	how	you	might	use	 th 	 is 	 	chip	to	find	 some 	 thing 	 	new	and	open	a	new	door	.
+ pro 	 state 	 	cancer	.	i	do	n't	need	to	give	you	 man 	 y 	 	 statistic 	 s 	 	about	 pro 	 state 	 	cancer	.	most	of	you	 al 	 ready 	 	know	it	:	third	 lead 	 ing 	 	cause	of	cancer	 death 	 s 	 	in	the	u.s	.
+ lot 	 s 	 	of	risk	 factor 	 s 	 	,	but	there	is	a	genetic	 pre 	 dis 	 position 	 	to	 pro 	 state 	 	cancer	.
+for	 may 	 be 	 	about	10	percent	of	 pro 	 state 	 	cancer	,	there	are	 folk 	 s 	 	that	are	 pre 	 dispos 	 ed 	 	to	it	.
+and	the	first	gene	that	was	 ma 	 pped 	 	in	 associ 	 ation 	 	 stud 	 ies 	 	for	 th 	 is 	 	,	early	-	 on 	 set 	 	 pro 	 state 	 	cancer	,	was	 th 	 is 	 	gene	 call 	 ed 	 	rnasel	.
+what	is	that	?	it	's	an	 anti 	 viral 	 	defense	enzyme	.
+so	,	we	're	 s 	 itt 	 ing 	 	around	and	 think 	 ing 	 	,	``	why	would	men	who	have	the	mutation	--	a	defect	in	an	 anti 	 viral 	 	defense	system	--	get	 pro 	 state 	 	cancer	?
+it	 do 	 es 	 	n't	make	sense	--	 un 	 less 	 	,	 may 	 be 	 	,	there	's	a	virus	?	``
+so	,	we	put	 tumor 	 s 	 	--	-	and	now	we	have	over	100	 tumor 	 s 	 	--	on	our	array	.
+and	we	know	who	's	got	 defect 	 s 	 	in	rnasel	and	who	 do 	 es 	 	n't	.
+and	i	'm	 show 	 ing 	 	you	the	signal	from	the	chip	here	,	and	i	'm	 show 	 ing 	 	you	for	the	block	of	retroviral	oligos	.
+and	what	i	'm	 tell 	 ing 	 	you	here	from	the	signal	,	is	that	men	who	have	a	mutation	in	 th 	 is 	 	 anti 	 viral 	 	defense	enzyme	,	and	have	a	tumor	,	often	have	--	40	percent	of	the	time	--	a	signature	which	 reveal 	 s 	 	a	new	 retro 	 virus 	 	.
+ok	,	that	's	 pre 	 tty 	 	wild	.	what	is	it	?
+so	,	we	clone	the	whole	virus	.
+first	of	all	,	i	'll	tell	you	that	a	little	 autom 	 ated 	 	 predict 	 ion 	 	told	us	it	was	 ver 	 y 	 	similar	to	a	mouse	virus	.
+but	that	 do 	 es 	 	n't	tell	us	too	much	,	so	we	 actual 	 ly 	 	clone	the	whole	thing	.
+and	the	viral	genome	i	'm	 show 	 ing 	 	you	right	here	?
+it	's	a	classic	 gam 	 ma 	 	 retro 	 virus 	 	,	but	it	's	 total 	 ly 	 	new	;	no	one	's	ever	 s 	 een 	 	it	before	.
+ it 	 s 	 	 close 	 st 	 	 relat 	 ive 	 	is	,	in	fact	,	from	 mic 	 e 	 	,	and	so	we	would	call	 th 	 is 	 	a	 xeno 	 tropic 	 	 retro 	 virus 	 	,	 be 	 cause 	 	it	's	 infect 	 ing 	 	a	species	other	than	 mic 	 e 	 	.
+and	 th 	 is 	 	is	a	little	 phyl 	 o 	 genetic 	 	tree	to	see	how	it	's	related	to	other	viruses	.
+we	've	 d 	 one 	 	it	for	 man 	 y 	 	 patient 	 s 	 	now	,	and	we	can	say	that	they	're	all	 in 	 dependent 	 	 infect 	 ions 	 	.
+they	all	have	the	same	virus	,	but	they	're	different	 en 	 ough 	 	that	there	's	reason	to	 believ 	 e 	 	that	they	've	 be 	 en 	 	 in 	 dependent 	 ly 	 	 acquir 	 ed 	 	.
+is	it	 re 	 ally 	 	in	the	tissue	?	and	i	'll	end	up	with	 th 	 is 	 	:	 y 	 es 	 	.
+we	take	 slice 	 s 	 	of	these	 bio 	 psies 	 	of	tumor	tissue	and	use	material	to	 actual 	 ly 	 	locate	the	virus	,	and	we	find	 cell 	 s 	 	here	with	viral	 particle 	 s 	 	in	them	.
+these	 guy 	 s 	 	 re 	 ally 	 	do	have	 th 	 is 	 	virus	.
+ do 	 es 	 	 th 	 is 	 	virus	cause	 pro 	 state 	 	cancer	?
+ noth 	 ing 	 	i	'm	 say 	 ing 	 	here	 im 	 plies 	 	 caus 	 ality 	 	.	i	do	n't	know	.
+is	it	a	link	to	 onco 	 genesis 	 	?	i	do	n't	know	.
+is	it	the	case	that	these	 guy 	 s 	 	are	just	more	susceptible	to	viruses	?
+could	be	.	and	it	might	have	 noth 	 ing 	 	to	do	with	cancer	.
+but	now	it	's	a	door	.
+we	have	a	strong	 associ 	 ation 	 	between	the	presence	of	 th 	 is 	 	virus	and	a	genetic	mutation	that	's	 be 	 en 	 	linked	to	cancer	.
+that	's	where	we	're	at	.
+so	,	it	 open 	 s 	 	up	more	 question 	 s 	 	than	it	 answer 	 s 	 	,	i	'm	 af 	 raid 	 	,	but	that	's	what	,	you	know	,	science	is	 re 	 ally 	 	good	at	.
+ th 	 is 	 	was	all	 d 	 one 	 	by	 folk 	 s 	 	in	the	lab	--	i	can	not	take	credit	for	most	of	 th 	 is 	 	.
+ th 	 is 	 	is	a	 collabor 	 ation 	 	between	 my 	 self 	 	and	don	.
+ th 	 is 	 	is	the	guy	who	 start 	 ed 	 	the	project	in	my	lab	,	and	 th 	 is 	 	is	the	guy	who	's	 be 	 en 	 	 do 	 ing 	 	 pro 	 state 	 	stuff	.
+thank	you	 ver 	 y 	 	much	.
+

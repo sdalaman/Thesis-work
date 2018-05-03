@@ -1,0 +1,89 @@
+jusqu'à_fr maintenant_fr ,_fr notre_fr communication_fr avec_fr les_fr machines_fr a_fr toujours_fr été_fr limitée_fr à_fr des_fr formes_fr conscientes_fr et_fr directes_fr ._fr
+que_fr ce_fr soit_fr quelque_fr chose_fr de_fr simple_fr comme_fr allumer_fr les_fr lumières_fr avec_fr un_fr interrupteur_fr ,_fr ou_fr même_fr aussi_fr complexe_fr que_fr la_fr programmation_fr robotique_fr ,_fr il_fr nous_fr a_fr toujours_fr fallu_fr donner_fr une_fr commande_fr à_fr une_fr machine_fr ,_fr ou_fr même_fr une_fr série_fr de_fr commandes_fr ,_fr pour_fr qu'elle_fr fasse_fr quelque_fr chose_fr pour_fr nous_fr ._fr
+par_fr ailleurs_fr ,_fr la_fr communication_fr entre_fr les_fr gens_fr ,_fr est_fr beaucoup_fr plus_fr complexe_fr et_fr beaucoup_fr plus_fr intéressante_fr ,_fr parce_fr que_fr nous_fr prenons_fr en_fr compte_fr beaucoup_fr plus_fr que_fr ce_fr qui_fr est_fr exprimé_fr explicitement_fr ._fr
+nous_fr observons_fr les_fr expressions_fr faciales_fr ,_fr le_fr langage_fr du_fr corps_fr ,_fr et_fr nous_fr pouvons_fr deviner_fr intuitivement_fr des_fr sentiments_fr et_fr des_fr émotions_fr en_fr dialoguant_fr avec_fr l'autre_fr ._fr
+cela_fr constitue_fr en_fr fait_fr une_fr grande_fr partie_fr de_fr notre_fr processus_fr décisionnel_fr ._fr
+notre_fr vision_fr est_fr d'introduire_fr ce_fr tout_fr nouveau_fr domaine_fr d'interaction_fr humaine_fr dans_fr l'interaction_fr homme_fr -_fr machine_fr ,_fr afin_fr que_fr l'ordinateur_fr puisse_fr comprendre_fr non_fr seulement_fr ce_fr que_fr vous_fr lui_fr demandez_fr de_fr faire_fr ,_fr mais_fr il_fr peut_fr également_fr réagir_fr à_fr vos_fr expressions_fr faciales_fr et_fr aux_fr expériences_fr émotionnelles_fr ._fr
+et_fr quelle_fr meilleure_fr façon_fr de_fr le_fr faire_fr que_fr par_fr l'interprétation_fr des_fr signaux_fr que_fr notre_fr cerveau_fr produit_fr naturellement_fr ,_fr notre_fr centre_fr de_fr contrôle_fr et_fr d'expérience_fr ._fr
+eh_fr bien_fr ,_fr cela_fr semble_fr une_fr bonne_fr idée_fr ,_fr mais_fr cette_fr tâche_fr ,_fr comme_fr bruno_fr l'a_fr mentionné_fr ,_fr n'est_fr pas_fr facile_fr pour_fr deux_fr raisons_fr principales_fr :_fr tout_fr d'abord_fr ,_fr les_fr algorithmes_fr de_fr détection_fr ._fr
+notre_fr cerveau_fr est_fr composé_fr de_fr milliards_fr de_fr neurones_fr actifs_fr ,_fr environ_fr 170_fr 000_fr km_fr de_fr long_fr en_fr combinant_fr les_fr _UNK__fr ._fr
+lorsque_fr ces_fr neurones_fr interagissent_fr ,_fr la_fr réaction_fr chimique_fr émet_fr une_fr impulsion_fr électrique_fr qui_fr peut_fr être_fr mesurée_fr ._fr
+la_fr majorité_fr de_fr notre_fr cerveau_fr fonctionnel_fr est_fr répartie_fr sur_fr la_fr couche_fr superficielle_fr externe_fr du_fr cerveau_fr ._fr
+et_fr pour_fr augmenter_fr la_fr superficie_fr disponible_fr pour_fr la_fr capacité_fr mentale_fr ,_fr la_fr surface_fr du_fr cerveau_fr est_fr très_fr repliée_fr ._fr
+et_fr ce_fr _UNK__fr cortical_fr présente_fr un_fr défi_fr de_fr taille_fr pour_fr l'interprétation_fr des_fr impulsions_fr électriques_fr superficielles_fr ._fr
+le_fr cortex_fr de_fr chaque_fr individu_fr est_fr replié_fr différemment_fr ,_fr un_fr peu_fr comme_fr une_fr empreinte_fr digitale_fr ._fr
+ainsi_fr ,_fr même_fr si_fr un_fr signal_fr peut_fr provenir_fr de_fr la_fr même_fr partie_fr fonctionnelle_fr du_fr cerveau_fr ,_fr au_fr moment_fr où_fr la_fr structure_fr a_fr été_fr pliée_fr ,_fr son_fr emplacement_fr physique_fr est_fr très_fr différente_fr d'un_fr individu_fr à_fr l'autre_fr ,_fr même_fr chez_fr de_fr vrais_fr jumeaux_fr ._fr
+il_fr n'y_fr a_fr plus_fr de_fr cohérence_fr dans_fr les_fr signaux_fr superficiels_fr ._fr
+notre_fr découverte_fr a_fr consisté_fr à_fr créer_fr un_fr algorithme_fr qui_fr déplie_fr le_fr cortex_fr ,_fr afin_fr que_fr nous_fr puissions_fr cartographier_fr les_fr signaux_fr plus_fr près_fr de_fr leur_fr source_fr ,_fr et_fr donc_fr de_fr pouvoir_fr travailler_fr sur_fr une_fr population_fr de_fr masse_fr ._fr
+le_fr deuxième_fr défi_fr est_fr le_fr périphérique_fr lui_fr -_fr même_fr pour_fr l'observation_fr des_fr ondes_fr cérébrales_fr ._fr
+des_fr mesures_fr eeg_fr impliquent_fr généralement_fr une_fr résille_fr avec_fr un_fr réseau_fr de_fr capteurs_fr ,_fr comme_fr celui_fr que_fr vous_fr pouvez_fr voir_fr ici_fr sur_fr la_fr photo_fr ._fr
+un_fr technicien_fr place_fr les_fr électrodes_fr sur_fr le_fr cuir_fr chevelu_fr avec_fr un_fr gel_fr conducteur_fr ou_fr de_fr la_fr pâte_fr et_fr le_fr plus_fr souvent_fr après_fr une_fr procédure_fr de_fr préparation_fr du_fr cuir_fr chevelu_fr par_fr _UNK__fr légère_fr ._fr
+et_fr c'est_fr assez_fr chronophage_fr ,_fr et_fr n'est_fr pas_fr le_fr procédé_fr le_fr plus_fr confortable_fr ._fr
+et_fr pour_fr couronner_fr le_fr tout_fr ,_fr ces_fr systèmes_fr coûtent_fr en_fr fait_fr des_fr dizaines_fr de_fr milliers_fr de_fr dollars_fr ._fr
+donc_fr ,_fr avec_fr cela_fr ,_fr je_fr tiens_fr à_fr inviter_fr sur_fr scène_fr evan_fr grant_fr ,_fr qui_fr est_fr l'un_fr des_fr orateurs_fr de_fr l'an_fr dernier_fr ,_fr qui_fr a_fr gentiment_fr accepté_fr de_fr m'aider_fr à_fr faire_fr la_fr démonstration_fr de_fr ce_fr que_fr nous_fr avons_fr été_fr en_fr mesure_fr de_fr développer_fr ._fr
+ainsi_fr ,_fr le_fr dispositif_fr que_fr vous_fr voyez_fr est_fr un_fr système_fr d'acquisition_fr _UNK__fr à_fr 14_fr -_fr canaux_fr ,_fr haute_fr -_fr fidélité_fr ._fr
+il_fr ne_fr nécessite_fr aucune_fr préparation_fr du_fr cuir_fr chevelu_fr ,_fr pas_fr de_fr gel_fr ou_fr de_fr pâte_fr conductrice_fr ._fr
+cela_fr ne_fr prend_fr que_fr quelques_fr minutes_fr à_fr mettre_fr et_fr pour_fr que_fr les_fr signaux_fr se_fr _UNK__fr ._fr
+il_fr est_fr également_fr sans_fr fil_fr ,_fr il_fr vous_fr donne_fr la_fr liberté_fr de_fr vous_fr déplacer_fr ._fr
+et_fr par_fr rapport_fr aux_fr dizaines_fr de_fr milliers_fr de_fr dollars_fr pour_fr un_fr système_fr traditionnel_fr eeg_fr ,_fr ce_fr casque_fr ne_fr coûte_fr que_fr quelques_fr centaines_fr de_fr dollars_fr ._fr
+passons_fr maintenant_fr aux_fr algorithmes_fr de_fr détection_fr ._fr
+ainsi_fr ,_fr les_fr expressions_fr du_fr visage_fr -_fr comme_fr je_fr l'ai_fr mentionné_fr auparavant_fr dans_fr des_fr expériences_fr émotionnelles_fr -_fr sont_fr en_fr fait_fr conçues_fr pour_fr fonctionner_fr immédiatement_fr avec_fr quelques_fr ajustements_fr de_fr sensibilité_fr disponibles_fr pour_fr la_fr personnalisation_fr ._fr
+mais_fr avec_fr le_fr temps_fr limité_fr dont_fr nous_fr disposons_fr ,_fr je_fr voudrais_fr vous_fr montrer_fr la_fr suite_fr cognitive_fr ,_fr qui_fr est_fr vous_fr donne_fr la_fr possibilité_fr de_fr déplacer_fr des_fr objets_fr virtuels_fr essentiellement_fr avec_fr votre_fr esprit_fr ._fr
+maintenant_fr ,_fr evan_fr débute_fr avec_fr ce_fr système_fr ,_fr donc_fr nous_fr devons_fr commencer_fr par_fr créer_fr un_fr nouveau_fr profil_fr pour_fr lui_fr ._fr
+il_fr n'est_fr évidemment_fr pas_fr joanne_fr -_fr donc_fr nous_fr allons_fr "_fr ajouter_fr un_fr utilisateur_fr ._fr "_fr
+evan_fr ._fr très_fr bien_fr ._fr
+donc_fr la_fr première_fr chose_fr que_fr nous_fr devons_fr faire_fr avec_fr la_fr suite_fr cognitive_fr est_fr de_fr commencer_fr par_fr la_fr formation_fr d'un_fr signal_fr neutre_fr ._fr
+avec_fr neutre_fr ,_fr il_fr n'y_fr a_fr rien_fr de_fr particulier_fr qu'evan_fr ait_fr à_fr faire_fr ._fr
+il_fr se_fr contente_fr d'être_fr là_fr ._fr il_fr est_fr détendu_fr ._fr
+et_fr l'idée_fr est_fr d'établir_fr une_fr base_fr de_fr référence_fr ou_fr l'état_fr normal_fr de_fr son_fr cerveau_fr ,_fr parce_fr que_fr chaque_fr cerveau_fr est_fr différent_fr ._fr
+cela_fr prend_fr huit_fr secondes_fr ._fr
+et_fr maintenant_fr que_fr c'est_fr fait_fr ,_fr on_fr peut_fr choisir_fr une_fr action_fr de_fr mouvement_fr ._fr
+donc_fr ,_fr evan_fr choisissez_fr quelque_fr chose_fr que_fr vous_fr pouvez_fr visualiser_fr clairement_fr dans_fr votre_fr esprit_fr ._fr
+evan_fr grant_fr :_fr "_fr tirer_fr "_fr ._fr
+tan_fr le_fr :_fr très_fr bien_fr ._fr donc_fr ,_fr nous_fr choisissons_fr "_fr tirer_fr "_fr ._fr
+donc_fr ,_fr l'idée_fr ici_fr maintenant_fr est_fr que_fr evan_fr doit_fr imaginer_fr l'objet_fr qui_fr vient_fr vers_fr lui_fr dans_fr l'écran_fr ._fr
+et_fr il_fr y_fr a_fr une_fr barre_fr de_fr progression_fr qui_fr défile_fr à_fr l'écran_fr pendant_fr qu'il_fr le_fr fait_fr ._fr
+la_fr première_fr fois_fr ,_fr rien_fr ne_fr se_fr passera_fr ,_fr parce_fr que_fr le_fr système_fr n'a_fr aucune_fr idée_fr de_fr comment_fr il_fr pense_fr à_fr "_fr tirer_fr "_fr ._fr
+mais_fr si_fr on_fr garde_fr cette_fr pensée_fr sur_fr toute_fr la_fr durée_fr de_fr huit_fr secondes_fr ._fr
+donc_fr :_fr un_fr ,_fr deux_fr ,_fr trois_fr ,_fr partez_fr ._fr
+okay_fr ._fr
+donc_fr ,_fr si_fr nous_fr acceptons_fr cela_fr ,_fr le_fr cube_fr est_fr vivant_fr ._fr
+donc_fr ,_fr nous_fr allons_fr voir_fr si_fr evan_fr peut_fr effectivement_fr essayer_fr d'imaginer_fr qu'il_fr le_fr tire_fr ._fr
+ah_fr ,_fr bravo_fr !_fr
+c'est_fr assez_fr incroyable_fr ._fr
+nous_fr avons_fr donc_fr un_fr peu_fr de_fr temps_fr ,_fr alors_fr je_fr vais_fr demander_fr à_fr evan_fr d'accomplir_fr une_fr tâche_fr vraiment_fr difficile_fr ._fr
+et_fr elle_fr est_fr difficile_fr car_fr il_fr s'agit_fr d'être_fr capable_fr de_fr visualiser_fr quelque_fr chose_fr qui_fr n'existe_fr pas_fr dans_fr notre_fr monde_fr physique_fr ._fr
+il_fr s'agit_fr de_fr "_fr disparaître_fr "_fr ._fr
+donc_fr ce_fr que_fr vous_fr voulez_fr -_fr du_fr moins_fr avec_fr des_fr actions_fr de_fr mouvement_fr ,_fr nous_fr le_fr faisons_fr tout_fr le_fr temps_fr ,_fr afin_fr que_fr vous_fr puissiez_fr le_fr visualiser_fr ._fr
+mais_fr avec_fr "_fr disparaître_fr "_fr ,_fr il_fr n'y_fr a_fr vraiment_fr pas_fr _UNK__fr ._fr
+donc_fr ,_fr evan_fr ,_fr ce_fr que_fr vous_fr voulez_fr faire_fr ici_fr c'est_fr d'imaginer_fr le_fr cube_fr qui_fr s'efface_fr lentement_fr ,_fr d'accord_fr ._fr
+même_fr genre_fr d'exercice_fr ._fr donc_fr :_fr un_fr ,_fr deux_fr ,_fr trois_fr ,_fr partez_fr ._fr
+très_fr bien_fr ._fr essayons_fr cela_fr ._fr
+oh_fr ,_fr mon_fr dieu_fr ._fr il_fr est_fr vraiment_fr trop_fr bon_fr ._fr
+essayons_fr encore_fr une_fr fois_fr ._fr
+eg_fr :_fr perte_fr de_fr concentration_fr ._fr
+tl_fr :_fr mais_fr nous_fr pouvons_fr voir_fr que_fr cela_fr fonctionne_fr réellement_fr ,_fr même_fr si_fr vous_fr ne_fr pouvez_fr tenir_fr pendant_fr peu_fr de_fr temps_fr ._fr
+comme_fr je_fr le_fr disais_fr ,_fr c'est_fr un_fr processus_fr très_fr difficile_fr d'imaginer_fr cela_fr ._fr
+et_fr ce_fr qui_fr est_fr génial_fr ,_fr c'est_fr que_fr nous_fr avons_fr seulement_fr donné_fr au_fr logiciel_fr un_fr exemple_fr de_fr la_fr façon_fr dont_fr il_fr pense_fr à_fr "_fr disparaître_fr "_fr ._fr
+comme_fr il_fr y_fr a_fr un_fr algorithme_fr qui_fr apprend_fr mécaniquement_fr dans_fr ce_fr --_fr merci_fr ._fr
+bravo_fr ._fr bravo_fr ._fr
+merci_fr ,_fr evan_fr ,_fr vous_fr êtes_fr un_fr merveilleux_fr ,_fr merveilleux_fr exemple_fr de_fr technologie_fr ._fr
+donc_fr comme_fr vous_fr avez_fr pu_fr le_fr voir_fr avant_fr ,_fr il_fr existe_fr un_fr système_fr de_fr mise_fr à_fr niveau_fr intégré_fr dans_fr ce_fr logiciel_fr afin_fr qu'evan_fr ,_fr ou_fr tout_fr autre_fr utilisateur_fr ,_fr se_fr _UNK__fr avec_fr le_fr système_fr ,_fr il_fr peut_fr continuer_fr à_fr ajouter_fr de_fr plus_fr en_fr plus_fr de_fr détections_fr ,_fr afin_fr que_fr le_fr système_fr commence_fr à_fr distinguer_fr entre_fr les_fr différentes_fr pensées_fr distinctes_fr ._fr
+et_fr une_fr fois_fr que_fr vous_fr avez_fr entraîné_fr les_fr détections_fr ,_fr ces_fr pensées_fr peuvent_fr être_fr attribuées_fr ou_fr cartographiées_fr pour_fr toute_fr plate_fr -_fr forme_fr informatique_fr ,_fr application_fr ou_fr un_fr périphérique_fr ._fr
+donc_fr ,_fr je_fr voudrais_fr vous_fr montrer_fr quelques_fr exemples_fr ,_fr parce_fr qu'il_fr y_fr a_fr beaucoup_fr d'applications_fr possibles_fr pour_fr cette_fr nouvelle_fr interface_fr ._fr
+dans_fr les_fr jeux_fr et_fr les_fr mondes_fr virtuels_fr ,_fr par_fr exemple_fr ,_fr vos_fr expressions_fr faciales_fr peuvent_fr naturellement_fr et_fr intuitivement_fr être_fr utilisées_fr pour_fr contrôler_fr un_fr avatar_fr ou_fr un_fr personnage_fr virtuel_fr ._fr
+évidemment_fr ,_fr vous_fr pouvez_fr découvrir_fr le_fr fantastique_fr de_fr la_fr magie_fr et_fr contrôler_fr le_fr monde_fr avec_fr votre_fr esprit_fr ._fr
+et_fr aussi_fr ,_fr les_fr couleurs_fr ,_fr l'éclairage_fr ,_fr le_fr son_fr et_fr les_fr effets_fr ,_fr peuvent_fr répondre_fr dynamiquement_fr à_fr votre_fr état_fr émotionnel_fr pour_fr augmenter_fr l'expérience_fr que_fr vous_fr vivez_fr ,_fr en_fr temps_fr réel_fr ._fr
+et_fr on_fr passe_fr à_fr certaines_fr applications_fr mises_fr au_fr point_fr par_fr les_fr développeurs_fr et_fr les_fr chercheurs_fr du_fr monde_fr entier_fr ,_fr avec_fr des_fr robots_fr et_fr des_fr machines_fr simples_fr ,_fr par_fr exemple_fr -_fr dans_fr ce_fr cas_fr ,_fr le_fr pilotage_fr d'un_fr hélicoptère_fr jouet_fr tout_fr simplement_fr en_fr pensant_fr "_fr soulever_fr "_fr dans_fr votre_fr esprit_fr ._fr
+la_fr technologie_fr peut_fr également_fr être_fr appliquée_fr dans_fr le_fr monde_fr réel_fr -_fr dans_fr cet_fr exemple_fr ,_fr une_fr maison_fr intelligente_fr ._fr
+vous_fr savez_fr ,_fr de_fr l'interface_fr utilisateur_fr du_fr système_fr de_fr contrôle_fr à_fr l'ouverture_fr des_fr rideaux_fr ou_fr la_fr fermeture_fr des_fr rideaux_fr ._fr
+et_fr bien_fr sûr_fr aussi_fr pour_fr l'éclairage_fr -_fr allumer_fr ou_fr éteindre_fr ._fr
+et_fr enfin_fr ,_fr pour_fr des_fr applications_fr qui_fr changent_fr vraiment_fr la_fr vie_fr ._fr
+comme_fr être_fr en_fr mesure_fr de_fr contrôler_fr un_fr fauteuil_fr roulant_fr électrique_fr ._fr
+dans_fr cet_fr exemple_fr ,_fr les_fr expressions_fr faciales_fr sont_fr cartographiées_fr par_fr rapport_fr à_fr la_fr commande_fr de_fr mouvement_fr ._fr
+homme_fr :_fr maintenant_fr cligne_fr à_fr droite_fr pour_fr aller_fr à_fr droite_fr ._fr
+maintenant_fr cligne_fr à_fr gauche_fr pour_fr revenir_fr en_fr arrière_fr gauche_fr ._fr
+maintenant_fr souris_fr pour_fr aller_fr tout_fr droit_fr ._fr
+tl_fr :_fr en_fr fait_fr ,_fr nous_fr --_fr je_fr vous_fr remercie_fr ._fr
+en_fr fait_fr nous_fr n'en_fr sommes_fr qu'à_fr gratter_fr la_fr surface_fr de_fr ce_fr qui_fr est_fr possible_fr aujourd'hui_fr ._fr
+et_fr avec_fr la_fr participation_fr de_fr la_fr communauté_fr ,_fr et_fr aussi_fr avec_fr la_fr participation_fr des_fr développeurs_fr et_fr des_fr chercheurs_fr du_fr monde_fr entier_fr ,_fr nous_fr espérons_fr que_fr vous_fr pouvez_fr nous_fr aider_fr à_fr façonner_fr les_fr futures_fr applications_fr de_fr cette_fr technologie_fr ._fr je_fr vous_fr remercie_fr beaucoup_fr ._fr

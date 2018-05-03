@@ -1,0 +1,130 @@
+mesdames	et	messieurs	,	voici	le	génome	humain	.
+le	chromosome	1	,	en	haut	à	gauche	.
+en	bas	à	droite	,	les	chromosomes	sexuels	.
+les	femmes	ont	2	exemplaires	de	ce	grand	chromosome	x	;	les	hommes	ont	un	x	et	,	bien	sûr	,	un	petit	exemplaire	du	y	.
+désolé	les	gars	,	mais	c'est	juste	une	toute	petite	chose	qui	vous	rend	différents	.
+si	vous	zoomez	sur	ce	génome	,	vous	voyez	,	bien	sûr	,	la	structure	en	double	hélice	;	le	code	de	la	vie	_UNK_	avec	ces	4	lettres	biochimiques	,	que	nous	appelons	bases	,	donc	:	a	,	c	,	g	et	t	.
+combien	y	en	-	t	-	il	dans	le	génome	humain	?	3	milliards	.
+est	-	ce	un	nombre	élevé	?
+tout	le	monde	peut	avancer	des	nombres	élevés	.
+mais	en	fait	,	si	je	plaçais	une	base	sur	chaque	pixel	de	cet	écran	de	1280	sur	800	,	il	me	faudrait	3000	écrans	pour	voir	le	génome	dans	sa	totalité	.
+c'est	donc	plutôt	élevé	.
+sans	doute	à	cause	de	cette	taille	,	certaines	personnes	--	toutes	,	en	fait	,	avec	des	chromosomes	y	--	ont	décidé	de	le	séquencer	.
+et	15	ans	et	à	peu	près	4	milliards	de	dollars	plus	tard	,	le	génome	a	été	séquencé	et	publié	.
+en	2003	,	la	version	définitive	a	été	publiée	,	et	ils	continuent	à	travailler	là	-	dessus	.
+tout	ça	effectué	sur	une	machine	qui	ressemble	à	cela	.
+cela	coûte	environ	1	dollar	par	base	;	une	méthode	vraiment	très	lente	.
+eh	bien	,	les	gars	,	je	suis	ici	pour	vous	dire	que	le	monde	a	complètement	changé	et	que	personne	ici	n'est	au	courant	.
+maintenant	,	nous	prenons	un	génome	,	nous	en	faisons	environ	50	copies	,	nous	les	coupons	en	petits	segments	de	50	bases	,	et	nous	les	séquençons	,	en	calcul	parallèle	de	masse	.
+nous	mettons	cela	dans	un	logiciel	,	nous	le	_UNK_	et	vous	racontons	son	histoire	.
+juste	pour	vous	donner	une	idée	de	ce	à	quoi	cela	ressemble	,	le	projet	génome	humain	:	3	gigabases	.	ok	.
+un	passage	sur	une	de	ces	machines	:	200	gigabases	par	semaine	.
+et	de	200	,	ça	va	passer	à	600	cet	été	,	et	rien	n'indique	un	ralentissement	.
+le	prix	d'une	base	,	le	prix	pour	séquencer	une	base	est	100	millions	de	fois	plus	bas	.
+c'est	comparable	à	un	plein	de	voiture	fait	en	1998	,	qui	,	en	ayant	attendu	jusqu'en	2011	,	permet	de	faire	2	allers	-	retours	jusqu'à	jupiter	.
+la	population	mondiale	,	le	nombre	de	pc	,	les	archives	de	la	documentation	médicale	,	la	loi	de	moore	,	l'ancienne	manière	de	séquencer	,	et	voici	toutes	ces	nouveautés	.
+on	est	sur	une	échelle	logarithmique	;	on	ne	voit	pas	souvent	des	courbes	qui	montent	comme	cela	.
+la	capacité	mondiale	à	séquencer	des	génomes	humains	est	d'environ	50	000	à	100	000	génomes	cette	année	.
+et	ceci	,	sur	la	base	des	machines	actuelles	.
+on	s'attend	à	ce	que	cela	double	,	triple	,	voire	quadruple	année	après	année	dans	un	futur	proche	.
+en	fait	,	il	existe	un	laboratoire	en	particulier	qui	représente	20	%	de	toute	cette	capacité	.
+c'est	l'institut	de	génomique	de	pékin	.
+les	chinois	sont	largement	en	train	de	gagner	cette	course	vers	la	nouvelle	lune	,	en	réalité	.
+qu'est	-	ce	que	cela	signifie	pour	la	médecine	?
+prenons	une	femme	de	37	ans	.
+elle	a	un	cancer	du	sein	de	phase	2	à	récepteurs	_UNK_	positifs	.
+on	la	traite	par	de	la	chirurgie	,	de	la	chimiothérapie	et	des	rayons	.
+elle	rentre	chez	elle	.
+deux	ans	après	,	elle	revient	avec	un	cancer	de	l'ovaire	en	phase	_UNK_	.
+malheureusement	,	on	la	traite	à	nouveau	par	la	chirurgie	et	la	chimiothérapie	.
+elle	revient	3	ans	après	,	elle	a	42	ans	:	le	cancer	de	l'ovaire	a	progressé	,	encore	plus	de	chimiothérapie	.
+six	mois	plus	tard	,	elle	revient	avec	une	leucémie	_UNK_	aiguë	.
+elle	a	des	problèmes	respiratoires	et	meurt	8	jours	plus	tard	.
+premièrement	,	la	manière	de	soigner	cette	femme	,	dans	à	peine	10	ans	,	ressemblera	à	la	_UNK_	d'autrefois	.
+et	cela	,	grâce	à	des	personnes	comme	mon	collègue	rick	wilson	de	l'institut	du	génome	à	l'université	de	washington	,	qui	ont	décidé	d'étudier	cette	femme	après	son	décès	.
+il	a	séquencé	,	il	a	pris	des	cellules	de	peau	,	de	peau	saine	,	de	la	moelle	épinière	cancéreuse	,	et	a	séquencé	les	deux	génomes	complets	en	quelques	semaines	,	facilement	.
+il	a	ensuite	comparé	ces	deux	génomes	sur	ordinateur	,	et	a	trouvé	,	entre	autres	,	un	effacement	,	un	effacement	de	2000	bases	sur	3	milliards	dans	un	gène	spécifique	appelé	p	53	.
+si	vous	avez	une	mutation	délétère	sur	ce	gène	,	vous	avez	90	%	de	chance	d'avoir	un	cancer	.
+malheureusement	,	cela	n'aide	pas	cette	femme	,	mais	cela	a	des	conséquences	significatives	pour	sa	famille	.
+je	m'explique	:	s'ils	ont	la	même	mutation	s'ils	font	ce	test	génétique	,	s'ils	le	comprennent	,	ils	pourront	faire	des	tests	réguliers	,	identifier	le	cancer	plus	tôt	et	peut	-	être	vivre	beaucoup	plus	longtemps	.
+laissez	-	moi	vous	présenter	les	jumeaux	beery	,	dont	la	paralysie	cérébrale	a	été	diagnostiquée	quand	ils	avaient	2	ans	.
+leur	mère	est	une	femme	très	courageuse	qui	trouvait	que	les	symptômes	ne	correspondaient	pas	,	et	par	des	efforts	héroïques	et	beaucoup	de	recherches	sur	internet	,	elle	a	pu	convaincre	la	communauté	médicale	qu'en	fait	,	ils	avaient	autre	chose	.
+ils	avaient	une	dystonie	sensible	à	la	l	-	dopa	.
+on	leur	a	donné	de	la	l	-	dopa	,	leur	état	s'est	amélioré	,	mais	pas	totalement	.
+il	restait	des	problèmes	graves	.
+il	se	trouve	que	ce	monsieur	sur	la	photo	est	joe	beery	,	qui	avait	suffisamment	de	chance	pour	diriger	une	société	appelé	life	technologies	.
+c'était	une	des	deux	sociétés	qui	réalisaient	ces	outils	de	séquencement	du	génome	en	masse	.
+il	a	fait	séquencer	celui	de	ses	enfants	.
+il	a	trouvé	une	série	de	mutations	sur	un	gène	appelé	_UNK_	,	responsable	,	entre	autres	,	de	la	production	de	sérotonine	.
+en	plus	de	la	l	-	dopa	,	ils	ont	donné	aux	enfants	un	médicament	précurseur	de	la	sérotonine	,	et	ils	sont	désormais	normaux	.
+je	vous	le	dis	,	cela	ne	serait	jamais	arrivé	sans	le	séquencement	complet	du	génome	.
+a	l'époque	--	il	y	a	quelques	années	--	cela	coûtait	100	000	$	.
+aujourd'hui	,	c'est	10	000.	l'an	prochain	,	ce	sera	1000	.
+dans	2	ans	à	peu	près	,	100	.
+voici	la	vitesse	à	laquelle	cela	évolue	.
+voici	le	jeune	nick	,	il	aime	batman	et	il	a	des	pistolets	.
+un	jour	,	nick	est	arrivé	à	l'hôpital	pour	enfants	avec	un	ventre	comme	_UNK_	par	la	famine	.
+ce	n'était	pas	qu'il	ne	mangeait	pas	,	c'était	que	,	quand	il	mangeait	,	ses	intestins	_UNK_	et	les	fèces	se	répandaient	dans	son	ventre	.
+une	centaine	d'opérations	plus	tard	,	il	dit	à	sa	mère	:	``	maman	,	prie	pour	moi	.	j'ai	tellement	mal	.	``
+son	pédiatre	avait	une	expérience	en	génétique	clinique	,	il	n'avait	aucune	idée	de	ce	qui	se	passait	,	mais	il	proposa	de	séquencer	le	génome	de	l'enfant	.
+on	trouva	une	seule	et	unique	mutation	dans	un	gène	responsable	du	contrôle	de	la	mort	cellulaire	programmée	.
+la	théorie	était	donc	qu'il	avait	une	sorte	de	réaction	immunitaire	contre	la	nourriture	principalement	,	c'est	une	réaction	naturelle	,	qui	engendre	une	sorte	_UNK_	.
+mais	le	gène	qui	régule	cela	est	endommagé	.
+ceci	entraîne	,	entre	autres	,	bien	sûr	,	un	traitement	pour	une	greffe	de	moelle	osseuse	,	qu'il	commence	.
+après	neuf	mois	d'un	traitement	épuisant	,	il	peut	manger	des	steaks	avec	de	la	sauce	piquante	.
+la	perspective	d'utiliser	la	génétique	comme	un	diagnostic	universel	est	désormais	d'actualité	.
+c'est	déjà	là	.
+cela	signifie	pour	chacun	de	nous	que	,	tous	ici	,	nous	pourrions	vivre	5	,	10	ou	20	ans	de	plus	,	juste	grâce	à	cela	.
+c'est	une	histoire	fantastique	,	sauf	si	on	pense	à	l'empreinte	de	l'humanité	sur	la	terre	et	à	notre	capacité	à	maintenir	la	production	de	nourriture	.
+il	se	trouve	que	la	même	technologie	est	également	utilisée	pour	créer	des	espèces	de	maïs	,	de	blé	,	de	soja	et	d'autres	hautement	résistantes	à	la	sécheresse	,	aux	inondations	,	aux	insectes	et	aux	pesticides	.
+écoutez	,	si	on	continue	à	croître	en	nombre	,	on	devra	continuer	à	faire	pousser	et	à	manger	des	ogm	,	c'est	la	seule	position	que	je	vais	tenir	aujourd'hui	.
+a	moins	qu'il	y	ait	quelqu'un	dans	la	salle	qui	soit	volontaire	pour	arrêter	de	manger	?
+non	,	personne	.
+voici	une	machine	à	écrire	,	essentielle	au	bureau	pendant	des	décennies	.
+en	fait	,	la	machine	à	écrire	a	été	remplacée	par	ça	.
+puis	,	des	versions	plus	larges	des	traitements	de	texte	sont	apparues	.
+mais	finalement	,	c'était	une	révolution	par	-	dessus	une	révolution	.
+c'est	bob	_UNK_	en	inventant	_UNK_	et	la	connexion	à	tous	ces	ordinateurs	qui	a	fondamentalement	tout	changé	.
+tout	d'un	coup	,	on	a	eu	netscape	,	puis	yahoo	puis	,	en	fait	,	toute	la	bulle	internet	.
+pas	de	quoi	s'inquiéter	,	on	a	été	rapidement	sauvé	par	l'ipod	,	facebook	et	,	en	fait	,	les	_UNK_	birds	.
+voici	où	l'on	est	aujourd'hui	.
+voici	la	révolution	génomique	aujourd'hui	.	voici	où	l'on	en	est	.
+j'aimerais	que	vous	réfléchissiez	à	ceci	:	qu'est	-	ce	que	cela	signifierait	si	ces	points	ne	représentaient	pas	les	bases	de	votre	génome	,	mais	les	connexions	à	des	génomes	sur	toute	la	planète	?
+je	voulais	récemment	souscrire	une	assurance	-	vie	.
+on	m'a	demandé	de	répondre	:	a.	je	n'ai	jamais	fait	de	test	génétique	.	b.	j'en	ai	fait	un	,	le	voilà	.
+et	c.	j'en	ai	fait	un	,	mais	je	ne	le	montre	pas	.
+heureusement	,	j'ai	pu	répondre	a	,	je	le	dis	honnêtement	au	cas	où	mon	agent	d'assurance	serait	en	train	d'écouter	.
+mais	que	se	serait	-	il	passé	si	j'avais	répondu	c	?
+les	applications	commerciales	de	la	génomique	vont	fleurir	.
+voulez	-	vous	savoir	si	vous	êtes	génétiquement	compatible	avec	votre	copine	?	sûrement	.
+le	séquencement	adn	sur	votre	iphone	?	il	y	a	une	application	.
+un	massage	génomique	personnalisé	?
+il	existe	déjà	un	laboratoire	qui	teste	_UNK_	334	du	gène	_UNK_	1	,	le	gène	de	l'adultère	.
+quiconque	ici	présent	avec	sa	moitié	,	peut	se	tourner	vers	elle	,	lui	frotter	la	bouche	,	envoyer	le	coton	-	tige	au	laboratoire	et	être	sûr	.
+voudriez	-	vous	vraiment	élire	un	président	dont	le	génome	décèle	une	_UNK_	?
+pensez	-	y	,	nous	sommes	en	2016	et	la	candidate	en	tête	publie	pas	seulement	ses	réductions	d'impôts	depuis	4	ans	,	mais	aussi	son	génome	personnel	.
+il	a	l'air	vraiment	super	.
+et	elle	défie	ses	compétiteurs	de	faire	la	même	chose	.
+que	pensez	-	vous	qu'il	adviendra	?
+pensez	-	vous	que	cela	aurait	aidé	john	mccain	?
+combien	ici	dans	la	salle	ont	le	même	nom	que	moi	,	resnick	?	levez	la	main	.
+quelqu'un	?	personne	.
+normalement	,	il	y	en	a	un	ou	deux	.
+le	père	de	mon	père	était	d'une	fratrie	de	10	.
+ils	se	détestaient	tous	les	uns	les	autres	.
+ils	sont	tous	partis	dans	une	direction	opposée	.
+il	est	fort	possible	que	je	sois	lié	à	chaque	resnick	que	je	rencontre	,	mais	je	ne	sais	pas	.
+imaginez	que	mon	génome	soit	identifié	,	dans	un	logiciel	,	avec	celui	d'un	cousin	germain	,	et	que	le	logiciel	soit	capable	de	les	comparer	et	de	faire	l'association	.
+simple	à	imaginer	.	ma	société	a	le	logiciel	pour	le	faire	aujourd'hui	.
+le	logiciel	est	capable	de	demander	aux	deux	leur	consentement	,	``	voudriez	-	vous	rencontrer	votre	cousin	germain	?	``
+si	nous	disions	tous	les	deux	oui	,	paf	!	bienvenue	sur	_UNK_	chromosome	.
+c'est	sans	doute	super	,	non	?
+vous	aurez	de	plus	grandes	réunions	de	famille	,	etc	.
+mais	peut	-	être	aussi	une	mauvaise	chose	.
+combien	de	pères	dans	la	salle	?	levez	la	main	.
+les	experts	pensent	que	1	à	3	%	d'entre	vous	ne	sont	pas	le	père	de	leur	enfant	.
+écoutez	ces	génomes	,	ces	23	chromosomes	,	ils	ne	représentent	en	rien	la	qualité	de	nos	relations	ou	la	nature	de	notre	société	,	pas	encore	du	moins	.
+comme	toute	technologie	,	c'est	vraiment	à	l'humanité	de	s'en	servir	pour	l'amélioration	de	l'espèce	,	ou	pas	.
+je	vous	prie	tous	de	vous	réveiller	,	de	vous	en	mêler	,	et	d'influencer	la	révolution	génomique	qui	est	en	train	de	se	passer	.
+merci	.
+

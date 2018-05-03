@@ -1,0 +1,203 @@
+le	temps	passe	vite	.
+il	y	a	 main 	 tenant 	 	 pres 	 que 	 	20	 an 	 s 	 	,	j'ai	voulu	 re 	 structure 	 r 	 	la	 man 	 ière 	 	 do 	 nt 	 	nous	utilisons	 l'in 	 formation 	 	,	la	 man 	 ière 	 	 do 	 nt 	 	nous	 travail 	 lons 	 	ensemble	--	 e 	 t 	 	j'ai	donc	inventé	la	toile	,	le	world	wide	web	.
+ e 	 t 	 	 main 	 tenant 	 	,	20	 an 	 s 	 	après	,	ici	à	ted	,	je	vous	demande	 vot 	 re 	 	aide	pour	une	nouvelle	 re 	 structu 	 ration 	 	.
+ re 	 tournons 	 	en	1989	:	 j' 	 avais 	 	écrit	à	 l' 	 époque 	 	un	mémo	sur	la	mise	en	place	 d' 	 un 	 	système	 d' 	 hypertext 	 e 	 	public	.
+ça	 n' 	 avait 	 	pas	intéressé	grand	-	monde	à	 l' 	 époque 	 	.
+ mai 	 s 	 	18	 moi 	 s 	 	plus	tard	--	vous	 s 	 avez 	 	,	les	 innovation 	 s 	 	 s 	 e 	 	 produis 	 ent 	 	comme	ça	--	18	 moi 	 s 	 	plus	tard	,	mon	patron	m'a	 autor 	 isé 	 	à	y	passer	du	temps	,	comme	un	 gen 	 re 	 	de	projet	 expéri 	 mental 	 	,	pour	 test 	 er 	 	un	 nou 	 vel 	 	ordinateur	que	nous	avions	obtenu	.
+ e 	 t 	 	il	me	 donn 	 a 	 	donc	le	temps	de	le	 code 	 r 	 	.
+ e 	 t 	 	j'ai	donc	écrit	ce	que	 dev 	 ait 	 	être	le	 lan 	 gage 	 	html	,	le	_UNK_	 hypertext 	 e 	 	--	http	--	 l' 	 idée 	 	des	liens	_UNK_	,	 ce 	 s 	 	 chose 	 s 	 	qui	commence	par	``	http	``	.
+j'ai	écrit	le	code	 e 	 t 	 	je	 l' 	 ai 	 	publié	.
+pourquoi	j'ai	fait	ça	?
+ e 	 t 	 	bien	parce	que	 j' 	 étais 	 	dans	un	état	de	 frust 	 ration 	 	.
+ j' 	 étais 	 	 frust 	 ré 	 	--	je	 travail 	 lais 	 	comme	ingénieur	 log 	 iciel 	 	dans	 ce 	 t 	 	immense	 e 	 t 	 	_UNK_	 labo 	 ratoire 	 	de	recherche	,	où	beaucoup	de	 gen 	 s 	 	venait	 travaille 	 r 	 	de	 par 	 tout 	 	dans	le	monde	.
+ils	 apport 	 aient 	 	chacun	des	 ordinateur 	 s 	 	 différent 	 s 	 	.
+ils	 utilis 	 aient 	 	aussi	des	 form 	 ats 	 	de	 donné 	 es 	 	 différent 	 s 	 	.
+ tout 	 e 	 	une	 pale 	 tte 	 	de	 système 	 s 	 	de	 document 	 ation 	 	 différent 	 s 	 	.
+donc	,	avec	 tout 	 e 	 	 ce 	 tte 	 	 divers 	 ité 	 	,	si	je	 voul 	 ais 	 	y	créer	quelque	chose	en	prenant	un	morceau	à	droite	,	un	morceau	à	gauche	,	je	 dev 	 ais 	 	à	 cha 	 que 	 	fois	me	 connecte 	 r 	 	à	une	nouvelle	machine	,	je	 dev 	 ais 	 	apprendre	à	utiliser	un	nouveau	 log 	 iciel 	 	,	 e 	 t 	 	 l'in 	 formation 	 	que	je	 voul 	 ais 	 	était	dans	un	nouveau	 forma 	 t 	 	de	 donné 	 es 	 	.
+ e 	 t 	 	ils	étaient	tous	 in 	 compatible 	 s 	 	.
+ c' 	 était 	 	donc	très	frustrant	.
+ ce 	 tte 	 	 frust 	 ration 	 	 pro 	 venait 	 	de	tout	ce	potentiel	enfermé	.
+en	fait	sur	tous	 ce 	 s 	 	 disque 	 s 	 	,	il	y	avait	des	 document 	 s 	 	.
+donc	si	on	 pouv 	 ait 	 	tous	les	intégrer	dans	un	 hypoth 	 étique 	 	grand	système	de	 document 	 ation 	 	virtuel	,	c'est	à	dire	sur	internet	,	alors	la	vie	 s 	 e 	 rait 	 	beaucoup	plus	simple	.
+ e 	 t 	 	quand	vous	avez	une	idée	comme	ça	,	elle	 s' 	 accroche 	 	vous	,	 e 	 t 	 	même	si	les	 gen 	 s 	 	 n' 	 ont 	 	pas	lu	 vot 	 re 	 	mémo	--	en	fait	il	l'a	lu	,	on	a	 re 	 trouvé 	 	 s 	 a 	 	copie	après	 s 	 a 	 	mort	.
+il	avait	écrit	``	vague	 mai 	 s 	 	intéressant	``	au	crayon	dans	un	coin	.
+ mai 	 s 	 	 d' 	 une 	 	façon	 général 	 e 	 	il	était	très	difficile	 d' 	 expliquer 	 	ce	 qu' 	 était 	 	le	web	.
+il	est	difficile	 d' 	 expliquer 	 	aujourd'hui	 com 	 bien 	 	 c' 	 était 	 	difficile	à	expliquer	à	ce	moment	-	là	.
+ mai 	 s 	 	quand	ted	a	été	 cré 	 e 	 	il	 n' 	 y 	 	avait	pas	de	web	,	des	 mot 	 s 	 	comme	``	 clique 	 r 	 	``	 n' 	 avait 	 	pas	le	même	sens	.
+je	 pouv 	 ais 	 	 montre 	 r 	 	un	bout	 d' 	 hypertext 	 e 	 	,	une	page	avec	des	liens	,	on	peut	 clique 	 r 	 	dessus	,	 e 	 t 	 	hop	,	on	 s 	 e 	 	retrouve	sur	une	autre	page	 hypertext 	 e 	 	.
+pas	 vrai 	 ment 	 	 impression 	 ant 	 	.
+on	avait	 dé 	 jà 	 	vu	ça	.	on	avait	vu	des	liens	 hypertext 	 es 	 	sur	des	_UNK_	.
+ce	qui	était	difficile	était	de	les	faire	imaginer	...
+alors	 imagine 	 z 	 	que	ce	 li 	 en 	 	peut	vous	emmener	sur	 n' 	 importe 	 	quel	document	que	vous	 puis 	 s 	 iez 	 	imaginer	.
+c'est	une	 b 	 arrière 	 	qui	est	très	difficile	à	 franchi 	 r 	 	pour	 certain 	 es 	 	 personne 	 s 	 	.
+ e 	 t 	 	bien	 quelque 	 s 	 	 personne 	 s 	 	ont	réussi	.
+alors	oui	.	 c' 	 était 	 	difficile	à	expliquer	 mai 	 s 	 	il	 exist 	 ait 	 	un	mouvement	de	fond	.
+ e 	 t 	 	c'est	ça	qui	aura	été	le	plus	sympa	.
+c'est	ça	qui	aura	été	le	plus	existant	.
+pas	la	technologie	,	pas	ce	que	les	 gen 	 s 	 	ont	fait	avec	,	 mai 	 s 	 	 vrai 	 ment 	 	la	communauté	,	 l' 	 esprit 	 	de	tous	 ce 	 s 	 	 gen 	 s 	 	qui	 s 	 e 	 	 réuni 	 ssaient 	 	,	 s' 	 envoya 	 ient 	 	des	 email 	 s 	 	.
+ c' 	 était 	 	comme	ça	à	 ce 	 tte 	 	époque	.
+ e 	 t 	 	vous	 s 	 avez 	 	quoi	...	c'est	marrant	...	 mai 	 s 	 	 d' 	 une 	 	 certain 	 e 	 	 man 	 ière 	 	,	c'est	comme	cela	à	nouveau	.
+je	 demand 	 ais 	 	à	tout	le	monde	plus	ou	moins	de	mettre	 s 	 es 	 	 document 	 s 	 	en	ligne	.
+``	 pourri 	 ez 	 	-	vous	mettre	 vo 	 s 	 	 document 	 s 	 	sur	ce	web	-	machin	?	``
+ e 	 t 	 	...	vous	 l' 	 avez 	 	fait	.
+merci	.
+ça	a	été	sympa	non	?
+ c' 	 était 	 	 vrai 	 ment 	 	intéressant	,	car	on	 s' 	 est 	 	aperçu	que	ce	qui	 s 	 e 	 	passait	sur	le	web	nous	 dé 	 passait 	 	 ré 	 ellement 	 	.
+il	 s' 	 est 	 	passé	bien	plus	de	 chose 	 s 	 	que	ce	que	nous	avions	imaginé	 lors 	 que 	 	nous	avions	créé	le	premier	site	web	.
+ main 	 tenant 	 	,	je	veux	que	vous	 mett 	 iez 	 	 vo 	 s 	 	 donné 	 es 	 	sur	le	web	!
+ce	qui	 s 	 e 	 	passe	c'est	qu'il	reste	encore	un	énorme	potentiel	 in 	 exploité 	 	.
+il	y	a	 tou 	 jour 	 s 	 	une	énorme	 frust 	 ration 	 	.
+car	nous	 n' 	 avons 	 	pas	de	 donné 	 es 	 	sur	le	web	en	tant	que	 donné 	 es 	 	.
+ qu' 	 est 	 	ce	que	ça	veut	dire	?	quelle	est	la	différence	entre	document	,	 donné 	 es 	 	...
+ e 	 t 	 	bien	les	 document 	 s 	 	vous	les	lisez	,	ok	?
+en	gros	vous	 pouv 	 ez 	 	les	 li 	 re 	 	,	 suiv 	 re 	 	les	liens	,	 mai 	 s 	 	c'est	tout	.
+avec	les	 donné 	 es 	 	vous	 pouv 	 ez 	 	faire	plein	de	 truc 	 s 	 	sur	un	ordinateur	.
+qui	a	ici	vu	la	 présent 	 ation 	 	de	hans	rosling	?
+cool	.	plein	de	 personne 	 s 	 	 l' 	 on 	 	vu	.
+c'est	 l' 	 une 	 	des	 meilleur 	 s 	 	 présent 	 ation 	 	de	ted	.
+hans	a	fait	 ce 	 tte 	 	 présent 	 ation 	 	dans	 la 	 quelle 	 	il	montre	dans	 différent 	 s 	 	pays	,	dans	 différent 	 es 	 	 couleur 	 s 	 	,	le	niveau	de	 re 	 venu 	 s 	 	sur	un	axe	avec	les	taux	de	 natal 	 ité 	 	sur	un	autre	,	 e 	 t 	 	le	tout	animé	à	travers	le	temps	.
+il	a	donc	 récupé 	 ré 	 	 ce 	 s 	 	 donné 	 es 	 	 e 	 t 	 	en	a	fait	une	 présent 	 ation 	 	qui	démonte	les	 idée 	 s 	 	 pré 	 conçu 	 es 	 	 qu' 	 ont 	 	les	 gen 	 s 	 	sur	 l' 	 économie 	 	des	pays	 émerge 	 nt 	 s 	 	.
+il	a	utilisé	un	slide	de	ce	type	.
+derrière	 ce 	 tte 	 	 présent 	 ation 	 	il	avait	plein	de	 donné 	 es 	 	.
+les	 donné 	 es 	 	c'est	terne	,	carré	,	 ennuy 	 eux 	 	...
+c'est	 l' 	 image 	 	que	nous	en	avons	,	n'est	-	ce	pas	?
+car	les	 donné 	 es 	 	ne	peuvent	pas	être	 utilisée 	 s 	 	 naturel 	 lement 	 	tel	quel	.
+ mai 	 s 	 	en	 ré 	 alité 	 	les	 donné 	 es 	 	 influence 	 nt 	 	en	 grand 	 e 	 	 parti 	 e 	 	 no 	 s 	 	 vie 	 s 	 	.
+cela	arrive	quand	 quel 	 qu'un 	 	prend	 ce 	 s 	 	 donné 	 es 	 	 e 	 t 	 	 cré 	 e 	 	quelque	chose	avec	.
+dans	 not 	 re 	 	cas	,	hans	a	 r 	 assemblé 	 	 tout 	 es 	 	les	 donné 	 es 	 	,	il	les	a	trouvé	 au 	 près 	 	des	 nation 	 s 	 	-	 uni 	 es 	 	,	sur	des	 site 	 s 	 	_UNK_	.
+il	les	a	 r 	 assemblé 	 es 	 	,	les	a	 combiné 	 es 	 	pour	donner	quelque	chose	de	plus	intéressant	 e 	 t 	 	alors	il	les	a	 inséré 	 es 	 	dans	son	 log 	 iciel 	 	,	créé	je	crois	par	son	 fil 	 s 	 	,	pour	donner	 ce 	 tte 	 	 merveille 	 use 	 	 présent 	 ation 	 	.
+ e 	 t 	 	hans	a	mis	en	avant	le	fait	qu'il	était	très	important	 d' 	 avoir 	 	beaucoup	de	 donné 	 es 	 	.
+ e 	 t 	 	je	suis	heureux	de	 l' 	 avoir 	 	vu	hier	 demand 	 ant 	 	encore	avec	insistance	plus	de	 donné 	 es 	 	.
+ e 	 t 	 	 main 	 tenant 	 	je	 voudrai 	 s 	 	que	vous	vous	 imagi 	 niez 	 	,	pas	 seul 	 ement 	 	2	 morceau 	 x 	 	de	 donné 	 es 	 	 connecté 	 s 	 	,	ou	même	6	,	 mai 	 s 	 	un	monde	où	tout	le	monde	aurait	mis	 s 	 es 	 	 donné 	 es 	 	sur	le	web	.
+ virtuel 	 lement 	 	tout	ce	que	vous	 pouv 	 ez 	 	imaginer	 s 	 e 	 rait 	 	sur	le	web	.
+ e 	 t 	 	j'ai	appelé	cela	``	linked	data	``	la	technologie	 s' 	 appelle 	 	``	linked	data	``	 e 	 t 	 	elle	est	 extrême 	 ment 	 	simple	.
+si	vous	voulez	mettre	quelque	chose	sur	le	web	,	il	y	a	3	 règle 	 s 	 	.
+la	première	chose	est	que	nous	utilisons	 tou 	 jour 	 s 	 	les	 adresse 	 s 	 	http	--	 ce 	 s 	 	 truc 	 s 	 	qui	 commence 	 nt 	 	par	http	:	--	 mai 	 s 	 	plus	 unique 	 ment 	 	pour	les	 document 	 s 	 	,	on	va	les	utiliser	pour	 dé 	 crire 	 	les	 document 	 s 	 	.
+on	va	les	utiliser	pour	des	 personne 	 s 	 	,	on	va	les	utiliser	pour	des	 li 	 eux 	 	,	on	va	les	utiliser	pour	 vo 	 s 	 	 produit 	 s 	 	,	pour	des	 événement 	 s 	 	.
+ n' 	 importe 	 	quel	concept	aura	un	nom	 commença 	 nt 	 	par	http	.
+deuxième	règle	:	si	 j' 	 utilise 	 	une	de	 ce 	 s 	 	 adresse 	 s 	 	http	le	web	va	me	 r 	 envoyer 	 	des	 informat 	 ions 	 	,	en	 utilis 	 ant 	 	le	 proto 	 cole 	 	http	,	des	 donné 	 es 	 	dans	un	 forma 	 t 	 	standard	 e 	 t 	 	ce	 s 	 ont 	 	des	 donné 	 es 	 	 utile 	 s 	 	que	 quel 	 qu'un 	 	 aimer 	 ait 	 	 connait 	 re 	 	,	à	propos	de	 ce 	 tte 	 	chose	:	si	c'est	un	événement	,	qui	 s' 	 y 	 	rend	?	si	c'est	un	personne	,	où	est	-	elle	née	?	ce	 gen 	 re 	 	de	 chose 	 s 	 	.
+donc	la	deuxième	règle	est	 qu' 	 on 	 	me	 r 	 envoie 	 	des	 informat 	 ions 	 	 important 	 es 	 	.
+la	troisième	règle	est	que	quand	je	récupère	 ce 	 s 	 	 informat 	 ions 	 	,	ce	ne	 s 	 era 	 	pas	 unique 	 ment 	 	le	poids	ou	la	 t 	 aille 	 	ou	le	lieu	de	naissance	de	 ce 	 tte 	 	personne	,	on	me	 fourni 	 ra 	 	 égale 	 ment 	 	des	 re 	 lation 	 s 	 	.
+les	 donné 	 es 	 	 s 	 ont 	 	des	 re 	 lation 	 s 	 	.
+c'est	ce	qui	est	intéressant	,	les	 donné 	 es 	 	 s 	 ont 	 	des	 re 	 lation 	 s 	 	.
+vous	avez	 ce 	 tte 	 	personne	née	à	berlin	,	berlin	est	en	allemagne	.
+dès	lors	qu'il	y	a	une	 re 	 lation 	 	,	 l' 	 élément 	 	lié	est	nommé	avec	un	nom	 commença 	 nt 	 	par	http	.
+ e 	 t 	 	à	 parti 	 r 	 	de	son	nom	http	je	peux	 accéd 	 er 	 	à	 ce 	 tte 	 	 re 	 s 	 source 	 	.
+je	peux	 accéd 	 er 	 	à	 ce 	 tte 	 	personne	,	 en 	 suite 	 	je	peux	 accéd 	 er 	 	à	la	ville	ou	elle	est	née	,	à	 s 	 a 	 	région	,	à	 s 	 a 	 	ville	,	à	la	population	de	 s 	 a 	 	ville	,	 e 	 t 	 	ainsi	de	suite	...	je	peux	 parcour 	 ir 	 	 tout 	 es 	 	 ce 	 s 	 	 chose 	 s 	 	.
+ e 	 t 	 	 voil 	 à 	 	.
+c'est	ça	,	``	linked	data	``	.
+il	y	a	 quelque 	 s 	 	 année 	 s 	 	j'ai	écrit	un	article	intitulé	linked	data	,	 e 	 t 	 	peu	de	temps	après	les	 chose 	 s 	 	ont	 commenc 	 é 	 	à	 bouge 	 r 	 	.
+nous	avons	eu	de	plus	en	plus	de	 ce 	 s 	 	 boit 	 es 	 	que	hans	 d 	 écrivait 	 	,	 e 	 t 	 	nous	avons	vu	de	plus	en	plus	de	 chose 	 s 	 	éclore	.
+ce	ne	 s 	 ont 	 	pas	que	des	 plante 	 s 	 	.
+ce	n'est	pas	 seul 	 ement 	 	une	racine	qui	fait	 viv 	 re 	 	une	plante	.
+pour	 chacun 	 e 	 	de	 ce 	 s 	 	 plante 	 s 	 	,	peu	importe	 s 	 a 	 	nature	,	une	 présent 	 ation 	 	,	une	analyse	,	 quel 	 qu'un 	 	 chercha 	 nt 	 	des	 tendance 	 s 	 	dans	les	 donné 	 es 	 	,	peut	 interroge 	 r 	 	 tout 	 es 	 	 ce 	 s 	 	 donné 	 es 	 	.
+ e 	 t 	 	 tout 	 es 	 	 ce 	 s 	 	 donné 	 es 	 	 s 	 ont 	 	 connecté 	 es 	 	.
+la	chose	 vrai 	 ment 	 	important	sur	les	 donné 	 es 	 	,	c'est	que	plus	vous	avez	de	 donné 	 es 	 	 connecté 	 s 	 	,	plus	elles	 de 	 viennent 	 	puissant	.
+linked	data	est	donc	apparu	,	le	concept	,	le	mème	a	été	 essaim 	 é 	 	.
+ e 	 t 	 	 quelque 	 s 	 	temps	après	,	chris	_UNK_	,	de	 l' 	 université 	 	libre	de	berlin	,	qui	fut	 l' 	 un 	 	des	 premier 	 s 	 	à	 publie 	 r 	 	des	 donné 	 es 	 	 interessant 	 es 	 	,	 remarqu 	 a 	 	que	wikipédia	,	 ce 	 tte 	 	 fam 	 euse 	 	encyclopédie	en	ligne	,	qui	 con 	 t 	 ient 	 	plein	de	 document 	 s 	 	 intéressant 	 s 	 	,	 posséd 	 ait 	 	 par 	 fois 	 	des	 encadré 	 s 	 	,	des	 sort 	 es 	 	de	 boit 	 es 	 	 d'in 	 formation 	 	.
+ e 	 t 	 	que	dans	 ce 	 s 	 	 boit 	 es 	 	 d'in 	 formation 	 	,	il	y	a	des	 donné 	 es 	 	.
+il	a	écrit	un	programme	pour	extraire	 ce 	 s 	 	 donné 	 es 	 	de	 wiki 	 pedia 	 	 e 	 t 	 	les	 stock 	 er 	 	au	 forma 	 t 	 	linked	data	sur	le	web	.
+il	a	appelé	son	site	dbpedia	.
+dbpedia	est	 représent 	 é 	 	au	 mi 	 lieu 	 	de	 ce 	 tte 	 	slide	par	le	rond	bleu	.
+ e 	 t 	 	si	vous	 continu 	 ez 	 	à	faire	des	 recherche 	 s 	 	sur	berlin	,	vous	vous	 apercev 	 ez 	 	qu'il	y	a	 d' 	 autre 	 s 	 	 zone 	 s 	 	de	 donné 	 es 	 	sur	berlin	,	 e 	 t 	 	elles	 s 	 ont 	 	 tout 	 es 	 	 connecté 	 es 	 	entre	elles	.
+donc	si	vous	 récupé 	 rez 	 	quelque	chose	de	dbpedia	sur	berlin	,	vous	vous	 retrouve 	 z 	 	à	 récupé 	 rer 	 	les	 autre 	 s 	 	 donné 	 es 	 	en	même	temps	.
+la	chose	incroyable	est	que	cela	commença	à	 grossi 	 r 	 	.
+c'est	à	nouveau	un	mouvement	de	fond	.
+ main 	 tenant 	 	examinons	 ce 	 s 	 	 donné 	 es 	 	.
+les	 donné 	 es 	 	 apparaisse 	 nt 	 	sous	 différent 	 es 	 	formes	.
+pensez	à	la	 divers 	 ité 	 	du	web	.	c'est	un	élément	primordial	pour	le	web	,	de	pouvoir	y	 ajoute 	 r 	 	 n' 	 importe 	 	quel	type	 d'in 	 formation 	 	.
+il	en	va	de	même	avec	les	 donné 	 es 	 	.	il	existe	plein	de	 type 	 s 	 	de	 donné 	 es 	 	.
+il	y	a	les	 donné 	 es 	 	 gouverne 	 mentale 	 s 	 	,	des	 donné 	 es 	 	 d' 	 entreprise 	 s 	 	,	qui	 s 	 ont 	 	 vrai 	 ment 	 	 essentiel 	 les 	 	,	les	 donné 	 es 	 	 scientifique 	 s 	 	,	les	 donné 	 es 	 	 personnel 	 les 	 	,	les	 donné 	 es 	 	 météoro 	 logique 	 s 	 	,	les	 donné 	 es 	 	 concern 	 ant 	 	les	 événement 	 s 	 	,	les	 donné 	 es 	 	des	 discussion 	 s 	 	,	les	 informat 	 ions 	 	,	 tout 	 es 	 	 sort 	 es 	 	de	 donné 	 es 	 	.
+je	vais	en	 mentionne 	 r 	 	 quelque 	 s 	 	 une 	 s 	 	pour	que	vous	ayez	une	idée	de	leur	 divers 	 ité 	 	,	 e 	 t 	 	ainsi	vous	 rend 	 re 	 	compte	de	leur	potentiel	.
+ comme 	 nçons 	 	par	les	 donné 	 es 	 	 gouverne 	 mentale 	 s 	 	.
+barak	obama	a	dit	dans	un	de	 s 	 es 	 	 dis 	 cours 	 	que	les	 donné 	 es 	 	du	 gouverne 	 ment 	 	américain	 s 	 e 	 ront 	 	 dispon 	 ible 	 s 	 	sur	internet	dans	des	 form 	 ats 	 	 accessible 	 s 	 	.
+ e 	 t 	 	 j' 	 espère 	 	 qu'il 	 s 	 	 utilise 	 ront 	 	le	 forma 	 t 	 	``	linked	data	``	.
+c'est	important	.	pourquoi	est	-	ce	important	?
+pas	 seul 	 ement 	 	pour	la	transparence	.	bien	sûr	la	transparence	est	 important 	 e 	 	.
+ mai 	 s 	 	 ce 	 s 	 	 donné 	 es 	 	 pro 	 viennent 	 	de	tous	les	 département 	 s 	 	 gouverne 	 ment 	 aux 	 	.
+alors	pensez	comment	 ce 	 s 	 	 donné 	 es 	 	 montre 	 nt 	 	comment	nous	 viv 	 ons 	 	en	 amér 	 ique 	 	.
+c'est	très	utile	,	ça	a	de	la	 val 	 eur 	 	,	je	peux	 l' 	 utiliser 	 	pour	ma	 socié 	 té 	 	,	en	tant	 qu' 	 enfant 	 	,	je	peux	 l' 	 utiliser 	 	pour	faire	mes	 de 	 voir 	 s 	 	.
+ce	que	je	dis	ici	,	c'est	 qu' 	 on 	 	peut	 rend 	 re 	 	la	gestion	du	monde	 meilleur 	 e 	 	,	en	 rend 	 ant 	 	 ce 	 s 	 	 donné 	 es 	 	 dispon 	 ible 	 s 	 	.
+en	fait	,	si	vous	êtes	 décid 	 eur 	 	,	 e 	 t 	 	vous	entendez	 parle 	 r 	 	de	 donné 	 es 	 	 gouverne 	 mentale 	 s 	 	 particulière 	 s 	 	,	vous	 ver 	 rez 	 	que	 ce 	 s 	 	 gen 	 s 	 	ont	 sou 	 vent 	 	tendance	à	les	 garde 	 r 	 	pour	eux	.
+hans	appelle	ça	le	_UNK_	de	base	de	 donné 	 es 	 	.
+vous	 s 	 er 	 rez 	 	 vot 	 re 	 	base	de	 donné 	 es 	 	.	vous	ne	la	laissez	pas	 parti 	 r 	 	tant	que	vous	 n' 	 en 	 	avez	pas	fait	un	joli	site	web	.
+ce	que	je	suggère	,	c'est	 qu' 	 avant 	 	de	...
+...	oui	,	faites	un	joli	site	!
+je	ne	peux	pas	vous	 empêche 	 r 	 	de	faire	un	joli	site	.
+faites	-	en	donc	un	joli	site	.	 mai 	 s 	 	avant	cela	,	donnez	-	nous	accès	aux	 donné 	 es 	 	non	 altéré 	 es 	 	.
+on	veut	des	 donné 	 es 	 	.
+on	veut	des	 donné 	 es 	 	non	 altéré 	 es 	 	.
+il	faut	que	nous	 demand 	 ions 	 	des	 donné 	 es 	 	 brute 	 s 	 	 main 	 tenant 	 	.
+ e 	 t 	 	je	vais	vous	 demande 	 r 	 	de	vous	 entraine 	 r 	 	.
+ pouv 	 ez 	 	vous	dire	``	raw	``	?
+audience	:	raw	!
+ pouv 	 ez 	 	vous	dire	``	data	``	?
+audience	:	data	!
+ pouv 	 ez 	 	vous	dire	``	now	``	?
+audience	:	now	!
+raw	data	now	!
+audience	:	raw	data	now	!
+ pratique 	 z 	 	-	le	,	c'est	important	.	car	vous	 n' 	 imagine 	 z 	 	pas	les	 excuse 	 s 	 	que	 trouv 	 ent 	 	les	 gen 	 s 	 	pour	 re 	 tenir 	 	 leur 	 s 	 	 donné 	 es 	 	pour	vous	 empêche 	 r 	 	 d' 	 y 	 	 accéd 	 er 	 	,	alors	même	que	vous	les	avez	 payé 	 es 	 	avec	 vo 	 s 	 	 impôt 	 s 	 	.
+ e 	 t 	 	ce	n'est	pas	 qu' 	 en 	 	 amér 	 ique 	 	.	c'est	la	même	chose	 par 	 tout 	 	dans	le	monde	.
+ e 	 t 	 	ce	n'est	pas	 unique 	 ment 	 	les	 gouverne 	 ment 	 s 	 	.	les	 entreprise 	 s 	 	 égale 	 ment 	 	.
+je	vais	juste	vous	faire	part	de	 quelque 	 s 	 	 idée 	 s 	 	sur	les	 donné 	 es 	 	...
+nous	 somme 	 s 	 	ici	à	ted	,	 e 	 t 	 	nous	 somme 	 s 	 	 particulière 	 ment 	 	conscient	des	 immense 	 s 	 	 challenge 	 s 	 	que	 l' 	 humanité 	 	doit	 re 	 lever 	 	.
+_UNK_	le	cancer	.	 comprend 	 re 	 	le	cerveau	pour	 traite 	 r 	 	l'alzheimer	.
+ comprend 	 re 	 	 l' 	 économie 	 	,	la	 rend 	 re 	 	plus	 s 	 table 	 	.
+ comprend 	 re 	 	comment	le	monde	fonctionne	.
+ceux	qui	vont	 résoud 	 re 	 	 ce 	 s 	 	 problème 	 s 	 	 s 	 ont 	 	des	 scientifique 	 s 	 	,	ils	ont	des	 tonne 	 s 	 	 d' 	 idée 	 s 	 	dans	leur	tête	,	ils	 essaye 	 nt 	 	de	les	communiquer	à	travers	le	web	.
+ mai 	 s 	 	beaucoup	de	 connaissance 	 s 	 	de	la	 ra 	 ce 	 	humaine	 s 	 e 	 	 trouv 	 ent 	 	 actuel 	 lement 	 	dans	des	 base 	 s 	 	de	 donné 	 es 	 	qui	ne	 s 	 ont 	 	pas	 actuel 	 lement 	 	 partag 	 ées 	 	.
+en	fait	si	vous	prenez	juste	un	domaine	comme	alzheimer	,	la	recherche	de	 médicament 	 s 	 	par	exemple	,	vous	vous	 apercev 	 ez 	 	qu'il	y	a	beaucoup	de	``	linked	data	``	qui	 apparaisse 	 nt 	 	car	les	 scientifique 	 s 	 	de	ce	domaine	 s 	 e 	 	 s 	 ont 	 	aperçu	que	 c' 	 était 	 	une	bonne	 man 	 ière 	 	de	sortir	de	 leur 	 s 	 	 silo 	 s 	 	.
+il	y	avait	des	 donné 	 es 	 	sur	le	génome	dans	 ce 	 tte 	 	base	de	 donné 	 es 	 	,	dans	ce	 bâti 	 ment 	 	,	 e 	 t 	 	il	y	avait	des	 donné 	 es 	 	sur	les	 protéine 	 s 	 	dans	une	autre	...
+ e 	 t 	 	 main 	 tenant 	 	ils	les	ont	 réuni 	 es 	 	comme	``	linked	data	``	 e 	 t 	 	 main 	 tenant 	 	ils	peuvent	poser	des	 question 	 s 	 	que	vous	ne	vous	 poser 	 iez 	 	pas	,	moi	non	plus	,	 mai 	 s 	 	eux	oui	...
+ quelle 	 s 	 	 protéine 	 s 	 	 s 	 ont 	 	 utilisée 	 s 	 	dans	la	_UNK_	des	 signa 	 ux 	 	 e 	 t 	 	qui	 s 	 ont 	 	en	rapport	avec	les	 neuro 	 nes 	 	_UNK_	?
+ e 	 t 	 	bien	vous	prenez	 ce 	 tte 	 	question	,	vous	la	mettez	dans	google	,	bien	-	sûr	il	 n' 	 y 	 	a	pas	de	page	sur	web	qui	répond	à	 ce 	 tte 	 	question	,	car	personne	ne	 s 	 e 	 	 l' 	 est 	 	 dé 	 jà 	 	posée	.
+vous	 récupé 	 rez 	 	_UNK_	 réponse 	 s 	 	,	 mai 	 s 	 	aucun	résultat	 utilis 	 able 	 	!
+vous	 interroge 	 z 	 	les	 donné 	 es 	 	 cumul 	 ées 	 	du	``	linked	data	``	:	32	 réponse 	 s 	 	,	 e 	 t 	 	 chacun 	 e 	 	 d' 	 elle 	 	est	une	protéine	qui	a	 ce 	 tte 	 	propriété	.
+ e 	 t 	 	vous	voyez	la	puissance	de	pouvoir	poser	 ce 	 s 	 	 question 	 s 	 	pour	un	scientifique	.
+des	 question 	 s 	 	qui	 cré 	 ent 	 	des	 pont 	 s 	 	entre	 différent 	 es 	 	 discipline 	 s 	 	.
+c'est	un	 change 	 ment 	 	radical	.
+c'est	 vrai 	 ment 	 	très	important	.
+ e 	 t 	 	les	 scientifique 	 s 	 	 l' 	 ont 	 	très	bien	compris	.
+les	 donné 	 es 	 	que	 d' 	 autre 	 s 	 	 scientifique 	 s 	 	ont	 collect 	 ées 	 	 s 	 ont 	 	 enfermé 	 es 	 	 e 	 t 	 	nous	 dev 	 ons 	 	les	 dé 	 livre 	 r 	 	pour	pouvoir	nous	 atte 	 ler 	 	à	 ce 	 s 	 	 grand 	 s 	 	 problème 	 s 	 	.
+si	je	 continu 	 e 	 	,	vous	allez	vous	dire	que	 tout 	 es 	 	les	 donné 	 es 	 	 pro 	 viennent 	 	des	 grosse 	 s 	 	 institution 	 s 	 	 e 	 t 	 	que	cela	n'a	rien	à	voir	avec	vous	.
+ e 	 t 	 	bien	cela	est	faux	.
+les	 donné 	 es 	 	 parle 	 nt 	 	de	 no 	 s 	 	 vie 	 s 	 	.
+vous	vous	 connecte 	 z 	 	sur	 vot 	 re 	 	réseau	social	favori	.
+vous	_UNK_	un	ami	,	 e 	 t 	 	hop	,	une	 re 	 lation 	 	,	une	 donné 	 e 	 	.
+vous	dites	:	 ce 	 tte 	 	photo	 représent 	 e 	 	 ce 	 tte 	 	personne	,	hop	,	une	 donné 	 e 	 	.
+ donné 	 es 	 	,	 donné 	 es 	 	,	 donné 	 es 	 	.
+a	 cha 	 que 	 	fois	que	vous	 fait 	 e 	 	quelque	chose	dans	un	réseau	social	,	le	site	 cré 	 e 	 	des	 donné 	 es 	 	 e 	 t 	 	les	utilise	,	les	_UNK_	,	 e 	 t 	 	rend	la	vie	des	 autre 	 s 	 	 utilisateur 	 s 	 	du	site	plus	 intéressant 	 e 	 	.
+ mai 	 s 	 	si	vous	allez	dans	un	autre	réseau	social	,	 dis 	 ons 	 	 spécial 	 isé 	 	dans	les	 voyage 	 s 	 	,	 e 	 t 	 	que	vous	voulez	envoyer	une	photo	à	 tout 	 es 	 	les	 personne 	 s 	 	de	ce	groupe	,	vous	ne	 pour 	 rez 	 	pas	passer	les	 mur 	 s 	 	.
+``	the	economist	``	a	écrit	un	article	sur	le	sujet	,	de	 nombre 	 ux 	 	 blogue 	 urs 	 	en	ont	parlé	.
+c'est	une	énorme	 frust 	 ration 	 	de	ne	pas	pouvoir	 dé 	 truire 	 	les	 silo 	 s 	 	 e 	 t 	 	apporter	de	_UNK_	entre	les	 ré 	 s 	 eaux 	 	sociaux	.
+nous	 dev 	 ons 	 	faire	ça	avec	le	``	linked	data	``	.
+un	dernier	type	de	 donné 	 es 	 	,	 e 	 t 	 	peut	-	être	le	plus	excitant	.
+pour	venir	ici	,	j'ai	utilisé	openstreetmap	.
+openstreetmap	est	une	carte	 mai 	 s 	 	aussi	un	wiki	.
+ zoome 	 z 	 	,	ce	truc	carré	est	un	théatre	,	où	nous	nous	 trouv 	 ons 	 	 actuel 	 lement 	 	,	le	théatre	terrace	.	il	 n' 	 y 	 	avait	pas	de	nom	dessus	.
+alors	je	suis	allé	dans	le	mode	édition	,	j'ai	 sélection 	 né 	 	le	théatre	,	j'ai	pu	 r 	 ajoute 	 r 	 	en	bas	le	nom	,	puis	 sauve 	 garde 	 r 	 	,	 e 	 t 	 	 main 	 tenant 	 	si	vous	allez	sur	_UNK_	,	 retrouve 	 z 	 	 ce 	 t 	 	endroit	,	vous	 ver 	 rez 	 	que	le	théatre	terrace	a	 main 	 tenant 	 	un	nom	.
+j'ai	fait	ça	.	moi	!
+j'ai	fait	ça	sur	la	carte	.	je	viens	de	faire	ça	.
+ e 	 t 	 	vous	 s 	 avez 	 	quoi	.
+street	map	n'est	constitué	que	de	 personne 	 s 	 	ayant	 r 	 ajout 	 é 	 	leur	petite	touche	.
+ e 	 t 	 	cela	 cré 	 e 	 	une	 re 	 s 	 source 	 	incroyable	car	chacun	apporte	 s 	 a 	 	 re 	 s 	 source 	 	.
+``	linked	data	``	c'est	 exacte 	 ment 	 	ça	.
+ce	 s 	 ont 	 	des	 gen 	 s 	 	qui	 produis 	 ent 	 	peu	,	 mai 	 s 	 	 do 	 nt 	 	le	peu	est	connecté	avec	tout	le	reste	.
+ voil 	 à 	 	comment	le	``	linked	data	``	fonctionne	.
+vous	faites	 vot 	 re 	 	part	,	 e 	 t 	 	tout	les	 autre 	 s 	 	aussi	.
+vous	 n' 	 avez 	 	peut	-	être	pas	beaucoup	de	 donné 	 es 	 	vous	-	même	,	 mai 	 s 	 	vous	 pouv 	 ez 	 	en	 demande 	 r 	 	.
+on	vient	de	 s' 	 y 	 	 entraine 	 r 	 	.
+ voil 	 à 	 	.	``	linked	data	``	est	énorme	.
+je	viens	de	vous	en	expliquer	une	petite	 parti 	 e 	 	.
+il	y	a	des	 donné 	 es 	 	dans	tout	les	 aspect 	 s 	 	de	 no 	 s 	 	 vie 	 s 	 	,	dans	tout	les	 aspect 	 s 	 	du	travail	 e 	 t 	 	des	 loisir 	 s 	 	.
+ e 	 t 	 	 l' 	 important 	 	n'est	pas	 unique 	 ment 	 	le	nombre	de	 source 	 s 	 	des	 donné 	 es 	 	,	c'est	de	pouvoir	 tout 	 es 	 	les	 re 	 lier 	 	.
+ e 	 t 	 	quand	vous	 connecte 	 z 	 	les	 donné 	 es 	 	,	vous	 obten 	 ez 	 	une	puissance	qui	 n'exist 	 e 	 	pas	avec	le	web	des	 document 	 s 	 	.
+vous	en	 obten 	 ez 	 	un	pouvoir	énorme	.
+nous	 arriv 	 ons 	 	à	une	étape	où	tous	ceux	qui	 pense 	 nt 	 	que	c'est	une	bonne	idée	 doive 	 nt 	 	agir	.
+ e 	 t 	 	il	y	a	beaucoup	de	 personne 	 s 	 	à	ted	qui	font	des	 chose 	 s 	 	même	 s' 	 il 	 	 n' 	 y 	 	a	pas	un	retour	immédiat	sur	investissement	,	car	cela	_UNK_	 unique 	 ment 	 	 lors 	 que 	 	beaucoup	de	 personne 	 s 	 	 l' 	 auront 	 	fait	.
+ils	le	 fe 	 ront 	 	car	c'est	le	 gen 	 re 	 	de	 personne 	 s 	 	qui	font	des	 chose 	 s 	 	 qu'il 	 s 	 	 s 	 e 	 raient 	 	bon	que	tout	le	monde	fasse	.
+cela	 s' 	 appelle 	 	``	linked	data	``	.
+je	veux	que	vous	le	 fa 	 ssiez 	 	,	je	veux	que	vous	le	 demand 	 iez 	 	,	 e 	 t 	 	je	pense	que	 ce 	 tte 	 	idée	mérite	 d' 	 être 	 	 partag 	 ée 	 	.
+merci	.
+
